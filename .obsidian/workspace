@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/yet another page.md",
+            "file": "pages/yaml.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/yet another page.md",
+                "file": "pages/yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/yet another page.md"
+                "file": "pages/yaml.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
+    "pages/yaml.md",
     "pages/yet another page.md",
     "pages/testing frontmatter and yaml.md",
     "pages/new page created in logseq.md",
