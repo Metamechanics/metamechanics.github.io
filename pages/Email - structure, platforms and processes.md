@@ -1,0 +1,37 @@
+alias:: Email, email
+
+- Platforms:
+	- Gmail
+	- Mail
+	- Newton
+	- Unibox
+	- Outlook
+	- Spark ?
+- Domains
+	- @metamechanic.info
+	- @gmail
+	- @outlook
+	- @duus.xyz
+	- @futuresforesight.education
+	- @enoughforall.net / org
+	- @eq.edu.au
+	-
+- alias
+	- adam
+	- info
+	- news
+	- social
+	- nuspa
+	- 'domain' @ domain.com
+	- acduu0
+- Questions:
+	- Which platforms for which domains?
+	- Which aliases for which purposes, audiences?
+- Purposes
+	- Umbrella
+	- Specific
+	- Identity-based
+	- Isolation eg. school
+	- Some overlap eg. school + efa ?
+	-
+	-

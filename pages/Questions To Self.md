@@ -1,0 +1,6 @@
+- LATER I've forgotten what I wanted to ask myself
+- TODO Can I update Logseq on school laptop/network and push to my published Logseq page?
+- TODO Can I create a "Question" icon/function a la TODO and tick when I have it answered.
+- TODO /todo What is keyboard shortcut for new note?
+- TODO how to code particular pages eg. this one, so that every new bullet is automatically a todo? (or a question etc)
+-
