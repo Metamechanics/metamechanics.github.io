@@ -5,5 +5,11 @@
   "newFileFolderPath": "pages",
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "defaultViewMode": "preview"
 }
