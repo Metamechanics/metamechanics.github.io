@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/test obsidian page link.md",
+            "file": "pages/new page created in logseq.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/test obsidian page link.md",
+                "file": "pages/new page created in logseq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
+    "pages/new page created in logseq.md",
     "pages/test obsidian page link.md",
     "journals/2022_01_06.md",
     "pages/Daily Template.md",
