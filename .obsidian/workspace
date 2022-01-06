@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "pages/test obsidian page link.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
