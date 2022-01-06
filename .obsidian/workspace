@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Intro page template.md",
+            "file": "journals/2022_01_06.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Intro page template.md",
+                "file": "journals/2022_01_06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Intro page template.md"
+                "file": "journals/2022_01_06.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
+    "journals/2022_01_06.md",
     "Templates/Intro page template.md",
     "4. Enough For All/Welcome to Enough For All.md",
     "+Start here.md",
@@ -107,7 +108,6 @@
     "pages/testing frontmatter and yaml.md",
     "pages/new page created in logseq.md",
     "pages/test obsidian page link.md",
-    "journals/2022_01_06.md",
     "pages/Daily Template.md"
   ]
 }
