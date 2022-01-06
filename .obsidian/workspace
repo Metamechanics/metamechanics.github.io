@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journals/2022_01_06.md",
-            "mode": "preview",
+            "file": "pages/test obsidian page link.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2022_01_06.md",
+                "file": "pages/test obsidian page link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +84,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
+    "pages/test obsidian page link.md",
     "journals/2022_01_06.md",
     "pages/Daily Template.md",
     "pages/Email - structure, platforms and processes.md",
