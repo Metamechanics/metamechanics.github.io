@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/testing frontmatter and yaml.md",
+            "file": "pages/yet another page.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/testing frontmatter and yaml.md",
+                "file": "pages/yet another page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/testing frontmatter and yaml.md"
+                "file": "pages/yet another page.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
+    "pages/yet another page.md",
     "pages/testing frontmatter and yaml.md",
     "pages/new page created in logseq.md",
     "pages/test obsidian page link.md",
