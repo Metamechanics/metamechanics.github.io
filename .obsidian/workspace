@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Daily Template.md",
-            "mode": "source",
+            "file": "journals/2022_01_06.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Daily Template.md",
+                "file": "journals/2022_01_06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6b8e27ffb043438a",
   "lastOpenFiles": [
+    "journals/2022_01_06.md",
     "pages/Daily Template.md",
     "pages/Email - structure, platforms and processes.md",
     "pages/Projects.MetaMechanic.md",
