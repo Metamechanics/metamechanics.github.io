@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "d141422d31ed5364",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b8e27ffb043438a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Daily Template.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70634b05a108f488",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ca416d6fca29fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "698b930bd4629dda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "80f60a924d8ba688",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2a20cace508b0e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ab452fc85c79c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a0578a1ebc7249",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Daily Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b8e27ffb043438a",
+  "lastOpenFiles": [
+    "pages/Daily Template.md",
+    "pages/Email - structure, platforms and processes.md",
+    "pages/Projects.MetaMechanic.md",
+    "README.md"
+  ]
+}
