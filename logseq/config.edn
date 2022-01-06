@@ -173,4 +173,6 @@
  ;; E.g. #{:created-at :updated-at}
  ;; :block-hidden-properties #{}
  }
-;; added code from
+;; added code from https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185
+;; in order to make logseq play nice with obsidian
+:page-name-order "file"
