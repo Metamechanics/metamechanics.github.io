@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pages/new page created in logseq.md"
+              }
             }
           }
         ]
