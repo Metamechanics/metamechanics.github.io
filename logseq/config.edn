@@ -162,6 +162,7 @@
  :journal/page-title-format "dd-MM-yyyy"
  :ui/show-brackets? false
  :favorites ["software, apps & web services i use, like & learn" "Task Master" "Questions To Self"]
+ :feature/enable-timetracking? false
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
