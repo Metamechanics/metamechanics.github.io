@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What does the website aim to Be in the world?.md",
+            "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md",
             "mode": "preview",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What does the website aim to Be in the world?.md",
+                "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What does the website aim to Be in the world?.md"
+                "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "0d9ef9efb3df927a",
   "lastOpenFiles": [
+    "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md",
     "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What does the website aim to Be in the world?.md",
     "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/Audience & Participants .md",
     "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/About EFA.md",
@@ -107,7 +108,6 @@
     "journals/2021_12_11.md",
     "journals/2022_01_06.md",
     "Templates/Intro page template.md",
-    "+Start here.md",
-    "pages/yaml.md"
+    "+Start here.md"
   ]
 }
