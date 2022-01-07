@@ -3,7 +3,7 @@
 	- notes saved to "pages" and "journals" folder in Github parent folder on local drive
 	- do not include PDFs in LS
 		- they reside on local or Cloud
-		-
+		- Hook into pdfs
 - [[Obsidian]]
 	- with Juggl plug-in
 	- sliding panes plug-in ?
@@ -16,5 +16,7 @@
 - [[email]]
 - [[Platforms]]
 - PDF management
+	- [[Hook app]] into them
+	- DevonThink annotations?
 - [[Hook app]]
 -
