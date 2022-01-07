@@ -1,0 +1,1 @@
+Misconceptions Not a call to the miserably poor to pray for food, undertake superstition etc. Rather, a way of leveraging one’s own psychological power to best use material resources.

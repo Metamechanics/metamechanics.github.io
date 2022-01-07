@@ -1,0 +1,1 @@
+The purpose of EFA is to demonstrate that there is no need to fear because there is enough for all.

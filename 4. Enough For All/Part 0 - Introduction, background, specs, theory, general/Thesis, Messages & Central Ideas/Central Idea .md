@@ -1,0 +1,2 @@
+All investigative work begins with a feeling, at some level, that there is more to the story, there is an alternative, there is a better way.  
+The feeling or intuition that I have – my thesis, or hypothesis – is that we in the world create poverty out of abundance. We create poverty out of abundance by aggressively and excessively seeking fulfillment from objects outside ourselves.   This has the effect of a) failing to provide fufillment and b) creating lack for ourselves and others through misuse of resources.  Thus, diseases of poverty as well as affluence result.

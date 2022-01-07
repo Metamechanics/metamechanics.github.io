@@ -1,0 +1,1 @@
+The Millennium Development Goals  Eradicate extreme poverty and hunger Achieve universal primary education Promote gender equality and empower women Reduce child mortality Improve maternal health Combat HIV/AIDS, Malaria and other diseases Ensure environmental sustainability (energy, water, agriculture) Develop a Global Partnership for Development   

@@ -1,0 +1,1 @@
+Acknowledgements and Inspirations  Family Sohail Inayatullah Richard Slaughter Ken Wilber Gary Renard Ken Wapnick Foundation for Inner Peace UNDP FAO World Bank Michael Squirrel Jeremy Drinnan Neil Herdegen 
