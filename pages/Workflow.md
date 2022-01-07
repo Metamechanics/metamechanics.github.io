@@ -5,7 +5,7 @@
 		- they reside on local or Cloud
 		- Hook into pdfs
 - [[Obsidian]]
-	- with Juggl plug-in
+	- with [[Juggl plug-in]]
 	- sliding panes plug-in ?
 	- duplicate and polish Logseq notes for public consumption
 		- place into dominant project folder in Obsidian
