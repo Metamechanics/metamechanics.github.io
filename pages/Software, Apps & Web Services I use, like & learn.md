@@ -43,7 +43,7 @@ alias:: platforms, SAWS
 	- [[Readwise]]
 	-
 - [[Finance & Investing]]
-	-
+	- [[Sharesight]]
 - [[Audio-Visual]]
 	- [[Netflix]]
 	- [[Gaia]]
@@ -61,6 +61,9 @@ alias:: platforms, SAWS
 	- [[Elsevier.com]]
 	- [[DevonThink]]
 - [[Task Management tools]]
+	- [[OmniFocus 3]]
+	- [[Things]]
+	-
 - [[Presentations]]
 	- [[reveal.js]]
 	- [[Slid.es]]
