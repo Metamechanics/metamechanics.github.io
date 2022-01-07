@@ -20,7 +20,7 @@ alias:: platforms, SAWS
 - [[Writing & Publishing]]
 	- [[Scrivener]]
 	- [[Twine]]
-	-
+	- [[Obsidian]]
 - [[Website Tools]]
 	- [[Ghost]]
 	- [[Obsidian Publish]]
@@ -36,11 +36,14 @@ alias:: platforms, SAWS
 	- [[Juggl plug-in]] for [[Obsidian]]
 	-
 - [[Language Learning]]
+	- [[Duolingo]]
+	- [[ACIM-LOTE]]
 - [[Messaging]]
 - [[Reading & Learning]]
 	- [[Readwise]]
 	-
 - [[Finance & Investing]]
+	-
 - [[Audio-Visual]]
 	- [[Netflix]]
 	- [[Gaia]]
