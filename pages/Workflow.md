@@ -1,13 +1,14 @@
 - [[Logseq]]
 	- primary workspace
-	- notes saved to "pages" and "journals" folder in Github parent folder on
-- [[Notion]]
+	- notes saved to "pages" and "journals" folder in Github parent folder on local drive
 - [[Obsidian]]
 	- with Juggl plug-in
 	- sliding panes plug-in ?
+- [[Notion]]
 - [[Github]]
 - [[Cloudflare]]
 - [[email]]
 - [[Platforms]]
--
+- PDF
+- [[Hook app]]
 -
