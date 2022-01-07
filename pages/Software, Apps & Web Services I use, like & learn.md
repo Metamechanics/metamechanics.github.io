@@ -79,5 +79,7 @@ alias:: platforms, SAWS
 	- [[The Guardian newspaper]]
 	- [[Pocket]]
 	- [[Google feed]]
+- [[Software & App Management]]
+	- [[Yourstack]]
 	-
 	-
