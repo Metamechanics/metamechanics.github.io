@@ -1,11 +1,15 @@
 - [[Logseq]]
 	- primary workspace
 	- notes saved to "pages" and "journals" folder in Github parent folder on local drive
+	- do not include PDFs in LS
+		- they reside on local or Cloud
+		-
 - [[Obsidian]]
 	- with Juggl plug-in
 	- sliding panes plug-in ?
 	- duplicate and polish Logseq notes for public consumption
-		- place into dominant
+		- place into dominant project folder in Obsidian
+	- do not include PDFs in Obs
 - [[Notion]]
 - [[Github]]
 - [[Cloudflare]]
