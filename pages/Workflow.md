@@ -4,11 +4,13 @@
 - [[Obsidian]]
 	- with Juggl plug-in
 	- sliding panes plug-in ?
+	- duplicate and polish Logseq notes for public consumption
+		- place into dominant
 - [[Notion]]
 - [[Github]]
 - [[Cloudflare]]
 - [[email]]
 - [[Platforms]]
-- PDF
+- PDF management
 - [[Hook app]]
 -
