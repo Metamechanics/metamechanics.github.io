@@ -1,6 +1,8 @@
 - [[Logseq]]
 - [[Notion]]
 - [[Obsidian]]
+	- with Juggl plug-in
+	-
 - [[Github]]
 - [[Cloudflare]]
 - [[email]]
