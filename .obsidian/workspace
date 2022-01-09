@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d9ef9efb3df927a",
+        "id": "0604a29369e611de",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -97,7 +90,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d9ef9efb3df927a",
+  "active": "0604a29369e611de",
   "lastOpenFiles": [
     "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What is Enough For All and How did it come about?.md",
     "4. Enough For All/Part 0 - Introduction, background, specs, theory, general/About EFA/What does the website aim to Be in the world?.md",
