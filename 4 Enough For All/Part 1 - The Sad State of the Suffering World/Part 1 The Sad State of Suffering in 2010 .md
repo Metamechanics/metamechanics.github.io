@@ -1,0 +1,1 @@
+Part 1 The Sad State of Suffering in 2010 Empty Searching Enough Data General and Global Indices HDI HDI – Energy, HDI – other parameter curves GINI HDI – Suicide/Anti-depressants Happiness & Well-being indices MDG’s – what they are and report on their progress

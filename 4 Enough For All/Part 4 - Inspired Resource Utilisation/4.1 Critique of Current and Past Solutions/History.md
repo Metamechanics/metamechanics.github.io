@@ -1,0 +1,1 @@
+History What have been the attempts in history to appease insufficiency/create more What did they promise  How well did they work  What were there attributed reasons of failure  How did they fail  How did they succeed  What were their limitations

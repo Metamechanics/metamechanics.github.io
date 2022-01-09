@@ -1,0 +1,23 @@
+Communism 
+Science 
+Socialism
+Religion
+Capitalism 
+Free-market 
+Totalitarianism 
+Anarchy 
+Environmentalism  
+Analysis of these using 
+CLA 
+Integral 
+NDM  
+Analogy between common democratic politics and NDM v Traditional metaphysics, in that eg. Labour v Liberal is no real choice at all. Choosing between the same, effectively.  
+Transformation v Change 
+Genuine Alternatives vs Repackaged, Recycled Failed Systems 
+Fixing Illusions vs Healing the Dream  
+Determine characteristics of prevailing thought, wrt science and resource policy. 
+Separateness 
+Competition 
+Scarcity 
+Fundamental evil/baseness 
+Absolute right/wrong   

@@ -1,0 +1,8 @@
+Empty Searching Enough Data 
+Let’s start our investigation into poverty, scarcity and sufficiency by examining the current state of global well-being. How do we measure up as a world  We’ll begin by looking at general health and well-being indicators before exploring statistics of some specific issues and sectors. 
+General Indices  
+HDI  
+HDI – Energy, 
+HDI – other parameter curves  
+GINI  
+HDI – Suicide/Anti-depressants  Happiness & Well-being indices  MDG’s and report on their progress    

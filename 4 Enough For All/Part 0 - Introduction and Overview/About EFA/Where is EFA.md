@@ -1,0 +1,1 @@
+Where does EFA treat and cover  Here… and there. Global coverage with a global treatment.  Hearts, minds, bellies, pockets around the world, now and in the future  In the ether and in the famine (the psycho-emotional spheres as well as the tangible physical)  In the conflict and disaster ravaged zone as well as in the conflicted, turbulent mind
