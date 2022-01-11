@@ -1,1 +1,0 @@
-Critique of Historical Pseudo-Solutions
