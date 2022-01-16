@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false
+}

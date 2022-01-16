@@ -1,0 +1,20 @@
+- Figure out how best to link translations
+	- Panes side by side? eg. ACIM on left, Un Curso de Milagros on Right
+	- Link at sentence level or paragraph level?
+- Random note generator?
+	- Blocks?
+	- Sentences?
+	- Lessons
+	- Key quotes
+- Templates
+	- What is needed?
+		- Lesson
+		- Translation
+			- Language property
+			- Sentence reference
+- How to stitch together block-paragraphs into sections, and sections into chapters etc
+- How to generate glossary
+	- Distinguish glossary terms from other pages/note
+- Auto-numbering from parent properties ?
+- Publish to Obsidian publish, eventually?
+-

@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "d113d35a6f49c267",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fd1eae562cc610f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Incomplete & In-Progress Notes/T-27.VII. The Dreamer of the Dream..md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdd6a91eb004c61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25a286f09ec9350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34bc31985a04b72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3211df12b313fb19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "saviour",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "8b5a83c285cb78db",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e9d031f84fe583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e298efea1f0e83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Incomplete & In-Progress Notes/T-27.VII. The Dreamer of the Dream..md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa45cfd71c4aee2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Incomplete & In-Progress Notes/T-27.VII. The Dreamer of the Dream..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5fd1eae562cc610f",
+  "lastOpenFiles": [
+    "Incomplete & In-Progress Notes/T-27.VII. The Dreamer of the Dream..md",
+    "Incomplete & In-Progress Notes/8. What Is the Real World.md",
+    "Incomplete & In-Progress Notes/1. Mind - Spirit.md",
+    "Lesson 16. I have no neutral thoughts..md",
+    "trivial.md",
+    "Terms/E/extension.md",
+    "idle.md",
+    "likeness.md",
+    "idle thoughts.md",
+    "Key Concepts, Quotes & Passages/There are no neutral thoughts..md"
+  ]
+}
