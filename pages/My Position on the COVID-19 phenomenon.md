@@ -1,4 +1,5 @@
 - [[Not all vaccines are created equal.]]
 - Legitimate virus, not a hoax
-- Likely manufactured or engineered; not of natural zoonotic origin
+- Likely manufactured or engineered; not innately of natural zoonotic origin
+	- Wuhan lab leak
 -
