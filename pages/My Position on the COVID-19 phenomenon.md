@@ -3,3 +3,4 @@
 - Likely manufactured or engineered; not innately of natural zoonotic origin
 	- Wuhan lab leak
 -
+- [COVID-19 Mortality | Australian Bureau of Statistics](https://www.abs.gov.au/articles/covid-19-mortality-1) #ABS
