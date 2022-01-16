@@ -3,5 +3,6 @@
 - Likely manufactured or engineered; not innately of natural zoonotic origin
 	- Wuhan lab leak
 - #[[Questions To Self]] about [[COVID-19]]
-	- What is the death rate by age bracket compared to pre-c
+	- What is the death rate by age bracket compared to pre-COVID?
+	-
 - [COVID-19 Mortality | Australian Bureau of Statistics](https://www.abs.gov.au/articles/covid-19-mortality-1) #ABS
