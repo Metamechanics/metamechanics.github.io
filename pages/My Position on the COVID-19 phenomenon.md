@@ -1,0 +1,3 @@
+- [[Not all vaccines are created equal.]]
+- Legitimate virus, not a hoax
+- Likely manufactured
