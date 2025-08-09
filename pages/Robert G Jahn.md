@@ -7,7 +7,6 @@ creations::
 tags:: person
 rel-projects::
 
-
 -
 -
 title:: Robert G. Jahn

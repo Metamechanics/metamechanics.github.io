@@ -5,5 +5,4 @@ people:: [[Tom Bearden]], [[Paul LaViolette]]
 see-also:: [[static ether]]
 rel-projects::
 
-
 -

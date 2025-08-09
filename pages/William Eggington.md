@@ -7,5 +7,4 @@ creations:: [[Thinking with Borges]]
 tags:: person
 rel-projects::
 
-
 -

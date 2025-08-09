@@ -8,8 +8,6 @@ rel-country::
 tags:: person
 rel-projects::
 
-
-
 - [Massimo Pigliucci – Author, Professor of Philosophy](https://massimopigliucci.org/)
 - ### About
 	- https://massimopigliucci.org/

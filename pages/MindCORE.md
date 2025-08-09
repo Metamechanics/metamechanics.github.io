@@ -6,7 +6,6 @@ creations::
 tags:: organisation, #[[cognitive science]] 
 rel-projects::
 
-
 - [[Mapping the Mind | Our Foundations and Frontiers](https://strategic-plan.sas.upenn.edu/emerging-academic-opportunities/advancing-integrated-knowledge/mapping-mind)](https://mindcore.sas.upenn.edu/about/)
 -
 - **Mission**

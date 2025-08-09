@@ -6,8 +6,6 @@ creations::
 tags:: organisation, #competitor #[[similar product]]
 rel-projects::
 
-
-
 - [Enough for All in Calgary](https://enoughforall.ca/)
 - Should be called "Enough for Calgary"
 -

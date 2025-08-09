@@ -18,7 +18,6 @@ rel-country::
 tags:: person
 rel-projects::
 
-
 - [About | FRANKTIPLER.COM](https://www.franktipler.com/)
 - [Frank Tipler - Closer To Truth](https://closertotruth.com/contributor/frank-tipler/)
 -

@@ -6,6 +6,5 @@ creations::
 tags:: organisation
 rel-projects::
 
-
 - [- OFFICIAL WEBSITE - The University of Science and Philosophy](https://www.philosophy.org/home.html#/)
 -

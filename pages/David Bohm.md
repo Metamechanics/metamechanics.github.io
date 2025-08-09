@@ -7,7 +7,6 @@ creations:: [[Wholeness and the Implicate Order]]
 tags:: person
 rel-projects::
 
-
 -
 - [[Holomovement]]
 - [[Implicate Order]]

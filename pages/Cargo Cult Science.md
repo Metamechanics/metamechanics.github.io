@@ -5,8 +5,6 @@ URL::
 tags:: article, reference, #pseudoscience
 rel-projects::
 
-
-
 - [Cargo Cult Science](https://calteches.library.caltech.edu/51/2/CargoCult.htm)
 	- **Some remarks on science, pseudoscience, and learning how to not fool yourself. Caltech’s 1974 commencement address.**
 -

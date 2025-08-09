@@ -6,7 +6,6 @@ creations::
 tags:: organisation
 rel-projects::
 
-
 - [Information is Beautiful](https://informationisbeautiful.net/)
 -
 -

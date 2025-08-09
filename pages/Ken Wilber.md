@@ -7,5 +7,4 @@ creations:: [[AQAL Integral theory]]
 tags:: person
 rel-projects::
 
-
 -

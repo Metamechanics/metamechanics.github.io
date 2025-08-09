@@ -1,8 +1,7 @@
 - alias::
   tags:: 
   rel-projects:: [[AMT hyperbook]]
-  parent-blocks:: 
-  child-blocks::
+ 
 -
 - Transparency
   I am an ACIM student. My study & practice of ACIM has inspired me to write this book.

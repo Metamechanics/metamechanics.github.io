@@ -5,7 +5,6 @@ URL::
 tags:: article, reference
 rel-projects::
 
-
 -
 - Why Is A Course in Miracles Christian?
 - One of the more frequently asked questions regarding A Course in Miracles is why, if its message claims to be universal, it comes within a Christian form, with Jesus’ identity as the source of the material explicitly manifest. This has posed problems for many of the Course’s students and would-be students. This group has included not only Jews who grew up midst Christian anti-semitism, but large num- bers of Christians for whom Jesus has become a strong anti-religious symbol. The answer to this question is found in the Course’s descrip- tion of the modus operandi of the Holy Spirit, Who corrects our errors in the forms in which they appear, for forgiveness can only heal in the form in which the unforgiveness was expressed. By joining us in the world of our mistakes, the Holy Spirit gently corrects our illusions and leads us beyond them to the truth.

@@ -7,7 +7,6 @@ creations::
 tags:: person #[[Ancient Egypt]] #geopolymer 
 rel-projects::
 
-
 - [English – Joseph Davidovits](https://www.davidovits.info/english/)
 - geopolymer theory of artificial stone construction of pyramids and other megalithic sites (Andes)
 - #question How does he date the stone? Or does he abide with orthodox dating?

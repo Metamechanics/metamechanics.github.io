@@ -6,7 +6,6 @@ creations::
 tags:: organisation
 rel-projects::
 
-
 - [Geopolymer Institute – Promoting the geopolymer science since 1979](https://www.geopolymer.org/)
 -
 - [They came from America to build Easter Island – Geopolymer Institute](https://www.geopolymer.org/library/video/they-came-from-america-to-build-easter-island/) #toWatch

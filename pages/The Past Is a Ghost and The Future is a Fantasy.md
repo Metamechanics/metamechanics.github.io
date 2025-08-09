@@ -5,8 +5,6 @@ URL::
 tags:: article #time
 rel-projects::
 
-
-
 -
 - # The Past Is a Ghost and the Future a Fantasy
 

@@ -7,7 +7,6 @@ creations:: [[Closure Theory]]
 tags:: person
 rel-projects::
 
-
 - critic of philosophical realism
 -
 -

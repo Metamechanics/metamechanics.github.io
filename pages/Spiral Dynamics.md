@@ -2,7 +2,7 @@ alias::
 tags:: model, framework
 domain::
 people:: [[Clare Graves]], [[Don Beck]]
-organization:: [[Spiral Dynamics Foundation]]
+rel-org:: [[Spiral Dynamics Foundation]]
 see-also::
 rel-projects:: EFA
 

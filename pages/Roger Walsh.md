@@ -7,6 +7,5 @@ creations::
 tags:: person
 rel-projects::
 
-
 - was an early student or reader of #ACIM
 -

@@ -4,8 +4,6 @@ year::
 tags:: reference, chapter
 rel-projects::
 
-
-
 - [War Crimes: Causes, Excuses, and Blame | Oxford Academic](https://academic.oup.com/book/6887?login=false)
   collapsed:: true
 	- ## Abstract

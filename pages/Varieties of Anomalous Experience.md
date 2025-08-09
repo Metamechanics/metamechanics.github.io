@@ -1,5 +1,5 @@
 alias::
-editor:: [[Etzel Cardeña]] 
+editors:: [[Etzel Cardeña]] 
 year::
 tags:: book
 rel-projects:: #AMT [[Fresh Alternatives]] 

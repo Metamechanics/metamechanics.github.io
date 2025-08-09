@@ -7,7 +7,6 @@ creations:: [[The Black Swan]], [[Skin In The Game]], [[Antifragile]]
 tags:: person
 rel-projects::
 
-
 -
 - {{video https://youtu.be/2PnIP39miSs?si=9P7hFWsN7NzHEPdW}}
 - “A saying by the brothers Geoff and Vince Graham summarizes the ludicrousness of scale-free political universalism:

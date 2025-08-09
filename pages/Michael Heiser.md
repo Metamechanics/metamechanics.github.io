@@ -7,7 +7,6 @@ creations:: [[Why an Extraterrestrial God Appeals to Today's Culture]]
 tags:: person, #Mesopotomia #[[ancient languages]] #keyThinker #Christian #apologetics #theology #[[ancient text]], #debunking
 rel-projects::
 
-
 - [Sitchin Is Wrong - Home Page](https://www.sitchiniswrong.com/index.html)
 - [Challenge to Zechariah Sitchin, by Michael S. Heiser PhD | Alien Resistance](http://www.alienresistance.org/challenge-to-zechariah-sitchin-by-michael-s-heiser-phd/) #toWatch
 -

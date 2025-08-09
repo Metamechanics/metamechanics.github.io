@@ -7,7 +7,6 @@ creations:: [[The Resurrection of the Son of God]], [[Christian Origins and the 
 tags:: person
 rel-projects::
 
-
 - [NTWrightPage -](https://ntwrightpage.com/)
 - [N.T. Wright | Time](https://time.com/author/n-t-wright/)
 - [N. T. Wright - Wikipedia](https://en.wikipedia.org/wiki/N._T._Wright)

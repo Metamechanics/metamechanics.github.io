@@ -7,7 +7,6 @@ creations::
 tags:: person #collaborator #[[Project Collaboration Dream Team]] 
 rel-projects::
 
-
 - [Personal knowledge graphs and obsidian zettelkasten empowered by ai . - YouTube](https://www.youtube.com/watch?v=HgnopjBgbd0)
 - [Volodymyr Pavlyshyn – Medium](https://volodymyrpavlyshyn.medium.com/)
 - [Personal Knowledge Graphs in Obsidian | by Volodymyr Pavlyshyn | Medium](https://volodymyrpavlyshyn.medium.com/personal-knowledge-graphs-in-obsidian-528a0f4584b9)

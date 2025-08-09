@@ -1,10 +1,5 @@
 alias::
-type::
-enterprise:: [[Global Effort]]
 URL::
-Twitter::
-Facebook::
-Instagram::
-Pinterest::
+
 - Global Effort Network for Education, Research and Training in Energy
 -

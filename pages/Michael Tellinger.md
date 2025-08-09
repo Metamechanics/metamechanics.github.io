@@ -7,7 +7,6 @@ creations::
 tags:: person, [[Adam's calendar]] 
 rel-projects::
 
-
 - [Michael Tellinger - YouTube](https://www.youtube.com/channel/UCLF2DONV6JCJUs6eK6POaxg)
 - [Michael Tellinger](https://www.michaeltellinger.com/)
 -

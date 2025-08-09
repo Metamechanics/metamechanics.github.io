@@ -1,7 +1,7 @@
 alias:: circular economics
 tags::
 person::
-organization::
+rel-org::
 rel-projects:: [[EFA]]
 see-also::
 

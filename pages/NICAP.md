@@ -6,7 +6,6 @@ creations::
 tags:: organisation, [[UFO]] [[UAP]] 
 rel-projects::
 
-
 - [Official NICAP Web Site](https://www.nicap.org/)
 - [National Investigations Committee On Aerial Phenomena - Wikipedia](https://en.wikipedia.org/wiki/National_Investigations_Committee_On_Aerial_Phenomena)
 -

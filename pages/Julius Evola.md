@@ -7,7 +7,6 @@ creations:: [[Notes on the Third Reich]]
 tags:: person #keyThinker 
 rel-projects::
 
-
 - [Julius Evola: Key Concepts - YouTube](https://www.youtube.com/watch?v=34ffMAl6_B8)
 -
 - {{video https://www.youtube.com/watch?v=34ffMAl6_B8}}

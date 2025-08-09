@@ -4,7 +4,6 @@
   tags:: book
   rel-projects::
 
-
 -
 - 10% summary by Claude AI console
   collapsed:: true

@@ -8,6 +8,4 @@ rel-country::
 tags:: person, #panpsychism
 rel-projects::
 
-
-
 -

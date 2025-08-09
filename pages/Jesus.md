@@ -8,7 +8,6 @@
   tags:: person
   rel-projects::
 
-
 -
 - Jesus as moral example #[[Jordan Peterson]]?
 - Jesus as our Saviour #[[Wesley Huff]]

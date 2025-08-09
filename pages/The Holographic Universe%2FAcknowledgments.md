@@ -5,7 +5,6 @@ tags:: chapter, reference
 parent-book:: [[The Holographic Universe (book)]]
 rel-projects::
 
-
 -
 -
 - Writing is always a collaborative effort and many people have contributed to the production of this book in various ways. It is not possible to name them all, but a few who deserve special mention include:

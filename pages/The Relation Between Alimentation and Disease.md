@@ -4,7 +4,6 @@ year::
 tags:: book
 rel-projects::
 
-
 - see also: [[Anthony Chaffee]]
 - Salisbury of Salisbury steak
 - [The Relation of Alimentation and Diseases](https://justmeat.co/docs/the-relation-of-alimentation-and-disease-j-h-salisbury.pdf)

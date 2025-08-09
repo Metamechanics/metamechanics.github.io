@@ -7,7 +7,6 @@ creations::
 tags:: person, #[[Nobel Prize]]
 rel-projects::
 
-
 -
 - [[1506.06774] How observers create reality](https://arxiv.org/abs/1506.06774)
 - [[1108.4860] Biological Observer-Participation and Wheeler's 'Law without Law'](https://arxiv.org/abs/1108.4860)

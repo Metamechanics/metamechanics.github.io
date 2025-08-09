@@ -8,8 +8,6 @@ rel-country::
 tags:: person
 rel-projects::
 
-
-
 -
 - I wonder if Griffin underplays the power of myth in consciousness
 -

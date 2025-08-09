@@ -7,6 +7,5 @@ creations:: [[Understanding Ancient Mysteries: Archaeology, Pseudoarchaeology, a
 tags:: person
 rel-projects::
 
-
 - [Understanding Ancient Mysteries: Archaeology, Pseudoarchaeology, and the Importance of Archaeological Heritage – Traces](https://textbooks.whatcom.edu/tracesarchaeology/chapter/__pseudoarchaeology__/)
 - https://x.com/DSAArchaeology

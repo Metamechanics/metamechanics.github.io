@@ -7,6 +7,5 @@ creations::
 tags:: person
 rel-projects::
 
-
 - [[Petrie Museum of Egyptian Archaeology]]
 -

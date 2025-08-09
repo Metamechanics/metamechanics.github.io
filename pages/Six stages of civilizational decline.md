@@ -5,8 +5,6 @@ people:: [[John Glubb]]
 see-also::
 rel-projects::
 
-
-
 -
 - 250 year cycle of
 	- Pioneers

@@ -7,7 +7,6 @@ creations::
 tags:: person #keyThinker 
 rel-projects::
 
-
 -
 - [Amazon.com: Dewey B. Larson: books, biography, latest update](https://www.amazon.com/stores/Dewey-B.-Larson/author/B001KMUHBE?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true)
 -

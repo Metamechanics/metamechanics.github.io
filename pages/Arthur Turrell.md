@@ -7,5 +7,4 @@ creations:: [[Coding for Economists]]
 tags:: person
 rel-projects::
 
-
 - [Physics, economics, data science, & writing](https://aeturrell.com/)

@@ -8,6 +8,5 @@
   tags:: person
   rel-projects::
 
-
 - [The --daniel Papers | Reciprocal System of theory](https://reciprocalsystem.org/papers/daniel-phoenix-iii)
 -

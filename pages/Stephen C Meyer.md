@@ -7,7 +7,6 @@ creations::
 tags:: person #keyThinker 
 rel-projects::
 
-
 - #[[Philosophy of Science]] #[[Intelligent Design]] #[[God Hypothesis]]
 - [Stephen C. Meyer | Philosopher of Science](https://stephencmeyer.org/)
 - [[Return of the God Hypothesis]]

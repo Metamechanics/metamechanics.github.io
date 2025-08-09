@@ -7,7 +7,6 @@ creations:: [[Stealing from God]], [[I Don't Have Enough Faith to be an Atheist]
 tags:: person
 rel-projects::
 
-
 -
 - [[Critical Thinking - The Secret Weapon of Confident Christians]]
 -

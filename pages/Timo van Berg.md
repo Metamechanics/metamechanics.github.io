@@ -7,5 +7,4 @@ creations:: [[Rationale (app)]]
 tags:: person
 rel-projects::
 
-
 -

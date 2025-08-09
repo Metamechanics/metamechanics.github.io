@@ -4,6 +4,5 @@ year::
 tags:: book
 rel-projects::
 
-
 - [The Ultimate Hidden Truth of the World. . . - David Graeber](https://davidgraeber.org/books/the-ultimate-hidden-truth-of-the-world)
 -

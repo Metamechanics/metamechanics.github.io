@@ -7,7 +7,6 @@ creations:: [[Quantum - A guide for the perplexed]], [[Quantum Mechanics (book)]
 tags:: person, #[[quantum physics]], #hologram #keyThinker
 rel-projects::
 
-
 - [Professor Jim Al-Khalili CBE FRS Quantum physicist, author & broadcaster](https://jimal-khalili.com/)
 - [Books - Jim Al-Khalili](https://jimal-khalili.com/books/)
 - [[Quantum Biology and the Arrow of Time]]

@@ -6,8 +6,6 @@ creations::
 tags:: organisation
 rel-projects::
 
-
-
 - [Home - International Society for Science & Religion (ISSR)](https://www.issr.org.uk/)
 - ### Statement from the President
 	- “Welcome to the website of the International Society for Science and Religion (ISSR). The relationship between the sciences and the religions continues to attract a wide public interest, and the landscape of science and religion is dynamic and ever changing, ranging from cases of conflict to mutual dialogue and collaboration. The particular role of ISSR is to be a scholarly society that promotes rigorous research on and balanced understandings of two central cultural forces of yesterday and today.

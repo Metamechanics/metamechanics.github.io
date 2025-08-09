@@ -6,7 +6,6 @@ creations::
 tags:: organisation, [[Younger Dryas]], [[Younger Dryas Impact Hypothesis]] 
 rel-projects::
 
-
 -
 - see-also:: [[Comet Research Group]]
 -

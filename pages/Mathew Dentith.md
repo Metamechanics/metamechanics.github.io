@@ -8,7 +8,5 @@ rel-country::
 tags:: person
 rel-projects::
 
-
-
 - [Matthew Dentith - Comparative analysis of conspiracy theories in Europe](https://conspiracytheories.eu/member/matthew-dentith-ph-d/)
 -

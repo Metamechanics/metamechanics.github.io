@@ -4,5 +4,4 @@ year::
 tags:: book, #[[Climate change]] #[[climate skepticism]] #unorthodoxy
 rel-projects::
 
-
 -

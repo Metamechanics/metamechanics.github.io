@@ -7,6 +7,5 @@ creations:: [[The Poetry of Physics]]
 tags:: person
 rel-projects::
 
-
 - [Robert K. Logan | Evolution scientist | The Third Way of Evolution](https://www.thethirdwayofevolution.com/people/view/robert-k.-logan)
 -

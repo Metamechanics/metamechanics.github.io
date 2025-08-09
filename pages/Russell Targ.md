@@ -7,5 +7,4 @@ creations:: [[Limitless Mind]]
 tags:: person
 rel-projects::
 
-
 -

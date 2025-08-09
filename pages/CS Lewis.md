@@ -8,7 +8,6 @@
   tags:: person
   rel-projects::
 
-
 -
 - [[CS Lewis' Trilemma]]
 -

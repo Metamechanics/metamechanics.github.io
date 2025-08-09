@@ -7,6 +7,5 @@ creations::
 tags:: person
 rel-projects::
 
-
 - [Jaron Lanier | Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier)
 -

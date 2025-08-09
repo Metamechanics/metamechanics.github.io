@@ -7,7 +7,6 @@ creations::
 tags:: person
 rel-projects::
 
-
 -
 - [Matt Dillahunty - YouTube](https://www.youtube.com/@SansDeity)
 - [JORDAN PETERSON UNABLE TO DEFEND GOD AGAINST MATT DILLAHUNTY!? - YouTube](https://www.youtube.com/watch?v=D9l1lekEttY)

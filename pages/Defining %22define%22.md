@@ -1,9 +1,6 @@
 alias::
 tags:: 
-rel-projects:: [[AMT hyperbook]]
-parent-blocks:: [[Defining God]] 
-child-blocks::
-
+rel-projects:: [[AMT hyperbook]
 -
 - [DEFINE Definition & Meaning - Merriam-Webster](https://www.merriam-webster.com/dictionary/define)
 - 1

@@ -7,5 +7,4 @@ creations:: [[Life After Life]]
 tags:: person
 rel-projects::
 
-
 -

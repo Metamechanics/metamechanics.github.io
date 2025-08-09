@@ -5,7 +5,6 @@ URL:: https://www.youtube.com/@WorldofAntiquity
 tags:: vodcast, #orthodoxy #[[ancient history]] #pseudo-archaeology #pseudo-science 
 rel-projects::
 
-
 -
 - [How Joe Rogan Was Fooled by Graham Hancock - YouTube](https://www.youtube.com/watch?v=IeIj_rNYhCU)
 -

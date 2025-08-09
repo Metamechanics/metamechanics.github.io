@@ -7,7 +7,6 @@ creations::
 tags:: person
 rel-projects::
 
-
 - **Biography** (from [The Ra Contact: Teaching the Law of One (2 book series) Kindle Edition](https://www.amazon.com/gp/product/B07DYHGMMY/ref=x_gr_bb_series?caller=Goodreads&tag=x_gr_bb_series-20&binding=kindle_edition))
   collapsed:: true
 	- Don Elkins was born in Louisville, Kentucky in 1930. He held a BS and MS in mechanical engineering from the University of Louisville, as well as an MS in general engineering from Speed Scientific School. He was the founder and head of the University of Alaska’s mechanical engineering department in 1960-61, and was Professor of Physics and Engineering at the University of Louisville for twelve years from 1953-1965. In 1965 he left his position as tenured professor and became a Boeing 727 pilot for a major airline in order to devote himself more fully to UFO and paranormal research. He eventually became Captain and flew until his death in 1984. He also served with distinction in the U.S. Army as a Master Sergeant during the Korean War.

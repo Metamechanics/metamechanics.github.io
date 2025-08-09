@@ -5,5 +5,4 @@ URL:: https://originsproject.org/
 tags:: podcast, vodcast, #orthodoxy 
 rel-projects::
 
-
 -

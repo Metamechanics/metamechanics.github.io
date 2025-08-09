@@ -8,7 +8,6 @@
   tags:: person
   rel-projects::
 
-
 -
 - solar activity theory of cataclysm
 -

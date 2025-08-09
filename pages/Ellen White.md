@@ -7,5 +7,4 @@ creations::
 tags:: person
 rel-projects::
 
-
 - #psychic

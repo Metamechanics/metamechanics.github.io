@@ -4,6 +4,4 @@ year:: 2007
 tags:: book
 rel-projects::
 
-
-
 -

@@ -5,8 +5,6 @@ URL:: https://nautil.us/making-friends-with-your-past-and-future-selves-1171997/
 tags:: article, reference
 rel-projects::
 
-
-
 -
 - Making Friends with Your Past and Future Selves
 - It’s what psychologists call self-continuity, and can improve your health and well-being.

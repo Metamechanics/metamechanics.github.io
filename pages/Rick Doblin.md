@@ -7,5 +7,4 @@ creations:: [[Manifesting Minds]]
 tags:: person
 rel-projects::
 
-
 -

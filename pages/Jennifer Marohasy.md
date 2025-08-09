@@ -7,7 +7,6 @@ creations::
 tags:: person, #skeptic #unorthodoxy, #keyThinker #[[critical thinking]]
 rel-projects::
 
-
 - [About - Jennifer Marohasy](https://jennifermarohasy.com/about/)
 - [Jennifer Marohasy - Scientist, Author and Speaker](https://jennifermarohasy.com/)
 -

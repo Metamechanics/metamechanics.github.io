@@ -1,9 +1,8 @@
 alias::
 tags:: #AMT #God #definition #idols #semantics #disambiguation 
 rel-projects:: [[AMT hyperbook]]
-parent-blocks::   
-child-blocks::
 see-also::
+
 - God
 	- The Absolute.
 	- The Limitless. The Infinite.

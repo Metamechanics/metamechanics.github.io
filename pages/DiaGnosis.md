@@ -1,5 +1,4 @@
 alias:: diagnosis
-type::
 
 tags:: Knowledge Cartography, #myProject #map
 - The fundamental software for my use

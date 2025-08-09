@@ -5,6 +5,5 @@ people::
 see-also::
 rel-projects::
 
-
 - see-also:: [[universe as simulation]]
 -

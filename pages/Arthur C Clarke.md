@@ -7,7 +7,6 @@ creations::
 tags:: person
 rel-projects::
 
-
 -
 - "Any sufficiently advanced technology is indistinguishable from magic.” #quote #AAAC #X-Science
 -

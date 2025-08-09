@@ -8,7 +8,6 @@ rel-country::
 tags:: person
 rel-projects::
 
-
 - [Marinus Anthony van der Sluijs - Books and Publications Spotlight | Lulu](https://www.lulu.com/spotlight/mythopedia/)
 - [(6) Marinus Anthony van der Sluijs | ResearchGate](https://www.researchgate.net/profile/Marinus-Van-Der-Sluijs)
 - [(64) Marinus Anthony Van der Sluijs - Academia.edu](https://independent.academia.edu/MarinusAnthonyVanderSluijs)

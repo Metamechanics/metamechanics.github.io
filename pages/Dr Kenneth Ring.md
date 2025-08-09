@@ -7,7 +7,6 @@ creations:: [[Life at Death - A Scientific Investigation of the Near-Death Exper
 tags:: person
 rel-projects::
 
-
 - [The Official Website of Dr. Ken Ring](http://kenring.org/)
 - [Life at Death: Ring, Kenneth: 9780688012533: Amazon.com: Books](https://www.amazon.com/dp/0688012531/?tag=iandsorg-20)
 -

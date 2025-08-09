@@ -76,7 +76,6 @@ description:: templates within Logseq for internal use
   see-also::
   rel-projects::
 
-
 - alias::
   author::
   year::
@@ -92,7 +91,6 @@ description:: templates within Logseq for internal use
   tags:: article
   template:: article-ref-template
   rel-projects::
-
 
 - alias::
   creators::
@@ -110,7 +108,6 @@ description:: templates within Logseq for internal use
   template:: doco-template
   rel-projects::
 
-
 - alias::
   URL::
   org-type::
@@ -119,7 +116,6 @@ description:: templates within Logseq for internal use
   tags:: organisation
   template:: org-template
   rel-projects::
-
 
 - alias::
   URL::
@@ -132,7 +128,6 @@ description:: templates within Logseq for internal use
   template:: person-template
   rel-projects::
 
-
 - alias::
   URL::
   rel-org::
@@ -140,7 +135,6 @@ description:: templates within Logseq for internal use
   tags:: website
   template:: website-template
   rel-projects::
-
 
 - alias::
   source::
@@ -431,7 +425,7 @@ description:: templates within Logseq for internal use
   template:: AMTbookEntry-template
   tags::
   rel-projects:: [[AMT hyperbook]]
-  parent-blocks::
+  ::
   child-blocks::
 - alias::
   template:: AMT-misconception-template

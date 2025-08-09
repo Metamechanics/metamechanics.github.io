@@ -7,5 +7,4 @@ creations:: [[The Invention of the Land of Israel]]
 tags:: person
 rel-projects::
 
-
 -

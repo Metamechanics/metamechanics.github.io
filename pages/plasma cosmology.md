@@ -5,7 +5,6 @@ people::
 see-also:: [[Plasma Universe]]
 rel-projects::
 
-
 -
 - [Plasma Cosmology .net](https://www.plasmacosmology.net/)
 - not quite the same as [[electric universe]]

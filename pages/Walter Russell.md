@@ -7,7 +7,6 @@ creations:: [[The Universal One]]
 tags:: person, #t.o.e, #keyThinker 
 rel-projects::
 
-
 - [Discovering Walter Russell: The Forgotten Renaissance Man of the 20th Century - YouTube](https://www.youtube.com/watch?v=lTL5yk1ZLPQ)
 - [The Universal One - Walter Russell - Full Audio Book - YouTube](https://www.youtube.com/watch?v=qrKnLSn70F0)
 -

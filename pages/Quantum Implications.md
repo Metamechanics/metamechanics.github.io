@@ -5,5 +5,4 @@ year::
 tags:: book, [[quantum mechanics]]
 rel-projects::
 
-
 -

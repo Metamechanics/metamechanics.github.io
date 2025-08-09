@@ -5,6 +5,5 @@ URL:: https://penntoday.upenn.edu/news/does-more-money-correlate-greater-happine
 tags:: article, reference
 rel-projects::
 
-
 - [Does more money correlate with greater happiness? | Penn Today](https://penntoday.upenn.edu/news/does-more-money-correlate-greater-happiness-Penn-Princeton-research)
 -

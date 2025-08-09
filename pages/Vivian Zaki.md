@@ -8,6 +8,5 @@ rel-country::
 tags:: person
 rel-projects::
 
-
 - [Dr. Vivian Zaki, Ph.D. | Sacred Tour Expert](https://www.sacredearthjourneys.ca/tour-leader/dr-vivian-zaki-phd)
 -

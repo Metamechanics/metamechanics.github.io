@@ -4,7 +4,6 @@ year::
 tags:: song, lyrics, metaphor, [[renting vs buying]]
 rel-projects::
 
-
 -
 - [Verse 1]
   I haven't ever really found a place that I call home

@@ -5,7 +5,6 @@ tags:: chapter, reference
 parent-book:: [[The Holographic Universe (book)]]
 rel-projects::
 
-
 -
 -
 - In the movie Star Wars, Luke Skywalker's adventure begins when a beam of light shoots out of the robot Artoo Detoo and projects a miniature three-dimensional image of Princess Leia. Luke watches spellbound as the ghostly sculpture of light begs for someone named Obi-wan Kenobi to come to her assistance. The image is a hologram, a three-dimensional picture made with the aid of a laser, and the technological magic required to make such images is remarkable. But what is even more astounding is that some scientists are beginning to believe the universe itself is a kind of giant hologram, a splendidly detailed illusion no more or less real than the image of Princess Leia that starts Luke on his quest.

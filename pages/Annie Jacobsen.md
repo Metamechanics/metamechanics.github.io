@@ -7,5 +7,4 @@ creations:: [[Nuclear War (book)]], [[Phenomena (book)]]
 tags:: person
 rel-projects::
 
-
 -

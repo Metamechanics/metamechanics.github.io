@@ -4,7 +4,6 @@ year::
 tags:: book
 rel-projects::
 
-
 -
 - # The Naked Bible
 

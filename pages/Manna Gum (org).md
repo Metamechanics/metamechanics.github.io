@@ -6,8 +6,6 @@ creations::
 tags:: organisation
 rel-projects::
 
-
-
 - [Home - Manna Gum](https://mannagum.org.au/)
 - [Manna Matters - Manna Gum](https://mannagum.org.au/resources/manna-matters/) - economics in the Bible,
 	- [Post-capitalism by Design not Disaster - Manna Gum](https://mannagum.org.au/articles/Post-capitalism-by-Design-not-Disaster)

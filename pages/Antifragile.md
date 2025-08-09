@@ -4,8 +4,6 @@ year::
 tags:: book, #antifragility
 rel-projects::
 
-
-
 -
 - **Embrace uncertainty and volatility:** Rather than fearing the unknown, view it as an opportunity for growth and improvement.
 - **Develop mental resilience:** Practice techniques like Seneca’s “premeditation of evils” to prepare for potential setbacks and reduce their emotional impact.

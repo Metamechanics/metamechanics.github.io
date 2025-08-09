@@ -7,7 +7,6 @@ creations:: [[How the World Really Works]], [[Energy at the Crossroads]], [[Mate
 tags:: person
 rel-projects::
 
-
 - [Vaclav Smil – Distinguished Professor Emeritus](https://vaclavsmil.com/)
 -
 -

@@ -7,6 +7,5 @@ creations:: [[Thinking, Fast and Slow]]
 tags:: person, #[[Nobel Prize]] 
 rel-projects::
 
-
 - see also: [[Amos Tversky]]
 -

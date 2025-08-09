@@ -7,6 +7,5 @@ creations::
 tags:: person, #keyThinker
 rel-projects::
 
-
 - see [[Kensington runestone]] and [[Westford Knight]]
 -

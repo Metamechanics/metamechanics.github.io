@@ -5,7 +5,6 @@ URL::
 tags:: article, reference, #toProcess
 rel-projects::
 
-
 - [einstein-albert_the-world-as-i-see-it.pdf](https://cooperative-individualism.org/einstein-albert_the-world-as-i-see-it.pdf)
 -
 - 1

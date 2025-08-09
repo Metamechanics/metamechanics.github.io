@@ -7,7 +7,6 @@ creations::
 tags:: person, #indigenous #Australia
 rel-projects::
 
-
 - [Anita Heiss - Author, Poet, Satirist, Social Commentator](https://www.anitaheiss.com/)
 - [Anita Heiss | Author, Poet, Satirist, Social Commentator](https://anitaheiss.wordpress.com/)
 -

@@ -5,7 +5,6 @@ URL::
 tags:: article, reference, [[Brian Muraresku]] #psychedelics #religion #Christianity
 rel-projects::
 
-
 - [Did Ancient Greek Philosophers Use Psychedelic Beer to Find God?](https://nautil.us/is-christianity-based-on-psychedelic-trips-623594/)
 -
 - [[The Immortality Key: The Secret History of the Religion with No Name]]

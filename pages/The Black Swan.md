@@ -4,8 +4,6 @@ year::
 tags:: book
 rel-projects::
 
-
-
 -
 - **Recognize our blindness to randomness:** Taleb emphasizes our tendency to underestimate the impact of rare, unpredictable events.
 - **Avoid narrative fallacy:** We have a propensity to create simplistic explanations for complex events retrospectively, which can lead to flawed understanding.

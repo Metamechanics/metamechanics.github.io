@@ -5,7 +5,6 @@ URL:: http://www.varchive.org/itb/sansmoon.htm
 tags:: article, #[[The Moon]] #[[Immanuel Velikovsky]]
 rel-projects::
 
-
 -
 - # The Earth Without the Moon
 - The period when the Earth was Moonless is probably the most remote recollection of mankind. Democritus and Anaxagoras taught that there was a time when the Earth was without the Moon.(1) Aristotle wrote that Arcadia in Greece, before being inhabited by the Hellenes, had a population of Pelasgians, and that these aborigines occupied the land already before there was a moon in the sky above the Earth; for this reason they were called Proselenes.(2)

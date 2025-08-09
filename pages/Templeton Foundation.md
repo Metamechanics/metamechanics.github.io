@@ -6,7 +6,6 @@ creations::
 tags:: organisation #keyActor #keyStakeholder 
 rel-projects::
 
-
 - [Home - John Templeton Foundation](https://www.templeton.org/)
 - [[Templeton Ideas Podcast]]
 - [[Templeton Prize]]

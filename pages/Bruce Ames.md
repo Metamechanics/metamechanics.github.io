@@ -7,6 +7,5 @@ creations:: [[Dietary pesticides (99.99% all natural)]]
 tags:: person, #freshAlts #diet 
 rel-projects::
 
-
 - [Bruce N. Ames, Ph.D. - About Dr. Ames](https://www.bruceames.org/)
 -

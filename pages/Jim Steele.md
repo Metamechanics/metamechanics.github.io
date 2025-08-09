@@ -7,7 +7,6 @@ creations:: [[Landscapes and Cycles: An Environmentalist's Journey to Climate Sk
 tags:: person
 rel-projects::
 
-
 -
 - [Landscapes and Cycles : An Environmentalist's Journey to Climate Skepticism](http://landscapesandcycles.net/)
 -

@@ -4,7 +4,6 @@ year::
 tags:: book, #[[(meta)physics of time]]
 rel-projects::
 
-
 -
 - [[David Mandell]]
 - [[Igor Sikorsky]]

@@ -5,7 +5,6 @@ URL::
 tags:: article, #Arabic
 rel-projects::
 
-
 - [Arabic Dialects Compared: Maghrebi, Egyptian, Levantine, Hejazi, Gulf, and MSA](https://discoverdiscomfort.com/arabic-dialects-maghrebi-egyptian-levantine-gulf-hejazi-msa/)
 - Arabic Dialects Compared: Maghrebi, Egyptian, Levantine, Hejazi, Gulf, and MSA
   What are the kinds of Arabic around the world? What do they sound like? What do they have in common, and how are they different?

@@ -8,7 +8,5 @@ rel-country::
 tags:: person
 rel-projects::
 
-
-
 - [Fearless Books Home Page](https://www.fearlessbooks.com/)
 -

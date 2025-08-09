@@ -8,6 +8,4 @@ rel-country:: #China
 tags:: person
 rel-projects::
 
-
-
 -

@@ -8,6 +8,5 @@
   tags:: person
   rel-projects::
 
-
 -
 -

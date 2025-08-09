@@ -7,5 +7,4 @@ creations:: [[Spiral Dynamics]]
 tags:: person
 rel-projects::
 
-
 -

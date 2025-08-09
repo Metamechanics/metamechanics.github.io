@@ -7,6 +7,5 @@ creations:: [[The Name of the Rose]], [[Foucault's Pendulum (book)]]
 tags:: person
 rel-projects::
 
-
 -
 -

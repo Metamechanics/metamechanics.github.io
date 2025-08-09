@@ -5,5 +5,4 @@ people::
 see-also:: [[placebo surgery]]
 rel-projects::
 
-
 -

@@ -4,8 +4,6 @@ year::
 tags:: book
 rel-projects::
 
-
-
 - [God According to God  - A Physicist Proves We've Been Wrong About God All Along.pdf](hook://file/nMPWR73Km?p=MSBLbm93bGVkZ2UgTGlicmFyaWVzL0FNVCAmIFgtU2NpZW5jZQ==&n=God%20According%20to%20God%20%20%2D%20A%20Physicist%20Proves%20We%27ve%20Been%20Wrong%20About%20God%20All%20Along%2Epdf)
 - ### Table of Contents
   collapsed:: true

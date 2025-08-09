@@ -1,10 +1,9 @@
 alias:: Macrohistory and Macrohistorians - Perspectives on Individual Social and Civilizational Change
-editor:: [[Sohail Inayatullah]], [[Johan Galtung]]
+editors:: [[Sohail Inayatullah]], [[Johan Galtung]]
 author::
 year:: 1997
 tags:: book, #macrohistory #futures #[[Futures Studies]] #[[theories of change]]
 rel-projects::
-
 
 - [Macrohistory and Macrohistorians Perspectives on Individual, Social, and Civilizational Change.pdf](hook://file/lBqqDkhYb?p=MSBLbm93bGVkZ2UgTGlicmFyaWVzL0ZGZWQtRlMtRlNJQi1GU1NG&n=Macrohistory%20and%20Macrohistorians%20Perspectives%20on%20Individual%2C%20Social%2C%20and%20Civilizational%20Change%2Epdf)
 -

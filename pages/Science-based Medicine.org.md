@@ -6,5 +6,4 @@ creations::
 tags:: organisation, #orthodoxy #medicine #placebo #pseudo-science
 rel-projects::
 
-
 -

@@ -7,5 +7,4 @@ creations::
 tags:: person, #keyThinker
 rel-projects::
 
-
 -

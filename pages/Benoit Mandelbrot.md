@@ -8,7 +8,6 @@ rel-country::
 tags:: person,
 rel-projects::
 
-
 title::
 alias:: Mandelbrot
 URL::
@@ -19,7 +18,6 @@ creations::
 rel-country::
 tags:: person,
 rel-projects::
-
 
 title::
 - [Mandelbrot’s fractals are not only gorgeous – they taught mathematicians how to model the real world](https://theconversation.com/mandelbrots-fractals-are-not-only-gorgeous-they-taught-mathematicians-how-to-model-the-real-world-244302)

@@ -7,5 +7,4 @@ creations:: [[Deep Utopia - Life and Meaning in a Solved World]]
 tags:: person
 rel-projects::
 
-
 -
