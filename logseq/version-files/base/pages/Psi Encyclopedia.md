@@ -1,11 +1,11 @@
 alias::
 URL:: https://psi-encyclopedia.spr.ac.uk/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #psi #database #exemplar 
-project:: [[FACTs]], [[X-Science]], [[Psience]] 
-question::
-public:: true
+rel-projects:: [[FACTs]], [[X-Science]], [[Psience]] 
+
+
 
 - [Psi Encyclopedia | The Scientific Investigation of Psychic Phenomena](https://psi-encyclopedia.spr.ac.uk/)
 - [[Eminent people interested in Psi]]

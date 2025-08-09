@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: [[Global Effort]] 
+rel-projects:: [[Global Effort]] 
 see-also::
 
 - World War 1

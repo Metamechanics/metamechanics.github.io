@@ -1,8 +1,8 @@
 alias::
-tags:: #Pleiades 
-place::
-country:: #USA 
-place-type:: #indigenous #[[ancient site]] 
+tags:: #Pleiades
+location::
+rel-country:: #USA
+place-type:: #indigenous #[[ancient site]]
 nearest-town::
 map-url::
 

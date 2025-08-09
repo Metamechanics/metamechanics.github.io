@@ -1,9 +1,9 @@
 alias::
-tags:: #toVisit 
-place::
-country:: #Peru 
+tags:: #toVisit
+location::
+rel-country:: #Peru
 place-type:: #megalith [[ancient site]]
-project:: [[Adam's Atlas]] 
+rel-projects:: [[Adam's Atlas]]
 nearest-town::
 map-url::
 

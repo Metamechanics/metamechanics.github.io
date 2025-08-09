@@ -1,11 +1,11 @@
 alias:: Kaku
 URL::
-organisation:: 
+rel-org:: 
 role:: [[academic]], [[science communicator]] 
 fields:: [[physics]], [[String theory]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[AMT]]
-public:: true
+rel-projects:: [[AMT]]
+
 
 - "The mind of God would be cosmic music resonating through 11-dimensional hyperspace."

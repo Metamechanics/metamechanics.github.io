@@ -3,8 +3,8 @@
   year::
   URL::
   tags:: documentary
-  project::
-  public:: true
+  rel-projects::
+  
 -
 - {{video https://www.youtube.com/watch?v=nf9MyWRratI}}
 -

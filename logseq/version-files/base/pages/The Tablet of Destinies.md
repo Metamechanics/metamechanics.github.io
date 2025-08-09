@@ -1,9 +1,9 @@
 alias:: La Tavoletta dei Destini
-author:: [[Robert Calasso]] 
-publication-year:: 2020
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Robert Calasso]]
+year:: 2020
+tags:: book
+rel-projects::
+
 
 - An examination of origin stories of human civilization
 -

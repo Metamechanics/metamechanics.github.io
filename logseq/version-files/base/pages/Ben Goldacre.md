@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[skepticism]] 
-publications-productions:: [[Bad Science (book)]] 
-country::
-tags:: person, #skeptic 
-project:: #X-Science 
-public:: true
+fields:: [[skepticism]]
+creations:: [[Bad Science (book)]]
+rel-country::
+tags:: person, #skeptic
+rel-projects:: #X-Science
+
 
 -

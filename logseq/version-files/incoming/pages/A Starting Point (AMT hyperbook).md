@@ -1,6 +1,6 @@
 alias::
 tags:: 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Some notes to the reader on method and madness in the M-ness
 - Content, Theory
   collapsed:: true

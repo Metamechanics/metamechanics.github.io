@@ -1,9 +1,9 @@
 alias::
-author:: [[Rupert Sheldrake]] 
-publication-year::
-tags:: book, reference
-project:: [[Inner Beginner]], [[AMT]] 
-question::
-public:: true
+author:: [[Rupert Sheldrake]]
+year::
+tags:: book
+rel-projects:: [[Inner Beginner]], [[AMT]]
+
+
 
 -

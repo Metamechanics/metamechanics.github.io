@@ -1,9 +1,9 @@
 alias::
 URL::
-org-type:: #science #physics #cosmology #unorthodoxy  
-people:: [[Eric Lerner]] 
-publications:: 
+org-type:: #science #physics #cosmology #unorthodoxy
+people:: [[Eric Lerner]]
+creations::
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 -

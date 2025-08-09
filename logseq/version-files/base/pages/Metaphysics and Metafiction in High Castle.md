@@ -1,11 +1,11 @@
-- journal::
-  authors::
+- rel-journal::
+  author::
   year::
   URL::
   tags:: article
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -
 - about [[Philip K Dick]]'s novel [[The Man in the High Castle]]
 -

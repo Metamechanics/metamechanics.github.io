@@ -1,11 +1,11 @@
 alias:: JezD
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
+creations:: 
 tags:: person, friend
-project::
-public:: true
+rel-projects::
+
 
 -

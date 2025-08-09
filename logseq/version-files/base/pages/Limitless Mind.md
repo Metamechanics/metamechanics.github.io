@@ -1,7 +1,7 @@
 alias::
-author:: [[Russell Targ]] 
-publication-year::
-tags:: book, reference, psi, paranormal
-public:: true
+author:: [[Russell Targ]]
+year::
+tags:: book, psi, paranormal
+
 
 -

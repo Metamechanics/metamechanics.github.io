@@ -1,13 +1,23 @@
 alias:: Rabbi Moses Cordovero, Moshe Cordovero, Cordovero, Rabbi Moshe Cordovero
 URL::
-organisation::
+rel-org::
 role::
-fields:: #Judaism #Kabbalah 
-publications-productions:: [[Ohr Ne'erav]], [[Pardes Rimmonim]] 
-country::
+fields:: #Judaism #Kabbalah
+creations:: [[Ohr Ne'erav]], [[Pardes Rimmonim]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
+alias:: Rabbi Moses Cordovero, Moshe Cordovero, Cordovero, Rabbi Moshe Cordovero
+URL::
+rel-org::
+role::
+fields:: #Judaism #Kabbalah
+creations:: [[Ohr Ne'erav]], [[Pardes Rimmonim]]
+rel-country::
+tags:: person
+rel-projects::
+
 
 -

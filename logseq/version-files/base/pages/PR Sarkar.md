@@ -1,11 +1,11 @@
 alias:: Shrii Shrii Anandamurti, Prabhat Rainjan Sarkar
 URL::
-organisation:: [[Ananda Marga]] 
+rel-org:: [[Ananda Marga]] 
 role:: #mystic #activist #leader #author #composer 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person, [[India]], [[Bengal]] 
-project:: [[Inner Beginner]] #FRESH 
-public:: true
+rel-projects:: [[Inner Beginner]] #FRESH 
+
 
 -

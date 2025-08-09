@@ -1,6 +1,6 @@
 alias:: Mission Phoenix Vision, MPV, VPM
 tags:: #toWrite #claude-ai #[[AI prompt]] 
-project:: #[[The Metamechanic]] #allProjects 
+rel-projects:: #[[The Metamechanic]] #allProjects 
 see-also::
 comments:: This is for my reference but also as universal AI-assistant guide
 - Notes to self

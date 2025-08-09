@@ -1,8 +1,8 @@
 alias::
-author:: [[David F. Capps]] 
-publication-year::
-tags:: book, reference, course, study, spirituality
-project:: [[Inner Beginner]] 
-public:: true
+author:: [[David F. Capps]]
+year::
+tags:: book, course, study, spirituality
+rel-projects:: [[Inner Beginner]]
+
 
 - based on [[The Gospel of Thomas]]

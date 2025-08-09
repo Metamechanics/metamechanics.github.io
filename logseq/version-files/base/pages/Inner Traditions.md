@@ -1,6 +1,6 @@
 alias::
-tags:: #publisher 
-project:: #AMT  
+tags:: #publisher
+rel-projects:: #AMT
 see-also::
 
 -

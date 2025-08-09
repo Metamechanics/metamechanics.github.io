@@ -1,12 +1,12 @@
 alias:: Dr Peter Fenwick
 URL::
-organisation:: [[Scientific and Medical Network]] 
+rel-org:: [[Scientific and Medical Network]] 
 role::
 fields:: #medicine #NDEs #[[brain function]] #meditation 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 -

@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[advertising]], [[marketing]] 
-publications-productions:: [[Alchemy - The Surprising Power of Ideas that Don't make Sense]] 
+creations:: [[Alchemy - The Surprising Power of Ideas that Don't make Sense]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [Rory Sutherland on the Magic of Original Thinking - YouTube](https://www.youtube.com/watch?v=SG-iLV_NJL8)
 - [Why Logical Thinking is Illogical - Rory Sutherland - YouTube](https://www.youtube.com/watch?v=QtvoGUxF8C0)

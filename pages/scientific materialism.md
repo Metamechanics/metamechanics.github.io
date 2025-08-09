@@ -1,6 +1,6 @@
 alias:: materialism
 tags::
-project:: #AMT #X-Science
+rel-projects:: #AMT #X-Science
 see-also::
 
 - what is it? definition

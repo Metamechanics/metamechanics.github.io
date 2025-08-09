@@ -1,9 +1,9 @@
-alias:: 
-tags:: app, software
+alias::
+tags:: app
 URL:: https://github.com/TriliumNext/trilium
-similar-to:: [[Logseq]], [[Trillium]] 
+see-also:: [[Logseq]], [[Trillium]]
 purpose::
-project:: [[Metamechanic Mycelium]]
+rel-projects:: [[Metamechanic Mycelium]]
 - [GitHub - TriliumNext/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/TriliumNext/trilium)
 -
 -

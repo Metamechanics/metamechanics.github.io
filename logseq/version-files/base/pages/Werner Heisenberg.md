@@ -1,13 +1,13 @@
 alias:: Heisenberg
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[quantum mechanics]], [[physics]] 
-publications-productions:: 
-country::
+fields:: [[quantum mechanics]], [[physics]]
+creations::
+rel-country::
 tags:: person
-project:: #AMT #X-Science 
-question::
-public:: true
+rel-projects:: #AMT #X-Science
+
+
 
 -

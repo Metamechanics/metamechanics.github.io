@@ -1,9 +1,9 @@
-alias:: #epicycles 
+alias:: #epicycles
 tags:: concept, theory
 domain::
-people:: [[Ptolemy III]] 
-related-to::
-project::
-public:: true
+people:: [[Ptolemy III]]
+see-also::
+rel-projects::
+
 
 -

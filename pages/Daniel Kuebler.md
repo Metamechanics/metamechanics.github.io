@@ -1,11 +1,10 @@
 alias::
 URL::
-organisation:: [[Society of Catholic Scientists]] 
+rel-org:: [[Society of Catholic Scientists]]
 role::
-fields:: [[biology]], [[evolution]] 
-publications-productions:: [[The Evolution Controversy - A Survey of Competing Theories]] 
-country:: USA
+fields:: [[biology]], [[evolution]]
+creations:: [[The Evolution Controversy - A Survey of Competing Theories]]
+rel-country:: USA
 tags:: person
-project::
-question:: [[What evidence is against the "Out-of-Africa" human evolution hypothesis?]] 
-public:: true
+rel-projects::
+ [[What evidence is against the "Out-of-Africa" human evolution hypothesis?]]

@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
-role:: #poet, #mysticism, #artist 
-fields:: 
-publications:: 
+rel-org::
+role:: #poet, #mysticism, #artist
+fields::
+creations::
 tags:: person
-project:: [[AMT]], [[Inner Beginner]] 
-public:: true
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
 
 -
 - The 5 windows of the soul, poem

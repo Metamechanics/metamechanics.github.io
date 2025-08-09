@@ -1,6 +1,6 @@
 alias::
 tags:: #Gnosticism 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 
 - [[Marcion]]
 - [[Mani]]

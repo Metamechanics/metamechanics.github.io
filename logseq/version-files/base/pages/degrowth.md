@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[postgrowth]]
 
 - [[Postgrowth Institute]]

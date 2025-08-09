@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Spiral Dynamics]] 
+creations:: [[Spiral Dynamics]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

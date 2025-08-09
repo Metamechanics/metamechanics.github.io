@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: [[independent researcher]] 
-fields:: [[ancient civilization]], [[paranormal]], [[Extra-terrestrials]], [[secret society]] 
-publications-productions:: 
-country::
-tags:: person, #keyThinker 
-project:: [[Adam's Atlas]], [[FACTs]] 
-question::
-public:: true
+rel-org::
+role:: [[independent researcher]]
+fields:: [[ancient civilization]], [[paranormal]], [[Extra-terrestrials]], [[secret society]]
+creations::
+rel-country::
+tags:: person, #keyThinker
+rel-projects:: [[Adam's Atlas]], [[FACTs]]
+
+
 
 -

@@ -1,9 +1,9 @@
 alias:: OVA3
-tags:: app, software, website
+tags:: app, website
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[DiaGnosis]]
+rel-projects:: [[DiaGnosis]]
 
 - [OVA | ARG-tech](https://www.arg.tech/index.php/ova/)
 - [OVA 3](https://ova.arg.tech/)

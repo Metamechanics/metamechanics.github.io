@@ -1,8 +1,8 @@
 alias::
-tags:: app, software, postgres, databases
+tags:: app, postgres, databases
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS]], [[Metamechanic Mycelium]]
+rel-projects:: [[WADS]], [[Metamechanic Mycelium]]
 
 -

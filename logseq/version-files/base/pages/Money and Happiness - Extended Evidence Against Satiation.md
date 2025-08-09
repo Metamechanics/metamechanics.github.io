@@ -1,10 +1,10 @@
-journal::
-authors:: [[Matthew Killingsworth]] 
+rel-journal::
+author:: [[Matthew Killingsworth]]
 year::
 URL:: https://happiness-science.org/money-happiness-satiation/
-tags:: article, reference, #happiness #income  
-project:: #EFA 
-public:: true
+tags:: article, reference, #happiness #income
+rel-projects:: #EFA
+
 
 - ### Abstract
   collapsed:: true

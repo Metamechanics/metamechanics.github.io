@@ -1,11 +1,18 @@
-journal::
-authors:: [[Ethan Siegel]] 
+rel-journal::
+author:: [[Ethan Siegel]]
 year::
 URL::
 tags:: article, reference
-project::
-question::
-public:: true
+rel-projects::
+
+
+rel-journal::
+author:: [[Ethan Siegel]]
+year::
+URL::
+tags:: article, reference
+rel-projects::
+
 
 - How to make peace with the weirdness of quantum mechanics
   Still, it’s the most successful, most powerful framework ever developed to describe reality, and everything in existence obeys its rules.

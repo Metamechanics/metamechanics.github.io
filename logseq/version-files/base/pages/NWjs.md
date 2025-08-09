@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://nwjs.io/
-similar-to:: [[ElectronJS]] 
+see-also:: [[ElectronJS]]
 purpose::
-project::
+rel-projects::
 
 - [NW.js](https://nwjs.io/)
 -

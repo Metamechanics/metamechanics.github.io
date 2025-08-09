@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[extracanonical Gospels]]
 
 - {{embed ((67954fde-2c9b-48db-a63e-004aa6854087))}}

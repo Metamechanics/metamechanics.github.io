@@ -1,6 +1,6 @@
 alias::
-tags:: #mathematics 
-project:: #AMTbook 
+tags:: #mathematics
+rel-projects:: #AMTbook
 see-also:: [[The Unreasonable Effectiveness of Mathematics in the Natural Sciences]]
 
 -

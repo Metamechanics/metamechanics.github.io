@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.my-big-toe.com/
-organisation::
+rel-org::
 role::
 fields:: 
-publications-productions:: [[My Big TOE]]
+creations:: [[My Big TOE]]
 tags:: person, #keyThinker #metaphor #[[simulation theory]] #[[What is reality?]] 
-project:: [[AMT]], [[X-Science]], [[Inner Beginner]], [[Psience]] 
-public:: true
+rel-projects:: [[AMT]], [[X-Science]], [[Inner Beginner]], [[Psience]] 
+
 
 - [My Big TOE](https://www.my-big-toe.com/)
 -

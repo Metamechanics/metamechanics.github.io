@@ -1,8 +1,8 @@
 alias::
-tags:: #megalith 
-place::
-country:: #Jordan 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
+tags:: #megalith
+location::
+rel-country:: #Jordan
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
 nearest-town::
 map-url::
 -

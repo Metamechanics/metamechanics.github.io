@@ -1,10 +1,10 @@
 alias::
-author:: [[Bruno Bettelheim]] 
-publication-year:: 1982
-tags:: book, reference, [[Freud]], [[psychoanalysis]] 
-project:: [[AMT]], [[EFA]], [[Inner Beginner]] 
-question::
-public:: true
+author:: [[Bruno Bettelheim]]
+year:: 1982
+tags:: book, [[Freud]], [[psychoanalysis]]
+rel-projects:: [[AMT]], [[EFA]], [[Inner Beginner]]
+
+
 
 - referenced by #Wapnick
 -

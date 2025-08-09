@@ -1,9 +1,9 @@
 alias::
 tags:: coding, python,
 URL::
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 -
 -

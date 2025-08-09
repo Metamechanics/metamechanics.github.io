@@ -1,6 +1,6 @@
 alias::
 tags:: #question #purpose  
-project:: #AMT  
+rel-projects:: #AMT  
 see-also:: [[why some of my question notes don't have question marks?]]
 
 -

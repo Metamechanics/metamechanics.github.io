@@ -1,3 +1,3 @@
 alias::
 tags::
-project:: [[FF-ed]], [[FF-SBS]]
+rel-projects:: [[FF-ed]], [[FF-SBS]]

@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Sudan 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] [[archaeological site]] 
+location::
+rel-country:: #Sudan
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]] [[archaeological site]]
 nearest-town::
 map-url::
 -

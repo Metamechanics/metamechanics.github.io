@@ -1,8 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://inforapid.org/webapp/login.php
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 -

@@ -1,6 +1,6 @@
 alias:: IRU
 tags::
-project:: #EFA
+rel-projects:: #EFA
 see-also:: #IDM
 
 -

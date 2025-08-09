@@ -1,8 +1,8 @@
 alias:: TextSoap
-tags:: app, software
+tags:: app
 URL:: https://textsoap.com/mac/index.html
-similar-to::
+see-also::
 purpose:: clean up text
-project:: [[ACIM4T]]
+rel-projects:: [[ACIM4T]]
 
 -

@@ -1,9 +1,9 @@
 alias::
-author:: [[Barbara Brennan]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Barbara Brennan]]
+year::
+tags:: book
+rel-projects::
+
 
 -
 -

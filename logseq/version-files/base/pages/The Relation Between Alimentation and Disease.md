@@ -1,9 +1,9 @@
 alias::
-author:: [[James Henry Salisbury]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[James Henry Salisbury]]
+year::
+tags:: book
+rel-projects::
+
 
 - see also: [[Anthony Chaffee]]
 - Salisbury of Salisbury steak

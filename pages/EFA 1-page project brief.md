@@ -1,6 +1,6 @@
 alias:: 
 tags:: #[[project brief]] #[[1-page project brief]]
-project:: [[EFA]] 
+rel-projects:: [[EFA]] 
 see-also:: [[EFA 5-page project brief]], [[EFA 20-page project brief]], [[EFA in a nutshell brief]], [[EFA pitches, proposals, promotions, project briefs]]
 - #### Audience of this document
   collapsed:: true

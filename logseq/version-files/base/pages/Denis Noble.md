@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[academic]] 
 fields:: [[biology]], [[physiology]], [[genetics]], [[evolutionary biology]], #evolution 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[X-Science]], [[AMT]] 
-public:: true
+rel-projects:: [[X-Science]], [[AMT]] 
+
 
 - [Biology beyond the genome | Denis Noble - YouTube](https://www.youtube.com/watch?v=bzXFSufDDn8)
 - [Why Dawkins is wrong | Denis Noble interview - YouTube](https://www.youtube.com/watch?v=dCLRKP9NW8I)

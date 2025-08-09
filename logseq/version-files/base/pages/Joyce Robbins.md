@@ -1,10 +1,10 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations:: 
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+  
 - [jtr13 (Joyce Robbins)](https://github.com/jtr13)

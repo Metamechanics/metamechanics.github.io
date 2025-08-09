@@ -1,11 +1,11 @@
-journal:: Wikipedia
-authors:: various
+rel-journal:: Wikipedia
+author:: various
 year::
 URL::
-tags:: article, reference, [[cosmogony]] 
-project:: [[AMT]], [[X-Science]] 
-question:: [[Why is there something rather than nothing?]] 
-public:: true
+tags:: article, reference, [[cosmogony]]
+rel-projects:: [[AMT]], [[X-Science]]
+ [[Why is there something rather than nothing?]]
+
 
 - [Why is there anything at all? - Wikipedia](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F)
 - [Why does our universe have something instead of nothing?](https://www.newscientist.com/article/2454502-why-does-our-universe-have-something-instead-of-nothing/)

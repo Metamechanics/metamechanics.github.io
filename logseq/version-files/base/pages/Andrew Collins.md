@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[independent researcher]] 
 fields:: #prehistory #[[alternative history]] #megaliths  
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+

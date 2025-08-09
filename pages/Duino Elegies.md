@@ -1,10 +1,10 @@
 alias::
 author:: [[Rainer Maria Rilke]] 
-publication-year::
+year::
 tags:: book, #poem #iHaveit 
-project:: #InnerBeginner 
-question::
-public:: true
+rel-projects:: #InnerBeginner 
+
+
 
 -
 -

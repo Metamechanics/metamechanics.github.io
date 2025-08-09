@@ -1,7 +1,7 @@
 alias:: Ciudad Perdida
-tags:: #Tayrona 
-place::
-country:: [[Colombia]] 
+tags:: #Tayrona
+location::
+rel-country:: [[Colombia]]
 place-type::
 nearest-town::
 map-url::

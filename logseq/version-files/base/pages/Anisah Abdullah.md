@@ -1,13 +1,13 @@
-alias:: Nur Anisah Abdullah, 
+alias:: Nur Anisah Abdullah,
 URL::
-organisation:: [[Tamkang University]], [[Tamkang High School]], [[]] 
-role:: #academic #teacher 
-fields:: [[Futures Education]], [[futures in education]] 
-publications-productions:: 
-country:: #Taiwan  
-tags:: person, #keyThinker 
-project:: [[Futures & Foresight Education]], [[Futures Studies and Strategic Foresight IBDP SBS]], [[Futures Studies & Strategic Foresight]] 
-question::
-public:: true
+rel-org:: [[Tamkang University]], [[Tamkang High School]], [[]]
+role:: #academic #teacher
+fields:: [[Futures Education]], [[futures in education]]
+creations::
+rel-country:: #Taiwan
+tags:: person, #keyThinker
+rel-projects:: [[Futures & Foresight Education]], [[Futures Studies and Strategic Foresight IBDP SBS]], [[Futures Studies & Strategic Foresight]]
+
+
 
 -

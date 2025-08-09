@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[Spiritism]],  
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

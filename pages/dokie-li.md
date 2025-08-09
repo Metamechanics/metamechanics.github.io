@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://dokie.li/
-similar-to:: [[etherpad]] 
+see-also:: [[etherpad]]
 purpose:: collaborative text editing, collaborative writing
-project:: #[[X-C Communities]]
+rel-projects:: #[[X-C Communities]]
 
 - [dokieli](https://dokie.li/)
 -

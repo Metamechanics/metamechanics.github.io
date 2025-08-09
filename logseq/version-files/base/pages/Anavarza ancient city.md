@@ -1,8 +1,8 @@
 alias:: Anazarbus, Justinopolis, Anavarza Kalesi, Anavarza antik kenti
 tags::
-place::
-country:: [[Turkey]] 
-place-type:: [[ancient city]] 
+location::
+rel-country:: [[Turkey]]
+place-type:: [[ancient city]]
 nearest-town:: Osmaniye or Gaziantep
 map-url::
 

@@ -1,8 +1,8 @@
 alias::
-author:: [[William James]] 
-publication-year::
-tags:: book, reference
-project:: [[AMT]], [[Inner Beginner]] 
-public:: true
+author:: [[William James]]
+year::
+tags:: book
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
 
 -

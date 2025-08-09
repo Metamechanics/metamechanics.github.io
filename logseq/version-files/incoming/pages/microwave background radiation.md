@@ -1,6 +1,6 @@
 alias:: Cosmic Microwave Background Radiation, CMBR
 tags::
-project:: #AMTbook #AMT 
+rel-projects:: #AMTbook #AMT 
 see-also::
 
 -

@@ -1,6 +1,6 @@
 alias::
 tags:: wikipedia
-project:: [[3B]]
+rel-projects:: [[3B]]
 -
 - What is the difference?
   Use Syria civil war example as an exploratory example

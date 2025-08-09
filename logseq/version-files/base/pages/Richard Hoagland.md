@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #Mars 
-publications-productions:: 
-country:: #USA
+fields:: #Mars
+creations::
+rel-country:: #USA
 tags:: person
-project:: #[[Adam's Atlas]] #[[FACTs 4CT]] 
-question::
-public:: true
+rel-projects:: #[[Adam's Atlas]] #[[FACTs 4CT]]
+
+
 
 -
 -

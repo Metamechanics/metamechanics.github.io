@@ -1,14 +1,14 @@
 alias:: Az Hakeem
 URL:: http://www.drazhakeem.com/
-organisation::
-role:: #psychiatrist #psychotherapy 
-fields:: #medicine #transgender 
-publications-productions:: [[DeTrans]] 
-country:: #[[United Kingdom]] 
+rel-org::
+role:: #psychiatrist #psychotherapy
+fields:: #medicine #transgender
+creations:: [[DeTrans]]
+rel-country:: #[[United Kingdom]]
 tags:: person
-project:: [[Waking Up From Woke]] 
-question::
-public:: true
+rel-projects:: [[Waking Up From Woke]]
+
+
 
 - [Dr Az Hakeem](http://www.drazhakeem.com/)
 - [Gender dysphoria in young people is rising—and so is professional disagreement](https://www.bmj.com/content/bmj/380/bmj.p382.full.pdf)

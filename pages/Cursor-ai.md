@@ -1,8 +1,7 @@
 alias::
-tags:: app, software, #AI #IDE 
+tags:: app, #AI #IDE
 URL::
-similar-to:: [[Windsurf AI IDE]] 
+see-also:: [[Windsurf AI IDE]]
 purpose:: #IDE #[[Coding with AI]]
-project:: [[WADS]], [[WADS study]]
-
+rel-projects:: [[WADS]], [[WADS study]]
 -

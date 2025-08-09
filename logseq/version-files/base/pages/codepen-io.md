@@ -1,9 +1,9 @@
 alias:: CodePen
-tags:: app, software #[[Front-end Development & Responsive Web Design]]
+tags:: app #[[Front-end Development & Responsive Web Design]]
 URL:: https://codepen.io/
-similar-to::
+see-also::
 purpose::
-project:: [[WADS study]]
+rel-projects:: [[WADS study]]
 
 -
 -

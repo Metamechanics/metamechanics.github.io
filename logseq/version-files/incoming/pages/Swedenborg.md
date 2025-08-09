@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #mystic 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person, #mysticism 
-project::
-public:: true
+rel-projects::
+

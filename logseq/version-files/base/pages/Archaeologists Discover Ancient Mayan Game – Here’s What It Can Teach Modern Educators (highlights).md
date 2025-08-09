@@ -1,6 +1,5 @@
 title:: Archaeologists Discover Ancient Mayan Game – Here’s What It Can Teach Modern Educators (highlights)
 author:: [[Carla Sousa]]
-full-title:: "Archaeologists Discover Ancient Mayan Game – Here’s What It Can Teach Modern Educators"
 category:: #articles
 url:: https://theconversation.com/archaeologists-discover-ancient-mayan-game-heres-what-it-can-teach-modern-educators-205715
 - Highlights first synced by [[Readwise]] [[22-07-2023]]

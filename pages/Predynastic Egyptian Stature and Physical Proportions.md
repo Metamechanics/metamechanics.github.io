@@ -1,9 +1,9 @@
-journal:: [[Human Evolution (journal)]] 
-authors:: [[Gay Robins]], [[CCD Shute]] 
+rel-journal:: [[Human Evolution (journal)]]
+author:: [[Gay Robins]], [[CCD Shute]]
 year::
 URL::
 tags:: article, reference
-project::
-public:: true
+rel-projects::
+
 
 -

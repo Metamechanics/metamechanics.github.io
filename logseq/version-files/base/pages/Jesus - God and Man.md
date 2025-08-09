@@ -1,8 +1,8 @@
 alias::
-author:: [[Wolfhart Pannenberg]] 
-publication-year::
-tags:: book, reference
-project:: [[AMT]] 
-public:: true
+author:: [[Wolfhart Pannenberg]]
+year::
+tags:: book
+rel-projects:: [[AMT]]
+
 
 -

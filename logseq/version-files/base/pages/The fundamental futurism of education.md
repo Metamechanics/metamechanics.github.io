@@ -1,5 +1,5 @@
 alias::
-project:: #FF-ed 
+rel-projects:: #FF-ed 
 Audience:: 
 Tags:: #toWrite #MyArticle #myCreation #definitive #[[fundamental article]] #[[canonical article]]
 

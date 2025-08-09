@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to:: #[[Notion App]], [[Anytype.io]], [[Capacities.io]], [[hash-ai]] 
+see-also:: #[[Notion App]], [[Anytype.io]], [[Capacities.io]], [[hash-ai]]
 purpose::
-project:: [[MetaMechanic Mesh]],
+rel-projects:: [[MetaMechanic Mesh]],
 
 -
 - see also by same parent company: [[BlockSuite]] and [[OctoBase]]

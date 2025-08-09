@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
-role:: 
-fields:: #Egyptology 
-publications-productions:: 
+rel-org::
+role::
+fields:: #Egyptology
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

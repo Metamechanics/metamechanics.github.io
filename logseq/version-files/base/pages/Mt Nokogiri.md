@@ -1,9 +1,9 @@
-alias:: Saw Mountain, Nokogiriyama 
+alias:: Saw Mountain, Nokogiriyama
 tags::
-place::
-country:: [[Japan]] 
-place-type:: #quarry  
-nearest-town:: [[Chiba prefecture]], [[Tokyo]], [[Yokohama]] 
+location::
+rel-country:: [[Japan]]
+place-type:: #quarry
+nearest-town:: [[Chiba prefecture]], [[Tokyo]], [[Yokohama]]
 map-url::
 
 - saw marks

@@ -1,9 +1,9 @@
 alias::
-author:: [[Robert Calasso]] 
-publication-year:: 2014
-tags:: book, reference, [[Vedas]], #India 
-project:: [[Adam's Atlas]], [[AMT]], [[Inner Beginner]] 
-public:: true
+author:: [[Robert Calasso]]
+year:: 2014
+tags:: book, [[Vedas]], #India
+rel-projects:: [[Adam's Atlas]], [[AMT]], [[Inner Beginner]]
+
 
 - essays about the Vedas and their philosophy
 -

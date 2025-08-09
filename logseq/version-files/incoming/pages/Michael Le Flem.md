@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.michaelleflem.com/
-organisation::
-role:: [[independent researcher]] 
-fields:: [[history]], [[philosophy]] 
-publications:: [[Visions of Atlantis]] 
+rel-org::
+role:: [[independent researcher]]
+fields:: [[history]], [[philosophy]]
+creations:: [[Visions of Atlantis]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 - [Home | Visions Of Atlantis](https://www.michaelleflem.com/)
 -

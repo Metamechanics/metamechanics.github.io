@@ -1,8 +1,8 @@
 alias::
-tags:: #neolithic 
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] 
+tags:: #neolithic
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]]
 nearest-town::
 map-url::
 

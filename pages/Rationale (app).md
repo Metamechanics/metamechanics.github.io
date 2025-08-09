@@ -1,9 +1,9 @@
 alias:: Rationale app
-tags:: app, software, #[[critical thinking]] 
+tags:: app, #[[critical thinking]]
 URL::
-similar-to::
-purpose:: [[argument mapping]], #[[knowledge cartography]] 
-project:: [[DiaGnosis]], [[FACTs]]
+see-also::
+purpose:: [[argument mapping]], #[[knowledge cartography]]
+rel-projects:: [[DiaGnosis]], [[FACTs]]
 
 - [Rationale - online argument mapping](https://www.rationaleonline.com/)
 - [[Tim van Gelder]]

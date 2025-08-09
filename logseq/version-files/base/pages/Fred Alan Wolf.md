@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[quantum physics]] 
-publications-productions:: 
+fields:: [[quantum physics]]
+creations::
 tags:: person
-project:: [[X-Science]], [[AMT]] 
-public:: true
+rel-projects:: [[X-Science]], [[AMT]]
+
 
 -

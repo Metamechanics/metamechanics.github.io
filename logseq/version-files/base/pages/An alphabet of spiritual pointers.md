@@ -1,7 +1,7 @@
 alias::
 tags::
 url:: 
-project:: #InnerBeginner #AMT 
+rel-projects:: #InnerBeginner #AMT 
 see-also::
 
 -

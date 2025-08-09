@@ -1,7 +1,6 @@
 alias::
 tags::
 person::
-project::
-
+rel-projects::
 - study of the origins of the universe
 -

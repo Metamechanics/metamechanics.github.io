@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Quantum theory in neuroscience and psychology - A neurophysical model of mind-brain interaction]] 
-country::
+creations:: [[Quantum theory in neuroscience and psychology - A neurophysical model of mind-brain interaction]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 see-also:: [[Henry Stapp]]
 
 -

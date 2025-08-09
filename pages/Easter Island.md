@@ -1,6 +1,6 @@
 alias:: Rapanui
 tags:: #Ariki 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also:: #RongoRongo
 
 -

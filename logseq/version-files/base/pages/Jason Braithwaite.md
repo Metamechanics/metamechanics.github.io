@@ -1,14 +1,24 @@
 alias:: Dr Jason J Braithwaite
 URL::
-organisation:: [[University of Birmingham]] 
+rel-org:: [[University of Birmingham]]
 role::
-fields:: #[[critical thinking]], #[[brain science]] #[[psychology]] 
-publications-productions:: [[Critical Thinking, Logic and Reason - A guide for students and academics]] 
-country:: #UK 
+fields:: #[[critical thinking]], #[[brain science]] #[[psychology]]
+creations:: [[Critical Thinking, Logic and Reason - A guide for students and academics]]
+rel-country:: #UK
 tags:: person
-project:: #AMT #X-Science #[[FACTs 4CT]] 
-question::
-public:: true
+rel-projects:: #AMT #X-Science #[[FACTs 4CT]]
+
+
+alias:: Dr Jason J Braithwaite
+URL::
+rel-org:: [[University of Birmingham]]
+role::
+fields:: #[[critical thinking]], #[[brain science]] #[[psychology]]
+creations:: [[Critical Thinking, Logic and Reason - A guide for students and academics]]
+rel-country:: #UK
+tags:: person
+rel-projects:: #AMT #X-Science #[[FACTs 4CT]]
+
 
 -
 -

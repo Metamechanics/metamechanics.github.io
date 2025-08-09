@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #geology  
-publications-productions:: 
+creations:: 
 tags:: person, #unorthodox  
-project:: #X-Science  
-public:: true
+rel-projects:: #X-Science  
+
 
 - [[Missoula Floods]]
 -

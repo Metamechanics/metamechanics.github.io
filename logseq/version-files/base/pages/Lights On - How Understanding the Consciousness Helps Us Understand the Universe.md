@@ -2,7 +2,5 @@ alias::
 creators::
 year::
 URL::
-tags:: documentary #audio #consciousness  
-project:: #AMT 
-question::
-public:: true
+tags:: documentary #audio #consciousness
+rel-projects:: #AMT

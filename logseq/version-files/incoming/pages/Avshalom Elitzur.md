@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: #academic 
+rel-org::
+role:: #academic
 fields::
-publications:: 
-tags:: person, #[[quantum physics]], #physics, #metaphysics #time #keyThinker 
-project:: #Metamechanica 
-public:: true
+creations::
+tags:: person, #[[quantum physics]], #physics, #metaphysics #time #keyThinker
+rel-projects:: #Metamechanica
+
 -

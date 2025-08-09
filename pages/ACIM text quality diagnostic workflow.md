@@ -1,7 +1,7 @@
 alias::
 tags:: #claude-ai  
 url:: 
-project:: [[ACIM accordance]] 
+rel-projects:: [[ACIM accordance]] 
 see-also::
 
 -

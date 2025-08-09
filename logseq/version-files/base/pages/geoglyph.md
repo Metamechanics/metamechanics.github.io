@@ -1,6 +1,6 @@
 alias:: geoglyphs
 tags::
-project:: #[[Adam's Atlas]] 
+rel-projects:: #[[Adam's Atlas]] 
 see-also::
 
 - #[[Nazca lines]]

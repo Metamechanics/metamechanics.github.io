@@ -1,14 +1,14 @@
 alias::
 URL:: https://www.youtube.com/@mattbealllimitless, https://www.youtube.com/@MBLimitlessClips
-organisation::
+rel-org::
 role:: [[podcaster]] 
 fields::
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person, #YouTube #keyResource 
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
+
 
 - [Matt Beall Limitless - YouTube](https://www.youtube.com/@mattbealllimitless)
 - [MB Limitless Clips - YouTube](https://www.youtube.com/@MBLimitlessClips)

@@ -1,5 +1,5 @@
 alias::
 tags:: #translation
-project:: #ACIM-4T
+rel-projects:: #ACIM-4T
 
 -

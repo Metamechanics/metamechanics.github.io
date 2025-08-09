@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.thethirdwayofevolution.com/
-organisation:: 
+rel-org:: 
 year-commenced::
 people:: [[Denis Noble]], [[James Shapiro]], [[Raju Pookottil]], [[Eva Jablonka]], [[Evelyn Fox Keller]], [[Guenther Witzany]], [[Kalevi Kull]], [[Peter Corning]], [[Robert Logan]] 
 tags:: website, [[evolutionary biology]], [[neo-Darwinism]], #unorthodoxy #epigenetics  
-project:: [[freshAlts]], #[[Another M-Theory]] 
-public:: true
+rel-projects:: [[freshAlts]], #[[Another M-Theory]] 
+
 
 - The Third Way: Evolution in the era of genomics and epigenomics
 - [Home | The Third Way of Evolution](https://www.thethirdwayofevolution.com/)

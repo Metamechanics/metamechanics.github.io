@@ -1,10 +1,10 @@
 alias::
-author:: [[David Bohm]] 
-publication-year::
-tags:: book, reference
-project:: [[amt]], [[X-Science]] 
-question::
-public:: true
+author:: [[David Bohm]]
+year::
+tags:: book
+rel-projects:: [[amt]], [[X-Science]]
+
+
 
 -
 -

@@ -1,7 +1,7 @@
 alias::
 tags:: #toBuy #[[Coding with AI]] #subscription  
 url:: https://boltai.com/
-project:: [[Coding with AI]] 
+rel-projects:: [[Coding with AI]] 
 see-also::
 
 - [BoltAI • Native, high-performance AI app for Mac](https://boltai.com/)

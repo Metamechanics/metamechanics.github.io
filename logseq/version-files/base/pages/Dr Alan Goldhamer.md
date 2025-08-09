@@ -1,10 +1,10 @@
 -
 - alias::
   URL:: [Alan Goldhamer, D.C. | TrueNorth Health Center](https://www.healthpromoting.com/clinic-services/staff/alan-goldhamer-dc)
-  organisation::
+  rel-org::
   role::
-  fields:: [[fasting]] 
+  fields:: [[fasting]]
   tags:: person, medicalDoctor
-  project::
-  public:: true
+  rel-projects::
+
 - [Alan Goldhamer, D.C. | TrueNorth Health Center](https://www.healthpromoting.com/clinic-services/staff/alan-goldhamer-dc)

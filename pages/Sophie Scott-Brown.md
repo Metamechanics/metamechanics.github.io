@@ -1,11 +1,12 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 - [YouTube youtube.com  › the institute of art and ideas Why I'm an anarchist | Sophie Scott-Brown full interview | Anarchy and democracy - YouTube](https://www.youtube.com/watch?v=o6X_uSFAD_A)
+	-
 	-

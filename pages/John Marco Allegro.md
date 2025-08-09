@@ -1,11 +1,20 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-tags:: person #[[Dead Sea Scrolls]] #agnosticism #[[Catholic Church]] 
-project::
-public:: true
+creations::
+tags:: person #[[Dead Sea Scrolls]] #agnosticism #[[Catholic Church]]
+rel-projects::
+
+alias::
+URL::
+rel-org::
+role::
+fields::
+creations::
+tags:: person #[[Dead Sea Scrolls]] #agnosticism #[[Catholic Church]]
+rel-projects::
+
 - deciphered Dead Sea Scrolls?
 -

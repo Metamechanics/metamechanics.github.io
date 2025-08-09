@@ -1,6 +1,6 @@
 alias:: schools
 tags::
-project::
+rel-projects::
 see-also::
 
 -

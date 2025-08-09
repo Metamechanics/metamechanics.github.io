@@ -1,6 +1,6 @@
 alias::
 tags:: #concept #[[Arthur Koestler]], #[[Ken Wilber]] #hologram #[[holographic paradigm]] 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also::
 
 -

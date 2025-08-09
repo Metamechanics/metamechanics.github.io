@@ -1,9 +1,9 @@
 alias::
-author:: [[Peter Gay]] 
-publication-year:: 1989
-tags:: book, reference, #Freud #biography 
-project:: [[AMT]], [[Inner Beginner]] 
-question::
-public:: true
+author:: [[Peter Gay]]
+year:: 1989
+tags:: book, #Freud #biography
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
+
 
 -

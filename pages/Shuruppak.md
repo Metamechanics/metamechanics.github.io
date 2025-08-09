@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Iraq 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
+location::
+rel-country:: #Iraq
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
 nearest-town:: Fara
 map-url::
 

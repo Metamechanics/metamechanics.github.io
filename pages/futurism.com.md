@@ -2,7 +2,7 @@ alias::
 URL::
 org-type:: #news #futures #shallowFutures #techFutures 
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project:: #FF-ed 
-public:: true
+rel-projects:: #FF-ed 
+

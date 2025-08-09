@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[NDE]] 
-publications-productions:: [[Life After Life]] 
+fields:: [[NDE]]
+creations:: [[Life After Life]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

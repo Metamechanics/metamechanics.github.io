@@ -1,10 +1,10 @@
 alias:: Phaethon
 author:: [[Ev Cochrane]] 
-publication-year::
-tags:: book, reference
-project:: #AMT 
-question::
-public:: true
+year::
+tags:: book
+rel-projects:: #AMT 
+
+
 
 - [Phaethon: The Star That Fell From Heaven | maverick science.com](https://www.maverickscience.com/phaethon-the-star-that-fell-from-heaven/)
 - ### Table of Contents

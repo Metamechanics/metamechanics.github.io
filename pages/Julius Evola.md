@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[philosophy]], [[metaphysics]], [[spirituality]], [[fascism]] 
-publications-productions:: [[Notes on the Third Reich]] 
+creations:: [[Notes on the Third Reich]] 
 tags:: person #keyThinker 
-project::
-public:: true
+rel-projects::
+
 
 - [Julius Evola: Key Concepts - YouTube](https://www.youtube.com/watch?v=34ffMAl6_B8)
 -

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[United Family of Anomaly Hunters]] 
+rel-org:: [[United Family of Anomaly Hunters]] 
 role:: #[[independent researcher]] 
 fields:: #[[alternative history]] #archaeoastronomy #astroanthropology 
-publications-productions:: 
+creations:: 
 tags:: person, 
-project:: #FRESH #FACTs #DiaGnosis  
-public:: true
+rel-projects:: #FRESH #FACTs #DiaGnosis  
+
 
 -

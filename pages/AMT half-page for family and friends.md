@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[A brief history of my spiritual life]]
 
 - Context, background

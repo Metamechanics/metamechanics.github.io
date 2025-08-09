@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project::
+  rel-projects::
   see-also::
 -
 - motif of gods depicted around the world holding various types of staffs, rods etc in each hand

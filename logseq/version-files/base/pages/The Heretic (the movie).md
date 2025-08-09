@@ -1,10 +1,10 @@
 alias::
-Creators::
+creators::
 year::
 URL::
 tags:: movie
-project:: #[[Babies, Bibles and Bathwater]]
-public:: true
+rel-projects:: #[[Babies, Bibles and Bathwater]]
+
 
 -
 - alluded to a dozen or so religious systems prior to Christianity that mentioned virgin birth, 12 disciplines, resurrection eg. [[Mithras]], [[Horus]]

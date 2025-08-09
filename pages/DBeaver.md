@@ -1,9 +1,9 @@
 alias::
-tags:: app, #SQL 
+tags:: app, #SQL
 URL::
-similar-to::
+see-also::
 purpose:: database management
-project:: [[Coherence app]]
+rel-projects:: [[Coherence app]]
 
 -
 -

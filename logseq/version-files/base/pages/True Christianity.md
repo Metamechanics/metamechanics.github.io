@@ -1,7 +1,7 @@
 alias::
-author:: [[Emanuel Swedenborg]] 
-publication-year::
-tags:: book, reference, #toRead #spirituality 
-project:: [[Inner Beginner]] 
-public:: true
+author:: [[Emanuel Swedenborg]]
+year::
+tags:: book, #toRead #spirituality
+rel-projects:: [[Inner Beginner]]
+
 -

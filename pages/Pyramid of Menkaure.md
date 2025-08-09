@@ -1,9 +1,9 @@
 alias::
-tags:: 
-place::
-country:: #Egypt 
-place-type:: #pyramid 
-nearest-town:: #Giza 
+tags::
+location::
+rel-country:: #Egypt
+place-type:: #pyramid
+nearest-town:: #Giza
 map-url::
 
 -

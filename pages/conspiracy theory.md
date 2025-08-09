@@ -1,5 +1,5 @@
 alias:: conspiracy theories, conspiracy theorist
 tags::
 url:: 
-project::
+rel-projects::
 see-also:: #conspiracy

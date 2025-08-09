@@ -1,10 +1,10 @@
 alias::
 tags::
-place::
-country:: [[Peru]] 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
-nearest-town:: #Cuzco 
+location::
+rel-country:: [[Peru]]
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: #Cuzco
 map-url::
 
 -

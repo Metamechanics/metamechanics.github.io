@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
-role:: 
-fields:: #philosophy #ethics 
-publications-productions:: [[Ethics - Inventing Right and Wrong]] 
-country::
+rel-org::
+role::
+fields:: #philosophy #ethics
+creations:: [[Ethics - Inventing Right and Wrong]]
+rel-country::
 tags:: person
-project:: #AMT #[[morals as mechanics]] #[[Morals - mechanics rather than mandates]] 
-question::
-public:: true
+rel-projects:: #AMT #[[morals as mechanics]] #[[Morals - mechanics rather than mandates]]
+
+
 
 -
 -

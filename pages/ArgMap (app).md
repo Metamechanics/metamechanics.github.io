@@ -1,8 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose:: #[[argument maps]] #[[knowledge cartography]]
-project:: #DiaGnosis #FACTs
+rel-projects:: #DiaGnosis #FACTs
 
 -

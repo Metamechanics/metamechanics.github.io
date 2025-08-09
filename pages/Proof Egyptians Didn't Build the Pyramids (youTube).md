@@ -3,7 +3,7 @@ channel::
 year::
 person::
 url::
-project:: [[Adam's Atlas]]
+rel-projects:: [[Adam's Atlas]]
 
 -
 - video https://www.youtube.com/watch?v=22e9ROtS_3I

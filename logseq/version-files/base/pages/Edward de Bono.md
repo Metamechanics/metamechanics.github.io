@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #[[creative thinking]]
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

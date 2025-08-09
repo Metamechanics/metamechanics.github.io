@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #theology #classics  
-publications-productions:: [[The Pagan Christ]] 
-country:: #Canada 
+fields:: #theology #classics
+creations:: [[The Pagan Christ]]
+rel-country:: #Canada
 tags:: person
-project:: #BaBiBa 
-question::
-public:: true
+rel-projects:: #BaBiBa
+
+
 
 -
 -

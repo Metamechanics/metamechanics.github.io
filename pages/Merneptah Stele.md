@@ -1,6 +1,5 @@
 alias::
 tags:: [[Ancient Egypt]] 
-project:: [[Adam's Atlas]]
-
+rel-projects:: [[Adam's Atlas]]
 -
 -

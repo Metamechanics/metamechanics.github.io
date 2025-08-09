@@ -1,6 +1,6 @@
 alias::
-tags:: 
-project:: [[AMT hyperbook]]
+tags::
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Reports from the non-dual jewel and duel
 
 - (those who've walked or glimpsed the end of the path)

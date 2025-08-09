@@ -1,10 +1,10 @@
 alias::
-tags:: framework, #toSource 
-domain:: #education 
+tags:: framework, #toSource
+domain:: #education
 people::
-related-to::
-project::
-public:: true
+see-also::
+rel-projects::
+
 
 -
 - Create

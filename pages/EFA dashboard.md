@@ -1,7 +1,7 @@
 alias:: dashboardEFA
-tags:: dashboard, #internal #toProcess 
-project:: #EFA
-public:: false
+tags:: dashboard, #internal #toProcess
+rel-projects:: #EFA
+
 
 - #[[Note to Self]]: consolidation of text: if my goal is to make info more digestible then I have to write, and structure writing, in the same vein.
 - Internal

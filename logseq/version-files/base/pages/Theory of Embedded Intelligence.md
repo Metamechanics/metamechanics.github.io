@@ -1,6 +1,6 @@
 person:: [[Bill Mensch]], [[Bernardo Kastrup]] 
 tags:: #theory #consciousness 
-project:: [[AMT]] 
+rel-projects:: [[AMT]] 
 see-also::
 
 -

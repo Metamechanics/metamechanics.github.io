@@ -1,9 +1,8 @@
 alias::
-tags:: app, software
-URL:: 
-similar-to:: #MediaWiki #[[Confluence (app)]] #[[Wiki.js]]
-purpose:: #wiki 
-project:: [[MetaWeb]] #allProjects #[[Metamechanic Mycelium]]
-
+tags:: app
+URL::
+see-also:: #MediaWiki #[[Confluence (app)]] #[[Wiki.js]]
+purpose:: #wiki
+rel-projects:: [[MetaWeb]] #allProjects #[[Metamechanic Mycelium]]
 -
 -

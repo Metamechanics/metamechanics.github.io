@@ -1,8 +1,7 @@
 alias:: EFAstory, EFA Story View
 tags:: #narrative 
-project:: #EFA 
+rel-projects:: #EFA 
 see-also:: [[EFA dashboard]]
-
 - #EFA #myProject
 - # Story View
   A textual and linear story structure from basic material needs "up and in" to the immaterial, intangible, ineffable, and back down again.

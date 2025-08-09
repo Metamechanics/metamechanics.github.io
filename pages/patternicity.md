@@ -1,7 +1,7 @@
 alias::
 tags:: [[Michael Shermer]] 
 url:: 
-project:: #AMT #X-Science 
+rel-projects:: #AMT #X-Science 
 see-also::
 
 - [Patternicity: Finding Meaningful Patterns in Meaningless Noise | Scientific American](https://www.scientificamerican.com/article/patternicity-finding-meaningful-patterns/)

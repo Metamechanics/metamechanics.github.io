@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: [[medical doctor]] 
-fields:: [[medicine]] 
-publications-productions:: 
-tags:: person, #ketosis #concussion 
-project::
-public:: true
+rel-org::
+role:: [[medical doctor]]
+fields:: [[medicine]]
+creations::
+tags:: person, #ketosis #concussion
+rel-projects::
+
 -

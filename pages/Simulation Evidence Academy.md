@@ -2,11 +2,11 @@ alias::
 URL:: http://www.simulationevidence.academy/
 org-type::
 people::
-publications:: 
+creations::
 tags:: organisation
-project:: [[X-Science]], [[AMT]] 
-question:: [[universe as simulation]], [[What evidence suggests that the universe is an illusion?]] 
-public:: true
+rel-projects:: [[X-Science]], [[AMT]]
+ [[universe as simulation]], [[What evidence suggests that the universe is an illusion?]]
+
 
 - [SE Academy](http://www.simulationevidence.academy/)
 -

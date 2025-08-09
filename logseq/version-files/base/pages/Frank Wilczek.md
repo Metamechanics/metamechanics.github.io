@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation:: 
-role:: [[academic]] 
-fields:: [[quantum physics]] 
-publications-productions:: [[Fundamentals - Ten Keys to Reality]] 
-country:: USA
-tags:: person, [[time crystals]] 
-project:: [[AMT]],  
-public:: true
+rel-org::
+role:: [[academic]]
+fields:: [[quantum physics]]
+creations:: [[Fundamentals - Ten Keys to Reality]]
+rel-country:: USA
+tags:: person, [[time crystals]]
+rel-projects:: [[AMT]],
+
 
 - [Home | frankwilczek](https://www.frankawilczek.com/)
 -

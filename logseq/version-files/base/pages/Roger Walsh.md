@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[Transpersonal Psychology]] 
-publications-productions:: 
+fields:: [[Transpersonal Psychology]]
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - was an early student or reader of #ACIM
 -

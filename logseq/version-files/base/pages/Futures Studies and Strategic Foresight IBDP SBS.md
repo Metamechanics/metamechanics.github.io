@@ -1,6 +1,6 @@
 alias:: FSSF IBDP
 tags::
-project:: [[FF-ed]]
+rel-projects:: [[FF-ed]]
 
 -
 -

@@ -1,10 +1,10 @@
 alias:: Meydankale, Silifkale
-tags:: #[[cyclopean wall]]  
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
-nearest-town:: #Silifke or #Mersin 
+tags:: #[[cyclopean wall]]
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: #Silifke or #Mersin
 map-url::
 -
 - {{video https://www.youtube.com/watch?v=SU2JhCOJ6X0&pp=ygUKa2VmIGthbGVzaQ%3D%3D}}

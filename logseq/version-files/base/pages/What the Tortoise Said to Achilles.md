@@ -1,9 +1,9 @@
 alias::
-author:: [[Lewis Carroll]] 
-publication-year::
-tags:: book, reference
-project:: 
-question::
-public:: true
+author:: [[Lewis Carroll]]
+year::
+tags:: book
+rel-projects::
+
+
 
 -

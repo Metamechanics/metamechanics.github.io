@@ -2,10 +2,10 @@ alias::
 URL::
 org-type:: #academia #university 
 people:: [[Bruno Latour]] 
-publications:: 
+creations:: 
 tags:: organisation
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

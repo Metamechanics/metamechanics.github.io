@@ -1,6 +1,6 @@
 alias:: expert, expertise
 tags::
-project::
-similar-to:: #[[Key Thinker]]
+rel-projects::
+see-also:: #[[Key Thinker]]
 
 -

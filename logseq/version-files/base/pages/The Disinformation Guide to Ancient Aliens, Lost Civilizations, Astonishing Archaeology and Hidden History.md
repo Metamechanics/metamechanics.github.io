@@ -1,7 +1,7 @@
 alias::
-author:: [[Michael Cremo]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Michael Cremo]]
+year::
+tags:: book
+rel-projects::
+
 -

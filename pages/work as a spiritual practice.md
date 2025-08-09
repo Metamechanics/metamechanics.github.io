@@ -1,6 +1,6 @@
 alias:: MetaMechanic as spiritual practice, MM work as spiritual practice
 tags:: #[[Note to Self]]
-project:: [[The Metamechanic]]
+rel-projects:: [[The Metamechanic]]
 see-also::
 
 - guidance by God

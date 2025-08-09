@@ -1,6 +1,6 @@
 alias::
 tags:: #place
-country:: [[Algeria]] 
+rel-country:: [[Algeria]]
 place-type::
 nearest-town::
 map-url::

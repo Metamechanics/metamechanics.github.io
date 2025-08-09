@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: #Iraq 
-place-type:: #[[ancient site]] 
+location::
+rel-country:: #Iraq
+place-type:: #[[ancient site]]
 nearest-town:: Fara
 map-url::
 - see [[Matthew LaCroix]]

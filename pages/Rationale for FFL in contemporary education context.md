@@ -1,6 +1,6 @@
 alias::
 tags:: #toWrite #ffed #MyArticle
-project:: #FSIB-PhD
+rel-projects:: #FSIB-PhD
 
 - IF
 - then

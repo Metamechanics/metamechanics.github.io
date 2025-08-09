@@ -1,9 +1,9 @@
 alias::
 URL:: https://sqlbolt.com/
 tags:: website, #SQL #toStudy #sqlite 
-project:: #[[WADS study]] 
-question::
-public:: true
+rel-projects:: #[[WADS study]] 
+
+
 
 - [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
 -

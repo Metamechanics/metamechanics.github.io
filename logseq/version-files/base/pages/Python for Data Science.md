@@ -1,10 +1,10 @@
 alias:: P4DS
-author:: 
+author::
 URL:: https://aeturrell.github.io/python4DS/welcome.html
-publication-year::
-tags:: book, reference, #Python 
-project:: [[Wisdom Architecture & Data Science]] 
-public:: true
+year::
+tags:: book, #Python
+rel-projects:: [[Wisdom Architecture & Data Science]]
+
 
 - [Welcome — Python for Data Science](https://aeturrell.github.io/python4DS/welcome.html)
 	- This is the website for **Python for Data Science**, a book heavily inspired by the excellent [**R for Data Science (2e)**](https://r4ds.hadley.nz/). This book will teach you how to load up, transform, visualise, and begin to understand your data. The book aims to give you the skills you need to code for data science. It’s suitable for people who have some familiarity with the ideas behind programming and coding but who don’t yet know how to do data science.

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Universe is Virtual]] 
-country::
+creations:: [[The Universe is Virtual]] 
+rel-country::
 tags:: person
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT  
+
+
 
 -

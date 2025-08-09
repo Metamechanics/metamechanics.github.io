@@ -2,11 +2,11 @@ alias::
 URL:: https://www.issr.org.uk/
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Home - International Society for Science & Religion (ISSR)](https://www.issr.org.uk/)
 - ### Statement from the President

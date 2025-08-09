@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #academic
 fields:: #physics #[[quantum mechanics]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[Another M-Theory]] 
-public:: true
+rel-projects:: [[Another M-Theory]] 
+
 
 - #quote I still have objections to the beauty of quantum mechanics but she is correct.
 -

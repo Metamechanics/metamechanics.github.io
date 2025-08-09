@@ -1,10 +1,10 @@
 alias::
-author:: [[Gustave Le Bon]] 
-publication-year:: 1895
+author:: [[Gustave Le Bon]]
+year:: 1895
 tags:: book, #[[mass manipulation]]
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 - #stimulus for an #AMT section; #[[mass manipulation]]
 -

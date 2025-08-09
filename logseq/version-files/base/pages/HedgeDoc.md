@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[collaborative editing]] #collaboration #[[text editor]], #Presentations #markdown
+tags:: app, #[[collaborative editing]] #collaboration #[[text editor]], #Presentations #markdown
 URL:: https://pad.gnome.org/
-similar-to:: 
+see-also::
 purpose::
-project::
+rel-projects::
 -
 - [HedgeDoc - Ideas grow better together](https://hedgedoc.gnome.org/)
 -

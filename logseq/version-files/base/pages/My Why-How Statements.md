@@ -1,6 +1,6 @@
 alias:: MyWhyStatement
 tags::
-project:: #allProjects 
+rel-projects:: #allProjects 
 see-also:: [[method predefines results]]
 
 - Notes on why I am doing something in order to remind me of bigger purpose, method, priority and interconnection

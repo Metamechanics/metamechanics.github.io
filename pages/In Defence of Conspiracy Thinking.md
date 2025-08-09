@@ -1,9 +1,9 @@
 alias::
-author:: [[Mathew Dentith]] 
-publication-year::
-tags:: book, reference
-project:: [[FACTs]], [[The Ultimate Conspiracy]], [[FACTs 4CT]] 
-question::
-public:: true
+author:: [[Mathew Dentith]]
+year::
+tags:: book
+rel-projects:: [[FACTs]], [[The Ultimate Conspiracy]], [[FACTs 4CT]]
+
+
 
 -

@@ -1,6 +1,6 @@
 alias::
 tags:: #chapter  
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Symbols & Signals of God/"God"/god and the universe
 
 - Everthing except God is metaphor.

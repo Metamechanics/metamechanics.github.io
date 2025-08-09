@@ -1,11 +1,11 @@
 alias:: Teilhard de Chardin
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
+creations:: 
 tags:: person, [[Omega point]] 
-project:: [[AMT]], [[ffed]] 
-public:: true
+rel-projects:: [[AMT]], [[ffed]] 
+
 
 -

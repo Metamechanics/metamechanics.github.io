@@ -1,9 +1,9 @@
 alias::
 author::
-publisher:: [[Springer]] 
-URL:: 
-tags:: journal, reference, [[Philosophy of Science]] 
-project:: [[Metamechanica]], [[X-Science]] 
-public:: true
+publisher:: [[Springer]]
+URL::
+tags:: journal, reference, [[Philosophy of Science]]
+rel-projects:: [[Metamechanica]], [[X-Science]]
+
 - [Metascience | Home](https://link.springer.com/journal/11016)
 -

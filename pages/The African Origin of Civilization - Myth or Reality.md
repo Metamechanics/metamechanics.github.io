@@ -1,7 +1,7 @@
 - alias::
   author::
-  publication-year::
-  tags:: book, reference
-  project:: 
-  public:: true
+  year::
+  tags:: book
+  rel-projects::
+
 -

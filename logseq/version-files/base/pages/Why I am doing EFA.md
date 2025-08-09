@@ -1,6 +1,6 @@
 alias::
 tags:: #toWrite 
-project::
+rel-projects::
 see-also::
 
 - Why am I doing EFA?

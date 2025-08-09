@@ -1,10 +1,10 @@
-journal::
-authors:: [[Immanuel Velikovsky]] 
+rel-journal::
+author:: [[Immanuel Velikovsky]]
 year::
 URL:: http://www.varchive.org/itb/sansmoon.htm
-tags:: article, #[[The Moon]] #[[Immanuel Velikovsky]] 
-project::
-public:: true
+tags:: article, #[[The Moon]] #[[Immanuel Velikovsky]]
+rel-projects::
+
 
 -
 - # The Earth Without the Moon

@@ -1,14 +1,14 @@
 alias:: Dentith, Mathew R X Dentith
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Matthew Dentith - Comparative analysis of conspiracy theories in Europe](https://conspiracytheories.eu/member/matthew-dentith-ph-d/)
 -

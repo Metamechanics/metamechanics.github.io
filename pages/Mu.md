@@ -1,7 +1,6 @@
 alias:: Lemuria
 tags::
-project::
+rel-projects::
 see-also:: #Atlantis
-
 -
 -

@@ -1,6 +1,6 @@
 alias:: pyramids of Mars
 tags:: [[Richard Hoagland]] 
-project:: [[FACTs]]
+rel-projects:: [[FACTs]]
 see-also:: [[the face on Mars]]
 
 -

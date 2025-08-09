@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project::
+  rel-projects::
   see-also::
 -
 - Lunatic, Liar or Lord

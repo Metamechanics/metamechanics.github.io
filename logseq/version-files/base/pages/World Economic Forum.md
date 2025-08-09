@@ -2,9 +2,9 @@ alias:: WEF
 URL::
 org-type:: [[economics]], [[Finance & Investing]],  
 people:: [[Klaus Schwab]] 
-publications:: 
+creations:: 
 tags:: organisation, [[Davos]], elite 
-project:: [[FACTs]] 
-public:: true
+rel-projects:: [[FACTs]] 
+
 
 -

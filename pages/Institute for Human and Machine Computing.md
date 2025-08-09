@@ -2,9 +2,18 @@
   URL::
   org-type::
   people::
-  publications:: 
+  creations:: 
   tags:: organisation
-  project::
-  question::
-  public:: true
+  rel-projects::
+  
+  
+- alias::
+  URL::
+  org-type::
+  people::
+  creations:: 
+  tags:: organisation
+  rel-projects::
+  
+  
 -

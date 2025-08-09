@@ -1,79 +1,79 @@
-- journal::
-  authors::
+- rel-journal::
+  author::
   year::
   URL::
   tags:: article
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -
 - # Rethinking the Big Bang
-  
+
   The largest map of the universe reveals giants at the birth of the universe
-  
+
   ---
-  
+
   By Tom Metcalfe
-  
+
   3 min. read
-  
+
   View original
-  
+
   ---
-  
+
   Astronomers recently published the largest map of the universe, stretching back more than 13 billion years, which revealed a surprise: Many galaxies were already highly evolved at the earliest phases of the universe—many more than predicted by the Big Bang theory of creation.
-  
+
   Nautilus Members enjoy an ad-free experience. [Log in](https://nautil.us/concierge-login)or [Join now](https://nautil.us/join).
-  
+
   The new results will be used to modify the Big Bang theory so it better matches what’s observed, says astrophysicist Jeyhan Kartaltepe of the Rochester Institute of Technology. “What we have to tweak is our understanding of how stars formed in the very early universe, what the physical properties were of that initial gas they formed out of, and how rapidly they formed.”
-  
+
   Kartaltepe and University of California, Santa Barbara physicist Caitlin Casey have been working together for two years to turn raw data from the James Webb Space Telescope (JWST) into an image of the universe across deep time that anyone can explore. The final result of this project, called the COSMOS-Web field project, is [now online](https://cosmos2025.iap.fr/): a composite of 800,000 glittering galaxies.
-  
-  > 
-  
+
+  >
+
   The map contains vast “galactic walls,” sheet-like structures of concentrated galaxies, and voids of empty space.
-  
+
   ADVERTISEMENT
-  
+
   Nautilus Members enjoy an ad-free experience. [Log in](https://nautil.us/concierge-login)or [Join now](https://nautil.us/join).
-  
+
   Thanks to the James Webb’s more powerful mirror and advanced observing techniques, this new image is over 150 times larger than an earlier version created by Hubble in 2004, and shows close to 80 times more galaxies—many of them much like our own Milky Way.
-  
+
   Astronomers have long thought that the oldest galaxies in the universe formed a few hundred million years after the Big Bang, which happened 13.8 billion years ago. So Kartaltepe and Casey were surprised to find that so many of these galaxies were already highly-evolved by 13.5 billion years ago—with well-defined structures and older stars—and that some had light spectrums that showed supermassive black holes at their cores.
-  
+
   This suggests the galaxies formed much earlier than expected and so the Big Bang theory will have to be adjusted, Kartaltepe says. She also hopes the individual James Webb observations in the mosaic image will be used as an online resource by astronomers studying the evolution of galaxies: The sample set of 800,000 galaxies is so large that it includes numerous examples of almost every type of galaxy, at almost every stage of evolution.
-  
+
   “Deep Field” images like the COSMOS-Web image not only tell the story of the universe, they can also help us locate our own galaxy in space and time. The vast scales mapped in the image, roughly 13.5 billion light-years, which reaches to the farthest and oldest galaxies in the universe, is unprecedented. The map contains evidence of vast “galactic walls,” sheet-like structures of concentrated galaxies, and voids of empty space.
-  
+
   ADVERTISEMENT
-  
+
   Nautilus Members enjoy an ad-free experience. [Log in](https://nautil.us/concierge-login)or [Join now](https://nautil.us/join).
-  
+
   One such wall is the Sloan Great Wall, about 1 billion light years away and the largest known structure in the universe. But every branch and node of the cosmic web seems to be slowly collapsing under the effects of gravity, while the voids grow ever larger.
-  
+
   “The voids push galaxies out,” explains astrophysicist Noam Libeskind of Germany’s Leibniz Institute for Astrophysics in Potsdam. “They are like balloons being inflated.”
-  
+
   The universe is in flux, as is our understanding of it.![](https://assets.nautil.us/sites/3/nautilus/nautilus-favicon-14.png?fm=png)
-  
+
   *Lead art: Six images of galaxies taken from nearly 800,000, from upper left to lower right: the present-day universe, and 3, 4, 8, 9 and 10 billion years ago. Credit: M. Franco / C. Casey / COSMOS-Web collaboration.*
-  
+
   ADVERTISEMENT
-  
+
   Nautilus Members enjoy an ad-free experience. [Log in](https://nautil.us/concierge-login)or [Join now](https://nautil.us/join).
 -
 - ######  Tom Metcalfe
-  
+
   Posted on June 26, 2025
-  
+
   Tom Metcalfe is a science journalist based in London, where he writes mainly about space, energy, archaeology, Earth, and the oceans. He has written for *Scientific American, National Geographic, Live Science, NBC News, BBC News,* and others.
 - ##  Unravel the biggest ideas in science.
 - ###  Become a more curious you.
 - ##  Unravel the biggest ideas in science.
 - ###  Become a more curious you.
-  
+
   The full *Nautilus* archive • eBooks & Special Editions • Ad-free reading
 - The full *Nautilus* archive
 - eBooks & Special Editions
 - Ad-free reading
-  
+
   ![Join](https://nautil.us/wp-content/plugins/fragment-blocks/src/blocks/speedbump-join/assets/join.png)

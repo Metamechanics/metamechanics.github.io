@@ -1,8 +1,8 @@
 alias::
-author:: [[Annie Jacobsen]] 
-publication-year::
-tags:: book, reference, #ESP #psychokinesis 
-project:: [[The pSilence of Science]] 
-public:: true
+author:: [[Annie Jacobsen]]
+year::
+tags:: book, #ESP #psychokinesis
+rel-projects:: [[The pSilence of Science]]
+
 
 -

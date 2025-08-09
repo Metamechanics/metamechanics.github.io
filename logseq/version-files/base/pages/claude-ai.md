@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #AI  
+tags:: app, #AI
 URL::
-similar-to:: [[ChatGPT]] 
-purpose:: 
-project:: #DiaGnosis #Metamechanic #Metamechanica
+see-also:: [[ChatGPT]]
+purpose::
+rel-projects:: #DiaGnosis #Metamechanic #Metamechanica
 
 -
 -

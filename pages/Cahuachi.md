@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: #Peru
+location::
+rel-country:: #Peru
 place-type::
 nearest-town::
 map-url::

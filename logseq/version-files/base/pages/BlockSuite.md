@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, 
+tags:: app,
 URL:: https://blocksuite.io/
-similar-to:: [[Block Protocol]] 
+see-also:: [[Block Protocol]]
 purpose::
-project:: [[MetaMechanic Mesh]], [[Metamechanic Mycelium]]
+rel-projects:: [[MetaMechanic Mesh]], [[Metamechanic Mycelium]]
 
 - [BlockSuite | Content Editing Tech Stack](https://blocksuite.io/)
 -

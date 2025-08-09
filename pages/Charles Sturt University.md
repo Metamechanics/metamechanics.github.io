@@ -2,8 +2,8 @@ alias::
 URL::
 org-type:: [[academia]] 
 people:: [[Clive Hamilton]] 
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 -

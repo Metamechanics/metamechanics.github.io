@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Israel 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
+location::
+rel-country:: #Israel
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
 nearest-town:: Neve Ativ
 map-url:: https://maps.app.goo.gl/CDYYUeBYqmy8pu7F6
 

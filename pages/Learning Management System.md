@@ -1,8 +1,7 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[A Textbook for the Futures]]
-
+rel-projects:: [[A Textbook for the Futures]]
 -

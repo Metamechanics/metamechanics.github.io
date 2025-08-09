@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
-role:: #collaborator 
+rel-org::
+role:: #collaborator
 fields::
-publications-productions:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

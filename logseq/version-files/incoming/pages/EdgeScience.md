@@ -3,7 +3,7 @@ editors::
 publisher:: [[Society for Scientific Exploration]]
 url:: https://www.scientificexploration.org/edgescience 
 tags:: journal, reference, [[freshAlts]], #toRead, #ongoing-regular-recurring 
-project:: [[Fresh Alternatives]], [[Metamechanica]] 
-public:: true
+rel-projects:: [[Fresh Alternatives]], [[Metamechanica]] 
+
 - [EdgeScience Magazine | Society for Scientific Exploration](https://www.scientificexploration.org/edgescience)
 -

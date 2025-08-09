@@ -1,6 +1,6 @@
 alias::
 tags:: 
-project:: [[WADS study]], [[WADS]] 
+rel-projects:: [[WADS study]], [[WADS]] 
 see-also::
 
 - see [40+ Python Projects + Source Code | Beginner to Portfolio](https://hackr.io/blog/python-projects) for project ideas, not just in Python

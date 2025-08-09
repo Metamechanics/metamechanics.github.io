@@ -1,6 +1,6 @@
 alias:: EFA in a paragraph
 tags:: #[[project brief]] #paragraph #toWrite 
-project:: #EFA
+rel-projects:: #EFA
 see-also:: [[About EFA - quick version]]
 
 -

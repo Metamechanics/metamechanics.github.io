@@ -1,3 +1,3 @@
-similar-to:: [[genealogy of ideas]]
+see-also:: [[genealogy of ideas]]
 
 -

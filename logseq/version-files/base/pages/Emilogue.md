@@ -1,7 +1,7 @@
 - alias::
-  tags:: 
-  project:: [[AMT hyperbook]]
-  parent-blocks:: 
+  tags::
+  rel-projects:: [[AMT hyperbook]]
+  parent-blocks::
   child-blocks::
 -
 - Transparency

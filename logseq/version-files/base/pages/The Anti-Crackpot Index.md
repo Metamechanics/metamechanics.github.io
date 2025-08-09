@@ -1,10 +1,10 @@
-authors::
+author::
 year:: 2010
 URL:: https://vixra.wordpress.com/2010/09/13/the-anti-crackpot-index/
-tags:: article, #pseudo-skepticism #anti-orthodoxy 
-project:: [[X-Science]], [[FACTs 4CT]] 
-see-also:: [[Crackpot Index]] 
-public:: true
+tags:: article, #pseudo-skepticism #anti-orthodoxy
+rel-projects:: [[X-Science]], [[FACTs 4CT]]
+see-also:: [[Crackpot Index]]
+
 
 - [The Anti-Crackpot Index](https://vixra.wordpress.com/2010/09/13/the-anti-crackpot-index/)
 -
@@ -49,5 +49,5 @@ public:: true
 - 40 points for taking the Baez crackpot index too seriously.
 - 40 points for suggesting additions to the crackpot index.
 - 50 points for saying a paper makes no testable predictions and failing noticing that very few genuine scientific papers make any testable predictions.
-  
+
   This entry was posted on Monday, September 13th, 2010 at 8:05 am and is filed under [Anti-Crackpots](https://vixra.wordpress.com/category/anti-crackpots/), [Humor](https://vixra.wordpress.com/category/humor/). You can follow any responses to this entry through the [RSS 2.0](https://vixra.wordpress.com/2010/09/13/the-anti-crackpot-index/feed/) feed. Both comments and pings are currently closed.

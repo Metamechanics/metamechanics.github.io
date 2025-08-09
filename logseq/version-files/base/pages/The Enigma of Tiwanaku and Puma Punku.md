@@ -1,9 +1,9 @@
 alias::
-author:: [[Brian Foerster]] 
-publication-year::
-tags:: book, #Bolivia #[[ancient sites]] #Inca 
-project:: #[[Adam's Atlas]] 
-question::
-public:: true
+author:: [[Brian Foerster]]
+year::
+tags:: book, #Bolivia #[[ancient sites]] #Inca
+rel-projects:: #[[Adam's Atlas]]
+
+
 
 -

@@ -2,9 +2,9 @@ alias:: Shakespeare conspiracy
 tags:: concept, theory
 domain::
 people::
-related-to::
-project:: [[FACTs]] 
-public:: true
+see-also::
+rel-projects:: [[FACTs]]
+
 
 - William Shakespeare
 - Edward de Vere, Earl of Oxford

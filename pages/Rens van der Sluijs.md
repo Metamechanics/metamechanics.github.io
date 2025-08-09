@@ -1,13 +1,13 @@
 alias:: Marinus Anthony van der Sluijs
 URL::
-organisation::
+rel-org::
 role:: 
 fields:: [[mythology]], [[plasma cosmology]], [[historical linguistics]], [[comparative mythology]], [[history of religion]] 
-publications-productions:: [[On the Origin of Myths in Catastrophic Experience]], [[Traditional Cosmology - The Global Mythology of Cosmic Creation and Destruction]] 
-country::
+creations:: [[On the Origin of Myths in Catastrophic Experience]], [[Traditional Cosmology - The Global Mythology of Cosmic Creation and Destruction]] 
+rel-country::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [Marinus Anthony van der Sluijs - Books and Publications Spotlight | Lulu](https://www.lulu.com/spotlight/mythopedia/)
 - [(6) Marinus Anthony van der Sluijs | ResearchGate](https://www.researchgate.net/profile/Marinus-Van-Der-Sluijs)

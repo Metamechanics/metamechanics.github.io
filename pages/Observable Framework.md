@@ -1,9 +1,9 @@
 - alias::
-  tags:: app, software
+  tags:: app
   URL::
-  similar-to::
+  see-also::
   purpose::
-  project::
+  rel-projects::
 - [Observable Framework](https://observablehq.com/framework/)
 - [Observable: Build expressive charts and dashboards with code](https://observablehq.com/)
 - [[ObservableHQ]]

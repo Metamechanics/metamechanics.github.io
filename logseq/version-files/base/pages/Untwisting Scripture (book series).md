@@ -1,10 +1,10 @@
 alias::
-author:: [[Rebecca Davis]] 
-publication-year::
-tags:: book #orthodox #stimulus 
-project:: #AMT #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+author:: [[Rebecca Davis]]
+year::
+tags:: book #orthodox #stimulus
+rel-projects:: #AMT #[[Babies, Bibles and Bathwater]]
+
+
 
 - [My Books | Here's the Joy](https://heresthejoy.com/books-2/)
 -

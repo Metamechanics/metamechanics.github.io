@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: [[AMT]], [[Inner Beginner]] 
+rel-projects:: [[AMT]], [[Inner Beginner]] 
 see-also:: [[Carl Jung]]
 
 - M in AMT malphabet

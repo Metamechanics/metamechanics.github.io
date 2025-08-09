@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #gaming 
+tags:: app, #gaming
 URL:: https://www.worldanvil.com/
-similar-to::
+see-also::
 purpose:: #[[world building]], #[[role-playing game]]
-project::
+rel-projects::
 
 -
 -

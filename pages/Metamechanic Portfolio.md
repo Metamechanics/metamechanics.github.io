@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: [[The Metamechanic]], #allProjects
+rel-projects:: [[The Metamechanic]], #allProjects
 see-also:: [[Metamechanic Mycelium]], [[metamechanic-io]]
-
 -
 - outward facing website to showcase projects and ideas to dream team, possible collaborators
 	- a single site

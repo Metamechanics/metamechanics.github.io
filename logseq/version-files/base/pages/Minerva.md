@@ -1,6 +1,5 @@
 alias::
 tags:: #[[greek mythology]] #wisdom 
-project::
-
+rel-projects::
 - Greek goddess of wisdom
 -

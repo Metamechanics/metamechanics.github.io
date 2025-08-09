@@ -1,14 +1,14 @@
 alias:: JC Maxwell, Maxwell
 URL::
-organisation::
-role:: 
-fields:: [[mathematics]] 
-publications-productions:: [[Maxwell's field equations]] 
-country:: [[Scotland]] 
+rel-org::
+role::
+fields:: [[mathematics]]
+creations:: [[Maxwell's field equations]]
+rel-country:: [[Scotland]]
 tags:: person
-project:: [[AMT]], [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[AMT]], [[X-Science]]
+
+
 
 -
 -

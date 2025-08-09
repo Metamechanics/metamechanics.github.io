@@ -1,13 +1,13 @@
 alias:: Georgio A Tsoukalos, Giorgio A Tsoukalos
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Ancient Aliens (TV series)]] 
-country::
+creations:: [[Ancient Aliens (TV series)]]
+rel-country::
 tags:: person
-project:: #[[Adam's Atlas]] #[[FACTs 4CT]] 
-question::
-public:: true
+rel-projects:: #[[Adam's Atlas]] #[[FACTs 4CT]]
+
+
 
 -

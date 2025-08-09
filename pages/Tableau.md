@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS]], [[DiaGnosis]]
+rel-projects:: [[WADS]], [[DiaGnosis]]
 
 -
 - Financial dashboard

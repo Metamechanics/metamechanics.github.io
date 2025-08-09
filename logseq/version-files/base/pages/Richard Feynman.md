@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[physics]], [[quantum physics]] 
-publications-productions:: [[Cargo Cult Science]] 
-country::
+creations:: [[Cargo Cult Science]] 
+rel-country::
 tags:: person #[[Nobel Prize]]
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

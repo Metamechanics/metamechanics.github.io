@@ -1,7 +1,7 @@
 alias::
 question-problem-proposition::
-Related-pubs::
-related-project:: [[X-Science]], [[The pSilence of Science]] 
+
+rel-projects:: [[X-Science]], [[The pSilence of Science]]
 Tags:: #toWrite, #[[My Books]]
 
 - a science version of [[Plato's Cave]]

@@ -1,6 +1,5 @@
 alias::
-author:: [[Neal Stephenson]] 
-publication-year::
-tags:: book, reference, #sci-fi #philosophy 
-project:: 
-public:: true
+author:: [[Neal Stephenson]]
+year::
+tags:: book, #sci-fi #philosophy
+rel-projects::

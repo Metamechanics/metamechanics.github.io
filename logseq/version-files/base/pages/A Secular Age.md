@@ -1,17 +1,17 @@
 alias::
-author:: [[Charles Taylor]] 
-publication-year::
-tags:: book, reference
-project:: #AMT  
-question::
-public:: true
+author:: [[Charles Taylor]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 -
 - From Brave browser AI summary
-	- # 
-	  
+	- #
+
 	  A Secular Age
-	  
+
 	  “A Secular Age” is **a landmark book written by philosopher Charles Taylor, published in 2007 by Harvard University Press**. The book is a culmination of Taylor’s earlier Gifford Lectures (Edinburgh, 1998-1999) and explores the concept of secularism, its historical development, and its implications for modern society.
 	- ## Key Themes
 		- **The Secularization of Western Society**: Taylor examines the transformation of Western societies from a condition where belief in God was virtually impossible to avoid to one where faith is just one option among many.

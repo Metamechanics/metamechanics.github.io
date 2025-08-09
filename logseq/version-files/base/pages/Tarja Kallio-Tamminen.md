@@ -1,10 +1,18 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+- alias::
+  URL::
+  rel-org::
+  role::
+  fields::
+  creations::
+  tags:: person
+  rel-projects::
+
 -

@@ -1,12 +1,12 @@
 alias::
 URL:: http://www.sitchiniswrong.com
-organisation::
-people:: [[Michael Heiser]] 
+rel-org::
+people:: [[Michael Heiser]]
 year-commenced::
 tags:: website
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
+
 
 -
 - [Sitchin Is Wrong - Home Page](https://www.sitchiniswrong.com/index.html)

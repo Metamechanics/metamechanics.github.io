@@ -1,4 +1,4 @@
 ---
-tags: [excalidraw, software-app, software]
+tags: [excalidraw, app]
 
 ---

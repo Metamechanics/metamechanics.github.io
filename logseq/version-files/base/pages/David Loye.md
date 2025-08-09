@@ -1,12 +1,12 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations:: 
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+  
 -
 - [What the Experts Say](https://www.davidloye.com/experts.html)
 	- “In times like these a new worldview often arises at the margins of power, at the periphery of the action unfolding on the main stage . . .David Loye’s central insight...is in my opinion right on the money...The organizing principle of the new faith—a faith of human beings about human beings—is evolution itself. Not the traditionally taught evolutionary scenario dominated by competition and selfishness, but an understanding closer to the original Darwinian one that sees cooperation and transcendence of the self as the most exciting parts of the story.”

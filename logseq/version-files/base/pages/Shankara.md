@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: #mystic 
-fields:: #Vedas #[[Advaita Vedanta]] 
-publications-productions:: 
-country:: #[[Ancient India]]
+rel-org::
+role:: #mystic
+fields:: #Vedas #[[Advaita Vedanta]]
+creations::
+rel-country:: #[[Ancient India]]
 tags:: person
-project:: #[[Inner Beginner]] #[[Non-dual futures thinking]] 
-question::
-public:: true
+rel-projects:: #[[Inner Beginner]] #[[Non-dual futures thinking]]
+
+
 
 -

@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: #Turkey 
-place-type:: #town 
+location::
+rel-country:: #Turkey
+place-type:: #town
 nearest-town::
 map-url::
 -

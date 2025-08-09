@@ -1,9 +1,9 @@
 alias::
-author:: [[David S. Anderson]] 
-publication-year::
-tags:: chapter, reference, #pseudo-archaeology #skeptic #orthodoxy 
-project:: #[[Adam's Atlas - An Archive of Atlantis, Ancient Anomaly and Amnesia]] #FRESH #[[Waking Up From Woke]]
-public:: true
+author:: [[David S. Anderson]]
+year::
+tags:: chapter, reference, #pseudo-archaeology #skeptic #orthodoxy
+rel-projects:: #[[Adam's Atlas - An Archive of Atlantis, Ancient Anomaly and Amnesia]] #FRESH #[[Waking Up From Woke]]
+
 - Source: [Traces – An Open Introduction to Archaeology](https://textbooks.whatcom.edu/tracesarchaeology/)
 - [Understanding Ancient Mysteries: Archaeology, Pseudoarchaeology, and the Importance of Archaeological Heritage – Traces](https://textbooks.whatcom.edu/tracesarchaeology/chapter/__pseudoarchaeology__/)
 -
@@ -105,7 +105,7 @@ public:: true
 -
 - Previous/next navigation
   Previous: Archaeological Ethics and World Heritage: Protecting and Preserving Cultural Resources
-  Next: The Archaeological Process 
+  Next: The Archaeological Process
   BACK TO TOP
   LICENSE
   Icon for the Creative Commons Attribution-NonCommercial 4.0 International License

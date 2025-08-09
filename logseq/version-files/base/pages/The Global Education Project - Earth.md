@@ -2,11 +2,11 @@ alias::
 URL:: https://www.theglobaleducationproject.org/earth/
 org-type::
 people::
-publications:: [[The Earth Presentation]] 
-tags:: organisation, #comparator #collaborator 
-project:: [[EFA]] 
-question::
-public:: true
+creations:: [[The Earth Presentation]]
+tags:: organisation, #comparator #collaborator
+rel-projects:: [[EFA]]
+
+
 
 -
 - example: [Global Ecology Ecology Climate Change, Deforestation, Biomes and Ocean Currents, Plankton, Endangered Species](https://www.theglobaleducationproject.org/earth/global-ecology)

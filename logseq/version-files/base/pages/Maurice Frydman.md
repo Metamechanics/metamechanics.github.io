@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Maharshi's Gospel]] 
+creations:: [[Maharshi's Gospel]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - westerner seeker in India
 - follower, devotee at various stages of [[Ramana Maharshi]], [[Gandhi]], [[Krishnamurti]] and [[Nisargadatta Maharaj]]

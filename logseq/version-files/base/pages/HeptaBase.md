@@ -1,8 +1,8 @@
 alias::
-tags:: app, software, #[[infinite canvas]]
+tags:: app, #[[infinite canvas]]
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[EFA]], [[DiaGnosis]]
+rel-projects:: [[EFA]], [[DiaGnosis]]
 
 -

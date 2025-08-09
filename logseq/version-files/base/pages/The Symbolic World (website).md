@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.thesymbolicworld.com/
-organisation::
+rel-org::
 people:: [[Jonathon Pageau]] 
 year-commenced::
 tags:: website, #symbolism #[[Christian symbolism]]
-project:: [[AMT]], [[Metamechanica]] 
-public:: true
+rel-projects:: [[AMT]], [[Metamechanica]] 
+
 
 - [HOME - The Symbolic World](https://www.thesymbolicworld.com/)
 -

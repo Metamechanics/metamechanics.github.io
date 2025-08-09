@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
-role:: [[independent researcher]] 
-fields:: [[history]], [[Egypt]] 
-publications:: 
-tags:: person, [[Egypt]], [[Egyptologist]] 
-project:: [[Fresh Alternatives]] 
-public:: true
+rel-org::
+role:: [[independent researcher]]
+fields:: [[history]], [[Egypt]]
+creations::
+tags:: person, [[Egypt]], [[Egyptologist]]
+rel-projects:: [[Fresh Alternatives]]
+
 
 -

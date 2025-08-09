@@ -1,10 +1,10 @@
 alias::
-author:: [[Wapnick]] 
-publication-year::
-tags:: book, #Shakespeare #ACIM  
-project:: #AMT #InnerBeginner 
-question::
-public:: true
+author:: [[Wapnick]]
+year::
+tags:: book, #Shakespeare #ACIM
+rel-projects:: #AMT #InnerBeginner
+
+
 
 - [Life, Death, and Love: Shakespeare's Great Tragedies and ACIM – Foundation for "A Course in Miracles"® Online Store](https://facimstore.org/products/life-death-and-love-book)
 -

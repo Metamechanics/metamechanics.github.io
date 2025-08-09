@@ -1,9 +1,9 @@
 alias::
-tags:: software, 
+tags:: software,
 URL:: https://rustdesk.com
-similar-to::
+see-also::
 purpose:: remote access to dad's computer
-project:: n/a
+rel-projects:: n/a
 
 - [RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions](https://rustdesk.com/)
 -

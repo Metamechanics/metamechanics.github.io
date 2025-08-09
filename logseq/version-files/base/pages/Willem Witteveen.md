@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[Ancient Egyptian Connections]] 
+rel-org:: [[Ancient Egyptian Connections]] 
 role:: [[independent researcher]] 
 fields:: #[[Ancient Egypt]]
-publications-productions:: [[The Great Pyramid of Giza - A Modern View on Ancient Knowledge]] 
-country:: #Netherlands 
+creations:: [[The Great Pyramid of Giza - A Modern View on Ancient Knowledge]] 
+rel-country:: #Netherlands 
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 -

@@ -1,10 +1,10 @@
 alias:: Buddha of the North
-author:: [[DT Suzuki]] 
-publication-year:: 
-tags:: book #toBuy #[[Comparative Religion]] #Swedenborg 
-project:: #AMT #InnerBeginner 
-question::
-public:: true
+author:: [[DT Suzuki]]
+year::
+tags:: book #toBuy #[[Comparative Religion]] #Swedenborg
+rel-projects:: #AMT #InnerBeginner
+
+
 
 - [Swedenborg: Buddha of the North - Swedenborg Foundation](https://swedenborg.com/product/swedenborg-buddha-north/)
 	- *Swedenborg: Buddha of the North* offers an in-depth exploration of the spiritual parallels between Emanuel Swedenborg, the 18th-century Swedish mystic, and Buddhist philosophy. Written by D. T. Suzuki, one of the foremost scholars of Zen Buddhism, this work delves into Swedenborg’s remarkable spiritual experiences, comparing them to the core principles of Buddhism, such as interconnectedness, spiritual awakening, and the transcendent nature of divine wisdom.

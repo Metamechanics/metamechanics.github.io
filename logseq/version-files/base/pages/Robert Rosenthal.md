@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #psychiatry #[[ACIM]] 
-publications-productions:: 
-country:: #USA 
+fields:: #psychiatry #[[ACIM]]
+creations::
+rel-country:: #USA
 tags:: person
-project:: #ACIM-4T #AMT 
-question::
-public:: true
+rel-projects:: #ACIM-4T #AMT
+
+
 
 -

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: physics, economics, coding
-publications-productions:: [[Coding for Economists]] 
+creations:: [[Coding for Economists]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [Physics, economics, data science, & writing](https://aeturrell.com/)

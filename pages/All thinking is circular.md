@@ -1,6 +1,6 @@
 alias:: circular thinking
 tags:: thinking
-project:: [[AMT]], [[Metamechanica]]
+rel-projects:: [[AMT]], [[Metamechanica]]
 - If you feel like you haven't come full circle, you haven't either
 	- identified the assumptions prior to your starting point
 	- don't consider the starting point

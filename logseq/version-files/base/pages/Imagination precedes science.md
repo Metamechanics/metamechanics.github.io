@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #AMT #X-Science
+rel-projects:: #AMT #X-Science
 
 -
 - a question must first be asked before a hypothesis can be tested, before an experiment can be performed

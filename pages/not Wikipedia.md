@@ -1,6 +1,6 @@
 alias::
 tags:: #toWrite #MyArticle 
-project:: #[[The Metamechanic]] #allProjects 
+rel-projects:: #[[The Metamechanic]] #allProjects 
 see-also::
 - explain how my projects are different to
 	- Wikipedia

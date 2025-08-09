@@ -1,7 +1,7 @@
 alias::
-tags:: #pyramid [[X-Science]] 
-place:: [[Java (island)]] 
-country:: [[Indonesia]] 
+tags:: #pyramid [[X-Science]]
+location:: [[Java (island)]]
+rel-country:: [[Indonesia]]
 place-type::
 nearest-town:: Bandung
 map-url::

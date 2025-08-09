@@ -1,9 +1,9 @@
 alias::
-author:: [[Thomas Campbell]] 
-publication-year:: 2005
-tags:: book, reference, #t.o.e 
-project:: [[X-Science]] [[AMT]]  
-public:: true
+author:: [[Thomas Campbell]]
+year:: 2005
+tags:: book, #t.o.e
+rel-projects:: [[X-Science]] [[AMT]]
+
 
 - [My Big TOE](https://www.my-big-toe.com/)
 - [My Big TOE Awakening Discovery Inner Workings: The Complete My Big TOE ... - Thomas Campbell - Google Books](https://books.google.com.au/books?id=RYHtBPiZVgsC&redir_esc=y)

@@ -1,11 +1,11 @@
 alias::
 sub-title:: Explorations into the Further Evolution of Human Nature
-author:: [[Michael Murphy]] 
-publication-year::
-tags:: book #[[Placebo Effect]] #[[Mind-Body Problem]] #[[mind-matter interaction]] 
-project:: [[X-Science]], #AMT 
-question::
-public:: true
+author:: [[Michael Murphy]]
+year::
+tags:: book #[[Placebo Effect]] #[[Mind-Body Problem]] #[[mind-matter interaction]]
+rel-projects:: [[X-Science]], #AMT
+
+
 
 - Exhaustive catalogue of bodily + mental powers enabled through sport or spiritual practice, or natural endowment.
 - [The future of the body : explorations into the further evolution of human nature : Murphy, Michael - Internet Archive](https://archive.org/details/futureofbodyexpl00murp/page/n1/mode/2up)

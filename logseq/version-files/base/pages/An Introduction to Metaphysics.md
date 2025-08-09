@@ -1,9 +1,9 @@
 alias::
-author:: [[Henri Bergson]] 
-publication-year::
-tags:: book #metaphysics 
-project:: #AMT #X-Science 
-question::
-public:: true
+author:: [[Henri Bergson]]
+year::
+tags:: book #metaphysics
+rel-projects:: #AMT #X-Science
+
+
 
 -

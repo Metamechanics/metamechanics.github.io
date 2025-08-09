@@ -2,9 +2,9 @@ alias::
 URL:: https://sciencebasedmedicine.org/
 org-type::
 people:: [[Steven Novella]] 
-publications:: 
+creations:: 
 tags:: organisation, #orthodoxy #medicine #placebo #pseudo-science 
-project::
-public:: true
+rel-projects::
+
 
 -

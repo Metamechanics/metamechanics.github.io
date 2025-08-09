@@ -1,7 +1,6 @@
 alias:: QM, quantum physics
 tags:: #[[Field of Interest]] #physics 
-project:: #AMT #X-Science
-
+rel-projects:: #AMT #X-Science
 -
 - A nice paragraph from [Axiom - Wikipedia](https://en.wikipedia.org/wiki/Axiom)
 	- In quantum physics, two sets of postulates have coexisted for some time, which provide a very nice example of falsification.

@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #PKM 
+tags:: app, #PKM
 URL::
-similar-to:: #Logseq 
+see-also:: #Logseq
 purpose::
-project:: #[[Metamechanic Mycelium]]
+rel-projects:: #[[Metamechanic Mycelium]]
 
 -
 -

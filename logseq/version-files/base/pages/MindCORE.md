@@ -2,10 +2,10 @@ alias::
 URL:: https://mindcore.sas.upenn.edu/about/
 org-type::
 people:: [[Matthew Killingsworth]] 
-publications:: 
+creations:: 
 tags:: organisation, #[[cognitive science]] 
-project::
-public:: true
+rel-projects::
+
 
 - [[Mapping the Mind | Our Foundations and Frontiers](https://strategic-plan.sas.upenn.edu/emerging-academic-opportunities/advancing-integrated-knowledge/mapping-mind)](https://mindcore.sas.upenn.edu/about/)
 -

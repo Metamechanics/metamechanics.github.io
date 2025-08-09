@@ -1,11 +1,11 @@
-journal::
-authors:: [[Slavoj Žižek]] 
+rel-journal::
+author:: [[Slavoj Žižek]]
 year:: 2025
 URL:: https://www.abc.net.au/religion/slavoj-zizek-if-there-is-a-god-then-anything-is-permitted/10100616
 tags:: article, #religion #morals #[[free will]] #stimulus #[[Fyodor Dostoyevsky]]
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 -
 - # “If there is a God, then anything is permitted”: On Dostoevsky, freedom, and religious violence

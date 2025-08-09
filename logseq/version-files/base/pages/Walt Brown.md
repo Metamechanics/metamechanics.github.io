@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation:: [[Center for Scientific Creationism]] 
-role:: 
-fields:: [[Creationism]] 
-publications-productions:: [[In the Beginning - Compelling Evidence for Creation and the Flood]] 
-country:: USA
+rel-org:: [[Center for Scientific Creationism]]
+role::
+fields:: [[Creationism]]
+creations:: [[In the Beginning - Compelling Evidence for Creation and the Flood]]
+rel-country:: USA
 tags:: person, #[[falsifiability of evolution]]
-project:: [[AMT]], [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[AMT]], [[Adam's Atlas]]
+
+
 
 -
 -

@@ -1,11 +1,11 @@
 alias::
-author:: [[John Horgan]] 
+author:: [[John Horgan]]
 URL:: https://johnhorgan.org/books/my-quantum-experiment
-publication-year::
-tags:: book, reference
-project:: #AMT  
-question::
-public:: true
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 - [About My Quantum Experiment — John Horgan (The Science Writer)](https://johnhorgan.org/books/my-quantum-experiment)
 -

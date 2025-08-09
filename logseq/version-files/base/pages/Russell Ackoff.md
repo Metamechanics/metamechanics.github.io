@@ -1,12 +1,20 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #[[systems thinking]] #[[wicked problems]] 
-publications-productions:: 
+fields:: #[[systems thinking]] #[[wicked problems]]
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
+alias::
+URL::
+rel-org::
+role::
+fields:: #[[systems thinking]] #[[wicked problems]]
+creations::
+tags:: person
+rel-projects::
 
 -
 - [If Russ Ackoff had given a TED Talk... - YouTube](https://www.youtube.com/watch?v=OqEeIG8aPPk)

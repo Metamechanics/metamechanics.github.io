@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Matter and Memory]], [[Time and Free Will]] 
+creations:: [[Matter and Memory]], [[Time and Free Will]] 
 tags:: person, [[(meta)physics of time]] 
-project:: [[AMT]], [[X-Science]] 
-public:: true
+rel-projects:: [[AMT]], [[X-Science]] 
+
 
 -
 - [Time Doesn’t Exist? Unlocking Bergson’s Mysterious Theory - YouTube](https://www.youtube.com/watch?v=6VEJpu0TYoQ)

@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[pdf management]]
+tags:: app, #[[pdf management]]
 URL::
-similar-to::
+see-also::
 purpose:: #[[pdf annotation]] #[[research notes]]
-project::
+rel-projects::
 
 - [Keypoints – the essence of your research](https://keypoints.app/)
 -

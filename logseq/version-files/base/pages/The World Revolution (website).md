@@ -2,11 +2,11 @@ alias::
 URL:: http://worldrevolution.org/
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation #comparator 
-project:: [[EFA]] 
-question::
-public:: true
+rel-projects:: [[EFA]] 
+
+
 
 - [The World Revolution](http://worldrevolution.org/)
 -

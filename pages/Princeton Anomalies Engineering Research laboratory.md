@@ -2,10 +2,10 @@ alias:: [[PEAR Lab]]
 URL::
 org-type::
 people:: [[Robert Jahn]] 
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 
 -
 -

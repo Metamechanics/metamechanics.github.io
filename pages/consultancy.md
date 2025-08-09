@@ -1,7 +1,6 @@
 alias:: consultant
 tags::
-project::
+rel-projects::
 see-also::
-
 -
 -

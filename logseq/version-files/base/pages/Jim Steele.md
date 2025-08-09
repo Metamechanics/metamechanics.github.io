@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Landscapes and Cycles: An Environmentalist's Journey to Climate Skepticism]] 
+creations:: [[Landscapes and Cycles: An Environmentalist's Journey to Climate Skepticism]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 - [Landscapes and Cycles : An Environmentalist's Journey to Climate Skepticism](http://landscapesandcycles.net/)

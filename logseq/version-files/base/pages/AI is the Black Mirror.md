@@ -1,11 +1,11 @@
-journal::
-authors:: [[Phillip Ball]] 
+rel-journal::
+author:: [[Phillip Ball]]
 year:: 2024
 URL:: https://nautil.us/ai-is-the-black-mirror-1169121/
-tags:: article, reference #AI #[[Black Mirror]] #[[Nautilus (website)]] #[[Shannon Vallor]] 
-project:: [[AMT]], [[Metamechanica]], [[X-Science]] 
-question::
-public:: true
+tags:: article, reference #AI #[[Black Mirror]] #[[Nautilus (website)]] #[[Shannon Vallor]]
+rel-projects:: [[AMT]], [[Metamechanica]], [[X-Science]]
+
+
 
 - ## AI Is the Black Mirror
   Why the kinship between artificial intelligence and the human mind is terrifying.

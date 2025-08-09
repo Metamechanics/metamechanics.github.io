@@ -1,6 +1,6 @@
 alias:: capital-t Truth, absolute Truth, ontological truth
 tags::
-project::
+rel-projects::
 see-also:: [[relative truth]]
 
 - Truth is

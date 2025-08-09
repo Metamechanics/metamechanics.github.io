@@ -1,4 +1,4 @@
-project:: [[DiaGnosis]], [[Global Effort]] 
+rel-projects:: [[DiaGnosis]], [[Global Effort]]
 tags:: #toEdit #toProcess
 
 - Information mapping tool

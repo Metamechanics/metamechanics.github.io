@@ -1,9 +1,9 @@
 alias:: HASH app
-tags:: app, software, #AI, #[[structured data]] #keyResource #important 
+tags:: app, #AI, #[[structured data]] #keyResource #important
 URL::
-similar-to::
+see-also::
 purpose:: build DiaGnosis, build all projects
-project:: all projects, [[metamechanic.io]], [[WADS]]
+rel-projects:: all projects, [[metamechanic.io]], [[WADS]]
 
 - [HASH - a workspace for structured knowledge.](https://hash.ai/)
   collapsed:: true

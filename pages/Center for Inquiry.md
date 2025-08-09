@@ -2,10 +2,10 @@ alias::
 URL:: https://centerforinquiry.org/
 org-type::
 people::
-publications:: [[Skeptical Inquirer]] 
+creations:: [[Skeptical Inquirer]] 
 tags:: organisation, #skepticism #humanism #[[critical thinking]] 
-project::
-public:: true
+rel-projects::
+
 
 - https://centerforinquiry.org/
 - [CFI: Center for Inquiry](https://centerforinquiry.org/)

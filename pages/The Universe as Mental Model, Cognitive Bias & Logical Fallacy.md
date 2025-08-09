@@ -1,6 +1,6 @@
 alias:: the world as logical fallacy
 tags:: [[logical fallacies]], [[mental models]] 
-project:: #AMT, #X-Science 
+rel-projects:: #AMT, #X-Science 
 see-also:: [[The Universe as Anchoring Bias]], [[the Universe as collective confirmation bias]], [[The Universe as Ad Hominem error]]
 
 -

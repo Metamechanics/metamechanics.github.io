@@ -1,8 +1,8 @@
 alias::
-author:: [[Bernie S. Siegel]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Bernie S. Siegel]]
+year::
+tags:: book
+rel-projects::
+
 
 -

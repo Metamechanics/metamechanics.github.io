@@ -1,9 +1,9 @@
 alias::
 author::
-publication-year::
-tags:: book #toRead 
-project:: #allProjects 
-question::
-public:: true
+year::
+tags:: book #toRead
+rel-projects:: #allProjects
+
+
 
 -

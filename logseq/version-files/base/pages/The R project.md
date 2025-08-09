@@ -1,10 +1,10 @@
 alias::
 URL:: https://www.r-project.org/
-organisation::
+rel-org::
 year-commenced::
-tags:: #R 
-project:: [[WADS study]] 
-public:: true
+tags:: #R
+rel-projects:: [[WADS study]]
+
 
 - [R: The R Project for Statistical Computing](https://www.r-project.org/)
 - [CRAN: Manuals](https://cran.r-project.org/manuals.html)

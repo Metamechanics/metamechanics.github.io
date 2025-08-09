@@ -1,6 +1,6 @@
 tags:: youtube, #channel 
 year::
-project:: [[X-Science]], [[Macrohistory of Science & Technology]] 
+rel-projects:: [[X-Science]], [[Macrohistory of Science & Technology]] 
 url:: https://www.youtube.com/@MrVerseKAC
 
 - [Mr Verse - YouTube](https://www.youtube.com/@MrVerseKAC)

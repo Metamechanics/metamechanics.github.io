@@ -1,9 +1,9 @@
-journal::
-authors:: [[Sarah Bond]]
+rel-journal::
+author:: [[Sarah Bond]]
 year::
 URL:: https://hyperallergic.com/470795/pseudoarchaeology-and-the-racism-behind-ancient-aliens/
-tags:: article, reference, #woke #racism #pseudo-archaeology #[[ancient aliens]] 
-project::
-public:: true
+tags:: article, reference, #woke #racism #pseudo-archaeology #[[ancient aliens]]
+rel-projects::
+
 - [Pseudoarchaeology and the Racism Behind Ancient Aliens](https://hyperallergic.com/470795/pseudoarchaeology-and-the-racism-behind-ancient-aliens/)
 -

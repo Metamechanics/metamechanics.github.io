@@ -1,10 +1,10 @@
-journal:: [[New Scientist (journal)]] 
-authors:: [[Eric Lerner]] 
+rel-journal:: [[New Scientist (journal)]]
+author:: [[Eric Lerner]]
 year:: 2004
 URL:: https://www.newscientist.com/article/mg18224482-900-bucking-the-big-bang/
 tags:: article, reference, #cosmology, #plasmaphysics, #[[fringe science]] #unorthodoxy #[[Big Bang Hypothesis]]
-project:: #FRESH #[[X-Science]]
-public:: true
+rel-projects:: #FRESH #[[X-Science]]
+
 
 - ## An Open Letter to the Scientific Community
 - **by E. Lerner,** [New Scientist, May 22, 2004](https://www.newscientist.com/article/mg18224482-900-bucking-the-big-bang/)

@@ -2,9 +2,9 @@
   tags:: concept, theory
   domain::
   people::
-  related-to::
-  project::
-  public:: true
+  see-also::
+  rel-projects::
+
 - purpose of the Universe
 - contrast with:: [[teleonomy]]
 -

@@ -1,10 +1,10 @@
 alias::
-author:: [[David Deutsch]] 
-publication-year::
-tags:: book 
-project:: #AMT  
-question::
-public:: true
+author:: [[David Deutsch]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 -
 -

@@ -1,13 +1,13 @@
 alias:: Langan, Christopher Langan
 URL:: https://megafoundation.substack.com/, https://chrislangan.substack.com/
-organisation::
-role:: [[independent research]] 
-fields:: 
-publications-productions:: [[The Cognitive-Theoretic Model of the Universe - A New Kind of Reality]] 
-country:: USA
-tags:: person, #keyThinker 
-project:: [[AMT]], [[X-Science]] 
-public:: true
+rel-org::
+role:: [[independent research]]
+fields::
+creations:: [[The Cognitive-Theoretic Model of the Universe - A New Kind of Reality]]
+rel-country:: USA
+tags:: person, #keyThinker
+rel-projects:: [[AMT]], [[X-Science]]
+
 
 - [TELEOLOGIC EVOLUTION](https://megafoundation.substack.com/p/teleologic-evolution)
 - [High Strangeness at the Daily Wire](https://chrislangan.substack.com/p/high-strangeness-at-the-daily-wire)

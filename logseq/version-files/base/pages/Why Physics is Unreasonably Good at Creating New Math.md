@@ -1,10 +1,10 @@
-journal::
-authors:: Ananyo Bhattacharya
+rel-journal::
+author:: Ananyo Bhattacharya
 year:: 2024
 URL:: https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/?_sp=b9bf8891-5ab7-4aad-8f76-09499ecbdf46.1727576213198
 tags:: article, reference
-project:: [[AMT]] 
-public:: true
+rel-projects:: [[AMT]]
+
 
 - [Why Physics Is Unreasonably Good at Creating New Math - Nautilus](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/?_sp=b9bf8891-5ab7-4aad-8f76-09499ecbdf46.1727576213198)
 -

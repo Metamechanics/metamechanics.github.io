@@ -1,11 +1,11 @@
 alias::
 URL::
 org-type::
-people:: 
-publications:: 
-tags:: organisation #study #course #economics #toStudy 
-project:: #EFA 
-question::
-public:: true
+people::
+creations::
+tags:: organisation #study #course #economics #toStudy
+rel-projects:: #EFA
+
+
 
 -

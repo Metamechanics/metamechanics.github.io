@@ -1,9 +1,9 @@
 alias::
-author:: [[Thomas Kuhn]] 
-publication-year::
-tags:: book 
-project:: #X-Science 
-question::
-public:: true
+author:: [[Thomas Kuhn]]
+year::
+tags:: book
+rel-projects:: #X-Science
+
+
 
 -

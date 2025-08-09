@@ -1,6 +1,6 @@
 alias:: AAAC, Why I believe in an advanced ancient civilization, My position on ancient civilizations
 tags:: myPosition, [[ancient civilization]], #pre-history #toWrite #myCreation
-project:: [[Adam's Atlas]]
+rel-projects:: [[Adam's Atlas]]
 
 -
 -

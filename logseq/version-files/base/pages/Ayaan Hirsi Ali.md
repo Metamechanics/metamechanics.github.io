@@ -1,14 +1,14 @@
 alias::
 URL:: https://ayaanhirsiali.com/
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Prey: Immigration, Islam, and the Erosion of Women’s Rights]]
-country::
-tags:: person #atheism #Islam #Christianity #feminist 
-project:: #AMT #[[Waking Up From Woke]] 
-question::
-public:: true
+creations:: [[Prey: Immigration, Islam, and the Erosion of Women’s Rights]]
+rel-country::
+tags:: person #atheism #Islam #Christianity #feminist
+rel-projects:: #AMT #[[Waking Up From Woke]]
+
+
 
 - [Ayaan Hirsi Ali](https://ayaanhirsiali.com/)
 - [Ayaan Hirsi Ali - The Market for Victimhood](https://ayaanhirsiali.com/videos/the-market-for-victimhood) #[[priveliged victimhood]]

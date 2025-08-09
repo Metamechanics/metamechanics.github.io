@@ -1,6 +1,5 @@
 alias:: to Review
 tags:: #workflow #[[metamechanic workflow]]
-project:: #[[All Projects]]
+rel-projects:: #[[All Projects]]
 see-also:: #toProcess #toEdit
-
 -

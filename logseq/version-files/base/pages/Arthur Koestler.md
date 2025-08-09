@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[Philosophy of Science]] 
-publications:: [[The Sleepwalkers]] 
-tags:: person, #holon 
-project:: #X-Science 
-public:: true
+fields:: [[Philosophy of Science]]
+creations:: [[The Sleepwalkers]]
+tags:: person, #holon
+rel-projects:: #X-Science
+
 
 -

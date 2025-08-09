@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #[[science fiction]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 - "Any sufficiently advanced technology is indistinguishable from magic.” #quote #AAAC #X-Science

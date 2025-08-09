@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation:: 
+rel-org:: 
 role::
 fields:: [[Futures & Foresight Education]], [[futures & foresight]], [[Futures Studies]] 
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project:: [[Futures & Foresight Education]] 
-question::
-public:: true
+rel-projects:: [[Futures & Foresight Education]] 
+
+
 
 -
 -

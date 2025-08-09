@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[humanism]], [[secular humanism]] 
-publications-productions:: 
+fields:: [[humanism]], [[secular humanism]]
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

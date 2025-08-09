@@ -1,8 +1,7 @@
 alias::
-tags:: 
-project:: [[AMT hyperbook]]
+tags::
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Alternatives to commonly held ideas according to AMT
-
 - General, Global, Universal
 - Biblical, Christian
 - Science

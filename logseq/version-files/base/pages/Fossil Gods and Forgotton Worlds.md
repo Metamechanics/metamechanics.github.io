@@ -1,10 +1,10 @@
 alias::
-author:: [[Ev Cochrane]] 
-publication-year::
-tags:: book, reference
-project:: #[[X-Science]] 
-question::
-public:: true
+author:: [[Ev Cochrane]]
+year::
+tags:: book
+rel-projects:: #[[X-Science]]
+
+
 
 - [Fossil Gods and Forgotten Worlds | maverick science.com](https://www.maverickscience.com/fossil-gods-and-forgotten-worlds/)
 - ### Contents

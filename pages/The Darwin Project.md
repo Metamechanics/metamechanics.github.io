@@ -2,10 +2,10 @@ alias::
 URL:: https://thedarwinproject.com/home.html
 org-type:: [[advocacy]] 
 people:: [[David Loye]], [[Ervin Laszlo]] 
-publications:: 
+creations:: 
 tags:: organisation, #evolution #[[Charles Darwin]]  
-project:: [[Fresh Alternatives]], [[X-Science]], [[Babies, Bibles and Bathwater]],  
-public:: true
+rel-projects:: [[Fresh Alternatives]], [[X-Science]], [[Babies, Bibles and Bathwater]],  
+
 
 - [The Darwin Project](https://thedarwinproject.com/home.html)
 -

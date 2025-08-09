@@ -2,9 +2,9 @@ alias:: VisCap
 URL::
 org-type:: #website  
 people:: 
-publications:: 
+creations:: 
 tags:: organisation, #infographic #[[data visualization]] 
-project:: #DiaGnosis 
-public:: true
+rel-projects:: #DiaGnosis 
+
 
 -

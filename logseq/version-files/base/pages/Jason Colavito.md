@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.jasoncolavito.com/
-organisation::
+rel-org::
 role:: [[independent researcher]] 
 fields::
-publications:: 
+creations:: 
 tags:: person, #skeptic, #pseudo-skepticism, #[[Fringe, Alternative & Conspiracy Theories]], #history, #[[ancient text]], #[[conspiracy thinking]], #[[pop culture]], #pseudhistory 
-project:: [[FRESH]] 
-public:: true
+rel-projects:: [[FRESH]] 
+
 - [Jason Colavito - Wikipedia](https://en.wikipedia.org/wiki/Jason_Colavito)
 - Books
 	- [[The Legends of the Pyramids]]

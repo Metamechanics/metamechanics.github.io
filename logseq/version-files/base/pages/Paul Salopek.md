@@ -1,11 +1,11 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 - [Re-joining Paul Salopek on his walk across the world - ABC listen](https://www.abc.net.au/listen/programs/latenightlive/re-join-paul-salopek-on-his-walk-across-the-world/103840722)
 -

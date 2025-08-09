@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.bernardokastrup.com/
-organisation:: [[Essentia Foundation]]  
+rel-org:: [[Essentia Foundation]]
 role::
 fields:: #[[Philosophy of Mind]] #[[Artificial Intelligence]] #[[Post-Material Science]]
-publications-productions:: [[Theory of Embedded Intelligence]], [[The Idea of the World - A Multi-disciplinary argument for the mental nature of reality]], [[Why Materialism is Baloney]], [[Decoding Jung's Metaphysics]] 
+creations:: [[Theory of Embedded Intelligence]], [[The Idea of the World - A Multi-disciplinary argument for the mental nature of reality]], [[Why Materialism is Baloney]], [[Decoding Jung's Metaphysics]]
 tags:: person, #[[Key Thinker]]
-project:: [[X-Science]]  
-public:: true
+rel-projects:: [[X-Science]]
+
 
 - [Bernardo Kastrup, PhD, PhD](https://www.bernardokastrup.com/)
 -

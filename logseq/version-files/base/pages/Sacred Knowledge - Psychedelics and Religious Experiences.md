@@ -1,8 +1,8 @@
 alias::
-author:: [[William Richards]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[William Richards]]
+year::
+tags:: book
+rel-projects::
+
 
 -

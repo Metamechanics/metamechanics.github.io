@@ -1,9 +1,9 @@
 alias::
-author:: [[Rupert Sheldrake]] 
-publication-year::
-tags:: book, reference, psi, #[[Philosophy of Science]] #dogma #toSummarise 
-project:: [[X-Science]] 
-public:: true
+author:: [[Rupert Sheldrake]]
+year::
+tags:: book, psi, #[[Philosophy of Science]] #dogma #toSummarise
+rel-projects:: [[X-Science]]
+
 - #toSummarise
 -
 -

@@ -1,5 +1,4 @@
 alias:: ID
 tags::
-project:: [[AMT]]
-
+rel-projects:: [[AMT]]
 -

@@ -1,7 +1,7 @@
 alias::
 tags:: #Atlantis #Lemuria #database 
 url:: 
-project:: [[Adam's Atlas]] 
+rel-projects:: [[Adam's Atlas]] 
 see-also:: [[Myths of Atlantis and Lemuria]], [[The Atlantis Encyclopedia]]
 
 - Database of materials mentioning, referencing or directly discussing Atlantis and Mu

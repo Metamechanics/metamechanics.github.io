@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #keyResource, #economics #inequality #course #online #[[open-access]]
-project:: [[EFA]] 
-public:: true
+rel-projects:: [[EFA]]
+
 
 - Curriculum Open-Access Resources in Economics
 -

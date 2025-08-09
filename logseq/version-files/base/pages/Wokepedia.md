@@ -1,7 +1,7 @@
 alias::
 tags:: #wikipedia #bias #woke 
 url:: 
-project:: [[Waking Up From Woke]] 
+rel-projects:: [[Waking Up From Woke]] 
 see-also::
 
 -

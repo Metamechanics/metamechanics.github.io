@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #EFA
+rel-projects:: #EFA
 - Enough For All (EFA) is an exploration into (in)sufficiency, its roots and possible remedies.
 - It operates around the central question, “Is there enough for all?” Further questions arise from the response(s) to this in each level, domain, issue, aspect.
 - EFA attempts to make the grand issue of scarcity, poverty and prosperity more intellectually digestible by cohering disparate data, siloed expertise and competing analyses into an overarching, sensible narrative. In doing so, it hopes to make the troubling universal phenomenon of poverty more emotionally manageable and pragmatically hopeful.

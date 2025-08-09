@@ -1,7 +1,7 @@
 alias::
 tags:: [[John Baez]] #pseudoscience #skepticism 
 URL:: https://math.ucr.edu/home/baez/crackpot.html
-project:: [[X-Science]] 
+rel-projects:: [[X-Science]] 
 see-also:: [[The Anti-Crackpot Index]]
 
 - [The CRACKPOT Index](https://www.physics.smu.edu/scalise/www/misc/crackpot/crindex.html)

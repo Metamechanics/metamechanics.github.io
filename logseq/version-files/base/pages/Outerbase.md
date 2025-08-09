@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #databases #[[cloud software]] 
+tags:: app, #databases #[[cloud software]]
 URL:: https://www.outerbase.com/
-similar-to:: [[Supabase]], [[baserow]] 
+see-also:: [[Supabase]], [[baserow]]
 purpose:: #databases, database interface
-project:: [[WADS]], [[Metamechanic Mycelium]]
+rel-projects:: [[WADS]], [[Metamechanic Mycelium]]
 
 - [Outerbase | The interface for your database](https://www.outerbase.com/)
 -

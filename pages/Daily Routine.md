@@ -1,6 +1,6 @@
 alias:: dailyRoutine
 tags::
-project:: #workflow #TremenDuus #MetaMechanic
+rel-projects:: #workflow #TremenDuus #MetaMechanic
 see-also:: #[[Weekly Routine]]
 
 - Tasks to include everyday

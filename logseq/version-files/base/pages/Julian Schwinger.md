@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[quantum physics]] 
-publications-productions:: 
-country::
+fields:: [[quantum physics]]
+creations::
+rel-country::
 tags:: person, #[[Nobel Prize]] #[[Cold Fusion]]
-project:: [[X-Science]], [[ANEO]] 
-question::
-public:: true
+rel-projects:: [[X-Science]], [[ANEO]]
+
+
 
 -

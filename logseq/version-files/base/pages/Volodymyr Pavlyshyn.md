@@ -1,12 +1,12 @@
 alias::
-URL:: 
-organisation::
+URL::
+rel-org::
 role:: #[[computer programmer]]
-fields:: #[[knowledge graph]] #[[ontology (CompSci)]]  
-publications-productions:: 
-tags:: person #collaborator #[[Project Collaboration Dream Team]] 
-project::
-public:: true
+fields:: #[[knowledge graph]] #[[ontology (CompSci)]]
+creations::
+tags:: person #collaborator #[[Project Collaboration Dream Team]]
+rel-projects::
+
 
 - [Personal knowledge graphs and obsidian zettelkasten empowered by ai . - YouTube](https://www.youtube.com/watch?v=HgnopjBgbd0)
 - [Volodymyr Pavlyshyn – Medium](https://volodymyrpavlyshyn.medium.com/)

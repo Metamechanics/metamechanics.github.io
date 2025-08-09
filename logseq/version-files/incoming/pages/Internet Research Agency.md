@@ -2,9 +2,9 @@ alias:: Kremlinbots, Glavset, TrollsFromOlgino
 URL::
 org-type:: [[government front]] 
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 - [Internet Research Agency - Wikipedia](https://en.wikipedia.org/wiki/Internet_Research_Agency)
 -

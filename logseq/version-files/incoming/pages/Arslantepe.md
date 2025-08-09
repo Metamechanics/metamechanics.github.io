@@ -1,9 +1,9 @@
 alias::
-tags:: 
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
-nearest-town:: #Malatya 
+tags::
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
+nearest-town:: #Malatya
 map-url::
 
 -

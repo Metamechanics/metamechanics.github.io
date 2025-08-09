@@ -1,11 +1,11 @@
 alias::
-tags:: concept, theory, [[macrohistory]], [[cycle of empire]] 
-domain:: [[history]], [[civilization collapse]] 
-people:: [[John Glubb]] 
-related-to:: 
-project::
-question::
-public:: true
+tags:: concept, theory, [[macrohistory]], [[cycle of empire]]
+domain:: [[history]], [[civilization collapse]]
+people:: [[John Glubb]]
+see-also::
+rel-projects::
+
+
 
 -
 - 250 year cycle of

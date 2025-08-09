@@ -1,6 +1,6 @@
 alias:: non-dual
 tags::
-project::
+rel-projects::
 see-also:: [[duality]]
 
 -

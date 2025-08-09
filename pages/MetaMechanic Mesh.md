@@ -1,7 +1,7 @@
 alias::
 tags::
 url:: mesh.metamechanic.io
-project::
+rel-projects::
 see-also::  [[Metamechanic Mycelium]], [[Metamechanic Portfolio]]
 
 - Deployment of raw Logseq MM instance

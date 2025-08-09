@@ -1,11 +1,9 @@
 alias:: Nietzsche
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[philosophy]] 
-publications-productions:: [[The Antichrist (book)]], [[Thus Spoke Zarathrustra]] 
-country::
-tags:: person, #ubermensch  
-project:: [[AMT]], [[Inner Beginner]] 
-question::
-public:: true
+fields:: [[philosophy]]
+creations:: [[The Antichrist (book)]], [[Thus Spoke Zarathrustra]]
+rel-country::
+tags:: person, #ubermensch
+rel-projects:: [[AMT]], [[Inner Beginner]]

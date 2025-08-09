@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: #Jordan 
+location::
+rel-country:: #Jordan
 place-type::
 nearest-town::
 map-url::

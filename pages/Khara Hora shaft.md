@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: #Russia 
-place-type:: #megalith #cave 
+location::
+rel-country:: #Russia
+place-type:: #megalith #cave
 nearest-town::
 map-url::
 

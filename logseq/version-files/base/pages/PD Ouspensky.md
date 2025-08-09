@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #theosophy #occult #metaphysics #parapsychology 
-publications-productions:: [[The Strange Life of Ivan Osoukin]] 
-country::
+fields:: #theosophy #occult #metaphysics #parapsychology
+creations:: [[The Strange Life of Ivan Osoukin]]
+rel-country::
 tags:: person
-project:: #AMT #[[X-Science]] 
-question::
-public:: true
+rel-projects:: #AMT #[[X-Science]]
+
+
 
 -
 -

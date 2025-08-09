@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.tmwr.org/
-organisation::
+rel-org::
 year-commenced::
 tags:: website
-project:: [[WADS study]] 
-question::
-public:: true
+rel-projects:: [[WADS study]]
+
+
 
 - [Tidy Modeling with R](https://www.tmwr.org/)
 -

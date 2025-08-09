@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: #artist 
-fields:: [[surrealism]] 
-publications-productions:: 
-country::
+rel-org::
+role:: #artist
+fields:: [[surrealism]]
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

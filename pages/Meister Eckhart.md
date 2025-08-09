@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation:: [[Dominican priests]] 
+rel-org:: [[Dominican priests]] 
 role:: #mystic 
 fields:: #[[Non-dual spirituality]] #Christianity 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[Inner Beginner]], [[Another M-Theory]] 
-public:: true
+rel-projects:: [[Inner Beginner]], [[Another M-Theory]] 
+
 -

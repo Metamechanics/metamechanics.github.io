@@ -1,10 +1,10 @@
 alias::
 author:: [[Karl Popper]] 
-publication-year::
+year::
 tags:: book 
-project:: #X-Science #AMT 
-question::
-public:: true
+rel-projects:: #X-Science #AMT 
+
+
 
 -
 - [[Primary Sources – Science | Antilogicalism](https://antilogicalism.com/primary-sources/science/)](https://antilogicalism.com/primary-sources/science/)

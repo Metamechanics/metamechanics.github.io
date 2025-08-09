@@ -1,8 +1,8 @@
 alias::
-author:: [[Robert Heinlein]] 
-publication-year::
-tags:: book, fable, #grok #sci-fi #metamorphosis 
-project:: [[Inner Beginner]] 
-public:: true
+author:: [[Robert Heinlein]]
+year::
+tags:: book, fable, #grok #sci-fi #metamorphosis
+rel-projects:: [[Inner Beginner]]
+
 
 -

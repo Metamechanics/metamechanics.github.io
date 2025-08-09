@@ -1,7 +1,6 @@
 alias::
-Creators::
+creators::
 year::
 URL::
-tags:: movie 
-project:: #AMT  
-public:: true
+tags:: movie
+rel-projects:: #AMT

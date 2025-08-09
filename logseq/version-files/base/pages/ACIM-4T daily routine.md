@@ -1,6 +1,6 @@
 alias:: 
 tags:: #dailyRoutine
-project:: #ACIM-4T
+rel-projects:: #ACIM-4T
 
 - Language X
 	- Transcribe 1 x lesson in language X

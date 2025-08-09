@@ -1,10 +1,9 @@
 alias::
-tags:: app, software, python
+tags:: app, python
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS]]
-
+rel-projects:: [[WADS]]
 - [Observable: Build expressive charts and dashboards with code](https://observablehq.com/)
 - [Observable docs](https://observablehq.com/documentation/)
 -

@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[open source]], #[[digital cloud]]
+tags:: app, #[[open source]], #[[digital cloud]]
 URL:: https://nextcloud.com/
-similar-to::
+see-also::
 purpose::
-project:: [[X-C Communities]]
+rel-projects:: [[X-C Communities]]
 
 - open source of Google docs, Google drive, chat, messaging, file storage,
 - collaborative editing

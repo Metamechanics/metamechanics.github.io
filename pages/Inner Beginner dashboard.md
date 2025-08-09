@@ -1,9 +1,8 @@
 alias::
 tags:: #dashboard 
 url:: 
-project:: [[Inner Beginner]] 
+rel-projects:: [[Inner Beginner]] 
 see-also::
-
 -
 - ## Inner Beginner Phase 1 tasks
 	- #### Content & Concept

@@ -1,11 +1,11 @@
-journal:: 
-authors:: [[Filippo Biondi]], [[Corrado Malanga]] 
-year:: 2025 
+rel-journal::
+author:: [[Filippo Biondi]], [[Corrado Malanga]]
+year:: 2025
 URL:: https://arxiv.org/abs/2208.00811 , https://www.mdpi.com/2072-4292/14/20/5231
-tags:: article #[[Ancient Egypt]] #Giza #[[Pyramids of Giza]] 
-project:: [[Adam's Atlas]] 
-question:: #[[What is under the Giza pyramids]]
-public:: true
+tags:: article #[[Ancient Egypt]] #Giza #[[Pyramids of Giza]]
+rel-projects:: [[Adam's Atlas]]
+ #[[What is under the Giza pyramids]]
+
 
 -
 - [SYNTHETIC APERTURE RADAR DOPPLER TOMOGRAPHY REVEALS DETAILS OF UNDISCOVERED HIGH-RESOLUTION INTERNAL STRUCTURE OF THE GREAT PYRAMID OF GIZA.pdf](hook://file/sFPdY3XwQ?p=QWRhbSdzIEF0bGFzL0FuY2llbnQgRWd5cHQ=&n=SYNTHETIC%20APERTURE%20RADAR%20DOPPLER%20TOMOGRAPHY%20REVEALS%20DETAILS%20OF%20UNDISCOVERED%20HIGH%2DRESOLUTION%20INTERNAL%20STRUCTURE%20OF%20THE%20GREAT%20PYRAMID%20OF%20GIZA%2Epdf)

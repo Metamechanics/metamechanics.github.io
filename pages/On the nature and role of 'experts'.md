@@ -1,7 +1,6 @@
 alias:: On Experts
-Related-pubs::
-related-project:: #EFAblog #EFA #blog #[[Fresh Alternatives]] #FACTs #AMT 
-question:: [[What exactly is an expert?]] 
+rel-projects:: #EFAblog #EFA #blog #[[Fresh Alternatives]] #FACTs #AMT
+ [[What exactly is an expert?]]
 Tags:: #toWrite #MyBlog #myCreation #toResearch #toOutline, #experts
 
 	- premise / thesis / key messages

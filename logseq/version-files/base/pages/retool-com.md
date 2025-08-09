@@ -1,8 +1,7 @@
 alias::
-tags:: app, software #[[app builder]] #React-js 
+tags:: app #[[app builder]] #React-js
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS]] [[ACIM accordance]] [[ACIM-AI]]
-
+rel-projects:: [[WADS]] [[ACIM accordance]] [[ACIM-AI]]
 -

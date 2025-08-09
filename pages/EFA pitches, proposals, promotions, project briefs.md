@@ -1,8 +1,7 @@
 alias:: EFA4P
 tags:: #slogan #catchphrase #motto #marketing #[[project brief]]
-project:: #EFA
+rel-projects:: #EFA
 see-also::
-
 - Slogans, catch-phrases, header sliders
   collapsed:: true
 	- Enough For All: so that more may be more and have more.

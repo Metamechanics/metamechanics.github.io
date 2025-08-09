@@ -1,7 +1,6 @@
-Question-Problem::
-Related-pubs::
-Audience:: 
-project::  [[FF-ed]] , [[FSIB]] 
+alias::
+Audience::
+rel-projects::  [[FF-ed]] , [[FSIB]]
 Tags:: #toWrite #MyArticle #myCreation
 
 - #blog

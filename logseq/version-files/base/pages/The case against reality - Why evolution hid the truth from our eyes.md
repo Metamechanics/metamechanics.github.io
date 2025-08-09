@@ -1,8 +1,8 @@
 alias::
-author:: [[Donald Hoffman]] 
-publication-year::
-tags:: book #evolution #toSummarise 
-project:: #AMT  
-question::
-public:: true
+author:: [[Donald Hoffman]]
+year::
+tags:: book #evolution #toSummarise
+rel-projects:: #AMT
+
+
 -

@@ -1,8 +1,8 @@
 alias::
-tags:: app, software, PDF, #iHaveit 
+tags:: app, PDF, #iHaveit
 URL::
-similar-to:: Adobe Acrobat
+see-also:: Adobe Acrobat
 purpose:: edit PDFs
-project:: #workflow
+rel-projects:: #workflow
 
 -

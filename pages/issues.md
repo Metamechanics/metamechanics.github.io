@@ -1,6 +1,6 @@
 alias:: issue
 tags::
-project::
+rel-projects::
 see-also:: #topic
 
 -

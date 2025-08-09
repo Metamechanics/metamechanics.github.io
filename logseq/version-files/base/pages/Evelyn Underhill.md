@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Mysticism - A Study in Nature and Development of Spiritual Consciousness]]
-country::
+creations:: [[Mysticism - A Study in Nature and Development of Spiritual Consciousness]]
+rel-country::
 tags:: person
-project:: #AMT #[[Inner Beginner]] 
-question::
-public:: true
+rel-projects:: #AMT #[[Inner Beginner]]
+
+
 
 -
 -

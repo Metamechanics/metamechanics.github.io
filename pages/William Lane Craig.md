@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.reasonablefaith.org/
-organisation::
-role:: #preacher #apologetics 
+rel-org::
+role:: #preacher #apologetics
 fields:: #[[Christian theology]]
-publications-productions:: 
+creations::
 tags:: person #Christian #orthodoxy #keyThinker #[[Kalam Cosmological Argument]]
-project:: [[Another M-Theory]], [[Babies, Bibles and Bathwater]] 
-public:: true
+rel-projects:: [[Another M-Theory]], [[Babies, Bibles and Bathwater]]
+
 
 - [Reasonable Faith](https://www.reasonablefaith.org/)
 -

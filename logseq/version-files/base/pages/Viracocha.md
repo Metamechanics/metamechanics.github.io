@@ -1,6 +1,6 @@
 alias:: Qun Tiqsi Viracocha Pacayacaciq
 tags:: 
-project:: #[[Adam's Atlas]] 
+rel-projects:: #[[Adam's Atlas]] 
 see-also::
 
 - Qun Tiqsi Viracocha Pacayacaciq

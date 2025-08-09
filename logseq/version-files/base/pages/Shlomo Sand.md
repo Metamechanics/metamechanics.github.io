@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Invention of the Land of Israel]] 
+creations:: [[The Invention of the Land of Israel]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

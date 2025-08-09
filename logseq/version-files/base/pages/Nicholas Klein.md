@@ -1,13 +1,13 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 -
 - First they ignore you. Then they ridicule you. And then they attack you and want to burn you. And then they build monuments to you. #quote #X-Science
   id:: 670894f4-78ff-4496-9dc8-03b0935306c3

@@ -1,14 +1,14 @@
 alias::
-URL:: 
-organisation::
+URL::
+rel-org::
 role::
 fields::
-publications-productions:: [[Finite and Infinite Games]], [[Breakfast at the Victory - the Mysticism of Ordinary Experience]] 
-country::
+creations:: [[Finite and Infinite Games]], [[Breakfast at the Victory - the Mysticism of Ordinary Experience]]
+rel-country::
 tags:: person
-project:: #AMT #X-Science 
-question::
-public:: true
+rel-projects:: #AMT #X-Science
+
+
 
 - [The Infinite Game with Dr. James Carse | A Bit of Optimism - a Podcast with Simon Sinek: Episode 24 - YouTube](https://www.youtube.com/watch?v=r6ME0_iXr4M) #[[Simon Sinek]]
 - [Playing the Infinite Game During the Meta-Crisis w/ James Carse - YouTube](https://www.youtube.com/watch?v=EFKa3zRFo7o)

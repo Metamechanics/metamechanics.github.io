@@ -1,10 +1,10 @@
-journal:: [[Essentia Foundation]] blog 
-authors:: [[Hans Busstra]] 
+rel-journal:: [[Essentia Foundation]] blog
+author:: [[Hans Busstra]]
 year:: 2024
 URL:: https://www.essentiafoundation.org/enter-experimental-metaphysics/reading/
-tags:: article, reference #toProcess #metaphysics #[[quantum physics]] #[[Science-Spirituality]] #toRead 
-project:: #X-Science #Metamechanica 
-public:: true
+tags:: article, reference #toProcess #metaphysics #[[quantum physics]] #[[Science-Spirituality]] #toRead
+rel-projects:: #X-Science #Metamechanica
+
 
 - [Enter Experimental Metaphysics | Essentia Foundation](https://www.essentiafoundation.org/enter-experimental-metaphysics/reading/)
 -

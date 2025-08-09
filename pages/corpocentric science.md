@@ -1,4 +1,4 @@
 alias::
 tags:: #myIdea 
-project::
+rel-projects::
 see-also::

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[anthropology]] 
-publications-productions:: [[Humanity's Extraterrestrial Origins]] 
-country::
+fields:: [[anthropology]]
+creations:: [[Humanity's Extraterrestrial Origins]]
+rel-country::
 tags:: person
-project:: [[Adam's Atlas]], [[FACTs]], #ET #[[ancient aliens]] 
-public:: true
+rel-projects:: [[Adam's Atlas]], [[FACTs]], #ET #[[ancient aliens]]
+
 
 - [Arthur D. Horn, Ph.D. | ancientalienpedia](https://ancientalienpedia.wordpress.com/contributors/arthur-d-horn-ph-d/)
 - [Who is Ea?](https://www.bibliotecapleyades.net/sumer_anunnaki/esp_sumer_annunaki24.htm)

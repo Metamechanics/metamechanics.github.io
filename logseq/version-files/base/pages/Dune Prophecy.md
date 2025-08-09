@@ -1,10 +1,10 @@
 alias::
-Creators::
+creators::
 year::
 URL::
 tags:: movie, #[[TV series]]
-project:: 
-public:: true
+rel-projects::
+
 
 -
 - Victory is celebrated in the Light, but it is won in the darkness. #[[Dune Prophecy]] #quote

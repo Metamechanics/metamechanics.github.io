@@ -1,8 +1,8 @@
 alias::
 tags:: app, markdown
 URL::
-similar-to::
+see-also::
 purpose::
-project:: #WADS
+rel-projects:: #WADS
 
 -

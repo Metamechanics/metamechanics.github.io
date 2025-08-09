@@ -1,8 +1,8 @@
 alias::
 tags:: #[[Silk Road]]
-place:: [[Inner Mongolia]] 
-country:: [[China]] 
-place-type:: 
+location:: [[Inner Mongolia]]
+rel-country:: [[China]]
+place-type::
 nearest-town::
 map-url::
 

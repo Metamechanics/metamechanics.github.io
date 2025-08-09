@@ -1,13 +1,23 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Ultimate Hidden Truth of the World...]], [[Debt (book)]], [[The Dawn of Everything]] 
-country::
+creations:: [[The Ultimate Hidden Truth of the World...]], [[Debt (book)]], [[The Dawn of Everything]]
+rel-country::
 tags:: person
-project:: #EFA #AMT 
-question::
-public:: true
+rel-projects:: #EFA #AMT
+
+
+alias::
+URL::
+rel-org::
+role::
+fields::
+creations:: [[The Ultimate Hidden Truth of the World...]], [[Debt (book)]], [[The Dawn of Everything]]
+rel-country::
+tags:: person
+rel-projects:: #EFA #AMT
+
 
 -

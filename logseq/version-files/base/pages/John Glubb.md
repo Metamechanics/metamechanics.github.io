@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[history]], [[macrohistory]] 
-publications-productions:: [[The Fate of Empires and the Search for Survival]] 
-country::
+fields:: [[history]], [[macrohistory]]
+creations:: [[The Fate of Empires and the Search for Survival]]
+rel-country::
 tags:: person
-project:: [[Adam's Atlas]], [[FRESH]], [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]], [[FRESH]], [[X-Science]]
+
+
 
 - [[Six stages of civilizational decline]]
 - [All Civilizations Follow the Same Pattern - YouTube](https://www.youtube.com/watch?v=6hUS0Q_lzNA)

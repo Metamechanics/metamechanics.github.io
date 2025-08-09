@@ -1,8 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://about.readthedocs.com/
-similar-to::
+see-also::
 purpose:: documentation versioning, hosting
-project:: [[A Textbook for the Futures]]
+rel-projects:: [[A Textbook for the Futures]]
 
 -

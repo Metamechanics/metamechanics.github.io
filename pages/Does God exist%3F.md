@@ -1,6 +1,6 @@
 alias:: 
 tags::
-project:: #[[Big Question]] #[[AMT]]
+rel-projects:: #[[Big Question]] #[[AMT]]
 see-also::  [[evidence for God]], [[Is There Scientific Evidence for the Existence of God?]], [[arguments for and against God]], #[[Intelligent Design]]
 
 -

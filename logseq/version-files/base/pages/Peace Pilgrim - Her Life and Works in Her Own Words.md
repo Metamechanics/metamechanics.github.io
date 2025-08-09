@@ -1,10 +1,10 @@
 alias::
-author:: [[Peace Pilgrim]] 
-publication-year::
-tags:: book, reference, #keyResource #[[the spiritual journey]]
-project:: [[Inner Beginner]], [[EFA]] 
-question::
-public:: true
+author:: [[Peace Pilgrim]]
+year::
+tags:: book, #keyResource #[[the spiritual journey]]
+rel-projects:: [[Inner Beginner]], [[EFA]]
+
+
 
 -
 - ### Spiritual Journey of Peace Pilgrim

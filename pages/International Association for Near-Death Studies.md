@@ -1,11 +1,11 @@
 alias::
 URL::
-org-type:: 
+org-type::
 people::
-publications:: [[Journal of Near-Death Studies]] 
-tags:: organisation, #NDEs  
-project:: #freshAlts 
-public:: true
+creations:: [[Journal of Near-Death Studies]]
+tags:: organisation, #NDEs
+rel-projects:: #freshAlts
+
 
 -
 -

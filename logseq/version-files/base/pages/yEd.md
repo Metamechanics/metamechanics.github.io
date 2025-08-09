@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
-project:: #DiaGnosis
+rel-projects:: #DiaGnosis
 
 - [[yFiles]]
 - graph editor

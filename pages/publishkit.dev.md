@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://publishkit.dev/
-similar-to::
-purpose:: #publishing #markdown 
-project::
+see-also::
+purpose:: #publishing #markdown
+rel-projects::
 
 - [KIT](https://publishkit.dev/)
 -

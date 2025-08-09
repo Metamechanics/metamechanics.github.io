@@ -1,6 +1,6 @@
 alias::
 tags:: #[[Philosophy of Science]] #right-mind #wrong-mind 
-project:: #[[AMT hyperbook]] #X-Science  
+rel-projects:: #[[AMT hyperbook]] #X-Science  
 see-also::
 
 -

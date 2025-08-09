@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #[[cancel culture]] 
-project:: [[Waking Up From Woke]] 
-question::
-public:: true
+rel-projects:: [[Waking Up From Woke]] 
+
+
 
 - [Canceled People](https://canceledpeople.org/cancellations/)
 -

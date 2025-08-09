@@ -1,7 +1,7 @@
 alias::
-tags:: #Inca #Amazon 
-place::
-country::
+tags:: #Inca #Amazon
+location::
+rel-country::
 place-type::
 nearest-town::
 map-url::

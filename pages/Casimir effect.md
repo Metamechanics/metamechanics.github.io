@@ -2,9 +2,9 @@
   tags:: concept, theory
   domain::
   people::
-  related-to::
-  project::
-  public:: true
+  see-also::
+  rel-projects::
+  
 - {{video https://youtube.com/shorts/Lajv9B0eGJc?si=JYhHcTwwXqS55ar0}}
 -
 -

@@ -1,3 +1,32 @@
+alias:: xSci
+related-rel-projects:: [[AMT]]
+Tags:: #toWrite, #[[My Books]]
+
+- we cannot have a #[[theory of everything]] until we look at the very nature of science itself
+- a #[[theory of everything]] must include a theory of science #AMT
+	- it must be able to incorporate itself
+	- {{embed ((670886e2-d611-409a-923e-b43cec276a9c))}}
+- "science washing" or "scientific revisionism"
+	- In the cases of scientific discoveries or hypotheses that are ridiculed and proponents harassed, that are later shown to be accurate, Science retrospectively, consciously or unconsciously, overtly or covertly, always frames itself to be the victor, to be superior, to be effective. "Science ultimately found the answer. It just took some time."
+		- Reminds of the quote {{embed ((670894f4-78ff-4496-9dc8-03b0935306c3)) }}
+	- The establishment looks back and says, "Yes, but we got there in the end." largely dismissing or trivializing the ridicule they dished out, the anguish they caused, the professions they ruined, and ultimately the delay they caused in the understanding of the universe
+		- counter-points:
+			- the cases of ridicule where they were right, justified
+			- it is exactly not the blind acceptance that gives science its power
+			- resources (time, money, manpower, emotion, mental concentration) have to be prioritised. We can't investigate every seeming "crackpot" theory
+	- selective memory
+	- scientific method vs Science as bigger sociological/societal phenomenon
+		- what's the terminology?
+		- method is good, in theory, but Scientists are inconsistently scientific
+- on how scientists are:
+	- religious, clergy
+	- contradictory, hypocrits
+	- experimentalists (even though theoreticians)
+	- blind
+	- critical thinkers
+	- not critical thinkers
+	- visionaries
+	- and how we are all scientists
 - Here, "X" denotes:
 	- X marks the spot: buried treasure
 	- X as in unknown, the mathematical variable, the useful tool of algebra
@@ -26,7 +55,7 @@
 	- Einstein vs nazi nemesis
 	- Buddha
 		- test for yourself; rub the gold
-	- Quantum mechanics: early vs contemporary; Schrodinger vs Krauss/Caltech guy
+	- Quantum mechanics: early vs contemporary; Schrodinger vs [[Laurence Krauss]] and [[Sean Carroll]]
 	- James Randi
 - Psychology of scientists
 - Sociology of science
@@ -58,3 +87,12 @@
 	- "rip offs" refers to theft and unacknowledgment and mischaracterization
 		- [[Rosalind Franklin]]
 	- The problem with scientists is that they are human.
+-
+- Consistency of thinking with practice. (Mis)Alignment of conclusions and operation with premises and assumptions.
+  eg. How do the daily lives of scientists and their practice of science agree with the consequences of quantum mechanics?
+- "I wouldn't believe it if it were true"
+- Analogous to doctors who are unhealthy and unfit; the unhealed healer
+- Science shows X but scientists still do Y
+- Incongruence
+- Serendipity in science
+- Dreams and intuitions in scientific discovery

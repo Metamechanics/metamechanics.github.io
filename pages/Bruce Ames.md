@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[University of California - Berkeley]] 
+rel-org:: [[University of California - Berkeley]] 
 role:: [[academic]] 
 fields::
-publications-productions:: [[Dietary pesticides (99.99% all natural)]] 
+creations:: [[Dietary pesticides (99.99% all natural)]] 
 tags:: person, #freshAlts #diet 
-project::
-public:: true
+rel-projects::
+
 
 - [Bruce N. Ames, Ph.D. - About Dr. Ames](https://www.bruceames.org/)
 -

@@ -1,11 +1,11 @@
 alias::
 URL:: https://biblesr.org/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #keyResource #[[biblical history]] #[[biblical scholarship]] #Bible 
-project:: #AMT #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+rel-projects:: #AMT #[[Babies, Bibles and Bathwater]] 
+
+
 see-also:: [[Sefaria-org]]
 
 - [Bible Search & Rescue](https://biblesr.org/)

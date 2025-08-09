@@ -2,10 +2,10 @@ alias::
 URL:: https://thelaszloinstitute.com/
 org-type::
 people:: [[Ervin Laszlo]] 
-publications:: 
+creations:: 
 tags:: organisation, [[psi]], [[MacroScience]] #[[fringe science]], #[[paradigm shift]] 
-project:: [[X-Science]], [[AMT]], [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[X-Science]], [[AMT]], [[Fresh Alternatives]] 
+
 
 - [The Laszlo Institute | of New Paradigm Research](https://thelaszloinstitute.com/)
 -

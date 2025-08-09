@@ -1,7 +1,7 @@
 alias::
 tags::
-url:: 
-project::
+url::
+rel-projects::
 see-also:: #MyArticle
 
 -

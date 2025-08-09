@@ -1,5 +1,5 @@
 alias:: QuestionsToSelf, QTS
-publish:: false
+
 -
 - DONE I've forgotten what I wanted to ask myself
 - DONE Can I update Logseq on school laptop/network and push to my published Logseq page?

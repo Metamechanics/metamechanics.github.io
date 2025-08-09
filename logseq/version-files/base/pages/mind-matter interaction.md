@@ -1,6 +1,6 @@
 alias:: psychophysics, psychophysical
 tags::
-project:: #AMT
+rel-projects:: #AMT
 see-also:: #telekinesis #psi
 
 -

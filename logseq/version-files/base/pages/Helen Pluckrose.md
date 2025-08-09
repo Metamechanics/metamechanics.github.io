@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project:: [[Waking Up From Woke]] 
-question::
-public:: true
+rel-projects:: [[Waking Up From Woke]]
+
+
 
 -

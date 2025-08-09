@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation:: [[Teach the Future]] 
-role:: [[academic]] 
+rel-org:: [[Teach the Future]]
+role:: [[academic]]
 fields::
 tags:: person
-project:: [[FF-ed]] 
-public:: true
+rel-projects:: [[FF-ed]]
+
 -

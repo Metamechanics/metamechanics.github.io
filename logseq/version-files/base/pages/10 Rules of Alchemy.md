@@ -1,11 +1,11 @@
 alias::
 tags:: concept, theory
 domain:: #[[creative thinking]] #[[critical thinking]]
-people:: [[Rory Sutherland]] 
-related-to::
-project:: [[X-Science]], [[FACTs 4CT]] 
-question::
-public:: true
+people:: [[Rory Sutherland]]
+see-also::
+rel-projects:: [[X-Science]], [[FACTs 4CT]]
+
+
 
 - [RORY SUTHERLAND’S 10 RULES OF ALCHEMY - YouTube](https://www.youtube.com/watch?v=UirCaM5kg9E)
 -

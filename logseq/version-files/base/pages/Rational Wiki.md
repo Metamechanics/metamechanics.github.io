@@ -1,11 +1,11 @@
 alias::
 URL:: https://rationalwiki.org/wiki/Main_Page
 org-type:: #wiki 
-publications:: 
+creations:: 
 tags:: organisation, #pseudoscience #[[critical thinking]] #[[conspiracy thinking]] #fundamentalism #pseudo-skepticism #Creationism #psi #paranormal #keyResource #[[data source]] #skeptic 
-project:: [[X-Science]], [[FACTs]] 
-question::
-public:: true
+rel-projects:: [[X-Science]], [[FACTs]] 
+
+
 -
 - [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
 -

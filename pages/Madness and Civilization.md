@@ -1,10 +1,10 @@
 alias::
 author:: [[Michel Foucault]] 
-publication-year:: 1961
-tags:: book, reference, #madness #insanity #civilization  
-project:: 
-question::
-public:: true
+year:: 1961
+tags:: book, #madness #insanity #civilization  
+rel-projects:: 
+
+
 
 - [Foucault_Michel_Madness_and_Civilization_A_History_of_Insanity_in_the_Age_of_Reason.pdf](https://monoskop.org/images/1/14/Foucault_Michel_Madness_and_Civilization_A_History_of_Insanity_in_the_Age_of_Reason.pdf)
 -

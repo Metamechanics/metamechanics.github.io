@@ -2,10 +2,10 @@ alias::
 URL::
 org-type:: #business 
 people:: [[Freddy Silva]], [[Andrew Harvey]], [[Vivian Zaki]] 
-publications:: 
+creations:: 
 tags:: organisation, #tours #Egypt #Peru #Mexico #India #Ireland #Spain  
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 -
 -

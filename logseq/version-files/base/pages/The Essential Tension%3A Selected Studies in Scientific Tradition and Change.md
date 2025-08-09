@@ -1,7 +1,7 @@
 alias::
-author:: [[Thomas Kuhn]] 
-publication-year:: 1977
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Thomas Kuhn]]
+year:: 1977
+tags:: book
+rel-projects::
+
 -

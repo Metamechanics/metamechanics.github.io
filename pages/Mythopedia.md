@@ -2,9 +2,9 @@ alias::
 URL::
 org-type:: #website 
 people:: [[Rens van der Sluijs]] 
-publications:: 
+creations:: 
 tags:: organisation, #astromythology #geomythology #cosmology #history #mythology 
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 -

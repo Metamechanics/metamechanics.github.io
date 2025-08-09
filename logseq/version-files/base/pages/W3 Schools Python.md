@@ -1,7 +1,7 @@
 alias::
 tags:: #Python #coding #toStudy #free 
 url:: https://www.w3schools.com/python/
-project:: [[WADS study]] 
+rel-projects:: [[WADS study]] 
 see-also::
 
 -

@@ -1,13 +1,13 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 -
 - [Mary Magdalen and the Merovingian Kings of France | History Today](https://www.historytoday.com/archive/mary-magdalen-and-kings-france)
 -

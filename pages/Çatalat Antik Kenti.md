@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Turkey 
+location::
+rel-country:: #Turkey 
 place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
+rel-projects:: #[[Adam's Atlas]] 
 nearest-town:: #Viransehir 
 map-url::
 -

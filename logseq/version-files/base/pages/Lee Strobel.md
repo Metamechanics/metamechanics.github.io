@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #journalist 
 fields:: #religion #Christianity 
-publications-productions:: [[The Case for Christ - A Journalist's Personal Investigation of the Evidence for Jesus]], [[Is God Real - Exploring the Ultimate Question of Life]], [[The Case for Heaven - A journalist investigates evidence for life after death]] 
+creations:: [[The Case for Christ - A Journalist's Personal Investigation of the Evidence for Jesus]], [[Is God Real - Exploring the Ultimate Question of Life]], [[The Case for Heaven - A journalist investigates evidence for life after death]] 
 tags:: person, #keyThinker 
-project:: #AMT 
-public:: true
+rel-projects:: #AMT 
+
 
 - "The Case for..." series
 	- faith

@@ -2,7 +2,6 @@ alias::
 URL:: http://www.gnosticwisdom.org
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project:: [[Inner Beginner]] 
-public:: true
+rel-projects:: [[Inner Beginner]] 

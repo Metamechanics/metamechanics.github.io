@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Peru 
-place-type:: #adobe #pyramid #[[ancient site]] 
-nearest-town:: 
+location::
+rel-country:: #Peru
+place-type:: #adobe #pyramid #[[ancient site]]
+nearest-town::
 map-url::
 
 - at least 2600 BC

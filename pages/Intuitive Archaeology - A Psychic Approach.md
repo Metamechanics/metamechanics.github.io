@@ -1,8 +1,6 @@
-- journal::
-  authors::
+- rel-journal::
+  author::
   year::
   URL::
   tags:: article, reference
-  project::
-  question::
-  public:: true
+  rel-projects::

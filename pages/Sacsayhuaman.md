@@ -1,9 +1,9 @@
 alias:: Saqsaywaman, Sacsaywaman, Saqsayhuaman
-tags:: #megalith 
-place::
-country:: [[Peru]] 
+tags:: #megalith
+location::
+rel-country:: [[Peru]]
 place-type::
-nearest-town:: [[Cuzco]] 
+nearest-town:: [[Cuzco]]
 map-url::
 
 -

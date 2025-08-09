@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
-role:: [[academic]] 
-fields:: #physics #astrophysics #[[quantum physics]] 
-publications:: 
+rel-org::
+role:: [[academic]]
+fields:: #physics #astrophysics #[[quantum physics]]
+creations::
 tags:: person, #[[Nobel Prize]]
-project::
-public:: true
+rel-projects::
+
 
 -
 - [[1506.06774] How observers create reality](https://arxiv.org/abs/1506.06774)

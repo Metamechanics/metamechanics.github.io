@@ -1,7 +1,7 @@
 alias::
-author:: [[Vaclav Smil]] 
-publication-year::
-tags:: book, reference, energy
-project:: [[Global Effort]] 
-public:: true
+author:: [[Vaclav Smil]]
+year::
+tags:: book, energy
+rel-projects:: [[Global Effort]]
+
 -

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #[[molecular biology]]
-publications-productions:: [[The Science Delusion]], [[morphogenetic fields]] 
-country:: #[[United Kingdom]] 
-tags:: person #keyThinker 
-project:: [[X-Science]], #AMT 
-question::
-public:: true
+creations:: [[The Science Delusion]], [[morphogenetic fields]]
+rel-country:: #[[United Kingdom]]
+tags:: person #keyThinker
+rel-projects:: [[X-Science]], #AMT
+
+
 -
 -

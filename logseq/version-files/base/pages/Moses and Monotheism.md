@@ -1,9 +1,9 @@
 alias::
-author:: [[Sigmund Freud]] 
-publication-year::
-tags:: book, reference
-project:: [[AMT]] 
-question::
-public:: true
+author:: [[Sigmund Freud]]
+year::
+tags:: book
+rel-projects:: [[AMT]]
+
+
 
 -

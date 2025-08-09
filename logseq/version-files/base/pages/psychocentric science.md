@@ -1,6 +1,6 @@
 alias:: Science 2.0, 
 tags:: #myIdea 
-project:: #X-Science 
+rel-projects:: #X-Science 
 see-also:: #[[corpocentric science]] #Materialism #MacroScience #psychophysics
 
 - analogue to geocentric -> heliocentric paradigm shift

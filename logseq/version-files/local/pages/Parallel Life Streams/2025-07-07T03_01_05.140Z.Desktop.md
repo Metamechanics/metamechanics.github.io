@@ -1,7 +1,7 @@
 alias:: PLS, Parallel Streams of Life Activity
 tags:: #[[mycelium database schema]] 
 see-also::
-project:: #[[Mission Management]]
+rel-projects:: #[[Mission Management]]
 
 - concurrent, parallel, intertwining aspects of life that have their own projects, tasks, goals. Ideally should complement each other and contribute toward a balanced whole.
 -

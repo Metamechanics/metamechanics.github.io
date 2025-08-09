@@ -1,11 +1,11 @@
-journal:: [[Aeon.co]] 
-authors:: [[James Read]] 
+rel-journal:: [[Aeon.co]]
+author:: [[James Read]]
 year::
 URL:: https://aeon.co/essays/why-do-philosophy-of-physics-when-you-can-do-physics-itself
-tags:: article #toRead 
-project:: #AMT 
-question::
-public:: true
+tags:: article #toRead
+rel-projects:: #AMT
+
+
 
 -
 - # Why do philosophy of physics when you can do physics itself?
@@ -17,7 +17,7 @@ public:: true
 	- The philosophy of physics isn’t some modern innovation – it’s been around for as long as physics itself
 	- Indeed, its ultimate emphasis on bettering our understanding of the theories of physics that we already have helps to make clear that the philosophy of physics really is a discipline in the *arts* – despite often requiring a good understanding of physics itself. As I see it, the philosophy of physics is in fact somewhat akin to art criticism – but where the subject matter is not music or visual art or architecture, but the theories of physics constructed by some of the greatest and most creative minds of all time (from Galileo to Newton to Einstein). Philosophers of physics all share the view that physical theories – these products of the highest level of human creativity – are just as worthy of aesthetic appreciation and critical study as anything else.
 	- So, the philosophy of physics is continuous with physics, insofar as it seeks to understand the structure of our best scientific theories of the world. It is also an artistic discipline, insofar as it engages with the critical scrutiny of certain products of the human mind – namely, physical theories. But the final thing to say here is that the field is also continuous with three other disciplines. First, with history, for in order to truly understand the content of any given theory, we must often turn to how it was developed, and the tools that physicists used to develop it. Second, with mathematics, because, often, a full understanding of the content of some given theory calls for shoring up some subtle mathematical details. And, finally, with philosophy ‘proper’, since we can’t really understand what a theory says about time, causation, identity and so on if we don’t appreciate the scrutiny to which philosophers have subjected those notions over the centuries.
-	  
+
 	  All in all, this means that the philosophy of physics is an incredibly broad church – and a wonderful playground for those (like myself) who never could decide on the specific subject to which to dedicate themselves. In any case, I hope this goes some way towards giving a relatively clear sketch of what the philosophy of physics is about. What I want to do next is to stress that the philosophy of physics isn’t some modern innovation – in fact, it’s been around for as long as physics itself.
 	- At least in the Western canon, a natural place to begin the tale would be with Aristotle, who was perhaps the greatest philosopher of all time (it’s either him or Plato!) as well as the progenitor of something like the scientific method. Aristotle engaged in a clear philosophical interrogation of the content of his theories of the world when he asked crucial questions regarding, for example, the location of the centre of the Universe. But, in the interests of constraining the narrative, let me leave Aristotle there, and dial things forward 2,000 years – to Newton.
 	- In my opinion, the greatest scientist of all time is undoubtedly Sir Isaac Newton (1643-1727). One can make straightforward points to back this up: his achievements laid much of the groundwork for modern science, and for the paradigm of leveraging mathematics in order to solve problems in physics (which led to the Enlightenment idea of the ‘clockwork universe’). Moreover, Newton invented substantial new areas of mathematics, including calculus. However, it’s really at a more fine-grained level that one sees Newton’s genius: his magnum opus, the *Philosophiæ Naturalis Principia Mathematica* (1687), or *The Mathematical Principles of Natural Philosophy*, not only reads much like a piece of [modern mathematics](https://aeon.co/essays/does-philosophy-still-need-mathematics-and-vice-versa), but also – and this is much less known – contains insights that substantially presage many of the steps Einstein himself made on his path towards general relativity around two and a half centuries later. The *Principia* also contains philosophical reflections on the nature of space, time, and motion (as well as some damning interrogations of earlier thinkers, in particular René Descartes) that are as crisp and clear as the very best modern philosophical works.

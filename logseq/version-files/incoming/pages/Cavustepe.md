@@ -1,8 +1,8 @@
 alias:: Haykaberd, Fortress of Hayk
 tags::
-place::
-country:: #Turkey 
-place-type:: [[ancient site]] 
+location::
+rel-country:: #Turkey
+place-type:: [[ancient site]]
 nearest-town::
 map-url::
 -

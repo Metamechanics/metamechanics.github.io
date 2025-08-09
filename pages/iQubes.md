@@ -1,3 +1,3 @@
-similar-to:: [[DiaGnosis]]
+see-also:: [[DiaGnosis]]
 - superceded by [[DiaGnosis]]
 -

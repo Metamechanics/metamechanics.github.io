@@ -1,9 +1,8 @@
 alias::
-tags:: app, software, #AI [[app builder]] 
+tags:: app, #AI [[app builder]]
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[Metamechanical AI]], [[ACIM-AI]], [[DiaGnosis]]
+rel-projects:: [[Metamechanical AI]], [[ACIM-AI]], [[DiaGnosis]]
 see-also:: [[Langchain]], [[AstraDB]]
-
 -

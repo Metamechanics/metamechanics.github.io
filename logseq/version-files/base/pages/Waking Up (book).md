@@ -1,9 +1,9 @@
-alias:: 
-author:: [[Sam Harris]] 
-publication-year::
+alias::
+author:: [[Sam Harris]]
+year::
 tags:: book #[[keyResource]]
-project:: #[[Inner Beginner]], #[[AMT]]
-question::
-public:: true
+rel-projects:: #[[Inner Beginner]], #[[AMT]]
+
+
 
 -

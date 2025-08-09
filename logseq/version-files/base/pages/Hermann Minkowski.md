@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[world line]] 
-country::
+creations:: [[world line]]
+rel-country::
 tags:: person
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 - Einstein's tutor ?
 - [[Minkowski space-time]]

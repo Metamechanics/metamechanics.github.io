@@ -1,6 +1,6 @@
 alias:: 
 tags:: #MyArticle #hash-ai #app
-project:: #DiaGnosis #[[Metamechanic Mycelium]]
+rel-projects:: #DiaGnosis #[[Metamechanic Mycelium]]
 see-also::
 
 -

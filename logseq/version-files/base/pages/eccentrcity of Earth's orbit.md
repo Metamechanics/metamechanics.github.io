@@ -1,9 +1,9 @@
 alias::
 tags:: concept
-domain:: #astronomy #archaeoastronomy 
+domain:: #astronomy #archaeoastronomy
 people::
-related-to::
-project:: [[Adam's Atlas]] 
-public:: true
+see-also::
+rel-projects:: [[Adam's Atlas]]
+
 
 -

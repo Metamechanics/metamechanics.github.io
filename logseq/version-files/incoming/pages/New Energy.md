@@ -1,2 +1,2 @@
-similar-to::  #[[Free Energy]]
+see-also::  #[[Free Energy]]
 -

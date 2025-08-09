@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation:: [[University of Hawaii]] 
+rel-org:: [[University of Hawaii]] 
 role:: [[academic]] 
 fields:: [[Futures Studies]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 -

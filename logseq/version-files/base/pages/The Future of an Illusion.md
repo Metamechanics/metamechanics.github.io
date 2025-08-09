@@ -1,10 +1,10 @@
 alias::
-author:: [[Sigmund Freud]] 
-publication-year:: 1927
-tags:: book, reference, #psychology #religion #[[philosophy of religion]] #[[sociology of religion]]
-project:: [[AMT]], [[X-Science]], 
-question::
-public:: true
+author:: [[Sigmund Freud]]
+year:: 1927
+tags:: book, #psychology #religion #[[philosophy of religion]] #[[sociology of religion]]
+rel-projects:: [[AMT]], [[X-Science]],
+
+
 
 - [[1927] The Future Of An Illusion](https://ia802907.us.archive.org/17/items/SigmundFreud/Sigmund%20Freud%20%5B1927%5D%20The%20Future%20of%20an%20Illusion%20%28James%20Strachey%20translation,%201961%29.pdf) or [sigmund-freud-the-future-of-an-illusion.pdf](https://ia801304.us.archive.org/28/items/sigmund-freud-the-future-of-an-illusion/sigmund-freud-the-future-of-an-illusion.pdf)
 - I have this PDF

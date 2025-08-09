@@ -1,6 +1,6 @@
 alias:: Shionomichi, Shio no michi, 塩の道
 tags:: #walking #Japan #Nagano-ken #Niigata-ken 
-project:: 
+rel-projects:: 
 see-also::
 
 - Itoigawa, Niigata-ken to Matsumoto, Nagano-ken

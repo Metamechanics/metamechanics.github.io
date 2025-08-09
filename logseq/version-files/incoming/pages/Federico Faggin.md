@@ -1,14 +1,14 @@
 alias::
 URL:: http://www.fagginfoundation.org/
-organisation:: [[Federico & Elvira Faggin Foundation]] 
-role:: #inventor #physicist 
-fields:: #consciousness #physics 
-publications-productions:: [[Silicon - The Autobiography of Federico Faggin]], [[Irreducible - Consciousness, Life, Computers and Human Nature]] 
-country:: #Italy #USA 
+rel-org:: [[Federico & Elvira Faggin Foundation]]
+role:: #inventor #physicist
+fields:: #consciousness #physics
+creations:: [[Silicon - The Autobiography of Federico Faggin]], [[Irreducible - Consciousness, Life, Computers and Human Nature]]
+rel-country:: #Italy #USA
 tags:: person
-project:: #AMT #X-Science 
-question::
-public:: true
+rel-projects:: #AMT #X-Science
+
+
 
 - [Quantum Information Panpsychism Explained | Federico Faggin - YouTube](https://www.youtube.com/watch?v=0FUFewGHLLg) #toWatch #toSummarise
 - [Irreducible: Consciousness, Life, Computers & Human Nature w/ Federico Faggin - Mindrolling Ep. 558 - YouTube](https://www.youtube.com/watch?v=eHRI5mrwAw8)

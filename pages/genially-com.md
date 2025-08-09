@@ -1,8 +1,7 @@
 alias::
-tags:: app, software #interactivity #gamification #education #branching #Presentations 
+tags:: app #interactivity #gamification #education #branching #Presentations
 URL:: https://genially.com/
-similar-to::
-purpose:: #gamification  
-project::
-
+see-also::
+purpose:: #gamification
+rel-projects::
 -

@@ -1,9 +1,9 @@
 alias:: TUC, TUCTUI, The Ultimate Conspiracy - The Ultimate Innovation, The Ultimate Innovation
 DevStage:: #Level1
 DevStatus:: #queue
-Question-Problem::
-Related-pubs::
-related-project::
+
+
+rel-projects::
 Tags:: #toWrite, #[[My Books]] #myCreation
 
 - #QTS : How does #TUC relate to #[[The Ultimate Conspiracy]] ?

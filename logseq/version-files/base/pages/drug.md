@@ -1,6 +1,6 @@
 alias:: drugs
 tags::
-project::
+rel-projects::
 see-also::
 
 -

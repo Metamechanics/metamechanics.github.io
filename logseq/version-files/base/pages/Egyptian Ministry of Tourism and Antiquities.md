@@ -1,12 +1,12 @@
 alias::
 URL:: https://egymonuments.gov.eg/en
-org-type:: #government  
+org-type:: #government
 people::
-publications:: 
-tags:: organisation #Egypt #museums #monument 
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+creations::
+tags:: organisation #Egypt #museums #monument
+rel-projects:: [[Adam's Atlas]]
+
+
 
 - [Discover Egypt's Monuments - Ministry of Tourism and Antiquities](https://egymonuments.gov.eg/en)
 -

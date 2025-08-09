@@ -1,6 +1,6 @@
 alias:: UCDM
 tags::
-project:: #ACIM-4T
+rel-projects:: #ACIM-4T
 see-also:: [[Un Cours En Miracle]], [[Um Curso Em Milagres]]
 
 - [Un Curso de Milagros Lecciones UCDM | lecciones.acim.org](https://lecciones.acim.org/es)

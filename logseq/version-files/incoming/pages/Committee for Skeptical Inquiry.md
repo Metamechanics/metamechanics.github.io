@@ -1,10 +1,10 @@
 alias::
 URL::
-org-type:: 
+org-type::
 people::
-publications:: [[Skeptical Inquirer]] 
-tags:: organisation #orthodoxy 
-project::
-public:: true
+creations:: [[Skeptical Inquirer]]
+tags:: organisation #orthodoxy
+rel-projects::
+
 - [[The Pantheon of Skeptics]]
 -

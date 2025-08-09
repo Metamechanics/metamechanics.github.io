@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation:: [[Columbia University]] 
+rel-org:: [[Columbia University]]
 role::
-fields:: [[Philosophy of Science]], [[spacetime]] 
-publications-productions:: [[Quantum Mechanics and Experience]] 
-country:: USA
+fields:: [[Philosophy of Science]], [[spacetime]]
+creations:: [[Quantum Mechanics and Experience]]
+rel-country:: USA
 tags:: person
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 see-also:: [[Tim Maudlin]]
 
 - [David Z. Albert | Department of Philosophy](https://philosophy.columbia.edu/content/david-z-albert)

@@ -1,11 +1,9 @@
 alias:: Rene Girard, Girard
 URL::
-organisation::
-role:: #philosopher 
+rel-org::
+role:: #philosopher
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::

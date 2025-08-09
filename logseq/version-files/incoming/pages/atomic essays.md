@@ -1,8 +1,9 @@
 alias:: atomic essay
-project::
+rel-projects::
 people::
 tags:: #atomic 
-see-also::
+see-also:: [[holonic notes]], [[holonic writing]]
+- [[atomic notes]] vs [[atomic essays]] ?
 -
 - [How to write atomic essays in Logseq - YouTube](https://www.youtube.com/watch?v=KiCplAxd__c)
 -

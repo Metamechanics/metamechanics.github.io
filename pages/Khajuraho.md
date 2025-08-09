@@ -1,9 +1,9 @@
 alias::
 tags:: #place
-country:: #India 
+rel-country:: #India
 place-type::
 nearest-town::
 map-url::
-project:: [[Adam's Atlas]]
+rel-projects:: [[Adam's Atlas]]
 
 -

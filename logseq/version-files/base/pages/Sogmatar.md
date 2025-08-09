@@ -1,10 +1,9 @@
 alias::
 tags::
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
 nearest-town::
 map-url::
-
 -

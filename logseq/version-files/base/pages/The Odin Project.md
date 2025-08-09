@@ -1,10 +1,10 @@
 alias::
 URL:: https://www.theodinproject.com/
-organisation:: 
+rel-org:: 
 year-commenced::
 tags:: #foss #free  
-project:: [[WADS study]] 
-public:: true
+rel-projects:: [[WADS study]] 
+
 
 - [Your Career in Web Development Starts Here | The Odin Project](https://www.theodinproject.com/)
 - Our full stack curriculum is free and supported by a passionate open source community.

@@ -1,13 +1,13 @@
 alias:: Freud
 URL::
-organisation::
-role:: 
-fields:: [[psychoanalysis]] 
-publications-productions:: [[The Interpretation of Dreams]], [[Civilization and Its Discontents]], [[Moses and Monotheism]],  
-country:: [[Prussia]], [[Germany]] 
+rel-org::
+role::
+fields:: [[psychoanalysis]]
+creations:: [[The Interpretation of Dreams]], [[Civilization and Its Discontents]], [[Moses and Monotheism]],
+rel-country:: [[Prussia]], [[Germany]]
 tags:: person
-project:: [[AMT]], [[Inner Beginner]] 
-question::
-public:: true
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
+
 
 -

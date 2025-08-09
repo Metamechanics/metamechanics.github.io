@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[Psychedelic Liberation Collective]], [[Naropa University]] 
+rel-org:: [[Psychedelic Liberation Collective]], [[Naropa University]] 
 role:: #naturopath 
 fields:: #psychedelics 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
-tags:: person, #[[remote viewing]] 
-project::
-public:: true
+creations::
+tags:: person, #[[remote viewing]]
+rel-projects::
+
 -

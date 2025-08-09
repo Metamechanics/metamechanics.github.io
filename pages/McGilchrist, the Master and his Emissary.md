@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project::
+  rel-projects::
   see-also::
 - [[Iain McGilchrist]] wrote [[The Master and His Emissary]]
 	- about how the divided brain (hemispheres) is the problem...?

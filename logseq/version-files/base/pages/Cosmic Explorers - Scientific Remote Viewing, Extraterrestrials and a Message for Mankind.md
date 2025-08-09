@@ -1,9 +1,9 @@
 alias:: Cosmic Explorers
 author::
-publication-year::
-tags:: book, reference, #[[remote viewing]]
-project:: [[X-Science]], [[Adam's Atlas]] 
-public:: true
+year::
+tags:: book, #[[remote viewing]]
+rel-projects:: [[X-Science]], [[Adam's Atlas]]
+
 
 - the [[Reptilians]]
 - the [[Greys]]

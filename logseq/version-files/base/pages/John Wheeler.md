@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[academic]] 
 fields:: [[physics]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[X-Science]], [[AMT]] 
-public:: true
+rel-projects:: [[X-Science]], [[AMT]] 
+
 
 -
 - We are inescapably involved in bringing about that which appears to be happening. We are not only observers. We are participants. In some strange sense, this is a [[participatory universe]] . #quote #AMT

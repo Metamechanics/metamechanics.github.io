@@ -1,6 +1,6 @@
 alias::
 tags:: [[remote viewing]] 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 parent-blocks:: 
 child-blocks::
 

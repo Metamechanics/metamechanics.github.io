@@ -1,8 +1,8 @@
 alias::
-author:: [[Stanislav Lem]] 
-publication-year::
-tags:: book, reference, #sci-fi #philosophy 
-project:: 
-public:: true
+author:: [[Stanislav Lem]]
+year::
+tags:: book, #sci-fi #philosophy
+rel-projects::
+
 
 -

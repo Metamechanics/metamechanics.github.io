@@ -1,10 +1,10 @@
 alias:: PNAS
 author::
-publisher:: 
-URL:: 
+publisher::
+URL::
 tags:: journal, reference
-project:: 
-public:: true
+rel-projects::
+
 
 -
 -

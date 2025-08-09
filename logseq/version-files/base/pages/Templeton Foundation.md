@@ -2,10 +2,10 @@ alias::
 URL:: https://www.templeton.org/
 org-type:: [[philanthropy]], [[research]] 
 people::
-publications:: 
+creations:: 
 tags:: organisation #keyActor #keyStakeholder 
-project::
-public:: true
+rel-projects::
+
 
 - [Home - John Templeton Foundation](https://www.templeton.org/)
 - [[Templeton Ideas Podcast]]

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[philosophy]], [[religion]], [[atheism]] 
-publications-productions:: [[The Christian Atheist]] 
-country:: USA
+fields:: [[philosophy]], [[religion]], [[atheism]]
+creations:: [[The Christian Atheist]]
+rel-country:: USA
 tags:: person
-project:: [[AMT]] 
-public:: true
+rel-projects:: [[AMT]]
+
 
 - [THIS Fact Led An ATHEIST Philosophy Professor to Christ! - YouTube](https://www.youtube.com/watch?v=vb4fR4wOtmY)
 -

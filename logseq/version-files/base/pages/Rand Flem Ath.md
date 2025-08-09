@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[author]] 
 fields::
-publications:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 - #toUpdate
 -

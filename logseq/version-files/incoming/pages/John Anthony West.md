@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: [[independent researcher]] 
-fields:: [[history]], [[Egypt]] 
-publications:: 
-tags:: person, [[Egypt]], [[Egyptologist]] 
-project:: [[freshAlts]] 
-public:: true
+rel-org::
+role:: [[independent researcher]]
+fields:: [[history]], [[Egypt]]
+creations::
+tags:: person, [[Egypt]], [[Egyptologist]]
+rel-projects:: [[freshAlts]]
+
 -

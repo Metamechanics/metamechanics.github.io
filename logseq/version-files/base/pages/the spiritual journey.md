@@ -1,5 +1,5 @@
 alias:: the spiritual life, the spiritual pathway
 tags:: 
-project:: Inner Beginner
+rel-projects:: Inner Beginner
 see-also:: #[[inner life]]
 -

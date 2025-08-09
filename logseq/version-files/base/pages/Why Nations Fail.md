@@ -1,9 +1,9 @@
 alias::
-author:: [[Daron Acemoglu]], [[James Robinson]] 
-publication-year:: 2012
-tags:: book, reference, #[[Massachusetts Institute of Technology]] #economics #toSummarise 
-project:: #EFA 
-public:: true
+author:: [[Daron Acemoglu]], [[James Robinson]]
+year:: 2012
+tags:: book, #[[Massachusetts Institute of Technology]] #economics #toSummarise
+rel-projects:: #EFA
+
 
 - [Why Nations Fail- The Origins of Power, Prosperity, and Poverty (2012 ).epub | DuusAir](hook://file/iiD26ZgOZ?p=MS4gS25vd2xlZGdlIExpYnJhcmllcy9FRkE=&n=Why%20Nations%20Fail%2D%20The%20Origins%20of%20Power%2C%20Prosperity%2C%20and%20Poverty%20%282012%20%29%2Eepub)
 - Summary article [All the difference in the world | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2012/why-nations-fail-0323)

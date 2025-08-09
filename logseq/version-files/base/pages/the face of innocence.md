@@ -1,10 +1,10 @@
 alias::
 tags:: concept, theory
-domain:: #ACIM 
-people:: #[[Ken Wapnick]] 
-related-to::
-project::
-public:: true
+domain:: #ACIM
+people:: #[[Ken Wapnick]]
+see-also::
+rel-projects::
+
 
 -
 -

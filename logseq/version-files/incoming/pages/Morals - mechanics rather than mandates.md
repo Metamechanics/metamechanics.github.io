@@ -1,6 +1,6 @@
 alias::
 tags:: #myWriting 
-project:: #AMTbook 
+rel-projects:: #AMTbook 
 see-also::
 
 -

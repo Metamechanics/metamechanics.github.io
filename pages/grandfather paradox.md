@@ -1,6 +1,6 @@
 alias::
 tags:: #paradox #[[time travel]] 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also::
 
 -

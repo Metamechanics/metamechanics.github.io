@@ -1,11 +1,11 @@
 alias::
 URL::
-org-type:: 
+org-type::
 people::
-publications:: 
+creations::
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 
 - [MegalithomaniaUK - YouTube](https://www.youtube.com/@MegalithomaniaUK)
 -

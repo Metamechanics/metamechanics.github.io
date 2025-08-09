@@ -1,12 +1,12 @@
 alias::
 URL:: https://beginningwithin.com/
-organisation::
+rel-org::
 year-commenced::
-tags:: website #contrast 
-project:: #[[Inner Beginner]] 
-people:: [[Aryen Weinstein]] 
-question::
-public:: true
+tags:: website #contrast
+rel-projects:: #[[Inner Beginner]]
+people:: [[Aryen Weinstein]]
+
+
 
 - ## Here are some basic Beginning Within principles:
 - The only person I can change is myself.

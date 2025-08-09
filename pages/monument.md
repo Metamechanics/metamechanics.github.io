@@ -1,5 +1,5 @@
 alias:: monuments
 tags::
 url:: 
-project::
+rel-projects::
 see-also::

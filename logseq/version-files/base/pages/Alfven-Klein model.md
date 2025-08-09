@@ -1,5 +1,5 @@
 alias::
 tags::
-project:: [[FRESH]], [[FACTs]]
+rel-projects:: [[FRESH]], [[FACTs]]
 - #model #cosmology #physics
 -

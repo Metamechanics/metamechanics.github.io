@@ -1,11 +1,11 @@
 alias::
-author:: [[Joseph Aoun]] 
-publication-year::  2017
+author:: [[Joseph Aoun]]
+year::  2017
 url:: https://mitpress.mit.edu/9780262535977/robot-proof/, https://www.robot-proof.com/#reviews
 tags:: book #education #AI #[[future proofing]] #[[humanics]]
-project:: [[FF-ed]] 
-question:: 
-public:: true
+rel-projects:: [[FF-ed]]
+
+
 
 - [Robot-Proof](https://mitpress.mit.edu/9780262535977/robot-proof/)
 	- How to educate the next generation of college students to invent, to create, and to discover—filling needs that even the most sophisticated robot cannot.

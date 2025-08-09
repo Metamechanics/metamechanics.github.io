@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #psychiatrist 
 fields:: #trauma #psychedelics 
-publications-productions:: [[Body Keeps the Score]] 
+creations:: [[Body Keeps the Score]] 
 tags:: person #mdma 
-project::
-public:: true
+rel-projects::
+
 
 -

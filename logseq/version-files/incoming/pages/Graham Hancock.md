@@ -1,11 +1,11 @@
 alias::
 URL:: https://grahamhancock.com/
-organisation::
-role:: [[independent researcher]] 
-fields:: [[prehistory]] 
-publications:: [[Fingerprints of the Gods]], [[Ancient Apocalypse]] 
+rel-org::
+role:: [[independent researcher]]
+fields:: [[prehistory]]
+creations:: [[Fingerprints of the Gods]], [[Ancient Apocalypse]]
 tags:: person
-project:: [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[Fresh Alternatives]]
+
 - [The Official Graham Hancock Website - Graham Hancock Official Website](https://grahamhancock.com/)
 -

@@ -1,14 +1,14 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 - "The actors are not old kings, priests, and warriors; the one actor in every portrayal, in every scene, is the human soul."
   -- Alvin Boyd Kuhn
 -

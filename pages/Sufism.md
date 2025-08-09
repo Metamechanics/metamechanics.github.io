@@ -1,7 +1,7 @@
 alias:: Sufi, Mevlevi
 tags:: #religion #Islam 
 people::
-project:: [[Inner Beginner]]
+rel-projects:: [[Inner Beginner]]
 see-also:: [[Mathnawi]]
 
 - [The Mevlevi Order – The Threshold Society](https://sufism.org/origins/mevlevi/the-mevlevi-order-2)

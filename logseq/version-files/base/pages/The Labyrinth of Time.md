@@ -1,9 +1,9 @@
 alias::
 author:: [[Anthony Peake]] 
-publication-year::
-tags:: book, reference, #[[(meta)physics of time]]
-project:: 
-public:: true
+year::
+tags:: book, #[[(meta)physics of time]]
+rel-projects:: 
+
 
 -
 - [[David Mandell]]

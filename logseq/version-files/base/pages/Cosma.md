@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, graph
+tags:: app, graph
 URL::
-similar-to::
+see-also::
 purpose:: create network graph of markdown files
-project::
+rel-projects::
 
 - [graphlab-fr/cosma: Cosma is a document graph visualization tool. It modelizes interlinked Markdown files and renders them as an interactive network in a web interface.](https://github.com/graphlab-fr/cosma)
 - [Cosma | Home](https://cosma.arthurperret.fr/)

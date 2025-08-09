@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: #China 
-place-type:: #megalith 
+location::
+rel-country:: #China
+place-type:: #megalith
 nearest-town:: Nanjing
 map-url::
 -

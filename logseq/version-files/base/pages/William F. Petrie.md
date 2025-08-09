@@ -1,11 +1,11 @@
 title:: William F. Petrie
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields:: #Egyptologist 
-  publications:: [[Pyramids and Temples of Gizeh]] 
+  creations:: [[Pyramids and Temples of Gizeh]] 
   tags:: person, #London 
-  project:: [[freshAlts]] 
-  public:: true
+  rel-projects:: [[freshAlts]] 
+  
 -

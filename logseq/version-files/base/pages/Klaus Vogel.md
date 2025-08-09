@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[Earth expansion theory]] 
-publications-productions:: [[Contributions to the Question of Earth Expansion Based on Globe Models]]
-country::
+fields:: [[Earth expansion theory]]
+creations:: [[Contributions to the Question of Earth Expansion Based on Globe Models]]
+rel-country::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 -

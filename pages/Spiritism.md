@@ -1,5 +1,5 @@
 alias:: Espiritismo
 tags::
-project::
+rel-projects::
 
 -

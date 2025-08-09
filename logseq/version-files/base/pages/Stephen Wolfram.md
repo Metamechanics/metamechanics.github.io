@@ -1,13 +1,13 @@
 alias::
-URL:: 
-organisation:: [[Wolfram Institute]] 
-role:: 
-fields:: #physics  
-publications-productions:: [[Wolfram physics]] 
-country::
+URL::
+rel-org:: [[Wolfram Institute]]
+role::
+fields:: #physics
+creations:: [[Wolfram physics]]
+rel-country::
 tags:: person
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 -

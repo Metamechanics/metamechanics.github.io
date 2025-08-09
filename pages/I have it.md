@@ -1,6 +1,5 @@
 alias:: iHaveit, #inPossession
 tags::
-project:: #workflow
+rel-projects:: #workflow
 see-also:: #toBuy, #toSource
-
 -

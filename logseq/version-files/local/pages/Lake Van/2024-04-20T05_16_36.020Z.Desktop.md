@@ -1,7 +1,7 @@
 alias::
-tags:: #Urartu 
-place::
-country:: #Turkey 
+tags:: #Urartu
+location::
+rel-country:: #Turkey
 place-type::
 nearest-town::
 map-url::

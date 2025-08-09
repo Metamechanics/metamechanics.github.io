@@ -1,7 +1,7 @@
 alias:: EFA
 tags:: [[X-C Communities]] , #[[my project]] #toProcess
 see-also:: #[[EFA dashboard]]
-public:: true
+
 - # [About EFA]([[EFA Overview & Outline]])
 	- ## [[About EFA - quick version]]
 		- {{embed [[About EFA - quick version]]}}

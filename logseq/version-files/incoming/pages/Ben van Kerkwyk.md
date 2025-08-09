@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation:: [[UnchartedX]] 
+rel-org:: [[UnchartedX]] 
 role:: [[independent researcher]] 
 fields:: [[ancient technology]] #history #[[ancient civilization]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: #FRESH 
-public:: true
+rel-projects:: #FRESH 
+
 -

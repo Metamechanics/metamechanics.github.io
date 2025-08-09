@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
-role:: [[author]] 
+rel-org::
+role:: [[author]]
 fields::
-publications-productions:: Tarzan
-country::
+creations:: Tarzan
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - writings on Mars mythology
 -

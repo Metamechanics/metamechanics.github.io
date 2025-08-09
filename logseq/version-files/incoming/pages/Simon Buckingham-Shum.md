@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: academia
-fields:: [[Knowledge Cartography]] 
+fields:: [[Knowledge Cartography]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 - #[[Knowledge Cartography]]

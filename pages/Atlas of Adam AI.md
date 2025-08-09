@@ -1,6 +1,6 @@
 alias::
 tags:: #[[AI tools for Metamechanic]]
-project:: [[Adam's Atlas]], [[Coding with AI]] 
+rel-projects:: [[Adam's Atlas]], [[Coding with AI]] 
 see-also:: [[Metamechanic Mycelium]]
 
 -

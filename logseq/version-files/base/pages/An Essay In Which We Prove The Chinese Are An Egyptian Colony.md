@@ -1,8 +1,8 @@
-journal::
-authors:: [[Joseph de Guignes]] 
+rel-journal::
+author:: [[Joseph de Guignes]]
 year:: 1785
 URL::
-tags:: article, China, pyramid, 
-project::
-public:: true
+tags:: article, China, pyramid,
+rel-projects::
+
 -

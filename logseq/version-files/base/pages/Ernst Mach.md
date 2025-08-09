@@ -1,12 +1,12 @@
 alias:: Mach
 URL::
-organisation::
+rel-org::
 role::
-fields:: #physics  
-publications-productions:: 
+fields:: #physics
+creations::
 tags:: person
-project:: [[X-Science]] 
-public:: true
+rel-projects:: [[X-Science]]
+
 
 - https://plato.stanford.edu/entries/ernst-mach/
 - [Great Physicists: Ernst Mach, the man who understood gravity - YouTube](https://www.youtube.com/watch?v=V_GYOdQfn44)

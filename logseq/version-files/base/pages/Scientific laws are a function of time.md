@@ -1,10 +1,10 @@
 alias::
-tags:: concept, #unorthodox 
+tags:: concept, #unorthodox
 domain::
 people::
-related-to::
-project::
-public:: true
+see-also::
+rel-projects::
+
 - Scientific laws are a function of time. ie. The laws themselves evolve.
   Law of gravity at t=1 second different to law at t=1 billion years
   Prehistoric advanced civilizations

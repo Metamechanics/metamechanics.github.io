@@ -1,9 +1,15 @@
 alias::
-author:: [[Thomas Kuhn]]  
-publication-year::
-tags:: book #[[quantum mechanics]] #physics #[[Max Planck]] #toSource #keyResource 
-project:: [[X-Science]] 
-question::
-public:: true
+author:: [[Thomas Kuhn]]
+year::
+tags:: book #[[quantum mechanics]] #physics #[[Max Planck]] #toSource #keyResource
+rel-projects:: [[X-Science]]
+
+
+alias::
+author:: [[Thomas Kuhn]]
+year::
+tags:: book #[[quantum mechanics]] #physics #[[Max Planck]] #toSource #keyResource
+rel-projects:: [[X-Science]]
+
 
 - UV catastrophe

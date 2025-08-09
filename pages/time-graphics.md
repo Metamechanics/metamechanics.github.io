@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[open source]] 
+tags:: app, #[[open source]]
 URL:: https://time.graphics/
-similar-to:: #[[Aeon Timeline]]
+see-also:: #[[Aeon Timeline]]
 purpose:: timelines
-project:: #WADS #Duustory
+rel-projects:: #WADS #Duustory
 
 - [Free online timeline maker](https://time.graphics/)
 -

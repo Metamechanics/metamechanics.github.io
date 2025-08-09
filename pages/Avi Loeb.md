@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[The Sol Foundation]], [[Harvard University]],  
+rel-org:: [[The Sol Foundation]], [[Harvard University]],  
 role::
 fields:: [[quantum physics]] 
-publications:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [Avi Loeb – The Sol Foundation](https://thesolfoundation.org/people/avi-loeb/)
 - [Transitions in Gaining New Knowledge | by Avi Loeb | Medium](https://avi-loeb.medium.com/transitions-in-gaining-new-knowledge-5e13872f25d1)

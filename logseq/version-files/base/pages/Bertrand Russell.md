@@ -1,14 +1,14 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -
 - Bertrand Russell has pointed up four basic characteristics of the IR of the mystic. These are:
 	- 1) There is a better way of gaining information than through the senses.

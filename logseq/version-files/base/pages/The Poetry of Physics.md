@@ -1,10 +1,10 @@
 alias::
-creators:: [[Robert Logan]] 
+creators:: [[Robert Logan]]
 year::
 URL::
 tags:: course, toStudy
-topics::
-project:: [[X-Science]], [[Another M-Theory]] 
-public:: true
+topic-theme::
+rel-projects:: [[X-Science]], [[Another M-Theory]]
+
 
 -

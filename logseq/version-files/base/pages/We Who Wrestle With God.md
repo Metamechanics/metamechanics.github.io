@@ -1,10 +1,10 @@
 alias::
-author:: [[Jordan Peterson]] 
-publication-year:: 2024
-tags:: book, reference
-project:: #AMT #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+author:: [[Jordan Peterson]]
+year:: 2024
+tags:: book
+rel-projects:: #AMT #[[Babies, Bibles and Bathwater]]
+
+
 
 -
 - Synopsis [We Who Wrestle with God by Jordan B. Peterson - Audiobook - Audible.com.au](https://www.audible.com.au/pd/We-Who-Wrestle-With-God-Audiobook/B0CV4J6W3D?ref_pageloadid=9ucrHiSwN4T0OTYx&pf_rd_p=7c297f06-fd16-4c42-9a52-df5b2ce8d22d&pf_rd_r=H5F3S9A8358Y9J66ZQNA&plink=0NL6vNppWzRwy9On&pageLoadId=z5Iz1CLqcnrfTycD&creativeId=373227f2-285c-4e34-86db-30cedb937899&ref=a_library_w_c5_lProduct_3)

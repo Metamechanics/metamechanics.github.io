@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[Skeptics Society]] 
+rel-org:: [[Skeptics Society]] 
 role:: #skeptic 
 fields:: #skepticism  
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

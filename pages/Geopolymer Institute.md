@@ -2,10 +2,10 @@ alias::
 URL:: https://www.geopolymer.org/
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 
 - [Geopolymer Institute – Promoting the geopolymer science since 1979](https://www.geopolymer.org/)
 -

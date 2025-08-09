@@ -1,6 +1,6 @@
 alias:: The Futures in Bloom
 tags:: #toOutline #toWrite #MyArticle 
-project:: [[FF-ed]]
+rel-projects:: [[FF-ed]]
 
 -
 - [[Bloom's Taxonomy]]

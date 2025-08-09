@@ -1,11 +1,11 @@
 alias:: Rumi
 URL::
-organisation::
+rel-org::
 role:: #mystic #[[religious figure]]
-fields:: #Islam #Sufism  
-publications-productions:: 
+fields:: #Islam #Sufism
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

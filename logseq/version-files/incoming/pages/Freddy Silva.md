@@ -1,12 +1,12 @@
 alias::
 URL:: https://invisibletemple.com/
-organisation::
-role:: [[independent researcher]], [[tour leader]] 
-fields:: [[pre-diluvian civilization]] [[ancient site]] [[sacred geometry]] [[crop circles]] [[megalith]] 
-publications:: 
+rel-org::
+role:: [[independent researcher]], [[tour leader]]
+fields:: [[pre-diluvian civilization]] [[ancient site]] [[sacred geometry]] [[crop circles]] [[megalith]]
+creations::
 tags:: person, #FRESH
-project::
-public:: true
+rel-projects::
+
 -
 - [Invisible Temple: sacred sites, megaliths, earth mysteries and alternative history by Freddy Silva](https://invisibletemple.com/)
 -

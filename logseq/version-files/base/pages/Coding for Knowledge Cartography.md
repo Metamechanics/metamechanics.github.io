@@ -1,6 +1,5 @@
 alias:: KCcoding, codingKC, argCoding
 tags::
-project:: [[DiaGnosis]] 
+rel-projects:: [[DiaGnosis]] 
 see-also::
-
 -

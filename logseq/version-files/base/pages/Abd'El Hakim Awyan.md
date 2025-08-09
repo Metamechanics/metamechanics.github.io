@@ -1,13 +1,13 @@
 alias::
 URL:: https://www.khemitology.com/hakim/
-organisation::
+rel-org::
 role:: wisdom keeper
-fields:: [[Khemitology]], [[Egyptology]], [[Ancient Egypt]], [[oral tradition of ancient Egypt]] 
-publications-productions:: [[The Pyramid Code]] 
-country:: Egypt
-tags:: person, #keyResource #keyThinker, #[[Zep Tepi]] 
-project:: [[Adam's Atlas]] 
-public:: true
+fields:: [[Khemitology]], [[Egyptology]], [[Ancient Egypt]], [[oral tradition of ancient Egypt]]
+creations:: [[The Pyramid Code]]
+rel-country:: Egypt
+tags:: person, #keyResource #keyThinker, #[[Zep Tepi]]
+rel-projects:: [[Adam's Atlas]]
+
 
 - [Hakim | Khemitology.com](https://www.khemitology.com/hakim/)
 - [Last Of The Great Wisdom Keepers Of Egypt: Hakim Awyan - YouTube](https://www.youtube.com/watch?v=Wrfpz1v3Gm4) #toWatch

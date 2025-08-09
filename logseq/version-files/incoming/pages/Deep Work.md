@@ -1,8 +1,8 @@
 alias::
-author:: [[Cal Newport]] 
-publication-year:: 
-tags:: book, reference, productivity
-public:: true
+author:: [[Cal Newport]]
+year::
+tags:: book, productivity
+
 -
 - summary courtesy of: [Shortform | Book - Deep Work](https://shortform.com/app/book/deep-work)
 - ## 1-Page Summary
@@ -38,7 +38,7 @@ public:: true
   collapsed:: true
 	- ### Practice 1: Plan Out Time for Deep Work
 	  collapsed:: true
-	  carving out time that you’ll dedicate to deep work. 
+	  carving out time that you’ll dedicate to deep work.
 	  it’s difficult to simply *will* yourself to do deep work on demand. 
 	  **It’s more effective to approach deep work with structure, habit, and discipline—make deep work a *practiced ritual*.**
 		- #### The Four Types of Deep Work Scheduling
@@ -109,7 +109,7 @@ public:: true
 				- (Shortform note: While Newport suggests this model as a solution to the trend of open floor plans, he doesn’t give any type of workaround for those who have no control over the layout of their workspace. In *[Indistractable](https://www.shortform.com/app/book/indistractable/part-3-1)*, Nir Eyal suggests that workers who may find themselves in a distracting workspace can try creating visual cues to show others that they need to be left alone. This may look like a certain hat you wear when you’re in deep work mode or a small “Do not interrupt” sign on top of your monitor.)
 			- ##### Social Media
 			  collapsed:: true
-			  **Newport says that social media is insidious in that it seems like you’re doing productive things when really the gains are minor.** 
+			  **Newport says that social media is insidious in that it seems like you’re doing productive things when really the gains are minor.**
 			  To begin managing the way you use tech, Newport suggests taking the following steps to examine each of your tech tools in regard to their **benefits and cost. **This will help you see which tools are worth your time and which aren’t.
 				- **List your goals.** Make a list of your most important goals—professional and personal—and then list the two or three activities that help you progress most toward these goals. Newport notes that these activities should be specific enough to give you direction, but general enough to be repeatable. (Shortform note: Your goal-supporting activities *can* include social media. For example, Newport may claim that journalists and authors on social media are wasting their time, but these days, [establishing a presence on social media is an essential part of marketing](https://heatherdemetrios.medium.com/what-a-big-5-publisher-will-tell-you-about-marketing-your-book-f47be2e12dd3) for authors trying to break into the industry.)
 				- **Examine your tech tools: **For each of your major tools—for example, Facebook, Twitter, and Reddit—describe how they contribute (or don’t contribute) meaningfully to your important goals. (Shortform note: To fully understand a tech tool’s effect on you and your goals, you must be honest with yourself about *why* you’re using the tool. Research shows that [your intent in using social media determines how negatively or positively it will affect your well-being](https://journals.sagepub.com/doi/full/10.1177/0963721417730833)—those who use social media to check out what others are up to develop negative well-being due to constant comparison, while those who use social media to chat with their friends develop positive well-being due to strengthened social bonds.)

@@ -1,10 +1,10 @@
 alias:: ARK video website
 URL:: https://www.ancientcivilizations.org/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, video, #keyResource, #YouTube 
-project:: [[Adam's Atlas]], [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[Adam's Atlas]], [[Fresh Alternatives]] 
+
 
 - [ARK: Ancient Repository of Knowledge](https://www.ancientcivilizations.org/)
 - @wondersoftheancientworld

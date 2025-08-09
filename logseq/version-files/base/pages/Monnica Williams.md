@@ -1,9 +1,8 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #[[clinical psychologist]]
-fields:: #psychedelics 
-publications-productions:: 
+fields:: #psychedelics
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::

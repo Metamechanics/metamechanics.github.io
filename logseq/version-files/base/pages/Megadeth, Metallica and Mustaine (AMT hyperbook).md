@@ -1,8 +1,7 @@
 alias::
 tags:: #[[heavy metal music]] #perspective 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 see-also:: [[Mark Manson]] and [[The Subtle Art of Not Giving a F#ck]]
-
 -
 - anecdote mentioned in [[The Subtle Art of Not Giving a F#ck]] by [[Mark Manson]]
 - Dave Mustaine was kicked out of Metallica early on. They became huge.

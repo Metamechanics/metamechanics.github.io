@@ -1,8 +1,8 @@
 alias::
 tags:: #place #[[Noah's Ark]]
-country:: #Turkey 
+rel-country:: #Turkey
 place-type::
-nearest-town:: #Kars #Van #Yerevan 
+nearest-town:: #Kars #Van #Yerevan
 map-url::
 
 -

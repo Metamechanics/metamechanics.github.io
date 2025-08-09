@@ -1,9 +1,8 @@
 alias::
-tags:: app, software, #[[infinite canvas]]
+tags:: app, #[[infinite canvas]]
 URL:: https://jsoncanvas.org/
-similar-to::
+see-also::
 purpose::
-project::
-
+rel-projects::
 - [JSON Canvas — An open file format for infinite canvas data.](https://jsoncanvas.org/)
 -

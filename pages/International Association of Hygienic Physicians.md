@@ -3,5 +3,5 @@
   org-type::
   people::
   tags:: organisation
-  project::
-  public:: true
+  rel-projects::
+  

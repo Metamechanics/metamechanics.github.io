@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Infinite Game]] 
-country::
+creations:: [[The Infinite Game]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

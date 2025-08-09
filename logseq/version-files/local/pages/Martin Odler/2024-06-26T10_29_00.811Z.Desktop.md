@@ -1,9 +1,8 @@
 alias::
 URL::
-organisation::
-role:: [[academic]] 
-fields:: [[ancient technology]] 
-publications-productions:: 
-tags:: person, #orthodoxy 
-project:: [[Adam's Atlas]],  
-public:: true
+rel-org::
+role:: [[academic]]
+fields:: [[ancient technology]]
+creations::
+tags:: person, #orthodoxy
+rel-projects:: [[Adam's Atlas]],

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #founder 
 fields:: #[[Artificial Intelligence]] #[[machine learning]] 
-publications-productions:: 
+creations:: 
 tags:: person, #keyThinker 
-project::
-public:: true
+rel-projects::
+
 
 -

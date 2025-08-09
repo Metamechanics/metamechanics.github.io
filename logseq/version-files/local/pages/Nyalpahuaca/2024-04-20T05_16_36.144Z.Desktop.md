@@ -1,7 +1,7 @@
 alias::
 tags::
-place:: [[El Valle Sagrado]]
-country:: #Peru 
+location:: [[El Valle Sagrado]]
+rel-country:: #Peru
 place-type::
 nearest-town::
 map-url::

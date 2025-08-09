@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
+creations:: 
 tags:: person, #Egypt, #pyramids 
-project::
-public:: true
+rel-projects::
+
 - [[Orion Correlation Theory]]
 - [[The Message of the Sphinx]]
 -

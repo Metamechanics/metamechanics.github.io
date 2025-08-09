@@ -1,6 +1,5 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: #exoteric
-
 -

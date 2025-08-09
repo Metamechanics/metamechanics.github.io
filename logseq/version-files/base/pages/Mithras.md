@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 - a precursor to Jesus

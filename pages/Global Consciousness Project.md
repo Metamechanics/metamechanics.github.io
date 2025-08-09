@@ -1,11 +1,11 @@
 alias:: GCP
 URL:: https://noosphere.princeton.edu/
-org-type:: [[research]] 
-people:: [[Roger Nelson]] 
-publications:: 
+org-type:: [[research]]
+people:: [[Roger Nelson]]
+creations::
 tags:: organisation
-project:: [[X-Science]], [[The pSilence of Science]], [[AMT]] 
-public:: true
+rel-projects:: [[X-Science]], [[The pSilence of Science]], [[AMT]]
+
 
 -
 - [The Global Consciousness Project](https://noosphere.princeton.edu/)

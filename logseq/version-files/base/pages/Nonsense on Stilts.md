@@ -1,12 +1,12 @@
 alias::
 URL:: https://press.uchicago.edu/ucp/books/book/chicago/N/bo28300772.html
-author:: [[Massimo Pigliucci]] 
+author:: [[Massimo Pigliucci]]
 fields:: #pseudoscience #[[Philosophy of Science]]
-publications-productions:: 
-tags:: book, [[controversies in science]], #pseudoscience #demarcation 
-project:: [[X-Science]] 
-question:: [[What is Science?]] 
-public:: true
+creations::
+tags:: book, [[controversies in science]], #pseudoscience #demarcation
+rel-projects:: [[X-Science]]
+ [[What is Science?]]
+
 
 - ### Synopsis
 	- https://press.uchicago.edu/ucp/books/book/chicago/N/bo28300772.html

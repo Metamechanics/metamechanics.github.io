@@ -1,8 +1,8 @@
-alias:: Kef Castle, 
-tags:: #basalt 
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
+alias:: Kef Castle,
+tags:: #basalt
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
 nearest-town:: Kef
 map-url::
 

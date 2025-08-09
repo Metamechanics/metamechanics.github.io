@@ -1,6 +1,5 @@
 alias::
-author:: [[Vaclav Smil]] 
-publication-year::
-tags:: book, reference, #toRead
-read-status:: #toRead 
-public:: true
+author:: [[Vaclav Smil]]
+year::
+tags:: book, #toRead
+read-status:: #toRead

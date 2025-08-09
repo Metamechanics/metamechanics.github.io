@@ -1,3 +1,3 @@
 -
-- related-to:: [[infobesity]]
+- see-also:: [[infobesity]]
 -

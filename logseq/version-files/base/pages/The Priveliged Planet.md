@@ -1,10 +1,10 @@
 alias::
-author:: [[Jay Richards]], [[Guillermo Gonzalez]] 
-publication-year::
-tags:: book, reference
-project:: #AMT  
-question::
-public:: true
+author:: [[Jay Richards]], [[Guillermo Gonzalez]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 - [The Privileged Planet (20th Anniversary Edition) | Discovery Institute](https://www.discovery.org/b/privileged-planet/)
 	- Are we just an accident of cosmic evolution? Is Earth a “lonely speck in the great enveloping cosmic dark” as the late Carl Sagan put it? Or is there more to the story? In this provocative book, Guillermo Gonzalez and Jay W. Richards marshal a staggering array of scientific evidence to counter the modern dogma that Earth is nothing more than the winner of a blind cosmic lottery.

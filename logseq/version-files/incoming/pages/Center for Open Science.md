@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.cos.io/
-org-type:: 
+org-type::
 people::
-publications:: 
+creations::
 tags:: organisation
-project:: [[EFA]], [[X-Science]] 
-public:: true
+rel-projects:: [[EFA]], [[X-Science]]
+
 - [Center for Open Science](https://www.cos.io/)
 - [Global Flourishing Study](https://www.cos.io/gfs)
 -

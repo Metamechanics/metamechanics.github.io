@@ -2,5 +2,4 @@
   alias:: OFEFA
   URL::
   tags::
-  initiatives:: [[EFA]] 
-  partners:: [[D Patrick Miller]]
+   [[D Patrick Miller]]

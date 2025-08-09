@@ -1,6 +1,6 @@
 alias::
-tags:: #myWriting 
-project:: #AMT #AMTbook 
+tags:: #myWriting
+rel-projects:: #AMT #AMTbook
 see-also:: [[Rescuing Science]], [[Rescuing Religion]]
 
 - Obviously God, by definition, does not need rescuing. However I assert that our dominant conceptions of 'God' need rescuing for our own sake. This includes uncovering the concepts of god that go implied and inferred in our systems, cultures and worldviews as well as the explicit conceptions more apparent in our mythologies and religions.

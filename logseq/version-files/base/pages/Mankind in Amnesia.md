@@ -1,9 +1,9 @@
 alias::
-author:: [[Immanuel Velikovsky]] 
-publication-year::
-tags:: book, reference #[[collective unconscious]] #amnesia 
-project:: [[Adam's Atlas]] #AMT 
-public:: true
+author:: [[Immanuel Velikovsky]]
+year::
+tags:: book #[[collective unconscious]] #amnesia
+rel-projects:: [[Adam's Atlas]] #AMT
+
 
 - [Mankind in Amnesia | The Velikovsky Encyclopedia](https://www.velikovsky.info/mankind-in-amnesia/)
 -

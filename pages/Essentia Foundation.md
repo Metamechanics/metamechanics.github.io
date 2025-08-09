@@ -2,10 +2,10 @@ alias::
 URL:: https://www.essentiafoundation.org/ , https://www.youtube.com/@essentiafoundation
 org-type::
 people:: [[Bernardo Kastrup]] 
-publications:: 
+creations:: 
 tags:: organisation, #metaphysics #[[Philosophy of Mind]] #[[Philosophy of Science]] #spacetime #keyResource 
-project:: [[AMT]], [[X-Science]], [[Metamechanica]] 
-public:: true
+rel-projects:: [[AMT]], [[X-Science]], [[Metamechanica]] 
+
 
 -
 - [Home | Essentia Foundation](https://www.essentiafoundation.org/)

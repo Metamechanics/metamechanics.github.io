@@ -1,9 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://www.getrecall.ai/
-similar-to::
+see-also::
 purpose::
-project:: [[Coding with AI]]
-
+rel-projects:: [[Coding with AI]]
 - [Recall - Summarize Anything, Forget Nothing.](https://www.getrecall.ai/)
 -

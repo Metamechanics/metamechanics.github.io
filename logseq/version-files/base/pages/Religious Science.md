@@ -1,11 +1,11 @@
 alias:: Science of Mind
 URL::
 org-type::
-people:: [[Ernest Holmes]] 
-publications:: 
+people:: [[Ernest Holmes]]
+creations::
 tags:: organisation
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

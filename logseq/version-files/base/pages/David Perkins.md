@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation:: [[Harvard University]] 
+rel-org:: [[Harvard University]] 
 role:: [[academic]] 
 fields:: [[education]] 
 tags:: person
-project:: [[FF-ed]] 
-public:: true
+rel-projects:: [[FF-ed]] 
+
 -

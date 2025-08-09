@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: [[Egypt]] 
-place-type:: 
+location::
+rel-country:: [[Egypt]]
+place-type::
 nearest-town::
 map-url::
 

@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: #China 
+location::
+rel-country:: #China
 place-type::
 nearest-town::
 map-url::

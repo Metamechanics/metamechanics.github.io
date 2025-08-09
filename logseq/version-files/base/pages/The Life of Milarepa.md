@@ -1,8 +1,8 @@
 alias::
 author::
-publication-year::
-tags:: book, reference, #Milarepa, #Marpa, #[[Tibetan Buddhism]] #toBuy 
-project:: #[[Inner Beginner]] 
-public:: true
+year::
+tags:: book, #Milarepa, #Marpa, #[[Tibetan Buddhism]] #toBuy
+rel-projects:: #[[Inner Beginner]]
+
 
 -

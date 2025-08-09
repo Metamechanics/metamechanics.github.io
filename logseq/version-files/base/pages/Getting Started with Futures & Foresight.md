@@ -1,7 +1,7 @@
 alias::
-Related-pubs::
-project:: [[Futures & Foresight Literacy]], [[FF-ed]] 
-Audience:: 
+
+rel-projects:: [[Futures & Foresight Literacy]], [[FF-ed]]
+Audience::
 Tags:: #toWrite #MyArticle #myCreation #introductory #pedagogy #rationale
 -
 - Why - rationale

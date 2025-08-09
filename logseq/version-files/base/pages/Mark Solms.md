@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[neuropsychoanalysis]], [[neuropsychiatry]], [[neuropsychology]], [[psychoanalysis]] 
-publications-productions:: 
-country:: [[South Africa]] 
+fields:: [[neuropsychoanalysis]], [[neuropsychiatry]], [[neuropsychology]], [[psychoanalysis]]
+creations::
+rel-country:: [[South Africa]]
 tags:: person
-project:: [[AMT]]
-question::
-public:: true
+rel-projects:: [[AMT]]
+
+
 
 - [When Psychoanalysis Meets Modern Neuroscience](https://www.theatlantic.com/health/archive/2015/08/neuroscience-psychoanalysis-casey-schwartz-mind-fields/401999/)
 -

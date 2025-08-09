@@ -1,8 +1,7 @@
 alias::
 tags:: #preface 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also:: [[Fossil Gods and Forgotton Worlds]]
-
 - ### Preface
 	- [Fossil Gods and Forgotten Worlds preface (PDF)](https://www.maverickscience.com/wp-content/uploads/Fossil-Gods-and-Forgotten-Worlds-preface.pdf)
 - The Great Gods of yore have long since fallen silent. Yet for countless millennia prior to their eclipse they loomed ominously in the heavens above, their thunderous voices being enough to raise hackles on the bravest warrior. Fossil Gods such as Horus, Thor, and Inanna were awe-inspiring and omnipresent powers, impossible to ignore or forget. That said, such names are familiar today only to a small cadre of scholars specializing in ancient cultures.

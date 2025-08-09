@@ -1,13 +1,13 @@
 alias:: Ernest S Holmes
 URL::
-organisation:: 
-role:: 
+rel-org::
+role::
 fields::
-publications-productions:: [[The Science of Mind]], [[Religious Science]] 
-country::
+creations:: [[The Science of Mind]], [[Religious Science]]
+rel-country::
 tags:: person
-project:: [[AMT]], [[Inner Beginner]] 
-question::
-public:: true
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
+
 
 -

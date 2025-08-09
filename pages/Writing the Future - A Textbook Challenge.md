@@ -1,6 +1,6 @@
 alias::
 tags:: #myCreation #MyArticle #toWrite 
-project:: [[A Textbook for the Futures]], [[FF-ed]], [[FSIB]]
+rel-projects:: [[A Textbook for the Futures]], [[FF-ed]], [[FSIB]]
 - see also: https://futuretextpublishing.com/future-of-text-2020-download/
 - https://visual-meta.info/example/
 - [Timeful Texts](https://numinous.productions/timeful/) and [[Quantum Country]]

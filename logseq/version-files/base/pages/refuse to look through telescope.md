@@ -1,6 +1,6 @@
 alias::
 tags:: #metaphor #Galileo #psi 
-project:: [[X-Science]], [[FACTs]], [[Psience]] 
+rel-projects:: [[X-Science]], [[FACTs]], [[Psience]] 
 see-also::
 
 -

@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #AMT #AMTbook 
+rel-projects:: #AMT #AMTbook
 see-also:: #Materialism
 
 -

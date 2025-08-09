@@ -1,8 +1,8 @@
 alias:: TBX
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
-project:: #WADS #[[WADS study]] #[[Metamechanic Mycelium]]
+rel-projects:: #WADS #[[WADS study]] #[[Metamechanic Mycelium]]
 
 -

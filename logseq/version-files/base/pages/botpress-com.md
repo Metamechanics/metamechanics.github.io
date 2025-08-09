@@ -1,6 +1,6 @@
 alias::
 tags:: #AI #software 
-project:: [[Metamechanical AI]], [[DiaGnosis]] 
+rel-projects:: [[Metamechanical AI]], [[DiaGnosis]] 
 see-also::
 
 -

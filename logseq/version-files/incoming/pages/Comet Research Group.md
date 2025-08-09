@@ -2,10 +2,10 @@ alias::
 URL:: https://cometresearchgroup.org/
 org-type::
 people:: 
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 
 - [Home - Comet Research Group](https://cometresearchgroup.org/)
 -

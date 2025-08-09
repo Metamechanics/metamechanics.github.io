@@ -1,8 +1,8 @@
 alias:: Kumu (app)
-tags:: app, software, #[[mind mapping]] 
+tags:: app, #[[mind mapping]]
 URL::
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 -

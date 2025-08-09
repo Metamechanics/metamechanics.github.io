@@ -1,6 +1,6 @@
 alias:: infobesity, databetes
-tags:: #metaphor 
-project:: #AMT
+tags:: #metaphor
+rel-projects:: #AMT
 see-also:: [[knowledge nutrition]]
 title:: databetes & infobesity
 

@@ -1,7 +1,7 @@
 - alias::
   tags::
   url:: 
-  project::
+  rel-projects::
   see-also::
 - [Top 7 Online Data Science Courses — 2025 Guide & Reviews – LearnDataSci](https://www.learndatasci.com/best-data-science-online-courses/)
 -

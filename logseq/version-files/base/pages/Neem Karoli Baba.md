@@ -1,12 +1,12 @@
 alias:: Maharajiji
 URL::
-organisation::
-role:: [[mystic]], [[spiritual teacher]] 
-fields:: 
-publications-productions:: 
-country:: [[India]] 
+rel-org::
+role:: [[mystic]], [[spiritual teacher]]
+fields::
+creations::
+rel-country:: [[India]]
 tags:: person
-project:: [[Inner Beginner]] 
-public:: true
+rel-projects:: [[Inner Beginner]]
+
 
 - guru of [[Ram Dass]]

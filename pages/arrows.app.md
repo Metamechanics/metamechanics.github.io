@@ -1,8 +1,8 @@
 alias:: Arrows (app)
-tags:: app, software
+tags:: app
 URL::
-similar-to::
-purpose:: diagram #ontology #[[graph database]] 
-project:: #DiaGnosis
+see-also::
+purpose:: diagram #ontology #[[graph database]]
+rel-projects:: #DiaGnosis
 
 -

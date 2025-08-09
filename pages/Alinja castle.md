@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: #Nakhchivan #Azerbaijan 
+location::
+rel-country:: #Nakhchivan #Azerbaijan
 place-type::
 nearest-town::
 map-url::

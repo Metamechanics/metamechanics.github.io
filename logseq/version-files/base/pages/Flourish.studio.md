@@ -1,9 +1,8 @@
 alias:: Flourish (app)
-tags:: app, software, #exemplar #mockup #pitch #[[digital storytelling]] #[[data visualization]] 
+tags:: app, #exemplar #mockup #pitch #[[digital storytelling]] #[[data visualization]]
 URL:: https://flourish.studio/
-similar-to::
+see-also::
 purpose:: create polished pitches with exemplars and mock-ups
-project:: #EFA #DiaGnosis
-
+rel-projects:: #EFA #DiaGnosis
 -
 -

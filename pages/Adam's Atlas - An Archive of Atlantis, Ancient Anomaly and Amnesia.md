@@ -1,6 +1,6 @@
 alias:: Adam's Atlas, Atlas of Adam
-related:: [[Arguments for Advanced Ancient Civilization]], [[My position on ancient civilizations]] 
-tags:: #myProject #[[ancient sites]] #[[alternative history]] #[[ancient text]] 
+see-also:: [[Arguments for Advanced Ancient Civilization]], [[My position on ancient civilizations]]
+tags:: #myProject #[[ancient sites]] #[[alternative history]] #[[ancient text]]
 see-also:: [[The Atlantis Encyclopedia]], [[Atlas of Adam AI]], [[Adam's Atlas tasks]]
 - Internal
   collapsed:: true

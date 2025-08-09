@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
+creations::
 tags:: person, #[[Earth Crust Displacement theory]], #[[polar shift]]
-project:: #FRESH 
-public:: true
+rel-projects:: #FRESH
+
 -

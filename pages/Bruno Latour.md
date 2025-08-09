@@ -1,12 +1,12 @@
 alias::
 URL:: http://www.bruno-latour.fr/
-organisation:: [[Sciences Po]] 
+rel-org:: [[Sciences Po]] 
 role::
 fields:: [[Philosophy of Science]], [[Scientific Humanities]], [[Sociology of Science]] 
-publications:: [[Science in Action]], [[Actor-Network Theory]], [[MOOC Scientific Humanities]] 
+creations:: [[Science in Action]], [[Actor-Network Theory]], [[MOOC Scientific Humanities]] 
 tags:: person, #[[Controversy Mapping]] #[[controversies in science]], #keyThinker 
-project:: [[DiaGnosis]], [[X-Science]] 
-public:: true
+rel-projects:: [[DiaGnosis]], [[X-Science]] 
+
 
 -
 - [bruno-latour.fr](http://www.bruno-latour.fr/)

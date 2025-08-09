@@ -1,7 +1,7 @@
 alias::
 tags::
 url:: 
-project:: [[Metamechanic Mycelium]], [[Coding with AI]] 
+rel-projects:: [[Metamechanic Mycelium]], [[Coding with AI]] 
 see-also::
 
 -

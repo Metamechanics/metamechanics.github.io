@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[apologist]] #Christian 
-publications-productions:: [[Happy Lies - How a Movement You (Probably) Never Heard Of Shaped Our Self-Obsessed World]] 
-country:: #USA
+creations:: [[Happy Lies - How a Movement You (Probably) Never Heard Of Shaped Our Self-Obsessed World]] 
+rel-country:: #USA
 tags:: person
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT  
+
+
 
 -

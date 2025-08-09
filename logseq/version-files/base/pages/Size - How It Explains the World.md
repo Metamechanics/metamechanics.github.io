@@ -1,9 +1,14 @@
 alias::
-author:: [[Vaclav Smil]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Vaclav Smil]]
+year::
+tags:: book
+rel-projects::
+
+alias::
+author:: [[Vaclav Smil]]
+year::
+tags:: book
+rel-projects::
 
 -
 -

@@ -1,8 +1,8 @@
 alias::
-tags:: #Saqqara #ziggurat 
-place::
-country:: [[Egypt]] 
-place-type:: #pyramid, #[[ancient site]] 
+tags:: #Saqqara #ziggurat
+location::
+rel-country:: [[Egypt]]
+place-type:: #pyramid, #[[ancient site]]
 nearest-town::
 map-url::
 

@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #SDK #keyResource #toBuy 
+tags:: app, #SDK #keyResource #toBuy
 URL::
-similar-to::
-purpose:: interactive data visualizations, 
-project:: #DiaGnosis
+see-also::
+purpose:: interactive data visualizations,
+rel-projects:: #DiaGnosis
 
 - yFiles SDK
 	- USD$20,000 one-off license fee, single developer

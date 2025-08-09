@@ -1,6 +1,6 @@
 alias::
 tags:: #reparations 
-project:: [[Waking Up From Woke]]
+rel-projects:: [[Waking Up From Woke]]
 see-also::
 
 - trace source of trauma back to

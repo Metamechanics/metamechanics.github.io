@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 year-commenced::
 tags:: website, travel
-project::
-public:: true
+rel-projects::
+
 -
 - [Curious and Wondrous Travel Destinations - Atlas Obscura](https://www.atlasobscura.com/)

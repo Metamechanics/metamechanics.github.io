@@ -1,14 +1,14 @@
 alias:: Ioannis Varoufakis, Varoufakis
 URL:: https://www.yanisvaroufakis.eu/
-organisation:: 
+rel-org::
 role::
-fields:: #technofuedalism #economics #[[game theory]] 
-publications-productions:: [[Game Theory - A Critical Text]],  
-country:: #Greece  
+fields:: #technofuedalism #economics #[[game theory]]
+creations:: [[Game Theory - A Critical Text]],
+rel-country:: #Greece
 tags:: person
-project:: #EFA #[[Waking Up From Woke]] 
-question::
-public:: true
+rel-projects:: #EFA #[[Waking Up From Woke]]
+
+
 
 - [Home - Yanis Varoufakis](https://www.yanisvaroufakis.eu/)
 -

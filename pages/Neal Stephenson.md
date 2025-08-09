@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: #author 
+rel-org::
+role:: #author
 fields::
-publications-productions:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 -

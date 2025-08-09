@@ -1,6 +1,6 @@
 alias:: ffed tasks
 tags:: task
-project:: #FF-ed 
+rel-projects:: #FF-ed 
 see-also::
 
 -

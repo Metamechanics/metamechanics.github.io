@@ -1,7 +1,5 @@
 - MyBook template
   collapsed:: true
-	- Question-Problem::
-	  Related-pubs::
 	  Tags:: #toWrite, #[[My Books]]
 	-
 	- Intention

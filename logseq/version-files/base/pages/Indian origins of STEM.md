@@ -1,6 +1,6 @@
 alias:: Vedic origins of Science Maths and Medicine, Indian origins of Science Maths and Medicine
 tags:: #Vedas #[[Ancient India]] 
-project:: #X-Science #[[Adam's Atlas]]  
+rel-projects:: #X-Science #[[Adam's Atlas]]  
 see-also::
 
 - [Graham Hancock: This Rig Veda Story Know About Precession Before the Greeks - YouTube](https://www.youtube.com/watch?v=ZoJ-KU_yQnc) #[[Hamlet's Mill]]

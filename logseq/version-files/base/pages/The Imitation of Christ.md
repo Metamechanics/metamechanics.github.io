@@ -1,10 +1,10 @@
 alias::
 author:: [[Thomas a Kempis]] 
-publication-year:: 1420
+year:: 1420
 tags:: book 
-project:: #InnerBeginner 
-question::
-public:: true
+rel-projects:: #InnerBeginner 
+
+
 
 - [The Harvard Classics | Antilogicalism](https://antilogicalism.com/primary-sources/harvard-classics/)
 	- *The Imitation of Christ* is a Christian devotional book by Thomas à Kempis, first composed in Medieval Latin (as *De Imitatione Christi*) c. 1418–1427. It is a handbook for spiritual life arising from the Devotio Moderna movement, of which Kempis was a member.

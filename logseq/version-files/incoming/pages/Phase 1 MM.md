@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[MM 3+ phase evolution]], [[Phase 2 MM]], [[Phase 3 MM]], [[Mission Management]], [[Metamechanic Portfolio]], [[Metamechanic Mycelium]]
 - [[Projects]] , [[My Books]] , [[myArticles]] and stuff [[to Write]]
 - People involved: myself, alone

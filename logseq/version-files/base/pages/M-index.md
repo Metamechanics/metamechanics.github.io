@@ -1,6 +1,6 @@
 alias:: the Malphabet
-tags:: 
-project:: [[AMT hyperbook]]
+tags::
+rel-projects:: [[AMT hyperbook]]
 sub-title:: A malphabet
 
 -
@@ -148,7 +148,7 @@ sub-title:: A malphabet
 	- problems with the Big Bang
 - Messiah
 	- Handel's Messiah
-- ### Megaliths 
+- ### Megaliths
   Mayans, Menkaure, Moai, Mamallapuram metcetera
 - Maitreya
 - Mahasamadhi

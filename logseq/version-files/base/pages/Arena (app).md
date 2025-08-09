@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://www.are.na/
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 - [Are.na](https://www.are.na/)
 - Are.na is:

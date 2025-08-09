@@ -1,6 +1,6 @@
 person:: [[Alfred North Whitehead]] 
 tags:: #theory 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also::
 
 -

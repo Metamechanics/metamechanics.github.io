@@ -1,10 +1,10 @@
 alias::
 tags:: concept, theory, paradigm
-domain:: [[cosmology]], [[physics]] 
-people:: 
-related-to:: [[Plasma Universe]] 
-project::
-public:: true
+domain:: [[cosmology]], [[physics]]
+people::
+see-also:: [[Plasma Universe]]
+rel-projects::
+
 
 -
 - [Plasma Cosmology .net](https://www.plasmacosmology.net/)

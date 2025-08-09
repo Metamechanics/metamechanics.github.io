@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[John Hopkins Center for Psychedelic and Consciousness Research]] 
-role:: #academic 
+rel-org:: [[John Hopkins Center for Psychedelic and Consciousness Research]]
+role:: #academic
 fields::
-publications-productions:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

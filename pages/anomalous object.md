@@ -1,7 +1,7 @@
 alias::
 tags:: #anomaly 
 url:: 
-project:: [[Adam's Atlas]] 
+rel-projects:: [[Adam's Atlas]] 
 see-also:: #[[ancient artefact]] #[[Egyptian vases]]
 
 -

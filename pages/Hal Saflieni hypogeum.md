@@ -1,7 +1,7 @@
 alias::
 tags::
-place:: #Europe 
-country:: #Malta 
+location:: #Europe
+rel-country:: #Malta
 place-type::
 nearest-town::
 map-url::

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: #rabbi 
-fields:: [[Judaism]] 
-publications-productions:: 
-country::
+rel-org::
+role:: #rabbi
+fields:: [[Judaism]]
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

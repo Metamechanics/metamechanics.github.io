@@ -1,7 +1,7 @@
 alias::
-tags:: #[[Taş Tepeler]] 
-place::
-country:: #Turkey 
+tags:: #[[Taş Tepeler]]
+location::
+rel-country:: #Turkey
 place-type::
 nearest-town::
 map-url::

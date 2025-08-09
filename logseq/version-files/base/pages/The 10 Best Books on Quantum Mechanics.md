@@ -1,14 +1,14 @@
 alias::
-Creators::
+creators::
 year::
-URL:: 
-tags:: #list #[[quantum mechanics]] #[[quantum physics]] #book 
-project:: [[X-Science]] 
-public:: true
+URL::
+tags:: #list #[[quantum mechanics]] #[[quantum physics]] #book
+rel-projects:: [[X-Science]]
+
 
 -
 - [physhistory](https://www.instagram.com/physhistory/)
-  
+
   10 Best Books on Quantum Physics ✍️
 - “Principles of Quantum Mechanics” by R. Shankar
 - “Modern Quantum Mechanics” by J.J. Sakurai and Jim Napolitano

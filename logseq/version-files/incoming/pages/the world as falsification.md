@@ -1,6 +1,6 @@
 alias::
-tags:: [[Karl Popper]], #falsification 
-project:: #AMT
+tags:: [[Karl Popper]], #falsification
+rel-projects:: #AMT
 see-also:: [[the world as logical fallacy]]
 
 - #QTS : what exactly is falsification? Popperian falsification

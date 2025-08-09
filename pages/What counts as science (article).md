@@ -1,11 +1,11 @@
-journal:: [[Nautil.us]] 
-authors:: Kate Becker
+rel-journal:: [[Nautil.us]]
+author:: Kate Becker
 year:: 2016
 URL::
-tags:: article, [[arxiv.org]], #toRead #demarcation [[Philosophy of Science]] #pseudoscience 
-project:: [[X-Science]], 
-question::
-public:: true
+tags:: article, [[arxiv.org]], #toRead #demarcation [[Philosophy of Science]] #pseudoscience
+rel-projects:: [[X-Science]],
+
+
 
 -
 - What Counts as Science?

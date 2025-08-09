@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Israel 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
+location::
+rel-country:: #Israel
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
 nearest-town::
 map-url::
 - [[Ammon Hillman]]

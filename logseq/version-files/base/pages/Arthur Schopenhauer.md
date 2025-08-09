@@ -1,13 +1,13 @@
 alias:: Schopenhauer
 URL::
-organisation::
-role:: [[philosopher]] 
-fields:: 
-publications-productions:: [[The World as Will and Representation]] 
-country::
+rel-org::
+role:: [[philosopher]]
+fields::
+creations:: [[The World as Will and Representation]]
+rel-country::
 tags:: person
-project:: #InnerBeginner #AMT #X-Science 
-public:: true
+rel-projects:: #InnerBeginner #AMT #X-Science
+
 -
 - All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. #quote #X-Science source ??
 -

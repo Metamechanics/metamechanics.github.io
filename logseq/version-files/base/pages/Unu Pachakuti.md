@@ -1,6 +1,6 @@
 alias::
 tags:: #[[The Great Flood]] #myth #Inca 
-project:: #[[Adam's Atlas]] 
+rel-projects:: #[[Adam's Atlas]] 
 see-also::
 - [Unu Pachakuti - Wikipedia](https://en.wikipedia.org/wiki/Unu_Pachakuti)
 	- In [Inca mythology](https://en.wikipedia.org/wiki/Inca_mythology), **Unu Pachakuti** is the name of a [flood](https://en.wikipedia.org/wiki/Flood) that [Viracocha](https://en.wikipedia.org/wiki/Viracocha) caused to destroy the people around [Lake](https://en.wikipedia.org/wiki/Lake) [Titicaca](https://en.wikipedia.org/wiki/Titicaca), saving two to bring civilization to the rest of the world.[[(https://en.wikipedia.org/wiki/Unu_Pachakuti#cite_note-1)

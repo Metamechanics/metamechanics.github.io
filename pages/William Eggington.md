@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Thinking with Borges]] 
+creations:: [[Thinking with Borges]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

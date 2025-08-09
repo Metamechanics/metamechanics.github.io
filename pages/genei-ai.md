@@ -1,3 +1,3 @@
-- #AI #software-app
+- #AI #app
 	-
 -

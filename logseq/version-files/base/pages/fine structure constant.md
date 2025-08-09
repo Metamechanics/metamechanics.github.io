@@ -1,9 +1,9 @@
 alias::
 tags:: concept, theory
-domain:: [[physics]], [[cosmology]] 
+domain:: [[physics]], [[cosmology]]
 people::
-related-to::
-project:: [[AMT]], [[X-Science]] 
-public:: true
+see-also::
+rel-projects:: [[AMT]], [[X-Science]]
+
 
 -

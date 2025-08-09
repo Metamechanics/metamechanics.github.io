@@ -1,10 +1,10 @@
 alias::
 author::
-publication-year::
-tags:: book, reference
-project:: [[FACTs]],  
-question::
-public:: true
+year::
+tags:: book
+rel-projects:: [[FACTs]],  
+
+
 
 - [Routledge Handbook of Conspiracy Theories - 1st Edition - Michael Butt](https://www.routledge.com/Routledge-Handbook-of-Conspiracy-Theories/Butter-Knight/p/book/9780815361749)
 - ### Table of Contents

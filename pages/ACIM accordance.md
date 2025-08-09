@@ -1,8 +1,7 @@
 alias::
 tags:: #[[WADS portfolio]] #software 
-project:: #ACIM4T #[[WADS study]]  
+rel-projects:: #ACIM4T #[[WADS study]]  
 see-also::
-
 - See Accordance 13 software for Bible
   https://www.accordancebible.com/Features#Overview
 -

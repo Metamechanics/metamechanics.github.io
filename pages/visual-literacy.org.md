@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.visual-literacy.org/
-org-type:: #consultancy 
-people:: [[Martin Eppler]], [[Christian Muntwiler]] 
-publications:: [[Visual Variation]], [[Visipedia]], [[Debias by Design]] 
-tags:: organisation, #debiasing #[[data visualization]] #keyResource 
-project:: #DiaGnosis 
-public:: true
+org-type:: #consultancy
+people:: [[Martin Eppler]], [[Christian Muntwiler]]
+creations:: [[Visual Variation]], [[Visipedia]], [[Debias by Design]]
+tags:: organisation, #debiasing #[[data visualization]] #keyResource
+rel-projects:: #DiaGnosis
+
 
 - [Visual Variation | Visual Literacy](https://www.visual-literacy.org/visualvariation/)
 - [Visipedia | Visual Literacy](https://www.visual-literacy.org/visipedia/)

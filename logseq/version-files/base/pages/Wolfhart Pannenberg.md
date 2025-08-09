@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[theologian]] 
 fields:: [[theology]], [[Christian theology]] 
-publications-productions:: [[Jesus - God and Man]] 
+creations:: [[Jesus - God and Man]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 - [Wolfhart Pannenberg - Wikipedia](https://en.wikipedia.org/wiki/Wolfhart_Pannenberg)

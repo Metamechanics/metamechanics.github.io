@@ -1,8 +1,7 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[Everything except God is metaphor]]
-
 - [[The Forgotten Technologies]]
 - [[Religion as technology]]
 - [[Science as technology]]

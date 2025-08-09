@@ -1,14 +1,14 @@
 alias::
 URL:: https://bswa.org/teachers/ajahn-brahm/ajahn-brahm-bio/
-organisation::
+rel-org::
 role:: #monk  
 fields:: #Theravada #Buddhism 
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [ajahn brahm biography | Buddhist Society of Western Australia](https://bswa.org/teachers/ajahn-brahm/ajahn-brahm-bio/)
 -

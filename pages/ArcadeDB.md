@@ -1,8 +1,7 @@
 alias::
-tags:: app, software [[graph database]] [[multi-model database]] 
+tags:: app [[graph database]] [[multi-model database]]
 URL:: https://arcadedb.com/
-similar-to::
+see-also::
 purpose::
-project::
-
+rel-projects::
 -

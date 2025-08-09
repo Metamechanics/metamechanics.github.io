@@ -1,9 +1,9 @@
 alias::
 author::
-publication-year::
-tags:: book, reference
-project:: #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+year::
+tags:: book
+rel-projects:: #[[Babies, Bibles and Bathwater]]
+
+
 
 -

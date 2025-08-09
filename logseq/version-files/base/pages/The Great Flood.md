@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #[[Adam's Atlas]] 
+rel-projects:: #[[Adam's Atlas]] 
 see-also::
 
 - [World Flood Myths: Giants, Stones & New Life » Mythphile](http://www.mythphile.com/2011/01/world-flood-myths/)

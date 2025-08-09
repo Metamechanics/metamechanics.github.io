@@ -1,12 +1,12 @@
 alias:: Sir Roger Scruton
 URL::
-organisation::
-role:: [[academic]] 
+rel-org::
+role:: [[academic]]
 fields:: [[philosophy]]
-publications:: [[Fools, Frauds and Firebrands]] 
-tags:: person, [[Douglas Murray]], #anti-woke 
-project:: [[Waking Up From Woke]] 
-public:: true
+creations:: [[Fools, Frauds and Firebrands]]
+tags:: person, [[Douglas Murray]], #anti-woke
+rel-projects:: [[Waking Up From Woke]]
+
 
 - [HOME - Sir Roger Scruton](https://www.roger-scruton.com/)
 -

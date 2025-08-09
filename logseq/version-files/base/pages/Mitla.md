@@ -1,10 +1,10 @@
 alias::
-tags:: 
-place::
-country:: #Mexico 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
-nearest-town:: [[Oaxaca]] 
+tags::
+location::
+rel-country:: #Mexico
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: [[Oaxaca]]
 map-url::
 
 -

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[ecological economics]], [[Steady-State Economics]] 
-publications-productions:: 
+fields:: [[ecological economics]], [[Steady-State Economics]]
+creations::
 tags:: person
-project:: [[MacroEnergetics]], [[Global Effort]] 
-public:: true
+rel-projects:: [[MacroEnergetics]], [[Global Effort]]
+
 
 -

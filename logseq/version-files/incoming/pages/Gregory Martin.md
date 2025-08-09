@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[A Discovery of the Manifold Corruptions of Scripture]]
-country:: 
+creations:: [[A Discovery of the Manifold Corruptions of Scripture]]
+rel-country::
 tags:: person
-project:: #AMT #AMTbook #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+rel-projects:: #AMT #AMTbook #[[Babies, Bibles and Bathwater]]
+
+
 
 -

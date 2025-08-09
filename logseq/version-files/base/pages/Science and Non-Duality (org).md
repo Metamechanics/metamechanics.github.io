@@ -2,10 +2,10 @@ alias:: SANDorg
 URL:: https://scienceandnonduality.com/
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project:: #AMT  
-public:: true
+rel-projects:: #AMT  
+
 see-also:: [[A comment on the 'Science and Non-Duality' website]]
 
 - [Home - Science and Nonduality (SAND)](https://scienceandnonduality.com/)

@@ -1,10 +1,10 @@
-journal::
-authors:: [[Avshalom Elitzur]] 
+rel-journal::
+author:: [[Avshalom Elitzur]]
 year::
 URL::
-tags:: article, reference, #toRead 
-project:: [[Blind (Spot) Faith]], [[The pSilence of Science]] 
-public:: true
+tags:: article, reference, #toRead
+rel-projects:: [[Blind (Spot) Faith]], [[The pSilence of Science]]
+
 
 -
 -

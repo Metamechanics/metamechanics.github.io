@@ -1,6 +1,6 @@
 alias:: 
 tags:: [[theory of everything]], #[[map]] #chapter 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Some theories of everything, in general
 - What is "M-theory"?
   collapsed:: true

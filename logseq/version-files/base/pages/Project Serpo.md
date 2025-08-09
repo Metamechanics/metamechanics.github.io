@@ -1,6 +1,6 @@
 alias::
 tags:: #[[Black Ops]] #ET #[[Zeta Reticuli]] #[[ET technology transfer]]
-project:: [[FACTs]]
+rel-projects:: [[FACTs]]
 see-also::
 
 -

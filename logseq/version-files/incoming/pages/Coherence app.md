@@ -1,10 +1,10 @@
 alias::
-tags:: #project #app #myIdea #[[project management]] #software #[[software development]] #SQL 
-project:: [[WADS portfolio]] #[[WADS study]] 
+tags:: #project #app #myIdea #[[project management]] #software #[[software development]] #SQL
+rel-projects:: [[WADS portfolio]] #[[WADS study]]
 see-also::
-
+- Could/should this be a sub-app of DiaGnosis?
 -
--
+- Concept map is key -> Concept Gantt
 - Eisenhower matrix, with variations, customisation
 - Hierarchy
 - Principles
@@ -14,11 +14,16 @@ see-also::
 - Exemplars and templates
 - AI integration
 - Pomodoro options
+- Time-blocking
 - Background music, white noise
 - Daily, weekly, monthly, quarterly, annual timeframes
 - Dependencies
 	- time-based and non-time based options
+- Goal types
+	- SMART
+	- what-if ?
 - Views
+  collapsed:: true
 	- Gantt / timeline
 	- Swimlane
 	- Kanban
@@ -32,8 +37,9 @@ see-also::
 	- Filters
 	- People/alter-egos
 	- Cards (like Trello)
-	-
+	- Canvas; concept map
 - Metrics?
+  collapsed:: true
 	- KPI
 	- OKR
 	- business metrics
@@ -42,13 +48,15 @@ see-also::
 - "Purpose is everything"
 	- Why? Ask why at each prompt?
 	- Ask for reflection: Does any sub-part actually not align with the top goal?
+	- inner purpose
+	- outer purpose
 - Psychology experts/app input
 - Comparison/competitor apps & services
-	-
 	- Global Coherence app, HearthMath institute
 	- The Complete App
 	- Momentum
 	- The major specific task/project management players
+	  collapsed:: true
 		- [72 Best Project Management Software of 2023 | Hive.com](https://hive.com/blog/project-management-software/)
 		- Todoist
 		- 2do
@@ -71,6 +79,7 @@ see-also::
 		- nTask
 		- Nifty
 	- General tools used for Task & Project management
+	  collapsed:: true
 		- Notion
 		- Fibery
 		- AirTable
@@ -86,6 +95,7 @@ see-also::
 	- Zapier
 	- Quickbooks
 - Customizable complexity
+  collapsed:: true
 	- Dates, or not
 	- Time-tracking, or not
 	- $, or not
@@ -96,3 +106,29 @@ see-also::
 	- Team (3 ~ 10 pax)
 	- Organisation (10 ~ 100)
 	- Enterprise (100+)
+		- how personal vision relates to company vision
+		- integrate HR and PDP
+		- pet project integration: how does/could this help the organization?
+			- add pitch/proposal templates
+		-
+- How does this replicate what is already done by teams?
+	- Milestones, goals, objectives
+	- KPIs
+	- Vision
+	- Scrum/agile/kanban terminology and ideas?
+-
+- Schema
+	- Vision
+	- Habits
+	- Product, sub-products (levels, scale)
+	- Inputs (time, energy, media, teammates)
+	- Outputs (product, service)
+	- Project
+	- Enterprise
+	- Identity, alter-egos, shadows
+	- Deliverables
+	- Attitudes/mindset
+	- InOS & OutOS
+- Tech stack
+	- SQlite
+	- Observable?

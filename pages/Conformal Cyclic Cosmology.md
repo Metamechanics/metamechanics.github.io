@@ -1,6 +1,6 @@
 person:: [[Roger Penrose]] 
 tags:: #theory #cosmology 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also::
 
 -

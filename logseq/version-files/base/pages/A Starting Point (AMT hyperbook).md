@@ -1,6 +1,6 @@
 alias:: M-barkation
-tags:: 
-project:: [[AMT hyperbook]]
+tags::
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Some notes to the reader on method and madness in the M-ness
 - Content, Theory
   collapsed:: true

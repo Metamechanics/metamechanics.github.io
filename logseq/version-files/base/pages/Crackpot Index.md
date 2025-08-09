@@ -1,7 +1,7 @@
 alias::
-tags:: [[John Baez]] #pseudoscience #skepticism 
+tags:: [[John Baez]] #pseudoscience #skepticism
 URL:: https://math.ucr.edu/home/baez/crackpot.html, https://johnbaez.wordpress.com/the-crackpot-index/
-project:: [[X-Science]] 
+rel-projects:: [[X-Science]]
 see-also:: [[The Anti-Crackpot Index]]
 - [The CRACKPOT Index](https://www.physics.smu.edu/scalise/www/misc/crackpot/crindex.html)
 - [The Crackpot Index | John Baez](https://johnbaez.wordpress.com/the-crackpot-index/)
@@ -45,7 +45,7 @@ see-also:: [[The Anti-Crackpot Index]]
 - 40 points for comparing yourself to Galileo, suggesting that a modern-day Inquisition is hard at work on your case, and so on.
 - 40 points for claiming that when your theory is finally appreciated, present-day science will be seen for the sham it truly is. (30 more points for fantasizing about show trials in which scientists who mocked your theories will be forced to recant.)
 - 50 points for claiming you have a revolutionary theory but giving no concrete testable predictions.
-  
+
   ---
 - © 1998 John Baez
   baez@math.removethis.ucr.andthis.edu### [home](https://math.ucr.edu/home/baez/README.html)

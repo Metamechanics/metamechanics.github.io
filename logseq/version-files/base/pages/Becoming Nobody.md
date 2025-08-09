@@ -3,8 +3,8 @@ creators:: [[Ram Dass]]
 year::
 URL::
 tags:: documentary #toWatch 
-project:: [[Inner Beginner]], [[The Ultimate Conspiracy]] 
-public:: true
+rel-projects:: [[Inner Beginner]], [[The Ultimate Conspiracy]] 
+
 
 -
 - available on Gaia.tv

@@ -1,14 +1,14 @@
 alias:: Sir Isaac Newton, Newton
 URL:: https://www.newtonproject.ox.ac.uk/
-organisation:: [[The Royal Society]], [[The Newton Project]], The Royal Mint
-role:: 
-fields:: 
-publications-productions:: 
-country:: UK
+rel-org:: [[The Royal Society]], [[The Newton Project]], The Royal Mint
+role::
+fields::
+creations::
+rel-country:: UK
 tags:: person
-project:: #X-Science #[[Babies, Bibles and Bathwater]] [[Adam's Atlas]]?
-question::
-public:: true
+rel-projects:: #X-Science #[[Babies, Bibles and Bathwater]] [[Adam's Atlas]]?
+
+
 
 - [Two Notable Corruptions of Scripture (part 2: ff. 43-48) (Normalized)](https://www.newtonproject.ox.ac.uk/view/texts/normalized/THEM00262)
 - [Welcome to the Newton Project](https://www.newtonproject.ox.ac.uk/)

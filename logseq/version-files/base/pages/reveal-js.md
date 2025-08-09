@@ -1,9 +1,8 @@
 alias::
 tags::
 url:: http://revealjs.com
-project:: #EFA 
+rel-projects:: #EFA 
 see-also:: [[impress-js]]
-
 - revealjs.com <http://revealjs.com>
 - [[EFA]] presentation
 -

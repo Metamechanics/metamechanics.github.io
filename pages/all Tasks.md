@@ -1,6 +1,6 @@
 alias:: Global Tasks
 tags::
-project:: #allProjects
+rel-projects:: #allProjects
 
 -
 - {{query (task DOING))}}

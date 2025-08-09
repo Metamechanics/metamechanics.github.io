@@ -1,8 +1,8 @@
 alias::
-author:: [[A.C. Grayling]] 
-publication-year::
-tags:: book, reference
-project:: #AMT [[Inner Beginner]] 
-public:: true
+author:: [[A.C. Grayling]]
+year::
+tags:: book
+rel-projects:: #AMT [[Inner Beginner]]
+
 
 -

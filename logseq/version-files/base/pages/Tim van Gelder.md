@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #[[critical thinking]] 
-publications-productions:: 
+fields:: #[[critical thinking]]
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

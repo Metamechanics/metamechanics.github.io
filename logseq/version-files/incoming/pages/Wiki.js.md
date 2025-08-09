@@ -1,7 +1,7 @@
-- alias::
-  tags:: app, software
-  URL::
-  similar-to::
-  purpose::
-  project::
+alias::
+tags:: app
+URL::
+see-also:: #xWiki
+purpose:: #wiki #[[collaborative editing]]
+rel-projects::
 -

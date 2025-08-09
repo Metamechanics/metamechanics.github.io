@@ -1,6 +1,6 @@
 alias:: non-canonical Gospels, noncanonical Gospels, extra-canonical Gospels
 tags::
-project:: #[[Babies, Bibles and Bathwater]]
+rel-projects:: #[[Babies, Bibles and Bathwater]]
 see-also:: [[Apocrypha]]
 
 - #### Extracanonical vs Apocryphal Gospels | Brave AI Search return

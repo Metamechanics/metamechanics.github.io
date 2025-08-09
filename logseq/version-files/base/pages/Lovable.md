@@ -1,5 +1,5 @@
 alias::
 tags:: #AI #[[app builder]] 
 url:: 
-project:: [[Coding with AI]] 
+rel-projects:: [[Coding with AI]] 
 see-also::

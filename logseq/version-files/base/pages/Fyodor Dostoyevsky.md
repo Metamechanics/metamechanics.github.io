@@ -1,13 +1,13 @@
 alias:: Dostoyevsky
 URL::
-organisation::
-role:: #author 
-fields:: #literature 
-publications-productions:: [[The Brothers Karamazov]], [[Crime and Punishment]] 
-country:: #Russia 
+rel-org::
+role:: #author
+fields:: #literature
+creations:: [[The Brothers Karamazov]], [[Crime and Punishment]]
+rel-country:: #Russia
 tags:: person
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 -

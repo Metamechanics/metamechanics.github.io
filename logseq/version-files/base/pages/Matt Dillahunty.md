@@ -1,12 +1,12 @@
 alias:: Dillahunty
 URL::
-organisation::
+rel-org::
 role:: 
 fields:: [[humanism]], [[secular humanism]], #atheism 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 - [Matt Dillahunty - YouTube](https://www.youtube.com/@SansDeity)

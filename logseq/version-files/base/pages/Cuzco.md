@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: [[Peru]] 
-place-type:: #city #[[ancient city]] 
+location::
+rel-country:: [[Peru]]
+place-type:: #city #[[ancient city]]
 nearest-town::
 map-url::
 

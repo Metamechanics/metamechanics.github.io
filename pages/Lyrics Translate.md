@@ -1,11 +1,11 @@
 alias::
 URL:: https://lyricstranslate.com/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #translation 
-project:: [[LOTE study]] 
-question::
-public:: true
+rel-projects:: [[LOTE study]] 
+
+
 
 - [Lyrics Translations](https://lyricstranslate.com/)
 -

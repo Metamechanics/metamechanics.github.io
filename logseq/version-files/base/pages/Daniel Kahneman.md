@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #academic
-fields:: [[behavioural economics]], [[psychology of economics]], [[economics]] 
-publications:: [[Thinking, Fast and Slow]] 
-tags:: person, #[[Nobel Prize]] 
-project::
-public:: true
+fields:: [[behavioural economics]], [[psychology of economics]], [[economics]]
+creations:: [[Thinking, Fast and Slow]]
+tags:: person, #[[Nobel Prize]]
+rel-projects::
+
 
 - see also: [[Amos Tversky]]
 -

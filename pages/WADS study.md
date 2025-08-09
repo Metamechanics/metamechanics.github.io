@@ -1,6 +1,6 @@
 alias:: 
 tags:: #toStudy #toLearn #coding #[[computer programmer]] [[Data Science]]  
-project:: [[WADS]], [[DiaGnosis]], [[ACIM AI]], [[Metamechanical AI]], [[Metamechanic Mycelium]] 
+rel-projects:: [[WADS]], [[DiaGnosis]], [[ACIM AI]], [[Metamechanical AI]], [[Metamechanic Mycelium]] 
 see-also:: #WADS #ICT #[[Software, Apps & Web Services I may use & learn]]
 
 - Wisdom Architecture & Data Science #DIKW

@@ -1,6 +1,6 @@
 alias::
 tags:: #concept #[[one-mind]] #[[collective unconscious]] 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also:: [[split mind]], [[One Mind]]
 
 -

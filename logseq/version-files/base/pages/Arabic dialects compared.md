@@ -1,10 +1,10 @@
-journal::
-authors::
+rel-journal::
+author::
 year::
 URL::
-tags:: article, #Arabic 
-project::
-public:: true
+tags:: article, #Arabic
+rel-projects::
+
 
 - [Arabic Dialects Compared: Maghrebi, Egyptian, Levantine, Hejazi, Gulf, and MSA](https://discoverdiscomfort.com/arabic-dialects-maghrebi-egyptian-levantine-gulf-hejazi-msa/)
 - Arabic Dialects Compared: Maghrebi, Egyptian, Levantine, Hejazi, Gulf, and MSA

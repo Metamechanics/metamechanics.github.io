@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: #AMT #FRESH 
+rel-projects:: #AMT #FRESH 
 see-also:: #space-time
-
 - [[block time]] or [[block universe]] ?
 - 3D time, as well as 3D space
 	- past, present, future

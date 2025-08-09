@@ -1,9 +1,9 @@
 alias::
 author::
-publication-year::
-tags:: book, Babylon, cuneiform, #[[ancient text]] #myth 
-project:: #FRESH #[[Adam's Atlas]] 
-public:: true
+year::
+tags:: book, Babylon, cuneiform, #[[ancient text]] #myth
+rel-projects:: #FRESH #[[Adam's Atlas]]
+
 
 - The Babylonian Epic of Creation
 - #[[ancient text]] #Sumer #Babylon

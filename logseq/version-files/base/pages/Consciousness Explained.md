@@ -1,6 +1,5 @@
 alias::
-author:: [[Daniel Dennett]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Daniel Dennett]]
+year::
+tags:: book
+rel-projects::

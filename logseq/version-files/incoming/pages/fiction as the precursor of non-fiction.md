@@ -1,6 +1,5 @@
 alias::
 tags:: #myIdea #idea 
-project:: #AMT #AMTbook 
+rel-projects:: #AMT #[[AMT hyperbook]] 
 see-also:: [[Truth is stranger than fiction]]
-
 -

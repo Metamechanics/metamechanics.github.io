@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[TL;DR writing]]
 
 - or Atomic writing?

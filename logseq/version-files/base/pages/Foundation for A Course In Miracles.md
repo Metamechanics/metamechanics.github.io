@@ -2,11 +2,11 @@ alias::
 URL::
 org-type:: #non-profit #religious 
 people:: [[Jeff Seibert]],  
-publications:: 
+creations:: 
 tags:: organisation, #ACIM #USA  
-project:: [[ACIM4T]] 
-question::
-public:: true
+rel-projects:: [[ACIM4T]] 
+
+
 
 -
 -

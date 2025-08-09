@@ -1,7 +1,7 @@
 - alias::
   tags::
   url:: 
-  project::
+  rel-projects::
   see-also::
 -
 - # Multi-Platform Notes Publishing Workflow

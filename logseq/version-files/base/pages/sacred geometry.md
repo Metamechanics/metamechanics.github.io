@@ -2,8 +2,8 @@ alias::
 tags:: concept, theory
 domain::
 people::
-related-to:: #[[Flower of Life]]
-project:: #AMT #[[AMT hyperbook]] 
-question::
-public:: true
+see-also:: #[[Flower of Life]]
+rel-projects:: #AMT #[[AMT hyperbook]]
+
+
 -

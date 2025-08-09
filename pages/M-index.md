@@ -1,6 +1,6 @@
 alias:: the Malphabet
 tags:: 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 sub-title:: A malphabet
 
 -

@@ -1,9 +1,9 @@
 alias::
-author:: [[Richard Dawkins]] 
-publication-year::
-tags:: book, reference, [[keyThinker]], [[atheism]] 
-project:: [[AMT]], [[X-Science]] 
-public:: true
+author:: [[Richard Dawkins]]
+year::
+tags:: book, [[keyThinker]], [[atheism]]
+rel-projects:: [[AMT]], [[X-Science]]
+
 
 - #toSummarise
 - Cranes vs Skyhooks

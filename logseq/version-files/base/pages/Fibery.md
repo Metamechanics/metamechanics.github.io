@@ -1,10 +1,9 @@
 alias::
-tags:: app, software, #[[Task Management tools]] 
+tags:: app, #[[Task Management tools]]
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[Metamechanic Mycelium]], [[WADS study]], [[Mission Management]], [[X-C Communities]]
-
+rel-projects:: [[Metamechanic Mycelium]], [[WADS study]], [[Mission Management]], [[X-C Communities]]
 - quality of backlinks
 - unlinked instances
 - as frictionless as Logseq?

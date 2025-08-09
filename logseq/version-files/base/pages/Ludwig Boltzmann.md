@@ -1,14 +1,24 @@
 alias:: Boltzmann
 URL::
-organisation::
+rel-org::
 role::
-fields:: #physics  
-publications-productions:: 
-country::
-tags:: person, #entropy #thermodynamics 
-project:: [[X-Science]] 
-question::
-public:: true
+fields:: #physics
+creations::
+rel-country::
+tags:: person, #entropy #thermodynamics
+rel-projects:: [[X-Science]]
+
+
+alias:: Boltzmann
+URL::
+rel-org::
+role::
+fields:: #physics
+creations::
+rel-country::
+tags:: person, #entropy #thermodynamics
+rel-projects:: [[X-Science]]
+
 
 -
 - took his own life in 1906 after ridicule for believing in atoms; or was it because he was bipolar?

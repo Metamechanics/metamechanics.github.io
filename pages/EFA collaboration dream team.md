@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: #EFA
+rel-projects:: #EFA
 see-also::
-
 - Inner circle
 	- [[JezD]]
 	- [[Susan Mizrahi]]

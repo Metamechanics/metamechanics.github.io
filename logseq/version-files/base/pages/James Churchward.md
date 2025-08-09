@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
-role:: #[[independent research]]  
-fields:: #Atlantis #Mu 
-publications-productions:: [[The Sacred Symbols of Mu]] 
-country::
+rel-org::
+role:: #[[independent research]]
+fields:: #Atlantis #Mu
+creations:: [[The Sacred Symbols of Mu]]
+rel-country::
 tags:: person
-project:: #[[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: #[[Adam's Atlas]]
+
+
 
 -
 - [James Churchward Books | List of books by author James Churchward](https://www.thriftbooks.com/a/james-churchward/260768/)

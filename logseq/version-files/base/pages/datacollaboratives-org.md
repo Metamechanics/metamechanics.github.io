@@ -1,11 +1,11 @@
 alias::
 URL:: https://datacollaboratives.org/
-organisation:: 
+rel-org:: 
 year-commenced::
 tags:: website, #[[data collaborative]] #collaboration 
-project:: [[X-C Communities]] #EFA #BBB 
-question::
-public:: true
+rel-projects:: [[X-C Communities]] #EFA #BBB 
+
+
 
 - #### About
 	- DataCollaboratives.org is a resource on creating public value by exchanging data. In sync with the mission of The [GovLab](http://www.thegovlab.org/), the site seeks to provide insight on how responsible exchange of corporate data can improve people’s lives. It results from different partnerships with UNICEF and Omidyar Network.

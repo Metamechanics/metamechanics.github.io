@@ -1,6 +1,6 @@
 alias:: EFApart0, Part 0, Enough Overview & Outline
 tags:: overview, outline, introduction #toWrite #unfinished 
-project:: EFA
+rel-projects:: EFA
 see-also:: [[EFA Overview & Outline]]
 
 - The who, what, how, when, where, why of the project

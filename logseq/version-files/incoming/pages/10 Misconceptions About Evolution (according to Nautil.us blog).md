@@ -1,11 +1,11 @@
-journal::
-authors:: [[David P Barash]] 
+rel-journal::
+author:: [[David P Barash]]
 year:: 2025
 URL:: https://nautil.us/10-misconceptions-about-evolution-1183733/
-tags:: article, #evolution #misconception #orthodox 
-project:: #X-Science #AMT  
-question::
-public:: true
+tags:: article, #evolution #misconception #orthodox
+rel-projects:: #X-Science #AMT
+
+
 
 -
 - # 10 Misconceptions About Evolution

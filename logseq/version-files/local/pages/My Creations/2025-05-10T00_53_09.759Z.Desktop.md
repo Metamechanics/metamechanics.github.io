@@ -1,4 +1,4 @@
 alias:: myCreation
 tags::
-project:: #allProjects 
+rel-projects:: #allProjects 
 see-also::

@@ -2,7 +2,7 @@ alias::
 tags:: concept, theory
 domain::
 people::
-project:: 
+rel-projects:: 
 see-also:: [[The Hero's Journey (book)]] 
-public:: true
+
 -

@@ -1,9 +1,9 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   year-commenced::
   tags:: website
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -

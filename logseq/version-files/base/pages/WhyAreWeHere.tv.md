@@ -1,10 +1,10 @@
 alias::
 URL:: https://www.whyarewehere.tv/
-organisation::
+rel-org::
 year-commenced::
-tags:: website, [[keyResource]] #toWatch 
-project:: [[X-Science]], [[Another M-Theory]],  
-public:: true
+tags:: website, [[keyResource]] #toWatch
+rel-projects:: [[X-Science]], [[Another M-Theory]],
+
 
 - [Why Are We Here? Science, Meaning and Truth | Why are we here?](https://www.whyarewehere.tv/)
 -

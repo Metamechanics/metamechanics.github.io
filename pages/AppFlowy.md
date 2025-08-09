@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, [[open source]], kanban, 
+tags:: app, [[open source]], kanban,
 URL::
-similar-to:: Notion
+see-also:: Notion
 purpose::
-project:: #workflow
+rel-projects:: #workflow
 
 -
 -

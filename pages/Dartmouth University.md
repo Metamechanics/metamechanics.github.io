@@ -2,9 +2,9 @@ alias::
 URL::
 org-type:: [[academia]], [[university]] 
 people::
-publications:: 
+creations:: 
 tags:: organisation, #[[United States of America]] 
-project::
-public:: true
+rel-projects::
+
 
 -

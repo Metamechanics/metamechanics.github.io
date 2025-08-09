@@ -1,12 +1,12 @@
-alias:: [[Robert Jahn]] 
+alias:: [[Robert Jahn]]
 URL::
-organisation:: [[Princeton Anomalies Engineering Research laboratory]], [[Princeton University]] 
-role:: [[academic]] 
-fields:: [[engineering]], [[mind-matter interaction]] #psi 
-publications-productions:: 
+rel-org:: [[Princeton Anomalies Engineering Research laboratory]], [[Princeton University]]
+role:: [[academic]]
+fields:: [[engineering]], [[mind-matter interaction]] #psi
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 -

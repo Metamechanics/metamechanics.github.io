@@ -1,8 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://prosemirror.net/
-similar-to::
+see-also::
 purpose::
-project:: #DiaGnosis
+rel-projects:: #DiaGnosis
 
 -

@@ -1,6 +1,6 @@
 - alias::
   tags:: #place
-  country::
+  rel-country::
   place-type::
   nearest-town::
   map-url::

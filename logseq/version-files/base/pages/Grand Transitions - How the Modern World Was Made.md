@@ -1,9 +1,14 @@
 alias::
-author:: [[Vaclav Smil]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Vaclav Smil]]
+year::
+tags:: book
+rel-projects::
+
+alias::
+author:: [[Vaclav Smil]]
+year::
+tags:: book
+rel-projects::
 
 - [Grand Transitions: How the Modern World Was Made. – Vaclav Smil](https://vaclavsmil.com/2021/03/05/grand-transitions-how-the-modern-world-was-made/)
 - Description

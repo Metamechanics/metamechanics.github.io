@@ -1,9 +1,8 @@
 alias::
 tags::
 url:: 
-project:: #AMT #[[Metamechanic Mycelium]] 
+rel-projects:: #AMT #[[Metamechanic Mycelium]] 
 see-also:: [[AMT hyperbook]]
-
 -
 - #[[AMT hyperbook]] is a more concise expounding of principles and ideas in a somewhat flowing, readable format
 - #[[AMT web]] holds

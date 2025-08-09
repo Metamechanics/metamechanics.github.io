@@ -1,6 +1,6 @@
 alias:: mmls, mm-ls, mm-ecosys, MMM, mm-mycelium
 tags:: #myApp #[[metamechanic mycelium back-end]]  
-project:: [[allProjects]], [[Coding with AI]]
+rel-projects:: [[allProjects]], [[Coding with AI]]
 see-also:: [[Metamechanic Portfolio]], [[MetaWeb]]
 - [[mycelium database schema]]
 -

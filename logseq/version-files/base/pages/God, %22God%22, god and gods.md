@@ -1,6 +1,6 @@
 alias::
 tags:: #AMT #God #definition #idols #semantics #disambiguation 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 parent-blocks::   
 child-blocks::
 see-also::

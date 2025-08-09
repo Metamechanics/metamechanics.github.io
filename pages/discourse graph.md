@@ -1,6 +1,6 @@
 alias::
 tags:: #[[knowledge cartography]] 
-project:: #DiaGnosis 
+rel-projects:: #DiaGnosis 
 see-also:: [[argument maps]], #[[Compendium (app)]] #[[issue mapping]]
 
 -

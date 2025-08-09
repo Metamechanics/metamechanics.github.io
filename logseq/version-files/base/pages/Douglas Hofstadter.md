@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[physics]], [[computer science]], [[cognitive science]], [[consciousness]] 
-publications-productions:: [[Gödel, Escher, Bach - The Eternal Golden Braid]], [[Metamagical Themas]], [[I am a Strangle Loop]], [[Surfaces and Essences - Analogy as the Fuel and Fire of Thinking]]
-country::
-tags:: person #Metamechanica #skeptic #metaphor #analogy  
-project:: [[AMT]], [[X-Science]], [[Metamechanica]] 
-public:: true
+fields:: [[physics]], [[computer science]], [[cognitive science]], [[consciousness]]
+creations:: [[Gödel, Escher, Bach - The Eternal Golden Braid]], [[Metamagical Themas]], [[I am a Strangle Loop]], [[Surfaces and Essences - Analogy as the Fuel and Fire of Thinking]]
+rel-country::
+tags:: person #Metamechanica #skeptic #metaphor #analogy
+rel-projects:: [[AMT]], [[X-Science]], [[Metamechanica]]
+
 
 -
 - [[Everything except God is metaphor]]

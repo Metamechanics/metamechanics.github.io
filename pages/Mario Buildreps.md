@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.mariobuildreps.com/
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
-tags:: person, pseudonym, [[Mathematical Holistic Orientation-based Dating Method]] #pseudonym  
-project::
-public:: true
+creations::
+tags:: person, pseudonym, [[Mathematical Holistic Orientation-based Dating Method]] #pseudonym
+rel-projects::
+
 
 - [The Pole Shift Theory - TwitterX](https://x.com/MarioBuildreps)
 - [Antiquity Reborn - Mathematical Holistic Orientation-based Dating Method](https://www.mariobuildreps.com/)

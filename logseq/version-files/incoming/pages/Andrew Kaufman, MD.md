@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[medicine]] 
+fields:: [[medicine]]
 tags:: person, coronavirus
-project::
-public:: true
+rel-projects::
+
 -

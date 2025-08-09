@@ -1,9 +1,9 @@
 alias::
-Creators::
+creators::
 year::
 URL::
-tags:: movie #metaphor #[[space-time]] 
-project:: #AMT  
-public:: true
+tags:: movie #metaphor #[[space-time]]
+rel-projects:: #AMT
+
 
 -

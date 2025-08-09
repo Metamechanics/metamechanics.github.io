@@ -1,10 +1,10 @@
 alias::
-author:: [[Gary Renard]] 
-publication-year::
+author:: [[Gary Renard]]
+year::
 tags:: book, inspiration
-project:: #AMT #Metamechanica #ACIM-4T 
-question::
-public:: true
+rel-projects:: #AMT #Metamechanica #ACIM-4T
+
+
 
 -
 - #quote #AMT #OWTTE "there can be no theory of everything because the world is based on fracture, disunity, separation" #toSource

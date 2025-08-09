@@ -1,14 +1,14 @@
 alias:: Etzel Cardena
 URL:: https://www.cercap.eu/etzel-cardena/
-organisation:: [[Center for Research on Consciousness and Anomalous Psychology]] 
-role:: #academic  
-fields:: [[Anomaly Studies]], [[psychology]] 
-publications-productions:: [[Parapsychology - A Handbook for the 21st Century]],  
-country::
+rel-org:: [[Center for Research on Consciousness and Anomalous Psychology]]
+role:: #academic
+fields:: [[Anomaly Studies]], [[psychology]]
+creations:: [[Parapsychology - A Handbook for the 21st Century]],
+rel-country::
 tags:: person
-project:: [[X-Science]], [[FRESH]], #AMT  
-question::
-public:: true
+rel-projects:: [[X-Science]], [[FRESH]], #AMT
+
+
 
 - [Etzel Cardeña | Center for Research on Consciousness and Anomalous Psychology](https://www.cercap.eu/etzel-cardena/)
 -

@@ -1,6 +1,6 @@
 alias::
 tags:: 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 sub-title:: Propositions, postulates, premises and principles of AMT
 - Notes to self:
 	- There will be high degrees of repetition. Each block will be saying, sometimes to a large degree, the same thing of aspects of the same thing particularised by the title/central focus.

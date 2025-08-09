@@ -1,10 +1,10 @@
 alias::
 author::
-publication-year::
+year::
 tags:: chapter, reference
-parent-book:: [[The Holographic Universe (book)]] 
-project:: 
-public:: true
+parent-book:: [[The Holographic Universe (book)]]
+rel-projects::
+
 
 -
 -

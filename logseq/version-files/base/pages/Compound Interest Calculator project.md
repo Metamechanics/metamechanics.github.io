@@ -1,6 +1,6 @@
 alias::
 tags:: #[[WADS portfolio]] 
-project:: #[[WADS study]] 
+rel-projects:: #[[WADS study]] 
 see-also::
 
 - Compounding periods

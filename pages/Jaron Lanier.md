@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[computer science]], [[internet theory]] 
-publications-productions:: 
+fields:: [[computer science]], [[internet theory]]
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [Jaron Lanier | Wikipedia](https://en.wikipedia.org/wiki/Jaron_Lanier)
 -

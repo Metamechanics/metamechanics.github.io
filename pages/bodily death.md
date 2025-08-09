@@ -1,6 +1,6 @@
 alias:: physical death
 tags::
-project::
+rel-projects::
 see-also::
 
 -

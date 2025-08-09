@@ -1,9 +1,9 @@
 alias::
 author::
 publisher:: ScienceDirect
-URL:: 
+URL::
 tags:: journal, reference
-project:: [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[Fresh Alternatives]]
+
 - [Futures | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/futures)
 -

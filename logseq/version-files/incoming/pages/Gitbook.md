@@ -1,5 +1,11 @@
+alias::
+tags:: app
+URL:: https://www.gitbook.com/
+see-also::
+purpose:: #[[collaborative editing]] #documentation
+rel-projects:: [[A Textbook for the Futures]], [[EFA]], [[X-C Communities]]
+see-also:: [[Read The Docs]]
 -
-- #app #[[Writing & Publishing]]
 - https://www.gitbook.com/
 - for EFA? Metamechanic writing?
 -

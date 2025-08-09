@@ -1,11 +1,11 @@
 alias::
-Creators:: [[Christopher Nolan]] 
-person:: 
+creators:: [[Christopher Nolan]]
+person::
 year::
 URL::
-tags:: movie #magic #[[Nikola Tesla]] 
-project:: #[[Inner Beginner]] #AMT 
-public:: true
+tags:: movie #magic #[[Nikola Tesla]]
+rel-projects:: #[[Inner Beginner]] #AMT
+
 
 -
 - Every magic trick consists of 3 parts

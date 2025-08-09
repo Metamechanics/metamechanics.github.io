@@ -1,9 +1,9 @@
 alias:: Gödel Escher Bach, GEB
 author::
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+year::
+tags:: book
+rel-projects::
+
 
 -
 - references [[What the Tortoise Said to Achilles]] by [[Lewis Carroll]]

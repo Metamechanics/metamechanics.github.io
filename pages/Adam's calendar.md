@@ -1,9 +1,9 @@
 alias:: Africa's Stonehenge
-tags:: #megaliths #[[stone circle]] 
-place:: Mpumalanga
-country:: [[South Africa]] 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
+tags:: #megaliths #[[stone circle]]
+location:: Mpumalanga
+rel-country:: [[South Africa]]
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
 nearest-town:: Ehlanzeni
 map-url::
 

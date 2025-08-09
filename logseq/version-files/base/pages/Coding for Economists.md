@@ -1,9 +1,9 @@
 alias::
-author:: [[Arthur Turrell]] 
-publication-year::
-tags:: book, reference #noob #keyResource #toStudy #Python #databases #[[data visualization]] 
-project:: #WADS 
-public:: true
+author:: [[Arthur Turrell]]
+year::
+tags:: book #noob #keyResource #toStudy #Python #databases #[[data visualization]]
+rel-projects:: #WADS
+
 
 - [Introduction — Coding for Economists](https://aeturrell.github.io/coding-for-economists/intro.html)
 	- Welcome to the 1st edition of **Coding for Economists**, a guide for economists on what programming is, why it’s useful, and how to do it.

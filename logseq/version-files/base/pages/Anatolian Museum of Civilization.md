@@ -1,8 +1,8 @@
 alias::
-tags:: #toVisit 
-place::
-country::
-place-type:: #museum 
+tags:: #toVisit
+location::
+rel-country::
+place-type:: #museum
 nearest-town::
 map-url::
 

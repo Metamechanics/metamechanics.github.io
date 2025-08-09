@@ -1,10 +1,10 @@
 alias::
 tags:: concept, theory
-domain:: #education 
-people:: [[Joseph Aoun]] 
-related-to:: [[21st Century education]] 
-project:: #FF-ed  
-question::
-public:: true
+domain:: #education
+people:: [[Joseph Aoun]]
+see-also:: [[21st Century education]]
+rel-projects:: #FF-ed
+
+
 
 -

@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: [[academic]] 
-fields:: [[Futures Studies]] 
-tags:: person, [[futures & foresight]] 
-project:: [[FF-ed]] 
-public:: true
+rel-org::
+role:: [[academic]]
+fields:: [[Futures Studies]]
+tags:: person, [[futures & foresight]]
+rel-projects:: [[FF-ed]]
+
 -
 -

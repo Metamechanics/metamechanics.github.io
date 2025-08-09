@@ -1,5 +1,5 @@
 alias:: creationist
 tags::
-project:: [[AMT]]
+rel-projects:: [[AMT]]
 
 -

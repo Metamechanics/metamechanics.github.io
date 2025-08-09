@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Metahuman (book)]], [[The Seven Spiritual Laws of Success]], [[Abundance (book)]], [[Ageless Body, Timeless Mind]], [[Digital Dharma]] 
-country::
+creations:: [[Metahuman (book)]], [[The Seven Spiritual Laws of Success]], [[Abundance (book)]], [[Ageless Body, Timeless Mind]], [[Digital Dharma]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

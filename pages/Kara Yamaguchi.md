@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
 tags:: person, japan
-project::
-public:: true
+rel-projects::
+
 
 - #collaborator #[[Fresh Alternatives]] #history #Japan #[[Megaliths of Japan]]

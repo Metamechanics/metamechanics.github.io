@@ -1,7 +1,7 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://quartz.jzhao.xyz/
-similar-to:: [[publishkit.dev]], [[Flowershow (app)]] 
-purpose:: #publishing #markdown 
-project:: [[WADS]], [[DiaGnosis]], [[metamechanic-io]]
+see-also:: [[publishkit.dev]], [[Flowershow (app)]]
+purpose:: #publishing #markdown
+rel-projects:: [[WADS]], [[DiaGnosis]], [[metamechanic-io]]
 -

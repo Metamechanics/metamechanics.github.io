@@ -1,7 +1,7 @@
 alias::
 tags:: #song #French #[[LOTE study]]
 person:: [[Gims]]
-language:: #French
+rel-language:: #French
 
 -
 - *[Intro]*

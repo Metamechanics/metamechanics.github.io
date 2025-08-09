@@ -1,8 +1,8 @@
 alias::
-tags:: #megalith 
-place:: #Siberia 
-country:: #Russia 
-place-type:: #megalith 
+tags:: #megalith
+location:: #Siberia
+rel-country:: #Russia
+place-type:: #megalith
 nearest-town::
 map-url::
 - [The Mystery of GORNAYA SHORIA in Siberia, The Largest Stone Structure Ever Assembled by Humans? - YouTube](https://www.youtube.com/watch?v=Fk8ynmVblpw)

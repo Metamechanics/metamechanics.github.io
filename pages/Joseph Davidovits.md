@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[Geopolymer Institute]] 
+rel-org:: [[Geopolymer Institute]] 
 role:: 
 fields:: #chemistry #[[geopolymer chemistry]] 
-publications-productions:: 
+creations:: 
 tags:: person #[[Ancient Egypt]] #geopolymer 
-project::
-public:: true
+rel-projects::
+
 
 - [English – Joseph Davidovits](https://www.davidovits.info/english/)
 - geopolymer theory of artificial stone construction of pyramids and other megalithic sites (Andes)

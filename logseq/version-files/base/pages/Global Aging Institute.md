@@ -2,11 +2,11 @@ alias::
 URL::
 org-type::
 people:: [[Neil Howe]] 
-publications:: 
+creations:: 
 tags:: organisation
-project:: #FF-ed #EFA 
-question::
-public:: true
+rel-projects:: #FF-ed #EFA 
+
+
 
 -
 -

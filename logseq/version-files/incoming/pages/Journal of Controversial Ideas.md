@@ -1,9 +1,9 @@
 alias::
 author::
-publisher:: 
+publisher::
 URL:: https://journalofcontroversialideas.org/
 tags:: journal, reference
-project:: 
-public:: true
+rel-projects::
+
 - [Journal of Controversial Ideas](https://journalofcontroversialideas.org/)
 -

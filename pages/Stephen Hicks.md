@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[philosopher]], [[academic]] 
 fields:: [[philosophy]], [[postmodernism]] 
-publications-productions:: 
+creations:: 
 tags:: person #anti-woke 
-project:: [[Waking Up From Woke]] 
-public:: true
+rel-projects:: [[Waking Up From Woke]] 
+
 
 -
 - [Prof. Stephen Hicks: How to Debate Postmodernists Effectively - YouTube](https://www.youtube.com/watch?v=QfFWRWCxQrg)

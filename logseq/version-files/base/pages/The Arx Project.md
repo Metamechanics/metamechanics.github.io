@@ -2,10 +2,10 @@ alias::
 URL:: https://www.arxproject.org/
 org-type::
 people:: [[Marco Vigato]] 
-publications:: 
+creations:: 
 tags:: organisation, #Mesoamerica #Mexico #Guatemala #[[ancient sites]] #[[ancient history]] 
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 - [Research association | Arx Project](https://www.arxproject.org/)
 -

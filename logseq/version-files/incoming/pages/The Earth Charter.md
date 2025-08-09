@@ -3,8 +3,8 @@ URL:: https://earthcharter.org/
 org-type:: ngo
 people:: [[Gus Speth]] 
 tags:: organisation, Costa Rica
-project::
-public:: true
+rel-projects::
+
 - [Earth Charter in Action - Powering a global movement](https://earthcharter.org/)
 -
 - [About Us - Earth Charter](https://earthcharter.org/about-the-earth-charter/)

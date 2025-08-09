@@ -1,10 +1,16 @@
 - alias::
   author::
-  publication-year::
-  tags:: book, reference
-  project:: 
-  question::
-  public:: true
+  year::
+  tags:: book
+  rel-projects::
+
+- alias::
+  author::
+  year::
+  tags:: book
+  rel-projects::
+
+
 - references [[Nietzsche]] and #ubermensch
 - [The Stages of Our Spiritual Journey – Foundation for "A Course in Miracles"® Online Store](https://facimstore.org/products/the-stages-of-our-spiritual-journey-epub)
 - Synopsis

@@ -1,14 +1,14 @@
 alias::
 URL:: https://www.ruthekastner.org/
-organisation:: 
+rel-org::
 role::
-fields:: [[quantum physics]], [[(meta)physics of time]], [[History of Science]], [[Philosophy of Science]] 
-publications-productions:: 
-country::
+fields:: [[quantum physics]], [[(meta)physics of time]], [[History of Science]], [[Philosophy of Science]]
+creations::
+rel-country::
 tags:: person, #[[free will]] #[[Arrow of Time]]
-project:: [[AMT]], 
-question::
-public:: true
+rel-projects:: [[AMT]],
+
+
 
 -
 - [Ruth E. Kastner - Home](https://www.ruthekastner.org/)

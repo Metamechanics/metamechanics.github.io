@@ -1,12 +1,12 @@
 alias:: Eddington
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[astronomy]], [[physics]], [[astrophysics]] 
-publications:: 
+creations:: 
 tags:: person, #[[Quaker]], #idealism
-project:: [[X-Science]] 
-public:: true
+rel-projects:: [[X-Science]] 
+
 
 - [Arthur Eddington | Quakers in the World](https://www.quakersintheworld.org/quakers-in-action/357/Arthur-Eddington)
 - [ESA - Studying the stars, testing relativity: Sir Arthur Eddington](https://www.esa.int/Science_Exploration/Space_Science/Studying_the_stars_testing_relativity_Sir_Arthur_Eddington)

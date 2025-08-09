@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: 
-fields:: #mythology 
-publications-productions:: 
-country::
+rel-org::
+role::
+fields:: #mythology
+creations::
+rel-country::
 tags:: person
-project:: #[[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: #[[Adam's Atlas]]
+
+
 
 -

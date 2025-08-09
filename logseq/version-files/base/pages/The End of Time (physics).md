@@ -1,10 +1,10 @@
 alias::
-author:: [[Julian Barbour]] 
-publication-year:: 1999
-tags:: book, reference
-project:: #AMT 
-question::
-public:: true
+author:: [[Julian Barbour]]
+year:: 1999
+tags:: book
+rel-projects:: #AMT
+
+
 
 -
 - ## The End of Time

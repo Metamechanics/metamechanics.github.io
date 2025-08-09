@@ -1,2 +1,2 @@
-- #software-app #AI #research
+- #app #AI #research
 - [ResearchRabbit](https://www.researchrabbit.ai/)

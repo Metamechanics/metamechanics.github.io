@@ -1,9 +1,9 @@
 alias::
-author:: [[Victor J. Stenger]] 
-publication-year:: 2010
-tags:: book, reference, atheism, religion, #keyResource #toSummarise 
-project:: [[AMT]], 
-public:: true
+author:: [[Victor J. Stenger]]
+year:: 2010
+tags:: book, atheism, religion, #keyResource #toSummarise
+rel-projects:: [[AMT]],
+
 
 - [God - The Failed Hypothesis - How Science Shows That God Does Not Exist - Victor Stenger 2007.pdf](hook://file/nLKcaORlk?p=MSBLbm93bGVkZ2UgTGlicmFyaWVzL0FNVCAmIFgtU2NpZW5jZQ==&n=God%20%2D%20The%20Failed%20Hypothesis%20%2D%20How%20Science%20Shows%20That%20God%20Does%20Not%20Exist%20%2D%20Victor%20Stenger%202007%2Epdf)
 -

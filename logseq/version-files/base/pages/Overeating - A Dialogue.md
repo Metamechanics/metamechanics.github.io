@@ -1,10 +1,10 @@
 alias:: Overeating - A Dialogue - An application of the Principles of A Course In Miracles
-author:: [[Ken Wapnick]] 
-publication-year::
-tags:: book, #[[special relationships]] #addiction #[[eating disorder]] #drug 
-project:: #ACIM-4T #AMT #FORCK #InnerBeginner #EFA 
-question::
-public:: true
+author:: [[Ken Wapnick]]
+year::
+tags:: book, #[[special relationships]] #addiction #[[eating disorder]] #drug
+rel-projects:: #ACIM-4T #AMT #FORCK #InnerBeginner #EFA
+
+
 
 - [Overeating: A Dialogue An Application of the Principles of ACIM – Foundation for "A Course in Miracles"® Online Store](https://facimstore.org/products/overeating-a-dialogue-book)
 -

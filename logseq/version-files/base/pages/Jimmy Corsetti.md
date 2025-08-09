@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: Bright Insight
+rel-org:: Bright Insight
 role:: [[independent researcher]] 
 fields:: #[[ancient history]]
-publications-productions:: 
+creations:: 
 tags:: person, #pre-history, #megalith #[[ancient civilization]], #YouTube 
-project:: [[FRESH]] 
-public:: true
+rel-projects:: [[FRESH]] 
+
 - [Bright Insight - YouTube](https://www.youtube.com/@BrightInsight)
 -
 -

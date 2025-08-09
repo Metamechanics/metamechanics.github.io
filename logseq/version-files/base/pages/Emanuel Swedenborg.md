@@ -1,12 +1,12 @@
 alias:: Swedenborg
 URL:: https://swedenborg.com/
-organisation::
-role:: #mystic 
-fields:: #spirituality 
-publications-productions:: [[Heaven and Hell]], [[True Christianity]] 
-tags:: person, #mysticism 
-project::
-public:: true
+rel-org::
+role:: #mystic
+fields:: #spirituality
+creations:: [[Heaven and Hell]], [[True Christianity]]
+tags:: person, #mysticism
+rel-projects::
+
 - [Home - Swedenborg Foundation](https://swedenborg.com/)
 - [Free E-Books and Downloads - Swedenborg Foundation](https://swedenborg.com/bookstore/free-ebooks-downloads/)
 - [Emanuel Swedenborg - Wikipedia](https://en.wikipedia.org/wiki/Emanuel_Swedenborg)

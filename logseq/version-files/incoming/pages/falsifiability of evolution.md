@@ -1,5 +1,5 @@
 alias::
 tags:: #falsification
-project:: [[AMT]], [[X-Science]]
+rel-projects:: [[AMT]], [[X-Science]]
 
 -

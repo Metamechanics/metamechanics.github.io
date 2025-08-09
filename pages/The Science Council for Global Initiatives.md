@@ -2,10 +2,10 @@ alias:: SCGI
 URL::
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation #[[nuclear energy]]
-project:: #[[Global Effort]] 
-question::
-public:: true
+rel-projects:: #[[Global Effort]] 
+
+
 
 -

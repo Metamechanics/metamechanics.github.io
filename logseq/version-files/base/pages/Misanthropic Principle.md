@@ -2,9 +2,9 @@ alias::
 tags:: concept, theory
 domain::
 people::
-related-to::
-project:: #AMT  
-public:: true
+see-also::
+rel-projects:: #AMT
+
 
 - contrast with [[Anthropic Cosmological Principle]]
 	- the opposite!

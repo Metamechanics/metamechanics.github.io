@@ -1,8 +1,8 @@
 alias:: Maoling Mausoleum
-tags:: #pyramids 
-place::
-country:: [[China]] 
-place-type:: #[[ancient site]] 
+tags:: #pyramids
+location::
+rel-country:: [[China]]
+place-type:: #[[ancient site]]
 nearest-town:: Xingping, Shaanxi
 map-url::
 

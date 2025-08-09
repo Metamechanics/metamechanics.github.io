@@ -1,10 +1,10 @@
 alias:: Huberman
 URL::
-organisation:: [[Stanford University]], [[Huberman Lab]], [[momentous (biz)]] 
+rel-org:: [[Stanford University]], [[Huberman Lab]], [[momentous (biz)]] 
 role:: [[academic]], [[influencer]] 
 fields:: [[neurobiology]], [[biology]] 
-publications:: 
+creations:: 
 tags:: person, performance
-project::
-public:: true
+rel-projects::
+
 -

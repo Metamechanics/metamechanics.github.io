@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: [[X-Science]] 
+rel-projects:: [[X-Science]] 
 see-also::
-
 -
 - 'why' determines 'how'
 - 'how' predefines 'what' ('reality', 'truth') and predetermines results ('what')

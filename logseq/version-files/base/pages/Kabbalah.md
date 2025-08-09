@@ -1,6 +1,6 @@
 alias:: Kabbala, Qabbalah, Qabbala
 tags:: Judaism, #mysticism
-project:: #[[Inner Beginner]] #FORCK #[[Babies, Bibles and Bathwater]]
+rel-projects:: #[[Inner Beginner]] #FORCK #[[Babies, Bibles and Bathwater]]
 see-also:: #[[Zohar]] [[Moses Cordovero]]
 
 - [Kabbalah | Sefaria](https://www.sefaria.org/texts/Kabbalah)

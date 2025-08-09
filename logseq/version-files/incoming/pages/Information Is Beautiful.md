@@ -3,10 +3,10 @@ title:: Information Is Beautiful
   URL:: https://informationisbeautiful.net/
   org-type:: website
   people:: [[David McCandless]] 
-  publications:: 
+  creations:: 
   tags:: organisation
-  project::
-  public:: true
+  rel-projects::
+  
 - [Information is Beautiful](https://informationisbeautiful.net/)
 -
 -

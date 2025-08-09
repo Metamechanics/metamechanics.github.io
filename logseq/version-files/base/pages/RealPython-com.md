@@ -1,7 +1,6 @@
 alias::
-tags:: #Python #toStudy #coding #paid 
+tags:: #Python #toStudy #coding #paid
 url:: https://realpython.com/
-project:: [[WADS study]] 
+rel-projects:: [[WADS study]]
 see-also::
-
 -

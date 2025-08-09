@@ -1,10 +1,10 @@
 alias::
-author:: [[Colin Wilson]] 
-publication-year::
+author:: [[Colin Wilson]]
+year::
 tags:: book #iHaveit #[[Emanuel Swedenborg]] #[[Blaise Pascal]] #[[Soren Kierkegaard]] #[[Ludwig Wittgenstein]] #[[Alfred North Whitehead]]
-project:: #AMT #InnerBeginner 
-question::
-public:: true
+rel-projects:: #AMT #InnerBeginner
+
+
 
 -
 - Table of Contents

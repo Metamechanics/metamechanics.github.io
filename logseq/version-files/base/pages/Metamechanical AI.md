@@ -1,6 +1,6 @@
 alias::
 tags:: #chatbot  
-project::
+rel-projects::
 see-also:: [[Metamechanic Mycelium]]
 
 - ## Outline & Overview

@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[Academy for the Advancement of Postmaterialist Sciences]] 
+rel-org:: [[Academy for the Advancement of Postmaterialist Sciences]] 
 role::
 fields:: 
-publications:: [[Limitless Mind]] 
+creations:: [[Limitless Mind]] 
 tags:: person, #psi 
-project::
-public:: true
+rel-projects::
+
 -
 -
 -

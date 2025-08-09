@@ -1,9 +1,34 @@
 alias:: my writing method in Logseq
-tags:: #RRW #TLDR #myWriting 
-project:: #[[Metamechanic Mycelium]] 
-see-also:: #[[block writing]] #[[Andy Matuschak]] #[[holonic writing]]
-
+tags:: #RRW #TLDR #myWriting #workflow 
+rel-projects:: #[[Metamechanic Mycelium]] #[[workflow]] #allProjects #[[The Metamechanic]] 
+see-also:: #[[block writing]] #[[Andy Matuschak]] #[[holonic writing]] #[[digital garden]]
+-
+- Writing in Logseq
+	- Why?
+	- How?
+		- Page embeds to one-level below.
+		- Long-form writing: smallest block is a section.
+		- Block writing
+		- Disambiguation of titles (since each note should have a unique name)
+	- What?
+	- What next?
+- Writing in Obsidian
+	- Folder structure
+	- Long-form
+		- refers to other articles, blogs - easy
+		- refers to index cards, datatables, nuggets
+	- Split-screen; mulitple panels
+	- Collapsible sub-headings
+	- Table of Contents
+- Questions
+	- How to mirror developments in one platform in the other, in an appropriate way
+	- What exactly should be mirrored?
+		- Not every note that gets updated should be mirrored
+- Needs
+	- note types
+	- note phases
 - Tag heavily
+  collapsed:: true
 	- update [[Metamechanic ontology]] routinely
 - Write pages as short blocks then 'page embed' or 'block embed' so I can fold them #[[block writing]]
 - Don't make pages too long

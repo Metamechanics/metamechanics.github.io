@@ -2,11 +2,11 @@ alias::
 URL:: https://medium.com/data-stewards-network, 
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation 
-project:: #EFA #[[X-C Communities]] 
-question::
-public:: true
+rel-projects:: #EFA #[[X-C Communities]] 
+
+
 
 - [Data Stewards Network – Medium](https://medium.com/data-stewards-network)
 -

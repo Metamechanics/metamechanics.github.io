@@ -1,10 +1,10 @@
 alias::
-author:: [[Suzanne Segal]] 
-publication-year:: 
-tags:: book, reference
-project:: [[Inner Beginner]] 
-question::
-public:: true
+author:: [[Suzanne Segal]]
+year::
+tags:: book
+rel-projects:: [[Inner Beginner]]
+
+
 
 -
 -

@@ -1,6 +1,6 @@
 alias::
 tags:: #[[free will]] 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 parent-blocks:: 
 child-blocks::
 

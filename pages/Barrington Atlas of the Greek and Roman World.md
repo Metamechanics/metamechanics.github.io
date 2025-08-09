@@ -1,10 +1,10 @@
 - alias::
   author::
-  publication-year::
-  tags:: book, reference
-  project:: 
-  question::
-  public:: true
+  year::
+  tags:: book
+  rel-projects::
+
+
 - [Barrington atlas of the Greek and Roman world | WorldCat.org](https://search.worldcat.org/title/43970336)
 - #### Summary
 - In 99 full-color maps spread over 175 pages, the Barrington Atlas recreates the entire world of the Greeks and Romans from the British Isles to the Indian subcontinent and deep into North Africa. It spans the territory of more than 75 modern countries. Its large format (13 x 19 ins or 33 x 48 cm) has been custom-designed by the leading cartographic supplier MapQuest.com, Inc., and is unrivalled for range, clarity and detail. Over 70 experts, aided by an equal number of consultants, have worked from satellite-generated aeronautical charts to return the modern landscape to its ancient appearance, and to mark ancient names and features in accordance with the most up-to-date historical scholarship and archaeological discoveries.

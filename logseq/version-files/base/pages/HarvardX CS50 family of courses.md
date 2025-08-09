@@ -1,6 +1,6 @@
 alias::
 tags:: #HarvardX #courses #coding 
-project:: [[WADS study]] 
+rel-projects:: [[WADS study]] 
 see-also::
 
 -

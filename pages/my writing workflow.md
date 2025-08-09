@@ -1,6 +1,6 @@
 alias:: my writing method in Logseq
 tags:: #RRW #TLDR #myWriting #workflow 
-project:: #[[Metamechanic Mycelium]] #[[workflow]] #allProjects #[[The Metamechanic]] 
+rel-projects:: #[[Metamechanic Mycelium]] #[[workflow]] #allProjects #[[The Metamechanic]] 
 see-also:: #[[block writing]] #[[Andy Matuschak]] #[[holonic writing]] #[[digital garden]]
 -
 - Writing in Logseq

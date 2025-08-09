@@ -1,0 +1,6 @@
+alias:: IDM
+tags::
+rel-projects:: #EFA #AMT #[[Inner Beginner]]
+see-also:: #[[inspired resource utilization]]
+
+-

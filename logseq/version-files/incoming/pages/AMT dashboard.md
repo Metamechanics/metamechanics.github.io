@@ -1,33 +1,25 @@
 alias:: dashboardAMT
-tags:: #dashboard 
-project:: [[AMT]]
+tags:: #dashboard
+rel-projects:: [[AMT]]
 see-also:: [[AMT dashboard]]
 
 - [[AMT]]
-- [[AMTbook]]
+- [[AMT hyperbook]]
 - [[AMT social media]]
 - [[AMT Obsidian]]
 - ## AMT Phase 1 tasks
 	- #### Content & Concept
 	  write for definition & clarification of vision
 	  sketch the map, so to speak
-		- DOING [#A] re-situate and refactor existing #old-notes #AMT
+		- DONE [#A] re-situate and refactor existing #old-notes #AMT
 		  logseq.order-list-type:: number
-			- TODO [#B] #AMT #toProcess #old-notes [[The Church of Science]]. May need to go into other books or pages eg. AMT
+			- DONE [#B] #AMT #toProcess #old-notes [[The Church of Science]].
 			- DOING [#A] separate more important M-ideas from Malphabet. Resituate into metaphysics? Principles vs effects in #AMT
-			- DOING [#A] #toOutline structure #AMT existing notes
 			- DOING [#A] #toProcess [[AMT]]
-			- TODO [#A] edit #AMT docs
-			- TODO [#A] Sort and consolidate [[Another M-Theory]] here in logseq
+			- DOING [#A] insert the sections/points/passages which are links to my other works eg. BaBiBa
 		- DOING [#A] [[AMT 1-page project brief]] #AMT
 		  logseq.order-list-type:: number
 			- DOING [#A] #AMT #half-page for family & friends
-			  logseq.order-list-type:: number
-			- TODO [#A] #AMT #half-page for family & friends
-			  logseq.order-list-type:: number
-			- do not include website functionality at this stage. That goes in 5-page and 20-page.
-			  logseq.order-list-type:: number
-			- DOING [#A] [[AMT 1-page project brief]] #AMT #[[1-page project brief]]
 			  logseq.order-list-type:: number
 		- TODO [#A] Site map [[AMT website]]; or [[AMT website features & structures]]
 		  logseq.order-list-type:: number

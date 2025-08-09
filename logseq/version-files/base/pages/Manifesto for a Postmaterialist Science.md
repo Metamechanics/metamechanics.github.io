@@ -1,18 +1,18 @@
-journal::
-authors::
+rel-journal::
+author::
 year::
 URL:: https://www.opensciences.org/about/manifesto-for-a-post-materialist-science
-tags:: article, reference, #manifesto #psi #[[new science]] #[[paradigm shift]] #[[fringe science]] #unorthodox #science [[scientific materialism]] #dogma #keyResource #[[post-materialism]] 
-project:: [[X-Science]], [[Psience]] 
-public:: true
+tags:: article, reference, #manifesto #psi #[[new science]] #[[paradigm shift]] #[[fringe science]] #unorthodox #science [[scientific materialism]] #dogma #keyResource #[[post-materialism]]
+rel-projects:: [[X-Science]], [[Psience]]
+
 
 - [The Manifesto for a Post-Materialist Science - OpenSciences.org](https://www.opensciences.org/about/manifesto-for-a-post-materialist-science)
 - [Home - Open Sciences](https://www.opensciences.org/)
 - [About OpenSciences.org](https://www.opensciences.org/about)
 - The Manifesto for a Post-Materialist Science
-  
+
   ![](https://www.opensciences.org/files/16x9/Manifest-for-Post-Materialist-Science.jpg) 
-  
+
   [Become a Signatory](https://www.opensciences.org/become-a-signatory) [Download PDF](https://www.opensciences.org/files/pdfs/Manifesto-for-a-Post-Materialist-Science.pdf)
 - **We believe that the sciences are being constricted by dogmatism, and in particular by a subservience to the philosophy of materialism, the doctrine that matter is the only reality and that the mind is nothing but the physical activity of the brain. We believe that the sciences would be more scientific if they were free to investigate the natural world in a truly open way – without the constraints of materialism and the prejudice of dogma – while adhering to the scientific methods of data collecting, hypothesis testing and critical discussion.**
 -
@@ -64,7 +64,7 @@ public:: true
 - ##### [Declaration for Integrative, Evidence-Based, End-of-Life Care that Incorporates Nonlocal Consciousness](https://www.opensciences.org/about/declaration-for-integrative-evidence-based-end-of-life-care)
 - ##### [100 Notable Scientists Call for Open Study of Consciousness](https://www.opensciences.org/blogs/open-sciences-blog/199-100-notable-scientists-call-for-open-study-of-consciousness)
 - # Manifesto Authors
-  
+
   This manifesto was born out of the Summit on Post-materialist Science held at Canyon Ranch in Tucson, Arizona, February 2014, convened by [Gary Schwartz](https://www.opensciences.org/Gary-Schwartz), [Mario Beauregard](https://www.opensciences.org/Mario-Beauregard) and [Lisa Miller](https://www.opensciences.org/Lisa-Jane-Miller). The eight participants in the summit are the founders of the Campaign for Open Science.
 - **[Mario Beauregard](https://www.opensciences.org/mario-beauregard)**, PhD, Neuroscience of Consciousness
   Laboratory for Advances in Consciousness and Health, Dept of Psychology, University of Arizona; USA
@@ -843,12 +843,12 @@ public:: true
   Lic. rer. soc., University of Fribourg; Switzerland
 -
 - # Additional Signatories
-  
+
   **[Sebastian Penraeth](https://www.opensciences.org/people/Sebastian-Penraeth)**, Editorial Director, OpenSciences.org
-  
+
   **[Tupac Enrique Acosta](http://www.tonatierra.org/)**, Indigenous Peoples Knowledge and Practice
   Founder and General Coordinator, TONATIERRA; USA
-  
+
   **Rob Archer**, PhD, Critical Realism, Sociology, Education Policy
   Psychic medium; UK
 - **[Francisco Herrera Astudillo](https://www.trabajadordelaluz.cl/)**, PhD, Transpersonal Psychology
@@ -917,7 +917,7 @@ public:: true
 - **[Gammoudi Khaled](https://www.linkedin.com/in/gammoudi-khaled-202481b4/)**, Software Testing & Automation; France
 - **Kenneth James Krebs**, AAS, Electronics Engineering, Quantum Physics; USA
 - **Sandra King**, BA, Anthropology, Retired; USA
-  
+
   ‎
 	- **Gerhardt Lepp**, BSc, Field Biology / Ecology; Datawarehouse Design; native spirituality
 	    Data Warehouse Architect, Ministry of Attorney General, BC; Canada
@@ -996,7 +996,7 @@ public:: true
 - [Blogs](https://www.opensciences.org/blogs)
 - [Open Questions](https://www.opensciences.org/open-questions)
 - [Community Events](https://www.opensciences.org/events)
-  
+
   [Subscribe to Newsletter](https://www.opensciences.org/subscribe-to-newsletter)
   [Privacy Policy](https://www.opensciences.org/privacy-policy)
   © Campaign for Open Science

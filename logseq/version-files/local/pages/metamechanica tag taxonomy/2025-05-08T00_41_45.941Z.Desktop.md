@@ -1,6 +1,6 @@
 alias::
 tags:: 
-project:: 
+rel-projects:: 
 see-also:: [[mycelium database schema]], [[Metamechanic ontology]]
 note-type::
 note-state::

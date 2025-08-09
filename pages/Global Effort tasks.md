@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #[[Global Effort]]
+rel-projects:: #[[Global Effort]]
 see-also::
 
 - {{query (and (or "GE" "Global Effort" "globalEffort") (task DOING TODO))}}

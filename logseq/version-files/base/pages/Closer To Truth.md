@@ -2,9 +2,9 @@ alias::
 creators:: https://closertotruth.com/
 year::
 URL::
-tags:: video #YouTube #consciousness #physics #keyResource #keyThinker #organisation 
-project:: [[X-Science]], [[Another M-Theory]], [[FRESH]], [[Metamechanica]] 
-public:: true
+tags:: video #YouTube #consciousness #physics #keyResource #keyThinker #organisation
+rel-projects:: [[X-Science]], [[Another M-Theory]], [[FRESH]], [[Metamechanica]]
+
 
 - [Homepage - Closer To Truth](https://closertotruth.com/)
 - https://live-closer-to-truth.pantheonsite.io/

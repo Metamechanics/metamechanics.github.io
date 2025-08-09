@@ -1,9 +1,9 @@
 alias::
-author:: [[Kieran Fox]] 
-publication-year::
-tags:: book #Einstein 
-project:: #AMT 
-question::
-public:: true
+author:: [[Kieran Fox]]
+year::
+tags:: book #Einstein
+rel-projects:: #AMT
+
+
 
 -

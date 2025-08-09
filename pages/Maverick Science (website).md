@@ -2,10 +2,10 @@ alias::
 URL:: https://www.maverickscience.com/
 org-type:: [[independent research]] #blog 
 people:: [[Ev Cochrane]] 
-publications:: 
+creations:: 
 tags:: organisation, [[comparative mythology]], [[mythic history]], [[archaeoastronomy]] #[[Mars]] #Venus  
-project:: [[Adam's Atlas]], [[AAAC]], [[X-Science]], [[Babies, Bibles and Bathwater]] 
-public:: true
+rel-projects:: [[Adam's Atlas]], [[AAAC]], [[X-Science]], [[Babies, Bibles and Bathwater]] 
+
 
 -
 - We hold these truths to be self-evident:

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #hypnotherapy 
 fields:: #hypnosis #[[past lives]] #[[future lives]]
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

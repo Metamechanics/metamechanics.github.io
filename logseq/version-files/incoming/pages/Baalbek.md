@@ -1,8 +1,8 @@
 alias::
-tags:: #megalith 
-place::
-country:: #Lebanon 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
+tags:: #megalith
+location::
+rel-country:: #Lebanon
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
 nearest-town::
 map-url::
 

@@ -1,6 +1,6 @@
 alias:: hierarchies
 tags::
-project::
+rel-projects::
 see-also::
 
 -

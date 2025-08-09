@@ -1,6 +1,6 @@
 alias:: GKI
 tags:: #fasting  
-project:: [[A Primer on Fasting]] 
+rel-projects:: [[A Primer on Fasting]] 
 see-also:: [[Thomas Seyfried]]
 
 -

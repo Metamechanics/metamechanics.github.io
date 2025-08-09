@@ -1,13 +1,13 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 - The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge. #quote
 -

@@ -1,14 +1,14 @@
 alias:: Einstein
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -
 - If at first an idea does not sound absurd, then there is no hope for it. #quote

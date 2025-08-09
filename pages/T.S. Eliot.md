@@ -1,12 +1,12 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations:: 
+  rel-country::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+  
 -
 - “What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.” #quote #

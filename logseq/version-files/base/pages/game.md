@@ -1,6 +1,6 @@
 alias:: games
 tags::
-project::
+rel-projects::
 see-also:: [[finite vs infinite games]]
 
 -

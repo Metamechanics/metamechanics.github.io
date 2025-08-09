@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[Spirituality as science. Science as spirituality.]]
 
 - what exactly do I mean?

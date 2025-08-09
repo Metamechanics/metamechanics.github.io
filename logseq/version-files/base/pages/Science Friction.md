@@ -3,7 +3,7 @@ creators:: [[Brian Dunning]]
 year::
 URL::
 tags:: documentary
-project::
-public:: true
+rel-projects::
+
 - [Science Friction: A Documentary from Skeptoid Media](https://sciencefriction.tv/)
 -

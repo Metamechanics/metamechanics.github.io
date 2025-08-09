@@ -2,9 +2,9 @@ alias::
 URL:: https://futureearth.org/
 org-type:: #research #network 
 people::
-publications:: [[Anthropocene Magazine]] 
+creations:: [[Anthropocene Magazine]] 
 tags:: organisation
-project:: [[Global Carbon Project]] 
-public:: true
+rel-projects:: [[Global Carbon Project]] 
+
 - [Home | Future Earth](https://futureearth.org/)
 -

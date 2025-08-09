@@ -1,9 +1,8 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications:: 
+  creations::
   tags:: person
-  project::
-  public:: true
+  rel-projects::

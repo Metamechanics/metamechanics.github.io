@@ -3,8 +3,8 @@ creators:: #IAI, [[Eric Weinstein]], [[Hilary Lawson]], [[Becky Parker]]
 year:: 2024
 URL:: https://iai.tv/video/the-matrix-myths-and-metaphysics
 tags:: video
-project:: [[AMT]], [[X-Science]] 
-public:: true
+rel-projects:: [[AMT]], [[X-Science]] 
+
 
 - [The matrix, myths, and metaphysics | Eric Weinstein, Becky Parker, Hilary Lawson](https://iai.tv/video/the-matrix-myths-and-metaphysics)
 - see-also:: [[Beyond the Reality Illusion]]

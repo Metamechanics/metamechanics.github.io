@@ -2,10 +2,10 @@ alias:: OWID
 URL::
 org-type:: #academia #web  
 people::
-publications:: 
+creations:: 
 tags:: organisation #keyResource #keyThinker #keyActor #comparator #competitor #[[exemplar]]
-project:: [[EFA]] 
-question::
-public:: true
+rel-projects:: [[EFA]] 
+
+
 
 -

@@ -1,6 +1,6 @@
 alias::
 tags:: #claude-ai #[[project brief]] 
-project:: #allProjects #[[Coding with AI]] 
+rel-projects:: #allProjects #[[Coding with AI]] 
 see-also::
 - Usage Instructions: Copy this entire specification into new Claude conversations with the instruction: "Please reference these Master Project Specifications for context on my development portfolio."
 - Archived versions
@@ -256,6 +256,7 @@ see-also::
 		  
 		  Usage Instructions: Copy this entire specification into new Claude conversations with the instruction: "Please reference these Master Project Specifications for context on my development portfolio."
 - # Development Workflow Procedures
+  collapsed:: true
 	- ## Claude Conversation Management
 		- ### Conversation Types
 			- Master Setup: This conversation - establishing systems and procedures

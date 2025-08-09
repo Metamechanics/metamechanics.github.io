@@ -1,9 +1,9 @@
 alias::
-author:: [[Arturo Villamarin]] 
-publication-year::
-tags:: book, reference
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+author:: [[Arturo Villamarin]]
+year::
+tags:: book
+rel-projects:: [[Adam's Atlas]]
+
+
 
 -

@@ -1,14 +1,14 @@
-alias:: Robert Lawrence Kuhn 
+alias:: Robert Lawrence Kuhn
 URL::
-organisation:: [[Closer To Truth]] 
+rel-org:: [[Closer To Truth]]
 role::
 fields::
-publications-productions:: [[Closer To Truth - Science, Meaning, and the Future]]
-country::
-tags:: person, #keyThinker #keyActor 
-project:: [[AMT]], [[X-Science]] 
-question::
-public:: true
+creations:: [[Closer To Truth - Science, Meaning, and the Future]]
+rel-country::
+tags:: person, #keyThinker #keyActor
+rel-projects:: [[AMT]], [[X-Science]]
+
+
 
 - [Reality and the Concepts of Nothing with Dr. Robert Lawrence Kuhn - YouTube](https://www.youtube.com/watch?v=i2jtHJx1-OA)
 -

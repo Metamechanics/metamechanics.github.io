@@ -1,11 +1,11 @@
 alias::
 URL:: https://clivehamilton.com/
-organisation:: [[Charles Sturt University]] 
-role:: [[academic]] & [[independent researcher]] 
+rel-org:: [[Charles Sturt University]]
+role:: [[academic]] & [[independent researcher]]
 fields::
-publications:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 - [Home - Clive Hamilton](https://clivehamilton.com/)
 -

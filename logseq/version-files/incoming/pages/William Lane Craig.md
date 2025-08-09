@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #preacher 
 fields:: #[[Christian theology]]
-publications-productions:: 
+creations:: 
 tags:: person #Christian #orthodoxy 
-project:: [[Another M-Theory]], [[Babies, Bibles and Bathwater]] 
-public:: true
+rel-projects:: [[Another M-Theory]], [[Babies, Bibles and Bathwater]] 
+
 -

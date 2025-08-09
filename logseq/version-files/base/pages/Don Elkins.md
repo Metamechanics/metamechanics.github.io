@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[L-L Research]] 
+rel-org:: [[L-L Research]] 
 role:: [[academic]], [[independent researcher]], [[channeller]] 
 fields:: 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - **Biography** (from [The Ra Contact: Teaching the Law of One (2 book series) Kindle Edition](https://www.amazon.com/gp/product/B07DYHGMMY/ref=x_gr_bb_series?caller=Goodreads&tag=x_gr_bb_series-20&binding=kindle_edition))
   collapsed:: true

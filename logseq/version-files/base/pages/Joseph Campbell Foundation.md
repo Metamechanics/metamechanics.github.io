@@ -2,11 +2,11 @@ alias::
 URL:: https://www.jcf.org/ , https://www.youtube.com/@JosephCampbellFoundation
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation #[[Joseph Campbell]] #myth #[[psychology]]  
-project:: #[[Inner Beginner]] #AMT  
-question::
-public:: true
+rel-projects:: #[[Inner Beginner]] #AMT  
+
+
 
 - [Welcome to the Joseph Campbell Foundation](https://www.jcf.org/)
 - [Joseph Campbell Foundation - YouTube](https://www.youtube.com/@JosephCampbellFoundation)

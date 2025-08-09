@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #AMT #[[The Metamechanic]] #Metamechanica 
+rel-projects:: #AMT #[[The Metamechanic]] #Metamechanica
 see-also::
 
 - [Metanoia - Wikipedia](https://en.wikipedia.org/wiki/Metanoia)

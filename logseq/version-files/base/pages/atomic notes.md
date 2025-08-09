@@ -1,7 +1,7 @@
 alias::
 tags:: #atomic 
 url:: 
-project::
+rel-projects::
 see-also:: #[[atomic essays]]
 
 -

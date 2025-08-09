@@ -1,5 +1,5 @@
 title:: Software, Apps & Web Services I may use & learn
-alias:: platforms, SAWS, app, software, software-app
+alias:: platforms, SAWS, app, app
 
 - Heavy lifters
 	- [[Logseq]]

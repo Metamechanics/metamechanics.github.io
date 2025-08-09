@@ -1,13 +1,13 @@
 alias::
 URL:: https://www.maverickscience.com/ 
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Saturn Theory (paper)]], [[Mars Rocks in Ancient Myths and Modern Science]], [[Fossil Gods and Forgotton Worlds]], [[Phaethon - The Star That Fell From Heaven]] 
-country::
+creations:: [[The Saturn Theory (paper)]], [[Mars Rocks in Ancient Myths and Modern Science]], [[Fossil Gods and Forgotton Worlds]], [[Phaethon - The Star That Fell From Heaven]] 
+rel-country::
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 -
 - [maverickscience.com: The Website of Ev Cochrane](https://www.maverickscience.com/)

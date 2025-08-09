@@ -1,10 +1,10 @@
 alias:: The Book of the It - Psychoanalytic Letters to a Friend
-author:: [[Georg Groddeck]] 
-publication-year:: 1923
-tags:: book, reference #psychoanalysis #ego #keyResource #toRead 
-project:: [[AMT]]
-question::
-public:: true
+author:: [[Georg Groddeck]]
+year:: 1923
+tags:: book #psychoanalysis #ego #keyResource #toRead
+rel-projects:: [[AMT]]
+
+
 
 - https://ia800604.us.archive.org/26/items/b29815113/b29815113.pdf
 - [The Book of the It - Georg Groddeck.pdf | DuusAir](hook://file/pcaaTaugQ?p=MSBLbm93bGVkZ2UgTGlicmFyaWVzL0FDSU0gJiBJbm5lciBCZWdpbm5lciwgU3Bpcml0dWFsaXR5LCBNeXN0aWNpc20sIE15dGhvbG9neQ==&n=The%20Book%20of%20the%20It%20%2D%20Georg%20Groddeck%2Epdf)

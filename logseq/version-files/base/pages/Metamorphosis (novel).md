@@ -1,8 +1,8 @@
 alias::
-author:: [[Franz Kafka]] 
-publication-year::
-tags:: book, existentialism, #toRead 
-project:: [[Inner Beginner]] 
-public:: true
+author:: [[Franz Kafka]]
+year::
+tags:: book, existentialism, #toRead
+rel-projects:: [[Inner Beginner]]
+
 
 -

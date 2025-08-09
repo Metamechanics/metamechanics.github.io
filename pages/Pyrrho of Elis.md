@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
-role:: #philosopher 
+rel-org::
+role:: #philosopher
 fields::
-publications-productions:: 
-tags:: person #Greco-Buddhism #[[Alexander the Great]] 
-project::
-public:: true
+creations::
+tags:: person #Greco-Buddhism #[[Alexander the Great]]
+rel-projects::
+
 
 - [Pyrrho (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/pyrrho/)
 -

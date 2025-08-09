@@ -1,12 +1,12 @@
 alias::
 URL:: https://lostworldmuseum.com/
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [John Adolfi - YouTube](https://www.youtube.com/@LostWorldMuseum)
 - Apes, Aliens or Adam?

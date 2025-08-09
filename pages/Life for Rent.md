@@ -1,9 +1,9 @@
 alias::
-author:: [[Dido]] 
-publication-year::
-tags:: song, lyrics, metaphor, [[renting vs buying]] 
-project:: 
-public:: true
+author:: [[Dido]]
+year::
+tags:: song, lyrics, metaphor, [[renting vs buying]]
+rel-projects::
+
 
 -
 - [Verse 1]

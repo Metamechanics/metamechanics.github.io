@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[cosmology]] 
-publications:: 
+creations:: 
 tags:: person, #[[religious scientist]] 
-project::
-public:: true
+rel-projects::
+
 -

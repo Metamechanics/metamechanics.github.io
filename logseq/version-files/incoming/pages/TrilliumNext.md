@@ -1,8 +1,8 @@
-alias:: 
-tags:: app, software
+alias::
+tags:: app
 URL::
-similar-to:: [[Logseq]] 
+see-also:: [[Logseq]]
 purpose::
-project:: [[Metamechanic Mycelium]]
+rel-projects:: [[Metamechanic Mycelium]]
 
 -

@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
-role:: 
-fields:: #consciousness #AI  
-publications-productions:: 
-country::
-tags:: person, #keyThinker 
-project:: #AMT 
-question::
-public:: true
+rel-org::
+role::
+fields:: #consciousness #AI
+creations::
+rel-country::
+tags:: person, #keyThinker
+rel-projects:: #AMT
+
+
 
 - https://youtube.com/shorts/q99cCMRuiyg?si=pryZ1Fw-j6tTvxtO
 -

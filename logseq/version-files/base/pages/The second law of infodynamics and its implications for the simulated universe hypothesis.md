@@ -1,11 +1,11 @@
-journal::
-authors:: [[Melvin Vopson]] 
+rel-journal::
+author:: [[Melvin Vopson]]
 year::
 URL::
-tags:: article, reference, [[simulation hypothesis]], [[information physics]] 
-project:: [[AMT]] 
-question::
-public:: true
+tags:: article, reference, [[simulation hypothesis]], [[information physics]]
+rel-projects:: [[AMT]]
+
+
 
 - [The second law of infodynamics and its implications for the simulated universe hypothesis | AIP Advances | AIP Publishing](https://pubs.aip.org/aip/adv/article/13/10/105308/2915332/The-second-law-of-infodynamics-and-its)
 - see: [[second law of information dynamics]]

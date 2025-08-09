@@ -1,7 +1,7 @@
 alias::
 tags:: #innovation #transformation #[[change of mind]] #re-definition #reframing  
 url:: 
-project::
+rel-projects::
 see-also:: [[innervation (medical)]]
 - Innovation through inner transformation
 - "Inner" means mind

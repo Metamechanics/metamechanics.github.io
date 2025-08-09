@@ -1,8 +1,7 @@
 alias:: dashboardAMT
 tags:: #dashboard 
-project:: [[AMT]]
+rel-projects:: [[AMT]]
 see-also:: [[AMT dashboard]]
-
 - [[AMT]]
 - [[AMT hyperbook]]
 - [[AMT social media]]

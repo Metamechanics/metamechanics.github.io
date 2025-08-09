@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[Egyptology]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[Adam's Atlas]]
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
 
 -

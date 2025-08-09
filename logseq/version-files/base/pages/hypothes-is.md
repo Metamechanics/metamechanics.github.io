@@ -1,7 +1,7 @@
 alias::
 tags:: #app #collaboration #[[social annotation]] #collaborator
 url:: 
-project::
+rel-projects::
 see-also::
 -
 - use in [[X-C Communities]] ?

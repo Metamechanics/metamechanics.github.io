@@ -1,7 +1,7 @@
 - alias::
   tags::
-  place::
-  country::
+  location::
+  rel-country::
   place-type::
   nearest-town::
   map-url::

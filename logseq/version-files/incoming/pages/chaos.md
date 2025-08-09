@@ -1,5 +1,5 @@
 - alias::
   tags::
   url:: 
-  project::
+  rel-projects::
   see-also::

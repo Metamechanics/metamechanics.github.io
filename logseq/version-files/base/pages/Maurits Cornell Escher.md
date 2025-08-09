@@ -1,13 +1,13 @@
 alias:: Escher
 URL::
-organisation::
-role:: #artist 
-fields:: 
-publications-productions:: 
-country::
+rel-org::
+role:: #artist
+fields::
+creations::
+rel-country::
 tags:: person
-project:: [[AMT]]
-question::
-public:: true
+rel-projects:: [[AMT]]
+
+
 
 -

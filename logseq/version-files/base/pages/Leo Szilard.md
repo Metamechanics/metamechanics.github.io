@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #physics #[[nuclear physics]] #[[atomic energy]]
-publications-productions:: [[The Voice of Dolphins and Other Stories]], [[The Einstein letter to FDR]] 
-country::
-tags:: person, #iHaveit 
-project:: [[X-Science]]  
-question::
-public:: true
+creations:: [[The Voice of Dolphins and Other Stories]], [[The Einstein letter to FDR]]
+rel-country::
+tags:: person, #iHaveit
+rel-projects:: [[X-Science]]
+
+
 
 -
 - Author 'the Einstein letter', which Einstein signed

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[radiant energy]], [[Free Energy]] 
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project:: [[ANEO]], [[Global Effort]], [[FACTs]], [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[ANEO]], [[Global Effort]], [[FACTs]], [[Fresh Alternatives]] 
+
 
 -
 -

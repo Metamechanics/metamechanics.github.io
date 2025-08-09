@@ -1,12 +1,12 @@
 alias::
-tags:: [[T pillars]], [[ancient handbags]] 
-place::
-country:: [[Turkey]] 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
-nearest-town:: [[Sanliurfa]] 
+tags:: [[T pillars]], [[ancient handbags]]
+location::
+rel-country:: [[Turkey]]
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: [[Sanliurfa]]
 map-url::
-project:: [[Adam's Atlas]]
+rel-projects:: [[Adam's Atlas]]
 - #[[megalithic architecture]]
 - Turkey, near Syrian border
 - 11600 YBP

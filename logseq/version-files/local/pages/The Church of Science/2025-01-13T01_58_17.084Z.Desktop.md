@@ -1,6 +1,6 @@
 alias:: CoS, The Church of Science
 tags:: #toProcess  
-project:: #AMT
+rel-projects:: #AMT
 
 - #book #Metamechanica #MetaMechanic #toWrite #myBooks #myCreation #toEdit #toProcess
 - [[The Church of Science]]

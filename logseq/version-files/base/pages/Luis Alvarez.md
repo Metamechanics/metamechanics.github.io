@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: [[academic]] 
-fields:: [[geology]] ? [[palaeontology]] 
-publications-productions:: 
-tags:: person, 
-project:: [[Adam's Atlas]], [[X-Science]] 
-public:: true
+rel-org::
+role:: [[academic]]
+fields:: [[geology]] ? [[palaeontology]]
+creations::
+tags:: person,
+rel-projects:: [[Adam's Atlas]], [[X-Science]]
 
-- related:: [[Walter Alvarez]]
+
+- see-also:: [[Walter Alvarez]]
 - meteroid impact which killed dinosaurs
 -

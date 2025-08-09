@@ -1,6 +1,6 @@
 alias::
 tags:: #evolution 
-project:: #[[AMT hyperbook]] 
+rel-projects:: #[[AMT hyperbook]] 
 see-also::
 - Evolution is not random. It is a diversionary tactic.
 - sleight of hand. Keep'em looking in the wrong place.

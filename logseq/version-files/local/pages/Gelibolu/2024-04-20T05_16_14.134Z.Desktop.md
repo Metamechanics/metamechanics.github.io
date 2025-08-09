@@ -1,7 +1,7 @@
 alias:: Gallipoli
 tags::
-place::
-country:: [[Turkey]] 
+location::
+rel-country:: [[Turkey]]
 place-type:: #[[historical site]]
 nearest-town::
 map-url::

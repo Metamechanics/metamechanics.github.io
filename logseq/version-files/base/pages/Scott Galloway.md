@@ -1,11 +1,11 @@
 alias:: ProfG
 URL::
-organisation::
+rel-org::
 role::
 fields:: #marketing #entrepreneurship 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

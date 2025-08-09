@@ -1,14 +1,14 @@
 alias:: Myss
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[medical intuition]], [[energy anatomy]] 
-publications-productions:: [[Anatomy of the Spirit]] 
-country:: USA
-tags:: person, #woundology #[[psychological resistance]] 
-project:: [[AMT]], [[FRESH]] 
-question::
-public:: true
+fields:: [[medical intuition]], [[energy anatomy]]
+creations:: [[Anatomy of the Spirit]]
+rel-country:: USA
+tags:: person, #woundology #[[psychological resistance]]
+rel-projects:: [[AMT]], [[FRESH]]
+
+
 
 - [About Caroline Myss - Caroline Myss](https://www.myss.com/about-caroline-myss/)
 - [Appendix: The Four Archetypes of Survival - Caroline Myss](https://www.myss.com/free-resources/sacred-contracts-and-your-archetypes/appendix-the-four-archetypes-of-survival/)

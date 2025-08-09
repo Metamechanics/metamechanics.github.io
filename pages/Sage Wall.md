@@ -1,7 +1,7 @@
 alias::
 tags::
-place:: Montana
-country:: USA
+location:: Montana
+rel-country:: USA
 place-type:: #[[ancient site]] #megalith 
 nearest-town:: 
 map-url::

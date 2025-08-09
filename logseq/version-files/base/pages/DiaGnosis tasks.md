@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #DiaGnosis 
+rel-projects:: #DiaGnosis 
 see-also::
 
 - {{query (and "DiaGnosis" (task DOING TODO))}}

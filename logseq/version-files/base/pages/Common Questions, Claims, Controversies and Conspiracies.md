@@ -1,6 +1,6 @@
 alias::
 tags:: #chapter 
-project:: [[AMT hyperbook]]
+rel-projects:: [[AMT hyperbook]]
 see-also::
 
 -

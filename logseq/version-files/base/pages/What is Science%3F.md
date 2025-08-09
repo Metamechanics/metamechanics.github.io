@@ -1,5 +1,5 @@
 alias::
-tags:: #[[Philosophy of Science]], #[[History of Science]], [[pseudoscience]] 
-project:: [[X-Science]], [[Metamechanica]]
+tags:: #[[Philosophy of Science]], #[[History of Science]], [[pseudoscience]]
+rel-projects:: [[X-Science]], [[Metamechanica]]
 
 -

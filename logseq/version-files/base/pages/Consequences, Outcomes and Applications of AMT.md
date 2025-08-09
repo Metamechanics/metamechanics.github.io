@@ -1,7 +1,7 @@
 - alias::
-  tags:: 
-  project:: [[AMT hyperbook]]
-  parent-blocks:: 
+  tags::
+  rel-projects:: [[AMT hyperbook]]
+  parent-blocks::
   child-blocks::
 -
 - Everything shifts to being a metaphor: The choice is then which metaphor, tied to what purpose?

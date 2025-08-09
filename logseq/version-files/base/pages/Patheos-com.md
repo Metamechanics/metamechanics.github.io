@@ -1,11 +1,11 @@
 alias::
 URL:: https://www.patheos.com/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #[[Comparative Religion]]
-project:: [[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+rel-projects:: [[Babies, Bibles and Bathwater]]
+
+
 
 - [Patheos | Hosting The Conversation On Faith](https://www.patheos.com/)
 	- byline: "THE WORLD'S HOMEPAGE FOR ALL RELIGION"

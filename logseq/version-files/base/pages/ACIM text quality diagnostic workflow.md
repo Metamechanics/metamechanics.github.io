@@ -1,7 +1,7 @@
 alias::
-tags:: #claude-ai  
-url:: 
-project:: [[ACIM accordance]] 
+tags:: #claude-ai
+url::
+rel-projects:: [[ACIM accordance]]
 see-also::
 
 -
@@ -11,7 +11,7 @@ see-also::
 	- Systematically identify and fix textual, grammatical, punctuation, and formatting flaws in your processed ACIM content
 - ### Approach:
 	- Use console credits for high-value diagnostic analysis that improves your entire processing pipeline
-	  
+
 	  ---
 - ## 📋 Step-by-Step Implementation Guide
 - ### Step 1: Prepare Your Sample Content (5 minutes)
@@ -23,7 +23,7 @@ see-also::
 - #### File Selection Criteria:
   ```
   Priority 1: Files with known formatting issues
-  Priority 2: Files with review lesson parenthesis problems  
+  Priority 2: Files with review lesson parenthesis problems
   Priority 3: Files with superscript numbering issues
   Priority 4: Files with paragraph numbering problems
   Priority 5: Files with unicode/special character issues
@@ -44,48 +44,48 @@ see-also::
 - File formats supported: .md, .txt, .html (your markdown files will work)
 - Upload limit: Multiple files per conversation
 - Best practice: Upload 3-5 files at a time for focused analysis
-  
+
   ---
 - ## 🔍 Step 3: Diagnostic Analysis Prompts
 - ### Phase 1: Pattern Recognition (Use ~25% of credits)
 - #### Initial Diagnostic Prompt:
   ```
   I'm developing an ACIM text processor and need help identifying quality issues in my output. I've uploaded several processed ACIM sections that show my current "persistent error patterns."
-  
+
   Please analyze these files and identify:
-  
+
   1. Formatting Issues:
    - Paragraph numbering problems (should be 1. 2. 3.)
    - Sentence superscript issues (should be ¹²³⁴⁵⁶⁷⁸⁹⁰)
    - Inconsistent header formatting
-  
+
   2. Content Integrity Problems:
    - Missing or duplicated sentences
    - Incomplete paragraphs
    - Orphaned numbers or fragments
    - Sequential numbering gaps
-  
+
   3. ACIM-Specific Standards:
    - Theological term capitalization inconsistencies
    - Reference formatting problems (T-6.V.A.1:2, W-pI.182, etc.)
    - Special character issues (unicode, pipes, ellipses)
-  
+
   4. Grammar & Punctuation:
    - Missing punctuation
    - Inconsistent quotation marks
    - Capitalization errors
-  
+
   For each issue type, please:
   - Provide specific examples from the uploaded files
   - Suggest the correct format
   - Identify patterns that could be fixed systematically
-  
+
   Focus on issues that appear across multiple files - these are my "persistent patterns" to fix.
   ```
 - #### Follow-up Analysis Prompts:
   ```
   Based on your analysis, what are the top 5 most critical issues to fix first?
-  
+
   For each critical issue, can you suggest:
   1. A specific search-and-replace pattern to fix it
   2. A processor rule to prevent it in future processing
@@ -94,16 +94,16 @@ see-also::
 - ### Phase 2: Specific Issue Deep-Dive (Use ~30% of credits)
 - #### Focused Problem Analysis:
   Upload your most problematic files and ask:
-  
+
   ```
-  I'm particularly struggling with [SPECIFIC ISSUE - e.g., "review lesson parenthesis problems"]. 
-  
+  I'm particularly struggling with [SPECIFIC ISSUE - e.g., "review lesson parenthesis problems"].
+
   Looking at the uploaded files, can you:
   1. Identify the exact pattern causing this issue
   2. Show me what the correct format should be
   3. Provide a systematic way to fix all instances
   4. Suggest processor improvements to prevent this
-  
+
   Please be very specific with examples and corrections.
   ```
 - #### Common Specific Issues to Analyze:
@@ -115,35 +115,35 @@ see-also::
 - ### Phase 3: Correction Validation (Use ~25% of credits)
 - #### Test Your Fixes:
   After implementing Claude's suggestions, upload corrected samples:
-  
+
   ```
-  I've implemented your suggested fixes for [SPECIFIC ISSUES]. 
-  
+  I've implemented your suggested fixes for [SPECIFIC ISSUES].
+
   Please analyze these corrected files and verify:
   1. Are the issues properly resolved?
   2. Have I introduced any new problems?
   3. Is the formatting now consistent with ACIM standards?
   4. Any remaining quality concerns?
-  
+
   Please give me a quality score (1-10) for each file and overall assessment.
   ```
 - ### Phase 4: Batch Quality Check (Use remaining ~20% credits)
 - #### Final Quality Assurance:
   ```
   Please perform a comprehensive quality check on these processed ACIM sections:
-  
+
   1. Structural Integrity: Proper numbering, complete content
   2. ACIM Standards: Correct theological formatting
   3. Professional Polish: Grammar, punctuation, consistency
   4. Metadata Accuracy: Verify word counts, section counts match content
-  
+
   Provide a detailed quality report with:
   - Overall quality score (1-10)
   - Specific remaining issues
   - Recommendations for final polish
   - Readiness assessment for database integration
   ```
-  
+
   ---
 - ## 🛠 Step 4: Systematic Implementation
 - ### Fix Application Process:
@@ -162,7 +162,7 @@ see-also::
     replacement = r'(\1) '
     return re.sub(pattern, replacement, text)
   ```
-  
+
   ---
 - ## 💡 Credit Optimization Tips
 - ### Maximize Value:
@@ -180,7 +180,7 @@ see-also::
 - Don't repeat the same analysis - build on previous insights
 - Focus on systemic issues rather than one-off problems
 - Ask for batch solutions rather than individual fixes
-  
+
   ---
 - ## 📊 Expected Outcomes
 - ### After Phase 1 (Pattern Recognition):
@@ -199,7 +199,7 @@ see-also::
 - Publication-ready text quality
 - Database-integration readiness
 - Professional polish across your ACIM corpus
-  
+
   ---
 - ## 🎯 Quick Start Checklist
 - ### Today:
@@ -219,7 +219,7 @@ see-also::
 - Error Reduction: 80%+ reduction in persistent error patterns
 - Consistency: Uniform formatting across all content types
 - Database Readiness: Clean, structured text ready for concordance integration
-  
+
   ---
 - ## 🚀 Advanced Usage (If Credits Allow)
 - ### Metadata Enhancement:
@@ -238,5 +238,5 @@ see-also::
   ```
   Based on your analysis, please create ACIM-specific quality standards I can use for future processing validation.
   ```
-  
+
   This workflow will give you maximum value from your console credits while systematically improving your ACIM text quality from "good enough" to "publication ready."

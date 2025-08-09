@@ -1,12 +1,12 @@
 alias:: Flinders Petrie
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[Ancient Egypt]] [[Egyptologist]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [[Petrie Museum of Egyptian Archaeology]]
 -

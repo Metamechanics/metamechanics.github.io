@@ -1,10 +1,10 @@
 alias:: Mach's Principle
-author:: [[Julian Barbour]] 
-publication-year::
-tags:: book, reference
-project:: #AMT 
-question::
-public:: true
+author:: [[Julian Barbour]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 -
 - http://www.platonia.com/books.html

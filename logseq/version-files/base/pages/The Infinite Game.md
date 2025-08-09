@@ -1,11 +1,11 @@
 alias::
 author::
-publication-year::
-tags:: book 
-project:: 
-question::
-see-also:: [[Finite and Infinite Games]] 
-public:: true
+year::
+tags:: book
+rel-projects::
+
+see-also:: [[Finite and Infinite Games]]
+
 
 -
 -

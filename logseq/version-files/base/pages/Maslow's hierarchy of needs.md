@@ -1,10 +1,10 @@
 alias::
 tags:: framework
 domain::
-people:: [[Abraham Maslow]] 
-related-to::
-project:: [[EFA]], [[Inner Beginner]] 
-public:: true
+people:: [[Abraham Maslow]]
+see-also::
+rel-projects:: [[EFA]], [[Inner Beginner]]
+
 
 -
 -

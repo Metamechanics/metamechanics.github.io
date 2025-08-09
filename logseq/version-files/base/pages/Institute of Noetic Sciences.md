@@ -3,10 +3,10 @@
   URL:: https://noetic.org/
   org-type:: [[non-profit]], [[research]] 
   people:: [[Edgar Mitchell]], [[Dean Radin]] 
-  publications:: 
+  creations:: 
   tags:: organisation
-  project:: [[Fresh Alternatives]] 
-  public:: true
+  rel-projects:: [[Fresh Alternatives]] 
+  
 - [[Edgar Mitchell]], [[Dean Radin]]
 - [Institute of Noetic Sciences (IONS)](https://noetic.org/)
 - Collaborator: [[Academy for the Advancement of Postmaterialist Sciences]]

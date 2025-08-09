@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[FF-ed]] 
 tags:: person, psi
-project:: [[FF-ed]], [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[FF-ed]], [[Fresh Alternatives]] 
+
 -

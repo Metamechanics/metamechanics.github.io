@@ -1,9 +1,9 @@
 alias::
 author::
-publication-year::
-tags:: book, reference, #toSource 
-project:: 
-public:: true
+year::
+tags:: book, #toSource
+rel-projects::
+
 
 -
 -

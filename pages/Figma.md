@@ -1,4 +1,4 @@
-- #software-app #mockup #design
+- #app #mockup #design
 - https://www.figma.com
 -
 -

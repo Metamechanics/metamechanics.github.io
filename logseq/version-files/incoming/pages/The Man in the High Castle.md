@@ -1,8 +1,8 @@
 alias::
-author:: [[Philip K. Dick]] 
-publication-year::
-tags:: book, reference, #sci-fi 
-project:: 
-public:: true
+author:: [[Philip K. Dick]]
+year::
+tags:: book, #sci-fi
+rel-projects::
+
 
 -

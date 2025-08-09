@@ -1,6 +1,6 @@
 alias:: ACIM metaphysics, metaphysics of ACIM
-tags:: #metaphysics 
-project:: [[ACIM4T]], [[AMT]], #Metamechanica 
+tags:: #metaphysics
+rel-projects:: [[ACIM4T]], [[AMT]], #Metamechanica
 see-also::
 
 -

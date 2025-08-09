@@ -1,5 +1,5 @@
 alias::
 author::
-publication-year::
-tags:: book, reference, gnostic, religious, spiritual
+year::
+tags:: book, gnostic, religious, spiritual
 -

@@ -1,6 +1,6 @@
 alias:: brief, myProposal
 tags::
-project:: #allProjects
+rel-projects:: #allProjects
 see-also::
 -
 -

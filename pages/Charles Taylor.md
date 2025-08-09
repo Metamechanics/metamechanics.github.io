@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[A Secular Age]] 
-country::
+creations:: [[A Secular Age]] 
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -
 - ## Author

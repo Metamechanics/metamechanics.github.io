@@ -1,14 +1,14 @@
 alias:: d-pat
 URL:: https://www.fearlessbooks.com/
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Try to Be a Little Kinder]] 
-country::
+creations:: [[Try to Be a Little Kinder]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Fearless Books Home Page](https://www.fearlessbooks.com/)
 -

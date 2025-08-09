@@ -1,10 +1,10 @@
 alias::
-author:: [[Kevin Elliott]] 
-publication-year::
-tags:: book, reference, [[controversies in science]], [[Controversy Mapping]] 
-project:: [[X-Science]] 
-question::
-public:: true
+author:: [[Kevin Elliott]]
+year::
+tags:: book, [[controversies in science]], [[Controversy Mapping]]
+rel-projects:: [[X-Science]]
+
+
 
 -
 -

@@ -1,6 +1,6 @@
 alias:: the Moreganism
 tags::
-project:: [[AMT]]
+rel-projects:: [[AMT]]
 
 - the broader/bigger ego body, ego self
 - that which needs more

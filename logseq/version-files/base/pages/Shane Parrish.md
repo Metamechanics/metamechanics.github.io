@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #[[mental models]] #[[logical fallacies]] #[[critical thinking]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 - #toFind book about mental models in my #Kindle
 -

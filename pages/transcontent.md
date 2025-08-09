@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: 
+rel-projects:: 
 see-also::
-
 - if "transform" means "across form", and we're interested in form vs content, we need a distinction that emphasises a shift in content (essence, purpose)
 - transcon ?
 - transcon-tent

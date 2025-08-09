@@ -1,4 +1,4 @@
 alias:: basework
-- #software-app #database #AI
+- #app #database #AI
 -
 -

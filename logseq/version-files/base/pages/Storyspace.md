@@ -1,8 +1,8 @@
 alias::
-tags:: app, software, [[Choose Your Own Adventure]] 
+tags:: app, [[Choose Your Own Adventure]]
 URL::
-similar-to:: [[Tinderbox]] 
-purpose:: #hyperbook #hypermedia #hypertext 
-project::
+see-also:: [[Tinderbox]]
+purpose:: #hyperbook #hypermedia #hypertext
+rel-projects::
 
 -

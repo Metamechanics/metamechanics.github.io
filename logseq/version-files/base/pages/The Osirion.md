@@ -1,7 +1,7 @@
 alias:: Osirion
-tags:: #megalith #[[Flower of Life]] 
-place::
-country:: #Egypt 
+tags:: #megalith #[[Flower of Life]]
+location::
+rel-country:: #Egypt
 place-type::
 nearest-town:: Sohag
 map-url::

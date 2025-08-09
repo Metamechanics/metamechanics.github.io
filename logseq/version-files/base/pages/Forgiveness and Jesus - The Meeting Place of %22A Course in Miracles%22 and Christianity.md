@@ -1,10 +1,10 @@
 alias::
-author:: [[Ken Wapnick]] 
-publication-year::
-tags:: book, reference, #ACIM #Jesus 
-project:: [[ACIM-TT]] 
-question::
-public:: true
+author:: [[Ken Wapnick]]
+year::
+tags:: book, #ACIM #Jesus
+rel-projects:: [[ACIM-TT]]
+
+
 
 - [Forgiveness and Jesus: The Meeting Place of ACIM and Christianity – Foundation for "A Course in Miracles"® Online Store](https://facimstore.org/products/forgiveness-and-jesus-epub)
 - Synopsis:

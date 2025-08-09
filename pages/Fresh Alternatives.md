@@ -1,6 +1,6 @@
 alias:: FRESH, freshAlts
 tags::
-related-to:: [[FACTs]], [[FACTs 4CT]] 
+see-also:: [[FACTs]], [[FACTs 4CT]]
 status:: #toProcess
 
 -

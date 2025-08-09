@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: [[Adam's Atlas]]
+rel-projects:: [[Adam's Atlas]]
 
 - first and last part of [[Eurasia 2024]]
 - [Turkey 2024 - Google Maps](https://www.google.com/maps/d/edit?mid=1Gy_sENvw5Q8HgHoBdEpjVuHtXimVzSA&usp=sharing)

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[Multidisciplinary Association for Psychedelic Studies]] 
+rel-org:: [[Multidisciplinary Association for Psychedelic Studies]] 
 role:: #medicalDoctor 
 fields:: #psychedelics #health  
-publications-productions:: [[Manifesting Minds]] 
+creations:: [[Manifesting Minds]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

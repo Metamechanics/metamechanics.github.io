@@ -1,9 +1,14 @@
 alias::
-author:: [[John Anthony West]] 
-publication-year:: 1995
-tags:: book, reference, pre-diluvian civilization, #[[Ancient Egypt]] #[[ancient history]] #travel #Egypt 
-project:: [[Adam's Atlas]] 
-public:: true
+author:: [[John Anthony West]]
+year:: 1995
+tags:: book, pre-diluvian civilization, #[[Ancient Egypt]] #[[ancient history]] #travel #Egypt
+rel-projects:: [[Adam's Atlas]]
+
+alias::
+author:: [[John Anthony West]]
+year:: 1995
+tags:: book, pre-diluvian civilization, #[[Ancient Egypt]] #[[ancient history]] #travel #Egypt
+rel-projects:: [[Adam's Atlas]]
 
 -
 -

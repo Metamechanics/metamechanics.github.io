@@ -1,10 +1,10 @@
 alias::
 URL:: https://grandtimeline.org/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, [[data visualization]], [[narrative visualization]] 
-project:: [[DiaGnosis]] 
-question:: 
-public:: true
+rel-projects:: [[DiaGnosis]] 
+ 
+
 
 - [The Grand Timeline - The whole story of crypto, bitcoin and Web3](https://grandtimeline.org/)

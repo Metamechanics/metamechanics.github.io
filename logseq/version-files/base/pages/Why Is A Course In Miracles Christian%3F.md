@@ -1,10 +1,10 @@
-journal::
-authors:: [[Ken Wapnick]] 
+rel-journal::
+author:: [[Ken Wapnick]]
 year::
 URL::
 tags:: article, reference
-project::
-public:: true
+rel-projects::
+
 
 -
 - Why Is A Course in Miracles Christian?

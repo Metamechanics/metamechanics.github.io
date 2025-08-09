@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation:: 
-role:: [[independent researcher]] 
-fields:: [[Egyptology]], [[Khemitology]], [[catastrophe]] 
-publications-productions:: [[The Land of Osiris - An Introduction to Khemitology]] , [[From Light Into Darkness]] 
-country:: USA
+rel-org::
+role:: [[independent researcher]]
+fields:: [[Egyptology]], [[Khemitology]], [[catastrophe]]
+creations:: [[The Land of Osiris - An Introduction to Khemitology]] , [[From Light Into Darkness]]
+rel-country:: USA
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
 
 - [Stephen Mehler](http://www.gizapyramid.com/bio-mehler.htm)
 -

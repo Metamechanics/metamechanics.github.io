@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[philosophy]] 
-publications-productions:: 
-country::
-tags:: person, [[Ancient Greece]] 
-project:: [[AMT]]
-question::
-public:: true
+fields:: [[philosophy]]
+creations::
+rel-country::
+tags:: person, [[Ancient Greece]]
+rel-projects:: [[AMT]]
+
+
 
 -

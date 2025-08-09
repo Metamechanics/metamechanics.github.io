@@ -1,10 +1,10 @@
 alias::
-tags:: concept, #ACIM #keyConcept 
-domain:: #ACIM 
+tags:: concept, #ACIM #keyConcept
+domain:: #ACIM
 people::
-related-to::
-project::
-public:: true
+see-also::
+rel-projects::
+
 
 - need ACIM reference for this
 -

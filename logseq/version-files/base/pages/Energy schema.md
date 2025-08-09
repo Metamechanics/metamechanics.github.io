@@ -1,6 +1,6 @@
 alias::
 tags:: #schema #ontology #taxonomy #typology 
-project:: [[Global Effort]] 
+rel-projects:: [[Global Effort]] 
 see-also::
 
 -

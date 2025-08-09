@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, forms, 
+tags:: app, forms,
 URL::
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 - [Tally.so forms](http://www.tally.so)
 -

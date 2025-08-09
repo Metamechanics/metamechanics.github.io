@@ -1,10 +1,10 @@
 alias::
-author:: [[John Barrow]], [[Frank Tipler]] 
-publication-year::
-tags:: book, reference, #[[Anthropic Principle]], #[[Anthropic Cosmological Principle]]
-project:: #AMT
-question::
-public:: true
+author:: [[John Barrow]], [[Frank Tipler]]
+year::
+tags:: book, #[[Anthropic Principle]], #[[Anthropic Cosmological Principle]]
+rel-projects:: #AMT
+
+
 
 - [[Anthropic Cosmological Principle]]
 -

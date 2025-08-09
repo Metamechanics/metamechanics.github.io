@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[psychologist]] 
 fields:: #trauma 
-publications-productions:: 
+creations:: 
 tags:: person, #9-11,  
-project::
-public:: true
+rel-projects::
+
 
 - [Psychologists Explain 911 Denial - YouTube](https://www.youtube.com/watch?v=pGbEJ3pXwWM) #9-11 #denial #toSummarise #toTranscribe
 -

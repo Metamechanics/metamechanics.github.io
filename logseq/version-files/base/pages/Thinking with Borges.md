@@ -1,9 +1,9 @@
 alias::
 author::
-publication-year::
-tags:: book, reference, [[Jorgue Luis Borges]] 
-project:: 
-public:: true
+year::
+tags:: book, [[Jorgue Luis Borges]]
+rel-projects::
+
 
 - [[Jorgue Luis Borges]]
 -

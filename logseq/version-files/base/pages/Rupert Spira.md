@@ -1,14 +1,14 @@
 alias::
 URL:: https://rupertspira.com/
-organisation::
-role:: #teacher 
-fields:: #non-duality #spirituality #advaita #Sufism  
-publications-productions:: 
-country:: #UK  
+rel-org::
+role:: #teacher
+fields:: #non-duality #spirituality #advaita #Sufism
+creations::
+rel-country:: #UK
 tags:: person #[[Robert Adams]], #[[Francis Lucille]] #[[Jean Klein]], #[[Atmananda Krishna Menon]]
-project:: #InnerBeginner #AMT 
-question::
-public:: true
+rel-projects:: #InnerBeginner #AMT
+
+
 
 - [Rupert Spira](https://rupertspira.com/)
 	- About Rupert Spira

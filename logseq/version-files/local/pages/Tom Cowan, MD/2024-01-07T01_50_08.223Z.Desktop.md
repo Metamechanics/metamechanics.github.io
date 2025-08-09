@@ -1,6 +1,6 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: medical doctor
 fields:: medicine, anthroposophy
 tags:: person, medicine, author, [[Rudolf Steiner]]

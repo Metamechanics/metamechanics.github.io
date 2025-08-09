@@ -1,10 +1,10 @@
-journal::
-authors:: [[James Maxlow]] 
+rel-journal::
+author:: [[James Maxlow]]
 year::
 URL:: https://www.jamesmaxlow.com/will-science-ever-get-it-right/
-tags:: article, reference, #metascience 
-project:: [[X-Science]] 
-public:: true
+tags:: article, reference, #metascience
+rel-projects:: [[X-Science]]
+
 
 -
 - # Will Science Ever Get it Right?

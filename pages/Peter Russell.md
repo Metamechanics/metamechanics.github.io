@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.peterrussell.com/index.php
-organisation:: [[IONS]], [[Science and Non-Duality (org)]],  
-role:: [[academic]], [[independent researcher]] 
-fields:: [[consciousness]], [[physics]], [[meditation]] 
-publications-productions:: [[The White Hole in Time]], [[The Global Brain]], [[From Science to God]], [[The Primacy of Consciousness]], [[The Brain Book]], [[The Consciousness Revolution]], [[Waking Up In Time]], [[Forgiving Humanity]], [[Letting Go of Nothing]] 
-tags:: person, #keyThinker #[[Buddhism]] #physics #meditation #consciousness #toBuy 
-project:: [[X-Science]], [[AMT]], 
-public:: true
+rel-org:: [[IONS]], [[Science and Non-Duality (org)]],
+role:: [[academic]], [[independent researcher]]
+fields:: [[consciousness]], [[physics]], [[meditation]]
+creations:: [[The White Hole in Time]], [[The Global Brain]], [[From Science to God]], [[The Primacy of Consciousness]], [[The Brain Book]], [[The Consciousness Revolution]], [[Waking Up In Time]], [[Forgiving Humanity]], [[Letting Go of Nothing]]
+tags:: person, #keyThinker #[[Buddhism]] #physics #meditation #consciousness #toBuy
+rel-projects:: [[X-Science]], [[AMT]],
+
 
 - [Peter Russell - Spirit of Now - Home Page](https://www.peterrussell.com/index.php)
 - [Science and Consciousness](https://www.peterrussell.com/SCG/scg.php)

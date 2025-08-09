@@ -1,6 +1,6 @@
 alias:: EFAmisc
-tags:: #unsituated #[[Notes to Self]] #toSituate #ongoing-regular-recurring #toReview 
-project:: #EFA 
+tags:: #unsituated #[[Notes to Self]] #toSituate #ongoing-regular-recurring #toReview
+rel-projects:: #EFA
 see-also::
 
 - “Enough” = generating more/acquiring more + requiring less/relying on less

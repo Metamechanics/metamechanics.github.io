@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation:: [[Harvard University]] 
-role:: [[seeker]] 
-fields:: [[spirituality]] 
-publications-productions:: [[Be Here Now]] 
-country::
+rel-org:: [[Harvard University]]
+role:: [[seeker]]
+fields:: [[spirituality]]
+creations:: [[Be Here Now]]
+rel-country::
 tags:: person
-project:: [[Inner Beginner]] 
-public:: true
+rel-projects:: [[Inner Beginner]]
+
 
 -
 -

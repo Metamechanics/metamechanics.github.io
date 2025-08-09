@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[The Sol Foundation]], [[Harvard University]],  
+rel-org:: [[The Sol Foundation]], [[Harvard University]],
 role::
 fields::
-publications:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 - [Avi Loeb – The Sol Foundation](https://thesolfoundation.org/people/avi-loeb/)
 -

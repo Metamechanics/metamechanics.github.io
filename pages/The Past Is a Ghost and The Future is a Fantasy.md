@@ -1,15 +1,15 @@
-journal:: [[Nautil.us]] 
-authors:: [[Jim Steele]] 
+rel-journal:: [[Nautil.us]]
+author:: [[Jim Steele]]
 year::
 URL::
-tags:: article #time 
-project::
-question::
-public:: true
+tags:: article #time
+rel-projects::
+
+
 
 -
 - # The Past Is a Ghost and the Future a Fantasy
-  
+
   This revelation allows us to live more fully
 - It’s strange how your brain can fool you—and how something small, some offhand detail, can shake your confidence in the way you remember your own life.
 - For years, I told the story of the dalmatian we had when I was a kid. A beautiful white dog with black spots, full of energy, tearing through the backyard, digging up the garden with a kind of reckless joy. That’s why we had to give him away. The dog just wouldn’t stop digging. It became one of those quick, emotional stories I carried with me—a flash of childhood, a symbol of something fleeting and unfinished.
@@ -29,7 +29,7 @@ public:: true
 - And yet it is that small “now” in which all reality resides. It is in the present that we touch, that we breathe, that we think. It is in the present that a child laughs, that a truth is spoken, that an idea is born. The past is gone. The future is not yet. But the present—the only time we can act—is ours.
 - It is astonishing that this insight, as modern as quantum physics, is also as ancient as the Upanishads. “Yesterday is but a dream,” the Sanskrit poets wrote, “and tomorrow is only a vision. But today well-lived makes every yesterday a dream of happiness and every tomorrow a vision of hope.”
 - Yet we struggle to inhabit this now. The mind resists it. The self—our sense of self—is itself a construction stretched across time. It is a narrative, told in chapters and revisions, that gives coherence to the moment. But it too is fiction. There is no continuous “I” moving through time, only a series of selves, each suspended in its own present, like beads on a string.
-  
+
   This is not a cause for despair. It is a call to freedom.
 - The most dangerous lies are those we tell ourselves without knowing. But the most powerful truths are those we create with intention. [Narrative therapy](https://nautil.us/we-can-be-heroes-463756/) teaches patients to reframe their history. Nations, too, are beginning to [reframe their myths](https://nautil.us/the-power-of-narrative-238456/)—to tell more inclusive stories, more honest ones. These are acts not of deception but of liberation.
 - The historian Eric Hobsbawm once remarked that many traditions are “invented”—not discovered but composed. And yet they give us meaning. The same is true of memory, and of hope. They are not scaffolds of iron but sculptures of clay.

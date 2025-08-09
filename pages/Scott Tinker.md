@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[Tinker Energy Associates]], [[Alliance for Responsible Citizenship]] 
+rel-org:: [[Tinker Energy Associates]], [[Alliance for Responsible Citizenship]] 
 role::
 fields:: [[energy studies]] [[geology]]  
-publications-productions:: 
+creations:: 
 tags:: person, #keyThinker 
-project:: [[Global Effort]] 
-public:: true
+rel-projects:: [[Global Effort]] 
+
 - [WATCH: An Honest & Sensible Conversation about Global Energy | Scott Tinker - YouTube](https://www.youtube.com/watch?v=aTfwqvNuk44)
 -

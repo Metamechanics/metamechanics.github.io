@@ -1,11 +1,11 @@
-alias:: [[Maslow, Abraham]] 
+alias:: [[Maslow, Abraham]]
 URL::
-organisation::
+rel-org::
 role::
-fields:: #psychology  
-publications-productions:: [[Maslow's hierarchy of needs]] 
+fields:: #psychology
+creations:: [[Maslow's hierarchy of needs]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

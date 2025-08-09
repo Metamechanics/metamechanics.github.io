@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #astronomy 
-publications-productions:: 
-country:: 
+fields:: #astronomy
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - It is not matter that generates thought, it is thought that generates matter. #quote Giordano Bruno
 -

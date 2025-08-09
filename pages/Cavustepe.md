@@ -1,10 +1,10 @@
 alias:: Haykaberd, Fortress of Hayk, Çavuştepe
-tags:: #Urartu #[[Lake Van civilization]] #Hayk 
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
-nearest-town:: #Van 
+tags:: #Urartu #[[Lake Van civilization]] #Hayk
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: #Van
 map-url::
 
 -

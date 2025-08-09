@@ -1,6 +1,6 @@
 alias::
 tags:: #[[software development]] #coding #app #AI #no-code-low-code 
-project:: [[WADS]], [[WADS study]], [[WADS portfolio]] 
+rel-projects:: [[WADS]], [[WADS study]], [[WADS portfolio]] 
 see-also::
 
 -

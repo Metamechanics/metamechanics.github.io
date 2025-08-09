@@ -1,9 +1,9 @@
 alias::
-Creators:: [[Wachowski siblings]] 
+creators:: [[Wachowski siblings]]
 year::
 URL::
 tags:: movie
-project:: [[AMT]], [[Inner Beginner]] 
-public:: true
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
 
 -

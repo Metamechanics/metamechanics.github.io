@@ -1,9 +1,9 @@
 alias::
-tags:: app, 
+tags:: app,
 URL::
-similar-to:: #FreeCodeCamp  
-purpose:: learn to code 
-project:: [[WADS study]]
+see-also:: #FreeCodeCamp
+purpose:: learn to code
+rel-projects:: [[WADS study]]
 
 - Data Analystics
 - Python

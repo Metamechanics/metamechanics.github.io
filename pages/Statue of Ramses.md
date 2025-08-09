@@ -1,7 +1,7 @@
 alias::
 tags:: #[[Ramses II]]
-place::
-country::
+location::
+rel-country::
 place-type::
 nearest-town:: #[[Memphis (Egypt)]]
 map-url::

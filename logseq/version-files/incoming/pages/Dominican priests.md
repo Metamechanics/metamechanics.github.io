@@ -2,9 +2,9 @@ alias:: Dominican priesthood
 URL::
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation, #Christianity 
-project::
-public:: true
+rel-projects::
+
 -
 -

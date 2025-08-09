@@ -1,9 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://www.blaze.ai/
-similar-to::
-purpose:: #marketing #brand 
-project:: #[[The Metamechanic]]
-
+see-also::
+purpose:: #marketing #brand
+rel-projects:: #[[The Metamechanic]]
 - [Blaze | The AI Tool for Teams of One](https://www.blaze.ai/)
 -

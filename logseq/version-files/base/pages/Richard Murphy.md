@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #[[political economics]] #economics #accounting  
-publications-productions:: 
-country::
+fields:: #[[political economics]] #economics #accounting
+creations::
+rel-country::
 tags:: person
-project:: [[EFA]] 
-question::
-public:: true
+rel-projects:: [[EFA]]
+
+
 
 - [Richard J Murphy - YouTube](https://www.youtube.com/@RichardJMurphy)
 - [Richard Murphy on developing a fairer and sustainable economy](https://www.taxresearch.org.uk/Blog/)

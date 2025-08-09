@@ -1,6 +1,6 @@
 alias::
 tags:: #Jesus 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also:: [[The Resurrection of the Son of God]]
 
 -

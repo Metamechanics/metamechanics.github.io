@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project::
+  rel-projects::
   see-also::
 - Why am I doing The Metamechanic?
 - Why do I want to be a Metamechanic?

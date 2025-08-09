@@ -2,10 +2,10 @@ alias::
 URL:: https://globalprioritiesinstitute.org/
 org-type::
 people::
-publications:: 
+creations::
 tags:: organisation
-project:: EFA, #Metamechanica 
-public:: true
+rel-projects:: EFA, #Metamechanica
+
 
 - [Global Priorities Institute - Global Priorities Institute](https://globalprioritiesinstitute.org/)
 - [Papers - Global Priorities Institute](https://globalprioritiesinstitute.org/papers/)

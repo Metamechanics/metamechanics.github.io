@@ -3,8 +3,8 @@ person:: [[Buster Benson]]
 year:: 2016
 url:: https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18
 tags:: blog, reference, #bias #[[cognitive bias]] #[[critical thinking]] #[[logical fallacy]] 
-project:: [[FACTs 4CT]] #DiaGnosis #X-Science 
-public:: true
+rel-projects:: [[FACTs 4CT]] #DiaGnosis #X-Science 
+
 
 -
 - ## An organized list of cognitive biases because thinking is hard.

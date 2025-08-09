@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project:: [[Waking Up From Woke]] 
-public:: true
+rel-projects:: [[Waking Up From Woke]]
+
 
 - [Camille Paglia Predicts Cultural Crisis - YouTube](https://www.youtube.com/watch?v=NJMD2rBuZtE)
 -

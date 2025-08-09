@@ -1,11 +1,11 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 -
 - [Sakai’s List of Japanese Pyramids | Okunomichi](https://okunomichi.wordpress.com/2013/06/29/sakais-pyramid-list/)
 - "Pyramids of Primeval Japan" (only available in Japanese) was written by Katsutoki Sakai and published in 1934.

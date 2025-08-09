@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: [[AMT]]
+rel-projects:: [[AMT]]
 see-also::
 
 - Moebius strip

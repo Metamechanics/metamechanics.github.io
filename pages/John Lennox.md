@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.johnlennox.org/
-organisation:: [[University of Oxford]] 
+rel-org:: [[University of Oxford]]
 role::
-fields:: [[mathematics]], [[Christianity]] 
-publications-productions:: 
-tags:: person, #keyThinker #Christian #apologetics #mathematics 
-project:: [[AMT]]
-public:: true
+fields:: [[mathematics]], [[Christianity]]
+creations::
+tags:: person, #keyThinker #Christian #apologetics #mathematics
+rel-projects:: [[AMT]]
+
 
 - [Home page - John Lennox](https://www.johnlennox.org/)
 -

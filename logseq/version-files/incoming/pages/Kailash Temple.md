@@ -1,9 +1,9 @@
 alias:: Kailasa Temple
 tags::
-place:: [[Ellora Caves]] in [[Maharashtra]] 
-country:: #India 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
-nearest-town:: 
+location:: [[Ellora Caves]] in [[Maharashtra]]
+rel-country:: #India
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
+nearest-town::
 map-url::
 
 - largest megalithic rock excavation in the world

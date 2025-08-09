@@ -1,8 +1,8 @@
 alias::
 tags::
 person:: [[Paul Salopek]] 
-project:: [[Adam's Atlas]],  
-organisation:: [[National Geographic]] 
+rel-projects:: [[Adam's Atlas]],  
+rel-org:: [[National Geographic]] 
 see-also::
 
 -

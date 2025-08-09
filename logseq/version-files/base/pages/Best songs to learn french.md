@@ -1,6 +1,6 @@
 alias::
 tags:: #French #[[LOTE study]]
-project::
+rel-projects::
 
 - [Best songs to learn French - playlist by Listen&Learn Ok | Spotify](https://open.spotify.com/playlist/1NDzzdtNXWDFpga2act3KB)
 - [[Derniere Danse]] by [[Indila]]

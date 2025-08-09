@@ -2,9 +2,9 @@ alias::
 URL::
 org-type:: #business 
 people:: [[Patrica Awyan Lehmann]] 
-publications:: 
+creations:: 
 tags:: organisation, Egypt, tours, workshops
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 -

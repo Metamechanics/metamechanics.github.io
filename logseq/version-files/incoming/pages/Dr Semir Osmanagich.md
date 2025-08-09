@@ -1,12 +1,12 @@
 alias::
 URL:: http://semirosmanagic.com/en/bosnian_pyramid.html
-organisation::
+rel-org::
 role:: #[[independent researcher]] 
 fields:: [[pre-diluvian civilization]] 
-publications:: 
+creations:: 
 tags:: person, #pyramids 
-project:: [[FRESH]] 
-public:: true
+rel-projects:: [[FRESH]] 
+
 - #pyramids #Bosnia
 - [BosnianPyramidsTV - YouTube](https://www.youtube.com/@bosanske.piramide)
 - [Sam Semir Osmanagich](http://semirosmanagic.com/en/bosnian_pyramid.html)

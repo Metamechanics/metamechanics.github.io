@@ -1,13 +1,13 @@
 alias:: Schrodinger
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[What is Life? (book)]], [[Mind and Matter (book)]] 
-country::
+creations:: [[What is Life? (book)]], [[Mind and Matter (book)]]
+rel-country::
 tags:: person
-project:: #AMT #X-Science 
-question::
-public:: true
+rel-projects:: #AMT #X-Science
+
+
 
 -

@@ -2,7 +2,7 @@ alias:: LSRF
 URL::
 org-type::
 people:: [[Ram Dass]], [[Mirabai Bush]] 
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+

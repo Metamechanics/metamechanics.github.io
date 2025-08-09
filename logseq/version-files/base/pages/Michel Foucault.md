@@ -1,11 +1,11 @@
 alias:: Foucault
 URL::
-organisation::
+rel-org::
 role:: #philosopher 
 fields:: 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

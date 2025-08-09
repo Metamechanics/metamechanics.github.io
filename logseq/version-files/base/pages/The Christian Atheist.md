@@ -3,6 +3,6 @@
   year::
   URL::
   tags:: podcast, vodcast
-  project::
-  public:: true
+  rel-projects::
+  
 -

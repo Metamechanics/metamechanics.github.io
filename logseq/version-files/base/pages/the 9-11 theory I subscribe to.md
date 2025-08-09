@@ -1,9 +1,9 @@
 alias::
-tags:: theory, #9-11 
+tags:: theory, #9-11
 domain::
 people::
-related-to::
-project:: #FACTs #[[Ultimate Conspiracy. Ultimate Innovation.]] 
-public:: true
+see-also::
+rel-projects:: #FACTs #[[Ultimate Conspiracy. Ultimate Innovation.]]
+
 
 -

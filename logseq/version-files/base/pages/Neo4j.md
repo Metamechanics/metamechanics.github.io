@@ -1,9 +1,9 @@
 alias:: neo4j
-tags:: app, software
+tags:: app
 URL::
-similar-to::
-purpose:: #[[graph database]] 
-project:: #DiaGnosis
+see-also::
+purpose:: #[[graph database]]
+rel-projects:: #DiaGnosis
 - [[Neo4j]] project - Book database
   		Book database. Or Cloud Atlas character relationship network. Incorporate objects eg. diary/journal, gem, issues: nuclear/oil, slavery, religion,
   		Goal is to create Energy Futures database, [[DiaGnosis]] and PKB

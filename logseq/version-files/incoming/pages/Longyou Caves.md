@@ -1,11 +1,11 @@
 alias::
-tags:: #cave #[[underground city]] 
-place::
-country:: #China 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
-nearest-town:: #Xiuning 
+tags:: #cave #[[underground city]]
+location::
+rel-country:: #China
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: #Xiuning
 map-url::
-
 - 24 caves
 -
 - no evidence of removed, excavated rubble around the site (millions of tonnes)

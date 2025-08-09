@@ -1,12 +1,12 @@
 alias:: Cremo
 URL:: https://www.mcremo.com/
-organisation::
-role:: [[independent researcher]] 
-fields:: [[alternative history]], [[Vedic History]], #[[alternative archaeology]] 
-publications:: [[Forbidden Archaeology]], [[The Disinformation Guide to Ancient Aliens, Lost Civilizations, Astonishing Archaeology and Hidden History]] 
-tags:: person, [[suppressed and forbidden technologies]], [[Vedas]], [[ISKCON]] 
-project:: #[[Fresh Alternatives]] 
-public:: true
+rel-org::
+role:: [[independent researcher]]
+fields:: [[alternative history]], [[Vedic History]], #[[alternative archaeology]]
+creations:: [[Forbidden Archaeology]], [[The Disinformation Guide to Ancient Aliens, Lost Civilizations, Astonishing Archaeology and Hidden History]]
+tags:: person, [[suppressed and forbidden technologies]], [[Vedas]], [[ISKCON]]
+rel-projects:: #[[Fresh Alternatives]]
+
 - Forbidden and alternative history, evolution
 - Vedic creationist
 - #[[alternative archaeology]]

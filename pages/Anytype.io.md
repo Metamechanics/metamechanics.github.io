@@ -1,8 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to:: [[Notion App]], [[Capacities.io]], [[Tana]], [[Affine]] 
+see-also:: [[Notion App]], [[Capacities.io]], [[Tana]], [[Affine]]
 purpose::
-project:: [[Metamechanic Mycelium]]
+rel-projects:: [[Metamechanic Mycelium]]
 
 -

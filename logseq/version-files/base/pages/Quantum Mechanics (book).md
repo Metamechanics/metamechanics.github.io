@@ -1,8 +1,8 @@
 alias::
-author:: [[Jim Al-Khalili]] 
-publication-year::
-tags:: book, reference, [[quantum mechanics]] 
-project:: #AMT #Metamechanica #X-Science 
-public:: true
+author:: [[Jim Al-Khalili]]
+year::
+tags:: book, [[quantum mechanics]]
+rel-projects:: #AMT #Metamechanica #X-Science
+
 
 -

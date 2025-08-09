@@ -1,7 +1,7 @@
 alias:: Lion City, China's Atlantis
-tags:: #place #underwater  
-country:: [[China]] 
-place-type:: #[[ancient site]]  
+tags:: #place #underwater
+rel-country:: [[China]]
+place-type:: #[[ancient site]]
 nearest-town:: [[Qiandao Lake]] #[[Zhejiang province]]
 map-url::
 

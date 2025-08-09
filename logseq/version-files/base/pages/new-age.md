@@ -1,5 +1,5 @@
 alias:: new age
 tags::
-project::
+rel-projects::
 
 -

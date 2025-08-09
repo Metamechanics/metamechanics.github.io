@@ -1,8 +1,8 @@
 alias::
-author:: [[Kenneth Ring]] 
-publication-year::
-tags:: book, reference, #NDEs 
-project:: 
-public:: true
+author:: [[Kenneth Ring]]
+year::
+tags:: book, #NDEs
+rel-projects::
+
 
 -

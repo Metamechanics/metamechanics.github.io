@@ -1,7 +1,7 @@
 alias::
 tags::
-place:: Jilin province
-country:: #China 
+location:: Jilin province
+rel-country:: #China
 place-type::
 nearest-town:: Ji'an
 map-url::

@@ -2,9 +2,9 @@ alias:: Stanford
 URL::
 org-type:: [[university]], [[academia]] 
 people::
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 -
 -

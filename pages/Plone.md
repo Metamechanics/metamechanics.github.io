@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[Content Management System]] 
+tags:: app, #[[Content Management System]]
 URL::
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 -
 -

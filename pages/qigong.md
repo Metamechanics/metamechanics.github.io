@@ -1,6 +1,6 @@
 alias:: Qi Gong
 tags::
-project::
+rel-projects::
 people:: [[Lu Zijian]] 
 see-also::
 

@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[archaeoastronomy]] 
-publications-productions:: [[The Sun and Moon Events the Ancients Witnessed - A Method to Age Ancient Monuments]] 
-country:: 
+fields:: [[archaeoastronomy]]
+creations:: [[The Sun and Moon Events the Ancients Witnessed - A Method to Age Ancient Monuments]]
+rel-country::
 tags:: person
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
+
 
 - [[Ancient Astronomy Events at Teotihuacan]]
 -

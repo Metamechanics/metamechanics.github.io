@@ -1,14 +1,14 @@
 alias:: Akenaton, Akenaten, Akhenaten
 URL::
-organisation::
-role:: #pharoah 
+rel-org::
+role:: #pharoah
 fields:: #[[monotheism]] #[[Ancient Egypt]]
-publications-productions:: 
-country:: #Egypt 
+creations::
+rel-country:: #Egypt
 tags:: person,
-project:: #[[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: #[[Adam's Atlas]]
+
+
 
 - [[Nefertari]] or was it [[Nefertiti]] his wife?
 -

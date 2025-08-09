@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation:: 
+rel-org:: 
 role:: #[[medical doctor]] 
 fields:: [[anasthesia]], [[consciousness]] 
-publications-productions:: 
-country:: #USA 
+creations:: 
+rel-country:: #USA 
 tags:: person
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT  
+
+
 
 -
 - Studying anasthetics to understand consciousness

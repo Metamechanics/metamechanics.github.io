@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #blogger 
 fields:: #PKM 
-publications-productions:: 
+creations:: 
 tags:: person #[[Medium (blog)]], #Logseq, #Tana 
-project:: #DiaGnosis 
-public:: true
+rel-projects:: #DiaGnosis 
+
 - [Ed Nico – Medium](https://ednico.medium.com/)
 -

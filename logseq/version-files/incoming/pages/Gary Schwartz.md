@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation:: University of Arizona
+rel-org:: University of Arizona
 role:: academic
-fields:: 
+fields::
 tags:: person
-project::
+rel-projects::
 - Changes in personality with memories after heart transplant
 -

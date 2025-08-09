@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #megalith #[[ancient civilization]] #keyThinker 
-project:: #freshAlts 
-public:: true
+rel-projects:: #freshAlts 
+
 - see also: Mario Buildreps
 -

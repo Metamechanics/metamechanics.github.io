@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation:: [[Fundamental Fysiks Group]] 
-role:: 
-fields:: [[quantum physics]], [[consciousness]] 
-publications-productions:: [[Space-Time and Beyond]] 
-country::
+rel-org:: [[Fundamental Fysiks Group]]
+role::
+fields:: [[quantum physics]], [[consciousness]]
+creations:: [[Space-Time and Beyond]]
+rel-country::
 tags:: person
-project:: [[AMT]], [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[AMT]], [[X-Science]]
+
+
 
 -
 -

@@ -1,12 +1,12 @@
 alias::
 URL:: https://linktr.ee/archaeologytube
-organisation::
+rel-org::
 role:: [[academic]] 
 fields:: #archaeology  
-publications-productions:: 
+creations:: 
 tags:: person #debunking #orthodoxy #skeptic 
-project::
-public:: true
+rel-projects::
+
 
 - [archaeologytube | Twitter, Instagram, Facebook, TikTok | Linktree](https://linktr.ee/archaeologytube)
 - [Archaeology Tube - YouTube](https://www.youtube.com/channel/UC07CjzGSWgY5lAdWZd_Ambw)

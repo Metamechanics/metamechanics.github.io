@@ -1,8 +1,8 @@
 alias::
-author:: [[Caroline Myss]] 
-publication-year::
-tags:: book, reference, #[[new-age]] #[[psychological resistance]] #woundology #healing 
-project:: [[AMT]]
-question::
-public:: true
+author:: [[Caroline Myss]]
+year::
+tags:: book, #[[new-age]] #[[psychological resistance]] #woundology #healing
+rel-projects:: [[AMT]]
+
+
 -

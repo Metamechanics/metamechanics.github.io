@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #academic 
 fields:: #geology #pre-history 
-publications:: 
+creations:: 
 tags:: person #unorthodoxy #[[Bering Strait]]
-project::
-public:: true
+rel-projects::
+
 -

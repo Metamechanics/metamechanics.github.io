@@ -1,6 +1,6 @@
 alias:: white articles
 tags::
-project::
+rel-projects::
 
 - an article/blog version of white paper
 - [White Paper: Types, Purpose, and How to Write One](https://www.investopedia.com/terms/w/whitepaper.asp)

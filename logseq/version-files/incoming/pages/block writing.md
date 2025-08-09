@@ -1,6 +1,6 @@
 alias:: block argumentation, holon writing, transclusion writing
 tags:: #transclusion #stretchtext #argumentation #holon #lego 
-project:: #DiaGnosis #[[Logseq writing method]]
+rel-projects:: #DiaGnosis #[[Logseq writing method]]
 see-also:: #[[folded writing]] #[[TL;DR writing]] #[[accordion text]] #[[argument mapping]] #[[Block Protocol]] #hash-ai
 -
 - like building blocks eg. #lego , but not necessarily in a physical/literal sense; instead in a conceptual sense

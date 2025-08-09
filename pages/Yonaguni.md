@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: [[Japan]] 
-place-type:: #pyramid #temple #underwater 
-nearest-town:: [[Ryukyu Islands]] 
+location::
+rel-country:: [[Japan]]
+place-type:: #pyramid #temple #underwater
+nearest-town:: [[Ryukyu Islands]]
 map-url::
 
 -

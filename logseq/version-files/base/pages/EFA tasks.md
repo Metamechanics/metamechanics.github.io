@@ -1,6 +1,6 @@
 alias:: EFAtask
 tags::
-project:: #EFA
+rel-projects:: #EFA
 
 - {{query (and "EFA" (task DOING))}}
 - {{query (and "EFA" (task TODO))}}

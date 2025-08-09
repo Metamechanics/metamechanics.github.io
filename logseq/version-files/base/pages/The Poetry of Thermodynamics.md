@@ -1,8 +1,8 @@
-journal:: [[Futures (journal)]] 
-authors:: [[Jerome Ravetz]] 
+rel-journal:: [[Futures (journal)]]
+author:: [[Jerome Ravetz]]
 year:: 1999
-URL:: 
-tags:: article, reference, #thermodynamics, #toSummarise 
-project:: [[MacroEnergetics]] 
-public:: true
+URL::
+tags:: article, reference, #thermodynamics, #toSummarise
+rel-projects:: [[MacroEnergetics]]
+
 -

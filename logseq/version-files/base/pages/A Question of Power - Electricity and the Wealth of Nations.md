@@ -1,9 +1,9 @@
 alias::
-author:: [[Robert Bryce]] 
-publication-year::
-tags:: book, reference, electricity, poverty, economics
-project:: [[Global Effort]], [[MacroEnergetics]] 
-public:: true
+author:: [[Robert Bryce]]
+year::
+tags:: book, electricity, poverty, economics
+rel-projects:: [[Global Effort]], [[MacroEnergetics]]
+
 
 -
 -

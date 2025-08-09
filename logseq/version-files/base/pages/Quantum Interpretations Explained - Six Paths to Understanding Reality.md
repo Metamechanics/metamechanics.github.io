@@ -3,9 +3,9 @@ creators::
 year::
 URL:: https://www.youtube.com/watch?v=7YRZey-UCvo
 tags:: video, #YouTube #toWatch #[[quantum mechanics]] #interpretation 
-project:: [[AMT]], [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[AMT]], [[X-Science]] 
+
+
 - [Quantum Interpretations Explained: Six Paths to Understanding Reality - YouTube](https://www.youtube.com/watch?v=7YRZey-UCvo)
 -
 - [[Copenhagen interpretation]]

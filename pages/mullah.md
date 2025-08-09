@@ -1,6 +1,6 @@
 alias:: mullahs
 tags:: #Islam 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also::
 
 -

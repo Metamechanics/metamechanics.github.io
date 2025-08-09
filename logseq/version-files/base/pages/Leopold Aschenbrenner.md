@@ -1,11 +1,19 @@
 alias::
 URL::
-organisation:: [[OpenAI]], [[Global Priorities Institute]] 
-role:: 
-fields:: [[AI]] 
-publications-productions:: 
+rel-org:: [[OpenAI]], [[Global Priorities Institute]]
+role::
+fields:: [[AI]]
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
+alias::
+URL::
+rel-org:: [[OpenAI]], [[Global Priorities Institute]]
+role::
+fields:: [[AI]]
+creations::
+tags:: person
+rel-projects::
 
 -

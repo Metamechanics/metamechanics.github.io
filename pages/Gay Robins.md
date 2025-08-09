@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[academic]] 
 fields:: [[archaeology]], [[Egyptology]] 
-publications-productions:: [[The Physical Proportions and Living Stature of New Kingdom Pharoahs]], [[Predynastic Egyptian Stature and Physical Proportions]] 
+creations:: [[The Physical Proportions and Living Stature of New Kingdom Pharoahs]], [[Predynastic Egyptian Stature and Physical Proportions]] 
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 -

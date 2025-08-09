@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: [[Japan]] 
-place-type:: #megalith 
-nearest-town:: [[Asuka]], [[Nara]] 
+location::
+rel-country:: [[Japan]]
+place-type:: #megalith
+nearest-town:: [[Asuka]], [[Nara]]
 map-url::
 
 - #granite

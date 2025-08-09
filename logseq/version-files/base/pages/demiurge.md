@@ -1,10 +1,10 @@
 alias::
-tags:: concept, #Gnosticism 
-domain:: #religion #spirituality 
-people:: #Valentinus 
-related-to::
-project::
-public:: true
+tags:: concept, #Gnosticism
+domain:: #religion #spirituality
+people:: #Valentinus
+see-also::
+rel-projects::
+
 
 - another name for the ego
 -

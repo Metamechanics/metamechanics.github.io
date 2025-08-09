@@ -1,9 +1,9 @@
 alias::
-author:: [[Ammon Hillman]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Ammon Hillman]]
+year::
+tags:: book
+rel-projects::
+
 
 - drug-induced child rape in antiquity and early Christianity
 -

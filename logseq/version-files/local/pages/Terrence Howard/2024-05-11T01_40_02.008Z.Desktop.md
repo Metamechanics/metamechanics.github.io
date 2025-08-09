@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #actor #[[independent researcher]] 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person #[[DNA frequencies]] #[[Flower of Life]] 
-project::
-public:: true
+rel-projects::
+
 
 -
 - [Is Joe Rogan Confirming Terrence Howard's Theories? "He Is A Legitimate Genius" - YouTube](https://www.youtube.com/watch?v=Y6dDAD2bLXk)

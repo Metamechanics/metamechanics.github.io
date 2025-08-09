@@ -1,6 +1,6 @@
 alias::
 tags:: #schema 
-project:: [[Metamechanic Mycelium]], [[allProjects]] 
+rel-projects:: [[Metamechanic Mycelium]], [[allProjects]] 
 see-also:: [[metamechanica tag taxonomy]]
 
 -

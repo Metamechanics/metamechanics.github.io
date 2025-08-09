@@ -1,7 +1,7 @@
 alias::
 tags:: [[ACIM 4T]] 
 url:: 
-project:: [[WADS]], [[WADS study]] 
+rel-projects:: [[WADS]], [[WADS study]] 
 see-also:: [[ACIM OCR text scraping]]
 
 -

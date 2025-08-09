@@ -1,8 +1,8 @@
 alias::
-tags:: #megalith 
-place:: #Siberia 
-country:: #Russia 
-place-type:: #megalith 
+tags:: #megalith
+location:: #Siberia
+rel-country:: #Russia
+place-type:: #megalith
 nearest-town::
 map-url::
 

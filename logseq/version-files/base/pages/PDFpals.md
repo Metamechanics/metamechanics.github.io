@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #AI #toSummarise 
+tags:: app, #AI #toSummarise
 URL::
-similar-to::
+see-also::
 purpose:: summarise PDFs using ChatGPT
-project:: #workflow
+rel-projects:: #workflow
 
 -
 - SetApp access limited by tokens/license

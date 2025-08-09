@@ -1,10 +1,10 @@
-parent-book:: [[Scrutinizing Science - Empirical Studies of Scientific Change]] 
-authors:: [[Laudan]] 
+parent-book:: [[Scrutinizing Science - Empirical Studies of Scientific Change]]
+author:: [[Laudan]]
 year::
 URL::
-tags:: article, reference, [[progress in science]] 
-project:: [[X-Science]], [[metascience]] 
-public:: true
+tags:: article, reference, [[progress in science]]
+rel-projects:: [[X-Science]], [[metascience]]
+
 
 -
 - Post-positivist scholars (Kuhn, [[Lakatos]], Laudan) question this. Laudan, Laudan and Donovan (1988) have proposed seven theses regarding how scientists react to anomalies:

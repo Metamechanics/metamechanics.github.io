@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[I am That (book)]] 
+creations:: [[I am That (book)]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

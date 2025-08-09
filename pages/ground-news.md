@@ -1,8 +1,6 @@
 alias::
 URL::
-organisation:: 
+rel-org::
 year-commenced::
-tags:: website #news #inspiration  
-project:: [[Behind, Below, Beyond]] 
-question::
-public:: true
+tags:: website #news #inspiration
+rel-projects:: [[Behind, Below, Beyond]]

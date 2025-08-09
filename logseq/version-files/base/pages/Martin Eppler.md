@@ -1,12 +1,12 @@
 alias:: Prof Dr Martin J Eppler
 URL:: https://www.visual-literacy.org/
-organisation:: [[visual-literacy.org]], [[University of St Gallen]] 
+rel-org:: [[visual-literacy.org]], [[University of St Gallen]] 
 role:: [[academic]], [[consultant]] 
 fields:: [[data visualization]], [[communications management]] 
-publications-productions:: 
+creations:: 
 tags:: person, #collaborator #keyThinker 
-project:: #DiaGnosis #EFA  
-public:: true
+rel-projects:: #DiaGnosis #EFA  
+
 
 - [About us | Visual Literacy](https://www.visual-literacy.org/about-us/)
 -

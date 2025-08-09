@@ -1,14 +1,14 @@
 alias:: Wes Huff
 URL:: https://www.wesleyhuff.com/
-organisation::
-role:: #apologist 
+rel-org::
+role:: #apologist
 fields:: [[Christianity]], #Apocrypha #Bible #history [[Bible history]] #[[extracanonical Gospels]]
-publications-productions:: 
-country:: #usa 
-tags:: person, #keyResource #Jesus  
-project:: #AMT #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+creations::
+rel-country:: #usa
+tags:: person, #keyResource #Jesus
+rel-projects:: #AMT #[[Babies, Bibles and Bathwater]]
+
+
 
 -
 - smack down of [[Billy Carson]]

@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[computer programmer]] 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - https://medium.com/neo4j/editing-data-in-neo4j-graphs-doesnt-have-to-be-hard-8e9791c731bc
 -

@@ -1,10 +1,11 @@
 alias::
 URL:: https://www.youtube.com/@Pangburn
-organisation::
+rel-org::
 year-commenced::
-tags:: website, video, #YouTube #religion #atheism #[[Intelligent Design]] #keyThinkers 
-project:: [[AMT]] 
-public:: true
+tags:: website, video, #YouTube #religion #atheism #[[Intelligent Design]] #keyThinkers
+rel-projects:: [[AMT]]
+
 
 - [Pangburn - YouTube](https://www.youtube.com/@Pangburn)
+-
 -

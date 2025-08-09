@@ -1,9 +1,9 @@
 alias::
-author:: [[Ernest Holmes]] 
-publication-year::
-tags:: book, reference
-project:: 
-question::
-public:: true
+author:: [[Ernest Holmes]]
+year::
+tags:: book
+rel-projects::
+
+
 
 -

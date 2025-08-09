@@ -1,9 +1,9 @@
 alias:: Haramein
 URL::
-organisation:: [[Resonance Science Foundation]] 
-role:: [[independent researcher]] 
-fields:: [[Holofractal Theory]] 
+rel-org:: [[Resonance Science Foundation]]
+role:: [[independent researcher]]
+fields:: [[Holofractal Theory]]
 tags:: person
-project:: [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[Fresh Alternatives]]
+
 -

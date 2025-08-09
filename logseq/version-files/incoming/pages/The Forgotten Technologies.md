@@ -1,8 +1,7 @@
 alias::
 tags:: #[[My Books]] #toWrite #myCreation #Metamechanica #toProcess
-project::
+rel-projects::
 see-also::
-
 -
 - thesis: [[Everything is technology]]
 - Definitions of "technology"
@@ -61,7 +60,7 @@ see-also::
   All traditions speak of a “Heaven” of sorts. That Heaven must exist now. So where is it?Is not Time now for the “getting to” Heaven? And everything within that Time is FOR the return of Heaven.
 - The Body as Technology.
   Look at our physical body as “God’s Technology”. That is, our physical bodies (& even perhaps our emotional bodies, mental...etc) are tools designed by X (God, devil, “seven source templates”, whatever.) Therefore, we can look at our bodies as tools/tech that we can then modify (to varying degrees, depths + levels). In fact, we already do!! (cosmetic surgery, ge, radiation, our actual choice of partner.)
-  “The Future of the Body”, Michael Murphy. Exhaustive catalogue of bodily + mental powers enabled through sport or spiritual practice, or natural endowment.
+  “ [[The Future of the Body]] ”, Michael Murphy. Exhaustive catalogue of bodily + mental powers enabled through sport or spiritual practice, or natural endowment.
 - Money as Technology.
   A tool to enable...X. X is our choice. Money (&financial systems), not some unknown and unknowable mechanism/organism. It is tech that we, as a society, over time, created, modified & adopted. It is not “a given”, at whose mercy we are under. It is our slave. We should not be its.
 - Weather as “Technology”

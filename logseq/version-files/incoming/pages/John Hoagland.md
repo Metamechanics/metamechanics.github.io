@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
+creations:: 
 tags:: person, [[Mars]],  
-project::
-public:: true
+rel-projects::
+
 - [[the face on Mars]]
 - [[pyramids on Mars]]
 -

@@ -1,9 +1,9 @@
 alias::
-Creators::
+creators::
 year::
 URL::
 tags:: movie
-project:: [[FACTs 4CT]] 
-public:: true
+rel-projects:: [[FACTs 4CT]]
+
 
 -

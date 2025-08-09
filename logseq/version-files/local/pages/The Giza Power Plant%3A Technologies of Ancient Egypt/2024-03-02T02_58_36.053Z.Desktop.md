@@ -1,6 +1,5 @@
 alias::
-author:: [[Chris Dunn]] 
-publication-year:: 1998
-tags:: book, reference, [[alternative technology]], [[ancient technology]] 
-project:: 
-public:: true
+author:: [[Chris Dunn]]
+year:: 1998
+tags:: book, [[alternative technology]], [[ancient technology]]
+rel-projects::

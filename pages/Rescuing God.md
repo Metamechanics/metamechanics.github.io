@@ -1,6 +1,6 @@
 alias::
 tags:: #myWriting 
-project:: #AMT #[[AMT hyperbook]] 
+rel-projects:: #AMT #[[AMT hyperbook]] 
 see-also:: [[Rescuing Science]], [[Rescuing Religion]]
 - Obviously God, by definition, does not need rescuing. However I assert that our dominant conceptions of 'God' need rescuing for our own sake. This includes uncovering the concepts of god that go implied and inferred in our systems, cultures and worldviews as well as the explicit conceptions more apparent in our mythologies and religions.
 - The image and concept of God needs to be rescued. Not for God’s sake: It is invulnerable and invincible, by definition, and knows not of attack, lack nor suffering. Neither for the sake of religion: it should not be the goal, but merely a means. Neither should the idea of God be rescued to counter-attack science: We are all on the same side and it is one attempt to seek Truth, albeit misguided at times. Rather, the image and concept of God needs to be rescued for our own sanity, our own peace of mind.

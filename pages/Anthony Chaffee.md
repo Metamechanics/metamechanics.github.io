@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: [[medical doctor]] 
+rel-org::
+role:: [[medical doctor]]
 fields::
-publications-productions:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 -

@@ -1,9 +1,9 @@
 alias:: Anthropic Principle
 tags:: concept
-domain:: [[cosmology]] 
+domain:: [[cosmology]]
 people::
-related-to::
-project:: [[AMT]] 
-public:: true
+see-also::
+rel-projects:: [[AMT]]
+
 
 -

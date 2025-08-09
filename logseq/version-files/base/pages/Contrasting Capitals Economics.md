@@ -1,8 +1,7 @@
 alias:: CCE, Two-Domain Economics, TDE, Spiral Economics
 tags:: #myIdea
-project:: #EFA
+rel-projects:: #EFA
 see-also:: [[circular economy]]
-
 - the  two-tier economics
 - Natural Capital, aka Created Capital
 - Human Capital, aka Creative Capital

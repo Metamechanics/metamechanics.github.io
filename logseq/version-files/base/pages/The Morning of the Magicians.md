@@ -1,10 +1,10 @@
 alias::
-author:: [[Louis Pauwels]] and [[Jacques Bergier]] 
-publication-year:: 1960
-tags:: book 
-project:: #[[Adam's Atlas]], #[[X-Science]] #AMT 
-question::
-public:: true
+author:: [[Louis Pauwels]] and [[Jacques Bergier]]
+year:: 1960
+tags:: book
+rel-projects:: #[[Adam's Atlas]], #[[X-Science]] #AMT
+
+
 
 - [The Morning of the Magicians - Wikipedia](https://en.wikipedia.org/wiki/The_Morning_of_the_Magicians)
 - purportedly plagiarized by [[Erich von Daniken]] for [[Chariots of the Gods]]

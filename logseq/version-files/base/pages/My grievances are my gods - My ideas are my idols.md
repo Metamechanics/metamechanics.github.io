@@ -1,8 +1,7 @@
 alias::
-Question-Problem::
-Related-pubs::
-related-project:: 
-Audience:: 
+
+rel-projects::
+Audience::
 Tags:: #toWrite #MyArticle #myCreation #[[special relationships]] #GTG #[[defence against the Truth]]
 
 -

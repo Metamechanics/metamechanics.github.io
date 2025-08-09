@@ -1,12 +1,20 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[independent researcher]], #YouTuber 
 fields:: [[alternative history]], #anthropology #Mayan #Mesoamerica #Olmec 
-publications-productions:: 
+creations:: 
 tags:: person, #[[middle ground]]
-project::
-public:: true
+rel-projects::
+
+alias::
+URL::
+rel-org::
+role:: [[independent researcher]], #YouTuber 
+fields:: [[alternative history]], #anthropology #Mayan #Mesoamerica #Olmec 
+creations:: 
+tags:: person, #[[middle ground]]
+rel-projects::
 
 - [Luke Caverns - YouTube](https://www.youtube.com/@lukecaverns)
 - [Luke Caverns - TwitterX](https://x.com/lukecaverns)

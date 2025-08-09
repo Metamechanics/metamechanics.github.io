@@ -3,8 +3,8 @@ creators:: [[Brian Dunning]]
 year::
 URL::
 tags:: documentary, [[critical thinking]], [[skepticism]], #pseudo-science, #pseudo-skepticism 
-project::
-public:: true
+rel-projects::
+
 
 - [Here Be Dragons - YouTube](https://www.youtube.com/watch?v=752V173e31o)
 -

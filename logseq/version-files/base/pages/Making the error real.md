@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #ACIM #AMT 
+rel-projects:: #ACIM #AMT 
 see-also::
 
 -

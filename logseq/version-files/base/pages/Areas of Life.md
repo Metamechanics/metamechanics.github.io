@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: [[Mission Management]] 
+rel-projects:: [[Mission Management]]
 see-also::
-
 -
 - MetaMechanic content - read
 - MetaMechanic content - write

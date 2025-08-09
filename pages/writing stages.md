@@ -1,6 +1,6 @@
 alias:: stages of writing, writing phases, phases of writing, writing status
 tags::
-project:: #workflow 
+rel-projects:: #workflow 
 see-also::
 
 -

@@ -1,11 +1,11 @@
-journal::
-authors:: [[Shared Crossing Project]], [[William Peters]] 
+rel-journal::
+author:: [[Shared Crossing Project]], [[William Peters]]
 year::
 URL::
-tags:: article, reference, #NDE #death #[[shared-death experiences]] #[[end of life]] #reincarnation 
-project:: [[Fresh Alternatives]] 
-question:: [[Is there life after death?]] 
-public:: true
+tags:: article, reference, #NDE #death #[[shared-death experiences]] #[[end of life]] #reincarnation
+rel-projects:: [[Fresh Alternatives]]
+ [[Is there life after death?]]
+
 
 - # Recommended Reading List
   The Shared Crossing Project recommends the following resources for more information on

@@ -1,14 +1,14 @@
 alias::
 URL:: https://www.miraculousliving.com/
-organisation:: 
-role:: #author 
-fields:: #ACIM 
-publications-productions:: [[The Reality of God and His Kingdom - Based on A Course in Miracles]] 
-country::
+rel-org::
+role:: #author
+fields:: #ACIM
+creations:: [[The Reality of God and His Kingdom - Based on A Course in Miracles]]
+rel-country::
 tags:: person
-project:: #AMT #ACIM4T 
-question::
-public:: true
+rel-projects:: #AMT #ACIM4T
+
+
 
 -
 - [A Course in Miracles Blog](https://www.miraculousliving.com/blogs/a-course-in-miracles-blog)

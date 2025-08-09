@@ -1,9 +1,9 @@
 alias::
-tags:: app, software [[vector database]] #database #[[generative AI]]
+tags:: app [[vector database]] #database #[[generative AI]]
 URL:: https://www.datastax.com/products/datastax-astra
-similar-to::
+see-also::
 purpose:: database for AI apps
-project:: [[Metamechanical AI]], [[ACIM accordance]] ,[[DiaGnosis]], [[ACIM-AI]]
+rel-projects:: [[Metamechanical AI]], [[ACIM accordance]] ,[[DiaGnosis]], [[ACIM-AI]]
 
 -
 -

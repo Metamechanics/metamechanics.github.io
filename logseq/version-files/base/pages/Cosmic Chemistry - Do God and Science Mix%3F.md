@@ -1,10 +1,10 @@
 alias::
-author:: [[John Lennox]] 
-publication-year:: 
-tags:: book, reference, #[[Science-Spirituality]]
-project:: [[AMT]]
-question::
-public:: true
+author:: [[John Lennox]]
+year::
+tags:: book, #[[Science-Spirituality]]
+rel-projects:: [[AMT]]
+
+
 
 - [Cosmic Chemistry - C.S. Lewis Institute](https://www.cslewisinstitute.org/resources/cosmic-chemistry/)
 - [Cosmic Chemistry: Do God and Science Mix? - Kindle edition by Lennox, John C. Religion & Spirituality Kindle eBooks @ Amazon.com.](https://www.amazon.com/Cosmic-Chemistry-God-Science-Mix-ebook/dp/B09FGPDBQK?ref_=nav_signin)

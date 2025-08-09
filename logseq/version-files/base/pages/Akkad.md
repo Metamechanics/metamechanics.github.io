@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: #Iraq #Babylon 
+location::
+rel-country:: #Iraq #Babylon
 place-type::
 nearest-town::
 map-url::

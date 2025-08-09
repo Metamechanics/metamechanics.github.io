@@ -1,10 +1,10 @@
 alias::
 URL::
 org-type::
-people:: [[Mirabai Bush]] 
-publications:: 
+people:: [[Mirabai Bush]]
+creations::
 tags:: organisation
-project:: [[Inner Beginner]], [[EFA]],  
-public:: true
+rel-projects:: [[Inner Beginner]], [[EFA]],
+
 
 -

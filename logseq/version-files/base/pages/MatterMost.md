@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[open source]] #collaboration 
+tags:: app, #[[open source]] #collaboration
 URL:: https://mattermost.com/
-similar-to::
+see-also::
 purpose::
-project:: #workflow #[[X-C Communities]]
+rel-projects:: #workflow #[[X-C Communities]]
 
 - more than just messaging
 - better? than Teams or Slack

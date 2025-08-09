@@ -1,6 +1,6 @@
 - alias::
   tags:: 
-  project:: [[AMT hyperbook]]
+  rel-projects:: [[AMT hyperbook]]
   parent-blocks:: 
   child-blocks::
 -

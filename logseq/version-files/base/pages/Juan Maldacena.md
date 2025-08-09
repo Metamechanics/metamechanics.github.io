@@ -1,14 +1,14 @@
 alias:: Maldacena
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Juan Maldacena - Closer To Truth](https://closertotruth.com/contributor/juan-maldacena/)
 - [Juan Maldacena Public Lecture: The Meaning of Spacetime - YouTube](https://www.youtube.com/watch?v=DODp-ajPuU8)

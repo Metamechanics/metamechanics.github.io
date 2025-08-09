@@ -1,8 +1,8 @@
 alias::
-tags:: #external 
-project:: #EFA 
+tags:: #external
+rel-projects:: #EFA
 see-also:: [[EFA website features & structures]]
-public:: true
+
 
 - TODO [#A] clarify purpose, audience and therefore content wrt [[EFA website features & structures]]; update [[23-04-2025]] I don't know what I meant by this task
 -

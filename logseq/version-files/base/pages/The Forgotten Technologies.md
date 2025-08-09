@@ -1,6 +1,6 @@
 alias::
 tags:: #[[My Books]] #toWrite #myCreation #Metamechanica #toProcess
-project::
+rel-projects::
 see-also::
 -
 - thesis: [[Everything is technology]]

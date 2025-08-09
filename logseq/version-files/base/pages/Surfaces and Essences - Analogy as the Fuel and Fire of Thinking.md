@@ -1,8 +1,6 @@
 alias::
-author:: [[Douglas Hofstadter]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
-
+author:: [[Douglas Hofstadter]]
+year::
+tags:: book
+rel-projects::
 -

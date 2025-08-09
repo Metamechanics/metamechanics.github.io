@@ -1,6 +1,6 @@
 alias:: Quantum Literacy
 tags:: #[[future of education]] #[[futures in education]] #toOutline #MyArticle #myCreation #toWrite 
-project:: #FF-ed
+rel-projects:: #FF-ed
 
 -
 - Digital, binary

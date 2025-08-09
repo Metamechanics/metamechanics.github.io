@@ -1,6 +1,6 @@
 alias:: biochemistry, biochemical
 tags::
-project::
+rel-projects::
 see-also::
 
 -

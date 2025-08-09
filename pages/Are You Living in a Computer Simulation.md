@@ -1,11 +1,11 @@
-journal::
-authors:: [[Nick Bostrom]] 
+rel-journal::
+author:: [[Nick Bostrom]]
 year:: 2003
 URL:: https://simulation-argument.com/simulation.pdf
 tags:: article, reference
-project:: [[AMT]]  
-question:: [[what evidence is there for the world being an illusion?]] 
-public:: true
+rel-projects:: [[AMT]]
+ [[what evidence is there for the world being an illusion?]]
+
 
 - [Are You Living in a Simulation?](https://simulation-argument.com/simulation/)
 -

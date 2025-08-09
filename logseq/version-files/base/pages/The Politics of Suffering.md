@@ -1,9 +1,9 @@
 alias::
-author:: [[Peter Sutton]] 
-publication-year:: 2011
-tags:: book, #indigenous #Australia 
-project:: #[[Waking Up From Woke]]
-question::
-public:: true
+author:: [[Peter Sutton]]
+year:: 2011
+tags:: book, #indigenous #Australia
+rel-projects:: #[[Waking Up From Woke]]
+
+
 
 -

@@ -1,9 +1,9 @@
 alias::
-author:: [[Steven Novella]] 
-publication-year::
+author:: [[Steven Novella]]
+year::
 tags:: book, #futures #[[science fiction]]
-project:: #X-Science  
-public:: true
+rel-projects:: #X-Science
+
 
 -
 - thought: this will be a selective remembering conveniently chosen to put science in a favourable light and the future will be golden

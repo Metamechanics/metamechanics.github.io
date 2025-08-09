@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: #AMT #[[AMT hyperbook]]
+rel-projects:: #AMT #[[AMT hyperbook]]
 see-also::
 - [[God, "God", god and gods]]
 	- {{embed [[God, "God", god and gods]]}}

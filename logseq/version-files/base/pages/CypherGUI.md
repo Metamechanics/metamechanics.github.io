@@ -1,7 +1,7 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://github.com/stefanak-michal/cyphergui
-similar-to::
-person:: [[Michal Stefanak]] 
-purpose:: #GUI for #Neo4j 
-project:: #DiaGnosis
+see-also::
+person:: [[Michal Stefanak]]
+purpose:: #GUI for #Neo4j
+rel-projects:: #DiaGnosis

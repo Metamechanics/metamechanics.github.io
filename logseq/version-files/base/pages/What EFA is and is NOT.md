@@ -1,6 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[Uniqueness and Novelty of EFA]]
 
 - Some readers may not have picked up this book due to misconceptions. Others may have made it this far despite their misconceptions. Let’s clear up what this book is not, at the very start.

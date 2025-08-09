@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[3-D visualization]]
+tags:: app, #[[3-D visualization]]
 URL:: https://www.khronos.org/webgl/wiki/Getting_Started
-similar-to::
+see-also::
 purpose::
-project:: #DiaGnosis #EFA #iQubes #[[WADS study]]
+rel-projects:: #DiaGnosis #EFA #iQubes #[[WADS study]]
 
 -
 -

@@ -1,8 +1,8 @@
 alias::
-author:: [[Wolfgang Smith]] 
-publication-year::
-tags:: book, reference
-project:: [[Adam's Atlas]], [[AMT]],  
-public:: true
+author:: [[Wolfgang Smith]]
+year::
+tags:: book
+rel-projects:: [[Adam's Atlas]], [[AMT]],
+
 
 -

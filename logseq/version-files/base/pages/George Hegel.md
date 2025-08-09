@@ -1,13 +1,23 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
+- alias::
+  URL::
+  rel-org::
+  role::
+  fields::
+  creations::
+  rel-country::
+  tags:: person
+  rel-projects::
+
 -
 - “History in general is therefore the development of Spirit in Time, as Nature is the development of the Idea in Space.” #quote #spacetime #AMT
 -

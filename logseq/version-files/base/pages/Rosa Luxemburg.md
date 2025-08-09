@@ -1,14 +1,14 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -
 - *Freedom is the freedom to think otherwise* #quote #freedom #[[free will]]
 - see also ACIM quote: "...and God thinks otherwise."

@@ -1,9 +1,9 @@
 alias::
 tags:: concept, theory
-domain:: [[Buddhism]] 
+domain:: [[Buddhism]]
 people::
-related-to::
-project::
-public:: true
+see-also::
+rel-projects::
+
 
 -

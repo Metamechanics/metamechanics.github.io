@@ -1,10 +1,10 @@
 alias::
 URL:: https://www.learnreligions.com/
-organisation::
+rel-org::
 year-commenced::
-tags:: website, #[[similar product]] #source #exemplar #contrast-with 
-project:: [[Inner Beginner]] 
-public:: true
+tags:: website, #[[similar product]] #source #exemplar #contrast-with
+rel-projects:: [[Inner Beginner]]
+
 
 - [Learn Religions - Guide to the Beliefs and Religions of the World](https://www.learnreligions.com/)
 -

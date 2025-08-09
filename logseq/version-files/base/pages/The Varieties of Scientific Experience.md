@@ -1,9 +1,9 @@
 alias::
-author:: [[Carl Sagan]] 
-publication-year::
-tags:: book, reference, #keyResource 
-project:: #AMT #X-Science 
-question::
-public:: true
+author:: [[Carl Sagan]]
+year::
+tags:: book, #keyResource
+rel-projects:: #AMT #X-Science
+
+
 
 -

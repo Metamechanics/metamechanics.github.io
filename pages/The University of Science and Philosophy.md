@@ -2,10 +2,10 @@ alias::
 URL:: https://www.philosophy.org/home.html#/
 org-type::
 people:: [[Walter Russell]], [[Lao Russell]] 
-publications:: 
+creations:: 
 tags:: organisation
-project::
-public:: true
+rel-projects::
+
 
 - [- OFFICIAL WEBSITE - The University of Science and Philosophy](https://www.philosophy.org/home.html#/)
 -

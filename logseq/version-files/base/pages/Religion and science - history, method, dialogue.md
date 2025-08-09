@@ -1,9 +1,9 @@
 alias::
 author::
-publisher:: 
-URL:: 
+publisher::
+URL::
 tags:: journal, reference
-project:: [[X-Science]] 
-public:: true
+rel-projects:: [[X-Science]]
+
 
 - W Mark Richards

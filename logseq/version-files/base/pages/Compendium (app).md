@@ -1,10 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
-purpose:: [[issue mapping]] 
-project:: [[DiaGnosis]]
-
+see-also::
+purpose:: [[issue mapping]]
+rel-projects:: [[DiaGnosis]]
 - #software #KMI
 - [[Knowledge Media Intitute]]
 - turn every meeting into a diagrammed discussion

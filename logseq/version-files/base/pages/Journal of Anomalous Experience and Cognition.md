@@ -1,10 +1,10 @@
 alias:: JAEX
 author::
-publisher:: 
+publisher::
 URL:: https://journals.lub.lu.se/jaex/index
-tags:: journal, reference, #[[open-access]] #parapsychology #psi 
-project:: [[X-Science]], [[FACTs]], [[FRESH]], #Psience #AMT 
-public:: true
+tags:: journal, reference, #[[open-access]] #parapsychology #psi
+rel-projects:: [[X-Science]], [[FACTs]], [[FRESH]], #Psience #AMT
+
 
 - [Journal of Anomalous Experience and Cognition](https://journals.lub.lu.se/jaex/index)
 -

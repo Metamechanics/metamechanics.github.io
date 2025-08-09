@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
-role:: [[independent researcher]] 
-fields:: #pre-history 
-publications:: [[Pianta di Roma Antica]] 
-tags:: person #Italy #[[ancient site]] 
-project::
-public:: true
+rel-org::
+role:: [[independent researcher]]
+fields:: #pre-history
+creations:: [[Pianta di Roma Antica]]
+tags:: person #Italy #[[ancient site]]
+rel-projects::
+
 -
 - Investigated
 	- [[Acropolis of Alatri]]

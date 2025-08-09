@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://publishkit.dev/
-similar-to::
+see-also::
 purpose::
-project:: #metamechanic-io #[[Metamechanic Mycelium]]
+rel-projects:: #metamechanic-io #[[Metamechanic Mycelium]]
 - [KIT](https://publishkit.dev/)
 - The `kit` renders markdown into any kind of web application, and with the use of plugins and declarative syntax, you can customize every aspect of your pages, in seconds!
 - ## intro

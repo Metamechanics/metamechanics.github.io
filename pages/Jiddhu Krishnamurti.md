@@ -1,11 +1,11 @@
 alias:: Krishnamurti
 URL::
-organisation::
+rel-org::
 role:: #teacher #mystic 
 fields:: #non-duality  
-publications-productions:: 
+creations:: 
 tags:: person #India #responsibility 
-project:: [[Inner Beginner]] 
-public:: true
+rel-projects:: [[Inner Beginner]] 
+
 
 -

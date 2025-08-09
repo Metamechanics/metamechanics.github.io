@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: #poet #mystic 
+rel-org::
+role:: #poet #mystic
 fields::
-publications-productions:: [[Duino Elegies]] 
-country:: Austria 
+creations:: [[Duino Elegies]]
+rel-country:: Austria
 tags:: person
-project:: #InnerBeginner 
-question::
-public:: true
+rel-projects:: #InnerBeginner
+
+
 
 -

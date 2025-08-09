@@ -1,6 +1,6 @@
 alias:: The Fermi-God Paradox
 tags::
-project:: #AMTbook
+rel-projects:: #AMTbook
 see-also:: #[[God, "God", god and gods]] #[[The God Delusion]]
 
 - [[The Fermi Paradox]] says that

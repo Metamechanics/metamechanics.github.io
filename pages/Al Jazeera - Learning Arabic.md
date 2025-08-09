@@ -1,11 +1,11 @@
 alias::
 URL:: https://learning.aljazeera.net/en/lessons/level/introductory
-organisation:: [[Al Jazeera]]
+rel-org:: [[Al Jazeera]]
 year-commenced::
 tags:: website
-project:: [[LOTE study]] 
-question::
-public:: true
+rel-projects:: [[LOTE study]] 
+
+
 
 - [Lessons | تعلم العربية](https://learning.aljazeera.net/en/lessons/level/introductory)
 -

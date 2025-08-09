@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.youtube.com/c/cosmicskeptic
-organisation::
+rel-org::
 role::
-fields:: [[theology]], [[religion]], #[[critical thinking]] #philosophy 
-publications:: 
-tags:: person, [[atheism]], #keyThinker 
-project:: [[Inner Beginner]] #AMT 
-public:: true
+fields:: [[theology]], [[religion]], #[[critical thinking]] #philosophy
+creations::
+tags:: person, [[atheism]], #keyThinker
+rel-projects:: [[Inner Beginner]] #AMT
+
 
 - [Alex O'Connor - YouTube](https://www.youtube.com/c/cosmicskeptic)
 - [Oxford Reading List for Studies in Religion and Theology | Cosmic Skeptic](https://cosmicskeptic.com/oxfordreadinglist/)

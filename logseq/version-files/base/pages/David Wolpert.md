@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[Santa Fe Institute]] 
+rel-org:: [[Santa Fe Institute]] 
 role::
 fields:: [[complex systems]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

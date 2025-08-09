@@ -1,12 +1,12 @@
 alias::
 URL::
-role:: #healer  
+role:: #healer
 fields:: #qigong #Taoism #medicine #[[Mo Pai]]
-publications-productions:: 
-country:: #China 
-tags:: person #chi 
-project:: [[FACTs]], [[AMT]]  
-question::
-public:: true
+creations::
+rel-country:: #China
+tags:: person #chi
+rel-projects:: [[FACTs]], [[AMT]]
+
+
 
 - [Mel Gibson's Supernatural Encounter with a Chi Kung Master Shocks Joe Rogan - YouTube](https://www.youtube.com/watch?v=wKOurjKFOL8)

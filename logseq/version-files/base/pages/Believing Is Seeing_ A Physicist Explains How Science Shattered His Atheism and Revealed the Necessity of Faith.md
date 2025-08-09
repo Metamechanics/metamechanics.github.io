@@ -1,9 +1,9 @@
 alias::
 author:: [[Michael Guillen]] 
-publication-year::
+year::
 tags:: book, #iHaveit #faith 
-project:: #AMT #Psience #X-Science  
-question::
-public:: true
+rel-projects:: #AMT #Psience #X-Science  
+
+
 
 -

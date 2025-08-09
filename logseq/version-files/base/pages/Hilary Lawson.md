@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[IAI]] 
+rel-org:: [[IAI]] 
 role:: [[philosopher]] 
 fields:: #post-realism #postmodernism 
-publications-productions:: [[Closure Theory]] 
+creations:: [[Closure Theory]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - critic of philosophical realism
 -

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
+creations:: 
 tags:: person, academic, philosophy
-project::
-public:: true
+rel-projects::
+
 - [HOME - Sir Roger Scruton](https://www.roger-scruton.com/)
 -

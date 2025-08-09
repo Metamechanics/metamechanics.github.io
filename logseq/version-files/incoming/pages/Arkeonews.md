@@ -1,9 +1,9 @@
 alias::
 URL:: https://arkeonews.net/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, archaeology, Egypt, Anatolia, Turkey, Iraq, Mesopotamia
-project:: #FRESH 
-public:: true
+rel-projects:: #FRESH
+
 - [Arkeonews - The Future is the Product of the Past](https://arkeonews.net/)
 -

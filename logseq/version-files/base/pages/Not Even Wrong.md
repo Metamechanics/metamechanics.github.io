@@ -1,5 +1,5 @@
 alias::
 tags:: #blog #skeptic  
 url:: 
-project:: #AMT 
+rel-projects:: #AMT 
 see-also::

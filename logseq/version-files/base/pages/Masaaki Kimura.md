@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
-tags:: person, [[Yonaguni]] 
-project:: [[Adam's Atlas]] 
-public:: true
+creations::
+rel-country::
+tags:: person, [[Yonaguni]]
+rel-projects:: [[Adam's Atlas]]
+
 
 -
 -

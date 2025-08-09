@@ -1,8 +1,8 @@
 alias::
 URL:: https://www.sapiens.org/
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #anthropology  
-project::
-public:: true
+rel-projects::
+
 - [SAPIENS – Anthropology Magazine](https://www.sapiens.org/)

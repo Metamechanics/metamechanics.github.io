@@ -1,9 +1,9 @@
 alias::
-author:: [[Bill Napier]] 
-publication-year:: 1982
-tags:: book, reference, #toSource  
-project:: 
-public:: true
+author:: [[Bill Napier]]
+year:: 1982
+tags:: book, #toSource
+rel-projects::
+
 
 - referenced by [[Randall Carlson]]
 -

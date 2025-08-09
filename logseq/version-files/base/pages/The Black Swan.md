@@ -1,10 +1,10 @@
 alias::
-author:: [[Nassim Nicholas Taleb]] 
-publication-year::
-tags:: book 
-project:: 
-question::
-public:: true
+author:: [[Nassim Nicholas Taleb]]
+year::
+tags:: book
+rel-projects::
+
+
 
 -
 - **Recognize our blindness to randomness:** Taleb emphasizes our tendency to underestimate the impact of rare, unpredictable events.

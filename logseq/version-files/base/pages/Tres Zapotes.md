@@ -1,7 +1,7 @@
 alias::
-tags:: #place #Olmec 
-country:: #Mexico 
-place-type:: #[[ancient site]] 
+tags:: #place #Olmec
+rel-country:: #Mexico
+place-type:: #[[ancient site]]
 nearest-town::
 map-url::
 

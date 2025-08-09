@@ -1,10 +1,10 @@
 alias::
-Creators:: [[Gabor Maté]] 
+creators:: [[Gabor Maté]]
 year::
 URL::
-tags:: movie, #trauma 
-project:: [[AMT]], [[Inner Beginner]] 
-public:: true
+tags:: movie, #trauma
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
 
 - [The Wisdom Of Trauma -](https://thewisdomoftrauma.com/)
 - [[Gabor Maté]]

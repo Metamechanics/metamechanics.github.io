@@ -1,5 +1,5 @@
 alias::
 tags::
-project:: #DiaGnosis 
+rel-projects:: #DiaGnosis 
 see-also:: [[Cmap Tools]]
 -

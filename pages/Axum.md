@@ -1,7 +1,7 @@
 alias:: Aksum
-tags:: [[Ark of the Covenant]] 
-place::
-country:: [[Ethiopia]] 
+tags:: [[Ark of the Covenant]]
+location::
+rel-country:: [[Ethiopia]]
 place-type::
 nearest-town::
 map-url::

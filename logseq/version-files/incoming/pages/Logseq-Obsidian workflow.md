@@ -1,7 +1,7 @@
 alias::
-tags:: [[workflow]], #myWriting 
-url:: 
-project:: [[The Metamechanic]], [[workflow]], [[allProjects]] 
+tags:: [[workflow]], #myWriting
+url::
+rel-projects:: [[The Metamechanic]], [[workflow]], [[allProjects]]
 see-also:: [[my writing method in Logseq]], [[holonic writing]],
 - Duplicate Logseq pages into a smart folder
 - This smart folder is an Obsidian vault

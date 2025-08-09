@@ -1,8 +1,8 @@
 alias::
-tags:: #neolithic  
-place::
-country:: #Scotland #[[United Kingdom]] 
-place-type:: #[[ancient site]] 
+tags:: #neolithic
+location::
+rel-country:: #Scotland #[[United Kingdom]]
+place-type:: #[[ancient site]]
 nearest-town::
 map-url::
 

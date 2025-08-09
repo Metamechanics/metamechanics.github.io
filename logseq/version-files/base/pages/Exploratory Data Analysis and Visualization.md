@@ -1,11 +1,11 @@
 alias:: EDAV
-creators:: [[Joyce Robbins]],  
+creators:: [[Joyce Robbins]],
 year::
 URL::
-tags:: course, toStudy, #Quarto, #R #Rstudio #ggplot2 
-topics::
-project:: [[DiaGnosis]], [[WADS]] 
-public:: true
+tags:: course, toStudy, #Quarto, #R #Rstudio #ggplot2
+topic-theme::
+rel-projects:: [[DiaGnosis]], [[WADS]]
+
 
 - [EDAV Garden](https://edav-garden.netlify.app/)
 - [edav.info, 2nd edition](https://edav.info/)

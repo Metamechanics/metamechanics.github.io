@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation:: [[University of California - Irvine]] 
+rel-org:: [[University of California - Irvine]]
 role::
-fields:: [[cognitive science]], [[psychology]], [[computational psychology]] 
-publications-productions:: [[Observer Mechanics - A formal theory of perception]], [[The case against reality - Why evolution hid the truth from our eyes]] 
-country:: #USA
+fields:: [[cognitive science]], [[psychology]], [[computational psychology]]
+creations:: [[Observer Mechanics - A formal theory of perception]], [[The case against reality - Why evolution hid the truth from our eyes]]
+rel-country:: #USA
 tags:: person
-project:: [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[X-Science]]
+
+
 
 - [Donald Hoffman: Do we see reality as it is? | TED Talk](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is)
 - [Donald Hoffman - Closer To Truth](https://closertotruth.com/contributor/donald-hoffman/)

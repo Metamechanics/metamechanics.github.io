@@ -1,9 +1,9 @@
 alias::
-author:: [[Frank Tipler]] 
-publication-year::
-tags:: book 
-project:: #AMT 
-question::
-public:: true
+author:: [[Frank Tipler]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 -

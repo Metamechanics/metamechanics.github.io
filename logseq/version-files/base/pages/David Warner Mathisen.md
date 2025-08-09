@@ -1,13 +1,13 @@
 alias::
 URL:: https://www.starmythworld.com/#intro
-organisation:: [[Star Myths of the World]] 
+rel-org:: [[Star Myths of the World]] 
 role::
 fields:: #astromythology #astrotheology 
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
+
 
 -

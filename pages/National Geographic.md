@@ -1,11 +1,11 @@
 alias::
 URL::
-org-type:: #media  
+org-type:: #media
 people::
-publications:: 
-tags:: organisation, #keyResource 
-project:: #EFA 
-question::
-public:: true
+creations::
+tags:: organisation, #keyResource
+rel-projects:: #EFA
+
+
 
 -

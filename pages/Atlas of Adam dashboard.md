@@ -1,7 +1,6 @@
 alias::
 tags:: #dashboard 
-project:: [[Adam's Atlas]] 
+rel-projects:: [[Adam's Atlas]] 
 see-also:: [[AMT dashboard]]
-
 -
 -

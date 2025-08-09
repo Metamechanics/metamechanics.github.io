@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #Neo4j #GUI 
+tags:: app, #Neo4j #GUI
 URL:: https://graphileon.com/
-similar-to::
+see-also::
 purpose::
-project:: #DiaGnosis
+rel-projects:: #DiaGnosis
 
 -
 -

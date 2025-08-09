@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.maurobiglino.com/en/
-organisation::
-role:: [[independent researcher]] 
-fields:: [[Bible]] #translation #Hebrew 
-publications-productions:: [[Gods of the Bible]], [[The Naked Bible]] 
+rel-org::
+role:: [[independent researcher]]
+fields:: [[Bible]] #translation #Hebrew
+creations:: [[Gods of the Bible]], [[The Naked Bible]]
 tags:: person
-project:: [[AMT]], [[Adam's Atlas]], [[FACTs]], [[FRESH]], [[Babies, Bibles and Bathwater]] 
-public:: true
+rel-projects:: [[AMT]], [[Adam's Atlas]], [[FACTs]], [[FRESH]], [[Babies, Bibles and Bathwater]]
+
 
 - [Mauro Biglino - Official website](https://www.maurobiglino.com/en/)
 -

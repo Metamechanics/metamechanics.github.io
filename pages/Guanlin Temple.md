@@ -1,8 +1,8 @@
 alias::
 tags::
-place:: #[[Henan province]] 
-country:: #China 
-place-type:: #megalith  
+location:: #[[Henan province]]
+rel-country:: #China
+place-type:: #megalith
 nearest-town:: Luoyang
 map-url::
 -

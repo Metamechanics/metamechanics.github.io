@@ -1,10 +1,10 @@
 alias::
 author::
-publication-year::
-tags:: book, reference, #Apocrypha #Islam 
-project:: 
-question::
-public:: true
+year::
+tags:: book, #Apocrypha #Islam
+rel-projects::
+
+
 
 - known forgery
 -

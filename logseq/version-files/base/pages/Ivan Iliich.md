@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Deschooling Society]] 
-country::
+creations:: [[Deschooling Society]]
+rel-country::
 tags:: person
-project:: [[FF-ed]], [[Global Effort]] 
-public:: true
+rel-projects:: [[FF-ed]], [[Global Effort]]
+
 
 -
 -

@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project::
+  rel-projects::
   see-also::
 - {{video https://youtube.com/shorts/tHBd2sQbvqU?si=pcLOiTBkOAXJvarr}} #capitalism #[[Milton Friedman]]
 -

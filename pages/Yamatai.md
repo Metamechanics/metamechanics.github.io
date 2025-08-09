@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: [[Japan]] 
+location::
+rel-country:: [[Japan]]
 place-type::
 nearest-town::
 map-url::

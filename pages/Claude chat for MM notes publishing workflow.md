@@ -1,7 +1,7 @@
 alias::
 tags:: #claude-ai #[[AI-chat]] 
 date:: [[11-05-2025]] 
-project:: [[Metamechanic Mycelium]], [[Coding with AI]] 
+rel-projects:: [[Metamechanic Mycelium]], [[Coding with AI]] 
 see-also::
 -
 - You are my guide in coding and software development. I would like to develop a workflow please and I need your help. I write notes in Logseq which are stored in a Github repository. I want to publish these pages on the web. However I also want to further process these notes in Obsidian and publish them via a different website. Then, I want to process and publish these notes from Obsidian in Quarto. They differ in their YAML usage and structure. I would like the text changes made in each to be merged into the files of the same name processed by the other apps. Can you please tell me how to set up any Github repositories, branches, forks and other requirements to do this. Can you please suggest tools with automated actions to process the text. Can you please write any code in a suitable language to allow all this to happen. Can you please ask me required questions to clarify your understanding of the task.

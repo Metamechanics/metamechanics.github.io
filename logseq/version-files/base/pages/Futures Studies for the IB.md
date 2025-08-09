@@ -1,6 +1,6 @@
 alias:: FSIB, FSIB-SBS, FF-SBS
 tags:: #IB #PhD #[[Futures Studies]]
-project:: [[FF-ed]]
+rel-projects:: [[FF-ed]]
 -
 -
 - [[A recent history of futures in the IB]]

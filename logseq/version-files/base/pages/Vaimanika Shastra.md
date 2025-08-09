@@ -1,9 +1,9 @@
 alias::
 author::
-publication-year::
-tags:: book #vimana 
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+year::
+tags:: book #vimana
+rel-projects:: [[Adam's Atlas]]
+
+
 
 -

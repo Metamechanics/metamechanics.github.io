@@ -1,11 +1,9 @@
 alias::
 URL::
-organisation::
-role:: #pharoah 
+rel-org::
+role:: #pharoah
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::

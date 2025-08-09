@@ -1,12 +1,12 @@
 alias:: TT Brown
 URL::
-organisation:: [[NICAP]] 
+rel-org:: [[NICAP]] 
 role:: [[independent researcher]] 
 fields:: [[Free Energy]], [[anti-gravity]], [[top-secret projects]] [[UFO]] [[fringe science]] 
-publications-productions:: 
+creations:: 
 tags:: person #keyThinker  
-project:: [[Fresh Alternatives]], [[FACTs]], [[ANEO]], [[X-Science]] 
-public:: true
+rel-projects:: [[Fresh Alternatives]], [[FACTs]], [[ANEO]], [[X-Science]] 
+
 
 - [Thomas Townsend Brown - The Man Who Mastered Gravity](https://www.ttbrown.com/)
 - [The Thomas Townsend Brown Family Website](https://thomastownsendbrown.com/)

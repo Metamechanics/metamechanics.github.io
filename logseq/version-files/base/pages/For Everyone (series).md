@@ -1,8 +1,8 @@
 alias::
-author:: [[NT Wright]] 
-publication-year::
-tags:: book, reference, series
-project:: 
-public:: true
+author:: [[NT Wright]]
+year::
+tags:: book, series
+rel-projects::
+
 
 -

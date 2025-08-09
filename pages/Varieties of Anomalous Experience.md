@@ -1,9 +1,9 @@
 alias::
 editor:: [[Etzel Cardeña]] 
-publication-year::
-tags:: book, reference
-project:: #AMT [[Fresh Alternatives]] 
-question::
-public:: true
+year::
+tags:: book
+rel-projects:: #AMT [[Fresh Alternatives]] 
+
+
 
 -

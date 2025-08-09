@@ -1,10 +1,10 @@
 alias::
-author:: [[Marco Vigato]] 
-publication-year:: 
-tags:: book, #sourced 
-project:: #[[Adam's Atlas]] 
-question::
-public:: true
+author:: [[Marco Vigato]]
+year::
+tags:: book, #sourced
+rel-projects:: #[[Adam's Atlas]]
+
+
 
 - Table of Contents
 	- ## **THE EMPIRES OF ATLANTIS**

@@ -1,6 +1,6 @@
 alias:: antenna for God
 tags:: #metaphor #flash 
-project:: #TremenDuus 
+rel-projects:: #TremenDuus 
 see-also::
 
 - got out of the pool this afternoon, looked up at the roof and the thought hit me: "just be an antenna (for God)"

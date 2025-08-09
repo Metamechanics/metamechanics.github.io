@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[Futures Studies]], [[peace & conflict studies]] 
 tags:: person
-project:: [[FF-ed]], [[Fresh Alternatives]] 
-public:: true
+rel-projects:: [[FF-ed]], [[Fresh Alternatives]] 
+
 -

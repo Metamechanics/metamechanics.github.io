@@ -1,8 +1,7 @@
 alias:: MetaWeb
 tags:: 
-project:: [[The Metamechanic]], #allProjects [[Coding with AI]] 
+rel-projects:: [[The Metamechanic]], #allProjects [[Coding with AI]] 
 see-also:: [[mm-mycelium]], [[Metamechanic Portfolio]], [[MetaMechanic Mesh]]
-
 - Consists of multiple components & features
 	- [[Metamechanic Portfolio]] = multiple front-ends
 	- [[Metamechanic Mycelium]] is the underlying network of interconnected knowledge #[[metamechanic mycelium back-end]]

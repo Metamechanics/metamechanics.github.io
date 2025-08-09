@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[Megalithomania UK]] 
+rel-org:: [[Megalithomania UK]] 
 role:: [[independent researcher]] 
 fields:: [[alternative history]] #prehistory #megaliths 
-publications-productions:: 
+creations:: 
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]] 
+
 
 - [MegalithomaniaUK - YouTube](https://www.youtube.com/@MegalithomaniaUK)
 -

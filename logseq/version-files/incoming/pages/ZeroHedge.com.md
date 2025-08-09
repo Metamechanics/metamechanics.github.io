@@ -1,9 +1,9 @@
 alias:: ZeroHedge
 URL:: https://www.zerohedge.com/
-organisation::
+rel-org::
 year-commenced::
-tags:: website, news, #[[current affairs]], #toSubscribe 
-project:: #[[Behind, Below, Beyond]]
-public:: true
+tags:: website, news, #[[current affairs]], #toSubscribe
+rel-projects:: #[[Behind, Below, Beyond]]
+
 - [Zerohedge](https://www.zerohedge.com/)
 -

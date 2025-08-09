@@ -1,5 +1,5 @@
 alias::
 tags::
-project:: [[A Textbook for the Futures]], [[FF-ed]], [[FSIB]]
+rel-projects:: [[A Textbook for the Futures]], [[FF-ed]], [[FSIB]]
 
 -

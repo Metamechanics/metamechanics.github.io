@@ -1,6 +1,6 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to:: #Docusaurus #[[Jekyll CMS]] #[[Hugo CMS]] #[[Next-js CMS]] #[[MkDocs]]
-purpose:: #CMS #[[static site]] 
-project::
+see-also:: #Docusaurus #[[Jekyll CMS]] #[[Hugo CMS]] #[[Next-js CMS]] #[[MkDocs]]
+purpose:: #CMS #[[static site]]
+rel-projects::

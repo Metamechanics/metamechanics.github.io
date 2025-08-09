@@ -3,9 +3,9 @@ creators:: [[Shawn Ryan]], [[Skip Atwater]]
 year:: 2025
 URL:: https://www.youtube.com/watch?v=OwrDI7GvenQ
 tags:: documentary, #[[quantum non-locality]] #[[remote viewing]] #Mars- 
-project:: #AMT #FACTs 
-question::
-public:: true
+rel-projects:: #AMT #FACTs 
+
+
 -
 - Transcript 1
   collapsed:: true

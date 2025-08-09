@@ -1,12 +1,12 @@
-alias:: Tom Wright, NT Wright, 
+alias:: Tom Wright, NT Wright,
 URL:: https://ntwrightpage.com/
-organisation::
-role:: [[theologian]], [[academic]], [[apologetics]] 
-fields:: [[Christian theology]], [[New Testament]] 
-publications-productions:: [[The Resurrection of the Son of God]], [[Christian Origins and the Question of God (series)]], [[For Everyone (series)]] 
+rel-org::
+role:: [[theologian]], [[academic]], [[apologetics]]
+fields:: [[Christian theology]], [[New Testament]]
+creations:: [[The Resurrection of the Son of God]], [[Christian Origins and the Question of God (series)]], [[For Everyone (series)]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 - [NTWrightPage -](https://ntwrightpage.com/)
 - [N.T. Wright | Time](https://time.com/author/n-t-wright/)

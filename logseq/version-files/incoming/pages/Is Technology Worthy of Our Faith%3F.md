@@ -1,11 +1,11 @@
-journal::
-authors:: [[Greg M. Epstein]] 
+rel-journal::
+author:: [[Greg M. Epstein]]
 year::
 URL::
 tags:: article, reference, #[[our technology as metaphorical gods]] #[[technology as religion]]
-project:: [[MetaScience & MacroTechnology]], [[The Church of Science]], [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[MetaScience & MacroTechnology]], [[The Church of Science]], [[X-Science]]
+
+
 
 - Is Technology Worthy of Our Faith?
   Harvard and MIT humanist chaplain Greg M. Epstein on his 3 greatest revelations while writing Tech Agnostic.

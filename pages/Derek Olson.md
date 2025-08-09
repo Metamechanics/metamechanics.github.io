@@ -1,12 +1,12 @@
 alias::
 URL:: https://stargatevoyager.com/
-organisation::
+rel-org::
 role:: [[independent researcher]] 
 fields:: [[pre-history]] #[[ancient civilization]] 
-publications-productions:: [[Stargate Voyager]] 
+creations:: [[Stargate Voyager]] 
 tags:: person #Egypt #Bolivia 
-project:: #FRESH 
-public:: true
+rel-projects:: #FRESH 
+
 
 - [stargatevoyager.com](https://stargatevoyager.com/)
 -

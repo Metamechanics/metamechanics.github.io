@@ -1,8 +1,8 @@
 alias::
-author:: [[Thich Nhat Hahn]] 
-publication-year::
-tags:: book, reference, #toSource 
-project:: [[Inner Beginner]] 
-public:: true
+author:: [[Thich Nhat Hahn]]
+year::
+tags:: book, #toSource
+rel-projects:: [[Inner Beginner]]
+
 
 -

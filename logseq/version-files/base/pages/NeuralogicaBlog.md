@@ -1,10 +1,10 @@
 alias::
 URL:: https://theness.com/neurologicablog/
-organisation::
+rel-org::
 year-commenced::
-tags:: website, blog, #neuroscience #skepticism #[[critical thinking]] 
-project::
-public:: true
+tags:: website, blog, #neuroscience #skepticism #[[critical thinking]]
+rel-projects::
+
 
 - [NeuroLogica Blog - Your Daily Fix of Neuroscience, Skepticism, and Critical Thinking](https://theness.com/neurologicablog/)
 -

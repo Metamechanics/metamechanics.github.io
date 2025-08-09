@@ -1,12 +1,12 @@
 alias:: Stefanak Michal
 URL::
-organisation::
+rel-org::
 role:: [[computer programmer]] 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person, #collaborator 
-project::
-public:: true
+rel-projects::
+
 
 -
 -

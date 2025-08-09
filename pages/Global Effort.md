@@ -1,10 +1,8 @@
 alias:: globalEffort, GE
-URL:: http://globaleffort.info, http://www.globaleffort.energy 
-tags:: energy futures, energy transitions, socio-economic transitions #myProject 
-initiatives:: [[GENERATE]], 
-partners:: [[Energenii]]
+URL:: http://globaleffort.info, http://www.globaleffort.energy
+tags:: energy futures, energy transitions, socio-economic transitions #myProject
 see-also::  [[MQGEF]]
-- Global Energy Futures, Foresight & Transitions: 
+- Global Energy Futures, Foresight & Transitions:
   Pathways, proposals, processes, principles, problems and players present in the generation of tomorrow's energy system.
 - Internal
 	- [[Global Effort - project brief]]

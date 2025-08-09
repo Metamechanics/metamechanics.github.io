@@ -1,9 +1,9 @@
 alias:: LUCA
-tags:: concept, 
+tags:: concept,
 domain:: #[[evolutionary biology]]
 people::
-related-to::
-project::
-public:: true
+see-also::
+rel-projects::
+
 
 -

@@ -1,7 +1,7 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
-project:: all projects, [[Metamechanic Mycelium]], [[metamechanic-io]]
+rel-projects:: all projects, [[Metamechanic Mycelium]], [[metamechanic-io]]
 -

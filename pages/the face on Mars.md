@@ -1,6 +1,6 @@
 alias:: face on Mars, Mars' face
 tags:: #Mars
-project::
+rel-projects::
 see-also::
 
 -

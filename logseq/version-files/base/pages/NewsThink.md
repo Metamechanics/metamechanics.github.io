@@ -3,8 +3,8 @@ creators:: [[Cindy Pom]]
 year::
 URL:: https://www.youtube.com/@Newsthink
 tags:: vodcast
-project::
-public:: true
+rel-projects::
+
 
 - [Newsthink - YouTube](https://www.youtube.com/@Newsthink)
 	- ## About

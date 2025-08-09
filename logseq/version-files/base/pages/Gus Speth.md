@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[National Resources Defense Council]] , [[World Resources Institute]], [[UNDP]] 
+rel-org:: [[National Resources Defense Council]] , [[World Resources Institute]], [[UNDP]]
 role::
 fields::
 tags:: person, lawyer, environment, activist
-project:: EFA
-public:: true
+rel-projects:: EFA
+
 books:: [[The New Systems Reader: Alternatives to a Failed Economy]]
 -
 - https://earthcharter.org/podcasts/gus-speth/

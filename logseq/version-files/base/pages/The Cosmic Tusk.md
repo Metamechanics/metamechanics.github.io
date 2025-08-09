@@ -2,10 +2,10 @@ alias::
 URL::
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation, [[Younger Dryas]], [[Younger Dryas Impact Hypothesis]] 
-project::
-public:: true
+rel-projects::
+
 
 -
 - see-also:: [[Comet Research Group]]

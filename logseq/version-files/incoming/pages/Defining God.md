@@ -1,8 +1,7 @@
 alias::
 tags::
-project:: #AMT #AMTbook
+rel-projects:: #AMT #[[AMT hyperbook]]
 see-also::
-
 - [[God, "God", god and gods]]
 	- {{embed [[God, "God", god and gods]]}}
 - Define "define" and "definition"

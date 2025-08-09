@@ -1,8 +1,8 @@
 alias::
-tags:: app, software, YouTube, #transcribe #markdown #toStudy 
+tags:: app, YouTube, #transcribe #markdown #toStudy
 URL:: https://github.com/Ebrizzzz/Youtube-playlist-to-formatted-text
-similar-to::
+see-also::
 purpose:: #transcribe and summarise Youtube videos, formatted into Markdown
-project:: #workflow #[[WADS study]]
+rel-projects:: #workflow #[[WADS study]]
 
 -

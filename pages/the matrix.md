@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: 
+rel-projects:: 
 person::
 
 - contrast with [[The Matrix (movie)]]

@@ -1,9 +1,9 @@
 alias::
-tags:: #sarcophagus  
-place::
-country:: [[Japan]] 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]], [[tumulus]] 
-nearest-town:: [[Asuka]], [[Nara]] 
+tags:: #sarcophagus
+location::
+rel-country:: [[Japan]]
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]], [[tumulus]]
+nearest-town:: [[Asuka]], [[Nara]]
 map-url::
 
 -

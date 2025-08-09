@@ -2,11 +2,10 @@ alias::
 URL:: https://www.spr.ac.uk/home
 org-type::
 people::
-publications:: [[Psi Encyclopedia]] 
+creations:: [[Psi Encyclopedia]]
 tags:: organisation
-project::
-question::
-public:: true
+rel-projects:: [[X-Science]]
+
 
 - [Home | spr.ac.uk](https://www.spr.ac.uk/home)
 -

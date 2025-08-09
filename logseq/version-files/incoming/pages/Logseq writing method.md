@@ -1,6 +1,6 @@
 alias:: my writing method in Logseq
 tags:: #RRW #TLDR 
-project:: #[[Metamechanic Mycelium]] 
+rel-projects:: #[[Metamechanic Mycelium]] 
 see-also:: #[[block writing]]
 - Tag heavily
 	- update [[Metamechanic ontology]] routinely

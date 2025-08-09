@@ -1,9 +1,9 @@
 alias::
-author:: [[Paul Davies]] 
-publication-year::
-tags:: book #[[Anthropic Principle]] 
-project:: #AMT  
-question::
-public:: true
+author:: [[Paul Davies]]
+year::
+tags:: book #[[Anthropic Principle]]
+rel-projects:: #AMT
+
+
 
 -

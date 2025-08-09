@@ -1,9 +1,9 @@
 alias::
-tags:: #Temples 
-place::
-country:: #Egypt 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]]
-nearest-town:: 
+tags:: #Temples
+location::
+rel-country:: #Egypt
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
+nearest-town::
 map-url::
 
 - at [[Abydos]]

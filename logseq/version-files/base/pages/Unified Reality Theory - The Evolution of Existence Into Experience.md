@@ -1,10 +1,10 @@
 alias::
-author:: [[Steve Kaufman]] 
-publication-year::
-tags:: book, reference
-project:: #AMT 
-question::
-public:: true
+author:: [[Steve Kaufman]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 - referenced in [[My Big TOE]]
 -

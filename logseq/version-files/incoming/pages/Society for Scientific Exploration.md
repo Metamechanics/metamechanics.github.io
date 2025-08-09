@@ -2,10 +2,10 @@ alias::
 URL:: https://www.scientificexploration.org/
 org-type::
 people::
-publications:: [[Journal of Scientific Exploration]], [[EdgeScience]] 
+creations:: [[Journal of Scientific Exploration]], [[EdgeScience]] 
 tags:: organisation
-project:: [[FRESH]], [[Metamechanica]] 
-public:: true
+rel-projects:: [[FRESH]], [[Metamechanica]] 
+
 - [SSE | Society for Scientific Exploration](https://www.scientificexploration.org/)
 - [EdgeScience Magazine | Society for Scientific Exploration](https://www.scientificexploration.org/edgescience)
 -

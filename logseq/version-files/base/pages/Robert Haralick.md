@@ -1,11 +1,11 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 -
 - [Subtle Energy, Water Structure, The Effect Of Light On Water - A & P Electronic Media](https://emediapress.com/shop/subtle-energy-water-structure-the-effect-of-light-on-water/)

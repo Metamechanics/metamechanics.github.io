@@ -1,9 +1,9 @@
 alias:: PerplexityAI
-tags:: app, software #AI #toBuy 
+tags:: app #AI #toBuy
 URL::
-similar-to::
+see-also::
 purpose:: text summarization?, knowledge base buildling?
-project::
+rel-projects::
 
 - USD$20 per month
 - Spaces

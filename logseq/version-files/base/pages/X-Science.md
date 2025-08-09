@@ -1,9 +1,12 @@
 alias:: xSci
-Question-Problem::
-Related-pubs::
-related-project:: [[AMT]] 
-Tags:: #toWrite, #[[My Books]]
 
+rel-projects:: [[AMT]]
+Tags:: #toWrite, #[[My Books]]
+alias:: xSci
+
+
+related-rel-projects:: [[AMT]]
+Tags:: #toWrite, #[[My Books]]
 - we cannot have a #[[theory of everything]] until we look at the very nature of science itself
 - a #[[theory of everything]] must include a theory of science #AMT
 	- it must be able to incorporate itself

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Fabric of Reality]], [[The Beginning of Infinity]] 
-country::
+creations:: [[The Fabric of Reality]], [[The Beginning of Infinity]]
+rel-country::
 tags:: person
-project:: #AMT [[X-Science]] 
-question::
-public:: true
+rel-projects:: #AMT [[X-Science]]
+
+
 - ["There is only one interpretation of quantum mechanics" | David Deutsch FULL INTERVIEW - YouTube](https://www.youtube.com/watch?v=ilEjjnkgTfQ)
 -

@@ -1,6 +1,6 @@
 alias:: FSSF, 
 tags:: [[Futures Studies]], school-based subject,
-project:: [[FF-ed]],
+rel-projects:: [[FF-ed]],
 see-also:: [[FSIB]]
 
 -

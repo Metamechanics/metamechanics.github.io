@@ -1,7 +1,7 @@
 alias::
-author:: [[Dawn Lester]], [[David Parker]] 
-publication-year::
-tags:: book, reference
+author:: [[Dawn Lester]], [[David Parker]]
+year::
+tags:: book
 	- #Book #reference
 - #book #medicine #freshAlts
 - [What Really Makes You Ill? Why Everything You Thought You Knew About Disease Is Wrong by Dawn Lester](https://www.goodreads.com/en/book/show/50351710-what-really-makes-you-ill-why-everything-you-thought-you-knew-about-dis)

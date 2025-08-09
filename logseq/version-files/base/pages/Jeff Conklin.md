@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[CogNexus Institute]] 
+rel-org:: [[CogNexus Institute]] 
 role::
 fields:: #[[dialogue mapping]]
-publications-productions:: [[Compendium (app)]] 
+creations:: [[Compendium (app)]] 
 tags:: person
-project:: #DiaGnosis 
-public:: true
+rel-projects:: #DiaGnosis 
+
 
 - [Jeff Conklin - YouTube](https://www.youtube.com/@DrJeffConklin)
 -

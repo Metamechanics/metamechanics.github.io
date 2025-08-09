@@ -1,8 +1,7 @@
-alias:: 
+alias::
 type::
-enterprise:: [[Global Effort]] 
+enterprise:: [[Global Effort]]
 URL::
-partners:: [[Energenii]] 
 Twitter::
 Facebook::
 Instagram::

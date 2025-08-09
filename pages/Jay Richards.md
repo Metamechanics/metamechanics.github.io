@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation:: [[Discovery Institute - Center for Science and Culture]] 
+rel-org:: [[Discovery Institute - Center for Science and Culture]] 
 role::
 fields::
-publications-productions:: [[The Priveliged Planet]] 
-country::
+creations:: [[The Priveliged Planet]] 
+rel-country::
 tags:: person
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT  
+
+
 - [Jay W. Richards | Discovery Institute](https://www.discovery.org/p/richards/)
 -

@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[9-11 - The Myth and the Reality]] 
-country::
+creations:: [[9-11 - The Myth and the Reality]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -
 - I wonder if Griffin underplays the power of myth in consciousness

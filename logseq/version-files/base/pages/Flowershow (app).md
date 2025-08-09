@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://flowershow.app/
-similar-to::
-purpose:: #publish #markdown 
-project::
+see-also::
+purpose:: #publish #markdown
+rel-projects::
 
 - [Flowershow](https://flowershow.app/)
 - ### Create websites from Markdown

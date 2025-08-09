@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 year-commenced::
 tags:: website, #economics 
-project:: [[EFA]] 
-question::
-public:: true
+rel-projects:: [[EFA]] 
+
+
 see-also:: [[Marginal Revolution University]]
 
 -

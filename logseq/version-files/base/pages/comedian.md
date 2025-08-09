@@ -1,6 +1,6 @@
 alias:: comedy
 tags::
-project::
+rel-projects::
 see-also::
 
 -

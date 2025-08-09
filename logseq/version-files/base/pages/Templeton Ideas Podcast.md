@@ -3,7 +3,7 @@ creators::
 year::
 URL::
 tags:: podcast
-project::
-public:: true
+rel-projects::
+
 
 -

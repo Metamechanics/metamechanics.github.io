@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: #rabbi  
-fields:: #Judaism 
-publications-productions:: 
-country::
+rel-org::
+role:: #rabbi
+fields:: #Judaism
+creations::
+rel-country::
 tags:: person
-project:: #FORCK #[[Babies, Bibles and Bathwater]] 
-question::
-public:: true
+rel-projects:: #FORCK #[[Babies, Bibles and Bathwater]]
+
+
 
 -

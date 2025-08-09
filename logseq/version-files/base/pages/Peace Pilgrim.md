@@ -1,13 +1,13 @@
 alias:: Mildred Lisette Norman, Mildred Norman
 URL:: https://www.peacepilgrim.org/
-organisation:: 
-role:: #mystic #seeker 
+rel-org::
+role:: #mystic #seeker
 fields:: #[[Non-dual spirituality]]
-publications-productions:: [[Peace Pilgrim - Her Life and Works in Her Own Words]] 
-country:: #USA
+creations:: [[Peace Pilgrim - Her Life and Works in Her Own Words]]
+rel-country:: #USA
 tags:: person, #[[inner peace]], #[[world peace]]
-project:: [[Inner Beginner]], [[EFA]] 
-question::
-public:: true
+rel-projects:: [[Inner Beginner]], [[EFA]]
+
+
 
 -

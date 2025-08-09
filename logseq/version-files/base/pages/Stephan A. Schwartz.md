@@ -1,11 +1,11 @@
 alias:: Stephan Schwartz
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

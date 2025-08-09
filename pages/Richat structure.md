@@ -1,7 +1,7 @@
 alias::
-tags:: #Atlantis 
-place::
-country:: #Mauritania 
+tags:: #Atlantis
+location::
+rel-country:: #Mauritania
 place-type::
 nearest-town::
 map-url::

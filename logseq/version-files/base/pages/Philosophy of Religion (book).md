@@ -1,9 +1,9 @@
-alias:: 
-author:: [[Norman Geisler]] 
-publication-year:: 1974
-tags:: book #keyResource #iHaveit 
-project:: #AMT #[[morals as mechanics]]
-question:: [[Why is there evil?]] 
-public:: true
+alias::
+author:: [[Norman Geisler]]
+year:: 1974
+tags:: book #keyResource #iHaveit
+rel-projects:: #AMT #[[morals as mechanics]]
+ [[Why is there evil?]]
+
 
 -

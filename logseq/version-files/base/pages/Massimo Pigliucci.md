@@ -1,14 +1,14 @@
 alias::
 URL:: https://massimopigliucci.org/
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Nonsense on Stilts]] 
-country::
+creations:: [[Nonsense on Stilts]]
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Massimo Pigliucci – Author, Professor of Philosophy](https://massimopigliucci.org/)
 - ### About

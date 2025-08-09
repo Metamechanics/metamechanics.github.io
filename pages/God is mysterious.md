@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project:: [[AMT hyperbook]]
+  rel-projects:: [[AMT hyperbook]]
 	- **Misconception:** God is inherently mysterious. God movies in mysterious ways. God is unknowable.
 	  **Correction:**
 	- ### Comment on misconception

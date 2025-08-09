@@ -1,9 +1,9 @@
 alias::
-tags:: #anomaly 
-place::
-country:: #China 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] #cave 
+tags:: #anomaly
+location::
+rel-country:: #China
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]] #cave
 nearest-town::
 map-url::
 

@@ -1,11 +1,11 @@
 alias:: Hawass
 URL::
-organisation::
-role:: 
-fields:: #Egyptology 
-publications-productions:: 
+rel-org::
+role::
+fields:: #Egyptology
+creations::
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
 -
 - [Discussing the Pyramids and the Zahi Hawass Podcast - YouTube](https://www.youtube.com/watch?v=niEA63aUarI)

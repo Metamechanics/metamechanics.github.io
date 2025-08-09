@@ -1,6 +1,6 @@
 alias:: chakra
 tags::
-project:: [[EFA]] 
+rel-projects:: [[EFA]] 
 see-also:: [[Dantian]]
 
 - https://en.wikipedia.org/wiki/Chakra#Seven_chakra_system

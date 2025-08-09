@@ -1,9 +1,9 @@
 alias::
-author:: [[Hannah Arendt]] 
-publication-year::
-tags:: book #iHaveit 
-project:: #AMTbook #AMT 
-question::
-public:: true
+author:: [[Hannah Arendt]]
+year::
+tags:: book #iHaveit
+rel-projects:: #AMTbook #AMT
+
+
 
 -

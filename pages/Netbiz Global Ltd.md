@@ -2,10 +2,10 @@ alias:: Netbiz
 URL:: https://netbizltd.com/
 org-type:: #business #software #web 
 people:: [[Chris P]] 
-publications:: [[neo4j commander]] 
+creations:: [[neo4j commander]] 
 tags:: organisation #collaborator 
-project:: #DiaGnosis #[[Metamechanic Mycelium]] 
-public:: true
+rel-projects:: #DiaGnosis #[[Metamechanic Mycelium]] 
+
 
 - [netbiz global ltd](https://netbizltd.com/)
 -

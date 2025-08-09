@@ -1,12 +1,12 @@
-alias:: 
+alias::
 URL:: https://www.effectivealtruism.org/
-people:: 
-organisation:: [[Centre for Effective Altruism]] 
-publications:: 
-tags:: #website #keyResource #toStudy #course #collaborator 
-project:: #EFA  
-question::
-public:: true
+people::
+rel-org:: [[Centre for Effective Altruism]]
+creations::
+tags:: #website #keyResource #toStudy #course #collaborator
+rel-projects:: #EFA
+
+
 
 - [Effective Altruism](https://www.effectivealtruism.org/)
 - [The Introductory EA Program | Effective Altruism](https://www.effectivealtruism.org/virtual-programs/introductory-program)

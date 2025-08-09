@@ -2,10 +2,10 @@ alias::
 URL::
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation, Nuremberg, Germany
-project::
-public:: true
+rel-projects::
+
 
 -
 -

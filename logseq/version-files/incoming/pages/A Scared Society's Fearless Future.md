@@ -1,5 +1,5 @@
-Question-Problem::
-Related-pubs::
+
+
 Tags:: #toWrite, #[[My Books]] #myCreation #Metamechanica
 
 - I wrote all the below quite a while ago. My thinking may have moved in since then. Regardless, this looks like it fits in with #EFA somehow. Not sure if it links in with [[TUCTUI]]

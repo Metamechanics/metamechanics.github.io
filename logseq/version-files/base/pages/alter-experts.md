@@ -1,6 +1,5 @@
 alias:: alterexperts, alter-expert
 tags::
-project:: #[[All Projects]]
+rel-projects:: #[[All Projects]]
 see-also:: #expert
-
 -

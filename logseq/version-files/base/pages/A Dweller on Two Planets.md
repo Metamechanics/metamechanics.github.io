@@ -1,9 +1,9 @@
 alias:: The Dividing of the Way
-author:: [[Frederick Spencer Oliver]] 
-publication-year:: 1905
-tags:: book, reference #Atlantis #Lemuria #[[channelled material]] #novel 
-project:: [[Adam's Atlas]], [[FACTs]] 
-public:: true
+author:: [[Frederick Spencer Oliver]]
+year:: 1905
+tags:: book #Atlantis #Lemuria #[[channelled material]] #novel
+rel-projects:: [[Adam's Atlas]], [[FACTs]]
+
 
 - Phylos the Thibetan
 - automatic writing

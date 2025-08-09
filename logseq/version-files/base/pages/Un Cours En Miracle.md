@@ -1,6 +1,6 @@
 alias:: UCEM
 tags:: #ACIM #French #audio
-project:: #ACIM-4T #[[LOTE study]]
+rel-projects:: #ACIM-4T #[[LOTE study]]
 see-also::
 
 - [UCEM: Leçons d’Un cours en miracles | lecons.acim.org](https://lecons.acim.org/fr)

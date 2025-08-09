@@ -1,9 +1,9 @@
 alias:: Troy
 tags:: #[[Greek civilization]], #[[Trojan horse]]
-place::
-country:: #Turkey 
-place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
-nearest-town:: 
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]] rel-projects:: #[[Adam's Atlas]]
+nearest-town::
 map-url::
 -
 - What is the story of Troy? Was it regarded as fantasy and pure myth before it was actually discovered?

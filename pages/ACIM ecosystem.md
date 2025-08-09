@@ -1,6 +1,6 @@
 alias::
 tags::
-project:: [[ACIM4T]] 
+rel-projects:: [[ACIM4T]] 
 see-also:: [[ACIM accordance]], [[ACIM markdown]]
 
 -

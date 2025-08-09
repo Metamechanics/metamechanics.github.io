@@ -1,10 +1,10 @@
 alias::
-author:: [[Nancy Willard]] 
-publication-year::
-tags:: book 
-project:: #AMT 
-question::
-public:: true
+author:: [[Nancy Willard]]
+year::
+tags:: book
+rel-projects:: #AMT
+
+
 
 - about:
 	- [[Rainer Maria Rilke]]

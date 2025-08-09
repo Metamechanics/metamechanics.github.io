@@ -1,8 +1,8 @@
 alias:: Le Petit Prince
-author:: [[Antoine Exupery]] 
-publication-year::
+author:: [[Antoine Exupery]]
+year::
 tags:: book, #[[LOTE study]]
-project:: 
-public:: true
+rel-projects::
+
 
 -

@@ -1,7 +1,7 @@
 alias:: mind change, changing one's mind, 
 tags::
 url:: 
-project::
+rel-projects::
 see-also::
 
 -

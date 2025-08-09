@@ -1,9 +1,9 @@
 alias:: Hebrew Bible
 author::
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+year::
+tags:: book
+rel-projects::
+
 - acronym of
 	- Torah
 	- Nivi'im

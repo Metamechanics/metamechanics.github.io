@@ -1,11 +1,11 @@
-journal:: #[[Nautilus (website)]]
-authors::
+rel-journal:: #[[Nautilus (website)]]
+author::
 year::
 URL:: https://nautil.us/making-friends-with-your-past-and-future-selves-1171997/
 tags:: article, reference
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -
 - Making Friends with Your Past and Future Selves

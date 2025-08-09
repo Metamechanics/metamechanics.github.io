@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
-role:: [[independent researcher]] 
-fields:: forensic geologist #geology 
-publications-productions:: 
-tags:: person, #keyThinker 
-project::
-public:: true
+rel-org::
+role:: [[independent researcher]]
+fields:: forensic geologist #geology
+creations::
+tags:: person, #keyThinker
+rel-projects::
+
 
 - see [[Kensington runestone]] and [[Westford Knight]]
 -

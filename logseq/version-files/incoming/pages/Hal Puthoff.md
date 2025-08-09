@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: 
+creations:: 
 tags:: person, [[UFO]], [[remote viewing]], [[psi]], 
-project::
-public:: true
+rel-projects::
+
 -

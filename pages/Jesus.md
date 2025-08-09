@@ -1,14 +1,14 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -
 - Jesus as moral example #[[Jordan Peterson]]?
 - Jesus as our Saviour #[[Wesley Huff]]
@@ -18,4 +18,6 @@
 - Jesus as exemplar for decision-making
 - Jesus as a model of future self
 	- but this depends on looking at Jesus the right way ie. _not_ as a body
+	-
+y
 	-

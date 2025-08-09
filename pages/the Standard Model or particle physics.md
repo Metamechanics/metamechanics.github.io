@@ -1,6 +1,6 @@
 alias:: Standard Model
 tags::
-project::
+rel-projects::
 person::
 
 -

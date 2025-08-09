@@ -1,7 +1,7 @@
 alias::
-tags:: #megalith 
-place::
-country:: #[[New Zealand]]
+tags:: #megalith
+location::
+rel-country:: #[[New Zealand]]
 place-type::
 nearest-town::
 map-url::

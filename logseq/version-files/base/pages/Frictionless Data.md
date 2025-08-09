@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://frictionlessdata.io/, https://frictionlessdata.io/introduction/
-similar-to::
+see-also::
 purpose::
-project::
+rel-projects::
 
 - [Frictionless Projects | Frictionless Data](https://frictionlessdata.io/projects/#software-and-standards)
 - [Frictionless Data | Frictionless Data](https://frictionlessdata.io/)

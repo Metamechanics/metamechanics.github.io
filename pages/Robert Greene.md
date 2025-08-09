@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The 48 Laws of Power]], [[The Laws of Human Nature]] 
-country::
+creations:: [[The 48 Laws of Power]], [[The Laws of Human Nature]]
+rel-country::
 tags:: person
-project:: [[AMT]] 
-question::
-public:: true
+rel-projects:: [[AMT]]
+
+
 
 -

@@ -2,18 +2,18 @@ alias::
 URL:: https://mannagum.org.au/
 org-type::
 people::
-publications:: 
+creations::
 tags:: organisation
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Home - Manna Gum](https://mannagum.org.au/)
 - [Manna Matters - Manna Gum](https://mannagum.org.au/resources/manna-matters/) - economics in the Bible,
 	- [Post-capitalism by Design not Disaster - Manna Gum](https://mannagum.org.au/articles/Post-capitalism-by-Design-not-Disaster)
 	- # Post-capitalism by Design not Disaster
 	- I think there are two main reasons why our culture is not ready to embrace degrowth. The first is a deep-seated techno-optimism that shapes cultural thinking about environmental problems. The other is a dominant conception of the good life under capitalism that is based on consumer affluence.
-	  
+
 	  *[This is an edited version of an article which first appeared in a longer form in vol 3 suppl B of *The Ecological Citizen*. It has been edited and reprinted here with permission.]*
 	- This article addresses the subject of post-capitalist political economy. That is an intimidating topic, especially since transcending capitalism will be a monumental task. Capitalism certainly is not going to lie down like a lamb at the polite request of environmentalists, or anyone else. What this means is that serious sustainability and justice advocates of every stripe need to think very carefully about the question of strategy. More specifically, we must confront the question of where and how to invest our time, energy and resources, if we genuinely seek a fundamentally different type of economic system ‘beyond capitalism.’
 	- Over the last ten years I have been part of a movement advocating for a ‘degrowth’ process of planned economic contraction. In what follows I am going to use this alternative economic paradigm to frame and analyse the political economy of post-capitalism. I know very well ’degrowth’ is an ugly term, but as a slogan for justice and sustainability, I maintain that it captures an essential insight: it directly evokes, more clearly than any other term, the need for planned contraction of the energy and resource demands of overgrown or ‘developed’ economies. That is an agenda that mainstream environmental and social discourse refuses to acknowledge, because significant contraction of energy and resource demands is incompatible with ongoing growth in GDP. This growth fetish simply must be overcome. *How* it is to be overcome is another question: the transition may take a variety of forms, with some certainly preferable to others. How might we manage and drive this transition by design rather than disaster, and what might society look like after capitalism?
@@ -37,9 +37,9 @@ public:: true
 	- ####  C) Growing population
 		- To make matters more challenging still, there are now 7.8 billion people on Earth, increasing by about 200,000 people every day. Recent UN projections suggest we are heading for around 9.7 billion by mid-century and 11 billion by 2100.
 		- All this radically calls into question the legitimacy of continuous economic expansion and rising material living standards in rich nations. And yet, despite the fact that humanity is already making grossly unsustainable demands on a finite biosphere, all nations on the planet—including or especially the richest nations—are seeking to grow their economies without apparent limit. It is assumed that a larger economy is always better; that ongoing growth is necessary for ‘progress.’ One does not have to be a sophisticated thinker to see that this is a recipe for ecological disaster, although alarmingly this point seems to be lost on almost all politicians and most economists.
-		  
+
 		  ![](https://mannagum.org.au/images/content/photo-1495556650867-99590cea3657.jpg)
-		  
+
 		  ![](https://mannagum.org.au/images/content/power-station-374097-960-720.jpg)
 	- ##  Capitalism cannot resolve its ecological contradictions
 		- In theory, there are two broad ways to respond to the limits to growth predicament within capitalism. The first is to try to create a form of capitalism that deliberately stops growing and actually voluntarily contracts within sustainable limits. The problem here is that various growth imperatives are built into the structure of capitalism, which makes the notion of ‘degrowth capitalism’ a contradiction in terms (to be distinguished from capitalism in recession, which is *unplanned* economic contraction). Therefore, the only other means of resolving the limits to growth predicament *within* capitalism is to radically decouple economic activity from environmental impact through what is called ‘green growth.’ The hope here is that technological innovation, market mechanisms, and efficiency improvements will reduce energy and resource demands even as economies continue to grow in terms of GDP. Nice in theory, perhaps, but what is happening is that the absolute reductions in energy and resource demands needed for sustainability are not occurring—certainly not to sufficient degrees—and as the global economy seeks ongoing growth, absolute decoupling gets harder and harder to achieve. Efficiency without sufficiency is lost.
@@ -47,9 +47,9 @@ public:: true
 		- The crisis of ecological overshoot also provides insight into what any alternative must look like. Broadly speaking, the implications here are clear but radical: if the global economy is to operate within the sustainable carrying capacity of the planet, this requires (among other things) the richest nations to initiate a degrowth process of planned economic contraction, on the path to a ‘steady state’ economy of stable and sustainable biophysical throughput. Obviously, the poorest nations would also need to achieve some ‘steady state’ in time, but first their economic capacities must be developed in some appropriate form to ensure basic needs for all are met. However, the focus of this discussion is the wealthy nations.
 	- ##  An alternative political project
 	- The second prerequisite for a paradigm shift in political economy—for a degrowth transition, in particular—is the existence of an alternative political project. This is not the forum to comprehensively defend this alternative political project, so I am just going to state it, or one version of it, in order to show that an alternative post-capitalist political project is beginning to take form.
-	  
+
 	  ![](https://mannagum.org.au/images/content/escape.jpg)
-	  
+
 	  'Escape' by John Holcroft
 	- The following political agenda is, in my view, both coherent and attractive, but it is, all too obviously, disconnected from political ‘realism’ in developed nations (or anywhere) today. Of course, I would argue that this is an indictment of mainstream politics, rather than of degrowth.
 	- **Alternatives to GDP: **Any political transition beyond capitalism requires transcending the GDP fetish  and establishing better and more nuanced ways to measure societal progress, such as the Genuine Progress Indicator. Post-growth measures of progress like this open up space for political parties to implement policy and institutional changes (like those below) which would genuinely improve social wellbeing and enhance ecological conditions, even if these would not increase, and probably even decrease, GDP.
@@ -61,41 +61,41 @@ public:: true
 	- **Population policies:** This is always controversial territory, but the environmental logic is compelling. As population grows, more resources are required to provide for the material conditions of human wellbeing. We need to discuss this topic openly and with all the wisdom and compassion we can muster. Population policy must be part of any coherent politics of sustainability in recognition that we live on a ‘full Earth.’
 	- **Distributive justice: **Last but not least, environmental concerns cannot be isolated from social justice concerns, both nationally and globally. The conventional path to poverty alleviation is via the strategy of GDP growth, on the assumption that a ‘rising tide will lift all boats.’ A degrowth economy would recognise a rising tide will sink all boats, and thus poverty alleviation must be achieved much more directly. Rather than growing the economic pie, a politics of degrowth would slice the economic pie differently through a major redistribution of wealth and power. Prominent policies here include the notion of a Universal Basic Income, while others argue for a Job Guarantee, or Universal Basic Services. These types of policies would go a long way to directly eliminating poverty, with inequality further reduced by policies such as maximum wage legislation, and progressive wealth, income, and land taxes. Eco-socialists would argue that a just distribution of wealth and power would have to involve significant socialisation of property and curtailment of ‘the market.’ How far socialisation would need to go, and the nature of such a transformation, is open to debate.
 	- These policy platforms—no doubt all in need of far more elaboration and discussion than can be given here—are coherent political, economic, and social goals if a transition to a degrowth society were recognised as necessary. Each of these policies could take various forms, and there is, and should be, debate within the degrowth movement and beyond about various ways to structure a post-capitalist society. The main point here is simply that a relatively coherent and developed alternative politico-economic project is emerging to replace the capitalist paradigm. So, the second prerequisite for a paradigm shift is also arguably present: there is a coherent, alternative political economy.
-	  
+
 	  > ![](https://mannagum.org.au/assets/images/gumnut-breakout.png)
 	- I am the first to admit that this policy platform is so unpalatable to the dominant cultural consciousness that it would be political suicide for any political party to try to implement it at present.
-	  
+
 	  Nevertheless, I am the first to admit that this policy platform is so unpalatable to the dominant cultural consciousness that it would be political suicide for any political party to try to implement it at present. In other words, what is arguably politically necessary is both socially and politically unthinkable—which is one reason, no doubt, for our current state of despairing political paralysis.
-	  
+
 	  Because of this, the policy platform outlined above is unlikely to initiate a degrowth transition. Rather, any transition will only ever be the outcome of social movements; the outcome, that is, of social forces that emerge out of crisis (or a series of crises) and which actively create the cultural consciousness that sees policies for degrowth as both necessary and desirable. It is through crisis that I see the citizenries in affluent societies being shaken awake from the depoliticising effects of affluence.
-	  
+
 	  In other words, a post-capitalist government may only be the outcome, not the driving force, of a transition to a just and sustainable society. Therefore, our best hope for inducing a degrowth transition by design is to build a post-capitalist economics ‘from below’: to build within the shell of the current system that is currently in the process of deteriorating. Waiting for governments to act would be like waiting for Godot: a tragi-comedy in two acts, in which nothing happens, twice.
 	- ##  Support from a comprehensive coalition of social forces
-	  
+
 	  This leads me to the third prerequisite for a degrowth transition: that it must have support from a comprehensive coalition of social forces. Briefly, I see four key features of post-capitalism emerging from the grassroots (features which must scale up for a degrowth economy to emerge):
-	  
+
 	  1. Non-monetary forms of the sharing economy, whereby communities self-organise to share resources in order to save money, partially ‘escape the market,’ and avoid significant amounts of production. This is a key reason why a degrowth economy could still thrive even when contracting in GDP terms: produce much less but share much more, for societies can create common wealth through sharing. This is part of what ‘efficiency’ means in a degrowth economy.
-	  
+
 	  2. A degrowth economy is likely to require a transformation of the household economy from being merely a place of consumption, to becoming a place of production and self-provision. There are two main reasons why.  Firstly, by producing more within the household, less time is needed to work in the formal economy, leaving more time outside the market for social activism and community engagement. Secondly, if financial crises deepen in coming years, the household economy may be an essential means of meeting basic needs, so the task is to prepare now for what may well prove to be harder economic times ahead. We should aim for sustainability, but we may have to settle for resilience. On this topic there is no better place to look than the work of permaculturist David Holmgren, whose vision and insights here are indispensable.
-	  
+
 	  3. A key feature of a degrowth economy involves significant localisation of the economy, moving toward a ‘bioregional’ economy where local needs are predominantly met with local resources, shortening the chain between production and consumption.
-	  
+
 	  Finally, any post-capitalist economy is going to require new modes of production, moving away from profit-maximising corporations (often owned by absentee shareholders), towards an economy where worker cooperatives, community enterprises, and not-for-profit models are the dominant forms of economic organisation, paying people living wages but reinvesting surpluses back into the local community. Again, there are various ways to imagine such alternative economic arrangements and experimentation may be required.
-	  
+
 	  Alternative modes of economy, such as these four, are bubbling everywhere under the surface, which is a hopeful sign. The Transition Towns Movement, for example, is a coherent manifestation of this grassroots approach to building local, community economies. But one must also admit that these transgressive experiments remain small and marginalised by the dominant modes of political economy. So, in terms of the third prerequisite for a post-capitalist transition, we have to conclude that the social forces are mobilising but have not yet been able to scale up to positively disrupt, or even significantly threaten, the dominant paradigm.
-	  
+
 	  ![](https://mannagum.org.au/images/content/Group-permaculture.jpg)
 	- ##  Cultural consent: The sufficiency imperative
-	  
+
 	  The final prerequisite for a post-capitalist degrowth transition is broad-based cultural consent. Passive consent may suffice here, without the majority of people actively seeking degrowth. This really is a critical element in any planned transition in political economy and one that currently does not exist in terms of degrowth. It seems the majority of people either do not think degrowth  is necessary or, if they do, they do not like what it means in terms of reduced and transformed consumption and production practices.
-	  
+
 	  I think there are two main reasons why our culture is not ready to embrace degrowth. The first is a deep-seated techno-optimism that shapes cultural thinking about environmental problems. This view assumes that technology and market mechanisms will be able to resolve the crises of capitalism without system change and even without much in terms of ‘lifestyle’ change. In other words, the zeitgeist seems to be that consumer affluence is consistent with justice and sustainability, because it is assumed that efficiency improvements in modes of production will be able to produce ‘green growth’ without having to rethink consumption practices. This points to a serious cultural obstacle to a degrowth transition: the dominant conception of the good life under capitalism is based on consumer affluence. It seems to me that there will never be a post-capitalist politics until there is a post-consumerist culture that is prepared to embrace material sufficiency as a desirable way of life. Herein lies the importance of the voluntary simplicity, simple living, and downshifting movements. Although in need of radicalisation (and organisation for collective action), these movements or subcultures are beginning to create the cultural conditions needed for a politics and economics of degrowth to emerge.
 	- ##  It all depends on the ideas (and practices) that are lying around
-	  
+
 	  When the crises of capitalism deepen—perhaps in the form of a new financial crisis or a second Great Depression—the task will be to ensure that such destabilised conditions are used to advance progressive humanitarian and ecological ends, rather than exploited to further entrench the austerity politics of neoliberalism. I recognise, of course, that the latter remains a real possibility, as did the arch-capitalist Milton Friedman, who expressed the point in these terms:
-	  
+
 	  Only a crisis—actual or perceived—produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around. That, I believe, is our basic function: to develop alternatives to existing policies, to keep them alive and available until the politically impossible becomes the politically inevitable.
-	  
+
 	  I do not often find myself in complete agreement with Milton Friedman, but on this point I am. It is essential for the ecocentric community to keep hopes of a radically different and more humane form of society alive, until what today seems impossible or implausible becomes, if not inevitable, then at least possible and perhaps even probable.
-	  
+
 	  *Dr. Samuel Alexander is the Director of the Simplicity Institute and the Academic Director of Sustainability and Environmental Action for the School for International Training. An avid practitioner of sustainable living strategies, he has co-produced the doco *A Simpler Way.

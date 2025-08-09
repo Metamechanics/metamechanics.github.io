@@ -1,9 +1,9 @@
-journal:: [[The Journal of Human Evolution]] 
-authors:: [[Gay Robins]] 
+rel-journal:: [[The Journal of Human Evolution]]
+author:: [[Gay Robins]]
 year::
 URL::
 tags:: article, reference
-project::
-public:: true
+rel-projects::
+
 
 -

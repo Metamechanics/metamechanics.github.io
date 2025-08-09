@@ -1,9 +1,9 @@
 alias:: Van Kalesi
 tags::
-place::
-country:: #Turkey 
+location::
+rel-country:: #Turkey
 place-type::
-nearest-town:: #Van 
+nearest-town:: #Van
 map-url::
 
 -

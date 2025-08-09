@@ -1,10 +1,10 @@
 alias::
 tags:: concept
-domain:: #physics #thermodynamics 
-people:: [[Ruth Kastner]], [[Carlo Rovelli]] 
-related-to::
-project:: [[AMT]]
-public:: true
+domain:: #physics #thermodynamics
+people:: [[Ruth Kastner]], [[Carlo Rovelli]]
+see-also::
+rel-projects:: [[AMT]]
+
 
 -
 -

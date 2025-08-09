@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Cosmic Explorers - Scientific Remote Viewing, Extraterrestrials and a Message for Mankind]] 
-country::
+creations:: [[Cosmic Explorers - Scientific Remote Viewing, Extraterrestrials and a Message for Mankind]]
+rel-country::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

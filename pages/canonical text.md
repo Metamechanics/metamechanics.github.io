@@ -1,6 +1,6 @@
 alias:: canonical texts
 tags::
-project::
+rel-projects::
 see-also:: #[[canonical article]]
 
 -

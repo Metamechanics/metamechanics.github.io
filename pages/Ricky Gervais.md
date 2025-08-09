@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[comedian]], 
 fields:: 
-publications-productions:: 
+creations:: 
 tags:: person, #atheism 
-project:: [[AMT]], [[Inner Beginner]] 
-public:: true
+rel-projects:: [[AMT]], [[Inner Beginner]] 
+
 
 - "Atheism is the lack of belief in God."
 	- response: [[There is no such thing as faithlessness.]]

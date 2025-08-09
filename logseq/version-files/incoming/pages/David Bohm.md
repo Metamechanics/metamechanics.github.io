@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: [[scientist]], [[philosopher]], [[academic]] 
 fields:: [[physics]] 
-publications:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 -
 - [[Holomovement]]
 - [[Implicate Order]]

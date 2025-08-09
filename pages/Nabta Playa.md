@@ -1,6 +1,6 @@
 alias::
 tags:: #place #Sahara 
-country::
+rel-country::
 place-type:: #[[ancient site]]
 nearest-town::
 map-url::

@@ -1,10 +1,10 @@
 alias::
-tags:: concept, #propaganda #ACIM  
-domain:: 
-people:: 
-related-to::
-project:: #AMT #AMTbook #ACIM-4T 
-question::
-public:: true
+tags:: concept, #propaganda #ACIM
+domain::
+people::
+see-also::
+rel-projects:: #AMT #AMTbook #ACIM-4T
+
+
 
 -

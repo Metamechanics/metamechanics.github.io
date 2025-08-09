@@ -1,6 +1,6 @@
 person:: [[Dewey Larson]] 
 tags:: #theory #[[theory of everything]] #physics #[[new physics]] 
-project:: [[FACTs]], [[Another M-Theory]] 
+rel-projects:: [[FACTs]], [[Another M-Theory]] 
 see-also:: [[Daniel Phoenix III]]
 
 - [LRC - The Reciprocal System of Physical Theory](http://www.lrcphysics.com/rst/)

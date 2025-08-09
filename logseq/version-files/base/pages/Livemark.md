@@ -1,7 +1,7 @@
 alias::
-tags:: app, software, #markdown 
+tags:: app, #markdown
 URL:: https://livemark.frictionlessdata.io/
-similar-to:: 
+see-also::
 purpose::
-project:: [[EFA]], [[EFA hyperbook]], [[WADS study]], [[DiaGnosis]]
+rel-projects:: [[EFA]], [[EFA hyperbook]], [[WADS study]], [[DiaGnosis]]
 -

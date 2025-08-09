@@ -1,12 +1,12 @@
 alias:: Velikovsky
 URL:: https://www.velikovsky.info/
-organisation::
-role:: 
+rel-org::
+role::
 fields::
-publications:: [[Worlds in Collision]], [[Mankind in Amnesia]], [[Earth in Upheaval]], [[Oedipus and Akhnaton]], [[Peoples of the Sea]] 
-tags:: person, 
-project:: [[Adam's Atlas]] 
-public:: true
+creations:: [[Worlds in Collision]], [[Mankind in Amnesia]], [[Earth in Upheaval]], [[Oedipus and Akhnaton]], [[Peoples of the Sea]]
+tags:: person,
+rel-projects:: [[Adam's Atlas]]
+
 
 - [The Velikovsky Encyclopedia | The Immanuel Velikovsky database with reference sources](https://www.velikovsky.info/)
 - [The Immanuel Velikovsky Archive](https://www.varchive.org/)

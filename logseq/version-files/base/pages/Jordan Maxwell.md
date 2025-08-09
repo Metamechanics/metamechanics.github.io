@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[alternative history]], [[ancient civilization]], [[astrotheology]], [[occult]], [[esoteric teaching]], [[UFO's]], [[alien abduction]] 
-publications-productions:: 
+fields:: [[alternative history]], [[ancient civilization]], [[astrotheology]], [[occult]], [[esoteric teaching]], [[UFO's]], [[alien abduction]]
+creations::
 tags:: person
-project:: [[FACTs]], [[Fresh Alternatives]], [[Adam's Atlas]], [[Babies, Bibles and Bathwater]] 
-public:: true
+rel-projects:: [[FACTs]], [[Fresh Alternatives]], [[Adam's Atlas]], [[Babies, Bibles and Bathwater]]
+
 
 - [Jordan Maxwell Lectures - YouTube](https://www.youtube.com/playlist?list=PLRmKTeoNI2tPtmAn-EKg0OyjuqErftPtc)
 - [Jordan Maxwell Show | The LEGITIMATE Jordan Maxwell](https://jordanmaxwellshow.com/)

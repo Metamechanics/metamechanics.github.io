@@ -1,8 +1,8 @@
 alias::
-author:: [[Ed Conway]] 
-publication-year::
-tags:: book, reference, #commodities #[[raw materials]] #[[supply chain]]
-project:: [[EFA]] 
-public:: true
+author:: [[Ed Conway]]
+year::
+tags:: book, #commodities #[[raw materials]] #[[supply chain]]
+rel-projects:: [[EFA]]
+
 
 -

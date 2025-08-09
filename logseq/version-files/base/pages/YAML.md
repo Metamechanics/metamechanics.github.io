@@ -1,9 +1,9 @@
 alias::
 tags:: coding
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS]]
+rel-projects:: [[WADS]]
 
 -
 - [lucasepe/yml2dot: Turn YAML into beautiful Graph](https://github.com/lucasepe/yml2dot)

@@ -1,8 +1,7 @@
 alias:: 
 tags:: #Faust #devil 
 url:: 
-project:: #AMTbook 
+rel-projects:: #AMTbook 
 see-also:: #Beelzebub, #Lucifer
-
 -
 -

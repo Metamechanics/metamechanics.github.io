@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #[[Mo Pai]] #qigong 
-publications-productions:: 
-country:: #China 
+fields:: #[[Mo Pai]] #qigong
+creations::
+rel-country:: #China
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

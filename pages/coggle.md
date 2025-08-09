@@ -1,7 +1,7 @@
 alias::
-tags:: app, software, #comparator 
-URL:: https://coggle.it/ 
-similar-to::
+tags:: app, #comparator
+URL:: https://coggle.it/
+see-also::
 purpose:: #[[mind mapping]]
-project:: #DiaGnosis
+rel-projects:: #DiaGnosis
 - [Coggle - Powerful Mind Maps & Flowcharts: Collaborate, Note, Plan, Study, Brainstorm.](https://coggle.it/)

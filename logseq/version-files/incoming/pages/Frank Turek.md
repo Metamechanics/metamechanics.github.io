@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Stealing from God]], [[I Don't Have Enough Faith to be an Atheist]] 
+creations:: [[Stealing from God]], [[I Don't Have Enough Faith to be an Atheist]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 -
 - [[Critical Thinking: The Secret Weapon of Confident Christians]]
 -

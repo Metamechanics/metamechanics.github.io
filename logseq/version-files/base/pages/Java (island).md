@@ -1,7 +1,7 @@
 alias::
 tags::
-place::
-country:: [[Indonesia]] 
+location::
+rel-country:: [[Indonesia]]
 place-type::
 nearest-town::
 map-url::

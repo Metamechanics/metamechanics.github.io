@@ -1,13 +1,13 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 - [The --daniel Papers | Reciprocal System of theory](https://reciprocalsystem.org/papers/daniel-phoenix-iii)
 -

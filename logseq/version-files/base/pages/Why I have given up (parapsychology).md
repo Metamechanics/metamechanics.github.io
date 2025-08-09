@@ -1,23 +1,23 @@
-book:: 
- authors:: [[Susan Blackmore]] 
+book::
+ author:: [[Susan Blackmore]]
 year:: 2001
 URL::
-tags:: article, reference, #parapsychology #paranormal #psi #skepticism #orthodoxy 
-project:: [[The pSilence of Science]], [[X-Science]] 
-public:: true
+tags:: article, reference, #parapsychology #paranormal #psi #skepticism #orthodoxy
+rel-projects:: [[The pSilence of Science]], [[X-Science]]
+
 
 -
 - # Why I have given up
 - Why I have given up In P. Kurtz (Ed) Skeptical Odysseys: Personal Accounts by the World’s Leading Paranormal Inquirers, Amherst, New York, Prometheus Books, 2001, 85-94 Imagine this … Imagine a world in which if you love someone enough, or need them enough, your minds will communicate across the world wherever you are, regardless of …
-  
+
   20 min. read
-  
+
   View original
-  
+
   ---
 - ### Why I have given up
 - In P. Kurtz (Ed) *Skeptical Odysseys: Personal Accounts by the World’s Leading Paranormal Inquirers*, Amherst, New York, Prometheus Books, 2001, 85-94
-  
+
   ---
 - Imagine this … Imagine a world in which if you love someone enough, or need them enough, your minds will communicate across the world wherever you are, regardless of space and time. Imagine a world in which, if only you can think a thought clearly and powerfully enough it can take on a life of its own, moving objects and influencing the outcome of events far away. Imagine a world in which each of us has a special inner core – a ‘real self’ – that makes us who we are, that can think and move independently of our coarse physical body, and that ultimately survives death, giving meaning to our otherwise short and pointless lives. This is (roughly speaking) how most people think the world is. It is how I used to think -and even hope – that the world is. I devoted 25 years of my life to trying to find out whether it is.  Now I have given up.
 - If any one of these three possibilities turned out to be true then the world is a fundamentally different place from the one we think we know, and much of our science would have to be overthrown. Any scientist who discovered the truth of any of these propositions – or, even better, was able to provide a theory to explain them – would surely go down in the history of science as a hero; as the woman who changed the face of science for ever. As Richard Dawkins puts it “The discoverer of the new energy field that links mind to mind in telepathy, or of the new fundamental force that moves objects without trickery around a tabletop, deserves a Nobel Prize, and would probably get one.” (Dawkins, 1998, p 128).

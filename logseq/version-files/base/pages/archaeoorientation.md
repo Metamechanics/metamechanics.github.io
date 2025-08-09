@@ -1,9 +1,9 @@
 alias:: archaeo-orientation
 tags:: concept
-domain:: 
-people:: [[Mario Buildreps]],  
-related-to:: #archaeoastronomy 
-project:: #[[Adam's Atlas]] #FRESH 
-public:: true
+domain::
+people:: [[Mario Buildreps]],
+see-also:: #archaeoastronomy
+rel-projects:: #[[Adam's Atlas]] #FRESH
+
 
 -

@@ -1,9 +1,9 @@
 alias:: Energy Transitions - History Requirements Prospects, Energy Transitions (book)
 author::
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+year::
+tags:: book
+rel-projects::
+
 title:: Energy Transitions - History, Requirements, Prospects
 
 -

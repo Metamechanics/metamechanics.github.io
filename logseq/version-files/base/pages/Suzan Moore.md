@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: [[scientist]] 
-fields:: [[geology]], [[megalith]], #[[ancient sites]] 
-publications-productions:: 
-country:: #Canada 
+rel-org::
+role:: [[scientist]]
+fields:: [[geology]], [[megalith]], #[[ancient sites]]
+creations::
+rel-country:: #Canada
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
 
 - https://www.khemitology.com/author/tjl/
 - https://metaphysicalegypt.com/workshops/

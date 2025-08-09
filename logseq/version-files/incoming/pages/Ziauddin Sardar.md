@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[Futures Studies]], [[Islamic Studies]] 
-publications:: 
+fields:: [[Futures Studies]], [[Islamic Studies]]
+creations::
 tags:: person
-project:: [[FF-ed]], [[freshAlts]] 
-public:: true
+rel-projects:: [[FF-ed]], [[freshAlts]]
+
 -

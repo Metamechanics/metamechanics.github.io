@@ -1,10 +1,10 @@
 alias::
-author:: [[Tom Harpur]] 
-publication-year::
-tags:: book 
-project:: #AMT #[[Babies, Bibles and Bathwater]] #myth  
-question:: [[Did Jesus exist?]] 
-public:: true
+author:: [[Tom Harpur]]
+year::
+tags:: book
+rel-projects:: #AMT #[[Babies, Bibles and Bathwater]] #myth
+ [[Did Jesus exist?]]
+
 
 -
 - see also: [[Did Jesus exist?]]

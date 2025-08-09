@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Sacred Economics]] 
+creations:: [[Sacred Economics]]
 tags:: person
-project:: [[AMT]], [[EFA]], [[X-Science]] 
-public:: true
+rel-projects:: [[AMT]], [[EFA]], [[X-Science]]
+
 
 -
 -

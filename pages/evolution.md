@@ -1,6 +1,6 @@
 alias::
 tags:: #idea  
-project:: #AMT #X-Science 
+rel-projects:: #AMT #X-Science 
 see-also:: [[Intelligent Design]], [[natural selection]]
 
 -

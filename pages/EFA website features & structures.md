@@ -1,8 +1,7 @@
 alias:: EFA website description
 tags:: #website, #myCreation #toOutline #toDesign #internal 
-project:: #EFA
+rel-projects:: #EFA
 see-also:: [[EFA structure, process & platform]]
-
 - Site design ideas and exemplars
 -
 - Site features and functionality

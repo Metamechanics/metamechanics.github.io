@@ -1,10 +1,10 @@
 alias::
 author::
-publication-year::
-tags:: book, reference #Apocrypha #gnostic #[[Mary Magdalene]] #[[non-canonical gospel]]
-project:: [[Babies, Bibles and Bathwater]], [[AMT]], 
-question::
-public:: true
+year::
+tags:: book #Apocrypha #gnostic #[[Mary Magdalene]] #[[non-canonical gospel]]
+rel-projects:: [[Babies, Bibles and Bathwater]], [[AMT]],
+
+
 
 -
 -

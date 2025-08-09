@@ -1,11 +1,11 @@
 alias:: Science Uprising
 URL:: https://scienceuprising.com/
-organisation:: [[Discovery Institute - Center for Science and Culture]] 
+rel-org:: [[Discovery Institute - Center for Science and Culture]] 
 year-commenced::
 tags:: website, #Materialism #[[Intelligent Design]] #[[Michael Egnor]] #[[Jay Richards]] #[[Stephen Meyer]] #keyResource 
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT  
+
+
 
 - the Christian school of science
 - [Reality: Real vs. Material | Science Uprising](https://scienceuprising.com/reality/)

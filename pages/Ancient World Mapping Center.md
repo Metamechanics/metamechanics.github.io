@@ -1,12 +1,12 @@
 alias::
 URL::
-org-type:: #academia  
+org-type:: #academia
 people::
-publications:: 
+creations::
 tags:: organisation
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
+
 
 - [AWMC Interactive | Ancient World Mapping Center](https://awmc.unc.edu/awmc-interactive/)
 - [Ancient World Mapping Center](https://awmc.unc.edu/)

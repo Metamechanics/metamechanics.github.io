@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[Philosophy of Mind]] 
-publications-productions:: 
-country::
-tags:: person, #panpsychism 
-project::
-question::
-public:: true
+fields:: [[Philosophy of Mind]]
+creations::
+rel-country::
+tags:: person, #panpsychism
+rel-projects::
+
+
 
 -

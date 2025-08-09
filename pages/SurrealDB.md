@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #database #[[multi-model database]] 
+tags:: app, #database #[[multi-model database]]
 URL:: https://surrealdb.com/
-similar-to:: [[ArcadeDB]]  
+see-also:: [[ArcadeDB]]
 purpose::
-project:: [[WADS portfolio]]
+rel-projects:: [[WADS portfolio]]
 
 -
 -

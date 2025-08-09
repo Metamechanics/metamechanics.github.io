@@ -1,6 +1,6 @@
 - alias::
   tags::
-  project::
+  rel-projects::
   see-also::
 - {{query (and (or "AAAC" "Adam's Atlas") (task DOING TODO))}}
   query-table:: false

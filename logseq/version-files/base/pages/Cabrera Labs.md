@@ -2,8 +2,8 @@
   URL::
   org-type::
   people::
-  publications:: 
+  creations::
   tags:: organisation
-  project::
-  public:: true
+  rel-projects::
+
 -

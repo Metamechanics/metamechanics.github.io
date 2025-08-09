@@ -1,6 +1,6 @@
 alias::
-author:: [[John Anthony West]] 
-publication-year::
-tags:: book, reference, egypt, fresh alternatives, history, #toRead
+author:: [[John Anthony West]]
+year::
+tags:: book, egypt, fresh alternatives, history, #toRead
 -
 -

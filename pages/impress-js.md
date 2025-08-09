@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #[[infinite canvas]] 
+tags:: app, #[[infinite canvas]]
 URL::
-similar-to:: [[reveal-js]] 
+see-also:: [[reveal-js]]
 purpose::
-project:: #EFA
+rel-projects:: #EFA
 
 -
 -

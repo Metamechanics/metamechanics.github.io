@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation::
-role:: #author 
+rel-org::
+role:: #author
 fields::
-publications-productions:: [[The Name of the Rose]], [[Foucault's Pendulum (book)]] 
+creations:: [[The Name of the Rose]], [[Foucault's Pendulum (book)]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -
 -

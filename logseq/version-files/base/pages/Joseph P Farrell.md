@@ -1,14 +1,14 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #[[Pyramids of Giza]] #[[purpose of pyramids]]
-publications-productions:: [[The Giza Death Star]] 
-country::
+creations:: [[The Giza Death Star]]
+rel-country::
 tags:: person, #[[conspiracy theory]]
-project:: [[Fresh Alternatives]], [[FACTs 4CT]] 
-question::
-public:: true
+rel-projects:: [[Fresh Alternatives]], [[FACTs 4CT]]
+
+
 
 - Dr. Joseph P. Farrell is an American writer and alternative media personality from Sioux Falls, South Dakota. He is known for his theological writings and works on alternative archaeology, physics, technology, and history, including contentious claims about National Socialism. Farrell has a doctorate in patristics from the University of Oxford and has written several books on topics such as the Giza Death Star, Nazi secret weapons, and the Cosmic War. His works include "The Giza Death Star," "Reich of the Black Sun," "The SS Brotherhood of the Bell," and "The Cosmic War". Farrell has also been involved in alternative medicine, with some sources indicating he is a specialist in non-surgical aesthetic improvement of the nose and face. However, it is important to note that there may be multiple individuals with the same name, and the information provided pertains to different people with the same name. #BraveAI
 -
@@ -19,7 +19,7 @@ public:: true
 - *Cosmic War: Interplanetary Warfare, Modern Physics and Ancient Texts* (Adventures Unlimited Press, 15 Oct 2007)
 - *Genes, Giants, Monsters, and Men: The Surviving Elites of the Cosmic War and Their Hidden Agenda* (Feral House, 3 May 2011)
 - *Grid of the Gods: The Aftermath of the Cosmic War and the Physics of the Pyramid Peoples* (Adventures Unlimited Press, 1 September 2011)
-  
+
   *On the subject of secret Nazi technology and its applications and impact today:*
 - *Reich of the Black Sun: Nazi Secret Weapons and the Cold War Allied Legend* (Adventures Unlimited Press, 2005)
 - *SS Brotherhood of the Bell: The Nazi's Incredible Secret Technology* (Adventures Unlimited Press, 2006)

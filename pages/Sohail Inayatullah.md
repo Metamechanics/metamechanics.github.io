@@ -1,9 +1,8 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[Futures Studies]], [[macrohistory]],  
-publications-productions:: 
+creations:: 
 tags:: person, 
-project::
-public:: true
+rel-projects::

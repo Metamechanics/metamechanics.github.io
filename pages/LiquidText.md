@@ -1,6 +1,6 @@
 alias::
-tags:: app, software, #iOS #macOS #iPad 
+tags:: app, #iOS #macOS #iPad
 URL:: https://www.liquidtext.net/
-similar-to::
-purpose:: #[[pdf annotation]] 
-project::
+see-also::
+purpose:: #[[pdf annotation]]
+rel-projects::

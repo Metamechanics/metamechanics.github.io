@@ -1,6 +1,6 @@
 alias:: EFA Issues View, EFA Issues Lens
 tags::
-project:: #EFA 
+rel-projects:: #EFA 
 see-also:: [[EFA Story View]], [[EFA Data View]]
 
 - Focus on issues and topics, which includes data plus other resources

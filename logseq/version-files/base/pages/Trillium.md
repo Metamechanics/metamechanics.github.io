@@ -1,9 +1,9 @@
 alias::
-tags:: app, software,
+tags:: app,
 URL::
-similar-to:: #[[Obsidian (app)]] #[[Cmap Tools]] #Anytype.io #Logseq whiteboards 
+see-also:: #[[Obsidian (app)]] #[[Cmap Tools]] #Anytype.io #Logseq whiteboards
 purpose::
-project::
+rel-projects::
 
 - [GitHub - zadam/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
 - [Trilium.cc - Paid Hosting](https://trilium.cc/)

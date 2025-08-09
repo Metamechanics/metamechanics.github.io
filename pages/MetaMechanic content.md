@@ -1,6 +1,6 @@
 alias:: MMC
 tags::
-project:: #allProjects #[[Mission Management]]
+rel-projects:: #allProjects #[[Mission Management]]
 see-also::
 
 -

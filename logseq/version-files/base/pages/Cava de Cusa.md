@@ -1,7 +1,7 @@
 alias::
 tags::
-place:: #Sicily 
-country:: #Italy 
+location:: #Sicily
+rel-country:: #Italy
 place-type::
 nearest-town::
 map-url::

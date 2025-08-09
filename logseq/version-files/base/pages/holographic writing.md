@@ -1,6 +1,6 @@
 alias:: holo-writing, symphonic writing
 tags::
-project::
+rel-projects::
 
 - in a hologram, a part contains the whole
 - while this is practically impossible in writing, it can be approached...

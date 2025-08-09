@@ -1,11 +1,11 @@
 alias:: Aureon
 URL:: https://aureon.ca/
-org-type:: [[commercial]] 
-people:: [[Montgomery Childs]] 
-publications:: 
+org-type:: [[commercial]]
+people:: [[Montgomery Childs]]
+creations::
 tags:: organisation
-project:: [[Global Effort]], [[ANEW]] 
-public:: true
+rel-projects:: [[Global Effort]], [[ANEW]]
+
 
 - [Home | Aureon Energy, Ltd.](https://aureon.ca/)
 - [Safire Project](https://www.safireproject.com/)

@@ -1,6 +1,6 @@
 person:: 
 tags:: #theory 
-project::
+rel-projects::
 see-also::
 
 -

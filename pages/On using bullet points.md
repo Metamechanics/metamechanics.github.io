@@ -1,8 +1,7 @@
 alias:: bullet point writing
 tags:: #myWriting 
-project:: [[my writing method in Logseq]] 
+rel-projects:: [[my writing method in Logseq]] 
 see-also::
-
 - From [Bullet Point ( • ): Symbol, Meaning, Shortcuts & How to Use | Merriam-Webster](https://www.merriam-webster.com/grammar/how-to-use-bullet-points)
 - # Symbol, Meaning, Shortcuts & How to Use
   Want to communicate some important information in writing? If you want your reader to easily navigate the content, you might want to use some bullet points.

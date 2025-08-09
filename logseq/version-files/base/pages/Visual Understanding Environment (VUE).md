@@ -1,10 +1,10 @@
 alias:: VUE app
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
 latest-release:: 2015
-project:: [[DiaGnosis]]
+rel-projects:: [[DiaGnosis]]
 
 - [VUE - Visual Understanding Environment](https://vue.tufts.edu/)
 - [GitHub - VUE/VUE: Visual Understanding Environment](https://github.com/VUE/VUE)

@@ -1,7 +1,7 @@
 alias::
-tags:: #[[ancient site]] 
-place::
-country::
+tags:: #[[ancient site]]
+location::
+rel-country::
 place-type::
 nearest-town::
 map-url::

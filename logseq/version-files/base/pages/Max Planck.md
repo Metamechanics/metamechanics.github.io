@@ -1,12 +1,12 @@
 alias:: Planck
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[quantum physics]] 
-publications-productions:: 
+fields:: [[quantum physics]]
+creations::
 tags:: person
-project:: [[X-Science]] 
-public:: true
+rel-projects:: [[X-Science]]
+
 
 - Science progresses one funeral at a time. #quote #X-Science
 - Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve. #quote #X-Science

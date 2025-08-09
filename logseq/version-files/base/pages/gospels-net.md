@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.gospels.net/
-organisation::
+rel-org::
 year-commenced::
-person:: [[Mark Mattison]] 
-tags:: website, #[[extracanonical Gospels]] #keyResource #[[public domain]]  
-project:: #[[Babies, Bibles and Bathwater]]
-question::
-public:: true
+person:: [[Mark Mattison]]
+tags:: website, #[[extracanonical Gospels]] #keyResource #[[public domain]]
+rel-projects:: #[[Babies, Bibles and Bathwater]]
+
+
 
 -
 - [Sayings of Jesus: P.Oxy 5575](https://www.gospels.net/sayings-of-jesus-poxy-5575)

@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role:: #king 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person #pre-history #Armenia #Urartu 
-project::
-public:: true
+rel-projects::
+
 
 -

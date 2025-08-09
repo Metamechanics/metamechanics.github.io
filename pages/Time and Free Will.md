@@ -1,9 +1,7 @@
 alias::
-author:: [[Henri Bergson]] 
-publication-year::
-tags:: book 
-project:: #AMT 
-question::
-public:: true
+author:: [[Henri Bergson]]
+year::
+tags:: book
+rel-projects:: #AMT
 
 -

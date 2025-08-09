@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: #Egypt 
+location::
+rel-country:: #Egypt
 place-type:: #[[ancient site]]
-project:: #[[Adam's Atlas]]
+rel-projects:: #[[Adam's Atlas]]
 nearest-town:: #Giza
 map-url::

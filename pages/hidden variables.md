@@ -1,7 +1,6 @@
 alias::
 tags::
 domain::
-project::
+rel-projects::
 person::
-
 - [[Hidden Variables and the Implicate Order]]

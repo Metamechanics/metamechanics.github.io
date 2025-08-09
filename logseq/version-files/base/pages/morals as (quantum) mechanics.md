@@ -1,6 +1,6 @@
 alias:: morals as mechanics
 tags:: #morality 
-project:: #AMT #Metamechanica 
+rel-projects:: #AMT #Metamechanica 
 see-also:: [[Morals - mechanics rather than mandates]]
 
 -

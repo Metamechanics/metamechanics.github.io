@@ -1,6 +1,6 @@
 alias:: medical intuition
 tags::
-project::
+rel-projects::
 person::
 
 -

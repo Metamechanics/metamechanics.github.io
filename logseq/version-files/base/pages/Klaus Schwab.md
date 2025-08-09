@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation:: [[World Economic Forum]] 
+rel-org:: [[World Economic Forum]] 
 role::
 fields::
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+

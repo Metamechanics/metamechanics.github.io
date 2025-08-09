@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, #toLearn 
+tags:: app, #toLearn
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS]], [[WADS study]]
+rel-projects:: [[WADS]], [[WADS study]]
 
 -
 - [Quarto](https://quarto.org/)

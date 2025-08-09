@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation:: [[International Society for Science and Religion]] 
-role:: [[academic]],  
-fields:: #[[Christianity]] #Quaker #cosmology  
-publications-productions:: 
-country::
+rel-org:: [[International Society for Science and Religion]]
+role:: [[academic]],
+fields:: #[[Christianity]] #Quaker #cosmology
+creations::
+rel-country::
 tags:: person
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 -

@@ -1,7 +1,7 @@
 alias:: Merdin
 tags::
-place::
-country:: #Turkey 
+location::
+rel-country:: #Turkey 
 place-type:: #town 
 nearest-town::
 map-url::

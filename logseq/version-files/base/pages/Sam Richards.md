@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation:: [[Pennsylvania State University]] 
+rel-org:: [[Pennsylvania State University]] 
 role::
 fields:: [[sociology]] 
-publications-productions:: 
+creations:: 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

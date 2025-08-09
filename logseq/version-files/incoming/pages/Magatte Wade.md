@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-tags:: person, #Africa 
-project::
-public:: true
+creations::
+tags:: person, #Africa
+rel-projects::
+
 -

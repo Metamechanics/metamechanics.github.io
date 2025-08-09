@@ -1,12 +1,12 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations::
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+
 -
 - [Mark Purdey - Wikipedia](https://en.wikipedia.org/wiki/Mark_Purdey)
 -

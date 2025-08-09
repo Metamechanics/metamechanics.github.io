@@ -1,9 +1,9 @@
 alias::
 author:: [[Mark Manson]] 
-publication-year::
+year::
 tags:: book 
-project:: [[AMT hyperbook]] 
-question::
-public:: true
+rel-projects:: [[AMT hyperbook]] 
+
+
 
 -

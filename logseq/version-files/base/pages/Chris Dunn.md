@@ -1,12 +1,19 @@
 alias:: Christopher Dunn, 
 URL:: https://gizapower.com/gizeh/
-organisation::
+rel-org::
 role:: [[independent researcher]] 
 fields:: #Egyptology #[[ancient engineering]] 
-publications:: [[The Giza Power Plant - Technologies of Ancient Egypt]] 
+creations:: [[The Giza Power Plant - Technologies of Ancient Egypt]] 
 tags:: person, #pyramids, #energy, #engineering 
-project:: [[freshAlts]], [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[freshAlts]], [[Adam's Atlas]]
+alias:: Christopher Dunn, 
+URL:: https://gizapower.com/gizeh/
+rel-org::
+role:: [[independent researcher]] 
+fields:: #Egyptology #[[ancient engineering]] 
+creations:: [[The Giza Power Plant - Technologies of Ancient Egypt]] 
+tags:: person, #pyramids, #energy, #engineering 
+rel-projects:: [[freshAlts]], [[Adam's Atlas]] 
 
 - [Giza Power – The Official Christopher Dunn Website](https://gizapower.com/gizeh/)
 - [Did NASA Physicists CONFIRM The Great Pyramids TRUE Purpose? | Chris Dunn - YouTube](https://www.youtube.com/watch?v=2QMk3UQi05g)

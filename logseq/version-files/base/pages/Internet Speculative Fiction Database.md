@@ -1,10 +1,10 @@
 alias:: ISFDB
 URL:: https://isfdb.org/
-organisation::
+rel-org::
 year-commenced::
-tags:: website, [[speculative fiction]], [[alternative history]], #exemplar #database 
-project:: [[FF-ed]] #[[metamechanica tag taxonomy]] 
-public:: true
+tags:: website, [[speculative fiction]], [[alternative history]], #exemplar #database
+rel-projects:: [[FF-ed]] #[[metamechanica tag taxonomy]]
+
 
 -
 - [The Internet Speculative Fiction Database](https://isfdb.org/)

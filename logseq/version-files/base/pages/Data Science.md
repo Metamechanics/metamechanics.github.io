@@ -1,6 +1,6 @@
 alias:: DataScience
 tags::
-project:: [[WADS]], [[WADS study]], [[WADS portfolio]]
+rel-projects:: [[WADS]], [[WADS study]], [[WADS portfolio]]
 see-also::
 
 -

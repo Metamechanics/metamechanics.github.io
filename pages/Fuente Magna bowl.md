@@ -1,7 +1,7 @@
 alias::
 tags:: #pottery #artefact #[[Museo de Oro, La Paz, Bolivia]]
-country:: #Bolivia 
-project:: [[Adam's Atlas]]
+rel-country:: #Bolivia
+rel-projects:: [[Adam's Atlas]]
 
 -
 - I heard about this somewhere else before rediscovering on Facebook...

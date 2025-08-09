@@ -1,13 +1,13 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 - [Fourth Turning | Bio: Neil Howe](https://www.fourthturning.com/bio.html)
 -

@@ -1,9 +1,9 @@
 alias:: They fear those with knowledge and control those without it
-URL:: http://whale.to 
-organisation::
+URL:: http://whale.to
+rel-org::
 year-commenced::
 tags:: website, #[[conspiracy thinking]]
-project:: [[freshAlts]], [[FACTs]]
+rel-projects:: [[freshAlts]], [[FACTs]]
 
 -
 - [WHALE](http://whale.to/)

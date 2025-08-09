@@ -1,10 +1,10 @@
 alias:: Bazda Cave, Bazda Mağaları
-tags:: #[[underground city]] 
-place:: 
-country:: #Turkey 
-place-type:: #[[ancient site]] 
-project:: #[[Adam's Atlas]] 
-nearest-town:: #Sanliurfa 
+tags:: #[[underground city]]
+location::
+rel-country:: #Turkey
+place-type:: #[[ancient site]]
+rel-projects:: #[[Adam's Atlas]]
+nearest-town:: #Sanliurfa
 map-url::
 
 - see also: [[Longyou Caves]]

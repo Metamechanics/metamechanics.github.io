@@ -1,10 +1,10 @@
-journal::
-authors:: [[Steve Paulson]] 
+rel-journal::
+author:: [[Steve Paulson]]
 year:: 2024
 URL::
-tags:: article, reference, [[Brian Muraresku]] #psychedelics #religion #Christianity 
-project::
-public:: true
+tags:: article, reference, [[Brian Muraresku]] #psychedelics #religion #Christianity
+rel-projects::
+
 
 - [Did Ancient Greek Philosophers Use Psychedelic Beer to Find God?](https://nautil.us/is-christianity-based-on-psychedelic-trips-623594/)
 -
@@ -48,12 +48,12 @@ public:: true
 - The initial gospel is spread by Jesus in Galilee, but the Christian faith really takes root in the Greek-speaking parts of the Mediterranean. As you begin to tease out the language, and look at the early frescoes that were left from the second and third centuries A.D., you begin to construct a picture of Greek-inspired Christians who just may have carried over some of these pagan practices into the new religion.
 - Does any of this history matter today? It’s fascinating, but does it have relevance to our world now?
 - I think it raises well-founded questions about the origins of Western civilization. If the Greeks were using drugs to find God, and that was at least part of the inspiration behind the way we organize our government or our economy, or the way we relate to one another, it’s something worth investigating. If this hypothesis is correct and Eleusis is kind of the hub of Greek existence, what would that mean for us today? Are we missing something in the way that we’ve organized our society? When the initiates talk about not just overcoming their fear of death and becoming immortal but coming back from that experience as a fully-fledged member of the human race, it offers a tantalizing clue as to what may have fueled the success of democracy.
-- Excerpted from Luminous, a series from To the Best of Our Knowledge, hosted by executive producer Steve Paulson. 
-  Luminous explores the philosophical and cultural implications of psychedelics through conversations with scientists, healers, and religious scholars. You can learn more about the series and find where you can listen at 
+- Excerpted from Luminous, a series from To the Best of Our Knowledge, hosted by executive producer Steve Paulson.
+  Luminous explores the philosophical and cultural implications of psychedelics through conversations with scientists, healers, and religious scholars. You can learn more about the series and find where you can listen at
   ttbook.org/luminous
   .
 - In Body Image
   Lead image by Tasnuva Elahi; with images by Srgr and StudioLondon / Shutterstock
-- [[Steve Paulson]] 
+- [[Steve Paulson]]
   Posted on May 30, 2024
 - [[Steve Paulson]] is the executive producer of Wisconsin Public Radio’s nationally-syndicated show To the Best of Our Knowledge. He’s the author of Atoms and Eden: Conversations on Religion and Science. You can find his podcast about psychedelics, Luminous, here.

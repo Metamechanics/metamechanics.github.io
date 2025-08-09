@@ -1,6 +1,6 @@
 alias::
 tags:: #metaphor, [[Inception (movie)]] 
-project::
+rel-projects::
 see-also::
 
 -

@@ -1,10 +1,9 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #skepticism #ufology #aerospace 
-publications-productions:: 
-country::
+fields:: #skepticism #ufology #aerospace
+creations::
+rel-country::
 tags:: person
-project::
-public:: true
+rel-projects::

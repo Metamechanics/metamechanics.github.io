@@ -1,7 +1,6 @@
 alias::
 tags::
-project::
+rel-projects::
 see-also:: [[database software]]
-
 -
 - [[DuckDB]]

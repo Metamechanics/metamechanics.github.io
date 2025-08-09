@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation:: [[American Astronomical Society]], [[Committee for Skeptical Inquiry]] 
-role:: [[academic]] 
-fields:: [[archaeoastronomy]], #[[indigenous astronomy]], #astronomy 
-publications:: 
-tags:: person, #orthodoxy  
-project::
-public:: true
+rel-org:: [[American Astronomical Society]], [[Committee for Skeptical Inquiry]]
+role:: [[academic]]
+fields:: [[archaeoastronomy]], #[[indigenous astronomy]], #astronomy
+creations::
+tags:: person, #orthodoxy
+rel-projects::
+
 -

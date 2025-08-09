@@ -1,9 +1,9 @@
 alias::
-author:: [[Nisargadatta Maharaj]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Nisargadatta Maharaj]]
+year::
+tags:: book
+rel-projects::
+
 
 -
 -

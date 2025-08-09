@@ -2,10 +2,10 @@ alias::
 tags:: concept, marketing, engagement, innovation
 domain::
 people::
-related-to::
-project:: [[The Metamechanic]] 
-question::
-public:: true
+see-also::
+rel-projects:: [[The Metamechanic]]
+
+
 
 -
 - [Game Thinking TV - YouTube](https://www.youtube.com/@GameThinkingTV)

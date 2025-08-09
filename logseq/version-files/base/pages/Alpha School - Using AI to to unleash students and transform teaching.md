@@ -1,11 +1,11 @@
-journal:: [[Forbes-com]] 
-authors:: Ray Ravaglia
+rel-journal:: [[Forbes-com]]
+author:: Ray Ravaglia
 year:: 2025
 URL:: https://www.forbes.com/sites/rayravaglia/2025/02/10/alpha-school-using-ai-to-unleash-students-and-transform-teaching/
-tags:: article, #AI #education #school [[Alpha School]] 
-project:: #[[FF-ed]]
-question::
-public:: true
+tags:: article, #AI #education #school [[Alpha School]]
+rel-projects:: #[[FF-ed]]
+
+
 
 -
 - Alpha School: Using AI To Unleash Students And Transform Teaching

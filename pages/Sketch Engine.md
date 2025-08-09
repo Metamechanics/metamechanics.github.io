@@ -1,9 +1,9 @@
 alias::
 URL::
-organisation:: 
-tags:: website, [[foreign language]] 
-project:: [[LOTE study]], [[ACIM-4T]] 
-question::
-public:: true
+rel-org::
+tags:: website, [[foreign language]]
+rel-projects:: [[LOTE study]], [[ACIM-4T]]
+
+
 
 -

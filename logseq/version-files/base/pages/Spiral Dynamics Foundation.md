@@ -2,11 +2,11 @@ alias::
 URL:: https://sdifoundation.com/
 org-type::
 people::
-publications:: 
+creations::
 tags:: organisation
-project:: #EFA 
-question::
-public:: true
+rel-projects:: #EFA
+
+
 
 - [SDi Foundation – Spiral Dynamics Foundation](https://sdifoundation.com/)
 -

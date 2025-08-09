@@ -1,12 +1,12 @@
 alias:: SCS
 URL:: https://catholicscientists.org/
-fields:: #science #theology  
-publications-productions:: 
-country::
-tags:: organisation, #keyResource 
-project:: [[AMT]]
-question::
-public:: true
+fields:: #science #theology
+creations::
+rel-country::
+tags:: organisation, #keyResource
+rel-projects:: [[AMT]]
+
+
 
 - [Home - The Society of Catholic Scientists](https://catholicscientists.org/)
 - [“Nothing but…” Reductionism is Not Good Science: Why I as a neuroscientist reject reductionism.](https://catholicscientists.org/articles/nothing-reductionism-is-not-good-science-why-i-as-a-neuroscientist-reject-reductionism/)

@@ -1,14 +1,14 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
-  country::
+  creations::
+  rel-country::
   tags:: person
-  project::
-  question::
-  public:: true
+  rel-projects::
+
+
 -
 - [How the West fell for pseudo religions - UnHerd| Paul Kingsnorth](https://unherd.com/watch-listen/how-the-west-fell-for-pseudo-religions/)
 	- "Silicon Valley is a religious institution."

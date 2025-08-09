@@ -1,10 +1,10 @@
 alias::
-author:: [[Sean Carroll]] 
-publication-year::
-tags:: book 
-project:: #AMT #[[X-Science]] 
-question::
-public:: true
+author:: [[Sean Carroll]]
+year::
+tags:: book
+rel-projects:: #AMT #[[X-Science]]
+
+
 
 -
 - recommended by [[Steven Pinker]]

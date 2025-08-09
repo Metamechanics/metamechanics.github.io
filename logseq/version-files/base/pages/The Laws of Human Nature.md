@@ -1,9 +1,9 @@
 alias::
 author:: [[Robert Greene]] 
-publication-year::
+year::
 tags:: book 
-project:: 
-question::
-public:: true
+rel-projects:: 
+
+
 
 -

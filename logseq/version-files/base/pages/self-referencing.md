@@ -1,7 +1,7 @@
 alias:: self-referential
 tags:: 
 people:: [[Douglas Hofstadter]] 
-project:: [[AMT]]
+rel-projects:: [[AMT]]
 
 -
 - [[Gödel, Escher, Bach - The Eternal Golden Braid]]

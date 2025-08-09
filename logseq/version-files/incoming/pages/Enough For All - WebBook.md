@@ -1,7 +1,6 @@
 alias:: EFA hyperbook
-Question-Problem:: [[Driving Questions of EFA]] 
-Related-pubs::
-related-project:: [[EFA]] 
+
+rel-projects:: [[EFA]]
 Tags:: #[[My Books]]
 - [[webBook vs eBook vs htmlBook]]
 - Possible publishing or production platforms

@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.marcovigato.com/ , https://unchartedruins.blogspot.com/
-organisation::
+rel-org::
 role::
 fields:: 
-publications-productions:: [[The Empires of Atlantis]], [[The Arx Project]] 
+creations:: [[The Empires of Atlantis]], [[The Arx Project]] 
 tags:: person
-project:: #[[Adam's Atlas]] 
-public:: true
+rel-projects:: #[[Adam's Atlas]] 
+
 
 -
 - [Home | Marco M. Vigato | Author](https://www.marcovigato.com/)

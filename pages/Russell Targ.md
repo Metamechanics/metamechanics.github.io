@@ -1,11 +1,11 @@
 alias:: Russel Targ
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications:: [[Limitless Mind]] 
+creations:: [[Limitless Mind]]
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

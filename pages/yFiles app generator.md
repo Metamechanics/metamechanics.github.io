@@ -1,6 +1,6 @@
 alias::
 tags:: #prototyping #mockup 
-project:: [[WADS]], [[WADS study]], #DiaGnosis 
+rel-projects:: [[WADS]], [[WADS study]], #DiaGnosis 
 see-also::
 
 -

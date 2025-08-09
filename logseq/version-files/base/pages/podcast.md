@@ -1,3 +1,3 @@
 alias:: podcaster, vodcast, vodcaster
 tags::
-project::
+rel-projects::

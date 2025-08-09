@@ -1,13 +1,13 @@
 alias:: Snefru
 URL::
-organisation::
-role:: [[pharoah]] 
+rel-org::
+role:: [[pharoah]]
 fields::
-publications-productions:: 
-country:: [[Ancient Egypt]] 
+creations::
+rel-country:: [[Ancient Egypt]]
 tags:: person
-project:: [[Adam's Atlas]] 
-question::
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
+
 
 -

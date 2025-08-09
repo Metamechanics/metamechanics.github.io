@@ -1,6 +1,6 @@
 alias::
 tags:: #metaphor #[[God, "God", god and gods]] #[[Technology as metaphor. Metaphor as technology]] 
-project:: [[AMT]], [[MacroScience & MetaTechnology]], [[X-Science]]
+rel-projects:: [[AMT]], [[MacroScience & MetaTechnology]], [[X-Science]]
 
 - clock
 - brain

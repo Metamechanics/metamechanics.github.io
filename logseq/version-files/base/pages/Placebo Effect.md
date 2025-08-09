@@ -1,9 +1,9 @@
 alias:: placebo
-tags:: concept, effect, #[[alternative medicine]] 
-domain:: #medicine #health 
+tags:: concept, effect, #[[alternative medicine]]
+domain:: #medicine #health
 people::
-related-to:: [[placebo surgery]] 
-project::
-public:: true
+see-also:: [[placebo surgery]]
+rel-projects::
+
 
 -

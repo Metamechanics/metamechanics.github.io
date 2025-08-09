@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to::
+see-also::
 purpose::
-project:: [[WADS study]]
+rel-projects:: [[WADS study]]
 
 -
 - [Pro Git eBook to learn Git](https://git-scm.com/book/en/v2)

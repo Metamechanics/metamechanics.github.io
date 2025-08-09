@@ -1,7 +1,7 @@
 alias:: A Scared Society's Fearless Future
 tags:: #myWriting #myBook 
 url:: 
-project:: #EFA #MetaMechanic  
+rel-projects:: #EFA #MetaMechanic  
 see-also::
 sub-title:: A Scared Society's Fearless Future
 - update [[17-05-2025]] : I have united Chasing Our Tale with A Scared Society's Fearless Future

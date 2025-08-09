@@ -1,9 +1,9 @@
 alias::
-tags:: app, software, markdown, #[[collaborative editing]]
-URL:: https://www.hackmd.io 
-similar-to::
+tags:: app, markdown, #[[collaborative editing]]
+URL:: https://www.hackmd.io
+see-also::
 purpose:: note-taking, collaboration, knowledge base
-project::
+rel-projects::
 
 - [HackMD - Collaborative Markdown Knowledge Base](https://hackmd.io/)
 -

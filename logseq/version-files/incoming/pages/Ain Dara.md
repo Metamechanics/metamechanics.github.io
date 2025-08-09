@@ -1,8 +1,8 @@
 alias::
 tags:: #basalt #[[Basalt Lion]]
-place:: 
-country:: #Syria 
-place-type:: #[[ancient site]] 
+location::
+rel-country:: #Syria
+place-type:: #[[ancient site]]
 nearest-town::
 map-url::
 

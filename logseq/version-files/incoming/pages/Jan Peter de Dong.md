@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: [[independent researcher]] 
-fields:: [[archaeology]] 
-publications-productions:: 
-country::
+rel-org::
+role:: [[independent researcher]]
+fields:: [[archaeology]]
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 -

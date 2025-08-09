@@ -1,9 +1,9 @@
 alias::
-tags:: app, software
+tags:: app
 URL:: https://timeline.knightlab.com/
-similar-to:: #[[Aeon Timeline]]
+see-also:: #[[Aeon Timeline]]
 purpose::
-project:: #WADS #Duustory
+rel-projects:: #WADS #Duustory
 
 - [Timeline](https://timeline.knightlab.com/)
 -

@@ -1,13 +1,12 @@
 alias::
 URL::
-organisation:: #[[Big Think]]
-role:: #journalist 
+rel-org:: #[[Big Think]]
+role:: #journalist
 fields::
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
 
 -

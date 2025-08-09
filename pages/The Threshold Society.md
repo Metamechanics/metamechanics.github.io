@@ -1,11 +1,11 @@
 alias::
 URL::
-org-type:: 
-people:: [[Kabir Helminski]], [[Camille Helminski]] 
-publications:: 
-tags:: organisation, #Sufism #religion  
-project:: [[Inner Beginner]] 
-question::
-public:: true
+org-type::
+people:: [[Kabir Helminski]], [[Camille Helminski]]
+creations::
+tags:: organisation, #Sufism #religion
+rel-projects:: [[Inner Beginner]]
+
+
 
 -

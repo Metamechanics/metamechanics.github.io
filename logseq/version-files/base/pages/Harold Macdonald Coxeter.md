@@ -1,12 +1,12 @@
 alias:: Donald Coxeter
 URL::
-organisation:: [[University of Toronto]] 
-role:: [[academic]] 
-fields:: [[mathematics]], [[geometry]] 
-publications-productions:: 
-country:: [[United Kingdom]], [[Canada]] 
+rel-org:: [[University of Toronto]]
+role:: [[academic]]
+fields:: [[mathematics]], [[geometry]]
+creations::
+rel-country:: [[United Kingdom]], [[Canada]]
 tags:: person
-project:: [[DiaGnosis]], [[AMT]] 
-public:: true
+rel-projects:: [[DiaGnosis]], [[AMT]]
+
 
 -

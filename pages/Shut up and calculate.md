@@ -3,7 +3,7 @@ person:: [[David Mermin]]
 source::
 tags:: quote
 topic-theme:: [[quantum mechanics]]
-project:: [[X-Science]], [[AMT]]
+rel-projects:: [[X-Science]], [[AMT]]
 
 - meaning:: essentially disregard the philosophical implications and quandaries suggested by quantum mechanics, and focus on using it for practical applications
 - as metaphor

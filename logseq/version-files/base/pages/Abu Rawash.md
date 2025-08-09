@@ -1,8 +1,8 @@
 alias::
 tags::
-place::
-country:: #Egypt 
-place-type:: #pyramid 
+location::
+rel-country:: #Egypt
+place-type:: #pyramid
 nearest-town::
 map-url::
 

@@ -1,11 +1,11 @@
-journal::
-authors:: [[Stav Dimitropoulos]]
+rel-journal::
+author:: [[Stav Dimitropoulos]]
 year:: 2025
-URL:: https://www.popularmechanics.com/science/a63788081/consciousness-retrocausality/?ref=consciousnesscalibrations.com 
+URL:: https://www.popularmechanics.com/science/a63788081/consciousness-retrocausality/?ref=consciousnesscalibrations.com
 tags:: article #retrocausality #[[quantum physics]] #toRead #[[(meta)physics of time]]
-project:: #AMT 
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 - [How the Present Can Impact the Past: Retrocausality, Explained](https://www.popularmechanics.com/science/a63788081/consciousness-retrocausality/?ref=consciousnesscalibrations.com)
 - Your Consciousness Can Reach Back in Time to Shape the Past, a New Theory Suggests

@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: [[Japan]] 
-place-type:: #megalith #[[ancient site]] 
-nearest-town:: [[Asuka]], [[Nara]] 
+location::
+rel-country:: [[Japan]]
+place-type:: #megalith #[[ancient site]]
+nearest-town:: [[Asuka]], [[Nara]]
 map-url::
 
 - next to [[Oni no Manaita]]

@@ -1,7 +1,7 @@
 alias::
 tags::
-url:: 
-project:: #AMT #AMTbook 
+url::
+rel-projects:: #AMT #AMTbook
 see-also::
 - see: [[Free Will - An Historical and Philosophical Introduction]]
 -

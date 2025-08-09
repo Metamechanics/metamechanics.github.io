@@ -1,10 +1,10 @@
 alias::
 URL::
-organisation::
-role:: #poet, #mysticism, #artist 
+rel-org::
+role:: #poet, #mysticism, #artist
 fields::
-publications:: 
+creations::
 tags:: person
-project::
-public:: true
+rel-projects::
+
 -

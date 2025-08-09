@@ -1,14 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: #[[Philosophy of Science]] #[[History of Science]] #[[fringe science]]
-publications-productions:: 
-country::
+creations::
+rel-country::
 tags:: person
-project:: [[FRESH]], [[FACTs]], [[X-Science]] 
-question::
-public:: true
+rel-projects:: [[FRESH]], [[FACTs]], [[X-Science]]
+
 
 -
 -

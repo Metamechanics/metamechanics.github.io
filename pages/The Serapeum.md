@@ -1,9 +1,9 @@
 alias:: Serapeum
-tags:: #sarcophagus #granite 
-place:: #[[Saqqara]]
-country:: #Egypt 
+tags:: #sarcophagus #granite
+location:: #[[Saqqara]]
+rel-country:: #Egypt
 place-type::
-nearest-town:: [[Cairo]], [[Giza]] 
+nearest-town:: [[Cairo]], [[Giza]]
 map-url::
 
 -

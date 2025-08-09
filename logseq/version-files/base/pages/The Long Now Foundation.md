@@ -5,5 +5,5 @@
   org-type:: [[advocacy]] 
   people:: [[Stewart Brand]] 
   tags:: organisation, future
-  project::
-  public:: true
+  rel-projects::
+  

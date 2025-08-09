@@ -1,9 +1,9 @@
 alias::
-creators:: [[Brian Dunning]] 
+creators:: [[Brian Dunning]]
 year::
 URL::
-tags:: documentary, #toWatch 
-project::
-public:: true
+tags:: documentary, #toWatch
+rel-projects::
+
 - [Principles of Curiosity from Skeptoid Media](https://principlesofcuriosity.com/)
 -

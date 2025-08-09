@@ -1,11 +1,11 @@
 - alias::
   URL::
-  organisation::
+  rel-org::
   role::
   fields::
-  publications-productions:: 
+  creations:: 
   tags:: person
-  project::
-  public:: true
+  rel-projects::
+  
 - [James Fadiman, PhD — ESOCWS 2023 - YouTube](https://www.youtube.com/watch?v=jidVFMUcrTk)
 -

@@ -1,6 +1,6 @@
 alias:: exoteric teaching
 tags::
-project::
+rel-projects::
 see-also:: #[[esoteric teaching]]
 
 -

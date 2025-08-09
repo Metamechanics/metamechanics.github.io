@@ -2,8 +2,8 @@
 - MyBook template
 	- DevStage:: #Level1
 	  DevStatus:: #queue
-	  Question-Problem::
-	  Related-pubs::
+
+
 	  Tags:: #toWrite, #MyBook
 	-
 	- Intention

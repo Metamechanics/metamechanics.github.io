@@ -1,6 +1,6 @@
 alias::
-tags:: #place #anomaly  
-country:: #Egypt 
+tags:: #place #anomaly
+rel-country:: #Egypt
 place-type:: #[[ancient site]]
 nearest-town:: Zigazag
 map-url::

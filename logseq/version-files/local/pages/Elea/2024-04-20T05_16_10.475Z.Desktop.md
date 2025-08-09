@@ -1,7 +1,7 @@
 alias::
-tags:: #[[cyclopean wall]] 
-place::
-country:: #Italy 
+tags:: #[[cyclopean wall]]
+location::
+rel-country:: #Italy
 place-type::
 nearest-town::
 map-url::

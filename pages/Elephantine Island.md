@@ -1,9 +1,9 @@
 alias::
 tags::
-place::
-country:: #Egypt 
+location::
+rel-country:: #Egypt
 place-type::
-nearest-town:: #Aswan 
+nearest-town:: #Aswan
 map-url::
 
 -

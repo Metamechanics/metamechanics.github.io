@@ -1,9 +1,9 @@
-alias:: 
-author:: [[David Graeber]] 
-publication-year::
-tags:: book 
-project:: 
-question::
-public:: true
+alias::
+author:: [[David Graeber]]
+year::
+tags:: book
+rel-projects::
+
+
 - [The Ultimate Hidden Truth of the World. . . - David Graeber](https://davidgraeber.org/books/the-ultimate-hidden-truth-of-the-world)
 -

@@ -1,11 +1,11 @@
 alias:: Qaddafi, Gaddafi
 URL::
-organisation::
+rel-org::
 role:: #leader, #[[political figure]] 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person #Libya 
-project:: [[FACTs]] 
-public:: true
+rel-projects:: [[FACTs]] 
+
 -
 -

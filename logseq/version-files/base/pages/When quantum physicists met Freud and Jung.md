@@ -1,10 +1,10 @@
-journal::
-authors:: [[Max Rogers]], [[Jim Baggott]], [[John Helibron]] 
+rel-journal::
+author:: [[Max Rogers]], [[Jim Baggott]], [[John Helibron]]
 year:: 2024
 URL:: https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857
-tags:: article, reference, [[quantum physics]], [[psychoanalysis]], [[psychology]] 
-project:: [[AMT]] 
-public:: true
+tags:: article, reference, [[quantum physics]], [[psychoanalysis]], [[psychology]]
+rel-projects:: [[AMT]]
+
 
 - [When quantum physicists met Freud and Jung » IAI TV](https://iai.tv/articles/when-quantum-physicists-met-freud-and-jung-auid-2857)
 -

@@ -1,9 +1,9 @@
 alias::
 author::
-editors:: [[Basil J. Hiley]], [[F David Peat]] 
-publication-year::
-tags:: book, reference, [[quantum mechanics]] 
-project:: 
-public:: true
+editors:: [[Basil J. Hiley]], [[F David Peat]]
+year::
+tags:: book, [[quantum mechanics]]
+rel-projects::
+
 
 -

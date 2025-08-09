@@ -1,9 +1,9 @@
 alias::
 tags:: #basalt #[[Basalt Lion]]
-place:: 
-country:: #Syria 
+location::
+rel-country:: #Syria
 place-type:: #[[ancient site]]
-project:: #[[Adam's Atlas]] 
+rel-projects:: #[[Adam's Atlas]]
 nearest-town::
 map-url::
 

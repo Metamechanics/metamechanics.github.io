@@ -1,9 +1,9 @@
 alias::
-author:: [[Thomas Sowell]] 
-publication-year::
-tags:: book, reference
-project:: 
-public:: true
+author:: [[Thomas Sowell]]
+year::
+tags:: book
+rel-projects::
+
 
 -
 -

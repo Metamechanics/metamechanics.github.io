@@ -1,10 +1,10 @@
-journal:: [[Journal of the Society for Psychical Research]] 
-authors:: [[Susan Blackmore]] 
+rel-journal:: [[Journal of the Society for Psychical Research]]
+author:: [[Susan Blackmore]]
 year::
 URL::
-tags:: article, reference, psi, 
-project:: [[The pSilence of Science]] [[X-Science]] 
-public:: true
+tags:: article, reference, psi,
+rel-projects:: [[The pSilence of Science]] [[X-Science]]
+
 
 -
 - Published in the Journal of the Society for Psychical Research, 55, 49-59

@@ -1,3 +1,3 @@
-aka:: [[Big Bang Hypothesis]]
+see-also:: [[Big Bang Hypothesis]]
 - contrast: [[alternative cosmology]]
 -

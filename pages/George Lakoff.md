@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Metaphors We Live By]] 
-country::
+creations:: [[Metaphors We Live By]] 
+rel-country::
 tags:: person
-project::
-question::
-public:: true
+rel-projects::
+
+

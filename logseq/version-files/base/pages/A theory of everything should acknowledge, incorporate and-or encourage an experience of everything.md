@@ -1,6 +1,6 @@
 alias::
 tags:: 
-project:: [[AMT hyperbook]], [[Metamechanica]] 
+rel-projects:: [[AMT hyperbook]], [[Metamechanica]] 
 parent-notes::
 child-notes::
 -

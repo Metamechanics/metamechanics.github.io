@@ -1,9 +1,9 @@
 alias::
-author:: [[William James Sidis]] 
-publication-year:: 1925
-tags:: book, reference, #thermodynamics #metamechanica #[[reserve energy]] #TOE 
-project:: [[X-Science]] 
-public:: true
+author:: [[William James Sidis]]
+year:: 1925
+tags:: book, #thermodynamics #metamechanica #[[reserve energy]] #TOE
+rel-projects:: [[X-Science]]
+
 
 - reversibility of the universe
 - "life is a reversal of the second law of thermodynamics"

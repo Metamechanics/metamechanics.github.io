@@ -2,10 +2,9 @@ alias::
 URL::
 org-type::
 people::
-publications:: 
+creations:: 
 tags:: organisation, #dreams 
-project::
-public:: true
+rel-projects::
 
 -
 -

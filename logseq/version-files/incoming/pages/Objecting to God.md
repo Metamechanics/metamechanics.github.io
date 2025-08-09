@@ -1,7 +1,7 @@
 alias::
-author:: [[Christopher Howson]] 
-publication-year:: 2011
-tags:: book, reference
-project:: [[AMT]], [[Inner Beginner]] 
-public:: true
+author:: [[Christopher Howson]]
+year:: 2011
+tags:: book
+rel-projects:: [[AMT]], [[Inner Beginner]]
+
 -

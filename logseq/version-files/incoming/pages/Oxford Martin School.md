@@ -1,11 +1,11 @@
 alias::
 URL::
-org-type:: [[academia]] 
-people:: 
-publications:: 
-tags:: organisation, #keyThinker, #[[data source]] 
-project:: [[EFA]], [[Fresh Alternatives]],  
-public:: true
+org-type:: [[academia]]
+people::
+creations::
+tags:: organisation, #keyThinker, #[[data source]]
+rel-projects:: [[EFA]], [[Fresh Alternatives]],
+
 - [Oxford Martin School | University of Oxford](https://www.oxfordmartin.ox.ac.uk/)
 -
 - [Institute for Science, Innovation and Society | Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/insis/)

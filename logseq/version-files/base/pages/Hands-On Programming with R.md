@@ -1,11 +1,11 @@
 alias::
 URL:: https://rstudio-education.github.io/hopr/
-organisation::
+rel-org::
 year-commenced::
 tags:: website
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 -

@@ -1,12 +1,12 @@
 alias::
 URL::
-organisation:: [[Doğus Group]], [[WEF]] 
+rel-org:: [[Doğus Group]], [[WEF]] 
 role:: #billionaire 
 fields::
-publications-productions:: 
+creations:: 
 tags:: person, [[Gobekli Tepe]] 
-project:: [[FACTs]] 
-public:: true
+rel-projects:: [[FACTs]] 
+
 
 -
 - [You Won’t Believe This Disturbing Gobekli Tepe Update - YouTube](https://www.youtube.com/watch?v=cPNgGnUrCKM)

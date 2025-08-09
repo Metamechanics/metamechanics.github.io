@@ -1,13 +1,13 @@
 alias:: Scalera
 URL::
-organisation::
+rel-org::
 role::
-fields:: [[geology]], [[tectonics]], [[Earth expansion theory]] 
-publications-productions:: 
-country::
+fields:: [[geology]], [[tectonics]], [[Earth expansion theory]]
+creations::
+rel-country::
 tags:: person
-project:: [[FRESH]], [[Adam's Atlas]], [[X-Science]] 
-public:: true
+rel-projects:: [[FRESH]], [[Adam's Atlas]], [[X-Science]]
+
 
 - [(69) Giancarlo Scalera - Academia.edu](https://independent.academia.edu/GiancarloScalera)
 -

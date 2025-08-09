@@ -1,10 +1,10 @@
 alias::
-author:: [[Martin Buber]] 
-publication-year::
-tags:: book 
-project:: 
-question::
-public:: true
+author:: [[Martin Buber]]
+year::
+tags:: book
+rel-projects::
+
+
 
 - [Primary Sources – Philosophy During and Around the 20th Century | Antilogicalism](https://antilogicalism.com/primary-sources/philosophy/20th-century-present/)
 	- *I and Thou* is a book by Martin Buber, published in 1923, and first translated from German to English in 1937. Buber’s main proposition is that we may address existence in two ways: (1) The attitude of the “I” towards an “It”, towards an object that is separate in itself, which we either use or experience; (2) The attitude of the “I” towards “Thou”, in a relationship in which the other is not separated by discrete bounds. One of the major themes of the book is that human life finds its meaningfulness in relationships. In Buber’s view, all of our relationships bring us ultimately into relationship with God, who is the Eternal Thou.

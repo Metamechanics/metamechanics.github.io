@@ -1,10 +1,10 @@
 alias::
-author:: [[Paul West]] 
-publication-year::
-tags:: book #ACIM 
-project:: #AMT 
-question::
-public:: true
+author:: [[Paul West]]
+year::
+tags:: book #ACIM
+rel-projects:: #AMT
+
+
 
 -
 -

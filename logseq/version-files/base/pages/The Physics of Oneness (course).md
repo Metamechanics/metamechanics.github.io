@@ -1,11 +1,11 @@
 alias::
-creators:: [[Shantena Augusto Sabbadini]] 
+creators:: [[Shantena Augusto Sabbadini]]
 year::
 URL::
-tags:: course, toStudy, #[[quantum physics]], #Taoism 
-topics:: [[quantum physics]] 
-project:: [[X-Science]], [[AMT]] #Metamechanica 
-public:: true
+tags:: course, toStudy, #[[quantum physics]], #Taoism
+topic-theme:: [[quantum physics]]
+rel-projects:: [[X-Science]], [[AMT]] #Metamechanica
+
 
 - [The Physics of Oneness - Science and Nonduality (SAND)](https://scienceandnonduality.com/event/the-physics-of-oneness/)
 -

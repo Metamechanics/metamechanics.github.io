@@ -1,6 +1,5 @@
 alias::
 tags:: #annotation 
-project:: #[[metamechanic workflow]]
+rel-projects:: #[[metamechanic workflow]]
 see-also::
-
 -

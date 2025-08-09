@@ -2,10 +2,10 @@ alias::
 tags:: concept
 domain::
 people::
-related-to::
-project::
-question::
-public:: true
+see-also::
+rel-projects::
+
+
 
 -
 - The people we see in science today - the science communicators and popularizers - I will call them the 'scientism clergy' are analogous to the religious clergy.

@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person #consciousness  
-project::
-question::
-public:: true
+rel-projects::
+
+
 
 - tests of consciousness, belief

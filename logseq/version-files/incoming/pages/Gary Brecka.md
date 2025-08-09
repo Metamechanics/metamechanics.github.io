@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.theultimatehuman.com/podcast
-organisation::
+rel-org::
 role:: 
 fields:: #health 
-publications-productions:: 
+creations:: 
 tags:: person #breathwork #oxygenation #fasting 
-project::
-public:: true
+rel-projects::
+
 - [Ultimate Human Podcast with Gary Brecka - YouTube](https://www.youtube.com/@ultimatehumanpodcast)
 - [The Ultimate Human | Podcast](https://www.theultimatehuman.com/podcast)
 - [Gary Brecka's Water Fasting Challenge](https://www.theultimatehuman.com/post/gary-breckas-water-fasting-challenge)

@@ -1,8 +1,8 @@
 alias::
-tags:: app, software
+tags:: app
 URL::
-similar-to:: [[Notion App]], [[Tana]], [[Anytype.io]] 
+see-also:: [[Notion App]], [[Tana]], [[Anytype.io]]
 purpose::
-project:: [[Metamechanic Mycelium]]
+rel-projects:: [[Metamechanic Mycelium]]
 
 -

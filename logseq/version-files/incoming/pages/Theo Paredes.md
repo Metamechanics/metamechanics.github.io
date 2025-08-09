@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
-fields:: #archaeology 
-publications:: 
-tags:: person, #Peru #archaeology #unorthodox, #Nyalpahuaca 
-project::
-public:: true
+fields:: #archaeology
+creations::
+tags:: person, #Peru #archaeology #unorthodox, #Nyalpahuaca
+rel-projects::
+
 - see also:: [[Brian Foerster]]
 -

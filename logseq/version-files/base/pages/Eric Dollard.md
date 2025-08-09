@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields:: [[Free Energy]] 
-publications-productions:: 
-country::
+creations:: 
+rel-country::
 tags:: person
-project:: [[ANEO]] 
-question::
-public:: true
+rel-projects:: [[ANEO]] 
+
+
 
 -

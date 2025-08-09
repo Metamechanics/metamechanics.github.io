@@ -1,7 +1,7 @@
 alias::
 author::
-publication-year::
-tags:: book, reference
-project:: [[X-Science]] 
-public:: true
+year::
+tags:: book
+rel-projects:: [[X-Science]]
+
 -

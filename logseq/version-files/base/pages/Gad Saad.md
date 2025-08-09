@@ -1,12 +1,12 @@
 alias::
 URL:: https://www.gadsaad.com/
-organisation::
+rel-org::
 role::
 fields:: #[[evolutionary psychology]] #[[behavioural science]]
-publications-productions:: 
+creations:: 
 tags:: person, #keyThinker #Jewish #Arab 
-project::
-public:: true
+rel-projects::
+
 
 -
 - [Gad Saad - YouTube](https://www.youtube.com/channel/UCLH7qUqM0PLieCVaHA7RegA)

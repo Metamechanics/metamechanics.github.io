@@ -1,13 +1,13 @@
 alias::
 URL::
-organisation::
-role:: 
+rel-org::
+role::
 fields::
-publications-productions:: [[The Pyramid Code]], [[The New Atlantis]] 
-country:: #Canada 
+creations:: [[The Pyramid Code]], [[The New Atlantis]]
+rel-country:: #Canada
 tags:: person
-project:: [[Adam's Atlas]] 
-public:: true
+rel-projects:: [[Adam's Atlas]]
+
 
 - [Dr. Carmen Boulter Archives - Kathy J. Forti, PhD](https://trinfinity8.com/tag/dr-carmen-boulter/)
 -

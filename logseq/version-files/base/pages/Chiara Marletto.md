@@ -1,14 +1,14 @@
 alias::
 URL:: https://www.chiaramarletto.com/
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals]], [[Constructor Theory]] 
-country::
+creations:: [[The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals]], [[Constructor Theory]]
+rel-country::
 tags:: person
-project:: #AMT  
-question::
-public:: true
+rel-projects:: #AMT
+
+
 
 - [Chiara Marletto](https://www.chiaramarletto.com/)
 - [[Constructor Theory]]

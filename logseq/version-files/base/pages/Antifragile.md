@@ -1,10 +1,10 @@
 alias::
-author:: [[Nassim Taleb]] 
-publication-year::
-tags:: book, #antifragility 
-project:: 
-question::
-public:: true
+author:: [[Nassim Taleb]]
+year::
+tags:: book, #antifragility
+rel-projects::
+
+
 
 -
 - **Embrace uncertainty and volatility:** Rather than fearing the unknown, view it as an opportunity for growth and improvement.

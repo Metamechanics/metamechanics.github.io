@@ -1,9 +1,9 @@
 alias::
-author:: [[Richard Feynman]] 
-publication-year::
-tags:: book #lecture [[science and society]] #iHaveit 
-project:: #AMT #X-Science #[[AMT hyperbook]] 
-question::
-public:: true
+author:: [[Richard Feynman]]
+year::
+tags:: book #lecture [[science and society]] #iHaveit
+rel-projects:: #AMT #X-Science #[[AMT hyperbook]]
+
+
 -
 -

@@ -1,9 +1,9 @@
 alias::
 URL:: https://www.edx.org
-organisation::
+rel-org::
 year-commenced::
 tags:: [[online]] #course #toStudy #[[online coursework]]
-project:: [[WADS study]] 
-public:: true
+rel-projects:: [[WADS study]]
+
 
 -

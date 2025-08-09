@@ -1,8 +1,8 @@
 alias::
-tags:: app, software #automation #AI 
+tags:: app #automation #AI
 URL:: https://axiom.ai/
-similar-to::
+see-also::
 purpose:: #[[web scraping]]
-project:: [[Coding with AI]], [[Metamechanical AI]], [[ACIM AI]]
+rel-projects:: [[Coding with AI]], [[Metamechanical AI]], [[ACIM AI]]
 
 -

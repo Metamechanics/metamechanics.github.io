@@ -1,8 +1,8 @@
 alias:: Kamekobaka
-tags:: #megalith 
-place:: [[Ryukyu Islands]], [[Okinawa]] 
-country:: [[Japan]] 
-place-type:: [[tumulus]], [[tomb]] 
+tags:: #megalith
+location:: [[Ryukyu Islands]], [[Okinawa]]
+rel-country:: [[Japan]]
+place-type:: [[tumulus]], [[tomb]]
 nearest-town::
 map-url::
 

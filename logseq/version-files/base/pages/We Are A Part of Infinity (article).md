@@ -1,11 +1,11 @@
-journal:: [[Nautilus (website)]] 
-authors:: [[Brian Gallagher]] 
+rel-journal:: [[Nautilus (website)]]
+author:: [[Brian Gallagher]]
 year:: 2025
 URL:: https://nautil.us/we-are-a-part-of-infinity-1201438/
-tags:: article #[[Albert Einstein]] #[[Kieran Fox]] 
-project:: #AMT #[[X-Science]] 
-question::
-public:: true
+tags:: article #[[Albert Einstein]] #[[Kieran Fox]]
+rel-projects:: #AMT #[[X-Science]]
+
+
 
 - [We Are a Part of Infinity](https://nautil.us/we-are-a-part-of-infinity-1201438/)
 - ## We Are a Part of Infinity

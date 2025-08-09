@@ -1,6 +1,6 @@
 alias::
 tags:: #myWriting #myIdea 
-project:: #X-Science #AMT
+rel-projects:: #X-Science #AMT
 
 - be-do-have become more and more united, the 'higher up' we go
 - method-mechanism determined by what is regarded as possible, feasible, allowable, permissible as reality

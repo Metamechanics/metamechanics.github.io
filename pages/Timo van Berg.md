@@ -1,11 +1,11 @@
 alias::
 URL::
-organisation::
+rel-org::
 role::
 fields::
-publications-productions:: [[Rationale (app)]] 
+creations:: [[Rationale (app)]] 
 tags:: person
-project::
-public:: true
+rel-projects::
+
 
 -

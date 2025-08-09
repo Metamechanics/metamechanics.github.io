@@ -1,5 +1,10 @@
+- alias::
+  tags::
+  url::
+  rel-projects::
+  see-also::
+- Everyone is something-ist
 -
-- Otherism
 - Discrimination by being an ‘other’. Prejudice against an other.
 - Everyone is ‘otherist’
 - We deny it by making special forms of ‘otherism’ and valuing

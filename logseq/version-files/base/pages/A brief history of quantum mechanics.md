@@ -1,12 +1,12 @@
-journal::
-website:: [[Big Think]] 
-authors:: [[Marcelo Gleiser]] 
+rel-journal::
+website:: [[Big Think]]
+author:: [[Marcelo Gleiser]]
 year::
 URL:: https://bigthink.com/collections/brief-history-quantum-mechanics/
 tags:: article, reference, #[[wave-particle duality]], #[[hidden variables]]
-project:: [[AMT]]
-question::
-public:: true
+rel-projects:: [[AMT]]
+
+
 
 - [A brief history of quantum mechanics - Big Think](https://bigthink.com/collections/brief-history-quantum-mechanics/)
 -
