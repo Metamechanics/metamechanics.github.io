@@ -1,0 +1,3 @@
+-
+- [Storytelling in PowerPoint: Learn McKinsey’s 3-Step Framework - YouTube](https://www.youtube.com/watch?v=CY1Y367KEko) #toWatch
+-

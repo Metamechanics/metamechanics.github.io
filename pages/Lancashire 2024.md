@@ -1,0 +1,4 @@
+- arrive Manchester [[23-07-2024]] 15:45 pm
+-
+- depart [[30-07-2024]] Manchester 16:30 hours, flight SunExpress XQ535
+	- arrive Antalya 23:00 hours

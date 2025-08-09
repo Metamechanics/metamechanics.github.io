@@ -1,0 +1,7 @@
+- #megalith #Japan
+-
+- [The Strange Megalithic Stones Of Masuda-no-Iwafune In Japan - Hidden Inca Tours](https://hiddenincatours.com/the-strange-megalithic-stones-of-masuda-no-iwafune-in-japan/)
+- [Mysterious Megaliths of Japan: The Stone Ship of Masuda - YouTube](https://www.youtube.com/watch?v=mE3upyxJre8)
+-
+- weighs 800 tons
+-

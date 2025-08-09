@@ -1,0 +1,55 @@
+{:blocks (
+{:block/content "can this be a whiteboard?"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "658a83c3-3ad8-41ee-b2d4-a57a83d5f8df"}
+:block/parent 
+{:block/uuid #uuid "658a83c3-3ad8-41ee-b2d4-a57a83d5f8df"}
+:block/properties 
+{}
+:block/uuid #uuid "658aaef1-ad5c-4515-9e20-1ad4c532d9f5"} 
+{:block/created-at 1703587644281
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "658aaef1-ad5c-4515-9e20-1ad4c532d9f5"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [224 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f8d8ff00-a3db-11ee-9678-e72cb40e4bed"
+:noFill false
+:point [168 232]
+:parentId "658a83c3-3ad8-41ee-b2d4-a57a83d5f8df"
+:collapsedHeight 0
+:nonce 1703587566365}}
+:block/updated-at 1703587644281})
+:pages (
+{:block/uuid #uuid "658a83c3-3ad8-41ee-b2d4-a57a83d5f8df"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "658a83c3-3ad8-41ee-b2d4-a57a83d5f8df"
+:name "scratch whiteboard"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("f8d8ff00-a3db-11ee-9678-e72cb40e4bed")}}
+:block/updated-at 1703587644281
+:block/created-at 1703576515875
+:block/type "whiteboard"
+:block/name "scratch whiteboard"
+:block/original-name "scratch whiteboard"})}

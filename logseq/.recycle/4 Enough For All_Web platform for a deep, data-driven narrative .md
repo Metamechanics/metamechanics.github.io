@@ -1,0 +1,2 @@
+	The base of Enough For All is a novel website piecing disparate data into a coherent narrative. It will allow user-driven plot pathways maintaining global meaning and connection between data and layers. The story structure allows deeper investigation as well as superficial story skimming.
+Enough For All needs web developers, data scientists, database programmers and content contributors to create this site.

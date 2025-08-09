@@ -1,0 +1,10 @@
+alias:: infobesity, databetes
+tags:: #metaphor 
+project:: #AMT
+see-also:: [[knowledge nutrition]]
+title:: databetes & infobesity
+-
+- Type 1 databetes
+- Type 2 databetes
+- Hybrid databetes
+- Infobesity

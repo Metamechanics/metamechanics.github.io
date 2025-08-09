@@ -1,0 +1,35 @@
+- To simplify, but not oversimplify, and try to make sense of the saga that is poverty and prosperity.
+-
+- EFA seeks to make sense of the debate around (in)sufficiency and prosperity.
+- Vision, Mission, Goals & Objectives - Outline
+	- Inspiring hope
+	- Generating insight
+	- Identifying leverage points
+	- Conflicting & competing solutions into complementary strategies
+	- Overwhelming issues into digestible ideas
+	- Attract contributors. Grow a community.
+	- Identify trigger points, true barriers.
+	- Act as a reminder about what the real problems are, and some ways we might address them.
+	- Create online community data and resource portal
+	-
+- Understanding and awareness
+- Community and organisation
+	- Hub. Unifying tool. Cohering platform
+- Decision-making
+-
+- EFA Goals
+	- Collate, invite, curate, narrate, communicate the story of Enough For All.
+- EFA attempts to inform and remind of the general characteristics and features of (in)effective strategies. To achieve this we seek to identify powerful leverage points for health, wealth and peace. We distill debate around models, systems and the principles behind prosperity.
+- We aim to illuminate this complex issue and generate concise insights by being data-driven, community-curated, expert-moderated and graphically focused.
+- The goal is to merge existing disparate data on overwhelming topics into an insightful and coherent message of care, clarity and compassionate critique.
+- EFA seeks to become a collaborative, compassionately critical community. We invite people to get involved in whatever preferred capacity. After all, the story of the world requires the world to (re)write it.
+- Enough For All intends to knit together the data, results and discoveries made by myriad other researchers into a coherent image.
+- EFA hopes to create:
+	- A caring, concerted, capable community
+	- An independent, sustainable organisation
+	- Yes, we have an agenda. May we stay true to that as we collaborate with like-minded organisations and individuals, in the face of competing and conflicting messages.
+	- Insight. Illumination. Information.
+	- A hub for visualised data by problem, topic, region, solution, level. A deep, clear view into complex, layered issues. A map for the maze of muchness.
+	- Simple, coherent, engaging, uplifting message
+- EFA doesn't expect to solve the problems of poverty on a significant scale in a reasonable time. We're not that naive. But if we can get people pondering and stimulate quality discussion, consideration and reconsideration of
+- influence individuals, including ourselves, to think differently about these matters, and  around in order to do so, then we have

@@ -1,0 +1,9 @@
+- #Bosnia #pyramids #Europe
+- [Home - Welcome to the official web page of the 'Archaeological Park: Bosnian Pyramid of the Sun' Foundation](https://piramidasunca.ba/eng/home-en.html)
+- #[[Dr Semir Osmanagich]]
+- [Summer_Solstice_Tour_2024.pdf](https://piramidasunca.ba/images/banners/Summer_Solstice_Tour_2024.pdf?26082023_01)
+	- June 16 - 23
+	- USD$1700, single
+-
+- [The Bosnian Pyramid | Hoax or Real? - Mario Buildreps - YouTube](https://www.youtube.com/watch?v=9uN-jlxWMjg)
+-

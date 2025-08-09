@@ -1,0 +1,3 @@
+- No - don't bother going here
+- [10,000-Year-Old Gürcü Tepe: Is This Where It All Ended? | Ancient Architects - YouTube](https://www.youtube.com/watch?v=b3TsokhRobc)
+-

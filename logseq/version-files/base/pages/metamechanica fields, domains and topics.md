@@ -1,0 +1,23 @@
+- particularly important for Fresh Alternatives but used across all Metamechanica projects
+- #QTS: what existing schema exist?
+- each topic has an orthodox and unorthodox aspect
+- Global & Holistic
+	- [[theory of everything]]
+	- [[theory of change]]
+	- [[metaphysics]]
+	- [[epistemology]]
+- Science
+	- cosmology
+	- physics
+	- biology
+	- geology
+	- chemistry
+- Economics
+- Medicine
+- History
+	- [[History of Science]]
+	-
+- Psychology
+- Philosophy
+	- [[Philosophy of Science]]
+	-

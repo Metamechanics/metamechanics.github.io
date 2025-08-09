@@ -1,0 +1,2 @@
+- #[[Rudolf Steiner]] #Plato #[[Edgar Cayce]] #[[Dolores Cannon]] #[[Randall Carlson]]
+-

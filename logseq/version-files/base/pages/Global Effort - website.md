@@ -1,0 +1,26 @@
+title:: Global Effort - website
+
+- #globalEffort #website
+- searchable database by
+	- individual energy futures stakeholders
+	- energy futures types
+	- country
+	- time frame
+	- dominant energy production sources
+	- dominant energy use sinks
+	- Energy per capita - low, medium, high (would need to determine numbers)
+	- Oil price
+	- Diversity of energy management/production technologies and systems
+	- Degree of decentralization of energy production
+	- Degree of reliance on fossil fuels
+- Wiki can create many hyperlinks from many things to many things. Store research notes, summaries of futures, techniques etc as wiki-hypertext linked. Each instance can be rated on each [suitable] dimensional axis
+- Menus & Categories. Need data taxonomy.
+  Energy Futures pages
+  Energy pages
+  Futures & Foresight pages
+  Socio-Technical Transitions pages
+  Weekly blog posting
+  Latest page
+  Resources page
+- see also: [[TBX notes on Global Effort]]
+-

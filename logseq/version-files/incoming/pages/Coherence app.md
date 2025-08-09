@@ -1,0 +1,98 @@
+alias::
+tags:: #project #app #myIdea #[[project management]] #software #[[software development]] #SQL 
+project:: [[WADS portfolio]] #[[WADS study]] 
+see-also::
+
+-
+-
+- Eisenhower matrix, with variations, customisation
+- Hierarchy
+- Principles
+- Choice of overarching philosophy?
+	- eg. Body-Mind-Spirit vs Spirit>Mind>Body vs Body-Brain vs custom vs none etc
+	- available frameworks then adjust based on this choice
+- Exemplars and templates
+- AI integration
+- Pomodoro options
+- Background music, white noise
+- Daily, weekly, monthly, quarterly, annual timeframes
+- Dependencies
+	- time-based and non-time based options
+- Views
+	- Gantt / timeline
+	- Swimlane
+	- Kanban
+	- Matrix
+	- Folder - sub-folder
+	- List
+	- Database/table
+	- Calendar
+	- Portfolio
+	- Project
+	- Filters
+	- People/alter-egos
+	- Cards (like Trello)
+	-
+- Metrics?
+	- KPI
+	- OKR
+	- business metrics
+	- $
+- Mobile first, desktop/web later
+- "Purpose is everything"
+	- Why? Ask why at each prompt?
+	- Ask for reflection: Does any sub-part actually not align with the top goal?
+- Psychology experts/app input
+- Comparison/competitor apps & services
+	-
+	- Global Coherence app, HearthMath institute
+	- The Complete App
+	- Momentum
+	- The major specific task/project management players
+		- [72 Best Project Management Software of 2023 | Hive.com](https://hive.com/blog/project-management-software/)
+		- Todoist
+		- 2do
+		- Things
+		- Asana
+		- Nozbe
+		- Wrike
+		- Monday.com
+		- MeisterTask
+		- Casual
+			- visual task flow ie. dependencies
+		- Trello
+		- Basecamp
+		- Smartsheet
+		- Mavelink
+		- GanttPro
+		- TeamGantt
+		- Process Street
+		- Toggl
+		- nTask
+		- Nifty
+	- General tools used for Task & Project management
+		- Notion
+		- Fibery
+		- AirTable
+		- Coda
+		- Miro
+- Integrations
+  collapsed:: true
+	- Xero
+	- Google Drive/iCloud/Dropbox/OneDrive et al
+	- Salesforce
+	- Hubspot
+	- Zoho
+	- Zapier
+	- Quickbooks
+- Customizable complexity
+	- Dates, or not
+	- Time-tracking, or not
+	- $, or not
+	- Team, or not
+- User sizes
+	- Solopreneur, sole operator
+	- Small team (2~3 people)
+	- Team (3 ~ 10 pax)
+	- Organisation (10 ~ 100)
+	- Enterprise (100+)

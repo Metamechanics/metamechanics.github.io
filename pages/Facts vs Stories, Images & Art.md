@@ -1,0 +1,7 @@
+- Facts alone usually don't change minds. Often we are already decided.
+- We need more emotive stimuli
+- Facts can be misused, re-contextualised, de-contextualised, mis-contextualised.
+- The limits of facts can sometimes be not well defined.
+- [[We don't get upset at facts. We get upset at our interpretation of them.]]
+- We can arrange and re-arrange facts into stories to suit us (to a degree)
+-

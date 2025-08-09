@@ -1,0 +1,7 @@
+- Form vs Content
+- Magnetic images
+- Unconscious narratives
+- Inter-domain comparators
+- Inspired interpretation
+- Meta-for
+- Everything is metaphor. But what is your metaphor for??

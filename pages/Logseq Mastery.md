@@ -1,0 +1,5 @@
+- #Course
+- [Logseq Mastery Home Page](https://www.logseqmastery.com/?utm_source=onestutteringmind&utm_medium=blog&utm_campaign=course)
+- Dario's homepage
+	- [Logseq Resources · OneStutteringMind](https://www.onestutteringmind.com/logseq/)
+-

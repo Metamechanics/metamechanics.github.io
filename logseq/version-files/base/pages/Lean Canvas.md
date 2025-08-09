@@ -1,0 +1,35 @@
+-
+- Problem
+	- List top 1-3 problems
+	- What will happen if problem not solved
+- Existing alternatives
+	- List how these problems are solved today
+- My Solution
+- Unique value proposition
+	- My idea in a "tell me more" sentence
+- High Level Concept
+- Unfair advantage
+	- What do I/my team have that others don't?
+- Customer segments
+	- User
+	- Customer
+	- Beneficiaries/Supporters
+	- Who is experiencing the problem?
+	- Who is impacted by the problem?
+	- Who has an interest in the problem being solved? (and not solved?!)
+- Early Adopters
+- Key metrics
+	- What do you need to do to make it work?
+- Channels
+	- How will your customer segments find out about you?
+- Cost Structure
+- Revenue Streams
+-
+- Empathy Map. - Customer-Centric Design
+	- Who are we empathising with?
+	- What do they need to do?
+	- What do they see?
+	- What do they say?
+	- What do they do?
+	- What do they hear?
+	- What do they think and feel?

@@ -1,0 +1,11 @@
+- [[John Vervaeke]] #[[the meaning of life]]
+- https://iai.tv/video/solving-the-meaning-crisis-john-vervaeke?utm_source=YouTube&utm_medium=description
+	- #toWatch #toSummarise
+- Purpose
+- Coherence
+- Significance
+- Mattering
+	- connectedness
+-
+- what do I want to exist even if I don't?
+- how much of a difference do I make to it?

@@ -1,0 +1,11 @@
+- alias::
+  author::
+  publication-year::
+  tags:: book, reference
+  project:: 
+  question::
+  public:: true
+- [Barrington atlas of the Greek and Roman world | WorldCat.org](https://search.worldcat.org/title/43970336)
+- #### Summary
+- In 99 full-color maps spread over 175 pages, the Barrington Atlas recreates the entire world of the Greeks and Romans from the British Isles to the Indian subcontinent and deep into North Africa. It spans the territory of more than 75 modern countries. Its large format (13 x 19 ins or 33 x 48 cm) has been custom-designed by the leading cartographic supplier MapQuest.com, Inc., and is unrivalled for range, clarity and detail. Over 70 experts, aided by an equal number of consultants, have worked from satellite-generated aeronautical charts to return the modern landscape to its ancient appearance, and to mark ancient names and features in accordance with the most up-to-date historical scholarship and archaeological discoveries.
+- Chronologically, the Barrington Atlas spans archaic Greece to the Late Roman Empire, and no more than two standard scales (1:500,000 and 1:1,000,000) are used to represent most regions. Since the 1870s, all attempts to map the classical world comprehensively have failed. This new initiative has finally achieved that elusive and challenging goal. It began in 1988 at the University of North Carolina, Chapel Hill, under the direction of the distinguished ancient historian Richard Talbert, and has been developed with approximately $4 million in funding support. The resulting Barrington Atlas is a reference work of permanent value. It has an exceptionally broad appeal to everyone worldwide with an interest in ancient Greeks and Romans, the lands they penetrated, and the peoples and cultures they encountered in Europe, North Africa and Western Asia. Scholars and libraries should all find it essential, although it is not just for them. It is also for students, travelers and lovers of fine cartography, as well as for anyone eager to retrace Alexander's eastward marches, to cross the Alps with Hannibal, to traverse the Eastern Mediterranean with St. Paul, or to ponder the roads, aqueducts and defense works of the Roman Empire. For the new millennium the Barrington Atlas brings the ancient past back to life in an unforgettably vivid and inspiring way.--Publisher description

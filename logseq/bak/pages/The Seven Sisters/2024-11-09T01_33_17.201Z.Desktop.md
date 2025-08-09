@@ -1,0 +1,12 @@
+- #mythology #TheDreaming #Pleiades
+-
+- [Dreamtime and the Seven Sisters - The World's oldest story is about Pleiades - YouTube](https://www.youtube.com/watch?v=_qyjKND3dAE)
+- Variations of the same story suggest universal story
+- Greece
+- Australia
+- Canadian indigenous: Algonquin
+- Costa Rice
+- India
+- Cherokee
+- Norse
+-

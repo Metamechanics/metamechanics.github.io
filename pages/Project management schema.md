@@ -1,0 +1,27 @@
+- #[[Mission Management]]'
+- Outline and identify the links between elements
+- Project
+	- __ is
+	- __ has
+- Enterprise
+	- __ is
+	- __ has
+- Phase
+	- __ is
+	- __ has
+- Writing
+	- types: MyBlog, MyArticle, MyBook,
+	- __ is
+	- __ has
+- Website
+- Releases
+- Epics
+- Sprints
+- Features
+- Priority
+- Status
+- Deadline
+- Timeframe
+- Collaborators
+- Contractors
+- Dependencies

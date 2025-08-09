@@ -1,0 +1,6 @@
+alias:: Enough Tech
+
+Define Technology It has to be a broad definition ie. Not computers, not just machines   
+Note not “spiritual machines” a la Kurzweil  
+Biotech and Food  
+Technology facilitates/enables a deeper sense of fulfilment and meaning/happiness to be realized more easily, but it does not provide that sense of meaning. (Meaning we give ourselves.) Actually, it can be an illusory pursuit, pursuing the aquisition of technology in order to aquire meaning, rather than obtaining meaning directly through the aid of technology. Tech ultimately ends up providing a mirage of happiness. Tech is not the end, but a means to an end. What is our “end”

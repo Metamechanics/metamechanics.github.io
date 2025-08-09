@@ -1,0 +1,24 @@
+title:: Argument models
+
+- [[Toulmin model of argument]]
+	- Claim
+	- Grounds
+	- Warrant
+	- Backing
+	- Qualifier
+	- Rebuttal
+- Rogerian (middle ground)
+	- Introduce the problem
+	- Antithesis - Acknowledge other sdie
+	- Thesis - Present your side
+	- Synthesis - bring two sides together
+	- Conclusion - remind of value of balanced perspective
+- Aristotelian (classic)
+	- Thesis
+	- Thesis - declare and explain
+	- Support thesis - evidence
+	- Opposing views
+	- Cite sources
+	- Logos = logic
+	- Pathos = sentiment
+	- Ethos = credibility

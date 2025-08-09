@@ -1,0 +1,10 @@
+- #argumentation #[[argument mapping]]
+-
+- Thesis
+- Thesis - declare and explain
+- Support thesis - evidence
+- Opposing views
+- Cite sources
+- Logos = logic
+- Pathos = sentiment
+- Ethos = credibility

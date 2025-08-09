@@ -1,0 +1,13 @@
+- alias::
+  URL::
+  organisation::
+  role::
+  fields::
+  publications-productions:: 
+  country::
+  tags:: person
+  project::
+  public:: true
+-
+- “History in general is therefore the development of Spirit in Time, as Nature is the development of the Idea in Space.” #quote #spacetime #AMT
+-

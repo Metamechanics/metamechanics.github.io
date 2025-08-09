@@ -1,0 +1,13 @@
+alias:: Duus
+URL::
+organisation::
+role:: #MetaMechanic #[[independent researcher]] #noonaut #zengineer 
+fields::
+publications-productions:: 
+tags:: person
+project::
+public:: true
+- #Bogansattva
+- #JihAdam
+- #[[The IliAdam & The oDuusey]]
+-

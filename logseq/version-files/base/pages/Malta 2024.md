@@ -1,0 +1,84 @@
+- #CANCELLED
+- Opening Hours
+  collapsed:: true
+	- ![image.png](../assets/image_1711962889919_0.png)
+	- ![image.png](../assets/image_1711962948007_0.png)
+- https://www.visitmalta.com/en/attraction/kordin-temples-malta/
+- [The Temples of Megalithic Malta and Gozo Equinox Tour - March 16th - 23rd 2024](https://www.megalithomania.co.uk/maltatour.html)
+- https://www.megalithomania.co.uk/maltatour.html
+- [Cycling in Malta - Itineraries, Bike rentals + our tips - My little Malta](https://mylittlemalta.com/cycling-malta/)
+- [Malta Public Transport - Explore Flex card](https://www.publictransport.com.mt/en/explore-flex)
+-
+- [Sites by Region- Heritage Malta](https://heritagemalta.mt/explore/)
+  collapsed:: true
+	- Valletta
+		- Upper Barrakka Gardens
+		- St John's Co-Cathedral
+		- [National Museum of Archaeology - Heritage Malta](https://heritagemalta.mt/explore/national-museum-of-archaeology/)
+		-
+	- South & South-west
+		- Blue Grotto
+		- [[Hagar Qim]] and [[Mnajdra]]
+			- [Ħaġar Qim and Mnajdra Archaeological Park - Heritage Malta](https://heritagemalta.mt/explore/hagar-qim-and-mnajdra-archaeological-park/)
+		- [[Tas-Silg]]
+			- [Tas-Silġ Archaeological Complex - Heritage Malta](https://heritagemalta.mt/explore/tas-silg-archaeological-complex/)
+		- [[Ghar Dalam]]
+			- [Għar Dalam - Heritage Malta](https://heritagemalta.mt/explore/ghar-dalam/)
+			- cart ruts
+		- [[Borg in-Nadur]]
+			- closed Mondays
+			- [Borġ in-Nadur Prehistoric Complex - Heritage Malta](https://heritagemalta.mt/explore/borg-in-nadur/)
+		- [Ta' Mintna Catacombs - Heritage Malta](https://heritagemalta.mt/explore/ta-mintna-catacombs/)
+	- Rabat, Mdina & North-west
+		- Festa of St Joseph in Rabat
+		- Mdina medieval city walking tour
+		- [Abbatija tad-Dejr - Heritage Malta](https://heritagemalta.mt/explore/abbatija-tad-dejr/)
+		- Golden Bay beach
+		- Ghajn Tuffeia
+		- Ghar Lapsi cove/beach, near Dingli Cliffs
+		- Dingli Cliffs
+		- Clapham Junction cart ruts
+	- 3 Cities & Harbour
+		- [[Hal Tarxien]]
+			- [Ħal Tarxien Prehistoric Complex - Heritage Malta](https://heritagemalta.mt/explore/hal-tarxien-prehistoric-complex/)
+		- [[Hal Saflieni hypogeum]]
+			- [Ħal Saflieni Hypogeum - Heritage Malta](https://heritagemalta.mt/explore/hal-saflieni-hypogeum/)
+		- [[Kordin III megalithic site]]
+			- [Kordin III Megalithic Site - Heritage Malta](https://heritagemalta.mt/explore/kordin-iii/)
+	- North
+		- Qawra cart ruts
+		- Buggiba Temple
+		- St George's Bay cart rtus
+		- San Gwann cart ruts
+		- San Pawl cart ruts
+		- [San Pawl Milqi - Heritage Malta](https://heritagemalta.mt/explore/san-pawl-milqi/)
+		- [[Salini catacombs and cart ruts]]
+			- [Salini Catacombs - Heritage Malta](https://heritagemalta.mt/explore/katakombi-tas-salina/)
+		- [[Skorba]]
+			- [Skorba Prehistoric Site - Heritage Malta](https://heritagemalta.mt/explore/skorba-temples/)
+		- [[Ta Hagrat]]
+			- [Ta’ Ħaġrat Megalithic Site - Heritage Malta](https://heritagemalta.mt/explore/ta-hagrat-temples/)
+	- Gozo
+		- [[Gjantija]]
+			- [Ġgantija Archaeological Park - Heritage Malta](https://heritagemalta.mt/explore/ggantija-archaeological-park/)
+		- [Ħaġra ta' Sansuna (dolmen) - Heritage Malta](https://heritagemalta.mt/explore/hagra-ta-sansuna/)
+		- [Għar ta' Għejżu - Heritage Malta](https://heritagemalta.mt/explore/ghar-ta-ghejzu/)
+		- [Xagħra Circle - Heritage Malta](https://heritagemalta.mt/explore/xaghra-circle/)
+			- booking required
+		- Citadella di Victoria
+		- Victoria monolith
+		- Ta'Cenc cart ruts and dolmens
+		- [Gozo Museum of Archaeology - Heritage Malta](https://heritagemalta.mt/explore/gozo-museum-of-archaeology/)
+		-
+		-
+-
+- Itinerary
+	- [[06-07-2024]]
+		- depart Belgrade 20:50
+		- arrive Malta airport 23:00
+		- stay [Senglea apartment - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4ApKejLEGwAIB0gIkOGE2N2Q3Y2MtYmFlMy00MDNlLWExMjctZmVlM2VmY2E2Njc02AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=YQmy3xibf9cmK0SB&source=mytrips)
+			- 7 Oratorju, ISL 1062 Senglea, Malta
+	- [[13-07-2024]]
+		- depart Malta 20:40 hours
+		- arrive Cagliari 22:00 hours
+	-

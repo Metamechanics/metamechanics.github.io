@@ -1,0 +1,4 @@
+-
+- #[[Glucose Ketone Index]] #autophagy #ketosis #fasting #[[calorie restriction]]
+- [The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer](https://nutritionandmetabolism.biomedcentral.com/track/pdf/10.1186/s12986-015-0009-2.pdf)
+-

@@ -1,0 +1,8 @@
+- #FRESH #cosmology #unorthodox
+-
+- For overview (but not agreement), see [Alternative cosmology - RationalWiki](https://rationalwiki.org/wiki/Alternative_cosmology)
+	- "**Alternative cosmology** can include any physical science-based [cosmological](https://rationalwiki.org/wiki/Cosmology) model of the [Universe](https://rationalwiki.org/wiki/Universe) proposed as an alternative to the standard [Big Bang](https://rationalwiki.org/wiki/Big_Bang) model. Apart from the Steady State theory, most of them deny that space or the universe is expanding."
+-
+- [Non-standard cosmology - Wikipedia](https://en.wikipedia.org/wiki/Non-standard_cosmology)
+-
+-

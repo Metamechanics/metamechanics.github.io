@@ -1,0 +1,11 @@
+alias::
+URL::
+organisation::
+role::
+fields::
+publications:: 
+tags:: person, academic, philosophy
+project::
+public:: true
+- [HOME - Sir Roger Scruton](https://www.roger-scruton.com/)
+-

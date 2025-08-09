@@ -1,0 +1,106 @@
+- #[[Guidance To Self]]
+- Write in Logseq
+	- Tag heavily
+	- Template everything #[[metamechanica tag taxonomy]]
+	-
+- Write and create, but also for showing to inner circle
+	- Need combination of outward platform + inner platform
+	- Outward platforms?
+		- Notion
+		- Coda
+		- Capacities
+		- Anytype
+	- Inward platforms?
+		- Logseq
+		- Obsidian
+		- ...but want some database/table/card functionality
+	- TEMPLATES (not Logseq templates)
+		- References
+		- People
+		- Data viz (eg. for EFA)
+- Platforms, Apps
+- Focused on
+- Minimum Viable Products
+- Exemplars created
+- Blog articles x 5
+- Project brief/pitch/outline
+- Metamechanic Mesh KM Phase 0 needs and not-needs
+  collapsed:: true
+	- needs
+		- single note repository underlying all projects
+		- outward-facing aspect
+			- for
+				- recruitment of collaborators
+				- attraction of funding
+				- invitation of ideas
+			- needs to be visual and incorporate visual components
+		- task prioritization tool
+		- backlinking, wikilinking, predictive note linking
+		- AI incorporation
+		- show mock-ups
+		- project URL redirect to showcase page
+	- does not need
+		- separate websites for each project
+			- I need the unified knowledge respository underlying all projects and I don't have the tech skills to do this for separate websites
+		- separate workspaces, graph databases
+		- excessive polish
+			- only enough to adequately communicate requirements and vision
+- Workflow
+	- Do
+		- enter writing freely
+		- tag readily and heavily
+		- consolidate pre-existing notes
+			- TBX
+			- Scrivener
+			- et al
+		- learn to use tools of Logseq efficiently
+			- transclusion
+			- todo
+			- tags
+		- develop taxonomy and document it
+		- document (ie. tag) heavily
+		- use journal as primary entry point inconjunction with TAGS
+		- occasional cleaning up of notes
+			- via file size
+			- via graph view
+	- Do not
+		- look for other platforms. Stick to Logseq for Phase 0
+		- worry about "weeds in the garden" too much ie. that everything is not neat and tidy
+		-
+- This is the writing that the first community participants, supporters, developers and backers will read
+	- How many? 3-10? Can't be too many as then it will have to be more polished.
+- Obviously I can't write everything. I have too many projects, and they are large in scope.
+- Therefore, I must judiciously focus my writing to **balance breadth with depth**
+	- Cover enough breadth to frame scope, purvue
+	- Set the tone, philosophy, spirit, intentions
+	- yet also provide enough detail, depth
+- Writing to:
+	- orient - what is my/our position in the noosphere; where do we want to go?
+	- inspire participation, readership:
+	- define boundaries, limits
+	- distinguish from other efforts
+		- why important
+		- why unique
+		- what do we do that other's don't
+		- what don't/won't we do that others do do
+- Definitive
+- Prototype
+- Exemplar
+- Hypothetical, intuitive, exploratory...with need to research and make rigorous LATER
+- Each project has:
+	- 20 page project proposal
+	- Macrobout complete
+	- 20 "profile cards" in each of 5 types (eg. person, document, organisation,)
+	- 5 x blogs
+- 20-page project proposal template
+	- Wireframe
+	- Comparators-Competitors
+	- Uniqueness, Novelty, Difference
+	- Imperative, necessity
+	-
+	-
+- {{query #toWrite }}
+  query-sort-by:: block
+  query-table:: true
+  query-sort-desc:: true
+	-

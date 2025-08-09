@@ -1,0 +1,7 @@
+- #breathwork #breathing #health #toResearch
+- [One-to-One Buteyko Breathing Coaching with Neil — The Buteyko Method](https://www.thebuteykomethod.com/one-to-one-buteyko-breathing)
+- [The Breathing Technique That Saved My Life - YouTube](https://www.youtube.com/watch?v=B5y4KPgd5so)
+- [[Bohr effect]]
+- [eMJA: Bowler et al., Buteyko breathing techniques in asthma: a blinded randomised controlled trial](https://buteykoclinic.com/wp-content/uploads/2019/04/Buteyko-Mater-Hospital.pdf)
+-
+-

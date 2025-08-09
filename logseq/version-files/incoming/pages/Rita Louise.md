@@ -1,0 +1,11 @@
+alias::
+URL:: https://soulhealer.com/
+organisation::
+role:: [[medical intuitive]], [[psychic]] 
+fields:: [[energy healing]],  
+publications-productions:: [[Stepping Out of Eden]] 
+tags:: person, 
+project::
+public:: true
+- [Author, Speaker, Medical Intuitive | Dr. Rita Louise](https://soulhealer.com/)
+-

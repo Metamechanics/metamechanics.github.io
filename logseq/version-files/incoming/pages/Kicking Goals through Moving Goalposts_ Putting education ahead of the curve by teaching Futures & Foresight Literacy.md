@@ -1,0 +1,2 @@
+title:: Kicking Goals through Moving Goalposts: Putting education ahead of the curve by teaching Futures & Foresight Literacy
+- #toWrite #[[Futures & Foresight Literacy]] #[[Futures Studies]] #ffed #[[My Creations]] #[[MyArticle]] #blog

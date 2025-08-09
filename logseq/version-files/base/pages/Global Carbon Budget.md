@@ -1,0 +1,4 @@
+- #[[Global Effort]] #[[carbon emissions]] #[[greenhouse gases]]
+- initiative by the [[Global Carbon Project]]
+- "The critical annual update revealing the latest trends in global carbon emissions"
+-

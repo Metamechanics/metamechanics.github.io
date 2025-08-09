@@ -1,0 +1,5 @@
+- #DiaGnosis #[[web development]] #[[computer programmer]] #freelancer #collaborator #AimProSoft
+- [How to Make a Social Media Website like Facebook From Scratch: The Success Story | Aimprosoft](https://www.aimprosoft.com/blog/how-to-build-a-social-media-website/)
+- [Dedicated Development Team in Ukraine: A Guide to Hiring in 2024](https://www.aimprosoft.com/blog/hire-dedicated-development-team-in-ukraine/)
+-
+-

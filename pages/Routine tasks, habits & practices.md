@@ -1,0 +1,6 @@
+- stretch 5 minutes every hour
+- mild (at least) exercise 30 minutes every 3 hours
+- [[Daily Routine]]
+	- {{embed [[Daily Routine]]}}
+- [[Weekly Routine]]
+	- {{embed [[Weekly Routine]]}}

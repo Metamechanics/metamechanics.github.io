@@ -1,0 +1,790 @@
+-
+- INTRODUCTION
+  collapsed:: true
+	- 1. Irvin L. Child, "Psychology and Anomalous Observations," American Psychologist 40, no. 11 (November 1985), pp. 1219-30.
+- THE BRAIN AS HOLOGRAM
+  collapsed:: true
+	- 1. Wilder Penfield, The Mystery of the Mind: A Critical Study of Consciousness and the Human Brain (Princeton, NX: Princeton University Press, 1975).
+	- 2. Karl Lashley, "In Search of the Engram," in Physiological Mechanisms in Animal Behavior (New York: Academic Press, 1950), pp. 454-82.
+	- 3. Karl Pribram, "The Neurophysiology of Remembering," Scientific American 220 (January 1969), p. 75.
+	- 4. Karl Pribram, Languages of the Brain (Monterey, Calif.: Wadsworth Publishing, 1977), p. 123.
+	- 5. Daniel Goleman, "Holographic Memory: Karl Pribram Interviewed by Daniel Goleman," Psychology Today 12, no. 9 (February 1979), p. 72.
+	- 6. J. Collier, C. B. Burckhardt, and L. H. Lin, Optical Holography {New York: Academic Press, 1971).
+	- 7. Pieter van Heerden, "Models for the Brain," Nature 227 (July 25,1970), pp. 410-11.
+	- 8. Paul Pietsch, Shufflebrain: The Quest for the Hologramic Mind (Boston: Houghton Mifflin, 1981), p. 78.
+	- 9. Daniel A. Pollen and Michael C. Tractenberg, "Alpha Rhythm and Eye Movements in Eidetic Imagery," Nature 237 (May 12, 1972), p. 109,
+	- 10. Pribram, Languages, p. 169.
+	- 11. Paul Pietsch, "Shuffle brain," Harper's Magazine 244 (May 1972), p. 66.
+	- 12. Kareo K. DeValois, Russell L. DeValois, and W. W. Yund, "Responses of Striate Cortex Cells to Grating and Checkerboard Patterns," Journal of Physiology, vol. 291 (1979), pp. 483-505.
+	- 13. Goleman, Psychology Today, p. 71,
+	- 14. Larry Dossey, Space, Time, and Medicine (Boston: New Science Library, 1982), pp. 108-9.
+	- 15. Richard Restak, "Brain Power A New Theory," Science Digest (March 1981), p. 19.
+	- 16. Richard Restak, The Brain (New York: Wamer Books, 1979), p. 253.
+- collapsed:: true
+  2. THE COSMOS AS HOLOGRAM
+	- 1. Basil J. Hiley and F. David Peat, "The Development of David Bohm's Ideas from the Plasma to the Implicate Order," in [[Quantum Implications]] , ed. Basil J. Hiley and F. David Peat (London; Routledge & Kegan Paul, 1987), p. 1.
+	- 2. Nick Herbert, "How Large is Starlight? A Brief Look at Quantum Reality," Revision 10, no. 1 (Summer 1987), pp. 31-35.
+	- 3. Albert Einstein, Boris Podolsky, and Nathan Rosen, "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" Physical Review 47 (1935), p. 777.
+	- 4. Hiley and Peat, Quantum, p. 3.
+	- 5. John P. Briggs and F. David Peat, [[Looking Glass Universe]] (New York: Simon & Schuster, 1984), p. 96.
+	- 6. David Bohm, " [[Hidden Variables and the Implicate Order]] ," in [[Quantum Implications]] , ed. Basil J. Hiley and F. David Peat (London: Routledge & Kegan Paul, 1987), p. 38.
+	- 7. " [[Nonlocality in Physics and Psychology: An Interview with John Stewart Bell]] ," Psychological Perspectives (Fall-Winter 1988), p. 306.
+	- 8. Robert Temple, "An Interview with David Bohm," New Scientist (November II, 1982), p. 362.
+	- 9. Bohm, Quantum, p. 40.
+	- 10. David Bohm, [[Wholeness and the Implicate Order]] (London: Routledge & Kegan Paul, 1980), p. 205.
+	- 11. Private communication with author, October 28, 1988.
+	- 12. Bohm, Wholeness, p. 192.
+	- 13. Paul Davies, Superforce (New York: Simon & Schuster, 1984), p. 48.
+	- 14. Lee Smolin, "What is Quantum Mechanics Really About?" New Scientist (October 24, 1985), p. 43.
+	- 15. Private communication with author, October 14, 1988.
+	- 16. Saybrook Publishing Company, The Reach of the Mind: Nobel Prize Conversations (Dallas, Texas: Saybrook Publishing Co., 1985), p. 91.
+	- 17. Judith Hooper, "An Interview with Karl Pribram," Omni (October 1982), p. 135.
+	- 18. Private communication with author, February 8, 1989.
+	- 19. Renee Weber, "The Enfolding-Unfolding Universe: A Conversation with David Bohm," in The Holographic Paradigm, ed. Ken Wilber (Boulder, Colo.: New Science Library, 1982), pp. 83-84.
+	- 20. Ibid., p. 73.
+- collapsed:: true
+  3. THE HOLOGRAPHIC MODEL AND PSYCHOLOGY
+	- 1. Renee Weber, "The Enfolding-Unfolding Universe: A Conversation with David Bohm," in The Holographic Paradigm, ed. Ken Wilber (Boulder,
+	- Colo.: New Science Library, 1982), p. 72.
+	- 2. Robert M. Anderson, Jr., "A Holographic Model of Transpersonal Consciousness," Journal of Transpersonal Psychology 9, no. 2 (1977), p. 126.
+	- 3. Jon Tolaas and Montague Ullman, "Extrasensory Communication and Dreams," in Handbook of Dreams, ed. Benjamin B. Wolman (New York: Van Nostrand Reinhold, 1979), pp. 178-79.
+	- 4. Private communication with author, October 31, 1988.
+	- 5. Montague Ullman, "Wholeness and Dreaming," in [[Quantum Implications]] , ed. Basil J. Hiley and F. David Peat (New York: Routledge & Kegan Paul, 1987), p. 393,
+	- 6. I. Matte-Bianco, "A Study of Schizophrenic Thinking: Its Expression in Terms of Symbolic Logic and Its Representation in Terms of Multidimensional Space," International Journal of Psychiatry 1, no. 1 (January 1965), p. 93.
+	- 7. Montague Ullman, "Psi and Psychopathology," paper delivered at the American Society for Psychical Research conference on Psychic Factors in Psychotherapy, November 8, 1986.
+	- 8. See Stephen LaBerge, Lucid Dreaming (Los Angeles: Jeremy P-Tarcher, 1985).
+	- 9. [[Fred Alan Wolf]] , Star Wave (New York: Macmillan, 1984), p. 238.
+	- 10. Jayne Gackenbach, "Interview with Physicist Fred Alan Wolf on the Physics of Lucid Dreaming," Lucidity Letter 6, no. 1 (June 1987), p. 52.
+	- 11. [[Fred Alan Wolf]] , "The Physics of Dream Consciousness: Is the Lucid Dream a Parallel Universe?" Second Lucid Dreaming Symposium Proceedings/Lucidity Letter 6, no. 2 (December 1987), p. 133.
+	- 12. Stanislav Grof, Realms of the Human Unconscious (New York: E. P. Dutton, 1976), p. 20.
+	- 13. Ibid., p. 236.
+	- 14. Ibid., pp. 159-60.
+	- 15. Stanislav Grof, The Adventure of Self-Discovery (Albany, N.Y.: State University of New York Press, 1988), pp. 108-9.
+	- 16. Stanislav Grof, Beyond the Brain (Albany, N.Y.: State University of New York Press, 1985), p. 31,
+	- 17. rbid., p. 78.
+	- 18. Ibid., p. 89.
+	- 19. Edgar A. Levenson, "A Holographic Model of Psychoanalytic Change," Contemporary Psychoanalysis 12, no. 1 (1975), p. 13.
+	- 20. Ibid., p. 19.
+	- 21. David Shainberg, "Vortices of Thought in the Implicate Order," in [[Quantum Implications]] , ed. Basil J. Hiley and F. David Peat (New York: Routledge & Kegan Paul, 1987), p. 402.
+	- 22. Ibid., p. 411.
+	- 23. Frank Putnam, Diagnosis and Treatment of Multiple Personality Disorder (New York: Guilford, 1988), p. 68.
+	- 24. "Science and Synchronicity: A Conversation with C. A. Meier," Psychological Perspectives 19, no. 2 (Fall-Winter 1988), p. 324.
+	- 25. Paul Davies, The Cosmic Blueprint (New York: Simon & Schuster, 1988), p. 162
+	- 26. F. David Peat, Synchronicity: The Bridge between Mind and Matter (New York: Bantam Books, 1987), p. 235.
+	- 27. Ibid., p. 239.
+- collapsed:: true
+  4. I SING THE BODY HOLOGRAPHIC
+	- 1. Stephanie Matthews-Simonton, 0. Carl Simonton, and James L. Creighton, Getting Well Again (New York: Bantam Books, 1980), pp. 6-12.
+	- 2. Jeanne Achterberg, "Mind and Medicine: The Role of Imagery in Healing," ASPR Newsletter 14, no. 3 (June 1988), p. 20.
+	- 3. Jeanne Achterberg, Imagery in Healing (Boston, Mass.: New Science Library, 1985), p. 134.
+	- 4. Private communication with author, October 28, 1988.
+	- 5. Achterberg, ASPR Newsletter, p. 20.
+	- 6. Achterberg, Imagery, pp. 78-79.
+	- 7. Jeanne Achterberg, Ira Collerain, and Pat Craig, "A Possible Relationship between Cancer, Mental Retardation, and Mental Disorders," Journal of Social Science and Medicine 12 {May 1978), pp. 135-39.
+	- 8. Bernie S. Siegel, Love, Medicine, and Miracles (New York: Harper & Row, 1986), p. 32.
+	- 9. Achterberg, Imagery, pp. 182-87.
+	- 10. Bernie S. Siegel, Love, p. 29.
+	- 11. Charles A. Garfield, Peak Performance: Mental Training Techniques of the World's Greatest Athletes (New York: Warner Books. 1984), p. 16.
+	- 12. Ibid., p. 62.
+	- 13. Mary Orser and Richard Zarro, Changing Your Destiny (New York: Harper & Row, 1989), p. 60.
+	- 14. Barbara Brown, Supermind' The Ultimate Energy (New York: Harper & Row, 1980), p. 274: as quoted in Larry Dossey, Space, Time, and Medicine
+	- (Boston, Mass.: New Science Library, 1982), p. 112.
+	- 15. Brown, Supermind, p. 275: as quoted in Dossey, Space, pp. 112-13.
+	- 16. Larry Dossey, Space, Time, and Medicine (Boston, Mass.: New Science Library, 1982), p. 112.
+	- 17. Private communication with author, February 8, 1989.
+	- 18. Brendan O'Regan, "Healing, Remission, and Miracle Cures," Institute of Noetic Sciences Special Report (May 1987), p. 3.
+	- 19. Lewis Thomas, The Medusa and the Snail (New York: Bantam Books, 1980), p. 63.
+	- 20. Thomas J. Hurley III, "Placebo Effects: Unmapped Territory of Mind-Body Interactions," Investigations 2, no. 1 (1985), p. 9.
+	- 21. Ibid.
+	- 22. Steven Locke and Douglas Colligan, The Healer Within (New York: New American Library, 1986), p. 224.
+	- 23. Ibid., p. 227.
+	- 24. Bruno Klopfer, "Psychological Variables in Human Cancer," Journal of Prospective Techniques 31 (1957), pp. 331-40.
+	- 25. O'Regan, Special Report, p. 4.
+	- 26. G. Timothy Johnson and Stephen E. Goldfinger, The Harvard Medical School Health Letter Book (Cambridge, Massachusetts: Harvard University Press, 1981), p. 416.
+	- 27. Herbert Benson and David P. McCallie, Jr., "Angina Pectoris and the Placebo Effect," New England Journal of Medicine 300, no. 25 (1979), pp. 1424-29.
+	- 28. Johnson and Goldfinger, Health Letter Book, p. 418.
+	- 29. Hurley, Investigations, p. 10.
+	- 30. Richard Alpert, Be Here Now (San Cristobal, N.M.: Lama Foundation, 1971).
+	- 31. Lyall Watson, Beyond Supernature (New York: Bantam Books, 1988), p.215. _
+	- 32. Ira L. Mintz, "A Note on the Addictive Personality," American Journal of Psychiatry 134, no. 3 (1977), p. 327.
+	- 33. Alfred Stelter, Psi-Healing (New York: Bantam Books, 1976), p. 8.
+	- 34. Thomas J. Hurley HI, "Placebo Learning: The Placebo Effect as a Conditioned Response," Investigations 2, no. 1 (1985), p. 23.
+	- 35.O'Regan, Special Report, p. 3.
+	- 36. As quoted in Thomas J. Hurley III, "Varieties of Placebo Experience: Can One Definition Encompass Them All?" Investigations 2 no 1 (1985), p. 13.
+	- 37. Daniel Seligman, "Great Moments in Medical Research," Fortune 117 no. 5 (February 29, 1988), p. 25.
+	- 38. Daniel Goleman, "Probing the Enigma of Multiple Personality " New York Times (June 25, 1988), p. CI.
+	- 39.Private communication with author, January 11, 1990.
+	- 40. Richard Restak, "People with Multiple Minds," Science Digest 92 no 6 (June 1984), p. 76.
+	- 41. Daniel Goleman, "New Focus on Multiple Personality " New York Times (May 21, 1985), p. CI.
+	- 42. Truddi Chase, When Rabbit Howls (New York: E. P. Dutton, 1987), p.
+	- 43. Thomas J. Hurley III, "Inner Faces of Multiplicity," Investigations 1 no. 3/4 (1985), p. 4.
+	- 44. Thomas J, Hurley III, "Multiplicity & the Mind-Body Problem: New Windows to Natural Plasticity," Investigations 1, no. 3/4 (1985), p. 19.
+	- 45. Bronislaw Malinowsld, "Baloma: The Spirits of the Dead in the Trobnand Islands," Journal of the Royal Anthropological Institute of Great Britam and Ireland 46 (1916), pp. 353-430.
+	- 46. Watson, Beyond Supernature, pp. 58-60.
+	- 47. Joseph Chilton Pearce, The Crack in the Cosmic Egg (New York- Pocket Books, 1974), p. 86.
+	- 48. Pamela Weintraub, "Preschool?" Omni 11, no. 11 (August 1989), p. 38.
+	- 49. Kathy A. Fackelmann, "Hostility Boosts Risk of Heart Trouble" Science News 135, no. 4 (January 28, 1989), p. 60.
+	- 50. Steven Locke, in Longevity (November 1988), as quoted in "Your Mind's Healing Powers," Reader's Digest (September 1989), p. 5.
+	- 51. Bruce Bower, "Emotion-Immunity Link in HIV Infection," Science News 134, no. 8 (August 20, 1988), p. 116.
+	- 52. Donald Robinson, "Your Attitude Can Make You Well," Reader's Diaest (April 1987), p. 75.
+	- 53. Daniel Goleman in the New York Times (April 20, 1989), as quoted in Your Mind's Healing Powers," Reader's Digest (September 1989), p. 6.
+	- 54. Robinson, Reader's Digest, p. 75.
+	- 55. Signe Hammer, "The Mind as Healer," Science Digest 92, no 4 (April 1984), p. 100.
+	- 56. John Raymond, "Jack Schwarz: The Mind Over Body Man," New Realities 11, no. 1 (April 1978), pp. 72-76; see also, "Jack Schwarz: Probing ... but No Needles Anymore," Brain/Mind Bulletin 4, no. 2 (December 4, 1978), p. 2.
+	- 57. Stelter, Psi-Healing, pp. 121-24.
+	- 58. Donna and Gilbert Grosvenor, "Ceylon," National Geographic 129, no. 4 (April 1966).
+	- 59. D. D. Kosambi, "Living Prehistory in India," Scientific American 216, no. 2 (February 1967), p. 104.
+	- 60. A. A. Mason, "A Case of Congenital lehthyosiform," British Medical Journal 2 (1952), pp. 422-23.
+	- 61. O'Regan, Special Report, p. 9.
+	- 62. D. Scott Rogo, Miracles (New York: Dial Press, 1982), p. 74.
+	- 63. Herbert Thurston, The Physical Phenomena of Mysticism (Chicago: Henry Regnery Company, 1952), pp. 120-29.
+	- 64. Thomas of Celano, Vita Prima (1229), as quoted by Thurston, Physical Phenomena, pp. 45-46.
+	- 65. Alexander P. Dubrov and Veniamin N. Pushkin, Parapsychology and Contemporary Science, trans. Aleksandr Petrovieh (New York: Plenum, 1982), p. 50.
+	- 66. Thurston, Physical Phenomena, p. 68,
+	- 67. Ibid.
+	- 68. Charles Fort, The Complete Books of Charles Fort (New York: Dover, 1974), p. 1022.
+	- 69. Ibid., p. 964.
+	- 70. Private communication with author, November 3, 1988.
+	- 71. Candace Pert with Harris Dienstfrey, "The Neuropeptide Network," in Neuroimrnunomodulation: Interventions in Aging and Cancer, ed. Walter Pierpaoli and Novera Herbert Spector (New York: New York Academy of Sciences, 1988), pp. 189-94.
+	- 72. Terrence D. Oleson, Richard J, Kroening, and David E. Bresler, "An Experimental Evaluation of Auricular Diagnosis: The Somatotopic Mapping of Musculoskeletal Pain at Ear Acupuncture Points," Pain 8 (1980), pp. 217-29.
+	- 73. Private communication with author, September 24, 1988.
+	- 74. Terrence D. Oleson and Richard J. Kroeningt "Rapid Narcotic Detoxification in Chronic Pain Patients Treated with Auricular Electroacupuncture and Naloxone," International Journal of the Addictions 20, no. 9 (1985), pp. 1347-60.
+	- 75. Richard Levitoc, "The Holographic Body," East West 18, no. 8 (August 1988), p. 42.
+	- 76. Ibid., p. 45.
+	- 77. Ibid., pp. 36-47.
+	- 78. "Fingerprints, a Cine to Senility," Science Digest 91, no. 11 (November 1983), p. 91,
+	- 79. Michael Meyer, "The Way the Whoris Turn," Newsweek (February 13 1989), p. 73.
+- collapsed:: true
+  5. A POCKETFUL OF MIRACLES
+	- 1. D. Scott Rogo, Miracles (New York: Dial Press, 1982), p. 79.
+	- 2. Ibid., p. 58; see also, Herbert Thurston, The Physical Phenomena of Mysticism (London: Bums Oates, 1952); and A. P. Schimberg, The Story of Therese Neumann (Milwaukee, Wis.: Bruce Publishing Co., 1947).
+	- 3. David J. Bohm, "A New Theory of the Relationship of Mind and Matter," Journal of the American Society for Psychical Research 80, no. 2 (April 1986), p. 128.
+	- 4. Ibid., p. 132.
+	- 5. Robert G. Jahn and Brenda J. Dunne, [[Margins of Reality: The Role of Consciousness in the Physical World]] (New York; Harcourt Brace Jovanovich, 1987), pp. 91-123.
+	- 6. Ibid., p. 144.
+	- 7. Private communication with author, December 16, 1988.
+	- 8. Jahn and Dunne, Margins, p. 142.
+	- 9. Private communication with author, December 16, 1988.
+	- 10. Private communication with author, December 16, 1988.
+	- 11. Steve Fishman, "Questions for the Cosmos," New York Times Magazine (November 26, 1989), p. 55.
+	- 12. Private communication with author, November 25, 1988.
+	- 13. Rex Gardner, "Miracles of Healing in Anglo-Celtic Northumbria as Recorded by the Venerable Bede and His Contemporaries: A Reappraisal in the Light of Twentieth-Century Experience," British Medical Journal (December 1983), p. 1931.
+	- 14. Max Freedom Long, The Secret Science behind Miracles (New York: Robert Collier Publications, 1948), pp. 191-92.
+	- 15. Louis-Basile Carre de Montgeron, La Verite des Miracles (Paris: 1737), vol. i, p. 380, as quoted in H. P. Blavatsky, his Unveiled, vol. i (New York: J. W. Bouton, 1877), p. 374.
+	- 16. Ibid., p. 374.
+	- 17. B. Robert Kreiser, Miracles, Convulsions, and Ecclesiastical Politics in Early Eighteenth-Century Paris (Princeton, N. J.: Princeton University Press, 1978), pp. 260-61.
+	- 18. Charles Mackey, Extraordinary Popular Delusions and the Madness of Crowds (London: 1841), p. 318.
+	- 19. Kreiser, Miracles, p. 174.
+	- 20. Stanislav Grof, Beyond the Brain (Albany, N.Y.: State University of New York Press, 1985), p. 91.
+	- 21. Long, Secret Science, pp. 31-39.
+	- 22. Frank Podmore, Mediums of the Nineteenth Century, vol. 2 (New Hyde Park, N.Y.: University Books, 1963), p. 264.
+	- 23. Vracent H. G^ddis, Mysterious Fires and Lights (New York; Dell, 1967), pp. 114-15.
+	- 24. Blavatsky, Isis, p. 370.
+	- 25. Podmore, Mediums, p. 264.
+	- 26. Will and Ariel Durant, The Age of Louis XIV, vol. XIII (New York: Simon & Schuster, 1963), p. 73.
+	- 27. Franz Werfel, The Song of Bernadette (Garden City, N.Y.: Sun Dial Press, 1944), pp. 326-27.
+	- 28. Gaddis, Mysterious Fires, pp. 106-7.
+	- 29. Ibid., p. 106.
+	- 30. Berthold Schwarz, "Ordeals by Serpents, Fire, and Strychnine," Psychiatric Quarterly 34 (1960), pp. 405-29.
+	- 31. Private communication with author, July 17, 1989.
+	- 32. Karl H. Pribram, "The Implicate Brain," in [[Quantum Implications]] , ed. Basil J. Hiley and F. David Peat (London: Routledge & Kegan Paul, 1987), p. 367,
+	- 33. Private communication with author, February 8,1989; see also, Karl H. Pribram, "The Cognitive Revolution and Mind/Brain Issues," American Psychologist 41, no. 5 (May 1986), pp. 507-19.
+	- 34. Private communication with author, November 25, 1988.
+	- 35. Gordon G. Globus, "Three Holonomic Approaches to the Brain," in [[Quantum Implications]] , ed. Basil J. Hiley and F. David Peat (London: Routledge & Kegan Paul, 1987), pp. 372-85; see also, Judith Hooper and Dick Teresi, The Three-Pound Universe (New York Dell, 1986), pp. 295-300.
+	- 36. Private communication with author, December 16, 1988.
+	- 37. Malcolm W. Browne, "Quantum Theory: Disturbing Questions Remain Unresolved," New York Times (February U, 1986), p. C3.
+	- 38. Ibid.
+	- 39. Jahn and Dunne, Margins, pp. 319-20; see also, Dietrick E. Thomson, "Anomalons Get More and More Anomalous," Science News 125 (February 25, 1984).
+	- 40. Christine Sutton, "The Secret Life of the Neutrino," New Scientist 117, no. 1595 (January 14,1988), pp. 53-57; see also, "Soviet Neutrinos Have Mass," New Scientist 105, no. 1446 (March 7,1985), p. 23; and Dietrick E. Thomsen, "Ups and Downs of Neutrino Oscillation," Science News 117, no. 24 (June 14, 1980), pp. 377-83.
+	- 41. S. Edmunds, Hypnotism and the Supernormal (Londonr Aquarian Press, 1967), as quoted in Supernature, Lyall Watson (New York: Bantam Books, 1973), p. 236.
+	- 42. Leonid L Vasiliev, Experiments in Distant Influence (New York: E. P, Button, 1976).
+	- 43. See Russell Targ and Harold Puthoff, Mind-Reach (New York: Dela-corte Press, 1977).
+	- 44. Fishman, New York Times Magazine, p. 55; see also, Jahn and Dunne, Margins, p. 187.
+	- 45. Charles Tart, "Physiological Correlates of Psi Cognition," International Journal of Neuropsychiatry 5, no. 4 (1962).
+	- 46. Targ and Puthoff, Mind-Reach, pp. 130-33.
+	- 47. E. Douglas Dean, "Plethysmograph Recordings of ESP Responses," International Journal of Neuropsychiatry 2 (September 1966).
+	- 48. Charles T. Tart, "Psychedelic Experiences Associated with a Novel Hypnotic Procedure, Mutual Hypnosis," in Altered States of Consciousness,
+	- Charles T. Tart (New York: John Wiley & Sons, 1969), pp. 291-308.
+	- 49. Ibid.
+	- 50. John P, Brigga and F. David Peat, Looking Glass Universe (New York: Simon & Schuster, 1984), p. 87.
+	- 51. Targ and Puthoff, Mind-Reach, pp. 130-33.
+	- 52. Russell Targ, et al.. Research in Parapsychology (Metuchen, NJ.: Scarecrow, 1980).
+	- 53. Bohtn, Journal of the American Society for Psychical Research, p. 132.
+	- 54. Jahn and Dunne, Margins, pp. 257-59.
+	- 55. Gardner, British Medical Journal, p. 1930.
+	- 56. Lyall Watson, Beyond Supernature (New York: Bantam Books, 1988), pp. 189-91.
+	- 57. A, R. G. Owen, Can We Explain the Poltergeist (New York: Garrett Publications, 1964).
+	- 58. Erlendur Haraldsson, Modern Miracles: An Investigative Report on Psychic Phenomena Associated with [[Sathya Sai Baba]] (New York: Fawcett Columbine Books, 1987), pp. 26-27.
+	- 59. Ibid., pp. 35-36.
+	- 60. Ibid., p. 290.
+	- 61. Paramahansa Yogananda, [[Autobiography of a Yogi]] (Los Angeles: Self-Realization Fellowship, 1973), p. 134.
+	- 62. Rogo, Miracles, p. 173.
+	- 63. Lyall Watson, Gifts of Unknown Things (New York: Simon & Schuster, 1976), pp. 203-4.
+	- 64. Private communication with author, February 9, 1989.
+	- 65. Private communication with author, October 17, 1988.
+	- 66. Private communication with author, December 16, 1988.
+	- 67. Judith Hooper and Dick Teresi, The Three-Pound Universe (New York: Dell, 1986), p. 300.
+	- 68. [[Carlos Castaneda]] , Tales of Power (New York: Simon & Schuster, 1974), p. 100.
+	- 69. Marilyn Ferguson, "Karl Pribram's Changing Reality," in The Holographic Paradigm, ed. Ken Wilber (Boulder, Colo.: New Science Library, 1982), p. 24.
+	- 70. Erlendur Haraldsson and Loftur R. Gissurarson, The Icelandic Physical Medium: Indridi Indridason (London: Society for Psychical Research, 1989).
+- collapsed:: true
+  6. SEEING HOLOGRAPHICALLY
+	- 1. Karl Pribram, "The Neurophysiology of Remembering," Scientific American 220 (January 1969), pp. 76-78.
+	- 2. Judith Hooper, "Interview: Karl Pribram," Omni 5, no. 1 (October 1982), p. 172.
+	- 3. Wil van Beek, Hazrat Inayat Khan (New York: Vantage Press, 1983), p. 135.
+	- 4. [[Barbara Ann Brennan]] , [[Hands of Light]] (New York: Bantam Books, 1987), pp. 3-4.
+	- 5. Ibid., p. 4.
+	- 6. Ibid., cover quote.
+	- 7. Ibid., cover quote.
+	- 8. Ibid., p. 26.
+	- 9. Private communication with author, November 13, 1988.
+	- 10. Shafica Karagulla, Breakthrough to Creativity (Marina Del Rey, Calif.: DeVorss, 1967), p. 61.
+	- 11. Ibid., pp. 78-79.
+	- 12. W. Brugh Joy, Joy s Way (Los Angeles: J. P. Tarcher, 1979), pp. 155-56.
+	- 13. Ibid., p. 48.
+	- 14. Michael Criehton, Travels (New York: Knopf, 1988), p. 262.
+	- 15. Ronald S. Miller, "Bridging the Gap: An Interview with Valerie Hunt," Science of Mind (October 1983), p. 12.
+	- 16. Private communication with author, February 7, 1990.
+	- 17. Ibid.
+	- 18. Ibid.
+	- 19. Ibid.
+	- 20. Valerie V. Hunt, "Infinite Mind," Magical Blend, no. 25 (January 1990), p. 22.
+	- 21. Private communication with author, October 28, 1988.
+	- 22. Robert Temple, "David Bohm," New Scientist (November 11, 1982), p. 362.
+	- 23. Private communication with author, November 13, 1988.
+	- 24. Private communication with author, October 18, 1988.
+	- 25. Private communication with author, November 13, 1988.
+	- 26. Ibid.
+	- 27. Ibid.
+	- 28. George F. Dole, A View from Within (New York: Swedenborg Foundation, 1985), p. 26.
+	- 29. George F. Dole, "An Image of God in a Mirror," in Emanuel Swedenborg: A Continuing Vision, ed. Robin Larsen (New York: Swedenborg Foundation, 1988), p. 370.
+	- 30. Brennau, Hands, p. 20.
+	- 31. Private communication with author, September 13, 1988.
+	- 32. Karagulla, Breakthrough, p. 39.
+	- 33. Ibid., p. 132.
+	- 34. D. Scott Rogo, "Shamanism, ESP, and the Paranormal," in Shamanism, ed. Shirley Nicholson (Wheaton, 111.: Theosophical Publishing House, 1987), p. 135.
+	- 35. Michael Hamer and Gary Doore, "The Ancient Wisdom in Shamanic Cultures," in Shamanism, ed. Shirley Nicholson (Wheaton, III.: Theosophical Publishing House, 1987), p. 10.
+	- 36. Michael Hamer, The Way of the Shaman (New York: Harper & Row, 1980), p. 17.
+	- 37. Richard Gerber, Vibrational Medicine (Santa Fe, N.M.: Bear & Co., 1988), p. 115.
+	- 38. Ibid., p. 154.
+	- 39. [[William A. Tiller]] , "Consciousness, Radiation, and the Developing Sensory System," as quoted in The Psychic Frontiers of Medicine, ed. Bill Schul (New York: Ballantine Books, 1977), p. 95.
+	- 40. Ibid., p. 94.
+	- 41. Hiroshi Motoyama, Theories of the Chakras (Wheaton, 111.: Theosophical Publishing House, 1981), p. 239.
+	- 42. Richard M. Restak, "Is Free Will a Fraud?" Science Digest (October 1983), p. 52.
+	- 43. Ibid.
+	- 44. Private communication with author, February 7, 1990.
+	- 45. Private communication with author, November 13, 1988.
+- 7. TIME OUT OF MIND
+	- 1. See Stephan A. Schwartz, [[The Secret Vaults of Time]] (New York: Grosset & Dunlap, 1978); Stanislaw Poniatowski, " [[Parapsychological Probing of Prehistoric Cultures]] ," in [[Psychic Archaeology]] , ed. J. Goodman (New York: G. P. Putnam & Sons, 1977); and Andrzey Borzmowski, "Experiments with Ossowiecki," International Journal of Parapsychology 7, no. 3 (1965), pp. 259-84.
+	- 2. J. Norman Emerson, "Intuitive Archaeology," Midden 5, no. 8 (1973).
+	- 3. J. Norman Emerson, " [[Intuitive Archaeology: A Psychic Approach]], " New Horizon 1, no. 3 (1974), p. 14.
+	- 4. Jack Harrison Pollack, Croiset the Clairvoyant (New York: Doubteday, 1964).
+	- 5. Lawrence LeShan, [[The Medium, the Mystic, and the Physicist]] (New York: Ballantine Books, 1974), pp. 30-31.
+	- 6. Stephan A. Schwartz, The Secret Vaults of Time (New York: Grosset & Dunlap, 1978), pp. 226-37; see also Clarence W. Weiant, "Parapsychology and Anthropology," Manas 13, no. 15 (1960).
+	- 7. Schwartz, op. cit., pp. x and 314.
+	- 8. Private communication with author, October 28, 1988.
+	- 9. Private communication with author, October 18, 1988.
+	- 10. See Glenn D. Ktttler, Edgar Cayce on the Dead Sea Scrolls (New York:
+	- Warner Books, 1970).
+	- 11. Marilyn Ferguson, "Quantum Brain-Action Approach Complements Holographic Model," Brain-Mind Bulletin, updated special issue (1978), p. 3.
+	- 12. Edmund Gurney, F. W. H. Myers, and Frank Podmore, Phantasms of the Living (London: Trubner's, 1886).
+	- 13. See J. Palmer, "A Community Mail Survey of Psychic Experiences,"
+	- Journal of the American Society for Psychical Research 73 (1979), pp.
+	- 221-51; H. Sidgwick and committee, "Report on the Census of Hallucina-
+	- tions," Proceedings of the Society for Psychical Research 10 (1894), pp.
+	- 25-422; and D. J. West, "A Mass-Observation Questionnaire on Halluci-
+	- nations," Journal of the Society for Psychical Research 34(1948), pp.
+	- 187-96.
+	- 14. W. Y. Evans-Wentz, The Fairy-Faith in Celtic Countries (Oxford: Oxford
+	- University Press, 1911), p. 485.
+	- 15. Ibid., p. 123.
+	- 16. Charles Fort, New Lands (New York: Boni & Liveright, 1923), p. 111.
+	- 17. See Max Freedom Long, The Secret Science behind Miracles (Tarry-town,
+	- N.Y.: Robert Collier Publications, 1948), pp. 206-8.
+	- 18. Editors of Time-Life Books, Ghosts (Alexandria, Va.: Time-Life Books,
+	- 1984), p. 75.
+	- 3)6 NOTES Notes __________________ 317
+	- 19. Editors of Reader's Digest, Strange Stories, Amazing Facts (Pleasant-ville,
+	- N.Y.: Reader's Digest Association, 1976), pp. 384-85.
+	- 20. J. B, Rhine, "Experiments Bearing oil the Precognition Hypothesis: III.
+	- Mechanically Selected Cards," Journal of Parapsychology 5 (1941).
+	- 21. Helmut Schmidt, "Psychokinesis," in Psychic Exploration: A Challenge to
+	- Science, ed. Edgar Mitchell and John White (New York: G. P. Putnam's
+	- Sons, 1974), pp. 179-93.
+	- 22. Montague Ullman, Stanley Krippner, and Alan Vaughan, Dream Telepathy
+	- (New York: Macmillan, 1973).
+	- 23. Russell Targ and Harold Puthoff, Mind-Reach (New York: Delacorte Press,
+	- 1977), p. 116.
+	- 24. Robert G. Jahn and Brenda J. Dunne, Margins of Reality (New York:
+	- Harcourt Brace Jovanovich, 1987), pp. 160, 185.
+	- 25. Jule Eisenbud, "A Transatlantic Experiment in Precognition with Gerard
+	- Croiset," Journal of American Society of Psychological Research 67 (1973),
+	- pp. 1-25; see also W. H. C. Tenhaeff, "Seat Experiments with Gerard
+	- Croiset," Proceedings Parapsychology 1 (1960), pp. 53-65; and U. Timm,
+	- "Neue Experiments mit dem Sensitiven Gerard Croiset," Z. F.
+	- Parapsychologia und Grezgeb. dem Psychologia 9 (1966), pp. 30-59,
+	- 26. Marilyn Ferguson, Bulletin, p. 4.
+	- 27. Persona] communication with author, September 26, 1989,
+	- 28. David Loye, The Sphinx and the Rainbow (Boulder, Col.: Shambhala,
+	- 1983).
+	- 29. Bernard Gittelson, Intangible Evidence (New York: Simon & Schuster,
+	- 1987), p. 174.
+	- 30. Eileen Garrett, My Life as a Search for the Meaning ofMediumship (London:
+	- Ryder & Company, 1949), p. 179.
+	- 31. Edith Lyttelton, Some Cases of Prediction (London: Bell, 1937).
+	- 32. Louisa E. Rhine, "Frequency of Types of Experience in Spontaneous
+	- Precognition," Journal of Parapsychology 18, no. 2 (1954); see also
+	- "Precognition and Intervention," Journal of Parapsychology 19 (1955); and
+	- Hidden Channels of the Mind (New York: Sloane Associates, 1961).
+	- 33. E. Douglas Dean, "Precognition and Retrocognition," in Psychic Explo-
+	- ration, ed. Edgar D. Mitchell and John White (New York: G. P. Putnam's
+	- Sons, 1974), p. 163.
+	- 34. See A. Foster, "ESP Tests with American Indian Children," Journal of
+	- Parapsychology 7, no. 94 (1943); Dorothy H. Pope, "ESP Testa with
+	- Primitive People," Parapsychology Bulletin 30, no. 1 (1953); Ronald Rose
+	- and Lyndon Rose, "Psi Experiments with Australian Aborigines," Journal
+	- of Parapsychology 15, no. 122 (1951); Robert L. Van de Castle,
+	- "Anthropology and Psychic Research," in Psychic Exploration, ed. Edgar D.
+	- Mitchell and John White (New York: G. P. Putnam's Son3, 1974); and
+	- Robert L. Van de Castle, "Psi Abilities in Primitive Groups," Proceedings of
+	- the Parapsychological Association 7, no. 97 (1970).
+	- 35. Ian Stevenson, "Precognition of Disasters," Journal of the American
+	- Society for Psychical Research 64, no. 2 (1970),
+	- 36. Karlis Osis and J. Fabler, "Space and Time Variables in ESP," Journal of
+	- the American Society for Psychical Research 58 (1964).
+	- 37. Alexander P. Dvtbrov and Veniamin N. Pushkin, Parapsychology and
+	- Contemporary Science, trans. Aleksandr Petrovich (New York: Consultants
+	- Bureau, 1982), pp. 93-104.
+	- 38. Arthur Osbom, The Future Is Now: The Significance of Precognition (New
+	- York: University Books, 1961).
+	- 39. Ian Stevenson, "A Review and Analysis of Paranormal Experiences
+	- Connected with the Sinking of the Titanic," Journal of the American
+	- Society for Psychical Research 54 (1960), pp. 153-71; see also Ian Ste-
+	- venson, "Seven More Paranormal Experiences Associated with the Sinking
+	- of the Titanic," Journal of the American Society for Psychical Research 59
+	- (1965), pp. 211-25.
+	- 40. Loye, Sphinx, pp. 158-65.
+	- 41. Private communication with author, October 28, 1988.
+	- 42. Gittelson, Evidence, p. 175.
+	- 43. Ibid., p. 125.
+	- 44. Long, op. cit,, p. 165.
+	- 45. Shafica Karagulla, Breakthrough to Creativity (Marina Del Rey, Calif.:
+	- DeVorss, 1967), p. 206.
+	- 46. According to H. N. Banerjee, in Americans Who Have Been Reincarnated
+	- (New York: Macmillan Publishing Company, 1980), p. 195, one study done
+	- by James Parejko, a professor of philosophy at Chicago State University,
+	- revealed that 93 out of 100 hypnotized volunteers produced knowledge of a
+	- possible previous existence; Whitton himself has found that all of his
+	- hypnotizable subjects were able to recall such memories.
+	- 47. M. Gerald Edetstein, Trauma, Trance and Transformation (New York:
+	- Brunner/Mazel. 1981),
+	- 48. Michael Talbot, "Lives between Lives: An Interview with Dr. Joel Whitton"
+	- Omni WholeMind Newsletter I, no. 6 (May 1988), p. 4.
+	- 49. Joel L. Whitton and Joe Fisher, Life between Life (New York: Double-day,
+	- 1986), pp. 116-27.
+	- 50. Ibid., p. 154.
+	- 51. Ibid., p. 156.
+	- 52. Private communication with author, November 9, 1987.
+	- 53. Whitton and Fisher, Life, p. 43.
+	- 54. Ibid., p. 47.
+	- 55. Ibid., pp. 152-53.
+	- 56. Ibid,, p. 52.
+	- 57. William E. Cox, "Precognition: An Analysis I and II," Journal of v
+	- American Society for Psychical Research 50 (1956)-
+	- 318 S0T3S 319
+	- 58. Whitton and Fisher, Life, p. 186.
+	- 59. See Ian Stevenson, Twenty Cases Suggestive of Reincarnation (Char-
+	- lottesville, Va.: University Press of Virginia, 1974); Cases of the Rein-
+	- carnation Type (Charlottesville, Va.: University Press of Virginia, 1974),
+	- vols. 1-4; and Children Who Remember Their Past Lives (Charlottesville,
+	- Va.: University Press of Virginia, 1987).
+	- 60. See references above.
+	- 61. Ian Stevenson, Children Who Remember Previous Lives (Charlottesville,
+	- Va.: University Press of Virginia, 1987), pp. 240-43.
+	- 62. Ibid, pp. 259-60.
+	- 63. Stevenson, Twenty Cases, p. 180.
+	- 64. Ibid., pp. 1%, 233.
+	- 65. Ibid, p. 92.
+	- 66. Sylvia Cranston and Carey Williams, Reincarnation: A New Horizon in
+	- Science, Religion, and Society (New York: Julian Press, 1984), p. 67.
+	- 67. Ibid., p. 260.
+	- 68. Ian Stevenson, "Some Questions Related to Cases of the Reincarnation
+	- Type," Journal of the American Society for Psychical Research (October
+	- 1974), p. 407.
+	- 69. Stevenson, Children, p. 255.
+	- 70. Journal of the American Medical Association (December 1,1975), as
+	- quoted in Cranston and Williams, Reincarnation, p. x.
+	- 71. J. Warneck, Die Religion der Batak (Gottingen, 1909), as quoted in Hoiger
+	- Kalweit, Dreamtime and Inner Space: The World of the Shaman (Boulder,
+	- Colo.: Shambhala, 1984), p. 23.
+	- 72. Basil Johnston, Und Manitu erscnufdie Welt. Mythen and Visionen der
+	- Ojibwa (Cologne: 1979), as quoted in Hoiger Kalweit, Dreamtime and
+	- Inner Space: The World of the Shaman (Boulder, Colo.: Shambhala, 1984),
+	- p. 25.
+	- 73. Long, op. cit, pp. 165-69.
+	- 74. Ibid., p. 193.
+	- 75. John Blofeld, The Tantric Mysticism, of Tibet (New York: E. P. Dutton,
+	- 1970), p. 84; see also Alexandra David-Neel, Magic and Mystery in Tibet
+	- (Baltimore, Md: Penguin Books, 1971), p. 293.
+	- 76. Henry Corbin, Creative Imagination in the Sufism of Ibn 'Arabi, trans.
+	- Ralph Manheim (Princeton, N.J.: Princeton University Press, 1969), pp.
+	- 221-36.
+	- 77. Hugh Lynn Cayce, The Edgar Cayce Reader. Vol. II (New York: Paper-
+	- back Library, 1969), pp. 25-26; see also Noel Langley, Edgar Cayce on
+	- Reincarnation (New York: Warner Books, 1967), p. 43.
+	- 78. Paramahansa Yogananda, Man's Eternal Quest (Los Angeles:
+	- Self-Realization Fellowship, 1982), p. 238.
+	- 79. Thomas Byron, The Dhammapada: The Sayings of Buddha (New York:
+	- Vintage Books, 1976), p. 13.
+	- 80. Swami Prabhavananda and Frederick Manchester, trans., The Upani-ahads
+	- (Hollywood, Calif.: Vedanta Press, 1975), p. 177.
+	- 81. Iamblichus, The Egyptian Mysteries, trans. Alexander Wilder (New York:
+	- Metaphysical Publications, 1911), pp. 122, 175, 259-60.
+	- 82. Matthew 7: 7, 17, 20.
+	- 83. Rabbi Adin Steinsaltz, The Thirteen-Petaled Rose (New York: Basic Books,
+	- 1980). pp. 64-65.
+	- 84. Jean Houston, The Possible Human (Los Angeles: J. P. Tarcher, 1982), pp.
+	- 200-5.
+	- 85. Mary Orser and Richard A. Zarro, Changing Your Destiny (San Francisco:
+	- Harper & Row, 1989), p. 213.
+	- 86. Florence Graves, "The Ultimate Frontier: Edgar Mitchell, the Astro-
+	- naut-Turned-Philosopher Explores Star Wars, Spirituality, and How We
+	- Create Our Own Reality," New Age (May/June 1988), p. 87.
+	- 87. Helen Wambach, Reliving Past Lives (New York: Harper & Row, 1978), p.
+	- 116.
+	- 88. Ibid., pp. 128-34.
+	- 89. Chet B. Snow and Helen Wambach, Mass Dreams of the Future (New
+	- York: McGraw-Hill, 1989), p. 218.
+	- 90. Henry Reed, "Reaching into the Past with Mind over Matter," Venture
+	- Inward 5, no. 3 (May/June 1989), p. 6.
+	- 91. Anne Moberly and Eleanor Jourdain, An Adventure (London: Faber, 1904).
+	- 92. Andrew Mackenzie, The Unexplained {London: Barker, 1966), as quoted
+	- in Ted Holiday, The Goblin Universe (St. Paul, Minn.: Llewellyn Publica-
+	- tions, 1986), p, 96.
+	- 93. Gardner Murphy and H. L Klemme, "Unfinished Business," Journal of the
+	- American Society for Psychical Research 60, no. 4 (1966), p. 5.
+- 8. TRAVELING IN THE SUPERHOLOGRAM
+- 1. Dean Shields, "A Cross-Cultural Study of Beliefs in out-of-the-Body
+- Experiences," Journal of the Society for Psychical Research 49 (1978), pp.
+- 697-741.
+- 2. Erika Bourguignon, "Dreams and Altered States of Consciousness in
+- Anthropological Research," in Psychological Anthropology, ed. F. L. K.
+- Hsu (Cambridge, Mass.: Schenkman, 1972), p. 418.
+- 3. Celia Green, Out-of-the-Body Experiences (Oxford, England Institute of
+- Psychophysical Research, 1968).
+- 320 NOTES Notes 321
+- 4. D. Scott Rogo, Leaving the Body (New York: Prentice-Hall, 1983), p. 5.
+- 5. Ibid.
+- 6. Stuart W. Twemlow, Glen 0. Gabbard, and Fowler C. Jones, "The
+- Out-of-Body Experience-. 1, Phenomenology; II, Psychological Profile; III,
+- Differential Diagnosis" (Papers delivered at the 1980 Convention of the
+- American Psychiatric Association). See also Twemlow, Gabbard, and
+- Jones, "The Osit-of-Body Experience: A Phenomenologica! Typology
+- Based on Questionnaire Responses," American Journal of Psychiatry 139
+- (1982), pp. 450-55.
+- 7. Ibid.
+- 8. Bruce Greyson and C. P. Flynn, The Near-Death Experience (Chicago:
+- Charles C. Thomas, 1984), as quoted in Stanislov Grof, The Adventure of
+- Self-Discovery (Albany, N.Y.r SUNY Press, 1988), pp, 71-72.
+- 9. Michael B. Sabom, Recollections of Death (New York: Harper &. Row,
+- 1982), p. 184.
+- 10. Jean-Noel Bassior, "Astral Travel," New Age Journal (November/De-
+- cember 1988), p. 46.
+- 11. Charles Tart, "A Psychophysiological Study of Out-of-the-Body Experi-
+- ences in a Selected Subject," Journal of the American Society for Psychical
+- Research 62 (1968), pp. 3-27.
+- 12. Karlis Osis, "New ASPR Research on Out-of-the-Body Experiences,"
+- Newsletter of the American Society for Psychical Research 14 (1972); see
+- also Karlis Osis, "Out-of-Body Research at the American Society for
+- Psychical Research," in Mind beyond the Body, ed. D. Scott Rogo (New
+- York: Penguin, 1978), pp. 162-69.
+- 13. D. Scott Rogo, Psychic Breakthroughs Today (Wellingborough, Great
+- Britain: Aquarian Press, 1987), pp. 163-64.
+- 14. J. H. M. Whiteman, The Mystical Life (London: Faber & Faber, 1961).
+- 15. Robert A. Monroe, Journeys Out of the Body (New York: Anchor
+- Press/Doubleday, 1971), p. 183.
+- 16. Robert A. Monroe, Far Journeys (New York: Doubleday, 1985), p. 64.
+- 17. David Eisenberg, with Thomas Lee Wright, Encounters with Qi (New York:
+- Penguin, 1987), pp. 79-87.
+- 18. Frank Edwards, "People Who Saw without Eyes," Strange People (London:
+- Pan Books, 1970).
+- 19. A. Ivanov, "Soviet Experiments in Eyeless Vision," International Jour-nal
+- of Parapsychology 6 (1964); see also M. M. Bongard and M. S. Smirnov,
+- "About the 'Dermal Vision' of R. Kuleshova," Biophysics 1 (1965).
+- 20. A. Rosenfeld, "Seeing Colors with the Fingers," Life (June 12,1964); for a
+- more extensive report of Kuleshova and "eyeless sight" in general, see
+- Sheila Ostrander and Lynn Schroeder, Psychic Discoveries Behind the Iron
+- Curtain (New York: Bantam Books, 1970), pp. 170-85.
+- 21. Rogo, Psychic Breakthroughs, p. 161.
+- 22. Ibid.
+- 23. Janet Lee Mitchell, Out-of-Body Experiences (New York: Ballantine Books,
+- 1987), p. 81.
+- 24. August Strindberg, Legends (1912 edition), as quoted in Colin Wilson, The
+- Occult (New York: Vintage Books, 1973), pp. 56-57.
+- 25. Monroe, Journeys Out of the Body, p. 184.
+- 26. Whiteman, Mystical Life, as quoted in Mitchell, Experiences, p. 44.
+- 27. Karlis Osis and Erlendur Haraldsson, "Deathbed Observations by
+- Physicians and Nurses: A Cross-Cultural Survey," The Journal of the
+- American Society for Psychical Research 71 (July 1977), pp. 237-59.
+- 28. Raymond A. Moody, Jr., with Paul Perry, The Light Beyond (New York:
+- Bantam Books, 1988), pp. 14-15.
+- 29. Ibid.
+- 30. Elisabeth Kubler-Ross, On Children and Death (New York: Macrnillan,
+- 1983), p. 208.
+- 31. Kenneth Ring, Life at Death (New York: Quill, 1980), pp. 238-39.
+- 32. Kubler-Ross, Children, p. 210.
+- 33. Moody and Perry, Light, pp. 103-7.
+- 34. Ibid., p. 151.
+- 35. George Gallup, Jr., with William Proctor, Adventures in Immortality (New
+- York: McGraw-Hill, 1982), p. 31.
+- 36. Ring, Life at Death, p. 98.
+- 37. Ibid., pp. 97-98.
+- 38. Ibid., p. 247.
+- 39. Private communication with author, May 24, 1990.
+- 40. F. W. H. Myers, Human Personality and Its Survival of Bodily Death
+- (London: Longmans, Green & Co., 1904), pp. 315-21.
+- 41. Ibid.
+- 42. Moody and Perry, Light, p. 8.
+- 43. Joel L. Whitton and Joe Fisher, Life between Life (New York: Double-day,
+- 1986), p. 32.
+- 44. Michael Talbot, "Lives between Lives: An Interview with Joel Whitton,"
+- Omni WholeMind Newsletter 1, no. 6 (May 1988), p. 4.
+- 45. Private communication with author, November 9, 1987.
+- 46. Whitton and Fisher, Life between Life, p. 35.
+- 47. Myra Ka Lange, "To the Top of the Universe," Venture Inward 4, no. 3
+- (May/June 1988), p. 42.
+- 48. F. W, H. Myers, Human Personality.
+- 49. Moody and Perry, Light, p. 129.
+- 50. Raymond A. Moody, Jr., Reflections on Life after Life (New York: Bantam
+- Books, 1978), p. 38.
+- 322 NOTES Notes
+- ___________________
+- 323
+- 51. Whitton and Fisher, Life between Life, p. 39,
+- 52. Raymond A. Moody, Jr., Life after Life (New York: Bantam Books, 1976),
+- p. 68.
+- 53. Moody, Reflections on Life after Life, p. 35.
+- 54. The 1821 NDEer was the mother of the English writer Thomas De Quincey
+- and the incident is described in his Confessions of an English Opium Eater
+- with Its Sequels Suspiria De Prafundis and The English Mail-Coach, ed.
+- Malcolm Elwin (London: Macdonald & Co., 1956), pp. 511-12.
+- 55. Whitton and Fisher, Life between Life, pp. 42-48.
+- 56. Moody and Perry, Light, p. 50.
+- 57. Ibid., p. 35.
+- 58. Kenneth Ring, Heading toward Omega (New York: William Morrow,
+- 1985), pp. 58-59.
+- 59. See Ring, Heading toward Omega, p. 199; Moody, Reflections on Life
+- after Life, pp. 9-14; and Moody and Perry, Light, p. 35.
+- 60. Moody and Perry, Light, p. 35.
+  61- Monroe, For Journeys, p. 73.
+- 62. Ring, Life at Death, p. 248.
+- 63. Ibid., p. 242.
+- 64. Moody, Life after Life, p. 75.
+- 65. Moody and Perry, Light, p. 13.
+- 66. Ring, Heading toward Omega, pp. 186-87,
+- 67. Moody and Perry, Light, p. 22.
+- 68. Ring, Heading toward Omega, pp. 217-18.
+- 69. Moody and Perry, Light, p. 34.
+- 70. Ian Stevenson, Children Who Remember Previous Lives (Charlottesville,
+- Va.: University Press of Virginia, 1987), p. 110.
+- 71. Whitton and Fisher, Life between Life, p. 43.
+- 72. Wil van Beek, Hazrat Inayat Khan (New York: Vantage Press, 1983), p.
+- 29.
+- 73. Monroe, Journeys Out of the Body, pp. 101-15.
+- 74. See Leon S. Rhodes, "Swedenborg and the Near-Death Experience," in
+- Emanuel Swedenborg: A Continuing Vision, ed. Robin Larsen et si. (New
+- York: Swedenborg Foundation, 1988), pp. 237^40.
+- 75. Wilson Van Dusen, The Presence of Other Worlds (New York: Sweden-
+- borg Foundation, 1974), p. 75.
+- 76. Emanuel Swedenborg, The Universal Human and Soul-Body Interaction,
+- ed. and trans. George F. Dole (New York: Paulist Press, 1984), p. 43.
+- 77. Ibid.
+- 78. Ibid., p. 156.
+- 79. Ibid., p. 45.
+- 80. Ibid., p. 161.
+- 81. George F. Dole, "An Image of God in a Mirror," in Emanuel Swedenborg;
+- A Continuing Vision, ed. Robin Larsen etal. (New York: Swedenborg
+- Foundation, 1988), pp. 374-81.
+- 82. Ibid.
+- 83. Theophilus Parsons, Essays (Boston: Otis Clapp, 1845), p. 225.
+- 84. Henry Corbin, Mundus Imaginaiis (Ipswich, England: Golgonooza Press,
+- 1976), p. 4.
+- 85. Ibid., p. 7.
+- 86. Ibid., p. 5.
+- 87. Kubler-Ross, Children, p. 222.
+- 88. Private communication with author, October 28, 1988.
+- 89. P&Tamaivm&3.Yoganan<i&, Autobiography of a Yogi (Los Angeles:
+- Self-Realization Fellowship, 1973), p. viii.
+  90. Ibid., pp- 475-97.
+- 91. Satprem, Sri Aurobindo or the Adventure of Consciousness (New York:
+- Institute for Evolutionary Research, 1984), p. 195.
+- 92. Ibid., p. 219.
+- 93. E. Nandisvara Nayake Thero, "The Dreamtime, Mysticism, and Liberation:
+- Shamanism in Australia," in Shamanism, ed. Shirley Nicholson (Wbeaton,
+- III-: Theosophical Publishing House, 1987), pp. 223-32.
+- 94. Holger Kalweit, Dreamtime and Inner Space (Boston: Sharobhala Pub-
+- lications, 1984), pp. 12-13.
+- 95. Michael Hamer, The Way of the Shaman (New York: Harper & Row, 1980),
+- pp. 1-8.
+- 96. Kalweit, Dreamtime, pp. 13, 57.
+- 97. Ring, Heading toward Omega, pp. 143-64.
+- 98. Ibid., pp. 114-20.
+- 99. Bruce Greyson, "Increase in Psychic and Psi-Related Phenomena Fol-
+- lowing Near-Death Experiences," Theta, as quoted in Ring, Heading
+- toward Omega, p. 180.
+- 100. Jeff Zaleski, "Life after Death: Not Always Happily-Ever-After," Omni
+- WkoleMind Newsletter 1, no. 10 (September 1988), p. 5.
+- 101. Ring, Heading toward Omega, p. 50.
+- 102. John Gliedman, "Interview with Brian Josephson," Omni A, no. 10 (July
+- 1982), pp. 114-16.
+- 103. P. C. W. Davies, "The Mind-Body Problem and Quantum Theory," in
+- Proceedings of the Symposium on Consciousness and Survival, ed. John S.
+- Spong (Sausalito, Calif.: Institute of Noetic Sciences, 1987), pp. 113-14.
+- 324 NOTES Notes 325
+- 104. Candace Pert, Neuropeptides, the Emotions and Bodymind in Proceedings
+- of the Symposium on Consciousness and Survival, ed. John S. Spong
+- (Sausalito, Calif.: Institute of Noetic Sciences, 1987), pp. 113-14.
+- 105. David Bohm and Renee Weber, "Nature as Creativity," Revision 5, no. 2
+- (Fall 1982), p. 40.
+- 106. Private communication with author, November 9, 1987.
+- 107. Monroe, Journeys Out of the Body, pp. 51 and 70.
+- 108. Dole, in Emanuel Swedenborg, p. 44.
+- 109. Whitton and Fisher, Life between Life, p. 45.
+- 110. See, for example, Moody, Reflections on Life after Life, pp. 13-14; and
+- Ring, Heading toward Omega, pp. 71-72.
+- 111. Edwin Bernbaum, The Way to Skambhala (New York: Anchor Books,
+- 1980), pp. xiv, 3-5.
+- 112. Moody, Reflections on Life after Life, p. 14; and Ring, Heading toward
+- Omega, p. 71.
+- 113. W. Y. Evans-Wentz, The Fairy-Faith in Celtic Countries (Oxford: Oxford
+- University Press, 1911), p. 61.
+- 114. Monroe, Journeys Out of the Body, pp. 50-51.
+- 115. Jacques Vallee, Passport to Magonia (Chicago: Henry Regnery Co., 1969),
+- p. 134.
+- 116. Private communication with author, November 3, 1988.
+- 117. D. Scott Rogo, Miracles (New York: Dial Press, 1982), pp. 256-57.
+- 118. Michael Talbot, "UFOs: Beyond Real and Unreal," in Gods of Aquarius, ed.
+- Brad Steiger (New York; Harcourt Brace Jovanovich, 1976), pp. 28-33.
+- 119. Jacques Vallee, Dimensions: A Casebook of Alien Contact (Chicago:
+- Contemporary Books, 1988), p. 259.
+- 120. John G. Fuller, The Interrupted Journey (New York: Dial Press, 1966), p.
+- 91.
+- 121. Jacques Vallee, Passport to Magonia, pp. 160-62.
+- 122. Talbot, in Gods of Aquarius, pp. 28-33.
+- 123. Kenneth Ring, "Toward an ImaginaJ Interpretation of 'UFO Abductions,' "
+- ReVision 11, no. 4 (Spring 1989), pp. 17-24.
+- 124. Personal communication with author, September 19, 1988.
+- 125. Peter M. Rojcewicz, "The Folklore of the 'Men in Black': A Challenge to
+- the Prevailing Paradigm," ReVision 11, no. 4 (Spring 1989), pp. 5-15.
+- 126. Whitley Strieber, Communion (New York: Beech Tree Books, 1987), p.
+- 295.
+- 127. Carl Raschke, "UFOs: Ultraterrestrial Agents of Cultural Deconstruc-tion,"
+- in Cyberbiological Studies of the Jmaginal Component in the UFO Contact
+- Experience, ed. Dennis Stilungs (St. Paul, Minn.: Archa-eus Project, 1989),
+- p. 24.
+- 128. Michael Grosso, "UFOs and the Myth of the New Age." in Cyberbiological
+- Studies of the Imaginal Component in the UFO Contact Experience, ed.
+- Dennis Stillings(St. Paul, Minn.: Archaeus Project, 1989), p. 81.
+- 129. Raschke, in Cyberbiological Studies, p. 24.
+- 130. Jacques Vallee, Dimensions: A Casebook of Alien Contact (Chicago:
+- Contemporary Books, 1988), pp. 284-S9.
+- 131. John A. Wheeler, with Charles Misner and Kip S. Thome, Gravitation (San
+- Francisco: Freeman, 1973).
+- 132. Strieber, Communion, p. 295.
+- 133. Private communication with author, June 8, 1988.
+- 9. RETURN TO THE DREAMTIME
+- 1. John Blofeld, The Tantric Mysticism of Tibet (New York: E. P. Dutton,
+- 1970), pp. 61-62.
+- 2. Garma C. C. Chuang, Teachings of Tibetan Yoga (Secaucus, N J.: Citadel
+- Press, 1974), p. 26.
+- 3. Blofeld, Tantric Mysticism, pp. 61-62.
+- 4. Lobsang P. Lhalungpa, trans., The Life of Milarepa (Boulder, Colo.:
+- Shambhala Publications, 1977), pp. 181-62.
+- 5. Reginald Horace Blyth, Games Zen Masters Play, ed. Robert Sohl and
+- Audrey Carr (New York: New American Library, 1976), p. 15.
+- 6. Margaret Stutley, Hinduism (Wellingborough, England: Aquarian Press,
+- 1985), pp. 9, 163.
+- 7. Swami Prabhavananda and Frederick Manchester, trans., The Upani-shads
+- (Hollywood, Calif.: Vedanta Press, 1975), p, 197.
+- 8. Sir John WoodrorTe, The Serpent Power (New York: Dover, 1974), p. 33.
+- 9. Stutley, Hinduism, p. 27.
+- 10. Ibid., pp. 27-28.
+- 11. WoodrorTe, Serpent Power, pp. 29, 33.
+- 12. Leo Schaya, The Universal Meaning of the Kabbalah (Baltimore, Md.:
+- Penguin, 1973), p, 67.
+- 13. Ibid.
+- 14. Serge King, "The Way of the Adventurer," in Shamanism, ed. Shirley
+- Nicholson (Wheaton, 111.: Theosophical Publishing House, 1987), p. 193.
+- 15. E. Nandisvara Nayake Thero, "The Dreamtime, Mysticism, and Liberation:
+- Shamanism in Australia," in Shamanism, ed. Shirley Nicholson (Wheaton,
+- 111.: Theosophical Publishing House, 1987), p. 226.
+- 16. Marcel Griaule, Conversations with Ogotemmeli (London: Oxford Uni-
+- versity Press, 1965), p. 108.
+- 17. Douglas Sharon, Wizard of the Four Winds: A Shaman's Story (New York:
+- Free Press, 1978), p. 49.
+- 32* NOTES Notes 327
+- 18. Henry Corbin, Creative Imagination in the Sujism of Ibn 'Arabi, trans.
+- Ralph Manheim (Princeton, NX: Princeton University Press, 1969), p. 259.
+- 19. Brian Brown, The Wisdom of the Egyptians (New York: Brentano's, 1923),
+- p. 15G.
+- 20. Woodroffe, Serpent Power, p. 22.
+- 21. John G. Neihardt, Black Elk Speaks (New York: Pocket Books, 1972), p.
+- 36.
+- 22. Tryon Edwards, A Dictionary of Thought (Detroit F. B. Dickerson Co.,
+- 1901), p. 196.
+- 23. Sir Charles Eliot, Japanese Buddhism {New York: Barnes & Noble, 1969),
+- pp. 109-10.
+- 24. Alan Watts, Too: The Watercourse Way (New York: Pantheon Books,
+- 1975), p. 35.
+- 25. F. Franck, Book of Angelas Silesius (New York: Random House, 1976), as
+- quoted in Stanislav Grof, Beyond the Brain (Albany, N.Y.: SUNY Press,
+- 1985), p. 76.
+- 26. " 'Holophonic' Sound Broadcasts Directly to Brain," Brain/Mind Bulletin 8,
+- no. 10 (May 30, 1983), p. 1.
+- 27. "European Media See Holophony as Breakthrough," Brain/Mind Bulletin 8,
+- no. 10 (May 30, 1983), p. 3.
+- 28. Ilya Prigogine and Yves Elskens, "Irreversibility, Stochasticity and
+- Non-Locality in Classical Dynamics," in [[Quantum Implications]] , ed. Basil J.
+- Hiley and F. David Peat (London: Routledge & Kegan Paul, 1987), p. 214;
+- see also "A Holographie Fit?" Brain/Mind Bulletin 4, no. 13 (May 21,
+- 1979), p. 3.
+- 29. Marcus S. Cohen, "Design of a New Medium for Volume Holographic
+- Information Processing," Applied Optics 25, no. 14 (July 15, 1986), pp.
+- 2288-94.
+- 30. Dana Z. Anderson, "Coherent Optical Eigenstate Memory," Optics Letters
+- 11, no. 1 (January 1986), pp. 56-58.
+- 31. Willis W. Harman, "The Persistent Puzzle: The Need for a Basic Re-
+- structuring of Science," Noetic Sciences Review, no. 8 (Autumn 1988), p.
+- 23.
+- 32. "Interview: Brian L Weiss, M.D.," Venture Inward 6, no. 4 (July/ August
+- 1990), pp. 17-18.
+- 33. Private communication with author, November 9, 1987.
+- 34. Stanley R. Dean, C. 0. Plyier, Jr., and Michael L. Dean, "Should Psychic
+- Studies Be Included in Psychiatric Education? An Opinion Survey,"
+- American Journal of Psychiatry 137, no. 10 (October 1980), pp. 1247-49.
+- 35. Ian Stevenson, Children Who Remember Previous Lives (Charlottesville,
+- Va.: University Press of Virginia, 1987), p. 9.
+- 36. Alexander P. Dubrov and Veniamin N. Pushkin, Parapsychology and
+- Contemporary Science (New York: Consultants Bureau, 1982), p. 13.
+- 37. Harman, Noetic Sciences Review, p. 25.
+- 38. Kenneth Ring, "Near-Death and UFO Encounters as Shamanic Initiations;
+- Some Conceptual and Evolutionary Implications," Revision 11, no. 3
+- (Winter 1989), p. 16.
+- 39. Richard Daab and Michael Peter Langevin, "An Interview with Whitley
+- Strieber," Magical Blend 25 (January 1990), p. 41.
+- 40. Lytle Robinson, Edgar Cayce's Story of the Origin and Destiny of Man
+- (New York: Berkley Medallion, 1972), pp. 34, 42.
+- 41. From the Lankavatara Sutra as quoted by Ken Wilbur, "Physics, Mysticism,
+- and the New Holographic Paradigm," in Ken Wilbur, The Holographic
+- Paradigm (Boulder, Colo.: New Science Library, 1982), p. 161.
+- 42. David Loye, The Sphinx and the Rainbow (Boulder, Colo.: Shambhala
+- Publications, 1983), p. 156.
+- 43. Terence McKenna, "New Maps of Hyperspace," Magical Blend 22 (April
+- 1989), pp. 58, 60.
+- 44. Daab and Langevin, Magical Blend, p. 41.
+- 45. McKenna, Magical Blend, p. 60.
+- 46. Emanuel Swedenborg, The Universal Human and Soul-Body Interaction,
+- ed. and trans. George F. Dole (New York: Paulist Press, 1984), p. 54.
+- 47. Joel L. Whitton and Joe Fisher, Life between Life (New York: Double-day,
+- 1986), pp. 45-46.
+- ^

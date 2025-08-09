@@ -1,0 +1,4 @@
+- A solution is determined by the definition of the problem. What the problem is is determined by what we want the problem to be. Recognising a solution by recognising the problem. How we want to solve a problem defines the solution set.
+- [[Let me recognise the problem so it can be solved.]]
+- [[Let me recognise the problem has been solved.]]
+-

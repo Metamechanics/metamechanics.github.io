@@ -1,0 +1,6441 @@
+Grand and Deep Goals of MQGEF & Global Effort
+
+- PhD study intersecting fields
+- Energy
+- Energy, Entropy and information theory
+- Biophysical economics, Thermoeconomics, Social metabolism
+- Macrohistory of Energy
+- Knowledge mapping
+- Futures mapping
+- Futures toolbox
+- Data visualization
+- Web 2.0
+- Semantic Web
+- Ontology
+- Graph database
+- Economics (through an energy-resources lens)
+- Complete a PhD in Global Energy Futures
+- Become a deep futurist, skilled with a futures toolbox
+- Map-locate energy futures
+- Create a collaborative web portal for global energy futuring
+- Develop theory of MacroEnergetics
+- Open up career possibilities in academia/uni
+- Differentiate from predictive energy forecasting and scenarios
+- ontology creation for energy futures
+- use broad topic of energy as a lens to discover the world, and higher worlds
+- use Futures Studies to discover the World, and deeper worlds
+- identify links between Energy Futures, Power/Political Futures, Economics and Psychology
+- develop knowledge mapping software
+- My role
+- My role is two-fold: Understand the technicalities sufficiently well such that The warring parties can be united. That is, I can speak, and understand, the language of each player at the level of each player, AND I can translate each player’s language to the other players.
+- Relationship of Global Effort to MQGEF
+- MQGEF is a deeper, more specific single section of Global Effort
+- Global Effort is blog forum for summaries of info discoveries
+- Global Effort is the repository of data, individual stakeholder analyses etc.
+- Allows other people's contributions to aid in my research
+- Global Effort evolution phases
+- This is one idea about how Global Effort might evolve
+- Blog to support PhD admission proposal and process
+- Blog to support more detailed PhD proposals
+- Appeal for contributions
+- References
+- Thinkers
+- Techniques
+- Frameworks/philosophies
+- Data repository
+- Energy data
+- Reference records
+- Post Annotations & summaries of read references
+- Post critique and analysis of annotations/summaries
+- Blog as summary of my own journal articles
+- Build reputation and credibility by quality research and originality
+- Advertise for and seek out willing collaborators
+- Remember for a PhD thesis
+- Remember for a phd thesis
+- 1. What is your research question? ie what are the alternative futures of global energy? or is an alternative energy future possible?
+	-
+	- sub questions
+- 2. Why is this question significant?
+- 3. Context (short history, present concerns about energy, main issues)
+- 4. Methodology - interview, cla, scenarios, empirical, deconstruction, genealogy
+- 5. Theoretical context (ie empirical, interpretive, critical, action learning)
+- 6. chapter outline
+- 7. bibliography  This should start as a 1 pager, then 5, then 30, then eventually 300 or so pages
+-
+- The hardest part is getting clear on the research question.
+- MQGEF PhD notes and structure
+- This container is for more polished writings.
+- Global Effort is initially designed as a
+- 1. Blog to develop PhD admission proposal
+- 2. Data repository for PhD development
+- 3. Blog to develop PhD detailed proposals
+- 4.
+- Should I be focusing on the key thinkers and thought schools that inspired and created these philosophies?
+- Note about MQGEF writings construction
+- MQGEF writings are built upon Global Effort posts, articles and data snippets. They may be edited for inclusion as appropriate, or they may be inserted directly as is into the flow.
+- The better forum to polish all this may be Scrivener. Perhaps consider doing this after sufficient organisation in TBX.
+- Remember to keep TBX and SCRIV documents in-sync with each other.
+- USC Admission
+- USC admission structure proposal
+- INTRODUCTION
+- THE TITLE OF THE RESEARCH PROJECT
+- THE RESEARCH QUESTION(S)
+- THE RESEARCH PROBLEM / ISSUE / PUZZLE / SUBJECT
+- THE REASONS FOR THE RESEARCH
+- THE SIGNIFICANCE AND INNOVATION OF THE RESEARCH
+- THE AIMS OF THE RESEARCH
+- THE RELEVANT RESEARCH LITERATURE
+- THE METHODOLOGIES AND METHODS TO BE USED IN THE RESEARCH
+- THE OUTCOMES THAT ARE EXPECTED FROM THE RESEARCH
+- USC admission structure proposal 01032011
+- Expected Bibliography
+- Dissertation Outline 1.0 - Mapping and Questioning Global Energy Futures
+- Part 1 - Assessing the Energy Present
+- What is so now? Energy problems, potentials, proposals. Energy futures, as well as energy futuring (methods). Leading into why this research is important.
+-
+-
+- 01 - Illuminating the Energy Future
+- More or less a research proposal. This is a summary of an envisaged and hypothetical flow and final product, in advance. A sales pitch, of sorts.
+- Title of the Research Project
+- up to 50 words
+- Questioning Global Energy Futures
+- Mapping Global Energy Futures
+- Mining and Mapping Global Energy Futures
+- Questioning and Mapping Global Energy Futures
+- Surveying Global Energy Futures
+- Surveying and situating Global Energy Futures
+- Introduction
+- Introduction  This chapter will provide an outline of:  Research topic and driving research questions Importance and significance of the research Background to the topic Aims and objectives Theory and Methodology Limits of research Chapter outline
+- Global Energy Futures. Not financial futures.
+- This research deals with global energy futures. That is, the plans, proposals, trends, images and visions of energy systems in the future that are held, created and debated around the world. This is not to be confused with the speculative trading of energy commodities in financial markets, also known as “trading energy futures.”
+- Interpretations of "Alternative Energy Futures"
+- “Alternative Energy” Futures (Futures of Alternative Energy)
+- vs
+- Alternative “Energy Futures”
+- vs
+- Energy of/for alternative futures
+- Vs
+- Alternative speculations on energy commodity prices
+- Vs
+- Speculations on alternative energy-sourced prices
+-
+-
+-
+- Streams of thought behind alternative energy futures
+-
+- Defense – more efficient ships, less fueling, more effective defence forces
+-
+- Investing in renewable energy & energy efficiency in order to retain economic competitiveness and advantage; in order to retain position as leading global economic power.
+-
+- Not just scenarios et al
+- When considering “futures” we may consider, but not be limited to, commonly known ideas as trends, forecasting, scenarios, wild cards and outliers, expert prediction, computer modelling and many others. This research will include these well-known representations of the future, as well as introduce and embrace many others. There is an emphasis on depth, criticality, fringe data and problematising energy futures as well as energy futuring methodology, thus calling on novel analytical futures tools.
+-
+- An array of suggested pathways already exist...
+- An array of suggested pathways and scenarios already exist for what the world’s energy system will look like in the future. Packages of steps, strategies, methods and technologies are proposed by numerous stakeholders. These various permutations are created to realize the stakeholders’ preferred vision of the world; and how and why society should  source and supply electricity and fuel, and for what purpose.
+-
+- Energy system visions are encased in broader images of society.
+- Seeing how fundamentally energy technology and energy availability shapes life, this work on energy futures must include the broader images of future human civilization employing such systems. Furthermore, this research looks at the process and methods involved in the generation of these energy futures.
+- These competing visions are the subject of clash, conflict, debate, protest, vilification, ridicule and much fear.
+-
+- This burgeoning of stakeholders and interest groups, and the rapidly increasing complexity and importance of debate and discussion, begs the following research questions be addressed.
+- Research Questions - dissertation
+- What are the world's energy futures?
+- Is this more accurately stated as "What are the world's main, well-known energy futures?" ? Or does it include all?
+- What are the different ways the world views and values energy issues, the "energy crisis" and energy progress?
+- What are the world's responses to these challenges?
+- What is the structure of these energy futures?
+- What components do they consist of?
+- What are the barriers to each non-dominant future being realised?
+- What is stopping them from becoming dominant? Resistance? Represession?
+- What is the broader societal and civilizational future that each energy future serves, implies, assumes, favours, fosters...?
+- How do energy futures relate to economic, political, environmental, social, legal et al futures?
+- What is the worldview and model of the life-universe that each energy future implies?
+- Where does energy ultimately come from? What is it for?
+- What is the role and concept that each future ascribes to energy?
+- Macroscopic flow analysis of energy.
+- What differentiates each energy future?
+- Are they genuinely different? If so, how different, and how are they different?
+- Are taxonomies, typologies, ontologies and cartographies of energy futures possible?
+- How comprehensive and rigorous are these energy futures?
+- How does each future frame technology, its role, its importance, its development, its innovation, its purpose?
+- That is, are intangible tools consider "technology"? Inter-personal, mental, futures, psycho-emotional, spiritual etc.
+- What is the history of the world's energy futures?
+- How have energy futures changed over history?
+- How has the view of the future of energy changed over time?
+- Are there lessons to learn from the history of energy futures?
+- What is the role of history in energy futures?
+- What is the role of the future in energy history?
+- How are energy futures created or arrived at?
+- Energy futuring methods, techniques, assumptions, predispositions, biases, myths..
+- Are alternative energy futures possible?
+- Are there other energy futures to consider? Could there be other energy futures to create? Genuine alternatives, that is. First, we need to group superficially similar futures by traits that are deeper and broader than usual analysis.
+- What would need to happen, or be different, in order to have alternative energy futures?
+- How could 'possible' alternative energy futures become 'plausible' and 'probable'?
+- Research Questions - from elsewhere, unite with above
+- Energy governance??
+- What are the world's energy futures?
+- What are the world's probable energy futures?
+- What are the world's plausible energy futures?
+- What are the world's possible energy futures?
+- Are there genuinely alternative energy futures?
+- If so, how are they different?
+- What are the different ways the world sees the future of energy?
+- What are the different purposes the world ascribes to energy?
+- What is energy for?
+- How do different groups answer this question?
+- See Global Effort webwiki writing for "Research Questions - Note cards"
+- Significance of the research
+- The significance and innovation of the research 7. How the proposed research is new and different from previous research in the area (up to 250 words)
+- A note on originality
+- Your work will make a worthwhile contribution to the field if it fulfils one or more of the following:
+-
+- it provides evidence to support or disprove a concept, theory, or model;
+- it contributes new data/information, new or improved solution, analysis procedure or a new improved research methodology;
+- it results in a new or improved concept, theory or model.
+-
+- Reasons for Research
+- Why is this research important? Why it should be done?
+- Innovation and Novelty
+- Innovation and Novelty
+- hypotheses, insights and intuitions
+- Other novelty
+- Context. What are the main issues and challenges?
+- 1.3 Context. What are the main issues and challenges?
+- Inefficacy of drivers
+- How climate change, peak oil, energy war, energy poverty, nuclear threat...are not great drivers of energy futures.
+- Energy futures: content and process
+- What is the state of global energy futures?
+- Crossroads of Crises: Energy-, Environment-, Economy and Social, cultural, political, technological
+- 1.3.1 Crossroads of Crises: Energy-, Environment-, Economy and. sSocial, cultural, political, technological and spiritual. realms.Physical, mental spiritual. Energy is life. At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterized by the harnessing, exchange and use of energy. Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Agriculture, metabolism, mobility, heating and cooling, lighting, weather, materials and their working, tools and their powering, thought... All are energetic processes.   It therefore may not be a surprise to learn, then, that at the gross, global level, oil is the single most traded commodity in the world. (Ref?) Petroleum companies comprise 5 of the 10 biggest companies in the world. (ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)  Given the ubiquity of energy, the problems of energy could be considered a potential meta-crisis. Our energy systems touch on, symbolize, incorporate, cause, and are caused by, a spectrum of inter-related issues. The occurrence of a single pathological issue calls for remedy. The convergence of all of them shouts for transformation and healing.  [A paragraph on each phenomena, highlighting the  relationship to energy emphasise forecast effects (forecast by its proponents) Statistics and authoritative comments   Climate change  The issue of climate change dominates the energy arena these days.
+	- Pollution – mining and emissions  Cheap coal in the developing world vs global climate change agreement
+	- Nuclear energy: waste, war, proliferation  Peak oil may have already occurred.   is the peaking of oil production, which signifies a point at which resources become significantly more difficult to access, and more expensive. This occurs with all natural resources, particularly   According to some, may be another factor which compounds the disruption of climate change, although peak oil and peak coal   Peak Oil  Hydrocarbon/scarce resource energy economy  Energetic basis of economy. Possible collapse. Peak coal  Pollution – mining and emissions  Energy Poverty  Food vs fuel biofuels debate
+	- Nuclear energy: waste, war, proliferation  Developing world using fossil fuels vs global climate change agreement  Economic development vs energy descent Models, images and myths of development  Materialist consumption – uses of energy  Role of technology in society  Energy consumption vs happiness index   Energy conflict, refugees Energetic basis of economy. Possible collapse. The “nature of the debate” crisis – nasty, personal, hateful…particularly around climate change Socio-cultural?? Disconnection?   Food vs fuel  Space mining. Space solar stations. Property rights. Colonization of space.?  Evolutionary energetics – evolution of social systems, increasing energy throughputLand and property rights – indigenous, local communities  Climate justice International governance and trade structures – climate change, oil  Technology availability – intellectual property, transfer
+	-
+	- Encapsulating and permeating all these energy dilemmas is the conflict within and between each domain. No level or sphere is left out: from international wars to dining room verbal violence. Energy and power – the capacity to release energy, is at the heart of much conflict, while conflict and struggle is impossible without it.  There is the conflict around the validity and accuracy of the above claims and data. Is climate change due anthropogenic actually occurring? If so, is it really caused by humans? And even if that is so, the degree, extent and rate is hotlly debated. Is ‘peakism’ alarmism? Examples of conflict beyond the definition of ‘debate’ might include ‘Climate-gate’ and its ensuing inquiries, responses to ‘An Inconventient Truth’, the promise of tar sands, shale gas and coal-to-liquids to alleviate oil scarcity, assurances over the safety of nuclear power, or the ability of renewables to provide baseload power. Each are denied, fiercely. Each are advocated, passionately.  Then there is conflict over the solution strategy, for whichever valid drivers and prioritised challenges. Technologies compete within a free market economic system for market share. Some may argue this is simply healthy competition of a free capitalist market, yet others may argue extensive subsidies prop up an inefficient hegemony. Energy-economic development models too vie for supremacy.  Examples of this might include public demonstrations against the Jabiluka mine in Australia, NIMBYism around nuclear facilities or wind turbines, as well as the rejection of solar power in Kenya http://www.scidev.net/en/climate-change-and-energy/most-kenyans-say-no-to-cleaner-energy-study-finds.html?utm_source=link&utm_medium=rss&utm_campaign=en_climatechangeandenergy or remote Guatemalan villages. Worlds, and worldviews, collide.  There is then, of course, the ultimate extensions of the foregoing conflicts - the bloodshed and hardship arising from our current energy systems.
+	- Cost of war over energy – financial cost, energetic cost, energetic goal  Locations of energy conflicts – Iraq, Venezuela, Bolivia, Nigeria, Russia – Ukraine gas cut-off,   Demonstrations – ANWR, Jabiluka,  Slavery  USS Cole bombing off Aden; guarding of energy carriers by US military  China Three Gorges dam  Enron corruption
+	-
+	- Energy conflict, geopolitics  and refugees  The “nature of the debate” crisis – nasty, personal, hateful…particularly around climate change  Skepticism, denial and spruiking – climate change, peak oil, nuclear, ideas of econ dev,
+	- Energy is life. It is essential to all systems. At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterized by the acquisition, harnessing and use of energy. Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Food, metabolism, mobility, heating and cooling, lighting, weather, materials and their working, tools and their powering, thought... All are energetic processes.   Energy in its broadest scientific sense versus its quasi-spiritual sense versus energy in its business, economic, political or “everyday” sense.  Oil is the single most traded commodity in the world. (Ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)  Energy can be considered a is a meta-crisis, meta-problem. A convergence of crises. Economics Environment Peace Development  Size of energy industry Ubiquitousness/universality of energy  So, in an effort to ensure what most of us want – a peaceful, prosperous life – a future energy system which facilitates peace and prosperity is fundamental. Similarly, in choosing where to act in an effort to influence the world and society, transforming energy policy stands out as a point of extreme leverage. Energy policy stands as a cause of, and simultaneously, a solution to, humanity’s challenges. Energy policy can allow for more leisure time, improve food supply, control ambient atmosphere and comfort, illuminate places of learning, electrify technologies of healing, growth and entertainment, and enable long-distance communication and exploration of the frontiers of humanity.  Or not. Energy policy can also mobilize oppressors, destabilize atmosphere, pollute, foster illness and disease, confine wealth and power and retard social development. Which path is travelled is strongly influenced by energy policy as much as conversely energy policy is influenced by which course is chosen. The quality and quantity of energy, as determined by energy policy, is a grand factor in human social development. While energy may or may not be a driver of development, there is certainly a correlation between energy consumption and standards of living.
+	- These statements summaries (statistics and comments above) highlight various significant points:
+	- 1. The challenges around energy are no longer local (or even regional), short-term nor confined to techno-economics. Energy problems are now openly global, long-term, deeply embedded within society, multi-faceted, trans-disciplinary and potentially catastrophic or revolutionary.  2. A wide spectrum of world and life-views, opinions, priorities and values are represented within energy policies and strategies. Competing energy visions and solution pathways battle for supremacy consuming much human, financial, material, environmental and time resource in the conflict.  3. New approaches in formulating energy policy are warranted. Traditional scientific, economic and political approaches have provided much historically but have also brought overseen the emergence of on the challenges we face. Strong environmental approaches may beare very well intentioned, and have also achieved much, but do not seem to be very effective eitherstill less than desired lacking penetration as well..  4. Our energy systems and policies are tied to our identities and relationships. Transforming energy policy goes hand-in-hand with transforming personal, social and civilizational structures and identity.identity.  It is proposed that no existing energy futures satisfactorily address the complexity of the energy crisis or represent the richness of stakeholders. This is, in part because no adequate energy futuring toolbox exists to facilitate this. By taking a critical futures approach and employing deep, participatory, transformative futures methodologies, this work aims to make a contribution in addressing this.  The world in which Australia sits is in conflict and much of this is tied to energy. Uncertainty and fears grows in the present changing climate (atmospheric, financial and political). To alleviate suffering and promote prosperity, now and in the future, and to address the myriad, complex problems around energy, alternative energy futures must be created which capture the hearts and minds of more and more people. These futures must be broader, go deeper and be more inclusive than any existing Australian energy futures presently are.
+	- Rather than feeling at the mercy of external factors and poorly understood forces, Australia can choose its preferred energy future(s) and take action to realize it. This research will look at what could be done, what could be changed and how so for Australia to actively lead itself into an energy future it wants rather than be dragged into an energy future it doesn’t.
+- Wicked Problem/Social Mess -nature of issue
+- Complexity
+- Gravity
+- Energy futuring
+- What is the current state of global energy futuring?
+-
+- 1.3.5 Energy futuring  An initial survey of literature suggests that futures work in the energy field is extensive but of a relatively narrow scope.  Forecasting, modelling, prediction and scenarios. Delphi Emerging Issues Analysis  Back-casting  Quantitative  Scenario-making
+- Hardly a day goes by without an energy-related item appearing in the media. Even a narrow internet search of mainstream media will provide a proliferation of titles dealing with energy related news. The issues are diverse and the viewpoints varied and conflicting:
+- These statements highlight various points:
+- These statements highlight various points:
+- The challenges around energy are no longer local, short-term nor confined to techno-economics.
+- The challenges around energy are no longer local, short-term nor confined to techno-economics. Energy problems are now openly global, long-term, deeply embedded within society, multi-faceted, trans-disciplinary and potentially catastrophic or revolutionary.
+- A wide spectrum of world and life-views, opinions, priorities are represented within energy policies and strategies
+- A wide spectrum of world and life-views, opinions, priorities are represented within energy policies and strategies. Competing energy visions and solution pathways battle for supremacy consuming much human, financial, material, environmental and time resource in the conflict.
+- New approaches in formulating energy policy are warranted.
+- New approaches in formulating energy policy are warranted. Traditional scientific, economic and political approaches have provided much historically but have also brought on the challenges we face. Strong environmental approaches are very well intentioned but do not seem to be very effective either.
+- Our energy systems and policies are tied to our identities and relationships.
+- Our energy systems and policies are tied to our identities and relationships. Transforming energy policy and transforming personal, social and civilizational identity go hand-in-hand.
+- The world is in conflict and much of this is tied to energy
+- The world in which Australia sits is in conflict and much of this is tied to energy. Uncertainty and fears grows in the present changing climate (atmospheric, financial and political). To alleviate suffering and promote prosperity, now and in the future, and to address the myriad, complex problems around energy, alternative energy futures must be created which capture the hearts and minds of more and more people. These futures must be broader, go deeper and be more inclusive than any existing Australian energy futures presently are.
+- Aims, Goals and Expected Outcomes of the research.
+- 1.4 Aims, Goals and Expected Outcomes of the research.
+- To comprehensively map the world's energy futures.
+- To situate - textually, cartographically, socio-economically, technically - using various axes and techniques, all the world's energy futures.
+- To simplify the debate and discussion, in order to arrive at effective actions.
+- Energy challenges are myriad and complex. It is mentally, technically and psychologically easier to deal with fewer problems than many.
+- To navigate energy futures more easily, in order to arrive at effective energy futures.
+- To generate an/a set of genuine alternative energy futures.
+- These may be hybrids of modified current futures. These may be completely novel energy futures.
+- To develop an expanded energy futuring toolbox.
+- A bigger set of integrated tools to develop energy futures.
+- To offer energy as a metaphor or mechanism to link systems and futures of various disparate fields.
+- Begin with gross energy futures, expand using thermodynamic analogues, ecological energy flows etc, into energy verticality.
+- Add to the body of futures inquiry by examining energy.
+- Theory and Methodology. Introduction to Futures Studies.
+- 1.5 Theory and Methodology. Introduction to Futures Studies.  See Six Pillars, perhaps summarise
+- Policy v Strategy v Futures.An introduction to Futures Studies (FS)
+- 1.5.1 Policy v Strategy v Futures.An introduction to Futures Studies (FS)
+- Theoretical framework. Predictive-Empirical vs Critical, Transformative Futures
+- 1.5.3 Theoretical framework. Predictive-Empirical vs Critical, Transformative Futures
+- Various typologies of the future
+- Various typologies of the future
+- Predictive-empirical
+- 1.5.3.2 Predictive-empirical
+- Interpretive
+- 1.5.3.3 Interpretive
+- Critical, transformative
+- 1.5.3.4 Critical, transformative
+- Causal Layered Analysis
+- 1.5.3.4.1 Causal Layered Analysis
+- Integral Futures
+- 1.5.3.5 Integral Futures
+- Wicked Problems
+- Alternative Futures
+- Energy Policy
+- Strategy
+- 1.5.1.2  Strategy
+- Futures
+- 1.5.1.3 Futures
+- Methodologies
+- 1.5.6 Methodology Developing a toolbox, therefore multiple methodologies
+-
+- Critique of existing methodology via CLA and Integral
+- Depth
+- 1.5.6.1 Depth
+- Causal Layered Analysis
+- CLA “creates transformative spaces for the creation of alternative futures. It is also likely to be useful in developing more effective – deeper, inclusive, longer term – policy”.
+- Futures Triangle
+- Futures Triangle
+- Integral Futures
+- Integral Futures
+- Emerging Issues Analysis
+- 1.5.6.5 Emerging Issues Analysis
+- Anticipatory Action Research
+- 1.5.6.6 Anticipatory Action Research
+- Interviews (Delphi)
+- 1.5.6.7 Interviews (Delphi)   EurEnDel
+- Meta-Analysis of Energy Futures copy
+- 1.5.6.8
+- Literature review
+- A general methodological process
+- Methodology. How will i do parts 1 and 2? I  (a)
+- Initial literature review
+- Initial literature review. Identification of ■ existing scenarios and policies in Australia ■ competing policies and alternative scenarios ■ dominant/principal players and stakeholders (b)
+- Questionnaire
+- Questionnaire to/interview of principal thinkers, drivers, policy-shapers and players ■ Ascertain players' “ideal energy vision”. Perhaps a futures mini-workshop attempting to to identify and temporarily remove the filters and blinkers they have held when formulating their publicly stated professional opinions. ■ Get an idea of the personal nature of the forces driving and retarding the dominant energy visions in Australia. Identify the “but...”s (c)
+- Causal layered analysis
+- Causal layered analysis.  ■ Identify the layers of discourse and articulate the largely unarticulated, insidious, powerful ideas  ■ Question the “but...”s.  (d)
+- Expanded literature review
+- Expanded literature review. ■ Identify the fringe ideas, proposed strategies and techniques that don't fit into the dominant framework(s) of possibility. ■ Examine the validity of these claims and practices ■ Requires investigation of alternative (to dominant) theories of science, nature, economics etc   4.
+- Why a Futures approach?
+- Why a Futures approach?  (as opposed to modelling, forecasting etc.)
+-
+- This research is undertaken through the field of Futures Studies for a number of reasons:
+- Complexity.
+- Complexity. As stated earlier, energy is a universal, fundamental, complex issue replete with multi-dimensional interactions and feedback loops between diverse elements and with much historical weight. Futures Studies is multi-disciplinary and trans-disciplinary by nature and is potentially well-geared to addressing complexities of energy.
+- Policy.
+- Policy. Futures Studies provides a broad suite of tools to augment policy. It offers methodologies to improve the policy creation process as well as open up policy options to include previously unconsidered or unimagined possibilities. Futures Studies offers methods to return agency to individuals and groups in creating preferred futures rather than merely reluctantly receiving others’ unwanted probable used futures.
+- Why deep, transformative, participatory futures studies?
+- Why deep, transformative, participatory futures studies?   Futures Studies (FS) as a discipline, theory and set of methodologies is dealt with in more detail in section 1.5, Theory and Methodology. For the moment though, suffice to say that FS is the use of the concept of the future to assess, guide and interpret the present. Various schools of thought exist in FS, as will be outlined in greater detail in section 1.5. A deep, participatory, transformative futures approch is adopted here for the following reasons: This research is undertaken through the field of Futures Studies for a number of reasons:  1. Personal interest to the author.  2. Novelty.  A cursory survey of literature reveals energy futures are already routinely addressed via conventional economic, mathematic, engineering, geologic, ecologic and similar techno-economic and system science approaches. To the best of the author’s knowledge, there remains the need to adequately complement and contextualise these useful techniques with approaches beyond reductionist narrow hard science methods and mindsets, or shallow system science perspectives. FS offers tools that can place appropriate value on sophisticated orthodox techniques by recognizing their time and place of usefulness, while simultaneously enriching the discourse.  3. Ability to encompass complexity, depth and breadth of perspective. As stated earlier, energy is a universal, fundamental, complex issue. It is replete with multi-dimensional interactions, layers of meaning and perspective, and feedback loops between diverse physical and social elements, and carrieswith much historical and cultural weight. Futures Studies A deep, participatory futures approach is multi-disciplinary and trans-disciplinary by nature, acknowleding the wealth of stakeholders, the deep foundations of their views and is potentially well-geared to addressing complexities of energysuch complexity.   4. Policy influence. Futures StudiesFS provides a broad suite of tools to augment policy. In fact, futures underlie policy, whether a particular policy-maker agrees with it or not. [ref] It offers methodologies to improve the policy creation process as well as open up policy options to include previously unconsidered or unimagined possibilities. Futures StudiesFS offers methods to return agency to individuals and groups in creating preferred futures rather than merely unconsciously or reluctantly receiving others’ unwanted probable used futures.  5. Pragmatic utility. Much of the energy discourse focuses on the likelihood and implications of future events such as the forecast impacts of climate change or the timing of peak resource production. It thus seems the logical choice to use the methodologies of the study of the future to examine these predictions and forecasts. These tools may help to prepare for and alleviate any “future shock” – social and individual paralysis – arising out of an unexpected or unimagined future. Furthermore, futures tools provide means to proactively create a preferred future rather than feel helpless in the face of an imposed probable future. FS has potential to facilitate “transition midwifery” as the future unfolds and certain aspects of energy systems die while others gain ascendency.  6. Unifying capability. The fields and scope of inquiry available via FS is vast, sweeping the broad horizons of time and subject, plunging from surface inquiry to deep philosophical premises. While FS doesn’t offer the final answer, its domain of investigation enables multiple perspectives, approaches and worldviews to be situated together under one roof. In doing so, connections between them are now possible; common ground can be identified and reinforced while differences too can be seen and perspectivized.  FS not only allows for shades of grey but a merging of a spectrum of hues of varying intensities viewed at different resolutions.  7. Recontextualisation of technology. In an age where science and technology are highly prized, energy challenges can be seen purely as problems of physical and economic science, to which innovative technologies and market instruments are the solution. FS seeks not to devalue the role of technology in society but can increase its value by identifying the degree the techno-centric view contributes to shaping the problem. Understandings of the philosophical foundations of this view, available via deep, critical futures, can improve the effectiveness of technology as part of a preferred energy system.  8. Stakeholder empowerment and reclaiming of agency. The energy industry is behemoth with many stakeholders feeling isolated from decision-making. The forces of large energetic systems, such as the world’s climate or economy, can seem threatening and overwhelming, leading to disillusionment and despair. Focusing on seemingly invariant structures and probable forecasts in energy systems can erode personal and organisational power. Over-concentration on scenarios created by others limits possibility. Deep, participatory, transformative futures can help stakeholders reclaim and remember their power to mould their future rather than merely respond.  Redefining problem construction. Deep, participatory, transformative futures represent and contain a type of self-reflexive analysis which offer insights rarely available using traditional analytical methods. While it is postulated that deep participatory, transformative futures work will be beneficial in addressing energy problems, it is also posited that the absence of such investigative methods is an intrinsic part of the problem itself. In failing to examine fully all aspects of a stakeholders’ energy future, not only are problems produced and effectiveness reduced, it constitutes part of the very problem. Deep, participatory, transformative futures offer tools to allay this by complementing traditional, conventional techniques.   Deep, participatory, transformative futures vs shallow, predictive-empirical futures
+- Why tranformative?
+- Why CLA?
+- Why Integral?
+- Why action research?
+- Why a wicked problem approach?
+- Why a wicked problem approach?
+- Why alternative future methodologies?
+- Why alternative future methodologies?
+	- Now, more than ever, energy systems which promote life, peace and prosperity are urgently needed. The transition(s) to a better energy system must be rapid to avoid potential catastrophe such as climate change and reduce potential unnecessary suffering. The transition(s) must be smooth to minimize social disruptions from such things as finite oil supply and environmental degradation. The transition(s) must promote peace so as not to fertilize conflict already surrounding resource security.
+	- 5. Methodology (interview, cla, integral, deconstruction, genealogy, empirical, futures triangle)  The recognized approach to research (i.e methodology, such as ethnography, experimental research, grounded theory, action research) and the recognized research techniques or procedures (i.e. methods, such as interviews, case studies, document analysis, statistical analysis) to be used, and how these fit into the overall research design (up to 500 words – 2 pages)   CLA  Integral  Deconstruction  Genealogy  Futures Triangle  Visioning  Anticipatory Action Learning  Interviewing  Surveys  Literature review – the map  Describe your proposed methods in sufficient detail so that the reader is clear about the following:   • What kind of information will you be using?  • From what sources will the information be obtained?  • What resources will you require?  • What methodology will you be using?  • Why have you selected this approach?  Again, use futures triangle.  Theory and Method • CLA “creates transformative spaces for the creation of alternative futures. It is also likely to be useful in developing more effective – deeper, inclusive, longer term – policy”.
+	- 6. Theoretical framework (empirical, interpretive, critical, action learning) A short list of key references related to the topic and brief discussion of some of the main ideas in this literature relevant to the proposed research (up to 1000 words, 3 pages)
+	- Theoretical Orientation Your aim here is to state your basic ideas on the topic.   • First, state the various theoretical approaches taken in your topic. Which one do you propose to use in your research and why? Where, tentatively do you stand on the topic?  • If there are various theories on your topic or in your field, which one(s) will you use in your conceptual framework for your thesis?  • Which terms or trends do you wish to follow up from the literature review?  • Do you have any fresh suggestions of an explanatory, interpretative, or programmatic kind? Ask Yourself . . .  • Which pieces of research seem to have been most successful, the most promising and which less so?  • What are the major lines of criticism that can be levelled at previous work?  • What major omissions, gaps or neglected emphases can be identified?   • Think it Through  • Perhaps the best way to approach this section is to set down your main insights, hypotheses, hunches, or even hopes about your topic.  • In view of past theory and research, and your emerging issues, what are the areas that you expect to have findings?   7. Chapter Outline  8. Expected Bibliography
+	- 9. References   Inayatullah, S. (2005), Questioning the Future: Methods and Tools for Organizational and Societal Transformation, Tamkang University Press, Tamsui. Inayatullah, S. (Ed.) (2004), The Causal Layered Analysis Reader, Tamkang University Press, Tamsui. Inayatullah, S. (2008) Six Pillars: Futures Thinking for Transforming, Foresight, Vol. 10 No. 1, pp.4 – 21. CSIRO Energy Futures Forum, “The Heat is On” Kaspura, A. “Australia’s Energy Future”, Institute of Engineers Australia Australian Bureau of Agriculture and Resource Economics (ABARE), “Energy in Australia 2009” IEA (International Energy Agency) “Energy Policies of IEA Countries: Australia – 2005 Review”,
+- Limits of Research
+- 1.6 Limits of Research  To guide the reader, as well as to clearly distinguish this work from any mistaken idea of lumping it with the plethora of energy “futures” works pieces already available, this section succintly presents the essence of the research. Here is summarised what this research is about, what its not about, what it does and doesn’t cover, and what it will, and will not, do.
+- Not the stockmarket, speculation or trading.
+- 1.6.1 Not the stockmarket, speculation or trading.  It is interesting to note howThis work has nothing directly to do with the speculation of energy commodity prices on the “futures” market. It is concerned with the traditional sense of the word “future” as “a time yet to come”, which carries with it expectations, aspirations, fears, historical inertia, wildcard and outlier events (both foreseen and unforeseeable), cyclic phenomena and the unconscious becoming conscious.   Using critical and transformative futures theory and methodologies applied to gross energy supply, distribution and usage, the over-arching aim is to create more inspiring and more robust energy futures, with a goal being to assist the healing of conflict within the energy domain.
+- Distinct from climate change policy and response.
+- 1.6.2 Distinct from climate change policy and response.   Why “energy” and not “climate change”?  The research focuses on “energy” rather than “climate change”. This is for a number of reasons.  From an initial literature survey, it is the author’s opinion that climate change driven energy research dominates energy discourse. Understandably, climate change presents a grand challenge with far-reaching consequences. However, it is not the sole driver of energy futures. This research intends to explicate that. In fact, it is hypothesized that climate change alone may not be a sufficient or effective driver of energy futures to ultimately address climate change. An inappropriately heavy focus on climate change is a driver of energy futures may indeed limit the efficacy or appeal of energy futures.  The purpose of taking a critical futures approach to the topic of energy is to “open up” the future, rather than reinforce hegemonic views. As a counter-balance, one would hope to see the futures of climate change (as opposed to the geophysical futures of the climate) thoroughly investigated as well, though this will be beyond the scope of this study.  At one level,  primarily because anthropogenic climate change is seen in this research, at one level, as a symptom of an energy problem, and not the underlying problem itself. From the point of view of this research, “responding to climate change” highlights the cause-effect confusion hypothesized in Section 1.2.2.1 rather than responding to the socio-economic energy systems which produced it. By focusing on climate change, other lesser publicized symptoms of the modern industrial energy system may be neglected. Furthermore, The issue of climate change is not completely a subset of energy but there is a strong overlap in favour of energy being the broader issue of concern. aAny response  to climactic changes through mitigation and adaptation will require a change in energy policy, as well as energy to implement changes, responses and solutions.   According to the Intergovernmental Panel on Climate Change (ref?), the leading causes of human induced climate change are results of modern stationary energy generation, transport, agriculture and deforestation practices. While the first two in the list are obvious, agriculture and forestry serve as significant sources of energy, significant users of energy and significant sources and sinks of greenhouse gas emissions. The “food or fuel” debate looms as a crisis point inn an Australian biofuelenergy futures, as do “food miles” and a secure fuel supply for food supply. A result of this research may be to directly include the likes of agriculture and biomass management within the realms of energy policy to capture the full picture of the energy system and thus create better alternative energy futures.  It is also the author’s initial opinion that climate change driven energy research dominates energy discourse. Understandably, it presents a grand challenge with far-reaching consequences. However, it is hypothesized that climate change alone may not be a sufficient driver of strategy to ultimately address climate change. Furthermore, by focusing on climate change, other lesser publicized symptoms of the modern industrial energy system may be neglected. Climate change may be a symptom of modern energy policy and it may be one of many symptoms.  No doubt climate change sits as one of, if not, the major drivers of global and Australian energy futures. However, it is a sub-question of this research whether it sits as an effective driver of energy futures and policy. By taking an open energy futures focus, its theorized that alternative futures open up to include broader possibilities than if climate change were the sole driver. An open energy futures approach would seek address climate change as well as other energy issues, such as poverty and development, peak oil and a carbon based economy, terrorism and nuclear risks. An “energy futures” driven approach with biospheric integrity as a weighty element serves to complement the climate change driven research, enhancing the chances for social and economic prosperity, as well as environmental.
+- Not prediction or forecasting.
+- 1.6.3 Not prediction or forecasting.  Forecasts have been, and will likely continue to be, one of the two dominant futuring efforts in energy and resources. There is no shortage of forecasts and predictions and therefore no need for this research to add to the list, except where the nature of the forecast or prediction may be distinctly novel. It is argued that forecasting is over-emphasised to the detriment of itself energy futures and the method itself, devaluing its very own worth. While energy forecasts can have a useful planning and provocative role, they are also typically inaccurate and unstable. [Ref & Citations]  Excessive reliance on forecasting also devalues the role of agency, resigning our lot to uncontrollable external factors and “hidden hands”. The view is we merely need to know what has already been determined to happen in the future and situate our organiszation most strategically.   Distinct from “foresight” which carries more of a capacity-building connotation, forecasting narrows and closes the future, which is often neither accurate or empowering [use quotes here on limitations of forecasting]. Forecasting undoubtedly does have its value, particularly in its identification of negative business-as-usual trends. The argument here is that it is over-valued and over-exercised.  Rather, this research will look at athe wider spectrum of methods used in energy futuring, encouraging the increased use of those which open up the future and create space for the generation of authentic, empowering alternaives.
+- Suggestive, not prescriptive.
+- 1.6.4 Suggestive, not prescriptive.  This research ultimately aims to offerOffering alternatives rather than answersprescribe pathways. The literature is replete with “solutions” for a sustainable, secure, clean, green, prosperous, cheap, limitless, safe, [insert adjective here] energy future. The language is strong and the arguments are unequivocal, often carrying a sense of intellectual superiority and finality. “My way is the best because…”   This research argues that this very prescriptive approach constitutes part of the problem – the poor ability to compromise, contextualize and co-operate. Rather, this work adopts the idea that a) everyone has, and is, part of the answer;, and b) no one has all of the answer;, and c) the answer, or part thereof, is best generated from within, not provided from without.   Prescription
+- Less concerned with content detail. More concerned with trends, deep patterns, underlying myth and p
+- 1.6.5 Less concerned with content detail. More concerned with trends, deep patterns, underlying myth and process. The details of energy futures, and their surface critique, constitute the feedstock of this work. They are readily available to the reader via the bibliography and there is no need to repeat them.   The aim of this work is to introduce depth and breadth to what might be considered a narrow and shallow discourse. This work will attend to the detail of energy futures to the degree required to ascertain the essential, underlying structures and features, as well as the goals for which they are created. These may differ from the descriptions given by stakeholders themselves.  Alternatively, detail may be focused upon where the energy future expressed is novel or little known. This work hopes to introduce an energy future that is novel in content to every reader in the effort to present a wider range of genuine alternatives.
+- Process determines content
+- 1.6.6 Process determines content With an understanding that the results (content) of investigation and analysis are, to a large degree, determined by the tools used and the procedure followed, this study prioritises examination of the methods employed in creating energy futures, and their inherent assumptions. This is where a focus on detail is more likely to be apparent. “Pay attention to the process, and the results will take care of themselves”, is the adage that is relevant here.
+- Not questioning validity of drivers.
+- 1.6.7 Not questioning validity of drivers.
+- Minimise moralising
+- 1.6.8 Minimise moralising In this work it is the intention to minimize moralising, steer clear of debate over whether climate change due to anthropogenic global warming is real or not; or whether peak oil is a valid phenomenon or not.
+- Will not repeat what is done at length elsewhere in the mainstream energy debate..
+- 1.6.9 Will not repeat what is done at length elsewhere in the mainstream energy debate..  The purpose of this work is to recontextualise, reperspectivise and reframe the energy debate, not repeat and rehash what has gone before.   The intention is to respect all futures, not to question the validity of. However, it is the intention to question their effectiveness in realising their purported objectives.  In particular, it will not enter into   In particular, climate change debate, technology validity debate, financial mechanisms debate etc. It will instead attempt to look at what underlies each of the positions on these energy-related issues.
+- Not Discuss technologies in detail.
+- 1.6.10 Not Discuss technologies in detail.
+- Shining a light on current energy futures
+- 1.6.11 Shining a light on current energy futures.  Mapping energy futures. Uncovering hidden factors that may be powerful forces in directing the world’s energy future.
+- Chapter Overview
+- Expected Bibliography
+- 1.8 Expected Bibliography
+- References
+- 1.9 References   1. Encyclopedia of Energy, Preface 2.  3. Inayatullah, S. (2005), Questioning the Future: Methods and Tools for Organizational and Societal Transformation, Tamkang University Press, Tamsui.  4. Inayatullah, S. (Ed.) (2004), The Causal Layered Analysis Reader, Tamkang University Press, Tamsui.  5. Inayatullah, S. (2008) Six Pillars: Futures Thinking for Transforming, Foresight, Vol. 10 No. 1, pp.4 – 21.  6. CSIRO Energy Futures Forum, “The Heat is On”  7. Kaspura, A. “Australia’s Energy Future”, Institute of Engineers Australia  8. Australian Bureau of Agriculture and Resource Economics (ABARE), “Energy in Australia 2009”  9. IEA (International Energy Agency) “Energy Policies of IEA Countries: Australia – 2005 Review”
+- 02 - Surveying the Energy Panorama
+- Literature review of the context
+- The relevant research literature
+- existing forecasts
+- existing forecasting techniques
+- existing theories about energy development
+- existing theories of technology development and assessment
+- existing theories of appropriate technology use and relation to society
+- dominant models
+- documents and texts
+- journals
+- organizations
+- thinktanks
+- thinkers
+- theories of technology's role in the future
+- existing forecasts and models
+- existing forecasts
+-
+- existing scenarios
+- existing other eg. backcasts, wildcards etc.
+- existing forecasting techniques
+- existing forecasting techniques
+-
+- existing theories about energy development
+- existing theories about energy development
+-
+- existing theories of technology development and assessment
+- existing theories of technology development and assessment
+-
+- existing theories of appropriate technology use and relation to society
+- existing theories of appropriate technology use and relation to society
+-
+- dominant models
+- dominant models
+-
+- documents and texts
+- documents and texts
+-
+- journals
+- journals
+-
+- organizations
+- organizations
+-
+- thinktanks
+- thinktanks
+-
+- thinkers
+- thinkers
+-
+- theories of technology's role in the future
+- theories of technology's role in the future
+- The Present: Current energy macrodata
+- What is so now? Macrodata on supply, demand, consumption, (anything else...?).
+- Problems, Potentials and Perceptions: Views on energy issues and challenges
+- Energy-centred and energy-related crises, as they are conventionally framed. Energy nexus issues. This could result in a Concept Map of issue inter-relationships.
+- Environmental concerns
+- Climate Change
+- Pollution. Smog. Particulates.
+- Energy and water quality
+- Energy Security and Economic Prosperity
+- Reliable supply chain of energy eg. oil crises, gas supply, uranium trade etc.
+- Peak Everything
+- The increased difficulty and expense of obtaining resources; reduced availability
+- Peak oil
+- Peak coal
+- Peak phosphorus
+- How does this relate to energy supply and cycles?
+- Peak rare earth metals
+- Lithium, Neodymium et al. Their growing importance and expected supply bottle necks.
+- Nuclear related risks
+- Nuclear accidents
+- Nuclear waste
+- Storage. Anything else?
+- Nuclear proliferation and war
+- Physical Conflict
+- War over energy resources
+- Terrorism
+- Energy system based terrorism
+- Energy poverty, inequality and development
+- Poor access to energy of many. Subsequent retardation of development.
+- Inefficacy of existing energy drivers!
+- As it stands, energy future drivers are not very effectual, or not effective ENOUGH.
+- Energy and Theories of Civilizational Collapse
+- The energy components of these theories. Energy-centric theories of collapse. Olduvai Gorge Theory. Hirsch report. Rimini protocol. et al.
+- Plans and Proposals: Existing energy futures
+- Survey of global energy policy, strategy and futures. What are the solutions, the pathways, the visions? What are the current energy futures? Be exhaustive. Start with dominant and prominent. Include as fringe as possible.
+- Introduction to initial Energy Futures classification
+- Use existing/conventional categories to classify stakeholder-futures. Discuss this. Traditional battle lines. Discuss criteria for stakeholder selection (because I can't survey all). Representative sample. What taxonomies exist already? Use stakeholders' own language.
+- The Process: Energy futuring methods and techniques
+- What are the methods and techniques used to generate energy futures, proposals and strategies eg. modelling, delphi
+- Modelling
+- Scenarios
+- Backcasting
+- Delphi
+- Visioning
+- other...
+- Part 2 - Critiquing, Deconstructing & Analysing Global Energy Futures
+- The novelty and new discoveries through applications of new tools, new insights (eg. macrohistory, macroenergetics) and new relationships and analogies (to other fields/disciplines)
+- 03 - Mapping Energy Futures 1.0
+- Situating existing energy futures on a variety of new coordinate systems. This gets repeated later after identifying and discovering new dimensions and analysis along these dimensions. Surface mapping. (Deeper contours come later: Section 4)
+- Methodologies of Mapping
+- Introduce mapping methodologies, then apply them.
+- Stakeholders' own objects and framework
+- Futures Triangle
+- Images/aspirations. Pushes/trends/momentum/drivers. Weights/barriers/inertia.
+- Taxonomies of the Future
+- Use existing taxonomies of the future to categorise. E.g. Inayatullah: Predictive-empirical, cultural-interpretive, Critical, Transformative.
+- Six Pillars, Six Questions
+- Inayatullah.
+- Summary Tables
+- Tables summarising and relating futures, publications, stakeholder-representatives, technology mixes, role of tech etc.
+- 04 - Mining and Drilling the Energy Future
+- Deep Futures methods applied to examine underlying features of energy futures.
+- 03 - Mining the Future - Deep Futures 020210
+- PART 2
+- 3 	Mining the Future: Digging deep into Australian energy futures.
+- Literature review.
+- 3.1 	Introduction. What the title is about.
+-
+- 3.2 	Deep Futures Methods. Intro and background to… The results/benefit of applying…
+- 3.2.1 	Genealogy
+- 3.2.2 	Deconstruction
+- 3.2.3 	CLA
+- 3.2.4 	Integral Theory? Spiral dynamics?
+-
+- 3.3 	Genealogy and Survey (Method: Literature Review)
+- 3.3.1 	Energy. Discuss this here rather than in “Energy cycles” chapter so as to take findings in as prep for stakeholder workshops.
+- 3.3.1.1 	As a concept
+- 3.3.1.2 	As a tool ie what was/is it used for?
+- 3.3.2 	“Energy Crisis”
+- 3.3.3 	Genealogy of Australian energy. History and lineage of
+- 3.3.3.1 	Australian energy policy
+- 3.3.3.2 	Australian energy futures (forecasts, visions, images; stated, unstated, implied, unconscious)
+-
+- 3.4 	Deconstruction How closely is this related to CLA?
+- 3.4.1 	“Energy crisis”
+- 3.4.2 	Energy policies and futures, from Chapter 2.
+-
+- 3.5 	CLA
+- 3.5.1 	Energy, as a tool, as a concept
+- 3.5.2 	“Energy Crisis” – what this means and represents, what it looks like
+- 3.5.3 	Forms of Energy eg. Oil/coal/gas, renewables, nuclear, central vs decent, CCS,
+- 3.5.4 	Energy policy mechanisms eg. Energy efficiency, supply v demand, energy descent, free markets
+- 3.5.5 	Energy futuring methods
+-
+- 3.6 	Integral Theory (All levels part of AQAL) / Spiral dynamics
+- 3.6.1 	Verticality of energy policy. Consciousness development view of energy.
+- 3.6.2 	Map stakeholders on this scale. May create an understanding between different “bands”
+-
+- 3.7 	Summary. Tables. Maps. Visuals. For each method.
+-
+-
+- Introduction
+- On the need for depth.
+- Genealogy
+- Foucault?
+- CLA
+- Inayatullah.
+- Genealogy of Energy Futures
+- A history of energy futures? Does this belong in MacroEnergetics section? Foucault
+- Causal Layered Analysis of Energy
+- Inayatullah. Marcus Anthony (China)?
+- Energy as a tool, concept, metaphor.
+- What is "energy"? What is it for?
+- "Energy crisis"
+- What does this mean and represent, and to whom? What are the discourses?
+- Energy concepts and issues
+- Analysis of various energy issues
+- Energy and population growth
+- Energy and economic growth
+- Socio-technical change and energy
+- Energy conservation
+- Energy security
+- Energy independence
+- Energy efficiency
+- Sustainable energy
+- Food vs Fuel
+- Energy descent
+- Sources and Technologies of Energy
+- Fossil fuels
+- Renewables
+- Nuclear
+- Centralised vs Decentralised Energy networks
+- Carbon Capture and Storage
+- Wired networks
+- Energy Futuring Methods
+- CLA of the techniques used to create energy futures
+- Forecasting & Modelling
+- Delphi
+- Scenarios
+- Backcasting
+- Citizens Assembly
+- other...
+- Deep Futures Triangle
+- Can the analysis of earlier sections help derive a deep futures triangle analysis?
+- Situate stakeholders
+- Another visual map?
+- Summary
+- 05 - Enriching the Energy Future
+- Enhancing futures by adding "missing" or beneficial components. PROUT. Integral. Broad Emerging Issues Analysis.
+- 04 - Enriching the Future - Broad horizons
+- 4 	Enriching the Future: Broadening the horizon of Australian energy futures.
+- Literature review.
+- 4.1 	Emerging Issues Analysis, Outliers and Wildcards – Alternative Drivers? Are a sufficient array of these addressed in conventional futures?
+- 4.2 	4-quadrant. Are all 4 quadrants represented?
+- 4.3 	Deep Futures Triangle – Alternative drivers? Can the analysis of Chapter 3 help derive a deep futures triangle, broadening the scope of pulls, pushes and weights?
+- 4.4 	Energy web complexity and feedback loops, issue interaction. Systems/complexity theory? This complex web may not be clear, the non-linear role of energy, and thus linear analysis may not suffice. Interaction of drivers/causes, as well as the compounding of effects.
+- 4.5 	International and global learnings. What has been learned elsewhere?
+- 4.6 	Inter-disciplinary learnings. What has been learned in other fields, eg. Water, non-sci-tech. Marshall plan. Moon race – coherent effort, common purpose??
+- 4.7 	Disowned futures. For each stakeholder-group.
+- 4.8 	Preferred, Possible, Probable, Plausible Futures. Some stakeholders may not have all 4 of these articulated.
+- Emerging Issues Analysis, Outliers & Wildcards
+- Are there emerging issues not considered in existing emerging issues analysis of energy futures?
+- Integral/AQAL analysis of Energy
+- As per CLA. Wilber, Slaughter, Riedy. With Spiral Dynamics
+- A PROUT energy economic system
+- Develop a Prout informed energy future
+- Inter-disciplinary learnings
+- Can other disciplines offer insights for energy futures?
+- Mass-mobilization programs
+- Sputnik & Apollo space races
+- Marshall plan
+- Meiji & post-war Japan, Germany, South Korea
+- Snowy River scheme
+- modern China
+- International and global learnings
+- Unique energy futures. Are energy futures more robust and advanced in particular places in the world? Cuba? Iceland? Bhutan?
+- Disowned futures
+- Explore the disowned futures of each narrative/stakeholder. Elaborate on metaphysics. This could be a way that each future is enriched. This may be part of 6 pillars.
+- Preferred, Possible, Probable, Plausible Futures
+- Some stakeholders may not have all 4 of these articulated. This may be part of 6 pillars.
+- 06 - Energy Waves, Cycles & Flows - Macrohistory of Energy Futures
+- Bigger picture. Biggest picture. Energetic models of society & civilization
+- 07 - Energy Cycles and Flows 020210
+- 6 	Energy Cycles and Flows: Grand patterns of energy history, policy and technology.
+- Anticipation and foresight based on grand patterns of change. Agent independent factors to augment agent’s future.
+- 6.1 	Energetics theory. Energy patterns in history
+- 6.1.1 	Geophysical
+- 6.1.2 	Ecologic
+- 6.1.3 	Human
+- 6.2 	Energy patterns wrt macrohistorical theory; civilizational “success”
+- 6.3 	Discuss thermodynamic laws vs economic laws vs emergence.
+- 6.4 	Physical Power (Energy) and Symbolic Power. Power (W/sec) vs political and economic power.
+- 6.5 	Indicators
+- 6.5.1 	Energy intensity
+- 6.5.2 	Power density
+- 6.5.3 	Surplus energy / EROEI. EROI
+- Thermopolitics: Power in Energy.
+- Political power and physical power. Looking at the relationship of energy management to political machinations
+- Macrohistory of Energy
+- Are there larger scale patterns of energy development over time?
+- Energy transitions
+- Energy and models of social/civilizational change
+- MacroEnergetics
+- Thermoeconomics. Socioenergetics. Can multi-disciplinary theory inform a theory of macroenergetics?
+- General Systems Theory. Ecosystem Energetics.
+- Howard T. Odum. Santa Fe Institute?
+- Thermoeconomics
+- Nicolas Georgescu-Roegen (sp?)
+- Energy and Society. Fred Cottrell
+- Does he/this sit in a bigger school of thought including others? Odum?
+- Energy and development theory
+- Human organism
+- Personal development
+- Historic civilizational development
+- Nomadic hunter-gatherer, agrarian, industrial, informational...
+- Energy and human development indices
+- GDP, HDI, Gross National Happiness etc etc
+- Human Thermodynamics
+- Social metabolism.
+- Analogous Systems
+- Ecosystem energetics et al. Consider global energy industry and futures as a macrocosm of microcosmic scale energy dynamics.
+- Modelling Human society as an isolated energetic ecological sub-system
+- Human society as a sub-system of an open actual energetic ecological system
+- Socio-technical transitions
+- Use this theory to help inform energy transition pathways and actions.
+- Energy Paradigm Leaders for Analysis
+- Nikola Tesla
+- Thomas Edison
+- Viktor Schauberger
+- Walter Russell
+- Buckminster Fuller
+- Steven Greer
+- Howard T. Odum
+- Fred Cottrell
+- and Cutler Cleveland. Energy and Society.
+- Vaclav Smil
+- Hermann Scheer
+- Eric Martinot
+- REN21 and 100% renewables visionary
+- Alexis Pietak
+- Life as Energy. Thermodynamic analogies of living systems. Emergent thermodynamics.
+- Jose Goldemberg
+- Energy, Environment and Development.
+- Herman Josef Wagner
+- Energy and economy, resources.
+- Other Important Thinkers/Researchers
+- Richard Heinberg et al
+- Julian Simon
+- Wilhelm Reich
+- Jeremy Rifkin
+- Marc Jacobson
+- Stanford University. 100% renewables.
+- Limits to Growth group
+- Tim Jackson. Donella Meadows. et al
+- Chris Martenson
+- Crash Course
+- Daniel Yergin
+- Paul Ehrlich & John Holdren
+- The Bet v Julian Simon
+- Tachyon Energy
+- Gabriel Cousens et al
+- William Tiller
+- Psychoenergetic Science
+- Michael Ruppert
+- Collapse, oil, money-energy link
+- Ian Roberts
+- Health, energy, obesity, climate change, oil
+- Pierre Teilhard de Chardin
+- Spiritual energy more important than technical energy advancements
+- Peter Tertzakian
+- Energy obesity. Energy economist.
+- Geert Verbong
+- Energy and socio-technical transitions.
+- David Goldblatt
+- Energy and social sciences. Social or technical change?
+- Henrik Lund
+- Energy modelling for fluctuating 100% renewables. Smart energy systems.
+- Ostwald and his "energism"
+- Waste no energy. Technocracy. Eugenics.
+- Modern commentators
+- Civilizational collapse and energy
+- Jared Diamond
+- Thomas Homer-Dixon
+- EROI of Roman Empire
+- Julian Simon
+- Energy as the Master Resource
+- Eric Zencey
+- (different) Energy as a Master Resource - slideshow. Talks through many thinkers.
+- 07 - Alternative Energies - Fringe & outlier futures
+- Broadening the scope of the energy future. Fringe and outlier futures. New energy. Free energy.
+- 08 - Alternative Energies 020210
+- 8 	Alternative Energies: From Fringe Theory to Plausible Future
+- This is my introductive novelty ie. Introducing fringe to the mainstream audience
+- 8.1 	Introduction. Redefine/reframe “alternative”.
+- 8.2 	Fusion. Summary of fusion scene in Australia. State of play globally.
+- 8.3 	New Energy. A brief introduction, history and cursory summary of the state of play. Commentary on Cold Fusion.
+- 8.4 	Prout Energy Policy. Salient features of Prout energy policy. Intro to Prout.
+- 8.5 	Vibrational Science and Subtle Energies. Other theories eg Edward Teller.
+- 8.6 	Towards a holistic energy science and policy. “Everything is energy”. Attempt to link gross energy management with subtle energy management. Relationship between them. Could it be that one is a subset of the other?
+- 8.7 	Non-dual Inspired Futures. Moving beyond “everything is energy”. Resolving conflict. Win-win futures. Intro to ACIM theory.
+-
+- Introduction
+- Redefine and reframe "alternative energy".
+- A brief history of energy science
+- Definition of energy over time. Developments in conceptual understanding eg. photos to microvita.
+- New Energy
+- An outline of new/free energy. Zero point energy
+- Introduction
+- History
+- LENR aka Cold Fusion
+- Low Energy Nuclear Reactions
+- Tesla
+- Current status
+- Classification of New Energy technologies
+- Key Thinkers and Organisations
+- Blacklight Power
+- Heat from hydrogen
+- Space Energy Access Systems
+- related to Steven Greer and Disclosure Project
+- E-Cat
+- LENR system by Andrea Rossi.
+- Joe Cell
+- Beddini SG
+- Vibrational Science and Subtle Energies
+- William Tiller et al
+- A Prout energy policy.
+- Salient features of Prout energy policy. Introduction to Prout.
+- N-H economy
+- John Fleming. Electrogen hydrofuels
+- Ocean systems
+- OTEC et al.
+- Space-based power systems
+- Energy: mechanics vs metaphor
+- Energy and power. Physical, psychological, metaphorical. Metaphors in energy.
+- Key individuals
+- Scientists and tinkerers prominent in the history of new energy systems
+- Nikola Tesla
+- Nassim Haramein
+- John Wheeler
+- Viktor Schauberger
+- Moray King
+- Tom Bearden
+- Eugene Mallove
+- 08 - Cogeneration, Smart Grids & Decentralized Networks
+- Participatory, collaborative, collective intelligence energy futures. This is an experimental aspect of my research by undertaking fututing workshops. Anticipatory Action Research.
+- 05 - Cogeneration 020210
+- 5 	Smart Grids, Decentralized Networks and Cogeneration: Participatory Anticipatory Futures
+- Stakeholder-lead energy futuring.
+- Use/incorporate my analysis of each stakeholder from Chapters 2, 3, 4 in workshop.
+- Each stakeholder has already outlined a future. This chapter is an attempt to augment that, by the stakeholders themselves, using tools and insights from Chapters 2,3,4.
+-
+- 5.1 	Disowned futures
+- 5.2 	CLA of stakeholder future.
+- 5.3 	CLA of organization
+- 5.4 	Preferred, Possible, Probable, Plausible Futures
+- 5.5 	Anticipatory Action Research
+- 5.6 	Futures workshops
+- 5.7 	Single stakeholder
+- 5.8 	Multiple stakeholder?
+- 5.9 	New, broader range of genuine alternative scenarios from “open”, clear foundations
+- 5.10 	4 quadrant, 4 layer scenarios (Integral CLA?)
+- 5.11 	Power in Energy. (Models of power, control and conflict in energy debate?)
+- 5.11.1 	Engineering metaphors for political power
+- 5.12 	Comparison of futures, before and after workshop.
+- 5.13 	Discussion of effectiveness and barriers.
+- Futures Workshops
+- Literature survey of citizen assembly and grassroots-based collaborative energy futuring
+- What has been done before on this? What has been left out or lacking in these methods?
+- New/ alternative Methodology of energy futures workshops
+- Using results from previous chapters, propose and perform a new methodology of participatory energy futuring.
+- Energy Futures as a Wicked Problem/Social Mess
+- Look at energy issues as a wicked problem. Is this a chapter sub-section or a chapter unto itself?
+- Results and Findings
+- ...from single stakeholder and multiple stakeholder workshops
+- Part 3 - Novel and Refined Global Energy Futures
+- 09 - Generating the Energy Future
+- Unifying the techniques and insights of Part 2 into an updated and expanded toolbox for energy futuring.
+- 10 - Fusion, Fossils and Fire: Uniting features for transformed energy futures
+- My synthesis of data, discovery, theory and technique.
+- 07 - Renewing the Future 020210
+- PART 3
+- 7 	Renewing the Future: Transforming the Present for Novel Futures.
+- This is MY creative/imaginative novelty ie. Creating something new, as opposed to reporting something for the first time eg. Map and macrohistory; or analyzing/measuring something in a new way eg. CLA, Integral etc. ; or discovering/revealing the novelty from others eg. stakeholders
+- 7.1 	Intro. A summary, recombination and collation of Chapters 3,4,5,6. What did we learn?
+- 7.2 	Apply learnings to existing futures.
+- 7.3 	Renewed/enriched scenarios? Additional scenarios? Add to the suite.
+- 7.4 	Augmented futures (fill in the gaps). Missing components to “balance” the future.
+- 7.5 	Suggestions and Offerings
+- 7.5.1 	To Australian energy stakeholders. Where/how they might act/focus.
+- 7.5.2 	To Global Energy Futures
+-
+- Part 4 - Addenda
+- 11 - Bibliography
+- References
+- 12 - Appendices
+- untitled
+- Global Effort - menus and categories
+- includes Webwiki Menus & Structure
+- These writings could be the basis for (with modifications, elaborations and polish as required)
+- 1. PhD admission proposal
+- 2. PhD detailed proposal
+- 3. Journal articles
+- 4. Dissertation chapters
+- 5. Expertise development and conveyance
+- 6. Knowledge base for others (levels of subscription?)
+-
+-
+- This TBX container is laid out from the point of view of the PhD dissertation. The names of the notes do not necessarily reflect the names of the menu items or post titles.
+- The creation and execution of the weblog involves
+- 1. Identifying a post topic to write about: an intro/outline note, an article summary, a data pull (from elsewhere) and comment, an analysis of an article summary, a composition of article summaries, a proposition-claim with supporting references… This could be from a list of existing ideas or questions
+- 2. Write the text in TBX
+- 3. Link the note to existing or future notes
+- 4. Link/tag the note to references, key thinkers/organisations and other attribute-entities
+- 4. Copy-paste/export the TBX text into WP.
+- 5. Create links.
+- 6. Create suitable URL under dominant post taxonomy
+- 7. Tag post for appropriate page appearance and search functionality
+- 8. Check back-links for breakages and 404’s
+- 9. Check post appears under all designated menu and sub-menu options
+-
+- The dominant menu structure is the “Energy Futures” menu item. Within this lies the PhD dissertation structure.
+- About Global Effort
+- Overview of Global Effort
+- Welcome to Global Effort.
+- Global Effort is a platform for exploring Global Energy Futures, Foresight and Transitions.
+- To elaborate slightly on the obvious, it operates at the intersection of:
+- Energy - fossil fuels, renewables, nuclear, as well as exploring some unconventional technologies
+- Futures - scenarios, forecasts, models, roadmaps, pathways, visions etc. (ie. not ‘futures’ as in speculative commodity prices)
+- Foresight - processes, tools, techniques and methods to develop and construct futures
+- Socio-technical transitions - socio-economic shifts in predominant technological systems
+-
+- ROLES & PURPOSE
+- It is hoped that Global Effort will evolve over time to fill multiple roles and serve many purposes. This progression is only broadly linear with multiple phases being undertaken concurrently.
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus.
+- 2. A repository of data relevant to the topics.
+- 3. An atlas of energy futures maps.
+- 4. A community of energy futurists, practitioners and laypeople.
+- 5. A consultancy and think-tank.
+-
+- AIMS & OBJECTIVES
+- The broad aims and objectives are to address some driving questions which should hopefully manifest in a sequence of overlapping cycles.
+- 1. To survey the manifold, disparate energy futures instances (tooltip: the particular propositions put forward for energy futures, as well as their creators, supporters).
+- 2. To map (locate in knowledge space) energy futures.
+- 3. To critically analyse and deconstruct these energy futures.
+- 4. To expand and deepen the discourse around energy futures.
+- 5. Work with stakeholders to make their energy future more robust and useful.
+- Read more about the objectives and purpose.
+-
+- Global Effort also means what it says, literally: to undertake any transition towards a more beneficial energy system will require a global effort; not only global in geography and global in scope. That is to say contributions will be needed from, and for, all parts of the world, all sectors of society, all disciplines of scholarship, all levels of reality, all aspects of self, all moments of the time-line. While I may have a preferred energy future, Global Efforts initial objective is to acknowledge the positions and preferences of each existing energy future.
+-
+-
+- Welcome to Global Effort
+- Global Effort is a platform for exploring Global Energy Futures, Foresight and Transitions. It sets out to evolve into greater capacities over time, though not necessarily in a strictly linear flow.
+- Stage 1
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus. Very early stages of PhD studies at the University of the Sunshine Coast, in Australia. Prospectively titled “Mapping and Questioning Global Energy Futures.” Supervisor(s) to be confirmed. This requires much reading and writing, obviously. The platform of a blog (theoretically) encourages regular writing, structure within/between the writing, invites commentary and feedback, and establishes an on-line presence. Thoughts, ideas, article summaries, interesting learnings and discoveries, book reviews, meta-reflections, an aggregator of news feeds and social media…, all for primarily my own purposes, would be most of the elements at this stage of the platform.
+- 2. A repository of data relevant to the topics. The grist for the PhD mill, all stored in one convenient location. The extra effort of placing it online forces further engagement with the content, and hopefully deeper learning. The data might include macroscopic data on energy supply & demand, a growing catalog of energy futures instances, key thinkers, influencers and organisations, summaries of publications, frameworks and typologies, energy-related theories and more.
+- 3. An introduction to the field of Futures Studies. While people have been thinking about tomorrow since time began, it has only emerged as an academic discipline and formal set of tools in the last 50~60 years. As a set of theories and tools it holds great power beyond mere academia and a basic appreciation can be leveraged for great personal benefit in any field. Global Effort applies theoretical frameworks and methodologies from Futures Studies to energy systems around the world, so it makes sense to have a primer/catalog.
+- Stage 2
+- As a result of the preceding work, Global Effort hopes to develop further.
+- 4. An atlas of energy futures maps and a catalog of debate/argument visualisations. Not maps in terms of geography, geology or weather (as is naturally common when talking about energy resources) but rather locating futures instances (ideas, proposals, visions) and perhaps their elements (actors, technologies, policy mechanisms) along myriad dimensions and axes of the energy futures landscape. As a conventional map uses dimensions such as latitude/longitude, elevation and isobars and such features as colour coding for, say, aridity or population density, the same or similar can be done for futures. Futures instances can be situated along axes determined by using a particular theoretical framework. These futures instances can occupy multiple frameworks, and occupy a different spatial location in that. Global Effort seeks to explore further this intersection of Futures Mapping and Knowledge Cartography for the case of energy futures, to produce a panorama for navigation into the future.
+- 5. A community of like-minded energy futurists, practitioners and laypeople interested in learning more, sharing insights and developing ideas and practices. While Global Effort is starting out as a one-man endeavour, its goal is not to remain that way. Its aim is to invite and encourage contributions (with due acknowledgement) from other interested parties, whether that be in the form of opinion pieces, debates (which shall be summarised visually for easy digestion)
+- 5. A consultancy and think-tank of experts and professionals engaging with the community at large through publications, workshops, lectures and debates. The goal is not to remain theoretical and/or isolated, locked in the ivory tower. That is the easy part. The real challenge comes from building bridges, deconstructing walls, digging for ore and generating energy with, within and between stakeholders. It involves taking energy futures out of hard sciences and mechanistic interaction and introducing soft skills and a human dimension.
+- Read why all this might be important here.
+- For further insight, contrast this with What Global Effort is NOT.
+- Read further about who is behind Global Effort.
+- How
+- Community
+- Seeking help
+-
+- Limits: What GE is NOT
+- We can further explain what GE is, or attempts to be, by contrasting it with what it is not, or attempts not to be.
+- Global Effort is NOT:
+- 1. A prescription for our energy future. It does not attempt to say this is what we should or must do. No ‘my way or the highway.’ Instead, Global Effort is more like a street directory: what are the possible pathways to get from energy present to energy future X. It collates all the prescriptions and suggestions that others have made, and looks more closely at them using lenses that they themselves most likely did not use. It is hypothesised that this analysis may improve each energy future in some way, and possibly even generate a set of alternative pathways for consideration.
+- 2. A wiki of techno-economic energy ‘solutions’. Neither is Global Effort a wiki containing isolated articles about technologies or economic instruments which could or should be used to remedy or rectify the energy ‘crisis’ as defined by the proponent. What ‘solutions’ are proposed depends on what the ‘problem’ is. Global Effort will survey definitions of the energy crisis and their subsequently suggested solutions.
+- Rather, an aim of Global Effort is to analyse particular energy futures using various approaches and situate them in the larger energy futures discourse. Rather than just record what is out there, Global Effort shall classify, group, compare-contrast, distill and map, such that genuinely alternative futures are identified.
+- Wikis tend to be quite ‘flat’ in their knowledge structure. Yes, they may go into detail but not so much depth in terms of a critical philosophical framework. Conventional wiki informational nodes are connected in a flatland horizontal structure via simple hypertext links. Global Effort attempts to situate the same energy futures information within hierarchical and 3-dimensional (or more) knowledge frameworks via ‘vertical’ relational linking. This way, energy futures can be more critically investigated for such things as underlying assumptions and premises and over-arching ambitions. Traditionally, wiki info is presented in isolation, out of context. Global Effort, in contrast, situates this information in context, in the bigger narrative that is being told, explicitly or implicitly.
+- 3. Technologically or economically focused. Most proposals centre around debates over technology choices and economic policy instruments. These are no doubt fundamentally important, however Global Effort takes the view that perhaps an over-emphasis on this approach is part of the very problem they are trying to solve. There are a wider and deeper array of factors to consider, and their denial may perpetuate or, at best, merely postpone problems.
+- 4. A first-order data source. Similar to the above, Global Effort does not intend to store data just to be a database. Much excellent work is already done on such things as energy supply and demand, climate forecasts, energy poverty etc. There is no need to have yet another blog presenting these. Instead, Global Effort will pull data from these authoritative, reliable sources to compare and contrast competing visions and claims. It will present data to support or contest identified energy futures and their arguments. Naturally, all data sources are referenced.
+- 5. A soapbox for rants, sophisticated or not-so-subtle, for or against a particular ‘conventional’ position on energy. It is not a community to gather for or against climate ‘alarmists’, climate ‘deniers’, peak oil ‘debunkers’, peak oil ‘fearmongerers’, renewables ‘dreamers’, fossil fuel ‘cavemen’… All these futures positions will be under the microscope. Global Effort does not purport to be unbiased or impartial - positions will be taken and stances stated. However, it will most likely be along lines that are novel and unconventional, as a result of research and analysis.
+- Global Effort is unique in some ways, contrasting with some similar projects.
+-
+- Topics and Features
+- Obviously the overall subject of Global Effort is global energy futures. That is, what does the future look like for the world’s energy systems, and what do we want it to look like. In doing so we’ll deal with a variety of topics, some of which are expected, others not so obvious.
+-
+- {table format in html/wp} Headings: Obvious topics; Not-so-obvious topics
+- Energy model forecasts; modelling assumptions, implicit socio-economic structures; historical analysis of energy forecasting accuracy
+- Drivers of energy futures: climate change, energy security, technology development, energy poverty; socio-economic growth limitations imposed by technological choices and R&D resource allocation, macrohistorical trends of development; collective unconscious drives towards self-destruction;
+- Energy sources & technologies: fossil fuels - traditional and advanced, renewables…; low energy thermonuclear reactions, thorium, wireless energy transmission,
+- Energy futuring methods: modelling, forecasts, scenarios, delphi; causal layered analysis, futures triangle,
+- Thinkers, tinkerers, organisations, stakeholders: IEA, World Bank, ACA, Shell, Edison ; UCS,
+- Energy transitions
+- The ‘dark’ side of green: renewable-energy powered soldiers, drones, AI, hacking; EV traffic jams; hydro damming effects, rare-earth metal mining pollution, solar/wind tax, centralised renewables,
+-
+- Driving Questions
+- An Overview of Driving Questions
+- Global Effort derives out of some central questions which trigger some further, downstream questions. It centres around energy, of course, but also serves as an introduction and primer for Futures Studies.
+- What are the world’s energy futures? That is, what do the world’s energy systems look like in the future? What are stakeholders proposing, envisioning, forecasting, openly or secretly fearful of? What energy futures dominate the discourse? What are fringe? What are probable, plausible and possible energy futures?
+- What are the world’s futures given these energy systems? Energy is so integral and universal that we cannot separate the energy system from social structures powered by it.
+- Why might we want alternative energy futures? That is, alternative “energy futures” as well as “alternative energy” futures. What are the drivers, the rationales, the agendas? Our objectives can determine our means.
+- How are these particular energy futures arrived at? What tools, theories and frameworks are applied? What approaches are over-used, improperly used, neglected? What is their record of success, accuracy or helpfulness?
+- Can alternative energy futures be generated? What knowledge cartographies exist to map the current discourse and therefore identify new terrains, short cuts, “edges of the world”? Will use of certain analytical approaches identify deeper similarities and differences, thus making novelty possible? How are energy futures currently categorised? Are there typologies and taxonomies of (energy) futures which can assist in understanding? Are there outliers and wild cards which no one is really talking about…yet?
+- Global Effort explores the futures of energy but also uses energy to explore the field of futures and foresight. Therefore general questions around futures are also investigated, such as:
+- What is the difference between futures, strategy and policy? How do they inter-relate?
+- What are deep, critical, transformative futures, as opposed to shallow, predictive futures?
+- What futures methodologies exits? What are traditional and common? What are novel and innovative?
+-
+- These are the tip of the iceberg. As with any investigative endeavour, new questions are generated as answers are discovered.
+-
+-
+- Purpose, Roles & Rationale
+-
+-
+- It is hoped that Global Effort will evolve over time to fill multiple roles and serve many purposes. This progression is only broadly linear with multiple phases in parallel, developed to different stage.
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus. Thoughts, ideas, article summaries, interesting learnings and discoveries, book reviews, meta-reflections. The purpose and rationale of Adam’s PhD research is discussed in more detail here.
+- 2. A repository of data relevant to the topics. This would include macroscopic data on energy supply & demand etc but also a catalog of energy futures instances, key thinkers, influencers and organisations, summaries of publications, frameworks and typologies, energy-related theories and more.
+- 3. An atlas of energy futures maps; not maps in terms of geography but rather locating futures instances and actors along myriad dimensions and axes of the energy futures landscape. The dimensions of these maps and the “co-ordinates” of the energy futures instances will begin to emerge out of our research.
+- 4. A community of like-minded energy futurists, practitioners and laypeople interested in learning more, sharing insights and developing ideas and practices.
+- 5. A consultancy and think-tank of experts and professionals engaging with the community at large through publications, workshops, lectures and debates.
+- Purpose and Rationale of Global Effort
+- It is hoped that Global Effort will evolve over time to fill multiple roles and serve many purposes. This progression is only broadly linear with multiple phases in parallel, developed to different stage.
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus. Thoughts, ideas, article summaries, interesting learnings and discoveries, book reviews, meta-reflections. The purpose and rationale of Adam’s PhD research is discussed in more detail here.
+- 2. A repository of data relevant to the topics. This would include macroscopic data on energy supply & demand etc but also a catalog of energy futures instances, key thinkers, influencers and organisations, summaries of publications, frameworks and typologies, energy-related theories and more.
+- 3. An atlas of energy futures maps; not maps in terms of geography but rather locating futures instances and actors along myriad dimensions and axes of the energy futures landscape. The dimensions of these maps and the “co-ordinates” of the energy futures instances will begin to emerge out of our research.
+- 4. A community of like-minded energy futurists, practitioners and laypeople interested in learning more, sharing insights and developing ideas and practices.
+- 5. A consultancy and think-tank of experts and professionals engaging with the community at large through publications, workshops, lectures and debates.
+- Purpose and Rationale of PhD Research
+- The purpose of my (Adam’s) PhD research is to set out to answer the central driving questions. Summarised again here, they are:
+- What are the world’s energy futures?
+- Are they really different? If so, how so?
+- How are these energy futures created?
+- Are alternative energy futures possible? Can novel analytical tools and theoretical frameworks be used to generate and incorporate genuine alternatives?
+- Furthermore, my research intends to introduce approaches not only from Futures Studies but Knowledge Cartography to map, cognitively and visually, the energy futures landscape. Just as geographical features are mapped for navigation, and geological strata is mapped for resource identification, the energy futures landscape warrants mapping to navigate the dangerous shoals and locate the high-yield ore.
+- Just like any PhD research, its rationale is tied to its innovation and novelty.
+- A plethora of energy futures exist giving an impression of an abundance of choice. However, nowhere (to my knowledge) have these futures been a) collated to get an accurate figure or representation of the number or proposals, and the stakeholders behind them and b) classified into schema which actually identifies the real options available and who is promoting their adoption, and why.
+- There exists no work, to my knowledge, which applies critical futures studies tools such as Causal Layered Analysis to deepen the analysis of these energy futures to illuminate underlying features. It is hypothesised that what may appear distinct on the surface is rather similar and repetitive when the underbelly is exposed.
+- The importance of all this arises from the significant modern consequences of our energy systems. Climate change, peak oil, energy poverty, nuclear contamination, energy “sieging” (think Russia’s control of European gas sources), oil-derived conflict, nuclear weapons programs, environmental pollution and resource-based terrorism; the litany of potentially grave social, economic and environmental consequences of energy system design and use is long and recalcitrant.
+- Energy futures are critical in and of themselves, being a traditional, universal need in the form of food, labour and transport as well as more recent services such as communication, lighting, heating-cooling and so on. However, furthermore, energy futures represent our source of peace and prosperity, security or scarcity as energy drives our biophysical ecosystems and socio-economic engines. The question is to what are we driven? Where do we drive ourselves? Environmental collapse? Social conflict? Self-destruction? Or genuine prosperity, security and peace? Energy is central to all this. Energy futures symbolise our future dreams in present plans and preparations.
+- Aims, Objectives, Expected Outcomes
+- The broad aims and objectives are to address some driving questions which should hopefully manifest in a sequence of overlapping cycles.
+- Aims as an intellectual research exercise
+- 1. To survey the manifold, disparate energy futures instances (tooltip: the particular propositions put forward for energy futures, as well as their creators, supporters). This also includes energy future techniques and practices ie. how energy futures are constructed. Who is proposing what, how are they arriving at their preferred pathways and plausible visions, and why?
+- 2. To classify and group these myriad energy futures. To make the energy futures discourse more manageable by simplification into types and categories yet maintain the required distinctions. When we boil it down what can we really choose from at the moment?
+- 3. To critically analyse and deconstruct these energy futures. Apply some novel analytical frameworks to uncover elements within the energy future instance which are assumed, opaque and unarticulated. What are these energy futures implying without saying it, what are the meaning without signifying it?
+- 4. To map energy futures. That is, using a variety of theoretical frameworks and non-geospatial axes, situate these energy futures in knowledge space. How do energy futures (individual instances as well as types) compare to others and relate to each other? What dimensions of analysis could be used?
+- 5. To expand the discourse and spectrum of discussion and debate around energy futures. Introduce and encourage levels of depth and disregarded alternatives. What discussion is avoided? What is repeated ad-nauseum with no breakthrough? What proposals are ignored, ridiculed or even suppressed? What lies at or beyond the limits of the maps?
+- 6. Work with stakeholders to make their energy future more robust and useful. What additions, deletions or modifications could help stakeholders’ preferred energy futures become more widely or more quickly adopted? Upon reflection, do stakeholders still want their previously preferred futures?
+- 7. To generate novel, genuinely alternative energy futures. This requires rigorously identifying and analysing what exists already. Is something genuinely novel possible? Would it be worthwhile? Attractive? How might this be done?
+- As of Global Effort as a platform
+- Web platform
+- Global Effort hopes to incorporate web technologies to communicate its discoveries and ideas. This may include
+- Searchable catalogue of energy futures instances and types with their properties and attributes.
+- Argument maps and debate graphs of energy-related issues and futures thinking.
+- Collaborative knowledge generation and dissemination.
+- Visualization of energy futures. Graphically locating energy futures in geometrical space, as well as non-verbally representing energy futures.
+- Community building around deep energy futures. High-quality moderated discussion forum for novel analyses of energy futures topics unavailable elsewhere. Cultivating energy literacy, futures literacy and reflective practice is the goal here.
+-
+- Social and business platform
+- More broadly, Global Effort sees itself as an advocate rather than an overt activist. Its not designed to advocate for a particular energy future, even though contributors may hold personal preferences and visions. Rather, its aimed at facilitating energy futures that work for more in the face of some substantial inertia and forceful counter-weights. Our research and ideas may be used by activists from any side, but does not imply that we necessarily support their position, goals or methods.
+- As a burgeoning business entity, Global Effort consults with organisations that seek to make change and exert influence in energy futures directions, both externally and internal to the organisation. Confronting blind spots, easing internal resistance, increasing internal buy-in, navigating paradigm shift, mapping capacity development will be features of our work along with trend analysis, scenario development and future-proofing.
+- Aims of Global Effort as an intellectual research exercise
+- 1. To survey the manifold, disparate energy futures instances (tooltip: the particular propositions put forward for energy futures, as well as their creators, supporters). This also includes energy future techniques and practices ie. how energy futures are constructed. Who is proposing what, how are they arriving at their preferred pathways and plausible visions, and why?
+- 2. To classify and group these myriad energy futures. To make the energy futures discourse more manageable by simplification into types and categories yet maintain the required distinctions. When we boil it down what can we really choose from at the moment?
+- 3. To critically analyse and deconstruct these energy futures. Apply some novel analytical frameworks to uncover elements within the energy future instance which are assumed, opaque and unarticulated. What are these energy futures implying without saying it, what are the meaning without signifying it?
+- 4. To map energy futures. That is, using a variety of theoretical frameworks and non-geospatial axes, situate these energy futures in knowledge space. How do energy futures (individual instances as well as types) compare to others and relate to each other? What dimensions of analysis could be used?
+- 5. To expand the discourse and spectrum of discussion and debate around energy futures. Introduce and encourage levels of depth and disregarded alternatives. What discussion is avoided? What is repeated ad-nauseum with no breakthrough? What proposals are ignored, ridiculed or even suppressed? What lies at or beyond the limits of the maps?
+- 6. Work with stakeholders to make their energy future more robust and useful. What additions, deletions or modifications could help stakeholders’ preferred energy futures become more widely or more quickly adopted? Upon reflection, do stakeholders still want their previously preferred futures?
+- 7. To generate novel, genuinely alternative energy futures. This requires rigorously identifying and analysing what exists already. Is something genuinely novel possible? Would it be worthwhile? Attractive? How might this be done?
+- Innovation & Novelty; Uniqueness
+- How is it different?
+- Information visualisation
+-
+- Theoretical Orientation and Hypotheses
+- Theoretical Orientation
+-
+- Your aim here is to state your basic ideas on the topic.
+- First, state the various theoretical approaches taken in your topic. Which one do you propose to use in your research and why? Where, tentatively do you stand on the topic?   If there are various theories on your topic or in your field, which one(s) will you use in your conceptual framework for your thesis?   Which terms or trends do you wish to follow up from the literature review?   Do you have any fresh suggestions of an explanatory, interpretative, or programmatic kind?
+-
+- Ask Yourself . . .   Which pieces of research seem to have been most successful, the most promising and which less so?   What are the major lines of criticism that can be levelled at previous work?   What major omissions, gaps or neglected emphases can be identified?   Think it Through  Perhaps the best way to approach this section is to set down your main insights, hypotheses, hunches, or even hopes about your topic.
+-
+- In view of past theory and research, and your emerging issues, what are the areas that you expect to have findings?
+- Overview of Hypotheses & Position Statement
+- Theoretical Frameworks & Methodology
+- Theoretical Orientation and Hypotheses
+-
+- Theoretical Orientation
+- Your aim here is to state your basic ideas on the topic.
+- First, state the various theoretical approaches taken in your topic. Which one do you propose to use in your research and why? Where, tentatively do you stand on the topic?   If there are various theories on your topic or in your field, which one(s) will you use in your conceptual framework for your thesis?   Which terms or trends do you wish to follow up from the literature review?   Do you have any fresh suggestions of an explanatory, interpretative, or programmatic kind?
+-
+- Ask Yourself . . .   Which pieces of research seem to have been most successful, the most promising and which less so?   What are the major lines of criticism that can be levelled at previous work?   What major omissions, gaps or neglected emphases can be identified?   Think it Through  Perhaps the best way to approach this section is to set down your main insights, hypotheses, hunches, or even hopes about your topic.
+-
+- In view of past theory and research, and your emerging issues, what are the areas that you expect to have findings?
+- Overview of Theoretical Frameworks & Methodology
+- Contribute
+- Energy Futures
+- Part I. Assessing the Energy Present
+- 01 - Illuminating the Energy Future
+- More or less a research proposal. This is a summary of an envisaged and hypothetical flow and final product, in advance. A sales pitch, of sorts.
+-
+- This is more academically styled and more detailed the Overview/About/Welcome
+-
+- HOWEVER, there is much overlap. Be sure to review what is already written elsewhere, such as in Welcome/Overview/About.
+-
+-
+- Title of the Research Project
+- up to 50 words
+- Mapping and Questioning Global Energy Futures
+- Introduction
+- Introduction  This chapter will provide an outline of:  Research topic and driving research questions Importance and significance of the research Background to the topic Aims and objectives Theory and Methodology Limits of research Chapter outline
+- Global Energy Futures. Not financial futures.
+- This research deals with global energy futures. That is, the plans, proposals, trends, images and visions of energy systems in the future that are held, created and debated around the world. This is not to be confused with the speculative trading of energy commodities in financial markets based on future, predicted prices.
+- Interpretations of "Alternative Energy Futures"
+- “Alternative Energy” Futures (Futures of Alternative Energy)
+- vs
+- Alternative “Energy Futures”
+- vs
+- Energy of/for alternative futures
+- Vs
+- Alternative speculations on energy commodity prices
+- Vs
+- Speculations on alternative energy-sourced prices
+-
+-
+-
+- Streams of thought behind alternative energy futures
+-
+- Defense – more efficient ships, less fueling, more effective defence forces
+-
+- Investing in renewable energy & energy efficiency in order to retain economic competitiveness and advantage; in order to retain position as leading global economic power.
+-
+-
+-
+- Not just forecasts and scenarios
+- When considering “futures” we may consider, but not be limited to, commonly known ideas as trends, forecasting, scenarios, wild cards and outliers, expert prediction, computer modelling and many others. This research will include these well-known representations of the future, as well as introduce and embrace many others. There is an emphasis on depth, criticality, fringe data and problematising energy futures as well as energy futuring methodology, thus calling on novel analytical futures tools.
+-
+- An array of suggested pathways already exist
+- An array of suggested pathways and scenarios already exist for what the world’s energy system will look like in the future. Packages of steps, strategies, methods and technologies are proposed by numerous stakeholders. These various permutations are created to realize the stakeholders’ preferred vision of the world; and how and why society should  source and supply electricity and fuel, and for what purpose.
+-
+-
+-
+-
+-
+-
+- Competing visions
+- These competing visions are the subject of clash, conflict, debate, protest, vilification, ridicule and much fear. They are the objects of huge investment, financial, energetic and otherwise. They are also the idols of much hope and and promise.
+- Energy system visions are encased in broader images of society.
+- Energy system visions are encased in broader images of society.
+- Seeing how fundamentally energy technology and energy availability shapes life, this work on energy futures must include the broader images of future human civilisation employing such systems. Furthermore, this research looks at the process and methods involved in the generation of these energy futures.
+- The Future of Energy Futures
+- The Future of Energy Futures
+- Where have “Energy Futures” been in the past?
+- Where are they now? ie. What are they? What do they do? What do they aspire to?
+- Where could they go? What could they be? What could they incorporate, include, embody?
+-
+- An array of approaches to energy futures also already exists.
+- Research Questions - dissertation
+- This burgeoning of stakeholders and interest groups, and the rapidly increasing complexity and importance of debate and discussion, begs the following research questions be addressed.
+- What are the world's energy futures?
+- Is this more accurately stated as "What are the world's main, well-known energy futures?" ? Or does it include all?
+- What are the different ways the world views and values energy issues, the "energy crisis" and energy progress?
+- What are the world's responses to these challenges?
+- What is the structure of these energy futures?
+- What components do they consist of?
+- What are the barriers to each non-dominant future being realised?
+- What is stopping them from becoming dominant? Resistance? Represession?
+- What is the broader societal and civilizational future that each energy future serves, implies, assumes, favours, fosters...?
+- How do energy futures relate to economic, political, environmental, social, legal et al futures?
+- What is the worldview and model of the life-universe that each energy future implies?
+- Where does energy ultimately come from? What is it for?
+- What is the role and concept that each future ascribes to energy?
+- Macroscopic flow analysis of energy.
+- What differentiates each energy future?
+- Are they genuinely different? If so, how different, and how are they different?
+- Are taxonomies, typologies, ontologies and cartographies of energy futures possible?
+- How comprehensive and rigorous are these energy futures?
+- How does each future frame technology, its role, its importance, its development, its innovation, its purpose?
+- That is, are intangible tools consider "technology"? Inter-personal, mental, futures, psycho-emotional, spiritual etc.
+- What is the history of the world's energy futures?
+- How have energy futures changed over history?
+- How has the view of the future of energy changed over time?
+- Are there lessons to learn from the history of energy futures?
+- What is the role of history in energy futures?
+- What is the role of the future in energy history?
+- How are energy futures created or arrived at?
+- Energy futuring methods, techniques, assumptions, predispositions, biases, myths..
+- Are alternative energy futures possible?
+- Are there other energy futures to consider? Could there be other energy futures to create? Genuine alternatives, that is. First, we need to group superficially similar futures by traits that are deeper and broader than usual analysis.
+- What would need to happen, or be different, in order to have alternative energy futures?
+- How could 'possible' alternative energy futures become 'plausible' and 'probable'?
+- Research Questions - from elsewhere, unite with above
+- Energy governance??
+- What are the world's energy futures?
+- What are the world's probable energy futures?
+- What are the world's plausible energy futures?
+- Are there genuinely alternative energy futures?
+- If so, how are they different?
+- What are the world's possible energy futures?
+- What are the different ways the world sees the future of energy?
+- What are the different purposes the world ascribes to energy?
+- What is energy for?
+- How do different groups answer this question?
+- Research Questions - Note cards
+- I should answer each and every one of these through the course of my research.
+- What is a new/alternative proces & toolbox to create better energy futures, implement better energy systems and travel better energy pathways using better energy strategies?
+- Why do we want alternative energy futures?
+- What are the reasons for needing alternative energy futures?
+- Why do I want to know what the world's energy futures are?
+- Why do I want to transform the world's energy systems?
+- What are the methods and tools currently used to categorize and distinguish energy futures?
+- How do energy futures compare and contrast?
+- How are energy futures currently categorized?
+- What schema?
+- What toools?
+- What are the existing current maps of energy futures?
+- What are the current axes and/or indices & measurement scales?
+- How were the world's energy futures, strategies and policies arrived at?
+- What is their history?
+- What is their source?
+- What are their pathways of evolution & development?
+- What do I want to do with the new alternative maps of the world's energy futures?
+- What are existing typologies and taxonomies of the future?
+- Of energy futures, specifically?
+- What is the theoretical framework through whoich i am approaching this research?
+- What is the lens through which I am viewing this problem/question?
+- What are the types of components of existing energy futures?
+- How are scenarios created?
+- What are the procedures?
+- What are the content and the process?
+- What are scenarios?
+- Why are they useful?
+- What are the benefits?
+- What are the limitations?
+- What are the types of scenarios?
+- What are the typologies of scenarios?
+- What is critical futures?
+- What is transformative futures?
+- What is CLA?
+- Why is it useful?
+- What are its benefits?
+- What is integral futures?
+- What is 4-quadrant/AQAL?
+- Why is it useful?
+- What are the benefits?
+- What are the limitations?
+- What is anticipatory action learning?
+- Why is it useful?
+- What are the benefits?
+- What are the limitations?
+- How do we create alternatives to the current existing energy futures?
+- What methods & tools do we use?
+- What are some fringe global energy futures?
+- What are existing authentic alternative global energy futures?
+- What are the world's energy futures?
+- Why do we need alternative energy futures?
+- Why do WE want them?
+- Why do I want them?
+- Why do we need new ways of creating alternative energy futures?
+- What do I want to do with the current maps of the world's energy futures?
+- What can I do?
+- What should I do?
+- What do I hope or expect the maps to produce?
+- What do I want them to tell me?
+- What do current maps of the world's energy futures tell me?
+- What do they not say?
+- Why should we use or develop new and alternative mapping methods, tools, axes and systems
+- What are the advantages of alternative mapping schema?
+- What do maps produce?
+- What do maps tell us?
+- What do maps not tell us?
+- What is the value of a map?
+- Why map?
+- Why should I/we map?
+- What could be new or alternative axes/dimensions of energy futures maps?
+- Can I make (a) map(s) of the world's energy futures?
+- Can I make multiple/many maps?
+- Using varying axes/units/co-ordinates?
+- How are energy futures currently created?
+- What are the methods and tools used now?
+- What was used in the past?
+- What are the advantages of methods currently used to categorise, describe & separate energy futures from each other?
+- Why are these tools currently used to categorise energy futures?
+- How do I differentiate between energy futures?
+- method?
+- Categories?
+- What data sources have been used before?
+- How do I decide what the data sources are?
+- What are my critieria?
+- Where do I find these energy futures?
+- What are the data sources?
+- How are futures different to policy or strategy?
+- What are the relationships?
+- What are futures?
+- What are energy futures?
+- Why do I want to know what the world's energy futures are?
+- Context. What are the main issues and challenges?
+- 1.3 Context. What are the main issues and challenges?
+- Inefficacy of drivers
+- How climate change, peak oil, energy war, energy poverty, nuclear threat...are not great drivers of preferred energy futures.
+-
+- One, they are “negatives” ie. they are structured around avoiding pain.
+-
+- Secondly, they are not working, or at least not working well, as they are employed or communicated up till now.
+- Energy futures: content and process
+- What is the state of global energy futures?
+-
+- Make an extensive list of articles with references. Refer to particular methodologies and their limitation of application
+-
+-
+- Crossroads of Crises
+- At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterised by the harnessing, exchange and use of energy. Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Agriculture, metabolism, mobility, heating and cooling, lighting, weather, materials and their working, tools and their powering, thought... All are energetic processes.
+-
+- It therefore may not be a surprise to learn, then, that at the gross, global level, oil is the single most traded commodity in the world. (Ref?) Petroleum companies comprise 5 of the 10 biggest companies in the world. (ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)
+-
+- Given the ubiquity of energy, the problems of energy could be considered a potential meta-crisis. Our energy systems touch on, symbolise, incorporate, cause, and are caused by, a spectrum of inter-related issues. The occurrence of a single pathological issue calls for remedy. The convergence of all of them shouts for transformation and healing. Energy futures may present itself as one lens through which to observe all these issues in an integrated fashion, and one tool through which to simultaneously touch them all.
+-
+- [A paragraph on each phenomena, highlighting the  relationship to energy emphasise forecast effects (forecast by its proponents)
+-
+- Statistics and authoritative comments
+- Climate change
+- The issue of climate change dominates the energy arena these days.
+-
+- Pollution – mining and emissions
+-
+- Cheap coal in the developing world vs global climate change agreement
+-
+- Nuclear energy: waste, war, proliferation
+-
+- Peak oil may have already occurred.   is the peaking of oil production, which signifies a point at which resources become significantly more difficult to access, and more expensive. This occurs with all natural resources, particularly
+-
+- According to some, may be another factor which compounds the disruption of climate change, although peak oil and peak coal
+-
+- Peak Oil
+-
+- Hydrocarbon/scarce resource energy economy
+-
+- Energetic basis of economy.
+-
+- Possible collapse.
+-
+- Peak coal
+- Pollution – mining and emissions
+-
+- Energy Poverty
+-
+- Food vs fuel biofuels debate
+-
+- Nuclear energy: waste, war, proliferation
+-
+- Developing world using fossil fuels vs global climate change agreement
+-
+- Economic development vs energy descent
+-
+- Models, images and myths of development
+-
+- Materialist consumption – uses of energy
+-
+- Role of technology in society
+-
+- Energy consumption vs happiness index
+-
+- Energy conflict, refugees
+-
+- Energetic basis of economy.
+-
+- Possible collapse. The “nature of the debate” crisis – nasty, personal, hateful…particularly around climate change
+-
+- Socio-cultural?? Disconnection?
+-
+- Food vs fuel
+-
+- Space mining.
+- Space solar stations.
+- Property rights.
+- Colonization of space.?
+-
+- Evolutionary energetics – evolution of social systems, increasing energy throughput
+-
+- Land and property rights – indigenous, local communities
+-
+- Climate justice
+-
+- International governance and trade structures – climate change, oil
+-
+- Technology availability – intellectual property, transfer
+-
+- Encapsulating and permeating all these energy dilemmas is the conflict within and between each domain.
+-
+- No level or sphere is left out: from international wars to dining room verbal violence.
+-
+- Energy and power – the capacity to release energy, is at the heart of much conflict, while conflict and struggle is impossible without it.
+-
+- There is the conflict around the validity and accuracy of the above claims and data. Is climate change due anthropogenic actually occurring? If so, is it really caused by humans? And even if that is so, the degree, extent and rate is hotly debated. Is ‘peakism’ alarmism? Examples of conflict beyond the definition of ‘debate’ might include ‘Climate-gate’ and its ensuing inquiries, responses to ‘An Inconventient Truth’, the promise of tar sands, shale gas and coal-to-liquids to alleviate oil scarcity, assurances over the safety of nuclear power, or the ability of renewables to provide baseload power. Each are denied, fiercely. Each are advocated, passionately.
+-
+- Then there is conflict over the solution strategy, for whichever valid drivers and prioritised challenges. Technologies compete within a free market economic system for market share. Some may argue this is simply healthy competition of a free capitalist market, yet others may argue extensive subsidies prop up an inefficient hegemony. Energy-economic development models too vie for supremacy.  Examples of this might include public demonstrations against the Jabiluka mine in Australia, NIMBYism around nuclear facilities or wind turbines, as well as the rejection of solar power in Kenya http://www.scidev.net/en/climate-change-and-energy/most-kenyans-say-no-to-cleaner-energy-study-finds.html?utm_source=link&utm_medium=rss&utm_campaign=en_climatechangeandenergy or remote Guatemalan villages. Worlds, and worldviews, collide.
+-
+- There is then, of course, the ultimate extensions of the foregoing conflicts - the bloodshed and hardship arising from our current energy systems. Cost of war over energy – financial cost, energetic cost, energetic goal
+-
+- Locations of energy conflicts – Iraq, Venezuela, Bolivia, Nigeria, Russia – Ukraine gas cut-off,   Demonstrations – ANWR, Jabiluka,
+- Slavery
+-
+- USS Cole bombing off Aden; guarding of energy carriers by US military
+- China Three Gorges dam
+- Enron corruption
+- Energy conflict, geopolitics  and refugees
+-
+- The “nature of the debate” crisis – nasty, personal, hateful…particularly around climate change
+- Skepticism, denial and spruiking – climate change, peak oil, nuclear, ideas of econ dev,
+-
+- Energy is life. It is essential to all systems. At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterized by the acquisition, harnessing and use of energy.
+-
+- Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Food, metabolism, mobility, heating and cooling, lighting, weather, materials and their working, tools and their powering, thought... All are energetic processes.
+-
+- Energy in its broadest scientific sense versus its quasi-spiritual sense versus energy in its business, economic, political or “everyday” sense.  Oil is the single most traded commodity in the world. (Ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)  Energy can be considered a is a meta-crisis, meta-problem.
+-
+- A convergence of crises. Economics Environment Peace Development  Size of energy industry
+-
+- Ubiquitousness/universality of energy
+-
+- So, in an effort to ensure what most of us want – a peaceful, prosperous life – a future energy system which facilitates peace and prosperity is fundamental. Similarly, in choosing where to act in an effort to influence the world and society, transforming energy policy stands out as a point of extreme leverage. Energy policy stands as a cause of, and simultaneously, a solution to, humanity’s challenges. Energy policy can allow for more leisure time, improve food supply, control ambient atmosphere and comfort, illuminate places of learning, electrify technologies of healing, growth and entertainment, and enable long-distance communication and exploration of the frontiers of humanity.  Or not.
+-
+- Energy policy can also mobilize oppressors, destabilize atmosphere, pollute, foster illness and disease, confine wealth and power and retard social development. Which path is travelled is strongly influenced by energy policy as much as conversely energy policy is influenced by which course is chosen.
+-
+- The quality and quantity of energy, as determined by energy policy, is a grand factor in human social development. While energy may or may not be a driver of development, there is certainly a correlation between energy consumption and standards of living.[ref, stats, diagram]
+-
+- Uncertainty and fears grows in the present changing climate (atmospheric, financial and political). To alleviate suffering and promote prosperity, now and in the future, and to address the myriad, complex problems around energy, alternative energy futures must be created which capture the hearts and minds of more and more people. These futures must be broader, go deeper and be more inclusive than any existing energy futures presently are.
+-
+- At a micro-level, energy is intrinsic to all systems
+- At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterised by the harnessing, exchange and use of energy. Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Agriculture, metabolism, mobility, heating and cooling, lighting, weather, materials and their working, tools and their powering, thought... All are energetic processes.
+-
+- It therefore may not be a surprise to learn, then, that at the gross, global level, oil is the single most traded commodity in the world
+- It therefore may not be a surprise to learn, then, that at the gross, global level, oil is the single most traded commodity in the world. (Ref?) Petroleum companies comprise 5 of the 10 biggest companies in the world. (ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)
+-
+- Given the ubiquity of energy, the problems of energy could be considered a potential meta-crisis
+- Given the ubiquity of energy, the problems of energy could be considered a potential meta-crisis. Our energy systems touch on, symbolise, incorporate, cause, and are caused by, a spectrum of inter-related issues. The occurrence of a single pathological issue calls for remedy. The convergence of all of them shouts for transformation and healing. Energy futures may present itself as one lens through which to observe all these issues in an integrated fashion, and one tool through which to simultaneously touch them all.
+-
+- [A paragraph on each phenomena, highlighting the  relationship to energy emphasise forecast effects (forecast by its proponents)
+- [A paragraph on each phenomena, highlighting the  relationship to energy emphasise forecast effects (forecast by its proponents)
+-
+- Statistics and authoritative comments
+- Statistics and authoritative comments
+-
+- Climate change
+- The issue of climate change dominates the energy arena these days.
+-
+- Pollution – mining and emissions
+- Pollution – mining and emissions
+-
+- Cheap coal in the developing world vs global climate change agreement
+- Cheap coal in the developing world vs global climate change agreement
+-
+- Nuclear energy: waste, war, proliferation
+- Nuclear energy: waste, war, proliferation
+-
+- Peak oil may have already occurred
+- Peak oil may have already occurred.   is the peaking of oil production, which signifies a point at which resources become significantly more difficult to access, and more expensive. This occurs with all natural resources, particularly
+-
+- Peak coal
+- Peak coal
+-
+- According to some, may be another factor which compounds the disruption of climate change, although peak oil and peak coal
+- According to some, may be another factor which compounds the disruption of climate change, although peak oil and peak coal
+-
+- Hydrocarbon/scarce resource energy economy
+- Hydrocarbon/scarce resource energy economy
+-
+- Energetic basis of economy
+- Energetic basis of economy.
+-
+- Possible collapse
+- Possible collapse.
+-
+- Energy Poverty
+- Energy Poverty
+-
+- Food vs fuel biofuels debate
+- Food vs fuel biofuels debate
+-
+- Developing world using fossil fuels vs global climate change agreement
+- Developing world using fossil fuels vs global climate change agreement
+-
+- Economic development vs energy descent
+- Economic development vs energy descent
+-
+- Models, images and myths of development
+- Models, images and myths of development
+-
+- Materialist consumption – uses of energy
+- Materialist consumption – uses of energy
+-
+- Role of technology in society
+- Role of technology in society
+-
+- Energy consumption vs happiness index
+- Energy consumption vs happiness index
+-
+- Energy conflict, refugees
+- Energy conflict, refugees
+-
+- Energetic basis of economy
+- Energetic basis of economy.
+-
+- Socio-cultural
+- Socio-cultural?? Disconnection?
+-
+- Food vs fuel
+- Food vs fuel
+-
+- Space mining
+- Space mining.
+-
+- Space solar stations
+- Space solar stations.
+-
+- Property rights
+- Property rights.
+-
+- Colonization of space
+- Colonization of space.?
+-
+- Evolutionary energetics – evolution of social systems, increasing energy throughput
+- Evolutionary energetics – evolution of social systems, increasing energy throughput
+-
+- Land and property rights – indigenous, local communities
+- Land and property rights – indigenous, local communities
+-
+- Climate justice
+- Climate justice
+-
+- International governance and trade structures – climate change, oil
+- International governance and trade structures – climate change, oil
+-
+- Technology availability – intellectual property, transfer
+- Technology availability – intellectual property, transfer
+-
+- Encapsulating and permeating all these energy dilemmas is the conflict within and between each domain
+- Encapsulating and permeating all these energy dilemmas is the conflict within and between each domain.
+-
+- The “nature of the debate” crisis
+- The “nature of the debate” crisis – nasty, personal, hateful…particularly around climate change
+-
+- No level or sphere is left out: from international wars to dining room verbal violence
+- No level or sphere is left out: from international wars to dining room verbal violence.
+-
+- Energy and power – the capacity to release energy, is at the heart of much conflict, while conflict and struggle is impossible without it
+- Energy and power – the capacity to release energy, is at the heart of much conflict, while conflict and struggle is impossible without it.
+-
+- There is the conflict around the validity and accuracy of the above claims and data
+- There is the conflict around the validity and accuracy of the above claims and data. Is climate change due anthropogenic actually occurring? If so, is it really caused by humans? And even if that is so, the degree, extent and rate is hotly debated. Is ‘peakism’ alarmism? Examples of conflict beyond the definition of ‘debate’ might include ‘Climate-gate’ and its ensuing inquiries, responses to ‘An Inconventient Truth’, the promise of tar sands, shale gas and coal-to-liquids to alleviate oil scarcity, assurances over the safety of nuclear power, or the ability of renewables to provide baseload power. Each are denied, fiercely. Each are advocated, passionately.
+-
+- Then there is conflict over the solution strategy, for whichever valid drivers and prioritised challenges
+- Then there is conflict over the solution strategy, for whichever valid drivers and prioritised challenges. Technologies compete within a free market economic system for market share. Some may argue this is simply healthy competition of a free capitalist market, yet others may argue extensive subsidies prop up an inefficient hegemony. Energy-economic development models too vie for supremacy.  Examples of this might include public demonstrations against the Jabiluka mine in Australia, NIMBYism around nuclear facilities or wind turbines, as well as the rejection of solar power in Kenya http://www.scidev.net/en/climate-change-and-energy/most-kenyans-say-no-to-cleaner-energy-study-finds.html?utm_source=link&utm_medium=rss&utm_campaign=en_climatechangeandenergy or remote Guatemalan villages. Worlds, and worldviews, collide.
+-
+- There is then, of course, the ultimate extensions of the foregoing conflicts - the bloodshed and hardship arising from our current energy systems
+- There is then, of course, the ultimate extensions of the foregoing conflicts - the bloodshed and hardship arising from our current energy systems. Cost of war over energy – financial cost, energetic cost, energetic goal
+-
+- Locations of energy conflicts – Iraq, Venezuela, Bolivia, Nigeria, Russia – Ukraine gas cut-off,   Demonstrations – ANWR, Jabiluka,
+- Locations of energy conflicts – Iraq, Venezuela, Bolivia, Nigeria, Russia – Ukraine gas cut-off,   Demonstrations – ANWR, Jabiluka,
+-
+- Slavery
+- Slavery
+-
+- USS Cole bombing off Aden; guarding of energy carriers by US military
+- USS Cole bombing off Aden; guarding of energy carriers by US military
+-
+- Enron corruption
+- Enron corruption
+-
+- Energy conflict, geopolitics  and refugees
+- Energy conflict, geopolitics  and refugees
+-
+- Skepticism, denial and spruiking – climate change, peak oil, nuclear, ideas of econ dev,
+- Skepticism, denial and spruiking – climate change, peak oil, nuclear, ideas of econ dev,
+-
+- Energy is life
+- Energy is life. It is essential to all systems. At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterized by the acquisition, harnessing and use of energy.
+-
+- Energy is central
+- Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Food, metabolism, mobility, heating and cooling, lighting, weather, materials and their working, tools and their powering, thought... All are energetic processes.
+-
+- Energy in its broadest scientific sense versus its quasi-spiritual sense versus energy in its business, economic, political or “everyday” sense
+- Energy in its broadest scientific sense versus its quasi-spiritual sense versus energy in its business, economic, political or “everyday” sense.  Oil is the single most traded commodity in the world. (Ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)  Energy can be considered a is a meta-crisis, meta-problem.
+-
+- A convergence of crises
+- A convergence of crises. Economics Environment Peace Development  Size of energy industry
+-
+- Ubiquitousness/universality of energy
+- Ubiquitousness/universality of energy
+-
+- So, in an effort to ensure what most of us want – a peaceful, prosperous life – a future energy system which facilitates peace and prosperity is fundamental
+- So, in an effort to ensure what most of us want – a peaceful, prosperous life – a future energy system which facilitates peace and prosperity is fundamental. Similarly, in choosing where to act in an effort to influence the world and society, transforming energy policy stands out as a point of extreme leverage. Energy policy stands as a cause of, and simultaneously, a solution to, humanity’s challenges. Energy policy can allow for more leisure time, improve food supply, control ambient atmosphere and comfort, illuminate places of learning, electrify technologies of healing, growth and entertainment, and enable long-distance communication and exploration of the frontiers of humanity.  Or not.
+-
+- Energy policy can also mobilize oppressors, destabilize atmosphere, pollute, foster illness and disease, confine wealth and power and retard social development
+- Energy policy can also mobilize oppressors, destabilize atmosphere, pollute, foster illness and disease, confine wealth and power and retard social development. Which path is travelled is strongly influenced by energy policy as much as conversely energy policy is influenced by which course is chosen.
+-
+- The quality and quantity of energy, as determined by energy policy, is a grand factor in human social development
+- The quality and quantity of energy, as determined by energy policy and guided by energy futures, is a grand factor in human social development. While energy may or may not be a driver of development, there is certainly a correlation between energy consumption and standards of living.[ref, stats, diagram]
+-
+- Uncertainty and fears grows in the present changing climate (atmospheric, financial and political)
+- Uncertainty and fears grows in the present changing climate (atmospheric, financial and political). To alleviate suffering and promote prosperity, now and in the future, and to address the myriad, complex problems around energy, alternative energy futures must be created which capture the hearts and minds of more and more people. These futures must be broader, go deeper and be more inclusive than any existing energy futures presently are.
+-
+- Wicked Problem/Social Mess -nature of issue
+- Complexity
+- Gravity
+- Energy futuring
+- What is the current state of global energy futuring?
+-
+- An initial survey of literature suggests that futures work in the energy field is extensive but of a relatively narrow scope.  Forecasting, modelling, prediction and scenarios. Delphi Emerging Issues Analysis  Back-casting  Quantitative  Scenario-making
+- Hardly a day goes by without an energy-related item appearing in the media
+- Hardly a day goes by without an energy-related item appearing in the media. Even a narrow internet search of mainstream media will provide a proliferation of titles dealing with energy related news. The issues are diverse and the viewpoints varied and conflicting:
+- These statements highlight various points:
+- These statements highlight various points:
+- The challenges around energy are no longer local, short-term nor confined to techno-economics.
+- The challenges around energy are no longer local, short-term nor confined to techno-economics. Energy problems are now openly global, long-term, deeply embedded within society, multi-faceted, trans-disciplinary and potentially catastrophic or revolutionary.
+-
+- 1. The challenges around energy are no longer local (or even regional), short-term nor confined to techno-economics. Energy problems are now openly global, long-term, deeply embedded within society, multi-faceted, trans-disciplinary and potentially catastrophic or revolutionary.
+- A wide spectrum of world and life-views, opinions, priorities are represented within energy policies and strategies
+- A wide spectrum of world and life-views, opinions, priorities are represented within energy policies and strategies. Competing energy visions and solution pathways battle for supremacy consuming much human, financial, material, environmental and time resource in the conflict.
+-
+- 2. A wide spectrum of world and life-views, opinions, priorities and values are represented within energy policies and strategies. Competing energy visions and solution pathways battle for supremacy consuming much human, financial, material, environmental and time resource in the conflict.
+- New approaches in formulating energy policy are warranted.
+- New approaches in formulating energy policy are warranted. Traditional scientific, economic and political approaches have provided much historically but have also brought on the challenges we face. Strong environmental approaches are very well intentioned but do not seem to be very effective either.
+-
+- 3. New approaches in formulating energy policy are warranted. Traditional scientific, economic and political approaches have provided much historically but have also brought overseen the emergence of on the challenges we face. Strong environmental approaches may be very well intentioned, and have also achieved much, but do not seem to be very effective either, still lacking penetration as well.
+- Our energy systems and policies are tied to our identities and relationships.
+- Our energy systems and policies are tied to our identities and relationships. Transforming energy policy and transforming personal, social and civilizational identity go hand-in-hand.
+-
+- 4. Our energy systems and policies are tied to our identities and relationships. Transforming energy policy goes hand-in-hand with transforming personal, social and civilizational structures and identity.  It is proposed that no existing energy futures satisfactorily address the complexity of the energy crisis or represent the richness of stakeholders. This is, in part because no adequate energy futuring toolbox exists to facilitate this. By taking a critical futures approach and employing deep, participatory, transformative futures methodologies, this work aims to make a contribution in addressing this.
+- The world is in conflict and much of this is tied to energy
+- The world is in conflict and much of this is tied to energy. Uncertainty and fears grows in the present changing climate (atmospheric, financial and political). To alleviate suffering and promote prosperity, now and in the future, and to address the myriad, complex problems around energy, alternative energy futures must be created which capture the hearts and minds of more and more people. These futures must be broader, go deeper and be more inclusive than any existing  energy futures presently are.
+- Significance of the research
+- The significance and innovation of the research 7. How the proposed research is new and different from previous research in the area (up to 250 words)
+- A note on originality
+- Originality  Your work will make a worthwhile contribution to the field if it fulfils one or more of the following:
+-
+- it provides evidence to support or disprove a concept, theory, or model;
+- it contributes new data/information, new or improved solution, analysis procedure or a new improved research methodology;
+- it results in a new or improved concept, theory or model.
+-
+- Reasons for Research
+- Why is this research important? Why it should be done?
+- Universality.
+- Why energy? -1
+- Energy is life. It is essential to all systems. At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterized by the acquisition, harnessing and use of energy. Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Food, metabolism, mobility, heating, lighting, weather, materials and their working, tools and their powering... all are energized. The musician in the hall, the orator in the square, the weaver on the loom, the farmer in the field, the homeless beggar on the street and the yogi in the cave – all are harnessing, utilizing, exchanging and transforming energy of various forms in various ways.
+- Energy is integral and universal. So is time.
+- Energy is integral and universal. Energy issues affect everyone. Energy futures reach everyone.
+- Why energy?
+- ‘The history of human culture can be viewed as the progressive development of new energy sources and their associated conversion technologies.’ [Encyclopedia of Energy, preface]
+- Why energy?-1
+- Energy is foundational, essential, universal and central to life and society. The fundamental importance of energy, and the massive, complex feedback effects of its acquisition and use, make it a worthy focus of pivotal inquiry. Life is characterized by various forms of energy exchange. Much of history’s social, economic and technological development could be described as the attempts to increase or improve the harnessing of energy sources and redistribution of energy outputs. Human existence has always been an exercise in the sourcing, organization and application of energies. It will continue to be so in the future.
+- Why energy?-2
+- Yet a review of much media and academic literature questions and speculates about the longevity, quality and nature of human civilization as a result of poor energy system management. Warnings of numerous threats of various kinds are issued by all sides of the debate. Energy is at the forefront of discussion, popularly and academically, perhaps as it has never been before. The discourse abounds via such complex issues as:   Climate change and climate justice  Biospheric integrity and pollution  Peak oil and resource availability  Population explosion  Nuclear waste, storage and accidents  Nuclear arms proliferation  Resource war and Terrorism  Fuel and electricity poverty and inequity  Economic recession, depression and development  Legal rights – land, property, visual, inter-generational etc.
+- The human economic system can possibly be viewed as an energetic system.
+- The human economic system can possibly be viewed as an energetic system.
+- Energy futures unite the role and place of technology in society with the status nature holds for civilization.
+- Energy futures unite the role and history of technology in society, with the status of nature for civilization.
+- Centrality
+- Energy enables and underpins the whole economy.
+- Energy enables and underpins the whole economy.
+- Energy and Futures overlap. It is the subtle energy of inspirational futures (goals, dreams, aspirations) or warning futures (predictions, forecasts) that drive and determine gross energy futures.
+- Why energy? -2
+- Oil is the single most traded commodity in the world. (Ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)
+- Gravity
+- The influences of the energy system are now wide-spread in scope, large-scale in size, far-reaching in time, and deep in effect.
+- The consequences of the energy system are widespread, large-scale and far-reaching in time.
+- Why energy?-3
+- The appearance of just one of these global energy-related problems, each having potentially catastrophic near-term and long-term consequences, warrants a thorough investigation of the world’s energy planning, policy-making and strategizing. Their simultaneous congruence necessitates it. Every inhabitant on earth is affected by one or more of these energy-related issues. Moreover, with a globalized economy and meteorologcal system, the potential impacts of adverse effects will not be locally contained. With the importance of safe, secure, clean, and prosperous and efficient global energy systems paramount as never before, it is imperative that energy policy and policy-making be critically examined, understood and improved where possible. Those parties heavily invested in business-as-usual trajectories remain to benefit from improved energy futuring as nascent global trends and drivers emerge, and stakeholder power structures evolve.
+- The massive size of the Energy Industry.
+- Energy industry is the world’s (first, second, third) largest? Furthermore, it enables and underpins the whole economy.
+- Complexity
+- Energy issues are complex and cognitively overwhelming.
+- Problems around energy seem disparate, disjointed, disconnected and/or too complex and overwhelming. Maybe there is a way to unite them, simplify them and tackle them together through alternative energy futures.
+- Complex nature of energy discourse require tool which can handle complexity
+- Complex system – requires multidisciplinary and transdisciplinary approach. Futures offers this.
+- Creativity vs Passivity
+- An experiment in creative futures rather than reactive futures.
+- Foresight is creative. Prediction is receptive/reactive.
+- Assist stakeholders in enhancing their preferred energy futures
+- through the use of additional tools,
+- To explore the possibility of generating a genuinely alternative energy future?
+- Positivity vs Negativity
+- Authenticity
+- Authentic alternative futures
+- Navigability
+- Paradigm shift and culture change is underway.
+- Renewables seem increasingly inevitable. The only question remains when and how? Futures Studies is a good way to ease and smooth the transition, and minimize discontinuity.
+-
+- Paradigm shift and culture change is underway.   Futures Studies is a good way to ease and smooth the transition, and minimize discontinuity.  Ensure shift is deep and thorough by challenging deep assumptions  If no deep analysis, run the risk of surface forms changing without deeper structures changing
+- Dimensionality. Directionality
+- Why “energy” and not “climate change”?
+- Why “energy” and not “climate change”?
+- Why “energy” and not “climate change”?-1
+- The research focuses on “energy” rather than “climate change” primarily because anthropogenic climate change is seen, at one level, as a symptom of an energy problem, and not the underlying problem itself. The issue of climate change is not completely a subset of energy but there is a strong overlap in favour of energy being the broader issue of concern. Any response to climactic changes through mitigation and adaptation will require a change in energy policy, as well as energy to implement changes, responses and solutions.
+- Why “energy” and not “climate change”?-2
+- According to the Intergovernmental Panel on Climate Change (ref?), the leading causes of human induced climate change are results of modern stationary energy generation, transport, agriculture and deforestation practices. While the first two in the list are obvious, agriculture and forestry serve as significant sources of energy, significant users of energy and significant sources and sinks of emissions. The food or fuel debate looms as a crisis point in an Australian biofuel future, as do “food miles” and a secure fuel supply. A result of this research may be to include the likes of agriculture and biomass management in the realms of energy policy to capture the full picture of the energy system and thus create better alternative energy futures.
+- Why “energy” and not “climate change”?-3
+- It is also the author’s initial opinion that climate change driven energy research dominates energy discourse. Understandably, it presents a grand challenge with far-reaching consequences. However, it is hypothesized that climate change alone may not be a sufficient driver of strategy to ultimately address climate change. Furthermore, by focusing on climate change, other lesser publicized symptoms of the modern industrial energy system may be neglected. Climate change may be a symptom of modern energy policy and it may be one of many symptoms.
+- Why “energy” and not “climate change”?-4
+- No doubt climate change sits as one of, if not, the major drivers of global and Australian energy futures. However, it is a sub-question of this research whether it sits as an effective driver of energy futures and policy. By taking an open energy futures focus, its theorized that alternative futures open up to include broader possibilities than if climate change were the sole driver. An open energy futures approach would seek address climate change as well as other energy issues, such as poverty and development, peak oil and a carbon based economy, terrorism and nuclear risks. An “energy futures” driven approach with biospheric integrity as a weighty element serves to complement the climate change driven research, enhancing the chances for social and economic prosperity, as well as environmental.
+- A feeling that underlying causes of problems are not being addressed, perhaps because they are not visible.
+- Of course, challenges are dealt with very well to a certain depth
+- Climate change, emissions reductions and trading, and carbon tax focus dominates energy discussion and futures.
+- Are there other, bigger, less visible drivers?
+- Why energy?
+- Why energy?
+- Why energy?-4
+- Indeed, cursory internet searches and literature reviews reveal that myriad proposals, representing a wide spectrum of energy visions futures, already exist to meet the challenges around energy. In fact this has been the case for much of the 20th century with all manner of forecasts and strategies announced. [ref] Yet, energy forecasts are historically unreliable and unhelpful and are considered by some as “no more than fairy tales”. [ref Smil] Similarly, grand alternative energy schemes such as nuclear, renewables or space-based systems have largely failed to fruit as evangelized. [ref]
+- Why energy?-5
+- In the 1950’s and 1960’s nuclear energy was regarded by many as the panacea but the “electricity too cheap to meter” never eventuated. The 1970’s saw the emergence of the term “energy crisis”, experienced by some during the “unforeseen” OPEC oil embargoes. Renewable energy technologies were lauded as the road to energy independence but have failed to significantly penetrate thus far. In the almost 20 years since the 1992 World Earth Summit, the Kyoto Protocol and COP-15 Copenhagen meeting of 2009 have both been well-intentioned but ineffectual in the eyes of many, failing to produce the change they hoped for. Throughout the history of energy, the exaggerations are rife and the under-performance standard. Such recurring disappointments of strategies and proposals suggest a critical review of energy futures is overdue and an examination of the “energy crisis” and its responses is needed if this pattern is not to continue.
+- Why energy?-6
+- Climate change mitigation by carbon emission reduction, energy security and economic growth are currently seen as the dominant competing and oft-conflicting foci of energy discussion. However they are not equally, nor universally, held to be the primary challenges. The “energy crisis” is seen in different ways by many stakeholders, each according differing degrees of importance to the many sectors, actors and effects. Similar perspectives can spawn opposed responses while, conversely, opposing perspectives may promote similar means. The differences often escalate to make the arena quite ferocious and move from being “debate” to a “battle” for supremacy, often in the guise of “sustainability” or “growth”.
+- Poverty
+- Lack of previous work.
+- Incorporation of thermodynamic analogues and models of economics and politics appears sparse
+- Incorporation of thermodynamic analogues and models of economics and politics appears lacking
+- Limits of effectiveness of Energy policy has been effective to a limit. Limits of effectiveness of traditional approaches have been made apparent.
+- Energy policy has been effective to a limit. Limits of effectiveness of traditional approaches have been made apparent.
+- Lack of previous work
+- Lack of previous work   As briefly mentioned in section 1.2.1.2, an initial review of some energy futures literature indicates much futures work has been done though it is to be of a relatively limited nature. The limitations refer to the typologies of futures produced, determined by the methodologies employed. These are commonly forecasts and scenarios produced via economic, technological and/or climatic modelling. The associated visions, foundational assumptions or worldviews that are inherent in forecasts and scenarios are rarely rigorously analysed, developed or even articulated and acknowledged.  Similarly, particular energy issues are often treated in isolation based on the preferences of the stakeholder, or purely out of innocent ignorance or inability. Rarely are more than two or three drivers of energy futures situated together for comparison, contrast and combined futuring. Energy futuring has focused on certain things  Technology pathways and development Salvation by technology Forecasts and scenarios Received/passive futures Favoured structure, rather than agency Climate change Oil supply  No map exists Mention CSIRO, “The Heat is On” as the closest known to the author   Energy work hasn’t used futures much Transformative futures work hasn’t looked at energy much  Much questioning of solutions. But is there much questioning of the problem?  Agency has been lost! Dominated by forecasts!!  (Summary of Section 1.2.1) For a safe, secure, clean, prosperous, efficient energy system to become a reality begin to work now and in the future, we must first identify the energy futures we hold in the present. No adequate map currently exists of global energy futures locating the full array of stakeholders’ visions and strategies, as well as the drivers of their energy futures, that doesn’t simplistically reduce the richness of perspectives and array of alternatives. The growing database of models, forecasts and scenarios remain to be critiqued, using a toolbox of deep, transformative futures methodologies that have not been applied to energy as a whole, offering genuinely alternative pathways.  The need for the evolution of energy futuring methods mirrors developments around energy resources, technology and policy. We must identify the spectrum of futures that exist, aEnergy resources exist in various forms in various locations. This variety calls for an assortment of technologies to discover, evaluate, exploit, distribute and utilise them. The nature and knowledge of these sources, forms, tools and models has expanded and evolved over history. There is widespread difference of opinion on energy challenges and solutions but two of the things that are generally agreed upon are a) that there should be a greater mix of energy sources – a portfolio of solutions, and b) that we must use energy more wisely.  And so it must be with energy futures and energy futuring. This work hopes to identify and locate a broader pool of energy futures resources and evaluate them using previously untried methods. Subsequently, innovative techniques need be employed, in addition to traditional methods, to utilize new futures resources while extracting novel alternative product from conventional resources. A portfolio of genuinely alternative energy futures generated from a toolbox of energy futuring instruments creates the possibility for more robust, wiser energy policy.
+- Deep (in theory) AND broad (in possibility) analysis of energy futures appears sparse.
+- Deep analysis of energy futures appears lacking.
+-
+- CLA et al.
+- Scenarios future work has been done in energy field but nothing deeper. The scenarios and scenario creation process need questioning. Same for Delphi and modelling.
+- Hostility. Fragility.
+- The nature of the energy debate is one of major conflict.
+- Energy debate characterized by conflict and uncertainty. Passions are strong. Current futures invoke fear. Some shortcomings of hard, narrow science are being revealed in a traditionally hard science issue
+- For the world
+- For the world
+- For the world-1
+- Physical energy (chemical, electrical, mechanical etc) is central to physical existence. Human development has, in part, been facilitated by increasingly intense energy usage. Alternatively, human development has seen increasingly intense energy usage result. Either way, the world is presently in a situation where the nature of this energy usage to this present time has potentially jeopardized and/or retarded further human development, as its been traditionally viewed. There is a strong link between social unrest and the quality of access to material resources, including energy. The threats posed by this and climate change as a result of our dominant energy systems and the mentalities behind them are present on a scale of previously unencountered extensiveness and degrees of severity.
+- For the world-2
+- Therefore, brought into the spotlight are the questions a) “What constitutes human development”? and b) “What energy systems can best facilitate that?” These questions are not new. Alone, each question has been asked at length. Together, in the same analysis, the asking has been less frequent. To a depth where conventional, orthodox notions of each have been transcended, I think these questions have rarely been combined.
+- For the world-3
+- In a nutshell, I see the forum of energy as a way of illustrating the fundamental spiritual nature of material resource issues. Neglect of spiritual considerations in the addressing of energy related matters will result in short-term fixes at best, often resulting in longer-term malaise. Addressing energy, and other material resource issues, provides the forum for spiritual, and thus fundamental human, development.
+- For the world-4
+- As an Australian, the choice of Australia as my sample is expected. However, as a primary energy producer with a society that is very energy intensive in a rapidly changing world, the importance of well-crafted energy policy and foresight can't be overstated. Furthermore, in contrast to many other primary energy producers and energy intensive nations of the world, Australia has the material wealth, levels of well-being and sufficient social development to successfully navigate into a better energy future, and perhaps blaze a trail for others to emulate.
+- Personal interest.
+- Why is it important to me? What are my own personal motivations for doing this?
+- I want to become proficient in futures techniques.
+- I see futures techniques and methods as being useful and attractive in my evolving career.
+- I want to understand the world better.
+- I see energy as a useful metaphor or link to understand diverse aspects of the world.
+- I want to feel like I'm making a difference.
+- Energy is universal and fundamental, as is technology. Having an influence in these fields may help the world somewhat.
+- For me
+- For me The significance of this research question is many-fold. I am interested in practically realizing far-reaching positive change in the world. Physical energy is a central and universal issue of fundamental importance and thus provides a forum for this. My academic background is in engineering so it seems an appropriate choice of issue.  However, In pursuing my engineering education the focus of my questioning moved from a technical “how?” to a social “what for?”. I had been involved in military-oriented research and this shift prompted a desire to a) move to a benign, peace-oriented field, and b) approach it from less of a purely technical perspective and more from a socio-economic point of view. I was drawn to the issues of sustainable energy policy for the chance to make a contribution to peace working more directly with the human aspect than the gadgetry. A big influence in this research was my meeting Dr Brian O'Leary. He is a former NASA astrophysicist-astronaut who now campaigns for “new energy”. “New energy” is a broad term covering technical devices and the science around them which test the limits of scientific orthodoxy. He, amongst others, has documented devices around the world which seem to generate heat and/or electricity in a way that contravenes scientific “law”. The most prominent of these might be the “cold fusion” episode. According to Dr O'Leary and a number of other reputable scholars, there exist these technologies, admittedly in a rudimentary stage, awaiting further development for application to alleviate many of the world's energy-related problems. However, as might be expected, there is resistance to their acceptance from various factions.  I am open to the possibilities of “new energy” having been given persuasive arguments and credible evidence, despite the existence of charlatans and fraudsters within the field. I would like to see these technologies introduced on a wide-scale in the world and so I am interested in addressing the barriers to their acceptance and promulgation, and thus the barriers to any “better” energy systems generally.  (b)
+- Personal interest to the author
+- Unites technology, economics, politics, psychology, anthropology etc.
+- Personal interest
+- Personal interest to the author.  Novelty. A cursory survey of literature reveals energy futures are already routinely addressed via economic, mathematic, engineering, geologic, ecologic and similar techno-economic and system science approaches. To the best of the author’s knowledge, there remains the need to adequately complement these useful techniques with approaches beyond hard science methods and mindsets.
+- Originality
+- Why alternative energy futures?
+- Why alternative energy futures?  Draw from current literature ie. Reasons for their research  Distance from current literature ie. Suggest what they may lack  Current energy futures generally consist of the following:  1. Business-as-usual scenarios 2. Collapse scenarios 3.  4.  5.  6. Exclusive, separatist (greens)
+- Innovation and Novelty
+- Innovation and Novelty
+- hypotheses, insights and intuitions
+- Originality-1
+- My hypothesis:
+- Originality-2
+- Economics nor technological lack not the real barriers. The issues are fundamentally  psycho-spiritual. Imagination and belief.
+- Originality-3
+- To implement plans to realizing better futures, our psycho-spiritual nature must be  consciously and directly engaged. We must do our spiritual homework.
+- Hypotheses
+- Hypotheses
+- The concept of “energy crisis” needs illumination.
+- The concept of  “energy crisis” needs illumination.   The “energy crisis” is defined, perceived and seen in many different ways by many different groups. The energy challenge is framed differently as drivers and goals are prioritised differently. Thesese differing perceptionsences can cause inefficiencies and conflict but can also be optimised and leveraged for mutual benefitresolved. Understanding how different stakeholder define the “energy crisis”, and how it has evolved over time, is paramount to achieve this.
+- The “energy “crisis” is not fundamentally a crisis of energy
+- The “energy “crisis” is not fundamentally a crisis of energy layered and complex., per se.   The cause of energy problem can shift up and down a ladder of energy level hierarchy. Gross -> subtle  At its core, its not aEnergy challenges are not purely a problem of: i) Energy supply (inadequate, insufficient, unreliable) ii) Energy demand (excessive) iii) Energy efficiency iv) Technology availability v) Economic unattractiveness cost or financial lack vi) Social disruption or environmental devastation (symptom) vii) Insufficient political will  These phenomena are certainly challenges and addressing them is essential. However, it is hypothesised that seeds of the crisis in energy also lies in:  i) The foundational ideas underlying energy thinking, such as in (science, economics, politics, planning, culture and behaviour; ii) An unwillingness and resistance in exploring these conceptual underpinnings.  This is an exercise in exploring problem re-definition, organizational transformation, and inter-stakeholder teamrelationship -building, conflict resolution, creating shared common visions and working towards them togetherunified action as much as it has been about techno-economic innovation and political maneuvering, yet it is the latter two which have been priveliged and over-emphasised..
+- The effectiveness of energy futures could be augmented by the inclusion of key components.
+- The effectiveness of energy futures could be augmented by the inclusion of key components.  The technological sophistication of many current energy futures has not seen them be adopted or endorsed. Advanced economic analysis of many futures hasn’t made them more attractive to other stakeholders. Many energy futures may be highly developed and very well reasoned, in certain areas, but underdeveloped or completely lacking in others. The acknowledgement of certain neglected features, and strategic development in these areas, may make energy futures more effective.  “I am right, you are wrong” thinking isn’t helpful. All stakeholders hold a key component of any solution, a more effective future. All stakeholders’ futures lack key components to it being an effective solution. An important component(s) is missing from all stakeholders’ approaches and views.
+- Energy policy and energy futures may be leverage point for grand solutions
+- Energy policy and energy futures may be  leverage point for grand solutions  Energy being centralBeing fundamental, central and universal to all life and social endeavours, … if effective energy policy is developed to produce safe, clean, secure, reliable, prosperous and efficient energy systems, then we may concurrently resolve seemingly separate problems. This is not an attempt to proclaim energy as the most important issue, rather to emphasise the inter-relatedness of problem structures.  we address this one central question, we can resolve many resulting problems. Yet, we must go further and address the underlying problem(s) of energy (see point 1
+- Energy as symbol and metaphor
+- Energy as symbol and metaphor The symbology and metaphor of energy and energy systems is undervalued and under-utilized.  As energyEnergy underpins/characterizes the both economy and ecology., and As both the economy areis symbolic and representative indicative of society, the energy system, energy policy and energy futures areis therefore symbolic of society. Thus, how Tthe transformation of the energy system occurs correlates with economic and ecological health and development. The stories, symbols, myths and metaphors we hold about energy play out in the material world, yet they are often not questioned in energy futuring, and technical and social analysis generally.  Identifying the energy stories we live by, and the energy images we hold dear, are critical pillars in the effort to create robust, prosperous energy systems.
+- Current energy futures and futuring are under-achieving and ineffectual
+- Current energy futures and futuring are under-achieving and ineffectual.  7. Dominant energy futuring processes do not agree with the range of impact of energy.The nature and scope of dominant energy futuring processes, energy futures content, energy system characteristics and energy usage consequences do not align coherently with each other. This is inefficient, ineffective and creates further problems rather than resolving them.  Each of these four elements need to be aligned for more effective futures and policy. The energy system touches people fundamentally, playing a critical role in quality of life. The full extent that energy system interacts with its surroundings, as well as itself, must be well understood and contained within energy futures and policy. This complexity and richness should be reflected in the processes and tools used to envision, plan and make decisions.   The degree to which this is done within current energy futures varies, with dominant energy futures considering only a limited range of energetic interactions, viewing society and environment primarily as mathematically modellable entitites. The full spectrum of the immeasurable and intangible human experience and natural value in the energetic environment is rarely considered in energy futures.   Exclusion or devaluation of this creates problems (e.g. environmental externalities and social dislocation). It is hypothesized that aligning energy futures techniques and content with the reach and extent of the energy system will enhance energy futures and policy. Its not energy that we want. What we want is what energy provides, enables or produces. Which energy services predominate in society, and how, reflect social values, norms, customs, culture and worldviews as much as technological availability. However, energy policy formulation and futuring generally ignore this, favouring “value-free” mechanical mathematical economic modeling and forecasts. Social and future dimensions of energy policy are an after-thought or, at best, an opinion poll.
+- Energy futures are a driver of social development, or not.
+- Energy futures are a driver of social development, or not.   Development of any kind requires energy. The quantity and quality of energy available (in the sense of characteristics as well as excellence), determine how organisations and ecosystems grow, and by how much. Therefore, energy futures correlate closely with  general futures. Broad future visions contain particular energy futures. In other words, competition between energy futures is competition between broader, general futures.  With a suitable energy vision and accompanying comprehensive strategy which inspires people, society and industry, the energy system could become a driver of grand dreams and mechanism of meaning. In the modern industrial age, characterized by technological energy developments, energy policy has largely been an afterthought in an uninspired quest for ultimately empty mirages of power and trinkets.
+- The energy “debate” is, more accurately, energy “conflict”.
+- The energy “debate” is, more accurately, energy “conflict”.   Debate and dialogue around energy futures has increasingly become war-like, or even war itself in some cases, as the potential effects of energy systems are explored, understood or unfold. Armed conflict driven by control of resources, venomous political argument, angry social demonstration, heated dinner discussion and vitriolic blog commentary testify to less genuine debate and moreso to battle.   Technical reasoning alone, in such cases, is insufficient and ineffective as a solution to the conflict. In fact, it may be part of the problem. As such, conflict resolution skills and relationship building may be equally helpful, and possibly in greater need now, rather than a primary focus on scientific proficiency, economic planning or political gamesmanship.
+- Cause – effect confusion
+- Cause – effect confusion  The common thinking is we must transform and develop our energy system for a peaceful, prosperous future. This work contends that we must transform our energy future in order to have a peaceful, prosperous socio-ecological system.  The transformation of the energy system to achieve sustainable development, economic growth, prosperity, or whatever other lofty aim, will only come as a result of the transformation of the selves who envision, plan, strategize and communicate. There is undoubtedly a mutual iterative feedback relationship between energy system change and changes in quality of life. Generally, though, we are more heavily invested in external energy system change without investigating the selves who attempt to enact it.  Energy futures do not generally advocate personal and inter-personal transformative practice as a tool. Due to this backwards reasoning of placing effect as cause and cause as effect, energy futures are inefficient according to their proclaimed objectives.
+- An energy policy framework and futuring process is available for creation/discovery which will stand in better stead than current models and processes
+- An energy policy framework and futuring process is available for creation/discovery which will stand in better stead than current models and processes.  Just as technologies develop to harness power and generate electricity, so too can the tools of energy futuring and policy creation be advanced to harness creativity and co-operation and generate inspiration.
+- The field of Futures Studies offers a useful theoretical framework and suite of methodologies to examine these hypotheses and postulate alternatives
+- The field of Futures Studies offers a useful theoretical framework and suite of methodologies to examine these hypotheses and postulate alternatives. 13.   In particular, Critical Futures Studies (CFS)
+- The concept of “energy crisis” needs illumination.
+- The concept of  “energy crisis” needs illumination.  a. The “energy crisis” is defined and seen in many different ways by many different groups. These differences can cause conflict but can also be resolved. b. The energy “crisis” is not fundamentally a crisis of energy, per se. At its core, its not a problem of:  Energy supply (inadequate, insufficient, unreliable)  Energy demand (excessive)  Energy efficiency  Technology availability  Economic unattractiveness or financial lack  Social disruption or environmental devastation (symptom)  Insufficient political will  These phenomena are certainly challenges and addressing them is essential. However, it is hypothesised that the crisis in energy lies in  a) The foundational ideas underlying energy thinking (science, economics, planning, culture b) An unwillingness and resistance in exploring these conceptual underpinnings.  This is an exercise in problem re-definition, organizational transformation and inter-stakeholder team-building, conflict resolution, creating shared common visions and working towards them together.
+- Composition of energy future
+- Composition of energy future “I am right, you are wrong” thinking isn’t helpful. All stakeholders hold a key component of any solution, a more effective future. All stakeholders’ futures lack key components to it being an effective solution. An important component(s) is missing from all stakeholders’ approaches and views.
+- Energy as leverage point for grand solutions
+- Energy as leverage point for grand solutions Energy being central… if we address this one central question, we can resolve many resulting problems. Yet, we must go further and address the underlying problem(s) of energy (see point 1
+- Energy as symbol and metaphor
+- Energy as symbol and metaphor As energy underpins the economy, and the economy is symbolic and representative of society, the energy system is symbolic of society. Thus, how the transformation of the energy system occurs correlates
+- Current energy futures and futuring are under-achieving and ineffectual
+- Current energy futures and futuring are under-achieving and ineffectual.  6. Dominant energy futuring processes do not agree with the range of impact of energy. Its not energy that we want. What we want is what energy provides, enables or produces. Which energy services predominate in society, and how, reflect social values, norms, customs, culture and worldviews as much as technological availability. However, energy policy formulation and futuring generally ignore this, favouring “value-free” mechanical mathematical economic modeling and forecasts. Social and future dimensions of energy policy are an after-thought or, at best, an opinion poll.
+- Energy futures as a driver of social development
+- Energy futures as a driver of social development.  Energy futures correlate to general futures. Broad future visions contain particular energy futures. In other words, competition between energy futures is competition between broader, general futures.  With a suitable Energy Vision and accompanying comprehensive strategy which inspires people, society and industry into action, the energy system could become a driver of grand dreams and mechanism of meaning. In the modern industrial age, characterized as such by technological energy developments, energy policy has largely been an afterthought in an uninspired quest for ultimately empty mirages of power and trinkets.
+- Energy “debate” is, more accurately, energy “conflict”
+- Energy “debate” is, more accurately, energy “conflict”.  As such, conflict resolution skills may be equally helpful, and possibly in greater need now, rather than sole focus on scientific proficiency, economic planning or political gamesmanship.  9.
+- Cause – effect confusion
+- Cause – effect confusion.  The transformation of the energy system to achieve sustainable development will only come as a result of the transformation of our selves. Currently, and generally, we are attempting to reverse this process. By attempting to transform the energy system, we are hoping to transform society and thus, ultimately, our personal lives. Due to this backwards reasoning, energy futures are ineffectual, placing effect as cause and cause as effect. Transform the inner to transform the outer, rather than the other way around. A transformed energy system will bring a transformed social system (including economic system) and eco-system. But a transformed social system requires the inner transformation of society, or rather the inner transformation of selves. The process of transforming (cv. changing) the energy system towards a preferred future is the process of transforming the self.  Those seeking alternative energy futures do not generally understand this and continue to embody conventional thought patterns, resulting perhaps in superficially different systems that are fundamentally identical.
+	- The process of transforming the energy system as the means of social development rather than a transformed energy system causing social/sustainable development. Changing (transforming) the energy system so that we can have “sustainable development” IS, in itself, the development. The change in practices, philosophies and methods, in planning and in carrying out the plans, is the development, rather than what goes on after the crisis is solved. It is the transformation, not the development that occurs afterwards. Energy is seen as the means of “development”. Yet it is the transformation of the energy system which is the development itself. If we can address energy system transformation fully, then the ensuing “development” is “sustainable” (or whatever characteristic) as a result of the nature of the energy system (or whatever system). It is the mindsets and consciousness of agents which have been transformed (or “released”), thus outlining the course of pathways from there. (Outer reflection of an inner condition. Transformation is of the inner condition.)  Similarly, wrt climate change. The climate change-energy/resource usage nexus is exactly the means by which human development can occur. Answering the question(s) is where the development occurs, not once the question is answered.I think the current view is “let's sort out the energy and water problems so we can grow and develop”. However, i reckon its now “we grow and develop BY sorting out the energy and water problems” If we incorporated inner dimensions (inner development) to energy futures then perhaps we wouldn’t have a repeat of climate change and/or peak oil threats. The real goal is inner development. Climate Change – Culture Change. There is a culture change because of climate change. Perhaps climate change could have been avoided or reduced because of a culture change.
+- Novelty and Innovation of QAEF
+- Novelty and Innovation of QAEF
+- A comprehensive map of global energy futures with indicative and key representatives
+- A comprehensive map of global energy futures with indicative and key representatives. a. Specific application to Australian Energy Policy, Futures and Stakeholders  Suggestions as to how to make each stakeholders’ energy future richer.
+- A distinct set of alternative energy futures
+- A distinct set of alternative energy futures
+- Deep, transformative futures work hasn’t been done in the energy field.
+- Deep, transformative futures work hasn’t been done in the energy field. (Futuring has largely been predictive-empirical.)  The application of certain futures methodologies to energy.   CLA never been done on global energy futures  Integral never been done on global energy futures  AAL not been done deeply with energy stakeholders in Australia
+- Laying foundations of Macrohistory of Energy
+- Laying foundations of Macrohistory of Energy
+- Formulation of an enhanced energy policy making schema.
+- Formulation of an enhanced energy policy making schema.
+- Energy's Role in Social Development
+- We set our goals in society, industry etc THEN design the energy system to get these. Can we design our energy system first which then determines our goals in society, industry? In designing our energy system we are expressing our values, beliefs and attitudes. Perhaps we need to approach this solution from both ends... ie 1. Determine the goals of society/industry/business and from that determine the energy and resource requirements 2. Determine the possible theoretical energy production (according to certains sets of values, beliefs, attitudes, criteria eg. If only renewables, if only fossil fuels etc etc) and from that determine our social goals.  Energy Technology Innovation – The Energy-Social Development Chicken-Egg cycle How has the energy technology at any one place and time tied in with the social development there? What/which is driving/leading, and how? Do they take turns, iteratively spurring off one another? Discovering/harnessing fire/firewood and animals lead to social developments. These social developments then allowed the next phase of energy technology to be discovered/invented/harnessed. (What was that?) A cyclic process underway?  Energy technology ties in intimately with the other technology around it. Probably can’t do an energy macrohistory or energy tech trend identification without doing an overall tech one simultaneously.  Information production and distribution and its energy supply - Printing press, Internet  Transport  Food, agriculture  Housing, heating  Creativity – arts, science, philosophy... activities beyond basic necessities of the day  Is there a shift that needs to be made, in the following sense: We create and structure an energy system that fits our goals in the world. We want to build this, run that, travel there...so we set up the energy system that supports that. We do what it takes to set up that energy system. Now,instead, our energy system may need to EMBODY, and be a direct expression, of our goals in the world. [Coherence!!] This is almost like a retraction of our source of [true, inner]power being from outside [of the energy system] to within it. The values evident within the energy system were separate and distinct from the values of the goals we were trying to achieve. Now, at this time, perhaps this internalization needs to occur...?!?! Is our energy system already an expression of our values? I think so. Is it already an expression of our thoughts about ourselves? Perhaps need to consider energy’s role in contributing to levels of social satisfaction. Eg. More energy/fuel used to make more and more stuff which satisfies less and less.   PERHAPS NOW WE NEED TO BE DRIVEN BY POSSIBILITY RATHER THAN REACTING TO THREAT!!! Ie. Shift the driver of social change from response to threat and lack to one of fostering, promoting, encouraging, fomenting POSSIBILITY (of peace, prosperity, security). What possibility can we envision for Australia with regards to its energy system. What are the possibilities that the[new] energy system is opening up and allowing to be possible? In RESPONDING to climate change/global warming, peak oil, energy security issues, we can shift from being reactive to proactive. Let’s NOT ONLY respond to these issues powerfully, but go FURTHER to be drawn further into the future by our INSPIRED VISION.   Energy System’s Purpose? What does each party think the purpose of the energy system is? What are we providing energy FOR? What are the varying views? Is it REALLY for what we think its for? Can we come up with another purpose that will unite? Is the purpose of the energy system actually to UNITE!?!?! To promote a sense of UNITY! A feeling of oneness, unity, team, cohesion? Wow. What an idea! Feels good.  What are the symbolic metaphors each party has of energy and energy system’s evolution?
+- Its not energy that we want
+- Its not energy that we want. What we want is what energy provides, enables or produces. Which energy services predominate in society, and how, reflect social values, norms, customs, culture and worldviews as much as technological availability. However, energy policy formulation and futuring generally ignore this, favouring “value-free” mechanical mathematical economic modeling and forecasts. Social and future dimensions of energy policy are an after-thought or, at best, an opinion poll.
+- Theoretical Orientation and Hypotheses incomplete
+- Theoretical Orientation and Hypotheses  Theoretical Orientation Your aim here is to state your basic ideas on the topic.
+	- First, state the various theoretical approaches taken in your topic. Which one do you propose to use in your research and why? Where, tentatively do you stand on the topic?   If there are various theories on your topic or in your field, which one(s) will you use in your conceptual framework for your thesis?   Which terms or trends do you wish to follow up from the literature review?   Do you have any fresh suggestions of an explanatory, interpretative, or programmatic kind? Ask Yourself . . .   Which pieces of research seem to have been most successful, the most promising and which less so?   What are the major lines of criticism that can be levelled at previous work?   What major omissions, gaps or neglected emphases can be identified?   Think it Through  Perhaps the best way to approach this section is to set down your main insights, hypotheses, hunches, or even hopes about your topic.  In view of past theory and research, and your emerging issues, what are the areas that you expect to have findings?   • Australia, and the world, face unprecedented challenges centred around its energy system.  • Novel approaches are required to come up with out-of-the box solutions to non-traditional energy crises.  • Numerous scenarios and visions of that energy future already exist and give birth to conflicting policies and strategies.  • Energy stakeholders are effectively in conflict. This conflict reduces the effectiveness of each and every stakeholder and their vision. • The goal is to make visions of Australia’s energy future more empowering and inspiring, and energy policy more effective in creating an Australia we all want. • The only way to do this is together, now. • Understanding of the problem doesn’t seem to exist. If it did then the solution would already have been implemented. Alternatively, it isn’t applied, wherein lies the problem. •
+	- (this is my addition. Let’s say up to 100 words) The various inter-related hypotheses and ideas in the various ways I’ve expressed them.  1. This is a problem within the field of energy but its not a problem OF energy. 2. Each vision/strategy/approach has a piece of the puzzle. Each is partially “correct”. 3. Each approach is lacking some key ingredient which prevents it from being rapidly and smoothly implemented, right across the board 4. The puzzle may be lacking other pieces. There is lacking an overall “umbrella factor”, “glue” – an integrator 5. The missing ingredient in each is the same or similar in essence, though perhaps in a slightly different form. 6. With a suitable Energy Vision which inspires people, society and industry into action, the energy system can become a driver of dreams, and not just an afterthought to achieve dreams. There are as yet unrealized potential benefits in deliberately driving the transition to an energy future rather than manipulating or managing the current juggernaut’s path.  7. In essence, under superficial differences, the obstacles each stakeholder faces in realizing their vision of Australia’s Energy Future are the same obstacles each stakeholder faces in their own personal lives. 8. An(other) inspiring Vision of Australia’s Energy Future can be invented which will accelerate stakeholders to take coherent action.  Underlying Root Causes Barriers to implementing better futures pathways often framed as economic or technological lack. My hypothesis:  a) Economics nor technological lack not the real barriers. The issues are fundamentally human being problems,  psycho-spiritual. Imagination and belief. Cynicism. Lack of vision. b) To implement plans to realizing better futures, our psycho-spiritual nature must be consciously and directly engaged. We must do our spiritual homework (but perhaps without calling it that, or needing to express that explicitly.)  Pieces in a Puzzle Each vision/strategy has a piece of the puzzle. However there the puzzle may be lacking other pieces AND it may be lacking GLUE to make it secure and coherent. Each approach is lacking some key ingredient which prevents it from being rapidly and smoothly implemented, right across the board There is lacking an overall “umbrella factor”, “glue” – an integrator The missing ingredient in each is related though perhaps in a slightly different form Possible GLUE and missing ingredients can be identified perhaps through some Futures theory and methodology. GLUE can be applied and missing ingredients added through some Futures or other workshop type techniques to achieve ASCENT goals. There are key ingredients from the dominant energy strategies, policies and visions that make them hard to sell to a greater audience. There are key ingredients which are lacking making the proposals less than inspiring.  For the greater public, political world, economic world, society etc to adopt policy and strategy and visions there must be something present which is really enrolling them and getting them on board. What is that X factor?  PERHAPS THIS X FACTOR IS “THE UMBRELLA FACTOR” – THAT OVERARCHING, UNITING IDEA/PRACTICE/APPROACH WHICH PUTS ALL SEEMING DISPARATE EFFORTS ON THE SAME PAGE AND PULLING IN THE SAME DIRECTION.  Professional – Personal Disocciation  The barriers and obstacles to ASCENT are the same barriers and obstacles that each stakeholder faces in their own personal lives. Cynicism? Lack of vision?  lack of willingness to...? • challenge one's beliefs in the face of suffering • consider alternatives which challenge the comfort zone • challenge one's idea of Se  Conflict Resolution v Sci-tech-econ-politics?? Is “Australia’s Energy Future” issues are more about conflict resolution and mediating competing interests than technology, economics and politics?? Is this more about tempering competing visions of the future and uniting them? Could this be more about altering/modifying visions of the future so that competing visions mesh together and unite, resulting in cohesive harmonic effort? Could this be about helping others and facilitating others in expanding their visions of the future – what’s possible and how it can be possible – so that each and every one can see how we’re on the same team?  An effective solution will require co-operation, coherence and unity. This is an exercise in team-building, uniting, conflict resolution, creating shared common visions and working towards them together. The technicalities of the issue mask these fundamental points. My role is two-fold: Understand the technicalities sufficiently well such that The warring parties can be united That is, I can speak, and understand, the language of each player at the level of each player, AND I can translate each player’s language to the other players.   Energy Vision as a Driver of Social Development The climate change-energy/resource usage nexus is exactly the means by which human development can occur.  Answering the question(s) is where the development occurs, not once the question is answered. I think the current view is “let's sort out the energy and water problems so we can grow and develop”. However, i reckon its now “we grow and develop BY sorting out the energy and water problems   By co-operatively uniting and complementing our multiple competing visions of Australia’s energy future, we are all pulling together in the same direction. We not only secure our own future but blaze a trail of possibility for others to follow for a happier world.  Energy as Metaphor for human society Energy is central to human endeavour therefore addressing energy questions is addressing bigger human questions
+- Transform the inner to transform the outer
+- Cyclic contribution of inner and outer selves.  Must Transform the inner to transform the outer, as much as, if not mores than, transforming the outer in an (futile) attempt to change the inner.  A transformed energy system will bring a transformed social system (including economic system) and eco-system. But a transformed social system requires the inner transformation of society, or rather the inner transformation of selves. The process of transforming (cv. changing) the energy system towards a preferred future is the process of transforming the self.  Those seeking alternative energy futures do not generally understand this and continue to embody conventional thought patterns, resulting perhaps in superficially different systems that are fundamentally identical.   The process of transforming the energy system as the means of social development rather than a transformed energy system causing social/sustainable development. Changing (transforming) the energy system so that we can have “sustainable development” IS, in itself, the development. The change in practices, philosophies and methods, in planning and in carrying out the plans, is the development, rather than what goes on after the crisis is solved. It is the transformation, not the development that occurs afterwards. Energy is seen as the means of “development”. Yet it is the transformation of the energy system which is the development itself. If we can address energy system transformation fully, then the ensuing “development” is “sustainable” (or whatever characteristic) as a result of the nature of the energy system (or whatever system). It is the mindsets and consciousness of agents which have been transformed (or “released”), thus outlining the course of pathways from there. (Outer reflection of an inner condition. Transformation is of the inner condition.)   Similarly, wrt climate change. The climate change-energy/resource usage nexus is exactly the means by which human development can occur. Answering the question(s) is where the development occurs, not once the question is answered.I think the current view is “let's sort out the energy and water problems so we can grow and develop”. However, i reckon its now “we grow and develop BY sorting out the energy and water problems” If we incorporated inner dimensions (inner development) to energy futures then perhaps we wouldn’t have a repeat of climate change and/or peak oil threats. The real goal is inner development. Climate Change – Culture Change. There is a culture change because of climate change. Perhaps climate change could have been avoided or reduced because of a culture change.
+- All existing efforts miss one or more key ingredients. If they had all the ingredients, the strategies would implemented, the futures inspiring and the goals achieved.
+- All existing efforts miss one or more key ingredients. If they had all the ingredients, the strategies would implemented, the futures inspiring and the goals achieved.
+- Energy future drivers need to be augmented, expanded, comprehensive, holiistic... They need to be "better".
+- We need energy futures which incorporate multiple drivers which cater for all/many different energy sub-cultures.
+- Alternative energy futures are possible
+- Alternative energy futures are possible
+- A taxonomy, or even multiple taxonomies, of energy futures are possible
+- A taxonomy, or even multiple taxonomies, of energy futures are possible
+- The energy debate can be simplified and clarified for more transparent decision making
+- by argument mapping
+- by argument mapping
+- through taxonomization
+- through taxonomization
+- multi-dimensional mapping
+- multi-dimensional mapping
+- Physical energy (as Watt-hours), financial energy (as $), political energy/power (as influence, status etc) all intertwine....???
+- Physical energy (as Watt-hours), financial energy (as $), political energy/power (as influence, status etc) all intertwine....???
+- IDEA
+- Use the energy spectrum metaphor, equating energy to consciousness. The energy policy stuff has to fit in to the ladder. That is, spiritual/consciousness development can be fitted to a wholistic energy spectrum model. The Wilber and SD's et al tiers of consciousness, Hawkins calibration scale can be modelled in energy terms.
+- Development chicken-egg
+- The climate change-energy/resource usage nexus is exactly the means by which human development can occur.  Answering the question(s) is where the development occurs, not once the question is answered. I think the current view is “let's sort out the energy and water problems so we can grow and develop”. However, i reckon its now “we grow and develop BY sorting out the energy and water problems”
+- Clarification of energy crisis
+- The term “energy crisis” needs clarification. There is a crisis and yes, it does involve energy. But it is not for a lack of oil, gas, solar radiation, wind or hydrogen. It is not for a lack of money or other physical materials. The energy which is lacking takes the form of political will,
+- Subtle energy development
+- An ideal conventional energy scenario realization requires subtle energy development. Idea of “energy” must be expanded to include “subtle” energy development (ie. Spiritual development) Conventional energy policy/scenario forecasting must include “subtle energy policy” Better/ideal energy policy creation and realization requires consciousness development.
+- Energy spectrum ladder
+- Placing physical energy in its proper place in the energy spectrum. That is... the material is currently seen as the source of life. This is arse-about. It needs to go in its rightful place, “down the ladder” in order of importance and life-giving ability. I imagine there could be various levels of subtle energy, which gives rise to physical energy. Within the range of physical energy, there is a sub-spectrum too: Tachyon to our detectable emf down to dense material.
+- Other novelty
+- Meta-Analysis of Energy Futures
+- Meta-Analysis of Energy Futures
+- Novelty -2
+- This work aims to make the following new contributions to energy futures discourse:
+- Novelty -3
+- A comprehensive thorough map  of global energy futures with indicative and key stakeholder representatives. This may extend to include an evolutionary map of historical energy futures.
+- Novelty -4
+- General suggestions as to how to make stakeholders’ energy futures richer, more inspiring and more compelling, within their own frameworks.
+- Novelty -5
+- A set of alternative energy futures.
+- Novelty -6
+- The introduction or promotion of fringe energy futures and stakeholders into mainstream energy futures literature.
+- Novelty -7
+- The application of certain deep, transformative futures work to the energy field – causal layered analysis (CLA), integral futures and anticipatory action learning.
+- Novelty -8
+- Laying foundations of Contributions to Macroenergetics and Macrohistory of Energy.
+- Novelty -9
+- Formulation of an enhanced energy policy making schema with an energy futures toolbox.
+- Research subject matter-7
+- At such a pivotal point in energy policy history, with Australia and the world facing significant energy-related challenges, it is beneficial to review and question our energy futures. That is, how we contrive the images and scenarios of the future – what tools and theories are in the toolbox, as well as how we realize that image in the world.
+- That is, how we contrive the images and scenarios of the future – what tools and theories are in the toolbox, as well as how we realize that image in the world, should be examined so that we might be able to do it better.
+- Questioning Australia’s Energy Future looks at how Australian energy stakeholders might shift preferred energy future/s into the realm of the probable energy future, for the betterment of all, now as well as in the future.
+-
+- An evolutionary map of historical energy futures.
+- An evolutionary map of historical energy futures.
+- A set of new alternative energy futures: new fusions and novel creations.
+- A set of new alternative energy futures: new fusions and novel creations.
+- Contributions to a theory of macroenergetics and macrohistory of energy.
+- Contributions to a theory of macroenergetics and macrohistory of energy.
+-
+- Add to energetic theories of collapse.
+- Visual energy futures argument mapping
+- Summarise and visualise the arguments in and around energy futures.
+- Visual futures maps and mapping software
+- Develop software to situate futures along user-selected 2-D, 3-D or 4-D co-ordinate systems. Use this to situate futures.
+- A comprehensive atlas of global energy futures with key stakeholder representatives.
+- Many maps encompassing many co-ordinate systems and geometric structures.
+- The introduction and promotion of fringe energy futures and stakeholders into energy futures literature.
+- eg. Free Energy. Walter Russell.
+- An enhanced energy futuring toolbox.
+- Extra tools, understandings, techniques and insights for energy futuring.
+- Alignment and embedding of energy futures in civilizational futures.
+- Deeper, more specific alignment of energy futures with existing, broader civilizational futures. Reframing of civilizational futures through energetic lens. Equating future archetypes.
+- Aims, Goals and Expected Outcomes of the MQGEF research.
+- 1.4 Aims, Goals and Expected Outcomes of the research.
+-
+- Could present as a visual flow-chart diagram indicating levels of goals
+-
+- Hypertextual link could be “in order to…”
+- To survey the manifold, disparate energy futures instances
+- (tooltip: the particular propositions put forward for energy futures, as well as their creators, supporters). This also includes energy future techniques and practices ie. how energy futures are constructed. Who is proposing what, how are they arriving at their preferred pathways and plausible visions, and why?
+-
+- To situate - textually, cartographically, socio-economically, technically - using various axes and techniques, all the world's energy futures.
+- To classify and group these myriad energy futures
+- . To make the energy futures discourse more manageable by simplification into types and categories yet maintain the required distinctions. When we boil it down what can we really choose from at the moment?
+-
+- To simplify the debate and discussion around energy futures
+- in order to simplify and clarify decision making, in order to arrive at effective actions.
+-
+- Energy challenges are myriad and complex. It is mentally, technically and psychologically easier to deal with fewer problems than many.
+- To critically analyse and deconstruct these energy futures.
+- Apply some novel analytical frameworks to uncover elements within the energy future instance which are assumed, opaque and unarticulated. What are these energy futures implying without saying it, what are the meaning without signifying it?
+-
+- To uncover and discover deeper powerful leverage points in constructing and adopting more beneficial energy futures
+- To map energy futures.
+- That is, using a variety of theoretical frameworks and non-geospatial axes, situate these energy futures in knowledge space. How do energy futures (individual instances as well as types) compare to others and relate to each other? What dimensions of analysis could be used?
+-
+- To navigate energy futures more easily, in order to arrive at effective energy futures.
+- To expand the discourse and spectrum of discussion and debate around energy futures.
+- Introduce and encourage levels of depth and disregarded alternatives. What discussion is avoided? What is repeated ad-nauseum with no breakthrough? What proposals are ignored, ridiculed or even suppressed? What lies at or beyond the limits of the maps?
+-
+- Work with stakeholders to make their energy future more robust and useful.
+- What additions, deletions or modifications could help stakeholders’ preferred energy futures become more widely or more quickly adopted? Upon reflection, do stakeholders still want their previously preferred futures?
+-
+- To generate novel, genuinely alternative energy futures.
+- This requires rigorously identifying and analysing what exists already. Is something genuinely novel possible? Would it be worthwhile? Attractive? How might this be done?
+-
+- These may be hybrids of modified current futures. These may be completely novel energy futures.
+- To develop an expanded energy futuring toolbox.
+- A bigger set of integrated tools to develop energy futures.
+- To offer energy as a metaphor or mechanism to link systems and futures of various disparate fields.
+- Begin with gross energy futures, expand using thermodynamic analogues, ecological energy flows etc, into energy verticality.
+-
+- Money as a representation of energy
+- Add to the body of deep, critical futures inquiry by examining energy.
+- Theoretical Orientation, Frameworks and Methodology.
+- 1.5 Theory and Methodology. Introduction to Futures Studies.  See Six Pillars, perhaps summarise
+- Policy v Strategy v Futures.An introduction to Futures Studies (FS)
+- 1.5.1 Policy v Strategy v Futures.An introduction to Futures Studies (FS)
+- Theoretical framework. Predictive-Empirical vs Critical, Transformative Futures
+- Various typologies of the future
+- Various typologies of the future
+- Predictive-empirical
+- 1.5.3.2 Predictive-empirical
+- Interpretive
+- 1.5.3.3 Interpretive
+- Critical, transformative
+- 1.5.3.4 Critical, transformative
+- Causal Layered Analysis
+- 1.5.3.4.1 Causal Layered Analysis
+- Integral Futures
+- 1.5.3.5 Integral Futures
+- Wicked Problems
+- Alternative Futures
+- Methodologies
+- 1.5.6 Methodology Developing a toolbox, therefore multiple methodologies
+-
+- Critique of existing methodology via CLA and Integral
+- Depth
+- 1.5.6.1 Depth
+- Causal Layered Analysis
+- CLA “creates transformative spaces for the creation of alternative futures. It is also likely to be useful in developing more effective – deeper, inclusive, longer term – policy”.
+- Futures Triangle
+- Futures Triangle
+- Integral Futures
+- Integral Futures
+- Emerging Issues Analysis
+- 1.5.6.5 Emerging Issues Analysis
+- Anticipatory Action Research
+- 1.5.6.6 Anticipatory Action Research
+- Interviews (Delphi)
+- 1.5.6.7 Interviews (Delphi)   EurEnDel
+- Meta-Analysis of Energy Futures copy
+- 1.5.6.8
+- Literature review
+- A general methodological process
+- Methodology. How will i do parts 1 and 2? I  (a)
+- Initial literature review
+- Initial literature review. Identification of ■ existing scenarios and policies in Australia ■ competing policies and alternative scenarios ■ dominant/principal players and stakeholders (b)
+- Questionnaire
+- Questionnaire to/interview of principal thinkers, drivers, policy-shapers and players ■ Ascertain players' “ideal energy vision”. Perhaps a futures mini-workshop attempting to to identify and temporarily remove the filters and blinkers they have held when formulating their publicly stated professional opinions. ■ Get an idea of the personal nature of the forces driving and retarding the dominant energy visions in Australia. Identify the “but...”s (c)
+- Causal layered analysis
+- Causal layered analysis.  ■ Identify the layers of discourse and articulate the largely unarticulated, insidious, powerful ideas  ■ Question the “but...”s.  (d)
+- Expanded literature review
+- Expanded literature review. ■ Identify the fringe ideas, proposed strategies and techniques that don't fit into the dominant framework(s) of possibility. ■ Examine the validity of these claims and practices ■ Requires investigation of alternative (to dominant) theories of science, nature, economics etc   4.
+- Why a Futures approach?
+- Why a Futures approach?  (as opposed to modelling, forecasting etc.)
+-
+- This research is undertaken through the field of Futures Studies for a number of reasons:
+- Complexity.
+- Complexity. As stated earlier, energy is a universal, fundamental, complex issue replete with multi-dimensional interactions and feedback loops between diverse elements and with much historical weight. Futures Studies is multi-disciplinary and trans-disciplinary by nature and is potentially well-geared to addressing complexities of energy.
+- Policy.
+- Policy. Futures Studies provides a broad suite of tools to augment policy. It offers methodologies to improve the policy creation process as well as open up policy options to include previously unconsidered or unimagined possibilities. Futures Studies offers methods to return agency to individuals and groups in creating preferred futures rather than merely reluctantly receiving others’ unwanted probable used futures.
+- Why deep, transformative, participatory futures studies?
+- Why deep, transformative, participatory futures studies?   Futures Studies (FS) as a discipline, theory and set of methodologies is dealt with in more detail in section 1.5, Theory and Methodology. For the moment though, suffice to say that FS is the use of the concept of the future to assess, guide and interpret the present. Various schools of thought exist in FS, as will be outlined in greater detail in section 1.5. A deep, participatory, transformative futures approch is adopted here for the following reasons: This research is undertaken through the field of Futures Studies for a number of reasons:  1. Personal interest to the author.  2. Novelty.  A cursory survey of literature reveals energy futures are already routinely addressed via conventional economic, mathematic, engineering, geologic, ecologic and similar techno-economic and system science approaches. To the best of the author’s knowledge, there remains the need to adequately complement and contextualise these useful techniques with approaches beyond reductionist narrow hard science methods and mindsets, or shallow system science perspectives. FS offers tools that can place appropriate value on sophisticated orthodox techniques by recognizing their time and place of usefulness, while simultaneously enriching the discourse.  3. Ability to encompass complexity, depth and breadth of perspective. As stated earlier, energy is a universal, fundamental, complex issue. It is replete with multi-dimensional interactions, layers of meaning and perspective, and feedback loops between diverse physical and social elements, and carrieswith much historical and cultural weight. Futures Studies A deep, participatory futures approach is multi-disciplinary and trans-disciplinary by nature, acknowleding the wealth of stakeholders, the deep foundations of their views and is potentially well-geared to addressing complexities of energysuch complexity.   4. Policy influence. Futures StudiesFS provides a broad suite of tools to augment policy. In fact, futures underlie policy, whether a particular policy-maker agrees with it or not. [ref] It offers methodologies to improve the policy creation process as well as open up policy options to include previously unconsidered or unimagined possibilities. Futures StudiesFS offers methods to return agency to individuals and groups in creating preferred futures rather than merely unconsciously or reluctantly receiving others’ unwanted probable used futures.  5. Pragmatic utility. Much of the energy discourse focuses on the likelihood and implications of future events such as the forecast impacts of climate change or the timing of peak resource production. It thus seems the logical choice to use the methodologies of the study of the future to examine these predictions and forecasts. These tools may help to prepare for and alleviate any “future shock” – social and individual paralysis – arising out of an unexpected or unimagined future. Furthermore, futures tools provide means to proactively create a preferred future rather than feel helpless in the face of an imposed probable future. FS has potential to facilitate “transition midwifery” as the future unfolds and certain aspects of energy systems die while others gain ascendency.  6. Unifying capability. The fields and scope of inquiry available via FS is vast, sweeping the broad horizons of time and subject, plunging from surface inquiry to deep philosophical premises. While FS doesn’t offer the final answer, its domain of investigation enables multiple perspectives, approaches and worldviews to be situated together under one roof. In doing so, connections between them are now possible; common ground can be identified and reinforced while differences too can be seen and perspectivized.  FS not only allows for shades of grey but a merging of a spectrum of hues of varying intensities viewed at different resolutions.  7. Recontextualisation of technology. In an age where science and technology are highly prized, energy challenges can be seen purely as problems of physical and economic science, to which innovative technologies and market instruments are the solution. FS seeks not to devalue the role of technology in society but can increase its value by identifying the degree the techno-centric view contributes to shaping the problem. Understandings of the philosophical foundations of this view, available via deep, critical futures, can improve the effectiveness of technology as part of a preferred energy system.  8. Stakeholder empowerment and reclaiming of agency. The energy industry is behemoth with many stakeholders feeling isolated from decision-making. The forces of large energetic systems, such as the world’s climate or economy, can seem threatening and overwhelming, leading to disillusionment and despair. Focusing on seemingly invariant structures and probable forecasts in energy systems can erode personal and organisational power. Over-concentration on scenarios created by others limits possibility. Deep, participatory, transformative futures can help stakeholders reclaim and remember their power to mould their future rather than merely respond.  Redefining problem construction. Deep, participatory, transformative futures represent and contain a type of self-reflexive analysis which offer insights rarely available using traditional analytical methods. While it is postulated that deep participatory, transformative futures work will be beneficial in addressing energy problems, it is also posited that the absence of such investigative methods is an intrinsic part of the problem itself. In failing to examine fully all aspects of a stakeholders’ energy future, not only are problems produced and effectiveness reduced, it constitutes part of the very problem. Deep, participatory, transformative futures offer tools to allay this by complementing traditional, conventional techniques.   Deep, participatory, transformative futures vs shallow, predictive-empirical futures
+- Why tranformative?
+- Why CLA?
+- Why Integral?
+- Why action research?
+- Why a wicked problem approach?
+- Why a wicked problem approach?
+- Why alternative future methodologies?
+- Why alternative future methodologies?
+	- Now, more than ever, energy systems which promote life, peace and prosperity are urgently needed. The transition(s) to a better energy system must be rapid to avoid potential catastrophe such as climate change and reduce potential unnecessary suffering. The transition(s) must be smooth to minimize social disruptions from such things as finite oil supply and environmental degradation. The transition(s) must promote peace so as not to fertilize conflict already surrounding resource security.
+	- 5. Methodology (interview, cla, integral, deconstruction, genealogy, empirical, futures triangle)  The recognized approach to research (i.e methodology, such as ethnography, experimental research, grounded theory, action research) and the recognized research techniques or procedures (i.e. methods, such as interviews, case studies, document analysis, statistical analysis) to be used, and how these fit into the overall research design (up to 500 words – 2 pages)   CLA  Integral  Deconstruction  Genealogy  Futures Triangle  Visioning  Anticipatory Action Learning  Interviewing  Surveys  Literature review – the map  Describe your proposed methods in sufficient detail so that the reader is clear about the following:   • What kind of information will you be using?  • From what sources will the information be obtained?  • What resources will you require?  • What methodology will you be using?  • Why have you selected this approach?  Again, use futures triangle.  Theory and Method • CLA “creates transformative spaces for the creation of alternative futures. It is also likely to be useful in developing more effective – deeper, inclusive, longer term – policy”.
+	- 6. Theoretical framework (empirical, interpretive, critical, action learning) A short list of key references related to the topic and brief discussion of some of the main ideas in this literature relevant to the proposed research (up to 1000 words, 3 pages)
+	- Theoretical Orientation Your aim here is to state your basic ideas on the topic.   • First, state the various theoretical approaches taken in your topic. Which one do you propose to use in your research and why? Where, tentatively do you stand on the topic?  • If there are various theories on your topic or in your field, which one(s) will you use in your conceptual framework for your thesis?  • Which terms or trends do you wish to follow up from the literature review?  • Do you have any fresh suggestions of an explanatory, interpretative, or programmatic kind? Ask Yourself . . .  • Which pieces of research seem to have been most successful, the most promising and which less so?  • What are the major lines of criticism that can be levelled at previous work?  • What major omissions, gaps or neglected emphases can be identified?   • Think it Through  • Perhaps the best way to approach this section is to set down your main insights, hypotheses, hunches, or even hopes about your topic.  • In view of past theory and research, and your emerging issues, what are the areas that you expect to have findings?   7. Chapter Outline  8. Expected Bibliography
+	- 9. References   Inayatullah, S. (2005), Questioning the Future: Methods and Tools for Organizational and Societal Transformation, Tamkang University Press, Tamsui. Inayatullah, S. (Ed.) (2004), The Causal Layered Analysis Reader, Tamkang University Press, Tamsui. Inayatullah, S. (2008) Six Pillars: Futures Thinking for Transforming, Foresight, Vol. 10 No. 1, pp.4 – 21. CSIRO Energy Futures Forum, “The Heat is On” Kaspura, A. “Australia’s Energy Future”, Institute of Engineers Australia Australian Bureau of Agriculture and Resource Economics (ABARE), “Energy in Australia 2009” IEA (International Energy Agency) “Energy Policies of IEA Countries: Australia – 2005 Review”,
+- Critical Futures Studies
+- Actor Network Theory
+- Complexity and Wicked Problems
+- Socio-Technical Transition frameworks
+- Futures Mapping and Knowledge Cartography
+- Debate mapping and Argument Visualisation
+- Limits of Research
+- 1.6 Limits of Research  To guide the reader, as well as to clearly distinguish this work from any mistaken idea of lumping it with the plethora of energy “futures” works pieces already available, this section succintly presents the essence of the research. Here is summarised what this research is about, what its not about, what it does and doesn’t cover, and what it will, and will not, do.
+- Not the stockmarket, speculation or trading.
+- This work has nothing directly to do with the speculation of energy commodity prices on the “futures” market. It is concerned with the traditional sense of the word “future” as “a time yet to come”, which carries with it expectations, aspirations, fears, historical inertia, wildcard and outlier events (both foreseen and unforeseeable), cyclic phenomena and the unconscious becoming conscious.
+-
+- Using critical and transformative futures theory and methodologies applied to gross energy supply, distribution and usage, the over-arching aim is to create more inspiring and more robust energy futures, with a goal being to assist the healing of conflict within the energy domain.
+- Not prediction or forecasting.
+- Forecasts have been, and will likely continue to be, one of the two dominant futuring efforts in energy and resources. There is no shortage of forecasts and predictions and therefore no need for this research to add to the list, except where the nature of the forecast or prediction may be distinctly novel. It is argued that forecasting is over-emphasised to the detriment of itself energy futures and the method itself, devaluing its very own worth. While energy forecasts can have a useful planning and provocative role, they are also typically inaccurate and unstable. [Ref & Citations]  Excessive reliance on forecasting also devalues the role of agency, resigning our lot to uncontrollable external factors and “hidden hands”. The view is we merely need to know what has already been determined to happen in the future and situate our organiszation most strategically.   Distinct from “foresight” which carries more of a capacity-building connotation, forecasting narrows and closes the future, which is often neither accurate or empowering [use quotes here on limitations of forecasting]. Forecasting undoubtedly does have its value, particularly in its identification of negative business-as-usual trends. The argument here is that it is over-valued and over-exercised.  Rather, this research will look at athe wider spectrum of methods used in energy futuring, encouraging the increased use of those which open up the future and create space for the generation of authentic, empowering alternaives.
+- Distinct from climate change policy and response.
+- Why “energy” and not “climate change”?  The research focuses on “energy” rather than “climate change”. This is for a number of reasons. From an initial literature survey, it is the author’s opinion that climate change driven energy research dominates energy discourse. Understandably, climate change presents a grand challenge with far-reaching consequences. However, it is not the sole driver of energy futures. This research intends to explicate that.
+-
+- In fact, it is hypothesised that climate change alone may not be a sufficient or effective driver of energy futures to ultimately address climate change. An inappropriately heavy focus on climate change is a driver of energy futures may indeed limit the efficacy or appeal of energy futures.  The purpose of taking a critical futures approach to the topic of energy is to “open up” the future, rather than reinforce hegemonic views.
+-
+- As a counter-balance, one would hope to see the futures of climate change (as opposed to the geophysical futures of the climate) thoroughly investigated as well, though this will be beyond the scope of this study.  At one level, primarily because anthropogenic climate change is seen in this research, at one level, as a symptom of an energy problem, and not the underlying problem itself. From the point of view of this research, “responding to climate change” highlights the cause-effect confusion hypothesised in this work, rather than responding to the socio-economic energy systems which produced it. By focusing on climate change, other lesser publicised symptoms of the modern industrial energy system may be neglected.
+-
+- Furthermore, the issue of climate change is not completely a subset of energy but there is a strong overlap in favour of energy being the broader issue of concern. Any response to climactic changes through mitigation and adaptation will require a change in energy policy, as well as energy to implement changes, responses and solutions.
+-
+- According to the Intergovernmental Panel on Climate Change (ref?), the leading causes of human induced climate change are results of modern stationary energy generation, transport, agriculture and deforestation practices. While the first two in the list are obvious, agriculture and forestry serve as significant sources of energy, significant users of energy and significant sources and sinks of greenhouse gas emissions. The “food or fuel” debate looms as a crisis point in  biofuel energy futures, as do “food miles” and a secure fuel supply for food supply.
+-
+- A result of this research may be to directly include the likes of agriculture and biomass management within the realms of energy policy to capture the full picture of the energy system and thus create better alternative energy futures.  It is also the author’s initial opinion that climate change driven energy research dominates energy discourse.
+-
+- Understandably, it presents a grand challenge with far-reaching consequences. However, it is hypothesised that climate change alone may not be a sufficient driver of strategy to ultimately address climate change. Furthermore, by focusing on climate change, other lesser publicised symptoms of the modern industrial energy system may be neglected. Climate change may be a symptom of modern energy policy and it may be one of many symptoms. No doubt climate change sits as one of, if not, the major drivers of global energy futures. However, it is a sub-question of this research whether it sits as an effective driver of energy futures and policy. By taking an open energy futures focus, its theorised that alternative futures open up to include broader possibilities than if climate change were the sole driver. An open energy futures approach would seek address climate change as well as other energy issues, such as poverty and development, peak oil and a carbon based economy, terrorism and nuclear risks. An “energy futures” driven approach with biospheric integrity as a weighty element serves to complement the climate change driven research, enhancing the chances for social and economic prosperity, as well as environmental.
+- Suggestive, not prescriptive.
+- Offering alternatives rather than answers or prescribe pathways. The literature is replete with “solutions” for a sustainable, secure, clean, green, prosperous, cheap, limitless, safe, [insert adjective here] energy future. The language is strong and the arguments are unequivocal, often carrying a sense of intellectual superiority and finality. “My way is the best because…”   This research argues that this very prescriptive approach constitutes part of the problem – the poor ability to compromise, contextualize and co-operate. Rather, this work adopts the idea that a) everyone has, and is, part of the answer; and b) no one has all of the answer; and c) the answer, or part thereof, is best generated from within, not provided from without.
+- Macroscopic view over microscopic
+- More concerned with trends, deep patterns, underlying myth and process. The details of energy futures, and their surface critique, constitute the feedstock of this work. They are readily available to the reader via the bibliography and there is no need to repeat them.
+-
+- The aim of this work is to introduce depth and breadth to what might be considered a narrow and shallow discourse. This work will attend to the detail of energy futures to the degree required to ascertain the essential, underlying structures and features, as well as the goals for which they are created. These may differ from the descriptions given by stakeholders themselves.  Alternatively, detail may be focused upon where the energy future expressed is novel or little known. This work hopes to introduce an energy future that is novel in content to every reader in the effort to present a wider range of genuine alternatives.
+- Process determines content and results
+- With an understanding that the results (content) of investigation and analysis are, to a large degree, determined by the tools used and the procedure followed, this study prioritises examination of the methods employed in creating energy futures, and their inherent assumptions. This is where a focus on detail is more likely to be apparent. “Pay attention to the process, and the results will take care of themselves”, is the adage that is relevant here.
+- Not questioning validity of drivers.
+- In this work it is the intention to minimize moralising, steer clear of debate over whether climate change due to anthropogenic global warming is real or not; or whether peak oil is a valid phenomenon or not.
+- Will not repeat what is done at length elsewhere in the mainstream energy debate..
+- The purpose of this work is to recontextualise and reframe the energy debate, not repeat and rehash what has gone before.   The intention is to respect all futures, not to question the validity of. However, it is the intention to question their effectiveness in realising their purported objectives. In particular, climate change debate, technology validity debate, financial mechanisms debate etc. It will instead attempt to look at what underlies each of the positions on these energy-related issues.
+- Not Discuss technologies in detail.
+- This is done by many others
+-
+- It will, however, call into question
+- Shining a light on current energy futures
+- Mapping energy futures. Uncovering hidden factors that may be powerful forces in directing the world’s energy future.
+- Chapter Overview
+- Expected Bibliography
+- References for QAEF (old)
+- 1. Encyclopedia of Energy, Preface
+- 2.
+- 3. Inayatullah, S. (2005), Questioning the Future: Methods and Tools for Organizational and Societal Transformation, Tamkang University Press, Tamsui.
+- 4. Inayatullah, S. (Ed.) (2004), The Causal Layered Analysis Reader, Tamkang University Press, Tamsui.
+- 5. Inayatullah, S. (2008) Six Pillars: Futures Thinking for Transforming, Foresight, Vol. 10 No. 1, pp.4 – 21.
+- 6. CSIRO Energy Futures Forum, “The Heat is On”
+- 7. Kaspura, A. “Australia’s Energy Future”, Institute of Engineers Australia
+- 8. Australian Bureau of Agriculture and Resource Economics (ABARE), “Energy in Australia 2009”
+- 9. IEA (International Energy Agency) “Energy Policies of IEA Countries: Australia – 2005 Review”
+- 02 - Surveying the Energy Panorama
+- Literature review of the context
+- The relevant research literature
+- existing forecasts
+- existing forecasting techniques
+- existing theories about energy development
+- existing theories of technology development and assessment
+- existing theories of appropriate technology use and relation to society
+- dominant models
+- documents and texts
+- journals
+- organizations
+- thinktanks
+- thinkers
+- theories of technology's role in the future
+- existing forecasts and models
+- existing forecasts
+-
+- existing scenarios
+- existing other eg. backcasts, wildcards etc.
+- existing forecasting techniques
+- existing forecasting techniques
+-
+- existing theories about energy development
+- existing theories about energy development
+-
+- existing theories of technology development and assessment
+- existing theories of technology development and assessment
+-
+- existing theories of appropriate technology use and relation to society
+- existing theories of appropriate technology use and relation to society
+-
+- dominant models
+- dominant models
+-
+- documents and texts
+- documents and texts
+-
+- journals
+- journals
+-
+- organizations
+- organizations
+-
+- thinktanks
+- thinktanks
+-
+- thinkers
+- thinkers
+-
+- theories of technology's role in the future
+- theories of technology's role in the future
+- The Present: Current energy macrodata
+- The Energy Present
+-
+- What is so now? Macrodata on supply, demand, consumption, (anything else...?).
+- Intro The Energy Present
+- A page describing this current state of affairs in the energy system, though much broader and more inclusive than any other typical analyses. Don’t get too fine grained. Should be broad. Should not draw links to problems, just yet. (This is the role of the “Energy Issues” section)
+- Contains “box links” to the subsections: resource data, issue data, sector data
+-
+-
+- Data
+- Resource Data search/browse and returns
+- Latest blog posts, filtered to this tag
+- functionality to Search/filter by particular resource
+- “Need/want to write/post” section ie. what is important to include (its also an invitation to anyone who wants to write)
+-
+- Issue Data search/browse and returns Data
+- Sector Data search/browse and returns Data
+- Problems, Potentials and Perceptions: Views on energy issues and challenges
+- Energy-centred and energy-related crises, as they are conventionally framed. Energy nexus issues. This could result in a Concept Map of issue inter-relationships.
+-
+- Problems, Potentials and Perceptions: Views on energy issues and challenges
+- and The Energy Potential  ??
+-
+- Not just about problems but opportunities as well?
+- Intro
+- Introduction page for this section
+- Notes on things like:
+- Different actors see/define the problem differently. Therefore, how do each of them define it? Furthermore, they PRIORITIZE differently. How do they prioritize?
+- Current Energy Issues
+- Latest blog posts, search/filter functionality, what’s needed/wanted
+-
+- Posts on is
+- Energy related Forecasts
+- Environmental concerns
+- Climate Change
+- Pollution. Smog. Particulates.
+- Energy and water quality
+- Energy Security and Economic Prosperity
+- Reliable supply chain of energy eg. oil crises, gas supply, uranium trade etc.
+- Peak Everything
+- The increased difficulty and expense of obtaining resources; reduced availability
+- Peak oil
+- Peak coal
+- Peak phosphorus
+- How does this relate to energy supply and cycles?
+- Peak rare earth metals
+- Lithium, Neodymium et al. Their growing importance and expected supply bottle necks.
+- Nuclear related risks
+- Nuclear accidents
+- Nuclear waste
+- Storage. Anything else?
+- Nuclear proliferation and war
+- Physical Conflict
+- War over energy resources
+- Terrorism
+- Energy system based terrorism
+- Energy poverty, inequality and development
+- Poor access to energy of many. Subsequent retardation of development.
+- Inefficacy of existing energy drivers!
+- As it stands, energy future drivers are not very effectual, or not effective ENOUGH.
+- Energy and Theories of Civilizational Collapse
+- The energy components of these theories. Energy-centric theories of collapse. Olduvai Gorge Theory. Hirsch report. Rimini protocol. et al.
+- Plans and Proposals: Existing energy futures
+- Plans and Proposals: Existing energy futures
+-
+- Survey of global energy policy, strategy and futures. What are the solutions, the pathways, the visions? What are the current energy futures? Be exhaustive. Start with dominant and prominent. Include as fringe as possible.
+- Intro
+- Search returns
+- Stakeholder Future Post Intro
+- Stakeholder Future etc. Post Intro
+- Introduction to initial Energy Futures classification
+- Use existing/conventional categories to classify stakeholder-futures. Discuss this. Traditional battle lines. Discuss criteria for stakeholder selection (because I can't survey all). Representative sample. What taxonomies exist already? Use stakeholders' own language.
+- First attempt at simplifying energy technologies & systems
+- First attempt at simplifying energy technology systems and ideas  1. List all revolutionary energy techs a. High-altitude wind b. Organic solar cells c. Carbon nanotube solar antennae d. All/any waste to biofuel e. Solar gasoline (using solar energy to convert co2 into gasoline) f. Solar thermal g. Volcanic geothermal h. Hygroelectricity i. Piezoelectric motion, traffic j. Nanotech carbon capture membranes k. Solid-oxide fuel cells (on-site electricity generation from organic matter) l. Solar Roadway (roads made of heavy-duty solar panels) www.solarroadways.com  m. Co-operative infrastructure networks – electricity cable, fibre optic, gas, water, roads n. V2G – Vehicle-to-grid renewable energy storage in EV’s o. Ceramic fuel cells p. Fracking, tar sands, shale gas, CSG technologies…  q. LIFE fusion – laser ignition fusion energy r. Global thermostat – air capture of CO2 using waste heat energy s. Sahara Solar breeder project http://www.youtube.com/watch?v=UdO6T1TIDzQ  t. Solar thermo-chemical http://www.good.is/post/video-mit-researcher-explains-new-third-way-solar-innovation/  u. Trigeneration v. Desert-algae photobioreactor CCS producing bio-oil http://bit.ly/fVjNFh  w. Hydrogen Highway Network http://www.hydrogenhighway.ca.gov/  x.  y. LETR / “cold fusion” z. ZPE 2. Classify based on schema a. Renewability b. Availability & accessibility c. Mobility & Portability d. Decentralization e. Empowerment potential f. Controllability g. Understandability h. Feasibility (? What does that mean? Feasible on what criteria?) i. Communicability j. Growth k. Technology development l. Cleanliness – energy required to maintain cleanliness m. EROEI n. Source of inspiration (conscious or unconscious) i. Separation, destruction eg. Fission ii. Unification eg. Fusion iii. Biomimicry eg. Artificial solar ‘leaves’ iv. Past technology eg. Windmills v. Science fiction
+	- School of thought Vinod Khosla – the best way to forecast the future is invent it.
+- Global energy stakeholders working list
+- Global & International Energy Stakeholders – Working List  1.1 Global and international energy bodies 1.1.1 Global/Generalist 1.1.1.1 IEA – International Energy Agency 1.1.1.2 WEC – World Energy Council 1.1.1.3 WEA – World Energy Assessment (UNDP/WEC) 1.1.1.4 IIASA – International Institute for Applied Systems Analysis 1.1.1.5 WRI – World Resource Institute 1.1.1.6 IRENA – International Renewable Energy Agency 1.1.1.7 REN21 – Renewable Energy Policy Network for 21C 1.1.1.8 Clean Energy Ministerial 1.1.1.9 WFES – World Future Energy Summit   1.2 Major energy producers & consumers governments 1.2.1 USA 1.2.2 China 1.2.3 Australia 1.2.4 EU 1.2.5 Russia 1.2.6 Saudi Arabia 1.2.7 Iraq 1.2.8 Iran 1.2.9 India 1.2.10 Brazil 1.2.11 Japan 1.2.12 Nigeria 1.2.13 Mexico 1.2.14 Indonesia 1.2.15 Libya 1.2.16 South Africa 1.2.17 Canada 1.2.18 Germany 1.2.19 France
+	- 1.3 Developing nations 1.4 Small-island states 1.4.1 Global sustainable energy islands initiative 1.4.2 Maldives 1.4.3 Hawaii Clean Energy Initiative  1.5 Other (special case) 1.5.1 Iceland 1.5.2 Bolivia 1.5.3 Denmark 1.5.4 Singapore  1.5.5 Cuba 1.5.6 Future energy “cities” 1.5.6.1 Masdar 1.5.6.2 Tsukuba 1.5.6.3 Novosibirsk 1.6 Cities, Corridors and Regions 1.6.1 Sydney – trigeneration http://bit.ly/fzosPt 1.6.2 Mount Isa – Townsville Copperstring 1.7 Big energy & resources 1.7.1 Shell 1.7.2 BP 1.7.3 Chevron-Texaco 1.7.4 BHP 1.7.5 Rio Tinto 1.7.6 Exxon Mobil 1.7.7 Peabody Energy 1.7.8 Suzlon 1.7.9 RE-Energy 1.7.10 Vestas 1.7.11 Tata 1.7.12 Chinese state-owned coal companies 1.7.13 Gazprom 1.7.14 Suez 1.7.15 French nuclear companies 1.7.16 E.ON 1.7.17 Enel 1.7.18 ENI 1.7.19 RWE AG 1.7.20 Vattenfall 1.7.21 Petrobras  1.7.22 Japanese electrics: Kansai, Tohoku, Osaka, Chugoku… 1.7.23 Sasol 1.7.24 Origin 1.7.25 AGL 1.7.26 American Electric Power   1.7.27 See: http://www.platts.com/Top250Home#
+	- 1.8 Other major energy companies 1.8.1 ABB 1.8.2 Suntech 1.8.3 Q-cells 1.8.4 Siemens 1.8.5 General Electric 1.8.6 Dow Chemical 1.9 Energy Associations and Organizations 1.9.1 Suppliers and Generators 1.9.1.1 REGA – Renewable Energy Generators Australia 1.9.1.2 National Generators Association 1.9.1.3 Energy Networks Association 1.9.1.4 Energy Supply Association of Australia 1.9.1.5 Electricity Utilities 1.9.1.6 Energy Market Operators – NEMMCO 1.9.1.7 Edison Electric Insitute   1.9.2 Users 1.9.2.1 EUAA – Energy Users Association of Australia  1.9.3 Scientists and Engineers 1.9.3.1 UCS – Union of Concerned Scientists 1.9.3.2 AIE – Australian Institute of Engineers 1.9.3.3 www.energyscience.org.au 1.9.4   1.10 Umbrella Energy Organisations 1.10.1 OPEC – Organisation for Petroleum Exporting Countries 1.10.2 World Coal Institute 1.10.3 WBCSD – World Business Council for Sust Development 1.10.4 EPRI – Electric Power Research Institute, USA 1.10.5 ISES – International Solar Energy Society 1.10.6 IWEA – International Wind Energy Association 1.10.7 IRENA – International Renewable Energy Agency 1.10.8 IGA – International Geothermal Association 1.10.9 Clean Energy Council 1.10.10 Westminster Energy Forum  1.11 Other Business and Industry 1.11.1 Consultants 1.11.1.1 McKinsey 1.11.1.2 Boston Consulting Group 1.11.1.3 Deloitte 1.11.1.4 Ernst & Young (indices for renewables and CCS) 1.11.1.5 Emerging Energy Research  1.11.1.6 Wood Mackenzie 1.11.1.7 Ecofys  1.11.2 Insurance 1.11.2.1 Allianz 1.11.2.2 Munich RE  1.11.2.3 Swiss RE 1.11.3 Engineering 1.11.3.1 The Warren Centre (collaboration with U.Syd) 1.11.3.2 SKM – Sinclair Knight Merz (as an example) 1.11.3.3 Halliburton, KBR 1.11.3.4 ABB 1.11.3.5 Siemens  1.11.3.6 European Power Plant Suppliers Association  1.11.4 Business consortiums -  1.11.4.1 Australian Business and Climate Group (Westpac, Rio Tinto, Anglo Coal, BP Australia, Mirvac, Swiss RE, Santos, Deloitte) 1.11.4.2 Australian Business Roundtable on Climate Change 1.11.4.3 Environment Business Australia 1.11.4.4 National Business Leaders Forum on Sustainable Development 1.11.4.5 Institute for 21st Century Energy (US Chamber of Commerce)  1.12 Key individuals - current 1.12.1 Generalist 1.12.2 Australia 1.12.3 US 1.12.4 Europe / UK 1.12.5 Asia 1.12.6 Activists 1.12.7 Hard-science scientists 1.12.8 Soft-science practitioners 1.12.9 Journalists 1.12.10 Entrepreneurs   Michio Kaku  Freeman Dyson / Kardashev  Cutler Cleveland  Vaclav Smil  Odum  Peter Schwartz (GBN)  Mark Jacobson, (Stanford University, renewables)  Barry Brook  Thomas Homer-Dixon  Richard Heinberg  David Holmgren  Tim Flannery  Ian Lowe  Tom Rees (IFR nuclear, SCGI)  Jose Goldemberg  Cliff Hooker (CRCCSC, backcasting)  David Rutledge (Caltech, Peak Coal)  Richard J. Eden (Cambridge)  David L Goldblatt/Goldbatt (ETH Zurich)  John Randolph & Gilbert M Masters (“Energy for Sustainability” text, chapter on “Energy Futures”)  Frank Cottrell (“Energy and Society”, 1995/2009)  Graham Pearman  John Rolls, (University of South Australia)  Thom Hartmann  Tom/James/John Romm (www.climateprogress.com)  John P. Holdren (Harvard)  Bill McKibben  T. Boone Pickens  Vinod Khosla  Barry B Hughes (Pardee Centre for International Futures, U.Denver)  Hugh Saddler  Chris Riedy   Jaco Quist  John Robinson (back-casting and socio-technical change)  Steven Greer  Graham Molitor  David Suzuki  David Bellamy  Greg Bourne  Don Henry  William Tiller, (Psychoenergetics) & Walter Dibble (subtle energy)  Ian Dunlop  Martin Thomas (SKM, ACRE, EnviroMission, Oz nuclear review panel)  Jenny Ivner (energy scenarios & public participation)  Buckminster Fuller  Medard Gabel (“Energy, Earth and Everyone”)  Daniel Yergin  Guy Pearse  Richard Sears (MIT?)  Robert Bryce, Peter Huber  (Manhattan Institute)  Warwick McKibbin (ANU, macroeconomics, alternatives to UN)  William W Hogan (Harvard)  Frank Geels (Uni of Sussex)  Amory Lovins (Rocky Mountain Institute, “Soft Energy Paths”)   Hazel Henderson  Udo Bachhiesl (barriers to renewable energy)  Mohan Munasinghe (energy policy, energy modelling)  John Byrne (university of delaware)  Leigh Glover (uni melb)  Benjamin Sovacool  Peter Tertzakian   Gregor Macdonals (www.gregor.us, www.stocktwits.tv, www.gregorweekly.com )  Arnulf Grubler  David Victor (PESD, Stanford)  Nebosja Nakicenovic  Peter Odell  Roger Pielke Jr. (energy, climate, science and policy)  Mark T. Brown (Uni of Florida, student of Odum)  Frank N. Laird (Uni of Denver)  Jim Falk (uni melb)  Jeffrey Sachs (Columbia uni, Earth Institute)  Bernard C. Beaudreau  James Lovelock  Amulya Reddy  Terry Tamminen  Dr Paul Epstein (Harvard Medical, climate change and health)  David Criswell (lunar solar power)  1.13 Key individuals – historic 1.13.1 Tesla 1.13.2 Buckminster Fuller 1.13.3 Archimedes 1.13.4 Odum 1.13.5 Edison 1.13.6 Ivan Ilyich 1.13.7 Da Vinci 1.13.8 Watt, Newcomen 1.13.9 Whittle and gas turbine developers 1.13.10 Goddard, Tsiolkovsky, von Braun & rocketry 1.13.11 Fred Cottrell 1.13.12 Einstein 1.13.13 Arthur C Clarke 1.13.14   1.14 NGO’s  1.14.1 Energy 1.14.1.1 Bellona 1.14.1.2 SCGI – SC Global Initiative 1.14.1.3 Gigaton Throwdown 1.14.1.4 Beyond Zero Emissions, P2P2020 1.14.1.5 RePower America  1.14.1.6 Post Carbon Institute 1.14.1.7 Alternative Technology Association 1.14.1.8 The Natural Edge Project  1.14.1.9 Oil Change International 1.14.1.10 International Institute for Energy Conservation (IIEC) 1.14.1.11 ClimateWorks Australia 1.14.1.12 100percent.org.au 1.14.1.13  The Pickens Plan 1.14.1.14 Centre for Alternative Technology (UK) 1.14.1.15 WADE – World Alliance for Decentralized Energy 1.14.1.16 GNESD - Global Network of Energy for Sust Dev 1.14.1.17 DESERTEC 1.14.1.18 European Climate Foundation 1.14.1.19 Practical Action (Energy poverty) 1.14.1.20 E+Co  1.14.2 Environmental 1.14.2.1 Greenpeace 1.14.2.2 Friends of the Earth 1.14.2.3 WWF http://wwf.panda.org/what_we_do/footprint/climate_carbon_energy/energy_solutions/renewable_energy/sustainable_energy_report/  1.14.2.4 350.org 1.14.2.5 This is reality.org  1.14.3 Community 1.14.3.1 Community climate action groups 1.14.3.2 Community sustainable energy groups eg Zero Carbon Moreland 1.14.3.3 Transition towns movement 1.14.3.4 EnergyCities (EU, local government) 1.14.3.5 Citizens for Affordable Energy http://www.citizensforaffordableenergy.org/  1.14.3.6 Citizens Electoral Council www.cecaust.com.au   1.14.4 Economic-focused energy/environment 1.14.4.1 New Economics Foundation (NEF)  1.14.5 Social-focused energy/environment 1.14.5.1 IFG – International Forum on Globalisation 1.14.5.2 Civil Society Institute 1.14.5.3 Socialist Alliance  1.14.6 Religious Green 1.14.6.1 Australian Religious Response to Climate Change (ARRCC) 1.14.6.2 Faith and Ecology Network (FEN) 1.14.6.3 Green Faith Australia  (GFA)   1.15 Energy Thinktanks, Research Institutions 1.15.1 CSIRO Energy Futures/Transformed Flagship 1.15.2 ASPO – Association for the Study of Peak Oil, Global 1.15.3 MIT / MITEI, USA 1.15.4 Pew Centre on Global Climate Change, USA 1.15.5 RISO, Denmark 1.15.6 ECN, Netherlands 1.15.7 Nordic Energy Perspectives 1.15.8 CRCCSD 1.15.9 IIASA (see global energy bodies) 1.15.10 TERI 1.15.11 Energy Foundation, China  1.15.12 CERA – Cambridge Energy Research Associates 1.15.13 InterAcademy Council (have done workshops too!) 1.15.14 Rocky Mountain Institute 1.15.15 NEPI – National Energy Policy Institute  1.15.16 American Energy Innovation Council 1.15.17 Electric Power Research Institute (EPRI) 1.15.18 LIFE, Lawrence Livermore National Labs 1.15.19 Energy Alliance of Australia 1.15.20 Institute for Energy Research 1.15.21 Americans for Energy Leadership 1.15.22 Clean Air Task Force   1.16 Policy Thinktanks 1.16.1 Manhattan Institute 1.16.2 Institute of Public Affairs (Australia) 1.16.3 Bipartison Policy.org (USA) 1.16.4 George C Marshall Institute (USA) 1.16.5 The Breakthrough Institute (USA) 1.16.6 Center for American Progress
+	- 1.17 Universities 1.17.1 Australia 1.17.1.1 Institute for Sustainable Futures, UNSW 1.17.1.2 Melbourne Energy Institute, University of Melbourne 1.17.1.3 Centre for Energy Technology, University of Adelaide (Energy Futures seminar series 2010  http://www.adelaide.edu.au/cet/events/energyfutures.html) 1.17.1.4 Centre for Energy Research and Policy Analysis, University of New South Wales 1.17.1.5 Global Change Institute, University of Queensland 1.17.2 UK 1.17.2.1 Sussex energy group, University of Sussex 1.17.2.2 Durham energy institute, Durham University 1.17.2.3 Oxford, Environmental Change Institute 1.17.2.4 Energy @ Cambridge, Resource Dynamics research http://www.energy.cam.ac.uk/directory/research-themes/crosscuttingthemes/resourcedynamics   1.17.3 USA 1.17.3.1 PESD, Stanford 1.17.3.2 Global Climate and Energy Project, Stanford  1.17.3.3 Belfer centre, Harvard 1.17.3.4 MIT Energy Initiative, MIT 1.17.4  1.17.5   1.18 Geo-political groups 1.18.1 OPEC 1.18.2 OECD 1.18.3 G8 1.18.4 G20 1.18.5 G77  1.18.6 ASEAN 1.18.7 NATO 1.18.8 OAS 1.18.9 BRIC 1.18.10 African Union 1.18.11 NATO 1.18.12 CIS (former Soviet states)  1.19 Indigenous 1.19.1 Australian aborigine – uranium, coal, gas 1.19.2 North american - oil 1.19.3 South american – oil & gas (eg. Bolivia) 1.19.4 Russian  1.19.5 IFG – International Forum on Globalization 1.20 Futures groups 1.20.1 CSIRO Energy Futures Flagship 1.20.2 EFONET – Energy Foresight Network, EU 1.20.3 Foundation for the Future 1.20.4 GBN (Peter Schwarz) 1.20.5 Institute of Alternative Futures 1.20.6 World Future Council 1.20.7 Pardee Centre for International Futures (U.Denver) 1.20.8 Rand Corporation  1.21 Workers 1.21.1 Unions eg. CMFEU 1.21.2 Non-unionized white-collar labour (professionals) 1.21.3 Non-unionized blue-collar eg. Bolivian, Nigerian, Chinese 1.21.4 Coal workers 1.21.5 Oil & gas workers 1.21.6 Socialist Alliance   1.22 Consumers & Householders 1.22.1 Public polls, reports, studies and workshops 1.22.2 Articles in Encyclopedia of Energy 1.22.3 Community-driven groups 1.22.3.1 Ghereng (division over geothermal, west of Melbourne)  1.23 Competitions 1.23.1 Warren Centre for Engineering, Energy Futures Essay 1.23.2 X Prize – Energy and Environment  1.23.3 Zayed Future Energy Prize (World Future Energy Summit) 1.23.4 Virgin Earth Prize 1.23.5 Templeton Prize ?   1.23.6 Japan 1.23.7 India 1.23.8 China 1.23.9 South Africa  1.24 Other ideologies, movements & concepts 1.24.1 Energy Descent / Transition Towns 1.24.2 The Great Transition 1.24.3 Micro-credit / Grameen Bank, Mohammad Yunus 1.24.4 Club of Prague / Club of Rome (this could be mainstream) 1.24.5 Emergy Analysis & Social Metabolism /Ecological Economics? 1.24.6 Defence & Military 1.24.7 Energy Evolutionary theory 1.24.8 Prout  1.24.9 Buckminster Fuller 1.24.10 Tesla 1.24.11 The Orion Project/The Disclosure Project/SEAS 1.24.12 Taleyarkan & Fleischmann/Pons cold fusion controversies 1.24.13 LIFE – Laser Ignition Fusion Energy (Lawrence Livermore) 1.24.14 NANRES – NanoAssociation for Natural Resources and Energy Security (nanotech)  1.25   “Mainstream anti-consensus” groups 1.25.1 Climate change skeptics & deniers 1.25.1.1 Carbon tax is big swindle  1.25.2 Peak oil skeptics & deniers 1.25.3 Energy indepedence critics (vs interdependence, dependence and co-dependence) 1.25.4 The nuclear spectra 1.25.4.1 Nuclear is king 1.25.4.2 Current nuclear does have some role  1.25.4.3 Only Gen-IV nuclear is good (out of nuclear AND all techs) 1.25.4.4 No nucelar whatsoever 1.25.5 Renewables spectra 1.25.5.1 Renewables can’t supply baseload 1.25.5.2 Renewables too expensive 1.25.5.3 100% renewables is the best way to go
+	- Note: REEGLE (www.reegle.info) is a venture of REEEP, and is a good point for identifying ACTORS and stakeholders.
+- Outline of stakeholders
+- 2  Surveys and Forecasts. Surveying the Forecasts. The content and context of Australian Energy Futures. Framing the issue. What is the background to my question? What exists now? What is the impact of what exists now?  Introduction Method - Literature Review, Interviews
+	- 2.1  Introduction. Outline chapter. Explain title. Methods. Table of Futures.  2.2  Survey of “Energy”. Method: Literature Review  2.2.1  As a concept  2.2.2  As a tool  2.3  Survey Australian Energy Futures  2.3.1  Selection of stakeholders and players  2.3.2  Government  2.3.2.1  Federal  2.3.2.2  Opposition  2.3.2.3  Greens Party  2.3.2.4  State governments  2.3.2.5  COAG  2.3.2.6  Ministerial Council on Energy  2.3.2.7  Energy Reform Implementation Group  2.3.2.8  …  2.3.3  Energy Network  2.3.3.1  ESAA  2.3.3.2  APPEA  2.3.3.3  Energy Users Association of Australia  2.3.3.4  NEMMCO  2.3.3.5  Energy Networks Association  2.3.3.6  …  2.3.4  Industry and Business  2.3.4.1  Australian Business Roundtable on Climate Change  2.3.4.2  Clean Energy Council  2.3.4.3  Environment Business Australia  2.3.4.4  Australian Business and Climate Group  2.3.4.5  Committee for Economic Development of Australia  2.3.4.6  National Business Leaders Forum on Sustainable Development  2.3.4.7  ACTU, CMFEU, ETU  2.3.4.8  Australian Institute of Energy  2.3.4.9  Uranium Association of Australia  2.3.4.10  …  2.3.5  Research Organizations  2.3.5.1  CSIRO  2.3.5.2  ATSE  2.3.5.3  Institute of Engineers  2.3.5.4  ABARE  2.3.5.5  ASPO-Australia  2.3.5.6  Permaculture Sector  2.3.5.7  RISE, Murdoch University  2.3.5.8  Energy Research Cluster, University of Adelaide  2.3.5.9  Climate Change Law and Policy Centre, ANU  2.3.5.10  Co-operative Research Centre for Coal in Sustainable Development (now defunct  2.3.5.11  Institute for Sustainable Futures  2.3.5.12  Centre for Sustainable Energy Systems, ANU  2.3.6  Non-governmental organizations and think-tanks  2.3.6.1  WWF  2.3.6.2  Greenpeace  2.3.6.3  ACF  2.3.6.4  The Australia Institute  2.3.6.5  The Climate Institute  2.3.6.6  Institute of Public Affairs  2.3.6.7  Beyond Zero Emissions  2.3.6.8  Safe Climate Australia (IMPORTANT!!)  2.3.6.9  …  2.3.7  Key individuals  2.3.7.1  Mark Diesendorf  2.3.7.2  Ian Lowe  2.3.7.3  Graham Pearson  2.3.7.4  Alan Pears  2.3.7.5  Tim Flannery  2.3.7.6  Chris Riedy  2.3.7.7  Warwick McKibben  2.3.7.8  Barry Brooks  2.3.7.9  Ian Dunlop  2.3.7.10  Guy Pearse  2.3.7.11  David Holmgren  2.3.7.12  Jim Falk, Uni Melbourne  2.3.7.13
+	- 2.3.8  Public, surveys and opinion polls  2.3.8.1  Climate change  2.3.8.2  Peak Oil  2.3.8.3  Alternative Energy and Renewables  2.3.8.4  Nuclear  2.3.8.5  Energy Efficiency  2.3.8.6
+- Stakeholders and Players in the Australian Energy Game
+- Stakeholders and Players in the Australian Energy Game  Types:  Suppliers/Providers/Producers  Users  Generators  Distributors  Retailers  Administrators/Regulators  Investors - financial  Workers  Owners  Insurers  Umbrella Groups, Joint task forces  Domains:  Corporate and Business  NGO  GO  Public/Community  Research  Consultancy  Research, Thinktanks and Policy Institutes  ASPO – Australian Association for the Study of Peak Oil and Gas  CSIRO  RISE – Reseach Institute for Sustainable Energy, Murdoch University (Transport, Decentralization focus)  CSES – Centre for Sustainable Energy Systems, ANU (Solar focus)  Institute for Sustainable Futures – University of Technology Sydney  Energetics  Enerstrat –Energy Strategies  www.energyscience.org.au  Centre for Coal in Sustainable Development  Institute for Public Affairs  The Climate Institute  Energy Research Cluster, University of Adelaide  Australian Institute of Energy  The Natural Edge Project  NGO  WWF  Greenpeace  Australian Conservation Foundation  Clean Energy Council/BCSE - Business Council for Sustainable Energy  Alternative Technology Association  Australian Institute of Energy – check out 2001 conference proceedings!!!  Australian Business Roundtable on Climate Change  Energy Users Association of Australia  Uranium Association  Australian Coal Assocation  ASPO  Environment Business Australia  Government  Australian Greenhouse Office/Department of Climate Change  Ministerial Council for Energy  ANSTO  Department of Resources, Energy and Tourism  Each state government’s enviro/sustainability/resources ministry  Sustainability Victoria  Department Primary Industries  Department Environment, Water, Heritage and Arts
+	- Corporate  Woodside  Shell  BHP-Billiton  X-Strata   BP Australia  Utilities – Origin, Integral, AGL  IAG (Insurance Australia Group)  Swiss RE  Energetics  Creative Energy Solutions  Australian Business and Climate Group (Westpac, BP Australia, Anglo Coal, Mirvac, Swiss RE, Santos, Deloitte, Rio Tinto) !!!  SKM (Sinclair Knight Merz)  Umbrella Orgs  Australian Business and Climate Group  (Westpac, BP Australia, Anglo Coal, Mirvac, Swiss RE, Santos, Deloitte, Rio Tinto) !!!  Clean Energy Council/BCSE - Business Council for Sustainable Energy  Australian Business Roundtable on Climate Change  National Generators Association  Renewable Energy Generators of Australia  Energy Networks Association  Energy Users Association of Australia  Energy Supply Association of Australia  Energy Reform Implementation Group  National Business Leaders Forum on Sustainable Development  Environment Business Australia (heaps of big, important companies)  Labour Force  Coal workers  Oil workers  Traditional workforce (which will encounter the shocks on the ground)  ACTU   Area of Focus  Climate Change/Global Warming  Peak Oil/Permaculture  Electricity supply  Transport fuels  Biofuel  Renewable Energy supply  Modelling  Market Analysis  Nuclear  Fossil Fuels – clean coal, natural gas  Electricity Market Regulation  Education  Health
+	- Key Individuals  Prof Ian Lowe  Prof Mark Diesendorf, Sustainability Centre  Ian Dunlop  Guy Pearse  Penny Wong – Minister for Climate Change and Water  Michael Angwin – Australian Uranium Association  Dr Karl Mallon  Dr John Wright – CSIRO Energy Futures  Greg Bourne – CEO WWF, former BP Australiasia CEO and energy advisor UK government  Dr Hugh Saddler – Australian Energy Policy legend  Dr Sally Mackinnon – CEO, Ethos Foundation (Transformative Negotiation)  Tim Winton – The Permaforest Trust  Prof David Harries – RISE, Murdoch Uni  Dr Adrian Williams – GeoDynamics (hot rocks), lives in Camberwell  Rodger Meads – Conergy, formerly Director Solahart, solar advocate critical of Clean Energy Council  Ziggy Switkowski  Prof Ross Garnaut  Prof Andy Pitman – University of New South Wales  Dr Andrew Macintosh – ANU, Climate Change Law and Policy Centre  Dr Peter McCabe – CSIRO, fossil fuels researcher  Prof Frank Larkins, Uni Melb, advisor to Vic gov  Organizations I could work as a part of/for in doing this research  Enerstrat/Energy Strategy – Hugh Saddler, Canberra  Energetics, Melbourne  EnergyQuest, Melbourne  Conergy – Rodger Meads  Clean Energy Council, Melbourne  ACF  CSIRO – Energy Transformed Flagship, Energy Futures  The Climate Institute,  Shell  Swinburne Strategic Foresight Unit  Garnaut Climate Change Review  www.energyscience.org.au  ASCEnT 2020
+- New energy movements not so new
+- New energy movements and ideas are really not so new  1. Energy is new Sputnik race  Still a ‘race’ – competitive over others; we win, you lose. 2. Apollo effort for energy 3. Marshall plan 4. Snowy river scheme  Framing as Sputnik race  Solar used on Afghan front – Renewable energy powering war http://news.cnet.com/8301-11128_3-20028553-54.html?part=rss&tag=feed&subj=GreenTech
+- Classification of Energy Stakeholder-Futures with representatives
+- List of major stakeholders and their futures. Will probably identify and label particular futures, and then associate organisations, individuals and publications to those futures. No! Classification comes after initial listing.
+- Global and international bodies
+- NGO but most likely government backed
+- International Energy Agency
+- World Bank
+- World Energy Council
+- IIASA
+- World Energy Assessment (UNDP)
+- World Resource Institute (WRI)
+- Others?
+- Governments
+- OECD
+- BRIC
+- Developing Nations
+- Bottom third of HDI ??
+- Small-island states
+- Global sustainable energy islands initiative
+- Maldives
+- OPEC
+- US DOE
+- Department of Energy, USA.
+- Big Energy
+- Multinational corporations
+- Sourcing and Refining
+- Resource extraction and supply business
+- Oil
+- Shell
+- Chevron
+- Other?
+- Coal
+- Peabody Coal
+- BHP
+- Xstrata
+- Tata ?
+- India?
+- Other?
+- Gas
+- Nuclear
+- Generation, distribution, transmission and supply
+- Utilities
+- Power companies
+- Are these the same as utilities?
+- Technology companies
+- Siemens
+- Mitsubishi
+- etc.
+- Insurance
+- Munich RE
+- Swiss RE
+- IAG
+- Burgeoning renewables
+- Growing in name and stature, if not real significance. Section for hybrids??
+- Solar
+- Desertec
+- Wind
+- Geothermal
+- Hydrogen
+- Biofuel
+- Ocean
+- Big social justice, environment and sustainability
+- Greenpeace
+- WWF
+- The Australia Institute
+- The Climate Institute
+- Safe Climate Australia
+- Umbrella Energy Associations and Organisations
+- Organisations, Societies, Institutes to cater to the needs of an industry and its growth. Often lobby groups. Q: Should these be grouped with their contributory/constitutive corporations? Probably yes. In fact, these could the focus as the mouthpiece of Big Energy...??
+- International Solar Energy Society
+- RENEW 21 (name??)
+- Australian Coal Association
+- Uranium associations
+- Clean Energy Council/BCSE
+- Association for the Study of Peak Oil
+- Post-Carbon Institute
+- NGO's with energy publications
+- who ?!?!
+- Union of Concerned Scientists
+- Australian Institute of Engineers
+- Science Council for Global Initiatives (SCGI)
+- Thinktanks & Research Institutions
+- Quasi-independent research institutions promoting directions and pathways.
+- Beyond Zero Emissions
+- International Institute for Applied Systems Analysis (IIASA)
+- CSIRO
+- equivalent to Australian government position?
+- Belfor Centre, MIT.
+- The Natural Edge Project
+- Energy descent/Transition movement
+- Transition towns. Permaculture etc.
+- Futures Groups
+- Futures organisations that have done energy work.
+- The Millennium Project
+- Institute for the Future (IFTF)
+- World Futures Society
+- Foundation for the Future (FFF)
+- Indigenous views
+- Workers, Consumers, Householders, Citizens groups
+- Student competitions
+- Time Magazine energy futures essays
+- Global Energy Initiative energy competition
+- NEEEC national energy essay competition
+- Advanced Technology groups
+- Groups & individuals that are developing scientifcally accepted technologies which are still in infancy.
+- Nuclear Fusion
+- OTEC
+- Integrated ocean systems
+- Key thinkers, tinkerers, Individuals, investors, small groups and publications
+- Academics or no, authors or not... Often they are leaders or representatives of a thought movement.
+- Current/Active
+- Kjell Aleklett
+- Norway
+- Richard Heinberg
+- Vaclav Smil
+- Benjamin Sovacool
+- Jeremy Rifkin
+- T. Boone Pickens
+- Sustainable Energy without the hot air author
+- Mark Jacobson
+- Stanford Uni.
+- David Holmgren
+- Permaculture
+- Daniel Yergin
+- The Prize. The Quest. Cambridge Energy Research Associates.
+- Cutler Cleveland
+- Boston Uni. Encyclopedia of Energy.
+- Mark Diesendorf
+- Freeman Dyson
+- Hazel Henderson
+- Thomas Homer-Dixon
+- Jose Goldemberg
+- David Rutledge
+- David Goldblatt
+- Vinod Khosla
+- Electric car recharge guy
+- Israeli?
+- John Holdren
+- Bill McKibbin
+- Frank Geels
+- Steven Greer
+- William Tiller
+- Dimitry Orlov
+- Peter Tertzakian
+- Amulya Reddy
+- James Lovelock
+- Barry Brook
+- David Criswell
+- Lunar solar power
+- Arnulf Gruber
+- Historical
+- Buckminster Fuller
+- Medard Gabel
+- Nikola Tesla
+- P.R.Sarkar
+- PROUT & NeoHumanism.
+- Ivan Ilyich
+- Energy and Equity. Beyond economics and ecology
+- Howard T. Odum
+- Kardashev-Dyson civilizations
+- Type I, II, III, IV civilizations
+- Julian Simon
+- Frank Cottrell
+- Arthur C. Clarke
+- Da Vinci
+- Edison
+- Westinghouse
+- J.P. Morgan
+- Energy Prizes and Competitions
+- Corporate, Academic, Start-up weekends etc
+- X-Prize
+- MIT Clean Energy Prize
+- Virgin ?
+- other...?
+- Warren Centre for Engineering
+- Energy Start-ups
+- MIT energy start-up weekend
+- Energy Excelerator
+- Hawaii. Including Asia-Pacific.
+- The Process: Energy futuring methods and techniques
+- The Process: Energy futuring methods and techniques
+- Current and dominant methods of energy futuring.
+-
+- What are the methods and techniques used to generate energy futures, proposals and strategies eg. modelling, delphi
+- Intro
+- Method A Post
+- Method B Post
+- Method C Post
+- Method D Post
+- etc.
+- Modelling
+- Scenarios
+- Backcasting
+- Delphi
+- Visioning
+- other...
+- Part II. Questioning the Energy Future
+- Part 2 - Critiquing, Deconstructing & Analysing Global Energy Futures
+- The novelty and new discoveries through applications of new tools, new insights (eg. macrohistory, macroenergetics) and new relationships and analogies (to other fields/disciplines)
+- 03 - Mapping Energy Futures
+- Situating existing energy futures on a variety of new coordinate systems. This gets repeated later after identifying and discovering new dimensions and analysis along these dimensions. Surface mapping. (Deeper contours come later: Section 4)
+- Methodologies of Mapping
+- Introduce mapping methodologies, then apply them.
+- Stakeholders' own objects and framework
+- Futures Triangle
+- Images/aspirations. Pushes/trends/momentum/drivers. Weights/barriers/inertia.
+- Taxonomies of the Future
+- Use existing taxonomies of the future to categorise. E.g. Inayatullah: Predictive-empirical, cultural-interpretive, Critical, Transformative.
+- Six Pillars, Six Questions
+- Inayatullah.
+- Article etc post
+- Summary Tables
+- Tables summarising and relating futures, publications, stakeholder-representatives, technology mixes, role of tech etc.
+- 04 - Mining and Drilling the Energy Future
+- Deep Futures methods applied to examine underlying features of energy futures.
+- Introduction to Deep Futures Methods
+- On the need for depth.
+-
+- On the benefits of applying Deep Futures Methods
+-
+-
+- Genealogy
+- Foucault?
+- CLA
+- Inayatullah.
+- Integral
+- Futures Triangle
+- Objects of Analysis
+- Energy as a concept
+-
+-
+- “Energy Crisis”
+-
+-
+- As a tool ie what was/is it used for
+-
+-
+- Genealogical analysis
+- Energy technologies
+- Genealogies of Energy Futures
+- A history of energy futures? Does this belong in MacroEnergetics section? Foucault
+-
+- Could be more than 1 framework for analysing genealogy
+-
+- And the evolution could be different over the world.
+- Energy fututing methods
+- Energy policy mechanisms
+- Causal Layered Analysis of Energy
+- Inayatullah. Marcus Anthony (China)?
+- Energy as a tool, concept, metaphor.
+- What is "energy"? What is it for?
+- "Energy crisis"
+- What does this mean and represent, and to whom? What are the discourses?
+- Energy concepts and issues
+- Analysis of various energy issues
+- Energy and population growth
+- Energy and economic growth
+- Socio-technical change and energy
+- Energy conservation
+- Energy security
+- Energy independence
+- Energy efficiency
+- Sustainable energy
+- Food vs Fuel
+- Energy descent
+- Sources and Technologies of Energy
+- Fossil fuels
+- Renewables
+- Nuclear
+- Centralised vs Decentralised Energy networks
+- Carbon Capture and Storage
+- Wired networks
+- Energy Futuring Methods
+- CLA of the techniques used to create energy futures
+- Forecasting & Modelling
+- Delphi
+- Scenarios
+- Backcasting
+- Citizens Assembly
+- other...
+- Deep Futures Triangle
+- Can the analysis of earlier sections help derive a deep futures triangle analysis?
+- Integral Theory (All levels part of AQAL) / Spiral dynamics
+-
+- Map stakeholders on this scale. May create an understanding between different “bands”
+- "Verticality" of energy policy/policies
+- Summary & Integration of analysis
+- Tables. Maps. Visuals. For each method.
+-
+- Situate stakeholders
+- Another visual map?
+- 05 - Enriching the Energy Future
+- Enhancing futures by adding "missing" or beneficial components. PROUT. Integral. Broad Emerging Issues Analysis.
+- Emerging Issues Analysis, Outliers & Wildcards
+- Are there emerging issues not considered in existing emerging issues analysis of energy futures?
+- Are a sufficient array addressed?
+- Integral/AQAL analysis of Energy
+- As per CLA. Wilber, Slaughter, Riedy. With Spiral Dynamics
+-
+- Are all 4 quadrants represented?
+- Are all levels represented? Could they be? How so?
+- What are pathologies?
+- Deep futures triangle - Alternative drivers, PPWs
+- Systems/complexity theory
+- A PROUT energy economic system
+- Develop a Prout informed energy future
+- Inter-disciplinary learnings
+- Can other disciplines offer insights for energy futures?
+- Mass-mobilization programs
+- Sputnik & Apollo space races
+- Marshall plan
+- Meiji & post-war Japan, Germany, South Korea
+- Snowy River scheme
+- modern China
+- International and global learnings
+- Unique energy futures. Are energy futures more robust and advanced in particular places in the world? Cuba? Iceland? Bhutan?
+- Disowned futures
+- Explore the disowned futures of each narrative/stakeholder. Elaborate on metaphysics. This could be a way that each future is enriched. This may be part of 6 pillars.
+- Preferred, Possible, Probable, Plausible Futures
+- Some stakeholders may not have all 4 of these articulated. This may be part of 6 pillars.
+- Energy Futures as a Wicked Problem/Social Mess
+- Look at energy issues as a wicked problem. Is this a chapter sub-section or a chapter unto itself?
+- Actor Network Theory
+- or should this go in “Cogenerating…”.
+- I need to read and learn more.
+- 06 - Energy Waves, Cycles & Flows - Macrohistory of Energy Futures
+- Bigger picture. Biggest picture. Energetic models of society & civilization
+- Thermopolitics: Power in Energy.
+- Political power and physical power. Looking at the relationship of energy management to political machinations
+- Macrohistory of Energy
+- Are there larger scale patterns of energy development over time?
+- Energy transitions
+- Energy and models of social/civilizational change
+- MacroEnergetics
+- Thermoeconomics. Socioenergetics. Can multi-disciplinary theory inform a theory of macroenergetics?
+- General Systems Theory. Ecosystem Energetics.
+- Howard T. Odum. Santa Fe Institute?
+- Thermoeconomics
+- Nicolas Georgescu-Roegen (sp?)
+- Energy and Society. Fred Cottrell
+- Does he/this sit in a bigger school of thought including others? Odum?
+- Energy and development theory
+- Human organism
+- Personal development
+- Historic civilizational development
+- Nomadic hunter-gatherer, agrarian, industrial, informational...
+- Energy and human development indices
+- GDP, HDI, Gross National Happiness etc etc
+- Social Metabolism and Human Thermodynamics
+- Social metabolism.
+- Economy as a BioPhysical energetic system
+- Charles Hall
+- Georgescu-?
+- Energetic patterns
+- Power Density
+- EROEI
+- Kardashev-Dyson typology
+- Analogous Systems
+- Ecosystem energetics et al. Consider global energy industry and futures as a macrocosm of microcosmic scale energy dynamics.
+- Modelling Human society as an isolated energetic ecological sub-system
+- Human society as a sub-system of an open actual energetic ecological system
+- Socio-technical transitions
+- Use this theory to help inform energy transition pathways and actions.
+- Energy Paradigm Leaders for Analysis
+- Nikola Tesla
+- Thomas Edison
+- Viktor Schauberger
+- Walter Russell
+- Buckminster Fuller
+- Steven Greer
+- Howard T. Odum
+- Fred Cottrell
+- and Cutler Cleveland. Energy and Society.
+- Vaclav Smil
+- Hermann Scheer
+- Eric Martinot
+- REN21 and 100% renewables visionary
+- Alexis Pietak
+- Life as Energy. Thermodynamic analogies of living systems. Emergent thermodynamics.
+- Jose Goldemberg
+- Energy, Environment and Development.
+- Herman Josef Wagner
+- Energy and economy, resources.
+- Other Important Thinkers/Researchers
+- This will be regularly updated. Need to check with list elsewhere in this TBX doc.
+- Richard Heinberg et al
+- Julian Simon
+- Wilhelm Reich
+- Jeremy Rifkin
+- Marc Jacobson
+- Stanford University. 100% renewables.
+- Limits to Growth group
+- Tim Jackson. Donella Meadows. et al
+- Chris Martenson
+- Crash Course
+- Daniel Yergin
+- Paul Ehrlich & John Holdren
+- The Bet v Julian Simon
+- Tachyon Energy
+- Gabriel Cousens et al
+- William Tiller
+- Psychoenergetic Science
+- Michael Ruppert
+- Collapse, oil, money-energy link
+- Ian Roberts
+- Health, energy, obesity, climate change, oil
+- Pierre Teilhard de Chardin
+- Spiritual energy more important than technical energy advancements
+- Peter Tertzakian
+- Energy obesity. Energy economist.
+- Geert Verbong
+- Energy and socio-technical transitions.
+- David Goldblatt
+- Energy and social sciences. Social or technical change?
+- Henrik Lund
+- Energy modelling for fluctuating 100% renewables. Smart energy systems.
+- Ostwald and his "energism"
+- Waste no energy. Technocracy. Eugenics.
+- Modern commentators
+- Civilizational collapse and energy
+- Jared Diamond
+- Thomas Homer-Dixon
+- EROI of Roman Empire
+- Julian Simon
+- Energy as the Master Resource
+- Eric Zencey
+- (different) Energy as a Master Resource - slideshow. Talks through many thinkers.
+- 07 - Alternative Energies - Fringe & outlier futures
+- Broadening the scope of the energy future. Fringe and outlier futures. New energy. Free energy.
+- Introduction
+- Redefine and reframe "alternative energy".
+- A brief history of energy science
+- Definition of energy over time. Developments in conceptual understanding eg. heat/caloric “stuff” (I forget the name) to waves to photons to microvita.
+- New Energy
+- An outline of new/free energy. Zero point energy
+- Introduction
+- History
+- LENR aka Cold Fusion
+- Low Energy Nuclear Reactions
+- Tesla
+- Sirius project
+- T. Townsend Brown and Brown's gas
+- many others...
+- Current status
+- Classification of New Energy technologies
+- Key Thinkers and Organisations
+- Brilliant Light Power
+- Heat from hydrogen
+-
+- Mills
+-
+- formerly Blacklight Power
+-
+- Space Energy Access Systems
+- related to Steven Greer and Disclosure Project
+- E-Cat
+- LENR system by Andrea Rossi.
+- Joe Cell
+- Beddini SG
+- Thomas Bearden
+- Valone
+- Schaumberger
+- writings of Callum Coates
+- Vibrational Science and Subtle Energies
+- William Tiller et al
+- A Prout energy policy.
+- Salient features of Prout energy policy. Introduction to Prout.
+- N-H economy
+- John Fleming. Electrogen hydrofuels
+- Ocean systems
+- OTEC et al.
+- Space-based power systems
+- Energy: mechanics vs metaphor
+- Energy and power. Physical, psychological, metaphorical. Metaphors in energy.
+- Key individuals
+- Scientists and tinkerers prominent in the history of new energy systems
+- Nikola Tesla
+- Nassim Haramein
+- John Wheeler
+- Viktor Schauberger
+- Moray King
+- Tom Bearden
+- Eugene Mallove
+- Part III. Transforming the Energy Future
+- Part 3 - Novel and Refined Global Energy Futures
+- 08 - Cogeneration, Smart Grids & Decentralized Networks
+- Participatory, collaborative, collective intelligence energy futures. This is an experimental aspect of my research by undertaking futuring workshops. Anticipatory Action Research.
+- Literature survey of citizen assembly and grassroots-based collaborative energy futuring
+- What has been done before on this? What has been left out or lacking in these methods?
+- Futures Workshops
+- Stakeholder-lead energy futuring
+-
+-
+- Single stakeholder AND Multi-stakeholder
+- Use/incorporate my analysis of each stakeholder from Chapters 2, 3, 4 in workshop
+-
+-
+- Each stakeholder has already outlined a future
+- This chapter is an attempt to augment that, by the stakeholders themselves, using tools and insights from Chapters 2,3,4.
+-
+- Disowned futures
+- 1 	Disowned futures
+-
+- CLA of stakeholder future
+- 2 	CLA of stakeholder future.
+-
+- CLA of organization
+- 3 	CLA of organization
+-
+- Preferred, Possible, Probable, Plausible Futures
+- 4 	Preferred, Possible, Probable, Plausible Futures
+-
+- Anticipatory Action Research
+- Futures workshops
+- Comparison of futures, before and after workshop
+- Discussion of effectiveness and barriers
+- Contrast New/ alternative Methodology of energy futures workshops
+- Using results from previous chapters, propose and perform a new methodology of participatory energy futuring.
+- Collaborative knowledge cartography for energy futures
+- Results and Findings
+- ...from single stakeholder and multiple stakeholder workshops
+- 09 - Generating the Energy Future
+- Unifying the techniques and insights of Part 2 into an updated and expanded toolbox for energy futuring.
+- 10 - Fusion, Fossils and Fire: Uniting features for transformed energy futures
+- My synthesis of data, discovery, theory and technique.
+-
+- This is MY creative/imaginative novelty ie Creating something new, as opposed to reporting something for the first time eg. Map and macrohistory; or analyzing/measuring something in a new way eg. CLA, Integral etc. ; or discovering/revealing the novelty from others eg. stakeholders
+- Intro
+- A summary, recombination and collation of Chapters 3,4,5,6. What did we learn?
+-
+- Apply learnings to existing futures
+-
+-
+- Renewed/enriched scenarios
+- Additional scenarios? Add to the suite.
+-
+- Augmented futures (fill in the gaps)
+- Missing components to “balance” the future.
+-
+- Suggestions and Offerings
+- Part IV. Addenda
+- 11 - Bibliography & References
+- This part of the dissertation document might arise from and link to the data repository parts of Global Effort containing
+- references
+- people
+- organisations
+- key documents
+- key thinkers
+- etc
+- 12 - Appendices
+- Energy
+- Energy Data & Indices (Same as elsewhere - Energy MacroData)
+- Data by sector
+- Data by issue/topic
+- Data by resource
+- Energy Issues ; (same repeated from elsewhere - Energy Problems & Potentials)
+- Search returns references eg. blogs; people; organisations; links
+- Sources & Technology
+- Energy Technology
+- essential summary. Link to details elsewhere eg Wikipedia
+- Extraction
+- Generation
+- Harnessing
+- Distribution
+- Usage / Application
+- Search/browse Sources & Technology
+- Disciplines
+- Thinkers & Tinkerers
+- Shows blog posts on key individuals
+- Searchable
+- Article post Thinkers & Tinkerers
+- Organisations & Stakeholders
+- Same as for individuals (Thinkers and Tinkerers) but for Organizations
+- Article etc post
+- Energy Proposals & Plans (same as elsewhere)
+- Energy Transitions (same as elsewhere)
+- links to elsewhere
+- Energy Futuring (same ; repeated from elsewhere)
+- links to elsewhere
+- Role of Energy in History
+- Article 1...
+- Article 2
+- Concepts & Philosophy
+- Futures & Foresight
+- What is Futures & Foresight?
+- What is Futures Studies?
+- Futures vs Strategy vs Policy
+- Typologies of Futures
+- Benefits of Futures Studies
+- Futures Methodologies
+- Six Pillars of Futures Studies
+- Energy Futuring (repeated from elsewhere)
+- Macrohistory
+- Theories of Change
+- Socio-technical Transitions
+- Resources & Links
+- Blogs
+- Organisations & Stakeholders
+- Energy Portals & Data Sources
+- Journals
+- Key Articles
+- Books
+- External News
+- Latest & Greatest
+- External News twitter feed
+- Journal Articles recently viewed/reviewed
+- Blogosphere rss feed of my selected feeds
+- Global Effort Articles
+- Graphs & Charts
+- Comments
+- Contributors profiles
+- Quizzes
+- Quotes
+- Participation & Contribution
+- Guidelines & Policy
+- Submit content
+- Social Media
+- Share & Support
+- Comments, Questions and Feedback
+- Writing: Posts & Articles for GE-MQGEF
+- To be positioned in Global Effort and (possibly) edited for MQGEF inclusion
+- Aims of Global Effort as an intellectual research exercise
+- 1. To survey the manifold, disparate energy futures instances (tooltip: the particular propositions put forward for energy futures, as well as their creators, supporters). This also includes energy future techniques and practices ie. how energy futures are constructed. Who is proposing what, how are they arriving at their preferred pathways and plausible visions, and why?
+- 2. To classify and group these myriad energy futures. To make the energy futures discourse more manageable by simplification into types and categories yet maintain the required distinctions. When we boil it down what can we really choose from at the moment?
+- 3. To critically analyse and deconstruct these energy futures. Apply some novel analytical frameworks to uncover elements within the energy future instance which are assumed, opaque and unarticulated. What are these energy futures implying without saying it, what are the meaning without signifying it?
+- 4. To map energy futures. That is, using a variety of theoretical frameworks and non-geospatial axes, situate these energy futures in knowledge space. How do energy futures (individual instances as well as types) compare to others and relate to each other? What dimensions of analysis could be used?
+- 5. To expand the discourse and spectrum of discussion and debate around energy futures. Introduce and encourage levels of depth and disregarded alternatives. What discussion is avoided? What is repeated ad-nauseum with no breakthrough? What proposals are ignored, ridiculed or even suppressed? What lies at or beyond the limits of the maps?
+- 6. Work with stakeholders to make their energy future more robust and useful. What additions, deletions or modifications could help stakeholders’ preferred energy futures become more widely or more quickly adopted? Upon reflection, do stakeholders still want their previously preferred futures?
+- 7. To generate novel, genuinely alternative energy futures. This requires rigorously identifying and analysing what exists already. Is something genuinely novel possible? Would it be worthwhile? Attractive? How might this be done?
+- As of Global Effort as a platform
+- Web platform
+- Global Effort hopes to incorporate web technologies to communicate its discoveries and ideas. This may include
+- Searchable catalogue of energy futures instances and types with their properties and attributes.
+- Argument maps and debate graphs of energy-related issues and futures thinking.
+- Collaborative knowledge generation and dissemination.
+- Visualization of energy futures. Graphically locating energy futures in geometrical space, as well as non-verbally representing energy futures.
+- Community building around deep energy futures. High-quality moderated discussion forum for novel analyses of energy futures topics unavailable elsewhere. Cultivating energy literacy, futures literacy and reflective practice is the goal here.
+-
+- Social and business platform
+- More broadly, Global Effort sees itself as an advocate rather than an overt activist. Its not designed to advocate for a particular energy future, even though contributors may hold personal preferences and visions. Rather, its aimed at facilitating energy futures that work for more in the face of some substantial inertia and forceful counter-weights. Our research and ideas may be used by activists from any side, but does not imply that we necessarily support their position, goals or methods.
+- As a burgeoning business entity, Global Effort consults with organisations that seek to make change and exert influence in energy futures directions, both externally and internal to the organisation. Confronting blind spots, easing internal resistance, increasing internal buy-in, navigating paradigm shift, mapping capacity development will be features of our work along with trend analysis, scenario development and future-proofing.
+- Overview of Global Effort
+- Welcome to Global Effort.
+- Global Effort is a platform for exploring Global Energy Futures, Foresight and Transitions.
+- To elaborate slightly on the obvious, it operates at the intersection of:
+- Energy - fossil fuels, renewables, nuclear, as well as exploring some unconventional technologies
+- Futures - scenarios, forecasts, models, roadmaps, pathways, visions etc. (ie. not ‘futures’ as in speculative commodity prices)
+- Foresight - processes, tools, techniques and methods to develop and construct futures
+- Socio-technical transitions - socio-economic shifts in predominant technological systems
+-
+- ROLES & PURPOSE
+- It is hoped that Global Effort will evolve over time to fill multiple roles and serve many purposes. This progression is only broadly linear with multiple phases being undertaken concurrently.
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus.
+- 2. A repository of data relevant to the topics.
+- 3. An atlas of energy futures maps.
+- 4. A community of energy futurists, practitioners and laypeople.
+- 5. A consultancy and think-tank.
+-
+- AIMS & OBJECTIVES
+- The broad aims and objectives are to address some driving questions which should hopefully manifest in a sequence of overlapping cycles.
+- 1. To survey the manifold, disparate energy futures instances (tooltip: the particular propositions put forward for energy futures, as well as their creators, supporters).
+- 2. To map (locate in knowledge space) energy futures.
+- 3. To critically analyse and deconstruct these energy futures.
+- 4. To expand and deepen the discourse around energy futures.
+- 5. Work with stakeholders to make their energy future more robust and useful.
+- Read more about the objectives and purpose.
+-
+- Global Effort also means what it says, literally: to undertake any transition towards a more beneficial energy system will require a global effort; not only global in geography and global in scope. That is to say contributions will be needed from, and for, all parts of the world, all sectors of society, all disciplines of scholarship, all levels of reality, all aspects of self, all moments of the time-line. While I may have a preferred energy future, Global Efforts initial objective is to acknowledge the positions and preferences of each existing energy future.
+-
+-
+- Welcome to Global Effort
+- Global Effort is a platform for exploring Global Energy Futures, Foresight and Transitions. It sets out to evolve into greater capacities over time, though not necessarily in a strictly linear flow.
+- Stage 1
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus. Very early stages of PhD studies at the University of the Sunshine Coast, in Australia. Prospectively titled “Mapping and Questioning Global Energy Futures.” Supervisor(s) to be confirmed. This requires much reading and writing, obviously. The platform of a blog (theoretically) encourages regular writing, structure within/between the writing, invites commentary and feedback, and establishes an on-line presence. Thoughts, ideas, article summaries, interesting learnings and discoveries, book reviews, meta-reflections, an aggregator of news feeds and social media…, all for primarily my own purposes, would be most of the elements at this stage of the platform.
+- 2. A repository of data relevant to the topics. The grist for the PhD mill, all stored in one convenient location. The extra effort of placing it online forces further engagement with the content, and hopefully deeper learning. The data might include macroscopic data on energy supply & demand, a growing catalog of energy futures instances, key thinkers, influencers and organisations, summaries of publications, frameworks and typologies, energy-related theories and more.
+- 3. An introduction to the field of Futures Studies. While people have been thinking about tomorrow since time began, it has only emerged as an academic discipline and formal set of tools in the last 50~60 years. As a set of theories and tools it holds great power beyond mere academia and a basic appreciation can be leveraged for great personal benefit in any field. Global Effort applies theoretical frameworks and methodologies from Futures Studies to energy systems around the world, so it makes sense to have a primer/catalog.
+- Stage 2
+- As a result of the preceding work, Global Effort hopes to develop further.
+- 4. An atlas of energy futures maps and a catalog of debate/argument visualisations. Not maps in terms of geography, geology or weather (as is naturally common when talking about energy resources) but rather locating futures instances (ideas, proposals, visions) and perhaps their elements (actors, technologies, policy mechanisms) along myriad dimensions and axes of the energy futures landscape. As a conventional map uses dimensions such as latitude/longitude, elevation and isobars and such features as colour coding for, say, aridity or population density, the same or similar can be done for futures. Futures instances can be situated along axes determined by using a particular theoretical framework. These futures instances can occupy multiple frameworks, and occupy a different spatial location in that. Global Effort seeks to explore further this intersection of Futures Mapping and Knowledge Cartography for the case of energy futures, to produce a panorama for navigation into the future.
+- 5. A community of like-minded energy futurists, practitioners and laypeople interested in learning more, sharing insights and developing ideas and practices. While Global Effort is starting out as a one-man endeavour, its goal is not to remain that way. Its aim is to invite and encourage contributions (with due acknowledgement) from other interested parties, whether that be in the form of opinion pieces, debates (which shall be summarised visually for easy digestion)
+- 5. A consultancy and think-tank of experts and professionals engaging with the community at large through publications, workshops, lectures and debates. The goal is not to remain theoretical and/or isolated, locked in the ivory tower. That is the easy part. The real challenge comes from building bridges, deconstructing walls, digging for ore and generating energy with, within and between stakeholders. It involves taking energy futures out of hard sciences and mechanistic interaction and introducing soft skills and a human dimension.
+- Read why all this might be important here.
+- For further insight, contrast this with What Global Effort is NOT.
+- Read further about who is behind Global Effort.
+- How
+- Community
+- Seeking help
+-
+- Limits: What GE is NOT
+- We can further explain what GE is, or attempts to be, by contrasting it with what it is not, or attempts not to be.
+- Global Effort is NOT:
+- 1. A prescription for our energy future. It does not attempt to say this is what we should or must do. No ‘my way or the highway.’ Instead, Global Effort is more like a street directory: what are the possible pathways to get from energy present to energy future X. It collates all the prescriptions and suggestions that others have made, and looks more closely at them using lenses that they themselves most likely did not use. It is hypothesised that this analysis may improve each energy future in some way, and possibly even generate a set of alternative pathways for consideration.
+- 2. A wiki of techno-economic energy ‘solutions’. Neither is Global Effort a wiki containing isolated articles about technologies or economic instruments which could or should be used to remedy or rectify the energy ‘crisis’ as defined by the proponent. What ‘solutions’ are proposed depends on what the ‘problem’ is. Global Effort will survey definitions of the energy crisis and their subsequently suggested solutions.
+- Rather, an aim of Global Effort is to analyse particular energy futures using various approaches and situate them in the larger energy futures discourse. Rather than just record what is out there, Global Effort shall classify, group, compare-contrast, distill and map, such that genuinely alternative futures are identified.
+- Wikis tend to be quite ‘flat’ in their knowledge structure. Yes, they may go into detail but not so much depth in terms of a critical philosophical framework. Conventional wiki informational nodes are connected in a flatland horizontal structure via simple hypertext links. Global Effort attempts to situate the same energy futures information within hierarchical and 3-dimensional (or more) knowledge frameworks via ‘vertical’ relational linking. This way, energy futures can be more critically investigated for such things as underlying assumptions and premises and over-arching ambitions. Traditionally, wiki info is presented in isolation, out of context. Global Effort, in contrast, situates this information in context, in the bigger narrative that is being told, explicitly or implicitly.
+- 3. Technologically or economically focused. Most proposals centre around debates over technology choices and economic policy instruments. These are no doubt fundamentally important, however Global Effort takes the view that perhaps an over-emphasis on this approach is part of the very problem they are trying to solve. There are a wider and deeper array of factors to consider, and their denial may perpetuate or, at best, merely postpone problems.
+- 4. A first-order data source. Similar to the above, Global Effort does not intend to store data just to be a database. Much excellent work is already done on such things as energy supply and demand, climate forecasts, energy poverty etc. There is no need to have yet another blog presenting these. Instead, Global Effort will pull data from these authoritative, reliable sources to compare and contrast competing visions and claims. It will present data to support or contest identified energy futures and their arguments. Naturally, all data sources are referenced.
+- 5. A soapbox for rants, sophisticated or not-so-subtle, for or against a particular ‘conventional’ position on energy. It is not a community to gather for or against climate ‘alarmists’, climate ‘deniers’, peak oil ‘debunkers’, peak oil ‘fearmongerers’, renewables ‘dreamers’, fossil fuel ‘cavemen’… All these futures positions will be under the microscope. Global Effort does not purport to be unbiased or impartial - positions will be taken and stances stated. However, it will most likely be along lines that are novel and unconventional, as a result of research and analysis.
+- Global Effort is unique in some ways, contrasting with some similar projects.
+-
+- The People behind Global Effort
+- Who By, and Who For?
+-
+- Global Effort is the creation of me, Adam Duus. At the outset it serves as the mechanism for development of my PhD studies, though this is far from its only or final purpose.
+- In time, Global Effort hopes to become a community of deep energy futurists, offering an alternative take on the majority of forecasters and stakeholder positions through collective critique and insight. I would like to invite others with their cutting insights and brilliant inspiration to improve, complement and correct my work. Subject matter experts in energy, futures, socio-technical change and otherwise, would be welcome to augment and argue such that the full terrain of energy futures discourse is visible and navigable.
+- I would also like to invite contributors of other skills: web tool developers, data visualisers, social media networkers, graphic designers, digital community advocates…to bring their skills to bear on what is a very multi-faceted issue.
+-
+- Contributions & Community
+- Assistance required?
+-
+-
+- An Overview of Driving Questions
+- Global Effort derives out of some central questions which trigger some further, downstream questions. It centres around energy, of course, but also serves as an introduction and primer for Futures Studies.
+- What are the world’s energy futures? That is, what do the world’s energy systems look like in the future? What are stakeholders proposing, envisioning, forecasting, openly or secretly fearful of? What energy futures dominate the discourse? What are fringe? What are probable, plausible and possible energy futures?
+- What are the world’s futures given these energy systems? Energy is so integral and universal that we cannot separate the energy system from social structures powered by it.
+- Why might we want alternative energy futures? That is, alternative “energy futures” as well as “alternative energy” futures. What are the drivers, the rationales, the agendas? Our objectives can determine our means.
+- How are these particular energy futures arrived at? What tools, theories and frameworks are applied? What approaches are over-used, improperly used, neglected? What is their record of success, accuracy or helpfulness?
+- Can alternative energy futures be generated? What knowledge cartographies exist to map the current discourse and therefore identify new terrains, short cuts, “edges of the world”? Will use of certain analytical approaches identify deeper similarities and differences, thus making novelty possible? How are energy futures currently categorised? Are there typologies and taxonomies of (energy) futures which can assist in understanding? Are there outliers and wild cards which no one is really talking about…yet?
+- Global Effort explores the futures of energy but also uses energy to explore the field of futures and foresight. Therefore general questions around futures are also investigated, such as:
+- What is the difference between futures, strategy and policy? How do they inter-relate?
+- What are deep, critical, transformative futures, as opposed to shallow, predictive futures?
+- What futures methodologies exits? What are traditional and common? What are novel and innovative?
+-
+- These are the tip of the iceberg. As with any investigative endeavour, new questions are generated as answers are discovered.
+-
+-
+- Research Questions - Note cards
+- I should answer each and every one of these through the course of my research.
+- What are the world's energy futures?
+- What is a new/alternative proces & toolbox to create better energy futures, implement better energy systems and travel better energy pathways using better energy strategies?
+- Why do we want alternative energy futures?
+- What are the reasons for needing alternative energy futures?
+- Why do I want to know what the world's energy futures are?
+- Why do I want to transform the world's energy systems?
+- What are the methods and tools currently used to categorize and distinguish energy futures?
+- How do energy futures compare and contrast?
+- How are energy futures currently categorized?
+- What schema?
+- What toools?
+- What are the existing current maps of energy futures?
+- What are the current axes and/or indices & measurement scales?
+- How were the world's energy futures, strategies and policies arrived at?
+- What is their history?
+- What is their source?
+- What are their pathways of evolution & development?
+- What do I want to do with the new alternative maps of the world's energy futures?
+- What are existing typologies and taxonomies of the future?
+- Of energy futures, specifically?
+- What is the theoretical framework through whoich i am approaching this research?
+- What is the lens through which I am viewing this problem/question?
+- What are the types of components of existing energy futures?
+- How are scenarios created?
+- What are the procedures?
+- What are the content and the process?
+- What are scenarios?
+- Why are they useful?
+- What are the benefits?
+- What are the limitations?
+- What are the types of scenarios?
+- What are the typologies of scenarios?
+- What is critical futures?
+- What is transformative futures?
+- What is CLA?
+- Why is it useful?
+- What are its benefits?
+- What is integral futures?
+- What is 4-quadrant/AQAL?
+- Why is it useful?
+- What are the benefits?
+- What are the limitations?
+- What is anticipatory action learning?
+- Why is it useful?
+- What are the benefits?
+- What are the limitations?
+- How do we create alternatives to the current existing energy futures?
+- What methods & tools do we use?
+- What are some fringe global energy futures?
+- What are existing authentic alternative global energy futures?
+- Why do we need alternative energy futures?
+- Why do WE want them?
+- Why do I want them?
+- Why do we need new ways of creating alternative energy futures?
+- What do I want to do with the current maps of the world's energy futures?
+- What can I do?
+- What should I do?
+- What do I hope or expect the maps to produce?
+- What do I want them to tell me?
+- What do current maps of the world's energy futures tell me?
+- What do they not say?
+- Why should we use or develop new and alternative mapping methods, tools, axes and systems
+- What are the advantages of alternative mapping schema?
+- What do maps produce?
+- What do maps tell us?
+- What do maps not tell us?
+- What is the value of a map?
+- Why map?
+- Why should I/we map?
+- What could be new or alternative axes/dimensions of energy futures maps?
+- Can I make (a) map(s) of the world's energy futures?
+- Can I make multiple/many maps?
+- Using varying axes/units/co-ordinates?
+- How are energy futures currently created?
+- What are the methods and tools used now?
+- What was used in the past?
+- What are the advantages of methods currently used to categorise, describe & separate energy futures from each other?
+- Why are these tools currently used to categorise energy futures?
+- How do I differentiate between energy futures?
+- method?
+- Categories?
+- What data sources have been used before?
+- How do I decide what the data sources are?
+- What are my critieria?
+- Where do I find these energy futures?
+- What are the data sources?
+- How are futures different to policy or strategy?
+- What are the relationships?
+- What are futures?
+- What are energy futures?
+- Why do I want to know what the world's energy futures are?
+- Overview of Hypotheses & Position Statement
+- Topics and Features
+- Obviously the overall subject of Global Effort is global energy futures. That is, what does the future look like for the world’s energy systems, and what do we want it to look like. In doing so we’ll deal with a variety of topics, some of which are expected, others not so obvious.
+-
+- {table format in html/wp} Headings: Obvious topics; Not-so-obvious topics
+- Energy model forecasts; modelling assumptions, implicit socio-economic structures; historical analysis of energy forecasting accuracy
+- Drivers of energy futures: climate change, energy security, technology development, energy poverty; socio-economic growth limitations imposed by technological choices and R&D resource allocation, macrohistorical trends of development; collective unconscious drives towards self-destruction;
+- Energy sources & technologies: fossil fuels - traditional and advanced, renewables…; low energy thermonuclear reactions, thorium, wireless energy transmission,
+- Energy futuring methods: modelling, forecasts, scenarios, delphi; causal layered analysis, futures triangle,
+- Thinkers, tinkerers, organisations, stakeholders: IEA, World Bank, ACA, Shell, Edison ; UCS,
+- Energy transitions
+- The ‘dark’ side of green: renewable-energy powered soldiers, drones, AI, hacking; EV traffic jams; hydro damming effects, rare-earth metal mining pollution, solar/wind tax, centralised renewables,
+-
+- An Overview of the Reasons for the Research
+- Purpose and Rationale of Global Effort
+- It is hoped that Global Effort will evolve over time to fill multiple roles and serve many purposes. This progression is only broadly linear with multiple phases in parallel, developed to different stage.
+- 1. A platform for documenting the learnings and developments in the PhD studies of Adam Duus. Thoughts, ideas, article summaries, interesting learnings and discoveries, book reviews, meta-reflections. The purpose and rationale of Adam’s PhD research is discussed in more detail here.
+- 2. A repository of data relevant to the topics. This would include macroscopic data on energy supply & demand etc but also a catalog of energy futures instances, key thinkers, influencers and organisations, summaries of publications, frameworks and typologies, energy-related theories and more.
+- 3. An atlas of energy futures maps; not maps in terms of geography but rather locating futures instances and actors along myriad dimensions and axes of the energy futures landscape. The dimensions of these maps and the “co-ordinates” of the energy futures instances will begin to emerge out of our research.
+- 4. A community of like-minded energy futurists, practitioners and laypeople interested in learning more, sharing insights and developing ideas and practices.
+- 5. A consultancy and think-tank of experts and professionals engaging with the community at large through publications, workshops, lectures and debates.
+- Purpose and Rationale of PhD Research
+- The purpose of my (Adam’s) PhD research is to set out to answer the central driving questions. Summarised again here, they are:
+- What are the world’s energy futures?
+- Are they really different? If so, how so?
+- How are these energy futures created?
+- Are alternative energy futures possible? Can novel analytical tools and theoretical frameworks be used to generate and incorporate genuine alternatives?
+- Furthermore, my research intends to introduce approaches not only from Futures Studies but Knowledge Cartography to map, cognitively and visually, the energy futures landscape. Just as geographical features are mapped for navigation, and geological strata is mapped for resource identification, the energy futures landscape warrants mapping to navigate the dangerous shoals and locate the high-yield ore.
+- Just like any PhD research, its rationale is tied to its innovation and novelty.
+- A plethora of energy futures exist giving an impression of an abundance of choice. However, nowhere (to my knowledge) have these futures been a) collated to get an accurate figure or representation of the number or proposals, and the stakeholders behind them and b) classified into schema which actually identifies the real options available and who is promoting their adoption, and why.
+- There exists no work, to my knowledge, which applies critical futures studies tools such as Causal Layered Analysis to deepen the analysis of these energy futures to illuminate underlying features. It is hypothesised that what may appear distinct on the surface is rather similar and repetitive when the underbelly is exposed.
+- The importance of all this arises from the significant modern consequences of our energy systems. Climate change, peak oil, energy poverty, nuclear contamination, energy “sieging” (think Russia’s control of European gas sources), oil-derived conflict, nuclear weapons programs, environmental pollution and resource-based terrorism; the litany of potentially grave social, economic and environmental consequences of energy system design and use is long and recalcitrant.
+- Energy futures are critical in and of themselves, being a traditional, universal need in the form of food, labour and transport as well as more recent services such as communication, lighting, heating-cooling and so on. However, furthermore, energy futures represent our source of peace and prosperity, security or scarcity as energy drives our biophysical ecosystems and socio-economic engines. The question is to what are we driven? Where do we drive ourselves? Environmental collapse? Social conflict? Self-destruction? Or genuine prosperity, security and peace? Energy is central to all this. Energy futures symbolise our future dreams in present plans and preparations.
+- Overview of Theoretical Frameworks & Methodology
+- An Overview of Critical Futures Studies
+- An Overview of Actor Network Theory
+- An Overview of Complexity and Wicked Problems
+- An Overview of Socio-Technical Transition frameworks
+- An Overview of Futures Mapping and Knowledge Cartography
+- An Overview of Debate mapping and Argument Visualisation
+- A more beneficial energy system
+- What does this actually mean?
+- A purpose of Global Effort is to analyse this very question. What a better energy system looks like varies between stakeholders. Even broadly speaking it may look similar (eg. more reliable, cleaner, more secure etc) but at a finer resolution it can look quite different.
+- The purpose of Global Effort is not to dictate what that better energy system is, rather to survey energy futures (proposals, scenarios, visions etc) and ask some questions about that ‘better energy system’
+- What does it looks like. Not only technologically but socially, economically, politically,
+- Who benefits? Often there are hidden power dynamics and inequalities.
+- When? How ‘far’ is the future away? Do you consider 10 years long term? 100 years? 1000 years?
+- How to achieve the proposals? The focus is often techno-economic. Cultural, behavioural, psycho-spiritual and other aspects can be neglected.
+- What is not said? Assumptions. Biases. Outliers and wild cards. Devalued, disowned and disregarded aspects.
+- What is new, if anything? New technologies, same socio-economic structures? New dogs (actors), old tricks (policies)? New drivers (problems), same response profiles?
+-
+- Similar & Competitor Projects
+- Notes: Research fuel and fodder
+- Reasons for Research - Notes
+- Why is this research important? Why it should be done?
+- Universality.
+- Why energy? -1
+- Energy is life. It is essential to all systems. At a micro-level, energy is intrinsic to all systems. At a social level, all human activity is characterized by the acquisition, harnessing and use of energy. Energy is central. No one, and no thing, is neither separate from it nor free from its effects. Food, metabolism, mobility, heating, lighting, weather, materials and their working, tools and their powering... all are energized. The musician in the hall, the orator in the square, the weaver on the loom, the farmer in the field, the homeless beggar on the street and the yogi in the cave – all are harnessing, utilizing, exchanging and transforming energy of various forms in various ways.
+- Energy is integral and universal. So is time.
+- Energy is integral and universal. Energy issues affect everyone. Energy futures reach everyone.
+- Why energy?
+- ‘The history of human culture can be viewed as the progressive development of new energy sources and their associated conversion technologies.’ [Encyclopedia of Energy, preface]
+- Why energy?-1
+- Energy is foundational, essential, universal and central to life and society. The fundamental importance of energy, and the massive, complex feedback effects of its acquisition and use, make it a worthy focus of pivotal inquiry. Life is characterized by various forms of energy exchange. Much of history’s social, economic and technological development could be described as the attempts to increase or improve the harnessing of energy sources and redistribution of energy outputs. Human existence has always been an exercise in the sourcing, organization and application of energies. It will continue to be so in the future.
+- Why energy?-2
+- Yet a review of much media and academic literature questions and speculates about the longevity, quality and nature of human civilization as a result of poor energy system management. Warnings of numerous threats of various kinds are issued by all sides of the debate. Energy is at the forefront of discussion, popularly and academically, perhaps as it has never been before. The discourse abounds via such complex issues as:   Climate change and climate justice  Biospheric integrity and pollution  Peak oil and resource availability  Population explosion  Nuclear waste, storage and accidents  Nuclear arms proliferation  Resource war and Terrorism  Fuel and electricity poverty and inequity  Economic recession, depression and development  Legal rights – land, property, visual, inter-generational etc.
+- The human economic system can possibly be viewed as an energetic system.
+- The human economic system can possibly be viewed as an energetic system.
+- Energy futures unite the role and place of technology in society with the status nature holds for civilization.
+- Energy futures unite the role and history of technology in society, with the status of nature for civilization.
+- Centrality
+- Energy enables and underpins the whole economy.
+- Energy enables and underpins the whole economy.
+- Why energy? -2
+- Oil is the single most traded commodity in the world. (Ref?) The global energy industry accounts for Z% of turnover (Ref?) Nations go to war over energy. Nations use energy to go to war. “Energy is the sole universal currency”(Smil, 2006). According to some historians, the rise and fall of civilization, the shifts and movements of political, economic and technological power, can all be said to be about the successful control of energy. (Ref?) Evolution is the process of managing more complex increased energy throughputs (Ref?) Economics can be seen as the energetic exchange of energy control (Ref?)
+- Gravity
+- The influences of the energy system are now wide-spread in scope, large-scale in size, far-reaching in time, and deep in effect.
+- The consequences of the energy system are widespread, large-scale and far-reaching in time.
+- Why energy?-3
+- The appearance of just one of these global energy-related problems, each having potentially catastrophic near-term and long-term consequences, warrants a thorough investigation of the world’s energy planning, policy-making and strategizing. Their simultaneous congruence necessitates it. Every inhabitant on earth is affected by one or more of these energy-related issues. Moreover, with a globalized economy and meteorologcal system, the potential impacts of adverse effects will not be locally contained. With the importance of safe, secure, clean, and prosperous and efficient global energy systems paramount as never before, it is imperative that energy policy and policy-making be critically examined, understood and improved where possible. Those parties heavily invested in business-as-usual trajectories remain to benefit from improved energy futuring as nascent global trends and drivers emerge, and stakeholder power structures evolve.
+- The massive size of the Energy Industry.
+- Energy industry is the world’s (first, second, third) largest? Furthermore, it enables and underpins the whole economy.
+- Complexity
+- Energy issues are complex and cognitively overwhelming.
+- Problems around energy seem disparate, disjointed, disconnected and/or too complex and overwhelming. Maybe there is a way to unite them, simplify them and tackle them together through alternative energy futures.
+- Complex nature of energy discourse require tool which can handle complexity
+- Complex system – requires multidisciplinary and transdisciplinary approach. Futures offers this.
+- Creativity vs Passivity
+- An experiment in creative futures rather than reactive futures.
+- Foresight is creative. Prediction is receptive/reactive.
+- Assist stakeholders in enhancing their preferred energy futures
+- through the use of additional tools,
+- To explore the possibility of generating a genuinely alternative energy future?
+- Positivity vs Negativity
+- Aspiration vs Avoidance
+- Pulled towards attractive futures rather than pushed away by repulsive futures.
+- Authenticity
+- Authentic alternative futures
+- Navigability
+- Paradigm shift and culture change is underway.
+- Renewables seem increasingly inevitable. The only question remains when and how? Futures Studies is a good way to ease and smooth the transition, and minimize discontinuity.
+-
+- Paradigm shift and culture change is underway.   Futures Studies is a good way to ease and smooth the transition, and minimize discontinuity.  Ensure shift is deep and thorough by challenging deep assumptions  If no deep analysis, run the risk of surface forms changing without deeper structures changing
+- Dimensionality. Directionality
+- Why “energy” and not “climate change”?
+- Why “energy” and not “climate change”?
+- Why “energy” and not “climate change”?-1
+- The research focuses on “energy” rather than “climate change” primarily because anthropogenic climate change is seen, at one level, as a symptom of an energy problem, and not the underlying problem itself. The issue of climate change is not completely a subset of energy but there is a strong overlap in favour of energy being the broader issue of concern. Any response to climactic changes through mitigation and adaptation will require a change in energy policy, as well as energy to implement changes, responses and solutions.
+- Why “energy” and not “climate change”?-2
+- According to the Intergovernmental Panel on Climate Change (ref?), the leading causes of human induced climate change are results of modern stationary energy generation, transport, agriculture and deforestation practices. While the first two in the list are obvious, agriculture and forestry serve as significant sources of energy, significant users of energy and significant sources and sinks of emissions. The food or fuel debate looms as a crisis point in an Australian biofuel future, as do “food miles” and a secure fuel supply. A result of this research may be to include the likes of agriculture and biomass management in the realms of energy policy to capture the full picture of the energy system and thus create better alternative energy futures.
+- Why “energy” and not “climate change”?-3
+- It is also the author’s initial opinion that climate change driven energy research dominates energy discourse. Understandably, it presents a grand challenge with far-reaching consequences. However, it is hypothesized that climate change alone may not be a sufficient driver of strategy to ultimately address climate change. Furthermore, by focusing on climate change, other lesser publicized symptoms of the modern industrial energy system may be neglected. Climate change may be a symptom of modern energy policy and it may be one of many symptoms.
+- Why “energy” and not “climate change”?-4
+- No doubt climate change sits as one of, if not, the major drivers of global and Australian energy futures. However, it is a sub-question of this research whether it sits as an effective driver of energy futures and policy. By taking an open energy futures focus, its theorized that alternative futures open up to include broader possibilities than if climate change were the sole driver. An open energy futures approach would seek address climate change as well as other energy issues, such as poverty and development, peak oil and a carbon based economy, terrorism and nuclear risks. An “energy futures” driven approach with biospheric integrity as a weighty element serves to complement the climate change driven research, enhancing the chances for social and economic prosperity, as well as environmental.
+- A feeling that underlying causes of problems are not being addressed, perhaps because they are not visible.
+- Of course, challenges are dealt with very well to a certain depth
+- Climate change, emissions reductions and trading, and carbon tax focus dominates energy discussion and futures.
+- Are there other, bigger, less visible drivers?
+- Why energy?
+- Why energy?
+- Why energy?-4
+- Indeed, cursory internet searches and literature reviews reveal that myriad proposals, representing a wide spectrum of energy visions futures, already exist to meet the challenges around energy. In fact this has been the case for much of the 20th century with all manner of forecasts and strategies announced. [ref] Yet, energy forecasts are historically unreliable and unhelpful and are considered by some as “no more than fairy tales”. [ref Smil] Similarly, grand alternative energy schemes such as nuclear, renewables or space-based systems have largely failed to fruit as evangelized. [ref]
+- Why energy?-5
+- In the 1950’s and 1960’s nuclear energy was regarded by many as the panacea but the “electricity too cheap to meter” never eventuated. The 1970’s saw the emergence of the term “energy crisis”, experienced by some during the “unforeseen” OPEC oil embargoes. Renewable energy technologies were lauded as the road to energy independence but have failed to significantly penetrate thus far. In the almost 20 years since the 1992 World Earth Summit, the Kyoto Protocol and COP-15 Copenhagen meeting of 2009 have both been well-intentioned but ineffectual in the eyes of many, failing to produce the change they hoped for. Throughout the history of energy, the exaggerations are rife and the under-performance standard. Such recurring disappointments of strategies and proposals suggest a critical review of energy futures is overdue and an examination of the “energy crisis” and its responses is needed if this pattern is not to continue.
+- Why energy?-6
+- Climate change mitigation by carbon emission reduction, energy security and economic growth are currently seen as the dominant competing and oft-conflicting foci of energy discussion. However they are not equally, nor universally, held to be the primary challenges. The “energy crisis” is seen in different ways by many stakeholders, each according differing degrees of importance to the many sectors, actors and effects. Similar perspectives can spawn opposed responses while, conversely, opposing perspectives may promote similar means. The differences often escalate to make the arena quite ferocious and move from being “debate” to a “battle” for supremacy, often in the guise of “sustainability” or “growth”.
+- Poverty
+- Lack of previous work.
+- Incorporation of thermodynamic analogues and models of economics and politics appears sparse
+- Incorporation of thermodynamic analogues and models of economics and politics appears lacking
+- Limits of effectiveness of Energy policy has been effective to a limit. Limits of effectiveness of traditional approaches have been made apparent.
+- Energy policy has been effective to a limit. Limits of effectiveness of traditional approaches have been made apparent.
+- Lack of previous work
+- Lack of previous work   As briefly mentioned in section 1.2.1.2, an initial review of some energy futures literature indicates much futures work has been done though it is to be of a relatively limited nature. The limitations refer to the typologies of futures produced, determined by the methodologies employed. These are commonly forecasts and scenarios produced via economic, technological and/or climatic modelling. The associated visions, foundational assumptions or worldviews that are inherent in forecasts and scenarios are rarely rigorously analysed, developed or even articulated and acknowledged.  Similarly, particular energy issues are often treated in isolation based on the preferences of the stakeholder, or purely out of innocent ignorance or inability. Rarely are more than two or three drivers of energy futures situated together for comparison, contrast and combined futuring. Energy futuring has focused on certain things  Technology pathways and development Salvation by technology Forecasts and scenarios Received/passive futures Favoured structure, rather than agency Climate change Oil supply  No map exists Mention CSIRO, “The Heat is On” as the closest known to the author   Energy work hasn’t used futures much Transformative futures work hasn’t looked at energy much  Much questioning of solutions. But is there much questioning of the problem?  Agency has been lost! Dominated by forecasts!!  (Summary of Section 1.2.1) For a safe, secure, clean, prosperous, efficient energy system to become a reality begin to work now and in the future, we must first identify the energy futures we hold in the present. No adequate map currently exists of global energy futures locating the full array of stakeholders’ visions and strategies, as well as the drivers of their energy futures, that doesn’t simplistically reduce the richness of perspectives and array of alternatives. The growing database of models, forecasts and scenarios remain to be critiqued, using a toolbox of deep, transformative futures methodologies that have not been applied to energy as a whole, offering genuinely alternative pathways.  The need for the evolution of energy futuring methods mirrors developments around energy resources, technology and policy. We must identify the spectrum of futures that exist, aEnergy resources exist in various forms in various locations. This variety calls for an assortment of technologies to discover, evaluate, exploit, distribute and utilise them. The nature and knowledge of these sources, forms, tools and models has expanded and evolved over history. There is widespread difference of opinion on energy challenges and solutions but two of the things that are generally agreed upon are a) that there should be a greater mix of energy sources – a portfolio of solutions, and b) that we must use energy more wisely.  And so it must be with energy futures and energy futuring. This work hopes to identify and locate a broader pool of energy futures resources and evaluate them using previously untried methods. Subsequently, innovative techniques need be employed, in addition to traditional methods, to utilize new futures resources while extracting novel alternative product from conventional resources. A portfolio of genuinely alternative energy futures generated from a toolbox of energy futuring instruments creates the possibility for more robust, wiser energy policy.
+- Deep (in theory) AND broad (in possibility) analysis of energy futures appears sparse.
+- Deep analysis of energy futures appears lacking.
+-
+- CLA et al.
+- Scenarios future work has been done in energy field but nothing deeper. The scenarios and scenario creation process need questioning. Same for Delphi and modelling.
+- Hostility. Fragility.
+- The nature of the energy debate is one of major conflict.
+- Energy debate characterised by conflict and uncertainty. Passions are strong. Current futures invoke fear. Some shortcomings of hard, narrow science are being revealed in a traditionally hard science issue
+- For the world
+- For the world
+- For the world-1
+- Physical energy (chemical, electrical, mechanical etc) is central to physical existence. Human development has, in part, been facilitated by increasingly intense energy usage. Alternatively, human development has seen increasingly intense energy usage result. Either way, the world is presently in a situation where the nature of this energy usage to this present time has potentially jeopardised and/or retarded further human development, as its been traditionally viewed. There is a strong link between social unrest and the quality of access to material resources, including energy. The threats posed by this and climate change as a result of our dominant energy systems and the mentalities behind them are present on a scale of previously unencountered extensiveness and degrees of severity.
+- For the world-2
+- Therefore, brought into the spotlight are the questions a) “What constitutes human development”? and b) “What energy systems can best facilitate that?” These questions are not new. Alone, each question has been asked at length. Together, in the same analysis, the asking has been less frequent. To a depth where conventional, orthodox notions of each have been transcended, I think these questions have rarely been combined.
+- For the world-3
+- In a nutshell, I see the forum of energy as a way of illustrating the fundamental spiritual nature of material resource issues. Neglect of spiritual considerations in the addressing of energy related matters will result in short-term fixes at best, often resulting in longer-term malaise. Addressing energy, and other material resource issues, provides the forum for spiritual, and thus fundamental human, development.
+- For the world-4
+- As an Australian, the choice of Australia as my sample is expected. However, as a primary energy producer with a society that is very energy intensive in a rapidly changing world, the importance of well-crafted energy policy and foresight can't be overstated. Furthermore, in contrast to many other primary energy producers and energy intensive nations of the world, Australia has the material wealth, levels of well-being and sufficient social development to successfully navigate into a better energy future, and perhaps blaze a trail for others to emulate.
+- Personal interest.
+- Why is it important to me? What are my own personal motivations for doing this?
+- I want to become proficient in futures techniques.
+- I see futures techniques and methods as being useful and attractive in my evolving career.
+- I want to understand the world better.
+- I see energy as a useful metaphor or link to understand diverse aspects of the world.
+- I want to feel like I'm making a difference.
+- Energy is universal and fundamental, as is technology. Having an influence in these fields may help the world somewhat.
+- For me
+- The significance of this research question is many-fold. I am interested in practically realizing far-reaching positive change in the world. Physical energy is a central and universal issue of fundamental importance and thus provides a forum for this. My academic background is in engineering so it seems an appropriate choice of issue.  However, In pursuing my engineering education the focus of my questioning moved from a technical “how?” to a social “what for?”. I had been involved in military-oriented research and this shift prompted a desire to a) move to a benign, peace-oriented field, and b) approach it from less of a purely technical perspective and more from a socio-economic point of view. I was drawn to the issues of sustainable energy policy for the chance to make a contribution to peace working more directly with the human aspect than the gadgetry. A big influence in this research was my meeting Dr Brian O'Leary. He is a former NASA astrophysicist-astronaut who now campaigns for “new energy”. “New energy” is a broad term covering technical devices and the science around them which test the limits of scientific orthodoxy. He, amongst others, has documented devices around the world which seem to generate heat and/or electricity in a way that contravenes scientific “law”. The most prominent of these might be the “cold fusion” episode. According to Dr O'Leary and a number of other reputable scholars, there exist these technologies, admittedly in a rudimentary stage, awaiting further development for application to alleviate many of the world's energy-related problems. However, as might be expected, there is resistance to their acceptance from various factions.  I am open to the possibilities of “new energy” having been given persuasive arguments and credible evidence, despite the existence of charlatans and fraudsters within the field. I would like to see these technologies introduced on a wide-scale in the world and so I am interested in addressing the barriers to their acceptance and promulgation, and thus the barriers to any “better” energy systems generally.  (b)
+- Personal interest
+- Personal interest to the author.  Novelty. A cursory survey of literature reveals energy futures are already routinely addressed via economic, mathematic, engineering, geologic, ecologic and similar techno-economic and system science approaches. To the best of the author’s knowledge, there remains the need to adequately complement these useful techniques with approaches beyond hard science methods and mindsets.
+- Originality
+- Why alternative energy futures?
+- Draw from current literature ie. Reasons for their research  Distance from current literature ie. Suggest what they may lack  Current energy futures generally consist of the following:
+-
+- 1. Business-as-usual scenarios
+- 2. Collapse scenarios
+- 3.
+- 4.
+- 5.
+- 6. Exclusive, separatist (greens)
+- Purpose, Roles, & Rationale - Notes
+- Why is it necessary or useful? Why is it significant or important? Put the why behind the what
+-
+- general note on rationale
+- At such a pivotal point in energy policy history, with Australia and the world facing significant energy-related challenges, it is beneficial to review and question our energy futures. That is, how we contrive the images and scenarios of the future – what tools and theories are in the toolbox, as well as how we realize that image in the world.
+- That is, how we contrive the images and scenarios of the future – what tools and theories are in the toolbox, as well as how we realize that image in the world, should be examined so that we might be able to do it better.
+-
+- Hypotheses, Innovation & Novelty - Notes
+- Soft; vauge; airy-fairy; too psycho-spiritual
+- All existing efforts miss one or more key ingredients. If they had all the ingredients, the strategies would implemented, the futures inspiring and the goals achieved.
+- All existing efforts miss one or more key ingredients. If they had all the ingredients, the strategies would implemented, the futures inspiring and the goals achieved.
+- Composition of energy future
+- “I am right, you are wrong” thinking isn’t helpful. All stakeholders hold a key component of any solution, a more effective future. All stakeholders’ futures lack key components to it being an effective solution. An important component(s) is missing from all stakeholders’ approaches and views.
+- Energy-consciousness spectrum idea
+- Use the energy spectrum metaphor, equating energy to consciousness. The energy policy stuff has to fit in to the ladder. That is, spiritual/consciousness development can be fitted to a wholistic energy spectrum model. The Wilber and SD's et al tiers of consciousness, Hawkins calibration scale can be modelled in energy terms.
+- Energy spectrum ladder
+- Placing physical energy in its proper place in the energy spectrum. That is... the material is currently seen as the source of life. This is arse-about. It needs to go in its rightful place, “down the ladder” in order of importance and life-giving ability. I imagine there could be various levels of subtle energy, which gives rise to physical energy. Within the range of physical energy, there is a sub-spectrum too: Tachyon to our detectable emf down to dense material.
+- Subtle energy development
+- An ideal conventional energy scenario realization requires subtle energy development. Idea of “energy” must be expanded to include “subtle” energy development (ie. Spiritual development) Conventional energy policy/scenario forecasting must include “subtle energy policy” Better/ideal energy policy creation and realization requires consciousness development.
+- Prescriptive dictating
+- Solid & rigorous hypotheses
+- The energy debate can be simplified and clarified for more transparent decision making
+- This is done by
+- mapping energy futures
+- deepening analysis
+-
+- by argument mapping
+- by argument mapping
+- through taxonomization
+- through taxonomization
+- multi-dimensional mapping
+- multi-dimensional mapping
+- Physical energy (as Watt-hours), financial energy (as $), political energy/power (as influence, status etc) all intertwine....???
+- Physical energy (as Watt-hours), financial energy (as $), political energy/power (as influence, status etc) all intertwine....???
+- A taxonomy, or even multiple taxonomies, of energy futures are possible
+- A taxonomy, or even multiple taxonomies, of energy futures are possible
+- Alternative energy futures are possible
+- Energy future drivers need to be augmented, expanded, comprehensive, holiistic... They need to be "better".
+- We need energy futures which incorporate multiple drivers which cater for all/many different energy sub-cultures.
+- The effectiveness of energy futures could be augmented by the inclusion of key components.
+- The technological sophistication of many current energy futures has not seen them be adopted or endorsed. Advanced economic analysis of many futures hasn’t made them more attractive to other stakeholders. Many energy futures may be highly developed and very well reasoned, in certain areas, but underdeveloped or completely lacking in others. The acknowledgement of certain neglected features, and strategic development in these areas, may make energy futures more effective.
+-
+- “I am right, you are wrong” thinking isn’t helpful. All stakeholders hold a key component of any solution, a more effective future. All stakeholders’ futures lack key components to it being an effective solution. An important component(s) is missing from all stakeholders’ approaches and views.
+- Deep, transformative futures work hasn’t been done in the energy field.
+- (Futuring has largely been predictive-empirical.)  The application of certain futures methodologies to energy.   CLA never been done on global energy futures  Integral never been done on global energy futures  AAL not been done deeply with energy stakeholders in Australia
+- The field of Futures Studies offers a useful theoretical framework and suite of methodologies to examine these hypotheses and postulate alternatives
+- The field of Futures Studies offers a useful theoretical framework and suite of methodologies to examine these hypotheses and postulate alternatives. 13.   In particular, Critical Futures Studies (CFS)
+- Energy “debate” is, more accurately, energy “conflict”
+- Energy “debate” is, more accurately, energy “conflict”.  As such, conflict resolution skills may be equally helpful, and possibly in greater need now, rather than sole focus on scientific proficiency, economic planning or political gamesmanship.
+-
+- The energy “debate” is, more accurately, energy “conflict”.   Debate and dialogue around energy futures has increasingly become war-like, or even war itself in some cases, as the potential effects of energy systems are explored, understood or unfold. Armed conflict driven by control of resources, venomous political argument, angry social demonstration, heated dinner discussion and vitriolic blog commentary testify to less genuine debate and moreso to battle.   Technical reasoning alone, in such cases, is insufficient and ineffective as a solution to the conflict. In fact, it may be part of the problem. As such, conflict resolution skills and relationship building may be equally helpful, and possibly in greater need now, rather than a primary focus on scientific proficiency, economic planning or political gamesmanship.
+- Conflict and the effectiveness of energy futures
+- The world faces unprecedented challenges centred around its energy system.
+- Novel approaches are required to come up with out-of-the box solutions to non-traditional energy crises.
+- Numerous scenarios and visions of that energy future already exist and give birth to conflicting policies and strategies.
+- Energy stakeholders are effectively in conflict. This conflict reduces the effectiveness of each and every stakeholder and their vision.
+- This delay and sub-optimal use of resources (time, money, energy) exacerbates the original problems.
+- Alignment of energy futures scope, scale and processes
+- Dominant energy futuring processes do not agree with the range of impact of energy. The nature and scope of dominant energy futuring processes, energy futures content, energy system characteristics and energy usage consequences do not align coherently with each other. This is inefficient, ineffective and creates further problems rather than resolving them.
+-
+- Each of these four elements need to be aligned for more effective futures and policy. The energy system touches people fundamentally, playing a critical role in quality of life. The full extent that energy system interacts with its surroundings, as well as itself, must be well understood and contained within energy futures and policy. This complexity and richness should be reflected in the processes and tools used to envision, plan and make decisions.
+-
+- The degree to which this is done within current energy futures varies, with dominant energy futures considering only a limited range of energetic interactions, viewing society and environment primarily as mathematically modellable entitites. The full spectrum of the immeasurable and intangible human experience and natural value in the energetic environment is rarely considered in energy futures.   Exclusion or devaluation of this creates problems (e.g. environmental externalities and social dislocation).
+-
+- It is hypothesised that aligning energy futures techniques and content with the reach and extent of the energy system will enhance energy futures and policy. Its not energy that we want. What we want is what energy provides, enables or produces. Which energy services predominate in society, and how, reflect social values, norms, customs, culture and worldviews as much as technological availability. However, energy policy formulation and futuring generally ignore this, favouring “value-free” mechanical mathematical economic modelling and forecasts. Social and future dimensions of energy policy are an after-thought or, at best, an opinion poll.
+- Typical energy futures are narrow
+- Do not include considerations of:
+- bio-physical economics
+- money as a representation of stored energy
+- end purpose of energy
+-
+- Energy as leverage point for grand solutions
+- Energy being central and fundamental… if we address this one central question, we can resolve many resulting problems. Yet, we must go further and address the underlying problem(s) of energy futuring being narrow and shallow.
+- Energy as symbol and metaphor
+-
+-
+- The symbology and metaphor of energy and energy systems is undervalued and under-utilised.  Energy underpins and characterises both economy and ecology. As the economy is symbolic and a representative indicator of society, the energy system, energy policy and energy futures are therefore symbolic of society.
+-
+- Thus, how the transformation of the energy system occurs correlates with economic and ecological health and development.
+-
+- The stories, symbols, myths and metaphors we hold about energy play out in the material world, yet they are often not questioned in energy futuring, and technical and social analysis generally.  Identifying the energy stories we live by, and the energy images we hold dear, are critical pillars in the effort to create robust, prosperous energy systems.
+-
+- Critical futures approaches openly acknowledge symbology and myth (deep narrative) and are therefore ideally suited to this analysis.
+- Layers of reality. Layers of barriers to preferred energy future.
+- Economics nor technological lack not the real barriers. The issues are fundamentally  psycho-spiritual. Imagination and belief.
+-
+- When we disagree on technology and policy choices, is that the full extent of the disagreement? Are we disagreeing on something else, perhaps something deeper?
+-
+-
+- The concept of “energy crisis” needs illumination.
+- The term “energy crisis” needs clarification. There is a crisis and yes, it does involve energy. But it is not for a lack of oil, gas, solar radiation, wind or hydrogen. It is not for a lack of money or other physical materials.
+-
+- The concept of  “energy crisis” needs illumination.   The “energy crisis” is defined, perceived and seen in many different ways by many different groups. The energy challenge is framed differently as drivers and goals are prioritised differently. These differing perception sences can cause inefficiencies and conflict but can also be optimised and leveraged for mutual benefit resolved. Understanding how different stakeholder define the “energy crisis”, and how it has evolved over time, is paramount to achieve this.
+-
+- The concept of  “energy crisis” needs illumination.
+- a. The “energy crisis” is defined and seen in many different ways by many different groups. These differences can cause conflict but can also be resolved.
+- b. The energy “crisis” is not fundamentally a crisis of energy, per se. At its core, its not a problem of:  Energy supply (inadequate, insufficient, unreliable)  Energy demand (excessive)  Energy efficiency  Technology availability  Economic unattractiveness or financial lack  Social disruption or environmental devastation (symptom)  Insufficient political will  These phenomena are certainly challenges and addressing them is essential. However, it is hypothesised that the crisis in energy lies in  a) The foundational ideas underlying energy thinking (science, economics, planning, culture b) An unwillingness and resistance in exploring these conceptual underpinnings.  This is an exercise in problem re-definition, organizational transformation and inter-stakeholder team-building, conflict resolution, creating shared common visions and working towards them together.
+- The “energy crisis” is not fundamentally a crisis of energy
+- The “energy “crisis” is not fundamentally a crisis of energy layered and complex., per se.   The cause of energy problem can shift up and down a ladder of energy level hierarchy. Gross -> subtle  At its core, its not a
+-
+- Energy challenges are not purely a problem of:
+- i) Energy supply (inadequate, insufficient, unreliable)
+- ii) Energy demand (excessive)
+- iii) Energy efficiency
+- iv) Technology availability
+- v) Economic unattractiveness, cost or financial lack
+- vi) Social disruption or environmental devastation (symptom)
+- vii) Insufficient political will
+-
+- These phenomena are certainly challenges and addressing them is essential. However, it is hypothesised that seeds of the crisis in energy also lies in:
+- i) The foundational ideas underlying energy thinking, such as in science, economics, politics, planning, culture and behaviour;
+- ii) An unwillingness and resistance in exploring these conceptual underpinnings.
+-
+- This is an exercise in exploring problem re-definition, organisational transformation, and inter-stakeholder team relationship-building, conflict resolution, creating shared common visions and working towards them together unified action as much as it has been about techno-economic innovation and political manoeuvring, yet it is the latter two which have been privileged and over-emphasised..
+-
+- To implement plans to realising better futures, our psycho-spiritual nature must be  consciously and directly engaged. We must do our spiritual homework.
+- Assertion: Understanding of the problem does not exist
+- Understanding of the problem doesn’t seem to exist. If it did then the solution would already have been implemented. Alternatively, it isn’t applied, wherein lies the problem.
+-
+- There are layers to the problem. Each energy future limits its analysis to a certain layer.
+-
+-
+- We need alternative energy futures
+- Energy futures not just about developing new/advanced energy technologies and more complex models but energy futuring technologies
+- Just as technologies develop to harness power and generate electricity, so too can the tools of energy futuring and policy creation be advanced to harness creativity and co-operation and generate inspiration.
+-
+- An energy policy framework and futuring process is available for creation/discovery which will stand in better stead than current models and processes
+- Innovation and Novelty - notes from MQGEF
+- Innovation and Novelty
+- hypotheses, insights and intuitions
+- Cause – effect confusion
+- The common thinking is we must transform and develop our energy system for a peaceful, prosperous future. This work contends that we must transform our energy future in order to have a peaceful, prosperous socio-ecological system.  The transformation of the energy system to achieve sustainable development, economic growth, prosperity, or whatever other lofty aim, will only come as a result of the transformation of the selves who envision, plan, strategize and communicate. There is undoubtedly a mutual iterative feedback relationship between energy system change and changes in quality of life. Generally, though, we are more heavily invested in external energy system change without investigating the selves who attempt to enact it.  Energy futures do not generally advocate personal and inter-personal transformative practice as a tool. Due to this backwards reasoning of placing effect as cause and cause as effect, energy futures are inefficient according to their proclaimed objectives.
+-
+- The transformation of the energy system to achieve sustainable development will only come as a result of the transformation of our selves. Currently, and generally, we are attempting to reverse this process. By attempting to transform the energy system, we are hoping to transform society and thus, ultimately, our personal lives. Due to this backwards reasoning, energy futures are ineffectual, placing effect as cause and cause as effect. Transform the inner to transform the outer, rather than the other way around. A transformed energy system will bring a transformed social system (including economic system) and eco-system. But a transformed social system requires the inner transformation of society, or rather the inner transformation of selves. The process of transforming (cv. changing) the energy system towards a preferred future is the process of transforming the self.  Those seeking alternative energy futures do not generally understand this and continue to embody conventional thought patterns, resulting perhaps in superficially different systems that are fundamentally identical.
+	- The process of transforming the energy system as the means of social development rather than a transformed energy system causing social/sustainable development. Changing (transforming) the energy system so that we can have “sustainable development” IS, in itself, the development. The change in practices, philosophies and methods, in planning and in carrying out the plans, is the development, rather than what goes on after the crisis is solved. It is the transformation, not the development that occurs afterwards.
+-
+- Energy is seen as the means of “development”. Yet it is the transformation of the energy system which is the development itself. If we can address energy system transformation fully, then the ensuing “development” is “sustainable” (or whatever characteristic) as a result of the nature of the energy system (or whatever system). It is the mindsets and consciousness of agents which have been transformed (or “released”), thus outlining the course of pathways from there. (Outer reflection of an inner condition. Transformation is of the inner condition.)
+-
+- Similarly, wrt climate change. The climate change-energy/resource usage nexus is exactly the means by which human development can occur. Answering the question(s) is where the development occurs, not once the question is answered.I think the current view is “let's sort out the energy and water problems so we can grow and develop”. However, i reckon its now “we grow and develop BY sorting out the energy and water problems” If we incorporated inner dimensions (inner development) to energy futures then perhaps we wouldn’t have a repeat of climate change and/or peak oil threats. The real goal is inner development. Climate Change – Culture Change. There is a culture change because of climate change. Perhaps climate change could have been avoided or reduced because of a culture change.
+- Development chicken-egg
+- The climate change-energy/resource usage nexus is exactly the means by which human development can occur.  Answering the question(s) is where the development occurs, not once the question is answered. I think the current view is “let's sort out the energy and water problems so we can grow and develop”. However, i reckon its now “we grow and develop BY sorting out the energy and water problems”
+- Energy's Role in Social Development
+- We set our goals in society, industry etc THEN design the energy system to get these. Can we design our energy system first which then determines our goals in society, industry?
+-
+- In designing our energy system we are expressing our values, beliefs and attitudes. Perhaps we need to approach this solution from both ends... ie
+- 1. Determine the goals of society/industry/business and from that determine the energy and resource requirements
+- 2. Determine the possible theoretical energy production (according to certains sets of values, beliefs, attitudes, criteria eg. If only renewables, if only fossil fuels etc etc) and from that determine our social goals.
+-
+- Energy Technology Innovation – The Energy-Social Development Chicken-Egg cycle
+- How has the energy technology at any one place and time tied in with the social development there? What/which is driving/leading, and how? Do they take turns, iteratively spurring off one another?
+-
+- Discovering/harnessing fire/firewood and animals lead to social developments. These social developments then allowed the next phase of energy technology to be discovered/invented/harnessed. (What was that?) A cyclic process underway?
+-
+- Energy technology ties in intimately with the other technology around it. Probably can’t do an energy macrohistory or energy tech trend identification without doing an overall tech one simultaneously.  Information production and distribution and its energy supply - Printing press, Internet  Transport  Food, agriculture  Housing, heating  Creativity – arts, science, philosophy... activities beyond basic necessities of the day
+-
+- Is there a shift that needs to be made, in the following sense: We create and structure an energy system that fits our goals in the world. We want to build this, run that, travel there...so we set up the energy system that supports that. We do what it takes to set up that energy system.
+-
+- Now, instead, our energy system may need to EMBODY, and be a direct expression, of our goals in the world. [Coherence!!] This is almost like a retraction of our source of [true, inner]power being from outside [of the energy system] to within it. The values evident within the energy system were separate and distinct from the values of the goals we were trying to achieve. Now, at this time, perhaps this internalization needs to occur...?!?!
+-
+- Is our energy system already an expression of our values? I think so. Is it already an expression of our thoughts about ourselves? Perhaps need to consider energy’s role in contributing to levels of social satisfaction. Eg. More energy/fuel used to make more and more stuff which satisfies less and less.
+-
+- PERHAPS NOW WE NEED TO BE DRIVEN BY POSSIBILITY RATHER THAN REACTING TO THREAT!!! Ie. Shift the driver of social change from response to threat and lack to one of fostering, promoting, encouraging, fomenting POSSIBILITY (of peace, prosperity, security).
+- What possibility can we envision for the world with regards to its energy system. What are the possibilities that the[new] energy system is opening up and allowing to be possible?
+- In RESPONDING to climate change/global warming, peak oil, energy security issues, we can shift from being reactive to proactive. Let’s NOT ONLY respond to these issues powerfully, but go FURTHER to be drawn further into the future by our INSPIRED VISION.
+-
+- Energy System’s Purpose?
+- What does each party think the purpose of the energy system is? What are we providing energy FOR? What are the varying views? Is it REALLY for what we think its for? Can we come up with another purpose that will unite? Is the purpose of the energy system actually to UNITE!?!?! To promote a sense of UNITY! A feeling of oneness, unity, team, cohesion? Wow. What an idea! Feels good.  What are the symbolic metaphors each party has of energy and energy system’s evolution?
+- Energy futures are a driver of social development, or not.
+- Energy futures are a driver of social development, or not.   Development of any kind requires energy. The quantity and quality of energy available (in the sense of characteristics as well as excellence), determine how organisations and ecosystems grow, and by how much. Therefore, energy futures correlate closely with  general futures. Broad future visions contain particular energy futures. In other words, competition between energy futures is competition between broader, general futures.  With a suitable energy vision and accompanying comprehensive strategy which inspires people, society and industry, the energy system could become a driver of grand dreams and mechanism of meaning. In the modern industrial age, characterized by technological energy developments, energy policy has largely been an afterthought in an uninspired quest for ultimately empty mirages of power and trinkets.
+-
+- Need comment on the chicken-egg relationship of tech<->socio-econ dev
+-
+-
+- Energy policy and energy futures may be leverage point for grand solutions
+- Energy being central… if we address this one central question, we can resolve many resulting problems. Yet, we must go further and address the underlying problem(s) of energy (see point 1
+-
+- Energy policy and energy futures may be  leverage point for grand solutions  Energy being centralBeing fundamental, central and universal to all life and social endeavours, … if effective energy policy is developed to produce safe, clean, secure, reliable, prosperous and efficient energy systems, then we may concurrently resolve seemingly separate problems. This is not an attempt to proclaim energy as the most important issue, rather to emphasise the inter-relatedness of problem structures.  we address this one central question, we can resolve many resulting problems. Yet, we must go further and address the underlying problem(s) of energy (see point 1
+- An exercise in conflict resolution
+- Conflict Resolution v Sci-tech-econ-politics??
+-
+- Internal intra-stakeholder conflict (within an organisation), internal infra-stakeholder conflict (within oneself) as well as external inter-stakeholder conflict.
+-
+- {old}
+- Is “Australia’s Energy Future” issues are more about conflict resolution and mediating competing interests than technology, economics and politics?? Is this more about tempering competing visions of the future and uniting them? Could this be more about altering/modifying visions of the future so that competing visions mesh together and unite, resulting in cohesive harmonic effort? Could this be about helping others and facilitating others in expanding their visions of the future – what’s possible and how it can be possible – so that each and every one can see how we’re on the same team?  An effective solution will require co-operation, coherence and unity.
+-
+- This is an exercise in team-building, uniting, conflict resolution, creating shared common visions and working towards them together. The technicalities of the issue mask these fundamental points.
+- External barriers to preferred energy future same as internal barriers to preferred future
+- The barriers and obstacles to preferred energy futures are the same barriers and obstacles that each stakeholder faces in their own personal/organisational lives. Cynicism? Lack of vision?  lack of willingness to...? • challenge one's beliefs in the face of suffering • consider alternatives which challenge the comfort zone • challenge one's idea of Self
+- Summary of inter-connected hypotheses and contentions
+- The various inter-related hypotheses and ideas in the various ways I’ve expressed them.
+- 1. This is a problem within the field of energy but its not a problem OF energy.
+- 2. Each vision/strategy/approach has a piece of the puzzle. Each is partially “correct”.
+- 3. Each approach is lacking some key ingredient which prevents it from being rapidly and smoothly implemented, right across the board
+- 4. The puzzle may be lacking other pieces. There is lacking an overall “umbrella factor”, “glue” – an integrator
+- 5. The missing ingredient in each is the same or similar in essence, though perhaps in a slightly different form.
+- 6. With a suitable Energy Vision which inspires people, society and industry into action, the energy system can become a driver of dreams, and not just an afterthought to achieve dreams. There are as yet unrealized potential benefits in deliberately driving the transition to an energy future rather than manipulating or managing the current juggernaut’s path.
+- 7. In essence, under superficial differences, the obstacles each stakeholder faces in realizing their vision of Australia’s Energy Future are the same obstacles each stakeholder faces in their own personal lives.
+- 8. An(other) inspiring vision of the energy future can be invented which will accelerate stakeholders to take complementary coherent action.
+- MQGEF novelty
+- A comprehensive atlas of global energy futures with key stakeholder representatives.
+- A comprehensive thorough map  of global energy futures with indicative and key stakeholder representatives. This may extend to include an evolutionary map of historical energy futures.
+-
+- Many maps encompassing many co-ordinate systems and geometric structures.
+-
+- May extend to include an evolutionary map of historical energy futures.
+- Critical Futures methodologies applied to Energy Futures
+- The application of certain deep, transformative futures work to the energy field – causal layered analysis (CLA), integral futures and anticipatory action learning.
+- A set of distinct alternative energy futures
+- Taxonomies of the energy future with their representatives
+- Includes a set of new alternative energy futures: new fusions and novel creations.
+- Meta-analysis of energy futures
+- An analysis of the analyses of energy futures
+- When pundits have analysed energy futures, what are their limits? Their frameworks of analysis? Their theoretical orientations? Their implicit assumptions and understandings?
+-
+- General suggestions as to how to make stakeholders’ energy futures richer, more inspiring and more compelling, within their own frameworks.
+- General suggestions as to how to make stakeholders’ energy futures richer, more inspiring and more compelling, within their own frameworks.
+- The introduction or promotion of fringe energy futures and stakeholders into mainstream energy futures literature.
+- The introduction or promotion of fringe energy futures and stakeholders into mainstream energy futures literature.
+- Contributions to a theory of macroenergetics and macrohistory of energy.
+-
+-
+- Alignment and embedding of energy futures in civilizational futures.
+- Deeper, more specific alignment of energy futures with existing, broader civilizational futures. Reframing of civilizational futures through energetic lens. Equating future archetypes.
+-
+- Add to energetic theories of collapse.
+- Knowledge Cartography applied to Energy Futures
+- Visual argument mapping of energy futures
+- Summarise and visualise the arguments in and around energy futures.
+- Visual energy futures maps
+- Not just cognitive maps, but graphically represented
+- Multiple, possible axes (as determined from research)
+- Software for visualisation of cognitive maps (including futures maps)
+- Develop software to situate futures along user-selected 2-D, 3-D or 4-D co-ordinate systems. Use this to situate futures.
+- Formulation of an enhanced energy policy making schema with an enhanced energy futures toolbox.
+- Extra tools, understandings, techniques and insights for energy futuring.
+- Global Effort novelty
+- A database of energy futures
+- The nexus of energy, futures, deep futures, socio-technical transitions, knowledge cartography, visual language
+- Deepening and broadening the treatment of energy futures
+- Broadening not only to (say) free energy but concepts such as money as a store of energy, biophysical economics
+- Deepening via myth and metaphor
+-
+- Visualisation of energy DIKW
+- Not only graphs and infographics but argument maps, debate graphs, issue maps
+-
+- DIKW: Data, info, knowledge, wisdom
+-
+- Improving the energy literacy and futures literacy of general public
+- MQGEF search terms
+- energy futures
+- energy discourse
+- discourse
+- energy anthropology
+- macrosociology
+- societal collapse
+- civilizational collapse
+- peak oil
+- energy scenarios
+- thermoeconomics
+- biophysics of civilization
+- thermodynamics of civilization
+- civilizational metabolism
+- social metabolism
+- economic thermodynamics
+- net energy
+- EROEI
+- energy pathways
+- energy forecasts
+- Notes to process - Theory ideas and notes (both GE & MQGEF)
+- Can make energy analogues to futures tools I employ?
+- Inspired visions = magnetic energy
+- Fragmentation = nuclear fission, energy release plus pollution.
+- Uniting bodies = fusion energy (ideas released)
+- Hypotheses, Ideas, Insights
+- It requires energy to confine energy
+- Neohumanism and innate natural tendency to expand and include others
+-
+-
+- History as increasing energy usage per capita, and increasing exchange of energy, and increasing transformation of energy ie from primary source to final use
+- Material energy as a lever or trigger for immaterial energies
+- Genuinely alternative energy futures are available and feasible
+- To realise them, a progression in psycho-socio-economics is required.
+- A higher free energy state of the world is possible, by freeing the energy slaved through advanced energy-economic technologies.
+- History is the projection of pollution
+- Coherent, open technology development, research and funding.
+- Generous energy access promulgation
+- The development of a unified energy future is not the goal. Getting to the point where civilization can actually do this is the goal!
+- History is the progressive release from lower-level energy-intensive tasks eg. slavery, animals
+- Adding verticality to energy future/ing.
+- How does one energy future raise the "energy" of another "lower" energy future?
+-
+- Inject energy?
+- Pull them up?
+-
+-
+- Energy innovation will be limited by the role of energy in socio-economic systems.
+- If role of energy is to concentrate energy/power, then energy innovation is limited to, or focused on, technologies which sustain that.
+-
+- Unconcious or conscious?
+- Zero point energy accessible anywhere. Cannot be metered. Source cannot be controlled.
+- The energy system we have reflects the underlying dominant mindset of humanity.
+- What if hypothetical modelling?
+- Hypothetical question: If all energy were free (as in cost), in our current energy system, what would happen?
+- What if energy were free? Freely available anywhere, and didn't cost anything.
+- What if we were freed up from doing menial tasks? ie. The energy that would have been expended foraging/hunting/cleaning etc is redirected?
+- Higher energy attractors/levers are key to transforming lower-energy systems
+- A robust, workable energy future needs to be multi-layered, multi-driver, multi-sector, multi-timescale, and macroenergetic.
+- Macroenergetics is a metaphor to integrate and communicate multi-layer and multi-aspect situations.
+- The dynamics of the energy system on a macroscale are evident in all situations, in all disciplines, industries and settings on a microscale
+- Energy transformationalists would be wise to work on changing the underlying mindset
+- What would people do with free energy?
+- Energy futuring techniques predetermine the scope and range of energy futures consciously available
+- Preferred energy futuring techniques/toolbox is an expression of worldview
+- Meeting the minimum lower-energy requirements of more, then more free energy available to release higher energies for more
+- There is an even bigger energy-nexus crisis than we currently think. It also involves the actual economic system, as well as psychology of civilization.
+- Energy, more than any other field, highlights the role of technology and the status of nature in our society. Energy harnessing relies on technology, technology requires energy. Technology transforms energy.
+- Energy technology is foundational technology, in the physical world. All else is built on it.
+- For the world to have cleaner and freer energy systems, the masses must improve their energy usage ie. what we use energy for?
+- What would people do with unlimited energy?!?!
+- Energy policy has been post-problem response, rather than vision-oriented and foresight based.
+- Scarcity
+- Pollution
+- Threat of conflict
+-
+-
+- Alternative energy futures hinge less on technology and economics, and mroe on personal and civilizational fears about power, control and security, and imagination.
+- There are critical points in history where alternative energy futures pathways have been purposely diverted, suppressed or blocked.
+- Who killed the electric car
+- Solar energy in French agriculture
+- Tesla and wireless energy tech
+-
+- How we produce energy determines/strongly influences WHAT we produce energy for, and the type of society and social structures which use the energy.
+- Energy extraction, sourcing, distribution and use mirrors power-control dynamics
+- Fossil fuels are centralised in production, generation, distribution.
+- Economics is fundamentally the manipulation of (potential?) energy.
+- Material resources are fundamentally potential energies.
+-
+- Resources have the potential to facilitate higher energies...
+-
+- Or reinforce lower energies.
+-
+-
+- The gross energy system and energy futures must be situated within a bigger, more comprehensiee grand energy development curve.
+- Energy consumption vs HDI follows an exponential curve that asymptotes.
+-
+- As this asymptotes, the type of energy consumption being measured against must change. It must elevate to a "higher" energy.
+-
+- What is this measure?
+- Increased energy consumption, increased adverse effects. Graph?
+- Is there an optimum gross energy consumption level for elevation to the next level?
+- Social surplus energy. What is its effect?
+- There are alternative energy futures that may appeal to dominant schools which will not diminish their energy/power supply/security in the world energy system.
+- Energy futures should acknowledge a dynamic feedback interplay of inner development and outer development.
+- Linda ?. Investment banker. Shale gas as wall street scam.
+- Julianne Techt. Complex derivative. Whistleblower. Anthropologist.
+- Energy supply chain as framework for forming tree-like taxonomy/typology of energy systems
+- Possible indicators of energy intelligence
+- Possible indicators of energy intelligence
+-
+- Energy use to pollution production ratio, per capita
+- Is this "footprint"
+-
+- GINI index for energy?
+-
+- % energy spent on higher/next energy
+-
+-
+- Lambert and other on Energy and Quality of Life
+- Treatment of energy futures by (open, acknowledged, discussed) breadth and depth of energy considerations
+- Can categorise energy futures by the degree to which they detail the purpose of energy; its ultimate uses, its purpose...
+- Degree of acknowledged embedment of energy in grander life dynamics.
+-
+- At one end... Energy just drives the economy. Energy is external to economy, largely separate.
+-
+-
+-
+- At another end... The economy is energy. Total equivalence.
+-
+-
+- Energy as a means
+- vs
+- Energy as an end.
+-
+- The degree to which means-ends discussion is open.
+- Large families and reproduction as energy banks/slaves
+- The Carbon Bubble
+- Energy usage distributions across society and societies
+- Energy usage distributions across society and societies
+-
+- Is there a correlation between energy usage distribution and quality of society.
+- Dynamic energy budget theory for metabolic organisation
+- Psycho-social metabolism
+- neuroscience, irrationality, climate change
+- Jeremy Leggett
+- Economics as energy management -> leads to macroenergetics
+- Economics as energy management -> leads to macroenergetics
+-
+- If, for example, energy futures analysis comes down to economics, then we can begin to enter macroenergetics.
+-
+- Economics becomes an analysis of “power sources” : time rate of change of work capability
+-
+- Energy is the ability to do work
+- Power is the rate of work/energy
+-
+- Power is the potential of rate of change
+- Power is the potential to effect a result (change) in a given time (per unit time)
+-
+-
+- Perceived ability vs actual ability
+-
+- The change we each want to produce is happiness, satisfaction, health…each in our own preferred, idiosyncratic ways.
+-
+-
+- Thermoeconomics
+- Thermoeconomics
+-
+- Nicholas georgsen-roegen
+-
+- Protege of Joseph schumpeter
+-
+- Taught
+- Herman daly
+- Kozo Mayumi
+-
+- Good articles on this on Wikipedia
+-
+- Charles Hall (goes by BioPhysical Economics)
+- BioPhysical Economics / Thermoeconomics
+- Social metabolism
+- Social metabolism
+-
+- Search
+-
+- Does this tie in with kardashev?
+-
+- Is there a way of relating social metabolism to power usage and power structures.
+- Surplus energy
+- Surplus energy
+-
+- What do we do with energy after basic needs are met?
+-
+- Is there a spiral to this?
+-
+- Consider personal, social and civilisations scales.
+- Energy future/ing entities, instances, organisations, individuals, ideas, drivers, barriers, technologies ... unanalysed. Needs Analysis!
+- Organizations
+- GENI
+- Buckminster Fuller
+- Global Energy Network Institute
+- Bloomberg New Energy Finance
+- Global and international bodies
+- EURENDEL
+- International Energy Agency
+- World Bank
+- World Energy Council
+- Stanford Precourt Institue for Energy
+- USA
+- university
+- academia
+- policy
+- sustainable development
+- legal governance
+- finance
+- research
+- Institute for the Future
+- Integrity research institute
+- Integrity research institute
+-
+- New energy
+-
+-
+- Cheney secret Energy Task Force. New Energy Policy Development Group. 2001
+- Global Energy Assessment. Global Effort
+- IIASA. Global Effort stakeholder
+- Australian Academy of Science
+- renewable energy futures
+- Australia
+- 2009
+- Individuals
+- Technologies
+- Daniel Nocera
+- Bacteria which converts CO2 to energy
+- Artificial Leaf
+- Innowattech
+- Isreali company developing piezoelectric devices for road and rail tracks to generate electricity
+-
+-
+- Reports/Books/Articles
+- E-cat world. LENR website
+- Cultures of Energy: Power, Practices, Technologiesee
+- Cultures of Energy
+- Power, Practices, Technologies
+- Anthropology
+- Sarah Strauss
+- Stephanie Rupp
+- Thomas Love
+- The Venus Project
+- Jacques Fresco
+- Rnewables Global Futures Report 2013
+- Eric Martinot
+- REN21
+- Time Magazine Energy futures debate database
+- essays
+- http://content.time.com/time/sponsoredarchive/landing/0,31909,1977537,00.html
+-
+-
+- Future of energy in Australia. Powering Australia. The Australian newspaper
+- Future of energy in Australia
+-
+- Theaystralian.com.au\/poweringaustralia
+-
+-
+- Projects
+- Energy Descent Action Plans
+- Azimuth Project - critiques and analyses of existing ideas
+- http://azimuthproject.org/azimuth/show/Plans+of+action
+-
+- The Millennium Project
+- Ideas
+- 4th and 5th laws of thermodynamics around self-organising systems and energy heirarchy
+- SESYNC. National Socio-Environmental Synthesis Center. USA.
+- US DOE
+- Indigenous views
+- Workers, Consumers, Householders, Citizens groups
+- Sectors & Fields
+- Energy Anthropology
+- agriculture, forestry and land use
+- transport
+- relationships, rights, family planning
+- social structure
+- cities and urban design
+- energy and the military
+- economic system
+- governanee, law, power and energy
+- health and energy
+- environment
+- cultures of work and labour, and leisure
+- education, discovery, creativity, science, art
+- Taxonomy, Typology, Ontology stuff - Global Effort & MQGEF universal
+- 1. list all objects and instance types
+- 2. create multiple alias sets
+- 3. aliases can be rearranged into multiple, different taxonomies
+- 4. as new instance types come to mind, create the type in the original container, then repeat above process by creating aliases into the taxonomies, and locating them appropriately.
+-
+- Category theory
+- Energy categories and allowable solutions
+- Taxonomies, Typologies and Ontologies determine the ways problems are structured and therefore understood, and therefore what solutions are available and allowable.
+-
+- Categories reflect how we think about an issue, how we define it.
+-
+- They determine how we view the problem, and therefore, what solutions become a) permissible and b) conceivable.
+-
+- http://www.murdoch.edu.au/School-of-Engineering-and-Information-Technology/_document/SE-Taxonomies/Sustainable-Energy-Taxonomy-Overview-Draft.pdf
+-
+-
+- Sustainable Energy Overarching Knowledge Taxonomy
+- http://www.murdoch.edu.au/School-of-Engineering-and-Information-Technology/_document/SE-Taxonomies/Sustainable-Energy-Taxonomy-Overview-Draft.pdf
+-
+- Murdoch University, WA, Australia
+-
+- Energy Thesaurus?
+- see my Evernote for an article on this
+-
+- First attempt at simplifying energy technologies & systems
+- First attempt at simplifying energy technology systems and ideas
+- 1. List all revolutionary energy techs a. High-altitude wind b. Organic solar cells c. Carbon nanotube solar antennae d. All/any waste to biofuel e. Solar gasoline (using solar energy to convert co2 into gasoline) f. Solar thermal g. Volcanic geothermal h. Hygroelectricity i. Piezoelectric motion, traffic j. Nanotech carbon capture membranes k. Solid-oxide fuel cells (on-site electricity generation from organic matter) l. Solar Roadway (roads made of heavy-duty solar panels) www.solarroadways.com  m. Co-operative infrastructure networks – electricity cable, fibre optic, gas, water, roads n. V2G – Vehicle-to-grid renewable energy storage in EV’s o. Ceramic fuel cells p. Fracking, tar sands, shale gas, CSG technologies…  q. LIFE fusion – laser ignition fusion energy r. Global thermostat – air capture of CO2 using waste heat energy s. Sahara Solar breeder project http://www.youtube.com/watch?v=UdO6T1TIDzQ  t. Solar thermo-chemical http://www.good.is/post/video-mit-researcher-explains-new-third-way-solar-innovation/  u. Trigeneration v. Desert-algae photobioreactor CCS producing bio-oil http://bit.ly/fVjNFh  w. Hydrogen Highway Network http://www.hydrogenhighway.ca.gov/  x.  y. LETR / “cold fusion” z. ZPE
+- 2. Classify based on schema a. Renewability b. Availability & accessibility c. Mobility & Portability d. Decentralization e. Empowerment potential f. Controllability g. Understandability h. Feasibility (? What does that mean? Feasible on what criteria?) i. Communicability j. Growth k. Technology development l. Cleanliness – energy required to maintain cleanliness m. EROEI n. Source of inspiration (conscious or unconscious) i. Separation, destruction eg. Fission ii. Unification eg. Fusion iii. Biomimicry eg. Artificial solar ‘leaves’ iv. Past technology eg. Windmills v. Science fiction
+	- School of thought Vinod Khosla – the best way to forecast the future is invent it.
+- Technologies for consideration & analysis
+- space based solar
+- Beamed by microwaves
+- Human power (kinetics)
+- Convert pressure and movement to electricity
+- Tidal
+- Geothermal heat from lava beds
+- Solar windows
+- Alternative biofuels
+- Switchgrass
+- Hemp
+-
+- Algae
+-
+- Flying wind farms
+- Thorium
+- 1. List all revolutionary energy techs
+- 1
+- 1. List all revolutionary energy techs
+- a. High-altitude wind
+- b. Organic solar cells
+- c. Carbon nanotube solar antennae
+- d. All/any waste to biofuel
+- e. Solar gasoline (using solar energy to convert co2 into gasoline)
+- f. Solar thermal
+- g. Volcanic geothermal
+- h. Hygroelectricity
+- i. Piezoelectric motion, traffic
+- j. Nanotech carbon capture membranes
+- k. Solid-oxide fuel cells (on-site electricity generation from organic matter)
+- l. Solar Roadway (roads made of heavy-duty solar panels) www.solarroadways.com
+- m. Co-operative infrastructure networks – electricity cable, fibre optic, gas, water, roads
+- n. V2G – Vehicle-to-grid renewable energy storage in EV’s
+- o. Ceramic fuel cells p. Fracking, tar sands, shale gas, CSG technologies…
+- q. LIFE fusion – laser ignition fusion energy
+- r. Global thermostat – air capture of CO2 using waste heat energy
+- s. Sahara Solar breeder project http://www.youtube.com/watch?v=UdO6T1TIDzQ
+- t. Solar thermo-chemical http://www.good.is/post/video-mit-researcher-explains-new-third-way-solar-innovation/
+- u. Trigeneration
+- v. Desert-algae photobioreactor CCS producing bio-oil http://bit.ly/fVjNFh
+- w. Hydrogen Highway Network http://www.hydrogenhighway.ca.gov/
+- x.
+- y. LETR / “cold fusion”
+- z. ZPE
+-
+- a. High-altitude wind
+- a. High-altitude wind
+-
+- b. Organic solar cells
+- b. Organic solar cells
+-
+- c. Carbon nanotube solar antennae
+- c. Carbon nanotube solar antennae
+-
+- d. All/any waste to biofuel
+- d. All/any waste to biofuel
+-
+- e. Solar gasoline (using solar energy to convert co2 into gasoline)
+- e. Solar gasoline (using solar energy to convert co2 into gasoline)
+-
+- f. Solar thermal
+- f. Solar thermal
+-
+- g. Volcanic geothermal
+- g. Volcanic geothermal
+-
+- h. Hygroelectricity
+- h. Hygroelectricity
+-
+- i. Piezoelectric motion, traffic
+- i. Piezoelectric motion, traffic
+-
+- j. Nanotech carbon capture membranes
+- j. Nanotech carbon capture membranes
+-
+- k. Solid-oxide fuel cells (on-site electricity generation from organic matter)
+- k. Solid-oxide fuel cells (on-site electricity generation from organic matter)
+-
+- l. Solar Roadway (roads made of heavy-duty solar panels) www.solarroadways.com
+- l. Solar Roadway (roads made of heavy-duty solar panels) www.solarroadways.com
+-
+- m. Co-operative infrastructure networks – electricity cable, fibre optic, gas, water, roads
+- m. Co-operative infrastructure networks – electricity cable, fibre optic, gas, water, roads
+-
+- n. V2G – Vehicle-to-grid renewable energy storage in EV’s
+- n. V2G – Vehicle-to-grid renewable energy storage in EV’s
+-
+- o. Ceramic fuel cells p. Fracking, tar sands, shale gas, CSG technologies…
+- o. Ceramic fuel cells p. Fracking, tar sands, shale gas, CSG technologies…
+-
+- q. LIFE fusion – laser ignition fusion energy
+- q. LIFE fusion – laser ignition fusion energy
+-
+- r. Global thermostat – air capture of CO2 using waste heat energy
+- r. Global thermostat – air capture of CO2 using waste heat energy
+-
+- s. Sahara Solar breeder project http://www.youtube.com/watch?v=UdO6T1TIDzQ
+- s. Sahara Solar breeder project http://www.youtube.com/watch?v=UdO6T1TIDzQ
+-
+- t. Solar thermo-chemical http://www.good.is/post/video-mit-researcher-explains-new-third-way-solar-innovation/
+- t. Solar thermo-chemical http://www.good.is/post/video-mit-researcher-explains-new-third-way-solar-innovation/
+-
+- u. Trigeneration
+- u. Trigeneration
+-
+- v. Desert-algae photobioreactor CCS producing bio-oil http://bit.ly/fVjNFh
+- v. Desert-algae photobioreactor CCS producing bio-oil http://bit.ly/fVjNFh
+-
+- w. Hydrogen Highway Network http://www.hydrogenhighway.ca.gov/
+- w. Hydrogen Highway Network http://www.hydrogenhighway.ca.gov/
+-
+- x.
+- x.
+-
+- y. LETR / “cold fusion”
+- y. LETR / “cold fusion”
+-
+- z. ZPE
+- z. ZPE
+-
+- 2. Classify based on schema
+- 2
+- 2. Classify based on schema
+- a. Renewability
+- b. Availability & accessibility
+- c. Mobility & Portability
+- d. Decentralization
+- e. Empowerment potential
+- f. Controllability
+- g. Understandability
+- h. Feasibility (? What does that mean? Feasible on what criteria?)
+- i. Communicability
+- j. Growth
+- k. Technology development
+- l. Cleanliness – energy required to maintain cleanliness
+- m. EROEI
+- n. Source of inspiration (conscious or unconscious)
+- i. Separation, destruction eg. Fission
+- ii. Unification eg. Fusion
+- iii. Biomimicry eg. Artificial solar ‘leaves’
+- iv. Past technology eg. Windmills
+- v. Science fiction  School of thought Vinod Khosla – the best way to forecast the future is invent it.
+- a. Renewability
+- a. Renewability
+-
+- b. Availability & accessibility
+- b. Availability & accessibility
+-
+- c. Mobility & Portability
+- c. Mobility & Portability
+-
+- d. Decentralization
+- d. Decentralization
+-
+- e. Empowerment potential
+- e. Empowerment potential
+-
+- f. Controllability
+- f. Controllability
+-
+- g. Understandability
+- g. Understandability
+-
+- h. Feasibility (? What does that mean? Feasible on what criteria?)
+- h. Feasibility (? What does that mean? Feasible on what criteria?)
+-
+- i. Communicability
+- i. Communicability
+-
+- j. Growth
+- j. Growth
+-
+- k. Technology development
+- k. Technology development
+-
+- l. Cleanliness – energy required to maintain cleanliness
+- l. Cleanliness – energy required to maintain cleanliness
+-
+- m. EROEI
+- m. EROEI
+-
+- n. Source of inspiration (conscious or unconscious)
+- n. Source of inspiration (conscious or unconscious)
+-
+- i. Separation, destruction eg. Fission
+- i. Separation, destruction eg. Fission
+-
+- ii. Unification eg. Fusion
+- ii. Unification eg. Fusion
+-
+- iii. Biomimicry eg. Artificial solar ‘leaves’
+- iii. Biomimicry eg. Artificial solar ‘leaves’
+-
+- iv. Past technology eg. Windmills
+- iv. Past technology eg. Windmills
+-
+- v. Science fiction  School of thought Vinod Khosla – the best way to forecast the future is invent it.
+- v. Science fiction  School of thought Vinod Khosla – the best way to forecast the future is invent it.
+- Stakeholders, Thinkers, Tinkerers - working list
+- Global & International Energy Bodies
+- IEA - International Energy Agency
+- WEC - World Energy Council
+- United Nations
+- WEA - World Energy Assessment (UNDP/WEC)
+- IIASA - International Institute of Applied Systems Analysis
+- World Resources Institute
+- IRENA - International Renewable Energy Agency
+- REN21 - Renewable Energy Policy Network for 21C
+- Clean Energy Ministerial
+- WFES - World Future Energy Summit
+- Governments
+- Major national energy producers & consumers
+- incorporates OECD & BRIC
+- USA
+- China
+- EU
+- Russia
+- India
+- OPEC
+- Organization of Petroleum Exporting Countries
+- Saudi Arabia
+- Gulf States
+- UAE, Qatar, Bahrain, Qatar
+- Iran, Iraq
+- Nigeria, Libya, Venezuela, Ecuador, Angola, Algeria
+- Australia, Canada
+- Brazil, Mexico
+- Japan, South Korea
+- South Africa, Pakistan, Indonesia
+- Germany, France, UK, Spain
+- a mixture of oil & gas, nuclear, renewables
+- Norway
+- Small island states
+- Maldives
+- Cuba
+- Hawaii Clean Energy Initiative
+- Global sustainable energy islands initiative
+- Other special cases
+- Norway
+- Iceland
+- Bolivia
+- Denmark
+- Singapore
+- Future Energy "Cities"
+- Masdar
+- Tsukuba
+- Novosibirsk
+- Developing Nations
+- Bottom third of HDI ??
+- Regional/Provincial/Local
+- Mount Isa - Townsville "Copperstring"
+- Sydney trigeneration
+- Curitiba
+- Corporate
+- Big Energy
+- Engineering & Technology
+- Energy focused
+- General Electric - Hitachi
+- Mitsubishi
+- Siemens
+- EON
+- ABB
+- Halliburton
+- Sangyong
+- European Power Plant Suppliers Association
+- Nuclear
+- Areva
+- France
+- Rosatom
+- Russia
+- Kepco
+- Korea
+- Wind
+- RE-Energy
+- Vestas
+- Alstom
+- Gamesa
+- Enercon
+- Xinjiang Goldwind
+- Enercon
+- Solar PV
+- Solar Thermal
+- Infrastructure
+- Sourcing & Refining
+- Oil & Gas
+- Shell
+- BP
+- Chevron-Texaco
+- ExxonMobil
+- Gazprom
+- Petrobras
+- Coal
+- Peabody Energy
+- Glencore
+- BHP
+- Xstrata
+- Anglo-American coal
+- Chinese coal companies
+- Coal India
+- Uranium
+- Cameco
+- Areva
+- KazAtomProm
+- BHP
+- Paladin
+- Utilities
+- Engie
+- EDF
+- Enel
+- Iberdrola
+- Consultancy
+- McKinsey
+- Boston Consulting Group
+- Deloitte
+- Ernst & Young
+- Ecofys
+- Wood Mackenzie
+- ClimateWorks Australia
+- Business Consortiums
+- Australian Business and Climate Group
+- Westpac, Rio Tinto, Anglo Coal, BP Australia, Mirvac, Swiss RE, Santos, Deloitte
+- Australian Business Roundtable on Climate Change
+- Institute for 21st Century Energy
+- US Chamber of Commerce
+- Insurance
+- Allianz
+- Munich RE
+- Swiss RE
+- Other corporate
+- Energy Associations, Organizations & Lobby Groups
+- Suppliers and Generators
+- Australia
+- Australian Coal Association
+- REGA - Renewable Energy Generators Australia
+- National Generators Association
+- Energy Networks Association
+- Energy Supply Association of Australia
+- Electricity Utilities lobby group
+- Energy Market Operators - NEMMCO
+- Edison Electric Institute
+- World Coal Institute
+- OPEC - Organisation for Petroleum Exporting Countries
+- World Business Council for Sustainable Development
+- Users
+- Energy Users Association of Australia
+- Scientists and Engineers
+- UCS - Union of Concerned Scientists
+- AIE - Australian Institute of Engineers
+- AAS - Australian Academy of Sciences
+- www.energyscience.org.au
+- Renewables
+- ISES - International Solar Energy Society
+- IWEA - International Wind Energy Association
+- IRENA - International Renewable Energy Association
+- IGA - International Geothermal Association
+- Clean Energy Council
+- RENEW 21 (name??)
+- Westminster Energy Forum
+- NGO's
+- Energy
+- Beyond Zero Emissions
+- SC Global Initiative
+- DESERTEC
+- Gigaton Throwdown
+- RePower America
+- Post Carbon Institute
+- Alternative Technology Association
+- The Natural Edge Project
+- Oil Change International
+- International Institute for Energy Conservation
+- The Pickens Plan
+- GNESD - Global Network of Energy for Sustainable Development
+- E+co
+- Deep Decarbonization Project
+- Environmental
+- Greenpeace
+- Friends of the Earth
+- WWF
+- 350.org
+- Community
+- Hepburn
+- Community Sustainable Energy Groups
+- eg. Zero Carbon Moreland
+- Transition Towns Movement
+- EnergyCities
+- EU, local government
+- Citizens for Affordable Energy
+- Solar Citizens
+- Economic
+- New Economics Foundation
+- Social
+- International Forum on Globalisation
+- Civil Society Institute
+- Socialist Alliance
+- Religious
+- Faith and Ecology Network
+- Green Faith Australia
+- Australian Religious Response to Climate Change
+- Research Institutions
+- Academia
+- Energy Thinktanks
+- CSIRO Energy Futures/Transformed Flagship
+- equivalent to Australian government position?
+- Association for the Study of Peak Oil
+- Post-Carbon Institute
+- International Institute for Applied Systems Analysis (IIASA)
+- Belfor Centre, MIT.
+- Science Council for Global Initiatives (SCGI)
+- RISO
+- Denmark
+- ECN
+- Netherlands
+- Nordic Energy Perspectives
+- InterAcademy Council
+- Rocky Mountain Institute
+- American Energy Innovation Council
+- Electric Power Research Institute
+- Institute for Energy Research
+- LIFE
+- Lawerence Livermore National Labs
+- Policy Thinktanks
+- The Breakthrough Institute
+- George C Marshall Institute
+- Manhattan Institute
+- Other Initatives
+- Desertec
+- Various - North Africa/Europe, Australia/Asia,
+- Energy descent/Transition movement
+- Transition towns. Permaculture etc.
+- NANRES
+- NanoAssociation for Natural Resources and Energy Security
+- The Orion Project (Sirius, Disclosure, SEAS)
+- Futures Groups
+- Futures organisations that have done energy work.
+- The Millennium Project
+- Institute for the Future (IFTF)
+- World Futures Society
+- Foundation for the Future (FFF)
+- Pardee Centre for International Futures
+- EFONET
+- Energy Foresight Network
+- Energy Prizes and Competitions
+- Corporate, Academic, Start-up weekends etc
+- X-Prize
+- MIT Clean Energy Prize
+- Virgin ?
+- Zayed Future Energy Prize
+- World Future Energy Summit
+- Warren Centre for Engineering
+- Student competitions
+- Time Magazine energy futures essays
+- Global Energy Initiative energy competition
+- NEEEC national energy essay competition
+- Advanced Technology groups
+- Groups & individuals that are developing scientifcally accepted technologies which are still in infancy.
+- Nuclear Fusion
+- OTEC
+- Integrated ocean systems
+- Energy Start-ups
+- MIT energy start-up weekend
+- Energy Excelerator
+- Hawaii. Including Asia-Pacific.
+- Individuals (in no particular order)
+- Armin Grunwald
+- Chair of Philosophy of Technology and Technology Ethics at the University of Karlsruhe .
+-
+-
+-
+- Damien Giurco
+- UTS
+- Research Director, Institute for Sustainable Futures
+-
+-
+- Simon Buckingham Shum
+- Vanessa Schweizer
+- University of Waterloo
+- scenarios, foresight, discontinuities
+- energy, climate change
+- cross-disciplinary knowledge integration and the design of scenarios for the human dimensions of large-scale environmental change
+-
+- Collective decision-making. This includes many processes such as articulating aspirations and values, exercising foresight, confronting uncertainties and risks, and negotiating tradeoffs.
+-
+-
+- Kathleen Araujo
+- Belfer Centre, Harvard Kennedy School of Government
+-
+- Cutler Cleveland, PA O'Connor
+- Boston University
+- Geographers
+-
+- Jerry Taylor
+- Niskanen Centre
+- Paid climate-change skeptic converted by economic/financial/risk management arguments, and by lack of intellectual honesty of supporting scientist
+-
+- Ian Dunlop
+- peak oil
+- AAPO
+- Free/New Energy thinkers/tinkerers
+- T. Townsend Brown
+- Amit Goswami. New energy. New physics.
+- Moray King
+- Brian O'Leary
+- John Newman
+- Tom Bearden
+- John Bedini
+- Thomas Valone
+- Hal Fox
+- Robert Adams
+- Adam Trombly
+- ? Adams (NZ0
+- John Hutchison
+- Energy Paradigm Leaders for Analysis
+- Nikola Tesla
+- Thomas Edison
+- Viktor Schauberger
+- Walter Russell
+- Buckminster Fuller
+- Steven Greer
+- Howard T. Odum
+- Fred Cottrell
+- and Cutler Cleveland. Energy and Society.
+- Vaclav Smil
+- Hermann Scheer
+- Eric Martinot
+- REN21 and 100% renewables visionary
+- Alexis Pietak
+- Life as Energy. Thermodynamic analogies of living systems. Emergent thermodynamics.
+- Jose Goldemberg
+- Energy, Environment and Development.
+- Herman Josef Wagner
+- Energy and economy, resources.
+- Leonardo da Vinci
+- Archimedes
+- Ivan Ilyich
+- Watt, Newcomen
+- Medard Gabel
+- Energy, Earth & Everyone
+- David Holmgren
+- Mark Jacobson
+- Stanford Uni.
+- Daniel Yergin
+- Freeman Dyson
+- Other Important Thinkers/Researchers
+- Charles Hall and Jessica Lambert
+- Frank Znidarsic
+- James Griffin
+- a smart energy policy
+- economist
+- academic
+- the energy journal
+-
+- Alfred Lotka
+- Mapping STS controversies
+- Bruno Latour (MediaLab Sciences Po)
+- Tommaso Venturini (MediaLab Sciences Po)
+- Gerhard Lenski. Anthropology. Typology of society
+- Power and Privelige
+- Ecological-Evolutionary theory
+- Kjell Aleklett
+- Norway
+- Eric Zelcey
+- Richard Heinberg
+- Post-Carbon Institute
+- Julian Simon
+- Wilhelm Reich
+- Jeremy Rifkin
+- Marc Jacobson
+- Stanford University. 100% renewables.
+- Limits to Growth group
+- Tim Jackson. Donella Meadows. et al
+- Chris Martenson
+- Crash Course
+- Daniel Yergin
+- Paul Ehrlich & John Holdren
+- The Bet v Julian Simon
+- Tachyon Energy
+- Gabriel Cousens et al
+- William Tiller
+- Psychoenergetic Science
+- Walter Dibble
+- subtle energy
+- Michael Ruppert
+- Collapse, oil, money-energy link
+- Ian Roberts
+- Health, energy, obesity, climate change, oil
+- Pierre Teilhard de Chardin
+- Spiritual energy more important than technical energy advancements
+- Peter Tertzakian
+- Energy obesity. Energy economist.
+- Geert Verbong
+- Energy and socio-technical transitions.
+- David Goldblatt
+- Energy and social sciences. Social or technical change?
+- Henrik Lund
+- Energy modelling for fluctuating 100% renewables. Smart energy systems.
+- Ostwald and his "energism"
+- Waste no energy. Technocracy. Eugenics.
+- Modern commentators
+- Civilizational collapse and energy
+- Jared Diamond
+- Thomas Homer-Dixon
+- EROI of Roman Empire
+- Julian Simon
+- Energy as the Master Resource
+- Eric Zencey/Zelcey
+- (different) Energy as a Master Resource - slideshow. Talks through many thinkers.
+- Rajan Gupta
+- academic (physicist)
+- Amory Lovins
+- Rocky Mountain Institute
+- Hazel Henderson
+- Udo Bachhiesl
+- Barriers to renewable energy
+- Benjamin Sovacool
+- Jenny Ivner
+- energy scenarios & public participation
+- David Criswell
+- Lunar solar power
+- Terry Tamminen
+- James Lovelock
+- GAIA & nuclear energy
+- Bernard C. Beaudreau
+- Jeffrey Sachs
+- Columbia University, Earth Institute
+- Nebosja Nakicenovic
+- IIASA
+- Arnulf Grubler
+- Gregor Macdonals
+- Peter Odell
+- Mohan Munasinghe
+- Frank Geels
+- William W Hogan
+- Robert Bryce, Peter Huber
+- Manhattan Institute
+- Michio Kaku
+- Freeman Dyson
+- Kardashev
+- Cutler Cleveland
+- Peter Schwartz
+- Global Business Network
+- Barry Brook
+- Thomas Homer Dixon
+- Tim Flannery
+- Ian Lowe
+- Tom Rees
+- SCGI
+- David Rutledge
+- Caltech, Peak Coal
+- David Goldblatt
+- John Randolph & Gilbert M Masters
+- Energy for Sustainability text, chapter on"Energy Futures"
+- Barry B Hughes
+- Pardee Centre for International Futures. U. Denver
+- Chris Riedy
+- Jaco Quist
+- John Robinson
+- backcasting & socio-technical change
+- Dr Nafeez Mosaddeq Ahmed
+- crisis of civilization
+- interdisciplinary
+- Anthony Judge
+- http://www.laetusinpraesens.org/
+-
+- Alexis Madrigal
+- Book: “Powering the Dream”
+- History of green energy tech in America
+-
+- Tim Garrett
+- Univeristy of Utah
+- Biophysics economist
+- Thermoeconomics
+- Macroenergetics
+- Dr Roger Dargaville - energy analyst, university of Melbourne
+- Leslie White. White's Law
+- sociologist
+- anthropologist
+- White's Law
+- culture is a reflection of efficient energy usage
+- C = ET
+- Energy Investors & Entrepreneurs
+- Vinod Khosla
+- T.Boone Pickens
+- Elon Musk
+- Tesla
+- Science Fiction authors
+- Arthur C Clarke
+- Global Effort - project, process & platform
+- Project Outline
+- A pitch/proposal/project description to write to explain the project
+- Specifications
+- Purpose & Rationale
+- Objectives & Aims
+- Central Message
+- What its not
+- Audience who?
+- Product what is the product?
+- About Global Effort
+- What?
+- What is it not?
+- Why?
+- How?
+- Who?
+- When?
+- Where?
+- 3-D wiki
+- Multi-phase evolution
+- Development Schema 1
+- 1. Identify energy futures
+- Proposals, plans and predictions. Stakeholders, thinkers, agents. Technologies, methods, mechanisms.
+- 2. Map and situate energy futures
+- Group and categorize. Orient the energy futures debate for clearer argumentation.
+- 3. Plug holes. Build bridges. Heal rifts.
+- Mediate the conflict resolution amongst conflicting energy futures and their stakeholders.
+- Development Schema 2
+- 1. Collate energy futures
+- 2. Compare and contrast energy futures
+- 3. Chart energy futures
+- 4. Complement and coalesce energy futures
+- Healing. Bridge building. Conflict resolution. Co-creating. Constructing. Improving. Ameliorating.
+- 5. Generate alternative energy futures
+- Development Schema 3
+- 1. Gather data on energy futures instances
+- 2. Gather data on futures models and frameworks
+- 3. Use the futures frameworks to critique energy futures instances
+- 4. Add this critique to energy futures instance database entry.
+- 5. Use futures tools (and others) to heal and 'wholify' energy futures
+- 6. Generate novel, unique alternative energy futures
+- Futures & Foresight
+- Shallow, short-term
+- Medium, generational timeframe
+- Deep, civilizational, long-term
+- Energy futuring methodologies
+- Map-making, Organisation & Orientation
+- Argument mapping
+- Futures Cartography
+- Debate visualization
+- Typologies & Taxonomies
+- Major actors, key thinkers, critical influencers, important publications, pivotal events
+- Related projects
+- Complementary projects content
+- Open EI energy database
+- Azimuth projects
+- PESWiki
+- Exemplar projects methods or ideals
+- Differentiation
+- Related projects. Novelty & uniqueness.
+- Azimuth Project
+- OpenEI
+- PESWiki
+- See Diigo references
+- Raw feedstock for academic analysis. MQGEF
+- Building a community of energy futures experts
+- Navigating the energy transition. Not speculating on energy prices.
+- Distinguish from oil futures, coal futures etc.
+- Concise database of the macroscopic energy discussion
+- Problem perception
+- Predictions, Proposals, plans and pathways
+- Processes and procedures
+- A truly global effort
+- On defining 'Global' in Global Effort
+- On defining 'Global'
+-
+- Need to make clear the additional definition...
+-
+- Global = the whole world
+- Global = all inclusive, all encompassing
+- Global = the whole world
+-
+-
+- Global = all inclusive, all encompassing
+- Global scale
+- Global scope
+- Global effects
+- Global teamwork and collaboration
+- Resources Required
+- A list of what is needed to make this happen.
+- Not just a wiki. A knowledge base that orients.
+- Compare and contrast competing futures and conflicting forecasts
+- eg. OIl forecasts by IEA, ASPO, EIA, Greenpeace etc
+- See the spectrum and landscape of energy futures
+- A panorama of the energy landscape
+- Guidelines to potential contributors for contribution
+- Knowledge taxonomy
+- Item/instance types
+- About
+- this is too long. need proper shorter namespace name
+- background
+- project specifications, descriptions, outlines
+- Data
+- Statistics
+-
+- Resource stocks
+- Usage
+- Economics
+-
+- Driver-Issue
+- Climate change. Peak Oil. Energy security etc
+- Energy source
+- Future Instance
+- Where does this belong?
+- Is it the final step in the ‘future type’ hierarchical chain?
+-
+- Future Type
+- Scenario v Pathway v Image/Vision v Plane etc
+- CLA layers:
+- Myth
+- Worldview
+- System
+- Litany
+- Knowledge Map
+- Debate/Argument Map
+- Scenario
+- Normative
+- Forecast?
+- Model
+- Forecast
+- Prediction
+- Plan. Proposal
+- Information Source
+- Journal
+- Book
+- Blog
+- Social Media
+- Report
+- Meta
+- Organisations
+- People
+- People that primarily operate as individuals, and/or set-up and inspire organisations
+- Sector
+- Theoretical Frameworks and Knowledge Models
+- eg. Critical Futures
+-
+- Or could be scientific frameworks, for example, around the concept of energy.
+- eg. Energy is quantised
+-
+- Could be important with regards to new/free energy, or energy economics, energy psychology, prout …
+-
+- NOT forecasting models
+- Time / timeline
+- Event
+- Period
+- Tools and Methods
+- not energy or engineering tools
+- tools in a more abstract connotation
+- Futuring Method
+- Energy futuring technique
+- Shallow
+- Deep
+- Research method
+- eg. Literature review
+- Mapping method
+- not mapping the future but visualisation and
+-
+- is wicked problems in here?
+- Other Analysis methods
+- wicked problems approach?
+-
+-
+- There must be a dominant, overarching, top-prioritized location structure
+- My idea is that there exist multiple frameworks and taxonomies through which data could be categorized. This is good, philosophically and academically, but potentially presents problems from a URL point of view. What is topic/sub-topic/sub-sub-topic/… structure? You can’t have multiple - there can be only 1 unique URL.
+-
+- Articles may be accessed via other menu structures but they must have the URL address of the top-schema
+- Webwiki v2.0 specifications
+- Posts should be able to draw data from external sources, visualize it and reference it.
+- There may not be any need for extra comment. Just showing the graph is useful.
+- Easy form to enter "energy futures instances".
+- This form should have a set of adjustable fields which can be modified, updated, added to as different taxonomies and frameworks become apparent.
+- Remember, each energy future instant can occupy different places/spaces under different models. Each organization could be positioned a differently according to different criteria schema etc.
+- Does this require the use of graph database tech? Ontology software?
+- This field adjustment has to happen in the back-end, i think.
+- Blogroll/RSS feeds of interesting sites
+- Note, these aren’t necessarily the “regulars” eg. Greenpeace, Shell etc.
+-
+- This will be a roll of critical analysts on “higher” ie overviewing, overarching energy issues
+- Global Effort twitter feed visible
+- Grow to establish a community
+- Scalable database
+- Grow to have pay-for-access parts
+- Readability
+- Columns can’t be too wide
+- Folded reading
+- Folded writing/reading
+- Not only folded/drop-down reading, going to multiple (unspecified) levels BUT…
+-
+- Folded writing, also.
+- That is, in the back-end, being able to write in this mode. ie. Write
+- Title
+- Headings 1 (primary points)
+- Headings 2 (primary point expansion = second level detail)
+- Headings 3 (secondary point expansion)
+-
+- … and so on.
+-
+- * Could write in Scrivener, using its outlining features, export OPML, and just require coding to embed into back-end text editor.
+- Like a wiki, but much prettier than a wiki
+- Blog templates
+- 1 template would include box to hold graphs drawn from other sites (eg. Tableau)
+-
+- Another template might be a book/article review.
+-
+- Templates to be modifiable to include taxonomic fields, as the need emerges.
+- Appeals for funding. Patreon etc.
+- Exemplars
+- World Resource Institute
+- Not like Azimuth Project, PESWiki etc !!!
+- Energypedia
+- Software platform possibilities
+- Incorporate Heurist Scholar into Global Effort site?
+- or some other kind of database engine?
+- Ragic
+- AirTable
+- OntoText
+- Zotonic
+- Other CMS eg. Drupal
+- Graph/NoSQL database
+- Structr
+- OntoDB
+- Graphene
+- OrientDB
+- Wiki
+- Semantic Mediawiki
+- Foswiki
+- Twiki
+- Xwiki
+- Dokuwiki
+- Ontology related
+- Protege
+- OntoDB
+- Fluent 15
+- Energy Futures workshops
+- Hypothetical questions around energy triggering discussions
+- What if every country were energy independent?
+- What if every household were energy independent?
+- HypoQ's range from standard-range probabilities about price, catastrophes etc...to open, radical Q's eg. what if energy were free?
+- What if energy transmission were wireless
+- What if energy generation were largely decentralized?
+- Collaborative, participatory
+- Debate mapping. Knowledge cartography. Argument Visualization
+- I want my argument mapping tool. How to map pro's-cons of an argument with evidence and references
+- I can use TBX with its link capability to create argument map
+- Need an ontology/taxonomy of arguments
+- Create attribute and prototype system in TBX with argument attributes
+- Collaborators (potential) & Competitors
+- Social media development & targeting
+- Content collaborators
+- Funding collaborators (possible)
+- Government
+- Philanthropists
+- Skoll
+- Case
+- Gates
+- Ford Foundation
+- Corporate / Commercial
+- Crowdsourcing / Public
+- Shuttleworth
+- Kickstarter
+- IndieGogo
+- untitled
+- Process & Procedure
+- OKFN Open Knowledge Foundation
+- CKAN
+- School of Data
+- MediaLab Sciences Po data visualisation, Tommaso Venturini
+- Macospol; mappingcontroversies.net
+- Mentors
+- Similar & Competitor Projects
+- Azimuth project
+- PESwiki
+- Inayatullah - Six pillars
+- Six pillars: futures thinking for transforming
+- Foundational Futures Concepts
+- Foundational Futures Concepts
+- Used future
+- Disowned future
+- Alternative futures
+- Alignment
+- Models of social change
+- Uses of the future
+- Training
+- Strategy
+- Capacity building
+- Emergence
+- New memes
+- Microvita change
+- Enlightenment, salvation
+- Used future
+- Disowned future
+- Alternative futures
+- Alignment
+- Models of social change
+- Uses of the future
+- Training
+- Strategy
+- Capacity building
+- Emergence
+- New memes
+- Microvita change
+- Enlightenment, salvation
+- Six questions
+- Six questions
+- 1. What do you think the future will be like?
+- 1. What do you think the future will be like? What is your prediction? More and more progress and wealth? Wealth for the few? A dramatic technological revolution? Environmental catastrophe? Why?
+- 2. Which future are you afraid of?
+- 2. Which future are you afraid of? Random acts of violence? Do you think you can transform this future to a desired future? Why or why not?
+- 3. What are the hidden assumptions of your predicted future?
+- 3. What are the hidden assumptions of your predicted future? Are there some taken-for-granted assumptions (about gender, or nature or technology or culture or…?)
+- 4. What are some alternatives to your predicted or feared future?
+- 4. What are some alternatives to your predicted or feared future? If you change some of your assumptions, what alternatives emerge?
+- 5. What is your preferred future?
+- 5. What is your preferred future? Which future do you wish to become reality for yourself or your organization?
+- 6. How might you get there?
+- 6. How might you get there? What steps can you take to move in toward your preferred future?  Summarized: Will, fear, hidden assumptions, alternative futures, preferred future, next steps.
+- Six Pillars
+- Six Pillars 1.
+- Mapping
+- Past, present and future are mapped. (Map in cultural space too)
+- “Shared history” workshop tool
+- Futures triangle – images, pushes, pulls/weights
+- i. Images
+- 1. Evolution and progress
+- 2. Collapse
+- 3. Gaia
+- 4. Globalism
+- 5. Back to the future
+- 6. Nirvana/Heaven
+- ii. Pushes. Quantitative drivers and trends.
+- iii. Pulls/weights. Barriers to change.
+- Futures landscape
+- i. Jungle - survival
+- ii. Chess set - strategy
+- iii. Mountain tops – big picture
+- iv. Stars – the vision
+- Anticipation
+- Emerging Issues Analysis
+- i. Identify social innovation and investment opportunities
+- ii. Avoid problematic issues and expense
+- Futures Wheel – consequences of today’s issue on tomorrow
+- Timing the future
+- Timing the future
+- Grand patterns of history
+- i. Linear, in stages, with progress ahead. Hard work.
+- ii. Cyclical, ups & downs
+- iii. Spiral, linear + cyclical
+- iv. Hinge periods
+- v. Creative minority innovating
+-
+- Identify models of social change
+- i. Creative minority
+- ii. Fatalistic. Deep change is impossible (can’t fight city hall)
+- iii. Inner reflection & spiritual practice. Changing externals is impossible or worthless.
+- iv. Institutional change – laws and social structures
+- v. Technology leads to change
+- Deepening the future
+- Deepening the future
+- CLA
+- 4-quadrant
+- Creating alternatives
+- Creating alternatives
+- Nuts and bolts. Structural functional analysis of organization.
+- Scenarios
+- i. Single variable; (& therefore multi-single variable)
+- ii. Double variable; use the two major uncertainties
+- iii. Archetypes
+- 1. Continued growth
+- 2. Collapse
+- 3. Steady state
+- 4. Transformation
+- iv. Organizational
+- 1. Best case
+- 2. Worst case
+- 3. Outlier
+- 4. Business-as-usual
+- v. Integrated
+- 1. Preferred scenario
+- 2. Disowned – the world we reject or can’t deal with
+- 3. Integrated – owned & disowned united
+- 4. Outlier – beyond the above categories
+- Transforming the future
+- Transforming the future.
+- Narrow toward the preferred future, derived from:
+- i. Scenarios
+- ii. Questioning
+- iii. Creative visualization
+- iv. Triangulate these three
+- v. Backcasting
+- Transcend method
+- Transcend method
+- (Galtung)
+- (see www.transcend.org)
+- Templates
+- Scrivener
+- <?xml version="1.0" encoding="UTF-8"?>
+- <!--
+  - 
+  - This template exports a note and each of its descendants to an OPML file,
+  - which can be read by Scrivener, OmniOutliner, and many other programs.
+  - 
+  - The exported file should use the extension ".opml". You can set the extension
+  - in HTMLView inside Tinderbox, or rename the file in Finder.
+  - 
+  - -->
+-
+-
+- <opml version="1.0">
+- <head>
+  - <title>Scrivener</title>
+  - <expansionState>0</expansionState>
+  - </head>
+- <body>
+  - 
+  - </body>
+- </opml>
+-
+- Scrivener item
+- ^indent("\t",1)^</outline>
+-
+-
+- OPML
+- <?xml version="1.0" encoding="UTF-8"?>
+- <!--
+  - 
+  - This template exports a note and each of its descendants to an OPML file.
+  - 
+  - The exported file should use the extension ".opml". You can set the extension
+  - in HTMLView inside Tinderbox, or rename the file in Finder.
+  - 
+  - -->
+-
+-
+-
+- <opml version="1.0">
+- <head>
+  - <title>OPML</title>
+  - <expansionState>0</expansionState>
+  - </head>
+- <body>
+  - </body>
+- </opml>
+-
+- OPML item
+- ^indent("\t",1)^</outline>
+-
+-
+- HTML page
+- <!DOCTYPE html>
+- <html>
+  - <head>
+  - 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+  - 	<title>HTML page</title>
+  - </head>
+  - <body>
+  - <!--   ** Standard Tinderbox Template [section page] **  -->
+  - 
+  - <h1>HTML page</h1>
+  - <!DOCTYPE html>
+  - <html>
+  - <head>
+  - 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+  - 	<title>^title^</title>
+  - </head>
+  - <body>
+  - <!--   ** Standard Tinderbox Template [section page] **  -->
+  - 
+  - <h1>^title^</h1>
+  - ^text^
+  - ^children(/Templates/HTML page/HTML item)
+  - </body>
+  - </html>
+  - 
+  - </body>
+  - </html>
+-
+- HTML item
+- <h2>HTML item</h2>
+- <h2>^title^</h2>
+- ^text
+- ^children(/Templates/HTML page/HTML item)
+-
+-
+- HTML Template
+- <!--  Tinderbox: HTML Template -->
+-
+-
+- Prototypes
+- pPage
+- pPost
+- pResearchNotes
+- pDataSource
+- pReference
+- pActorsAgents
+- Simplenote
+- Unit spaces dimensions
+- Unit spaces dimensions
+-
+- Fridge
+- 1800h x 730w x 605 d
+-
+- Washing machine
+- 635w x 610 deep (accounting for hose gap) x 875 h (adjacent sink height)
+-
+- Dryer
+- 600w x 700h x 400d
+- (Device itself. Does not include spacing due to support frame)
+-
+- Space between windows for bookshelves 2700 long
+- Bottom of window 1075h
+-
+- Sofa corner 2400 long
+- Max possible sofa (ottoman) depth 1800
+-
+- Length between pillars for TV cabinet 1520 mm
+-
+- Existing dining table
+- 1500l c 890w x 740 high
+-
+- Printer corner 1020 wide
+-
+- Existing coffee table
+- 1020l x 650w x 500 high
+- (Sofa seats at 480 high)
+-
+- Existing Tv cabinet
+- 1250 w x 450 d x 950 h
+-
+- TV
+- 50 inch
+-
+- Ale bookcase
+- 1320 w x 1320 h (  50 h legs) x 400 d
+-
+- Bedroom chest of drawers
+- 1380 w x 750 h x 500 d
+-
+- Length between bedroom door open and far wall (chest of drawers and mirror corner) 2450
+-
+- Bedsides max width 700
+-
+- Wardrobe drawers and shelves
+- Max height 1655 x 500 wide x 440 d
+-
+- Main bedroom big window
+- 3150 w x 900 h x 120 d
+- Height from floor 1125
+-
+- Main bedroom small window
+- 1200 w x 900 h x 120 d
+-
+- 2nd bedroom main window
+- 2110 w x 900 h x 65 d
+- Height from floor 1125
+-
+- Malena cube corner length from window 420
+-
+- Bathroom: open door to wall
+- Max limit 1700
+-
+- Existing bath width 780
+- Max width from doorframe to wall over light switch 930
+-
+- Distance from toilet wall to shower head wall 2500
+- Distance from toilet seat to current end of bath 350
+- Horiz max depth of toilet 660
+-
+- Existing vanity
+- 1035 x 515 d x 760 h
+-
+- Mirror
+- 1035 w x 920 h
+-
+- Mirror to window 250
+- Bathroom window to floor 1390
+-
+- Bathroom overall
+- 2500d x 1800w x 2350 h
+-
+- Malena's bed
+- 1120w x 2000 l x 650 h
+-
+- Adam's bed
+- 2000 l x 1500w x 600 h
+-
+-
+-
+- Brutto
+- Brutto
+-
+- Lamatia
+- The confusion of ETs, UFOs, Atlantis, Illuminati et al with spirituality.
+- The confusion of ETs, UFOs, Atlantis, Illuminati et al with spirituality.
+-
+- Deserves commentary
+-
+- Too many people confuse higher spirituality with conspiracy theory aspects.
+-
+- includes “high” reincarnation
+-
+- Lens, light and time
+- Lens, light and time
+-
+- Optical media slow down the speed of light. They refract it, like a lens.
+-
+- Perhaps there is a \"lens\" that \"bends\" light, altering its speed, and therefore space-time
+-
+- Relate relativity, space-time, speed of light, time travel
+-
+- We are in or looking through a lens which changes how we perceive the universe.
+- Groceries
+- Groceries
+- Bread Adam
+- Bread ale
+- Cheese
+- Coffee
+- Brazil almond spread
+- OCC login
+- OCC login
+-
+- School: 2152
+- Username: DUUS
+- Password: 16204
+- Yuval Noah Harari
+- Yuval Noah Harari
+-
+- Capitalism et al as religion
+- Bathroom $8200
+- Bathroom $8200
+- Double shower
+- Vanity
+- Glass
+- Mirror
+-
+- Buy own accessories
+-
+- Matty wifi password
+- Matty wifi password
+-
+- etgmf4t8cnwc
+- Project for A New American Century
+- Project for A New American Century
+- DK BOOK SERIES
+- DK BOOK SERIES
+-
+- literature
+- Crime
+- Movies
+- Shakespeare
+-
+- Publisher: Dorling Kindersley
+- XYZ books, Brisbane
+-
+- Open Boys numbers
+- Open Boys numbers
+-
+- 4 Blake Williams
+- 5 bayden Goff
+- 6 Jai Larkins
+- 7 Nathan cross
+- 8 Nicholas Crawley
+- 9 Dane glover
+- 10 Chris hooper
+- 11 nelson Rames
+- 12 Alex kleine
+- 14 tom Cordwell
+- 15 Riley Cordwell
+-
+-
+- 17/261 weyba rd NGR
+- 17/261 weyba rd NGR
+-
+- 07 5455 6862
+- Models of Reality
+- Models of Reality
+-
+- Our models of reality reflect our own technologies and systems, themselves a representation of the mind conceiving them. These are all conceptions of the separated ego mind.
+-
+- First, man makes or sees an image or object. Then man, being pleased with his invention, makes an idol of worship out of this image. Then man says reality is like this invented image.
+-
+- There has been an evolution of these images and objects. Animals. Agriculture. Mechanics. Computation. Holographics.
+-
+- Key in this process is the collective nature of it, and the forgetting of certain steps.
+-
+- When we create advanced technologies, is that just a remembering of more of the whole mind? After all, The new tech system is capable of more than the previous system.
+- Clippers code
+- Clippers code
+-
+- 5452 off
+- Happy money - the science of happier spending
+- Happy money - the science of happier spending
+-
+- Bryony home needs
+- Bryony home needs
+-
+- Indoor plant
+- Picture for wall
+- Floor cleaner ??
+- Recycling bin
+- Shoe rack
+- Laundry basket
+- Outside thongs
+- Antarctica civilisation
+- Antarctica civilisation
+- Reptilian Los Angeles
+- Long head beings
+- Justin Bieber reptilian Perth
+-
+- Enough For All - photos & videos
+- Enough For All - photos & videos
+-
+- Need to make data, charts and infographics more impactful, meaningful and resonant.
+-
+- Photos, videos, personal testimonies
+-
+-
+- Netbank ID
+- Netbank ID
+-
+- 29308545
+-
+- School password
+- Shopping
+- Shopping
+-
+- Coffee
+- Sugar
+- Marmalade
+- Batteries - Array Attire
+- Bread - ale
+- Sauerkraut
+- Tea bags work
+- Butter
+- Butter work
+- Tissues
+- Coffee
+- 2 Broccolis
+- Jansberg Cheese
+- Potatoes
+- Stock cubes Massel veggies
+-
+-
+- Mince meat
+- Ham
+- Floss
+- Lettuce
+-
+-
+- Gardens of The Night
+- Gardens of The Night
+-
+- Karaoke
+- Karaoke
+-
+- I gotta feeling - BEP
+- Uptown Funk
+- Get lucky - daft punk
+- Rihanna -
+- Drake -
+- Ed Sheeran - Shape of you
+- Taylor Swift - Shake it off
+- Ariana Grande -
+- Bruno Mars -
+- Justin Bieber -
+- Calvin Harris - heatwave
+- Sean Paul - Rockabye
+- Pharrell Williams - happy, Feelz
+- Katy Perry - Fireworks
+- Little Mix
+- Lady Gaga - on
+- Eminem
+- Bon Jovi
+- Justin Timberlake
+- TIK Tok - Kesha
+- Megan trainor
+- Beyoncé -
+- Dirty Dancing - I’ve had the time of my life
+- Nelly
+- Usher
+- Adele
+- One Direction
+- Bang Bang
+- Nicki Minaj
+- Fifth Harmony
+- Star boy - the weekend ft daft punk
+- Sia
+- Black eyed peas
+- What do I stand for? - Fun
+- Call Me Maybe - CRJ
+-
+-
+-
+- Miku fujimoto
+- Miku fujimoto
+-
+- cocofew0411@yahoo.co.jp
+-
+-
+- Fake fighting behind
+- Fake fighting behind
+-
+- Jetts Aubrey
+- Jack fewings
+- Aiden Taylor
+-
+-
+- Fasting Factors
+- Fasting Factors
+-
+- Sperm viability and motility
+- Chemicals:
+- Atrazine
+- BPA
+-
+- Scar Tissue
+-
+- Heavy metals
+-
+- Re-feeding syndrome
+- Electrolyte imbalances and spiking
+-
+- Skin discolourations
+-
+- Mental haziness, fuzziness
+- Candida related?
+-
+- Hair analysis
+-
+-
+- Dymock's books
+- Dymock's books
+-
+- The happiness industry
+- The extreme centre
+- Zero zero zero
+- Half the sky (Enough For All)
+- Truth Wars
+- Move up
+-
+- Language games
+- Language games
+-
+- Pictionary
+- Taboo
+- Charades
+- Balderdash
+- Hangman
+- Sequential story
+-
+- Oil references
+- Oil references
+-
+- Peak oil debunked
+- Seizing Arab oil
+- Peak oil news info
+-
+- Salary breakdown 2017
+- Salary breakdown 2017
+-
+- Mortgage 275
+- Bills 275
+- Groceries 200
+-
+- Frank 40
+- Voda 40
+- Jetts 30
+- Allianz 25
+- Name cheap 15
+-
+- Fuel 75
+-
+- Car service 50
+- Sundry 30
+-
+- Health ( massage, chiro) 50
+-
+- Xanaduus 750
+-
+- NAB debt 200
+-
+- TOTAL $2050
+-
+- Totals to Accounts
+- Loan 275
+- Joint 475
+- Car 50
+- ANZ Credit card 150
+- NAB Credit card 150
+- Xanaduus 1000
+-
+-
+-
+- Dataclysm.org
+- Dataclysm.org
+-
+-
+- Malena wand type
+- Malena wand type
+-
+- Maple wood with a unicorn hair core, 11.5 inches, slightly yielding flexibility
+-
+- Gryffendor robe
+-
+- My maths online
+- My maths online
+-
+- Mountain
+- Creeker17
+-
+- Boostmountain
+- Creek605
+-
+-
+-
+-
+- Tristan hauber
+- Tristan hauber
+- 5 creek side drive
+- Sippy downs
+-
+- 2 storey
+-
+- Nikki Staveley
+- Nikki Staveley
+- 0448 123 612
+-
+- Japan CBA travel card
+- Japan CBA travel card
+-
+- May need 6 digit pin in some places. Put 00 in front of 4 digit pin
+- MYWOF
+- MYWOF
+-
+- with Only
+- Hope
+- Fidelity
+- Responsibility
+- Gratitude
+- Fun
+-
+- with One
+- Goal
+- Focus
+- Function
+-
+- Out
+- Forlornness
+- Fences
+- Victimhood
+- Fret
+- Reinforcement
+- Making it real
+- Forgetting
+- Future
+-
+-
+-
+- Facade
+- Falter
+- Fall
+- Fault
+- Feign
+- Fortune
+- Finitism
+- Floccinaucinihilipilification
+-
+- Mission: Year without fission
+-
+- Formalism
+- Formulism
+- Fragmentation
+- Fracture
+- Free
+- Freedom
+- Fresh
+- Freshness
+-
+- Overcoming Frontiers
+-
+- On
+-
+- Of
+-
+- Off
+-
+- Obey
+-
+- Open
+-
+- Over…
+-
+- Other
+-
+- Wiser
+-
+- Which
+-
+- Where
+-
+- While
+-
+- When
+-
+- Waiting on
+-
+- Would obey/
+-
+- Working on
+-
+- Within
+-
+- Wholly on/of
+-
+- Waving off failure
+-
+- Wanting
+-
+- Waltzing
+-
+- Warring
+-
+- worry
+- worrying
+-
+-
+-
+- Waste
+- Wasting
+-
+- Waking
+-
+- Weakening
+-
+- Watching over
+-
+- Wiping off failure/
+-
+- write
+- writing
+- writing off
+-
+-
+- Geomagworld.com
+- Geomagworld.com
+-
+-
+- Movies
+- Movies
+-
+- Enemy
+- Night crawler
+-
+- Tarkett bamboo floor
+- Tarkett bamboo floor
+-
+- TAK0002
+- Autumn
+- Code 4001002
+-
+- Phone Unit 17
+- Phone Unit 17
+-
+- 5430 5117
+- cPanel password
+- cPanel password
+-
+- ?(fKkO%xctTi
+-
+-
+- Student risk asssess
+- Student risk asssess
+-
+- mountaincreek
+- Student123
+-
+- We live in the shadows
+- We live in the shadows
+- Kiwi mockumentary
+-
+- Downstairs tiling $5500
+- Downstairs tiling $5500
+-
+-
+- Dreamworld
+- Dreamworld
+-
+- Bus leaves 7:30 am
+- Arrive 10 am
+- Lunch time meeting 12:30 pm
+- Pre-departure meeting 2:45 pm
+- Bus leaves Dreamworld 3 pm
+- Arrive school 5:30 pm
+-
+- Chris dad
+- Chris dad
+-
+- 3rd battalion grenadier guards
+-
+- Malena MacBook
+- Malena MacBook
+-
+- Aracelly birth
+-
+-
+- MCSHS Security entry
+- MCSHS Security entry
+-
+- 1. Enter code 5726
+- 2. \\\"Ok\\\"
+- 3. Scroll through buildings on screen. The display will show alarm status.
+- 4. Push \\\"on\\\" or \\\"of\\\" key as required.
+- 5. Repeat steps 3 and 4 for other buildings.
+- 6. Press \\\"end\\\" to return system to standby mode. Am
+-
+- Salary Breakdown 30/1/18
+- Salary Breakdown 30/1/18
+-
+- Mortgage.  650
+- Xanaduus  1000
+- Rent.
+	-
+	- 100
+- ANZ CC.
+	- 350
+- (Bills 150)
+- (Groceries 150)
+- (Fuel  100)
+- (Car 400)
+-
+-
+-
+-
+-
+- Irreg Sig
+	- 200
+-
+- Metamech 0
+-
+- Cash\\	\\	50
+-
+-
+- Travel and Tax 300
+-
+- Metamech
+-
+- Unicycle
+	-
+	-
+	- 200
+- Skipping rope
+	- 100
+- Hypertext		50
+- Metamech		500
+- Namecheap		150
+-
+- Supplements
+- Geometry of knowledge
+- Geometry of knowledge
+-
+-
+- Bathroom points Juug
+- Bathroom points Juug
+-
+- White wall tiles
+- Rectified
+- Grout same colour as tiles
+- 2 mm joint
+-
+- Power points inside cabinet and drawer
+-
+- Floor tiles have the same tones as bamboo floor
+- Even Peter Bartlett floor okay
+-
+- Seal the grout
+-
+- No features/feature tiles
+-
+- Tiles to the ceiling
+-
+- Tv mount
+- Tv mount
+-
+- 24 cm x 7 cm wide
+-
+- $60 - $80
+- Monster brand
+- Storage lock
+- Storage lock
+-
+- 150 mm long, inner space
+- Width: greater than 30 mm, less than 50 mm
+- Thickness: less than 12 mm
+-
+- Collaborators
+- Collaborators
+-
+- Gabriel Hauber
+- Quentin Wong
+- Michael Squirrel
+- Jeremy Drinnan
+- Mihailjo Numanvic
+-
+- Observer dependence
+- Observer dependence
+-
+- Of relativity
+- Of quantum
+-
+-
+- Malena ballet finish times
+- Malena ballet finish times
+-
+- Monday 8:30 pm
+- Tuesday 6:30 pm
+- Wednesday 7:30 pm
+- Thursday 6 pm
+- Friday 4 pm
+- Salary Breakdown 2018
+- Salary Breakdown 2018
+- (Beginning 1st pay in Feb )
+-
+- POSSIBLE BREAKDOWN 1
+-
+- Non-negotiable - Summary
+- Mortgage
+	- 650
+- ANZ CC.
+	-
+	- 500
+- Irregular bills 200
+- Invest.
+	-
+	-
+	- 500
+-
+- Rent\\	\\	   100
+- Other\\	\\	  350
+-
+- ANZ CC breakdown
+- Bills
+	-
+	-
+	- 150 (anz cc)
+- School food  50 (anz cc)
+- Groceries
+	- 200 (anz cc)
+- Fuel
+	-
+	-
+	- 100 (anz cc)
+-
+- Irregular bills breakdown
+- Car service &amp;amp;amp; rego, Massage/chiro, Supplements, Dentist, Namecheap, Bike stuff
+-
+- “Other” breakdown
+- Courses &amp;amp;amp; Workshops\\	50
+- Play &amp;amp;amp; t50
+- Travel and Tax\\	\\	\\	100
+- Metamechanic\\	\\	\\	150
+-
+- Invest breakdown
+- Options Xpress
+- Saxo
+- Balance impact
+- Perth Mint
+- Metamechanic
+- Property
+-
+-
+- POSSIBLE BREAKDOWN
+-
+- Mortgage\\	\\	650
+- Xanaduus\\	\\	1000
+- ANZ\\	\\	\\	350
+- Rent\\	\\	\\	100
+- Irreg Signif\\	\\	200
+-
+- El Ganso
+- El Ganso
+-
+- Milán men's fashion store
+-
+- Musculoskeletal issues
+- Musculoskeletal issues
+-
+- Calves - lower belly
+- - outer side
+- - Achilles tendinitis (left worse)
+- Groin/hip - right
+- Knee, left - hyper extension weakness
+- Shoulder, bicep head & outer deltoid, left
+- Neck & occipital
+-
+-
+- Fritjof Nansen
+- Fritjof Nansen
+-
+- Norwegian explorer who repatriated 400,000 Russians
+-
+-
+- Puchero
+- Puchero
+-
+- South American dish
+- Life is still images with our mind flicking through them
+- Life is still images with our mind flicking through them
+-
+- \"Stills\" could be grouped into \"chapters\" ie. different dimensional scenarios
+-
+- Springbrook
+- Springbrook
+-
+- Lyrebird ridge rd
+- Best of All lookout
+- Goomoolahra picnic grounds
+- Canyon lookout
+- - Twin Falls lookout
+- Purling brook fallsfffffffffcffr
+- Frrf
+- Credit card statement dates
+- Credit card statement dates
+-
+- NAB: 28th, pay by 21st
+- Suncorp: 4th, pay by 30th
+- ANZ: 10th, pay by 25th
+- Philosophy of science
+- Philosophy of science
+-
+- Chalmers
+- What is this thing called science
+- Science and its construction
+-
+- Sociology of science
+-
+-
+- Felice netbank comm bank Japan  pin
+- Felice netbank comm bank Japan  pin
+-
+- 0803
+- Budii lite network password
+- Budii lite network password
+-
+- 2602ffdc
+-
+-
+- Key
+- Key
+-
+- uxa3mjm2v4jy
+- Historical origins of Jesus
+- Historical origins of Jesus
+-
+- Similarities to other religions
+-
+- Doesn't disprove Jesus, just the story.
+-
+- Parallel to scientists who arrive at the same understandings or discoveries independently but simultaneously.
+-
+-
+- Authors & Books
+- Authors & Books
+-
+- Thomas piketty
+- Angus Deaton
+- Michael S Gazzaniga
+- Adrian Bejan - constructal theory
+- 1001 ideas that changed the way we think - Robert arp
+- Altruism - Matthieu Ricard
+- Scale- Geoffrey West
+- Geometry Wars
+- Geometry Wars
+-
+- NGR patio
+- NGR patio
+-
+- 2.4 m deep
+-
+- 2 m from side garden to open door limit
+- 0.8 m door width
+- 1.1 m other side of open door to other garden bed
+-
+-
+-
+- Zane address
+- Zane address
+-
+- 18 ku-ring-gai court
+- Kuluin
+- 59 seconds - Richard Wiseman
+- 59 seconds - Richard Wiseman
+-
+- Self- help in a minute
+-
+-
+- Green juice ingredients
+- Green juice ingredients
+-
+- Granny Smith apples
+- Cucumber
+- Kale, chard, spinach
+- Celery
+- Mint
+- Lemon/lime
+- Parsley
+- Ginger
+- Fennel
+- Beetroot
+- Carrot
+-
+- Babi Guling birthday
+- Babi Guling birthday
+-
+- Babi Guling Payangan Bu Ari
+- Jalan Raya Andong
+-
+- left (north) at Arjuna
+- 500 metres, right hand side
+-
+-
+- Mayonesa lyrics
+- Mayonesa lyrics
+-
+- Y haciendo palmas y arriba y arriba
+- Es el coro que arranca que dice que dice
+- Bate que bate eeee el chocolate eeee
+- Bate que bate
+- Bate que bate que bate el chocolate
+-
+- Un tatuaje en la espalda
+- Negra la minifalda
+- Zapatos y el top
+- Misteriosa ella bailaba
+- Yo la estaba mirando desde que llego
+-
+- De repente su mirada en mis ojos se clavo
+- Sosteniendo la mirada se acerco y sin decir nada
+- Me agarro fuerte la cara y a la pista me arrastro
+-
+- [Estribillo]
+-
+- Ma-yo-ne-sa
+- ella me bate como haciendo mayonesa
+- Todo lo que había tomado se me subió pronto a la cabeza
+-
+-
+-
+- Ma-yo-ne-sa
+- ella me bate como haciendo mayonesa
+- No se ni como me llamo ni donde vivo (ni donde vivo)
+- ni me interesa
+-
+- Y haciendo palmas y arriba y arriba
+- Es el coro que arranca que dice que dice
+- Bate que bate eeee el chocolate eeee
+- Bate que bate
+- Bate que bate que bate el chocolate
+-
+- Un tatuaje en la espalda
+- Negra la minifalda
+- Zapatos y el top
+- Misteriosa ella bailaba
+- Yo la estaba mirando desde que llego
+-
+- De repente su mirada en mis ojos se clavo
+- Sosteniendo la mirada se acerco y sin decir nada
+- Me agarro fuerte la cara y a la pista me arrastro
+-
+- [Estribillo]
+-
+- Ma-yo-ne-sa
+- ella me bate como haciendo mayonesa
+- Todo lo que había tomado se me subió pronto a la cabeza
+-
+-
+-
+- Ma-yo-ne-sa
+- ella me bate como haciendo mayonesa
+- No se ni como me llamo ni donde vivo (ni donde vivo)
+- ni me interesa
+-
+- [Estribillo]
+-
+- Ma-yo-ne-sa
+- ella me bate como haciendo mayonesa
+- Todo lo que había tomado se me subió pronto a la cabeza
+-
+- Ma-yo-ne-sa
+- ella me bate como haciendo mayonesa
+- Me contaron mis amigos
+- que me encontraron bailando solo encanutado
+-
+- ¡ Qué papelón Carlitos!,
+- como se reía esa niña cuando vos,
+- repetía, repetía, repetía, que yo repetíá,
+- que repetía, ¿que?
+- Soy Mayonesa
+- Workout
+- Workout
+-
+- Plyinetric ppush ups
+- Super mans
+- Pull back push ups (bum out)
+- Super mans
+- Fore arm plank explosive push ups
+- Side twist push ups
+- Side twist planks
+- Side twist push ups
+- Side twist planks
+- Cobra push ups
+- Elbow push side offse
+-
+- Raintree wifi password
+- Raintree wifi password
+-
+- AoeqtcmvY7
+-
+- I t
+- Shopping
+- Shopping
+-
+- Bread
+- Olive oil
+- Milk
+- Chocolate (Aldi)
+- Cheese - Bega
+- Cheese - Haloumi
+-
+- Avocado
+- Berries, 2 punnets each
+- Dairy soft butter
+- Broccoli
+- Carrots
+- Workout 280118
+- Workout 280118
+-
+- Handstand presses
+- Dynamic squat lunges
+- Iron cross push ups
+- Low profile bridges
+- Plyo clap push ups
+- One foot jumps
+- Pike push ups
+- One foot jumps
+- Mountain climbers
+- Bridges - judo
+- Bridges - static
+- Bridges static
+- Diamond push ups
+- Dynamic squat lunges
+- Elbow push ups
+- NGR account
+- NGR account
+-
+- 014125
+- 461191292
+- Questions re Bathroom
+- Questions re Bathroom
+-
+- Treat shower floor for non-slip
+-
+- Do floor tiles come in a matte finish?
+-
+- Deposit $2500
+-
+- Wall tiles - white gloss over light cream
+- Salary Breakdown 13/2/18
+- Salary Breakdown 13/2/18
+-
+- Mortgage\\\	\\\	650
+- Xanaduus\\\	\\\	1000
+- ANZ\\\	\\\	\\\	600
+- Cash\\\	\\\	\\\	60
+- Bathroom grouts
+- Bathroom grouts
+-
+- Mapei
+-
+- Floor 137 ultra colour plus Caribbean
+- Or 130
+-
+- Wall: plain white 100
+- IiNet wifi default network &amp; password
+- IiNet wifi default network &amp; password
+-
+- iiNetC295ED
+-
+- ekMEHSrAqp
+- Record of transfers to NGR17 account
+- Record of transfers to NGR17 account
+-
+- 27 Feb 2018\	$1000
+- 7 Feb 2018\\	\\	$200
+- 21 Dec 2017\\	$300
+- 27 Nov 2017\\	$150
+-
+- David Wallace,
+- David Wallace,
+- a philosopher of science at the University of Southern California who specializes in interpretations of quantum mechanics
+- Charles hall
+- Charles hall
+-
+- International society biophysical economics
+-
+- Biophysical economics and resource quality
+-
+-
+- Graphene DB
+- Graphene DB
+-
+- username: adamduus
+-
+- password
+-
+- b.8QljC5nRXfpT.nbRPMsNpYMM7L8aJ
+-
+-
+- Richard Fiedler
+- Richard Fiedler
+- Long term financial analyst foresight
+-
+- Baba Yaga
+-
+- To translate to Arabic
+- To translate to Arabic
+-
+- Do you have Arabic coffee?
+-
+- I would like to buy credit for my phone please.
+-
+- Could I please have...
+-
+- Almond tea
+-
+- One ticket to ...
+-
+- Where is ...
+-
+-
+- SEO
+- SEO
+-
+- Macro patterns
+- Meta narrative
+-
+- Sonia
+- Sonia
+- Phone:
+- 0021655433833.
+-
+- Address
+- 17, rue de l’églantier
+- la Marsa
+- Sidi Abdelaziz
+-
+- GOLDOC ICT
+- GOLDOC ICT
+-
+- Outlook.office365.com
+- 07 56182200
+- TechnologyServuceDesk@goldoc.com
+- The Vault
+-
+- MyGChome
+-
+-
+-
+- Salary breakdown
+- Salary breakdown
+-
+- Mortgage
+	- 650
+- Savings.
+	- 1000.   (1650)
+- Fuel.
+	-
+	-
+	- 80
+- BJJ.
+- Frank Health.  45
+- Allianz.
+	-
+	-
+	- 30
+- Vodafone.
+	- 35
+- Namecheap.  10.   (1850)
+- Groceries.
+	- 180.   (2030)
+-
+- Entertainment 100
+- Health.
+	-
+	-
+	- 100. (2230)
+- Big expense save 100 (2330)
+-
+-
+-
+-
+- Arabic Argo
+- Arabic Argo
+-
+- Look up
+- Google
+- Buteyko breathing
+- Buteyko breathing
+-
+- Linda stone.net
+- Term 3 Expenses
+- Term 3 Expenses
+-
+- Car service.   350
+- Registration.  400
+- Bike service.   200
+- Trampoline.
+	- 300
+- BJJ.
+	-
+	-
+	-
+	- 300
+- Float
+	-
+	-
+	- 200
+-
+- Total (1750)
+- Turkish / Arabic coffee pot
+- Turkish / Arabic coffee pot
+-
+- Rakwa, rakwi
+- Zazuwa (Tunisian)
+-
+-
+- Unclutterer.com
+- Unclutterer.com
+-
+- SHC PRAC
+- SHC PRAC
+-
+- Metal 1 - Fe
+- Metal 2 - Cu
+- Metal 3 - Al
+- Rational irrationality
+- Rational irrationality
+-
+- For meta-mechanics
+-
+- We always use reason...
+- But it is based on poor foundations
+- Salary 3/7/18
+- Salary 3/7/18
+-
+- Mortgage  650
+- Savings
+	- 1000
+- Frank		80
+- Allianz		50
+- Vodafone	100
+-
+- Available: 450
+- (Car service: 300
+- Bike service: 150)
+-
+-
+-
+- To do Chorley
+- To do Chorley
+-
+- Walk Cuerden Valley Park
+-
+- Tax Return prep
+-
+- Book car service
+-
+- Set up iOS OS X reading workflow
+- DEVONthink
+- DEVONthink To Go
+- Bookends
+- Evernote
+-
+- Zoho Creator website
+- Collaborative data portal with forms
+-
+- Heurist database?
+-
+- Namecheap hosting: new plans?
+-
+-
+-
+-
+-
+- Ali Touzeur
+- Ali Touzeur
+-
+- Instagram
+- Tunisia reves
+-
+- Fb
+- Sahbi Ali sahbi
+-
+-
+- Hope Ahcheen
+- Hope Ahcheen
+-
+- Wish_of_Hope
+- Dr Jay Lombard
+- Dr Jay Lombard
+-
+- “Already here”
+-
+- neuroscientists and spirit
+- “The Mind if God”
+-
+- Stephan Rechtschaffen
+- Christiane Northrup
+- Deepak Chopra
+-
+- Dear.   Adam - note from Pippa
+- Dear.   Adam - note from Pippa
+-
+- I hope you have a good time at England and liked seeing your friends again .  I hope everyone has been kind to you. Iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii dddddddddddddddddddddooooooooooooooooonnnnnnnnnnnnnnnnnnnnn’ttttttttttttttttttttttttttttttttt won’t you to go.
+-
+- Love Pippa
+-
+- Xxx⚽️
+- Notes from Hamy
+- Notes from Hamy
+-
+- Medina restaurant for cous-cous
+- Al-Ali
+- Prize winner
+-
+- Weekly shows in Carthage
+- Festival
+- Every day in July, perhaps
+-
+- Bars in Gammarth
+- Yuka, Wax
+-
+- Carpe Diem in La Marsa ( nightclub)
+-
+- Tunisian cuisine in La Marsa
+- Cher Zina
+-
+- Turkish coffee
+- قهوة  عربي
+- Gourmandise, corniche
+- Criteria for spiritual teachers
+- Criteria for spiritual teachers
+-
+- Demonstrate by example
+- Don’t centre it around themselves
+- Recognise own flaws
+- Espouse equality of value ( not necessarily equality of knowledge or skill)
+-
+-
+- Pretty Little thing
+- Pretty Little thing
+-
+- Fashion brand
+- TOK
+- TOK
+-
+- A History of Knowledge
+- Charles van Doren
+-
+- The Philosophy Gym
+- Stephen Law
+- Akira Tosaki address
+- Akira Tosaki address
+-
+- 20-1 Shimada Higashi-machi
+- Gifu-shi
+- Gifu-ken  500-8315
+- Japan
+- MQGEF - schools of thought
+- MQGEF - schools of thought
+-
+- ZEREN - zero emissions renewables
+- ZEFF- fossil fuels
+- Transition Towns, energy descent
+- Wedges
+- Free Energy
+- New nuclear- integral fast, thorium
+- Kardashev-Dyson model
+- SHC alarm code
+- SHC alarm code
+-
+- 3674
+- MQGEF maps
+- MQGEF maps
+-
+- Concept map schools of thought to issues/ drivers, technologies and mechanisms/policy tools
+-
+- Links show the relationship between entities
+-
+- Matrix, colour coded
+-
+- Tool to investigate
+- Tool to investigate
+-
+- Web crawling and text processing
+-
+- weblyzard.com
+- Helba
+- Helba
+-
+- Drink in kairouan
+-
+- Home/Park Circuit
+- Home/Park Circuit
+-
+- Jumping burpees
+- Mountain climbers
+- Slams (with what? Sandbag?)
+- Heavy carries ( water containers?)
+- Ring set?
+- Fitness
+- Fitness
+-
+- Squash with Noel
+- Badminton at Cooroy
+- Stairs
+- Sprints Gyndier
+- Cycle Gyndier
+- Cycle Tinbeerwah
+- Bulgarian Bag (purchase?)
+- Chin ups circuit Tewantin state school
+- Circuit
+- Wood chopping? (Forest)
+- Swim bicentennial
+- Bands
+- Basketball
+-
+- Prince2 project management
+- Prince2 project management
+-
+-
+-
+- “Barriers to the plan [to power the world with renewables] are primarily social and political, not technological or economic” - Mark Jacobson and Mark Delucchi 2011.
+- Energy and double-loop learning
+- DLL - Argyris et al
+-
+-
+- Discourse Analysis
+- Discourse Analysis, 3rd Edition
+- Barbara Johnstone
+-
+- Journal database/Bookends searches to import refs
+- energy futures discourse
+- energy futures analysis
+- frameworks for energy (futures) analysis
+- mapping energy
+- energy paradigms
+- knowledge cartography
+- energy typology
+- futures typology
+- energy cartography
+- energy ontology
+- futures ontology
+- energy CLA
+- forecasting CLA
+- energy drivers
+- energy wicked problem/social mess
+- Journals
+- 'Energies' journal, MDPI publishers. Open-access.
+- Energy Research & Social Science
+- Energy Policy
+- Futures
+- Journal of Futures Studies
+- Technological Forecasting and Social Change
+- Science fiction as source of energy futures scenarios, typologies and technologies
+- Ursula Le Guin
+- Asimov
+- Heinlein
+- Robert Heinlein
+-
+- Arther C Clarke
+- "Multi-criteria assessment"
+- multiple criteria assessment
+- appears a lot in literature search returns
+-
+-
+- Fuzzy Cognitive Maps
+- Actor Network Theory
+- PDF document taxonomy in Finder/Bookends/DTPO/Mendeley
+- Energy Futures instances
+- Particular scenario, pathways, forecasts, models, predictions et al made by individuals and organisations
+- PRIMARY FOCUS of the document is on reporting and detailing the futures.
+- Naturally, how these futures are arrived will probably be discussed or mentioned, but its not at great length or detail.
+- Includes technology assessments
+-
+- Energy, General
+- General issues in and around Energy
+- Primers, overviews,
+- Some futures may be presented but energy futures instances are NOT PRIMARY FOCUS
+- eg.
+- Energy nexus futures & issues
+- Food and Water are big ones
+-
+- Energy Futuring methodologies
+- PRIMARY FOCUS is on methodology.
+- That is, most of the article is an explanation of a method, or a critique of a future using a method (an applied case)
+-
+- Futures theory & methods - general
+- Other theory frameworks & methods
+- Wicked Problems
+- Knowledge Cartography
+- Theses
+- energy, futures & energy futures
+- other potentially useful or relevant
+- energy geographies
+- http://www.energygeographies.org/resources
+- https://www.e-education.psu.edu/geog432/Lesson_7_Intro
+- World Energy Council latest docs
+- World Bank latest docs
+- BP latest docs
+- Universal Energy Relationship
+- On the need for a hierarchical energy relationship
+-
+- We need to relate labour, food, gross energy, oil etc to higher order forms of energy:
+- money
+- inner satisfaction and experience
+-
+-
+- Reindeer herders in Kamchatka; subsistence farmers
+- Don't want to become reindeer
+-
+- Everyone wants increasing EROEI
+- To do more with less
+- To get more by giving less
+-
+-
+- Beyond a certain value, increased consumption of a particular level's form of energy introduces negative energy return...
+- and perhaps negative energy return on another level
+- reflects negative/low energy values on higher levels eg. eating disorder, monetary greed
+-
+- Related academic institutions & events
+- Oz energy futures conference
+- Energy centres for doctoral training
+- Energy futures lab Dublin
+- Energy futures lab imperial college
+- The interdependent relationship between inspired creative technological development
+- On the interdependent relationship between
+- inspired, “unconditionally creative” technological development
+- “necessity driven” tech development
+- politically driven tech development
+- scientific theory driven tech development
+-
+- Relating to the chicken-egg idea of decide the (socio-economic) outcomes we want, then design the energy/tech systems to achieve this, OR… We have the energy/tech systems first, which determine the socio-economic systems we have.
+- Historical analysis of the energy systems of particular socio-economic systems & structures
+- Feudalism
+- Socialism, communism
+-
+- How does the energy supply and distribution enable, facilitate, reinforce, create the broader socio-economic system?
+- And vice-versa. How does the socio-economic ideology determine the energy system?
+-
+-

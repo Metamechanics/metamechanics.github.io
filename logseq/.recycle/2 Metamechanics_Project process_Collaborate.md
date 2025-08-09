@@ -1,0 +1,2 @@
+- When 1 + 1 > 2. No one is smart enough to have all the answers. No one is smart enough to be wrong all the time. (Ken Wilber)
+-

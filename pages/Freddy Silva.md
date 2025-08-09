@@ -1,0 +1,16 @@
+alias::
+URL:: https://invisibletemple.com/
+organisation::
+role:: [[independent researcher]], [[tour leader]] 
+fields:: [[pre-diluvian civilization]] [[ancient site]] [[sacred geometry]] [[crop circles]] [[megalith]] 
+publications:: 
+tags:: person, #FRESH
+project::
+public:: true
+-
+- [Invisible Temple: sacred sites, megaliths, earth mysteries and alternative history by Freddy Silva](https://invisibletemple.com/)
+-
+- [The Hidden Side of Egypt video series | Vimeo](https://invisibletemple.com/hidden-egypt.html) #toWatch
+- [The Lost Art of Resurrection | Book by Freddy Silva | Official Publisher Page | Simon & Schuster](https://www.simonandschuster.com/books/The-Lost-Art-of-Resurrection/Freddy-Silva/9781620556368)
+- [First Templar Nation: How the Knights Templar created Europe's first nation-state and a refuge for the Grail](https://invisibletemple.com/book-first-templar-nation-by-freddy-silva.html)
+-

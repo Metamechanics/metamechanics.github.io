@@ -1,0 +1,6 @@
+- #[[quantum physics]] #[[Tim Maudlin]]
+- page for collating weird, counterintuitive consequences and observations of quantum physics
+-
+- [The 'spooky' side of quantum physics | Tim Maudlin on astonishment and fear in #quantumphysics - YouTube](https://www.youtube.com/watch?v=H0iIuguAP9M)
+-
+-

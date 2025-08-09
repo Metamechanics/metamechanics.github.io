@@ -1,0 +1,24 @@
+alias:: For All Practical Purposes (FAPP), FAPP
+person:: [[David Mermin]] 
+source::
+tags:: quote
+topic-theme:: [[quantum mechanics]]
+project:: [[X-Science]], [[AMT]]
+
+- meaning:: essentially disregard the philosophical implications and quandaries suggested by quantum mechanics, and focus on using it for practical applications
+- as metaphor
+	- metaphor 1
+		- philosophy and 'quantum weirdness' is not practical
+		- turning away from hard realities
+			- no objective universe
+			- role of observer
+	- metaphor 2
+		- excessive philosophizing avoids some realities of life
+		- ideas must be applied to everyday life
+		- excessive philosophical debates are a defence mechanism and delaying maneuver
+-
+- This is a demonstration of Freud's philosophy applied to science
+	- "Don't look at the problem.
+	- "...it merely obliterates the question..." #quote #ACIM
+	- the uncertainty is confronting;
+	- the role, and therefore, the responsibility of the observer, the participant, is confronting

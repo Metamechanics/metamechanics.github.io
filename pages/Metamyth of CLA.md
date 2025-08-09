@@ -1,0 +1,4 @@
+- #toWrite #metaphor #myth
+- non-dualistic futures thinking [[Non-dual futures thinking]]
+- add a layer at bottom of the CLA - the metamyth; the grand-daddy myth
+-

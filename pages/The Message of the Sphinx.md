@@ -1,0 +1,7 @@
+alias:: Bauval
+author:: [[Robert Bauval]] 
+publication-year:: 1996
+tags:: book, reference
+project:: #[[Fresh Alternatives]] 
+public:: true
+-

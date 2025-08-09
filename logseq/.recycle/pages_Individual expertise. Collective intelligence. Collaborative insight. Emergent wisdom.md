@@ -1,0 +1,1 @@
+	Metamechanics recognizes the "I" and the "us" in genius. Projects aim to tap latent collective wisdom by leveraging collaborative insight and individual expertise. Bring your magic lamp to light up the world. Don't hesitate. 

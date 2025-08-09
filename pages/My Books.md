@@ -1,0 +1,21 @@
+alias:: myBooks, myBook
+tags:: #hyperbook #paperbook #eBook #myCreation 
+project::
+see-also::
+-
+- [[Another M-Theory]]
+- [[Babies, Bibles and Bathwater]]
+- [[Adam's Atlas]]
+- [[EFA hyperbook]]
+-
+- [[The pSilence of Science]]
+- [[A Textbook for the Futures]]
+- [[Blind (Spot) Faith]]
+- [[The Ultimate Conspiracy. The Ultimate Innovation]]
+-
+- [[Enough For All - The paper Book]]
+- [[Chasing our Tale]]
+- [[The Forgotten Technologies]]
+-
+- [[Holonaut]]
+- [[Modern Monk]]

@@ -1,0 +1,4 @@
+- #bigQ #AMT #Creationism
+-
+- [WATCH Jordan Peterson REVEAL The Reason Why God Created The World - YouTube](https://www.youtube.com/watch?v=8Z3JxZ40_fo) #Kabbalah #[[Jordan Peterson]]
+-

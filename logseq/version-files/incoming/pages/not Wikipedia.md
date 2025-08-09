@@ -1,0 +1,17 @@
+- #toWrite #MyArticle #[[The Metamechanic]]
+- explain how my projects are different to
+	- Wikipedia
+	- others?
+- Philosophically
+- Procedurally
+- Technically
+- Cognitively
+-
+- not #flatland
+	- X-dimensional philosophical frameworks
+- critically accept the fringe, alternative, unorthodox etc
+	- "pseudo-science"
+- insert into and situate in compelling story & grand narrative
+- visual argumentation
+- not all contributors are equal
+-

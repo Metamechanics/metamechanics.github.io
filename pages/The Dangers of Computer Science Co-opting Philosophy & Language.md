@@ -1,0 +1,10 @@
+- #toWrite #myCreation #MyArticle
+-
+- ontology & taxonomy
+- Meta, the company
+- programming "language"
+- parse?
+- Alphabet.xyz (parent/source company of Google)
+- bug
+- worm
+-

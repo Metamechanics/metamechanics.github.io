@@ -1,0 +1,8 @@
+alias::
+tags::
+place:: #[[Shaanxi province]] 
+country:: [[China]] 
+place-type:: #pyramids #[[ancient site]] 
+nearest-town::
+map-url::
+-

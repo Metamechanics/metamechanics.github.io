@@ -1,0 +1,5 @@
+- #cosmology #metaphysics #[[Philosophy of Science]] #Norway
+- [Metaphysical Experiments | Dr Bjørn Ekeberg](https://www.drbjorn.com/)
+- [Cosmology Has Some Big Problems - Scientific American Blog Network](https://blogs.scientificamerican.com/observations/cosmology-has-some-big-problems/)
+	- The field relies on a conceptual framework that has trouble accounting for new observations
+-

@@ -1,0 +1,3 @@
+- #[[Fresh Alternatives]] #medicine
+- [55-3-The-Questionable-Contribution-of-Medical-Measures-to-the-Decline-of-Mortality-in-the-United-States-in-the-Twentieth-Century.pdf](https://www.milbank.org/wp-content/uploads/mq/volume-55/issue-03/55-3-The-Questionable-Contribution-of-Medical-Measures-to-the-Decline-of-Mortality-in-the-United-States-in-the-Twentieth-Century.pdf)
+-

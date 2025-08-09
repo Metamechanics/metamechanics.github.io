@@ -1,0 +1,14 @@
+- #novel #fiction
+- Sliding Doors + Cloud Atlas + Matrix + Tenet + Groundhog Day + Inception
+	- but not Everything Everywhere All At Once !!
+- Locations
+	- Egypt 6000 BC
+	- Atlantis
+	- Jomon Japan
+	- Dogon, Mali
+	- Druids, Celtic Briton
+	- Pleaidian starship
+	- 1984
+	- Pleaideans. Atlantis.
+- move from "The Matrix" to "The Tensor"
+- similar to: [LOST SECRETS: A NOVEL - Kindle edition by Grisoni, Bernard. Literature & Fiction Kindle eBooks @ Amazon.com.](https://www.amazon.com/gp/aw/d/B07HDBD3RB)

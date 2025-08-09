@@ -1,0 +1,3 @@
+Technologies and philosophies already exist which would act as part of effective, practical solutions.
+They address one or more particular layers of reality. They fit together with other pieces addressing other layers, or they acknowledge and address all layers in themselves.
+They often exist as outside popular culture, on the edge of educated orthodoxy, in the waste bin of ancient wisdom, on the fringe of dominant discourse or the too-hard basket of denial and repression.

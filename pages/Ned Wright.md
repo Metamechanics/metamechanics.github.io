@@ -1,0 +1,11 @@
+alias::
+URL:: https://www.astro.ucla.edu/~wright/intro.html
+organisation::
+role::
+fields::
+publications:: 
+tags:: person
+project::
+public:: true
+- [Prof. Edward L. (Ned) Wright](https://www.astro.ucla.edu/~wright/intro.html)
+-

@@ -1,0 +1,5 @@
+- #myProject #myBook #myCreation
+- related-to: [[FACTs 4CT]], or is it the same?
+- Use of the acronym to explore wild and wacky things that get you thinking
+- See Obsidian doc
+-

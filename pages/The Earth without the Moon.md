@@ -1,0 +1,41 @@
+journal::
+authors:: [[Immanuel Velikovsky]] 
+year::
+URL:: http://www.varchive.org/itb/sansmoon.htm
+tags:: article, #[[The Moon]] #[[Immanuel Velikovsky]] 
+project::
+public:: true
+
+-
+- # The Earth Without the Moon
+- The period when the Earth was Moonless is probably the most remote recollection of mankind. Democritus and Anaxagoras taught that there was a time when the Earth was without the Moon.(1) Aristotle wrote that Arcadia in Greece, before being inhabited by the Hellenes, had a population of Pelasgians, and that these aborigines occupied the land already before there was a moon in the sky above the Earth; for this reason they were called Proselenes.(2)
+- Apollonius of Rhodes mentioned the time “when not all the orbs were yet in the heavens, before the Danai and Deukalion races came into existence, and only the Arcadians lived, of whom it is said that they dwelt on mountains and fed on acorns, before there was a moon.” (3)
+- Plutarch wrote in The Roman Questions: “There were Arcadians of Evander’s following, the so-called pre-Lunar people.”(4) Similarly wrote Ovid: “The Arcadians are said to have possessed their land before the birth of Jove, and the folk is older than the Moon.” (5) Hippolytus refers to a legend that “Arcadia brought forth Pelasgus, of greater antiquity than the moon.”(6) Lucian in his Astrology says that “the Arcadians affirm in their folly that they are older than the moon.”(7)
+- Censorinus also alludes to the time in the past when there was no moon in the sky.(8)
+- Some allusions to the time before there was a Moon may be found also in the Scriptures. In Job 25:5 the grandeur of the Lord who “Makes peace in the heights” is praised and the time is mentioned “before [there was] a moon and it did not shine.” Also in Psalm 72:5 it is said: “Thou wast feared since [the time of] the sun and before [the time of] the moon, a generation of generations.” A “generation of generations” means a very long time. Of course, it is of no use to counter this psalm with the myth of the first chapter of Genesis, a tale brought down from exotic and later sources.
+- The memory of a world without a moon lives in oral tradition among the Indians. The Indians of the Bogota highlands in the eastern Cordilleras of Colombia relate some of their tribal reminiscences to the time before there was a moon. “In the earliest times, when the moon was not yet in the heavens,” say the tribesmen of Chibchas.(9)
+- There are currently three theories of the origin of the moon:
+	- 1) The Moon originated at the same time as the Earth, being formed substantially from the same material, aggregating and solidifying.
+	- 2) The Moon was formed not in the vicinity of the Earth, but in a different part of the solar system, and was later captured by the Earth.
+	- 3) The Moon was originally a portion of the terrestrial crust and was torn out, leaving behind the bed of the Pacific.
+- All three theories claim the presence of the Moon on an orbit around the Earth for billions of years. Mythology may supply each of these views with some support (Genesis I for the first view; the birth of Aphrodite from the sea for the third view; Aphrodite’s origin in the disruption of Uranus, and also the violence of Sin—the Babylonian Moon—seems to support the second view).
+- Since mankind on both sides of the Atlantic preserved the memory of a time when the Earth was without the Moon, the first hypothesis, namely, of the Moon originating simultaneously with the Earth and in its vicinity, is to be excluded, leaving the other two hypotheses to compete between themselves.
+- We have seen that the traditions of diverse peoples offer corroborative testimony to the effect that in a very early age, but still in the memory of mankind, no moon accompanied the Earth.(10) Since human beings already peopled the Earth, it is improbable that the Moon sprang from it: there must have existed a solid lithosphere, not a liquid earth. Thus while I do not claim to know the origin of the Moon, I find it more probable that the Moon was captured by the Earth. Such an event would have occurred as a catastrophe.(11) If the Moon’s formation took place away from the Earth,(12) its composition may be quite different.
+- There is no evidence to suggest whether the Moon was a planet, a satellite of another planet, or a comet at the time of its capture by the Earth. Whatever atmosphere it may have had(13) was pulled away by the Earth, by other contacting bodies, or dissipated in some other way.
+- Since the time the Moon began to accompany the Earth, it underwent the influence of contacts with comets and planets that passed near the Earth in subsequent ages. The mass of the Moon being less than that of the Earth, the Moon must have suffered greater disturbances in cosmic contacts. During these contacts the Moon was not carried away: this is due to the fact that no body more powerful than the Earth came sufficiently close to the Moon to take it away from the Earth for good; but in the contacts that took place the Moon was removed repeatedly from one orbit to another.
+- The variations in the position of the Moon can be read in the variations in the length of the month. The length of the month repeatedly changed in subseqent catastrophic events—and for this there exists a large amount of supporting evidence. In these later occurrences the Moon played a passive role, and Zeus in the Iliad advised it (Aphrodite) to stay out of the battle in which Athene and Ares (Venus and Mars) were the main contestants.
+- ## References
+- Hippolytus, Refutatio Omnium Haeresium V. ii.
+  Aristotle, fr. 591 (ed. V. Rose [Teubner:Tuebingen, 1886] ). Cf. Pauly’s Realencyclopaedie der classischen Altertumswissenschaft, article “Mond” ; H. Roscher, Lexicon d. griech. und roemisch. Mythologie, article “Proselenes.”
+  Argonautica IV.264.
+  Plutarch, Moralia, transl. by F. C. Babbit, sect. 76.
+  Fasti, transl. by Sir J. Frazer, II. 290.
+  Refutatio Omnium Haeresium V. ii.
+  Lucian, Astrology, transl. by A. M. Harmon (1936), p. 367, par. 26.
+  Liber de die natali 19; also scholium on Aristophanes’ Clouds, line 398.
+  A. von Humboldt, Vues des Cordillères (1816), English transl.: Researches Concerning the Institutions and Monuments of the Ancient Inhabitants of America, (1814), vol. I, p. 87; cf. H. Fischer, In mondener Welt (1930), p. 145.
+  [In addition to the sources cited above, cf. The Nihongi Chronicles of Japan (I.ii, in Transactions and Proceedings of the Japanese Society, vol. I [1896]) which recount how “Heaven and Earth . . . produced the Moon-god.” The Kalevala of the Finns recalls a time “when the Moon was placed in orbit.” (Rune III.35)]
+  [Cf. the effects of such an event on the Earth’s rotation calculated by H. Gerstenkorn in Zeitschrift fuer Astrophysik, 36 (1955), p. 245; cf. idem, in Mantles of the Earth and the Terrestrial Planets, S. K. Runcorn ed., (New York, 1967); also idem in Icarus 9 (1968), p. 394.]
+- [Cf. H. Alfven and G. Arrhenius, “Two Alternatives for the History of the Moon,” Science 165 (1969), 11ff.; S. F. Singer and L. W. Banderman, “Where was the Moon Formed?” Science 170 (1970), 438-439: “ . . . The moon was formed independently of the earth and later captured, presumably by a three-body interaction, and these events were followed by the dissipation of the excess energy through tidal friction in a close encounter.” More recently, a study of lunar paleotides has shown that “the Moon could not have been formed in orbit around the Earth” (A. J. Anderson, “Lunar Paleotides and the Origin of the Earth-Moon System,” The Moon and the Planets, 19 [1978], 409-417). Because of a certain degree of instability in the Sun-Earth-Moon system, “the planetary origin and capture of the Moon by the Earth becomes a strong dynamic possibility.” (V. Szebehely and R. McKenzie, “Stability of the Sun-Earth-Moon System,” The Astronomical Journal 82 (1977), 303ff.].
+- [Cf. Yu. B. Chernyak, “On Recent Lunar Atmosphere,” Nature, 273 (15 June, 1978), pp. 497ff. The author found “strong theoretical evidence of a considerable atmosphere on the Moon during the greater part of its history.”]
+- PreviousMainNext

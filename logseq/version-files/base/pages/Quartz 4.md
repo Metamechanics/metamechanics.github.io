@@ -1,0 +1,7 @@
+alias::
+tags:: app, software
+URL:: https://quartz.jzhao.xyz/
+similar-to:: [[publishkit.dev]], [[Flowershow (app)]] 
+purpose:: #publishing #markdown 
+project:: [[WADS]], [[DiaGnosis]], [[metamechanic-io]]
+-

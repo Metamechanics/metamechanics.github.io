@@ -1,5 +1,0 @@
-synonyms:: unsure
-antonyms:: [[certainty]]
-
--
--

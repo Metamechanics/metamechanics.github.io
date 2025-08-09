@@ -1,0 +1,57 @@
+alias:: 
+tags:: #MyArticle #hash-ai #app
+project:: #DiaGnosis #[[Metamechanic Mycelium]]
+see-also::
+
+-
+- Hi there. I just wanted to say how excited I am with the prospects of the Hash.ai project. I wanted to share my ideas for my use case as a message of support and thanks. I already said a little bit on the "skip the queue" part of the "waitlist" page but wanted to elaborate.
+-
+- I want to develop a suite of knowledge bases (KB). While each Project KB has a focus theme/topic, they do overlap and have some common data and documents. Thus, I would like a bigger, broader parent KB underlying all these and the Project KBs are essentially filters on the underlying parent KB.
+-
+- The project KBs share features as well as some overlapping content
+	- cohering large amounts of existing orthodox data
+	- fringe topics in addition to the orthodox
+	- Knowledge cartography - categorising and situating information according to philosophical frameworks
+	- community curation, expert moderation
+	- publishing to public
+-
+- I love the idea of structured entities for categorization and comparison of qualitative data, and dynamic structured data for re-categorization and multi-categorization and comparison.
+- Moreover, I love the structured data possibilities for decomplexification and distillation of the essence of a message, rather than get drowned by information overload and bamboozled by complexity.
+- I love the multiple link types and the multi-type links and their visualization for argument mapping and controversy mapping. This is so exciting - being able to see the big arguments visually simplified and summarised, but maintaining rigour through links to supporting references.
+- I love the dynamic entities and properties to update them retrospectively as information and understanding grows to generate new mental models and include novel philosophical frameworks.
+- I love the ontology manager to avoid unnecessary repetition and redundancy and keep everyone in a shared vocabulary and mental framework. I love the idea of AI suggesting "similar notes" where titles or content may vary only by a little bit and be merged or linked.
+- I love the idea of creating 'index cards' to display the database entities and that workers could retrieve some of the more basic, conventional data
+- I love the network graph to visualize links beyond mere hypertextual links. We need hyperconceptual links which show relationship and I can't believe that hasn't been understood by other graph note tools until HASH. Relationships turn isolated data into knowledge.
+- I look forward to having an organization web and opening up the KBs to selected community curators and contributors to grow the corpus of knowledge, make the forest bigger and see beyond the trees.
+- I love the idea of dashboards to combine numerical graphs with index cards with prose and textual summaries, quotes etc to get a good overview of a topic or issue.
+- I love the idea of the infinite canvas with links as active entities and drawn from the schema. This goes back to the concept mapping point above. One project KB relies on the idea of nested infinite canvases as a way to provide a mental framework to organise and manage voluminous data as well as for readers to follow logic reasoning pathways and digest the data better.
+- The KBs tend to deal with topics and fields on the fringe of orthodoxy. This is where innovation, insight and breakthrough emerge from, particularly with the big and recalcitrant problems of the world. However, the fringe is also populated with genuine crazy, dangerous and ultimate falsehood. The key is in sorting the wheat from the chaff, and having robust, rigorous argument about the topics.
+- I am extremely excited in the role HashAI can help me begin this!
+-
+- The inclusion of fringe topics means that AI LLMs are not well-trained to deal with this. I'd thus like to be able to train the system on my content as well as benefit from the system's gathering and organising of more conventional data, and summarising capabilities.
+- Knowledge cartography includes such practices as argument mapping, controversy mapping, concept mapping as well visually mapping any data set on any set of axes beyong lat-long coordinates. Visual information organization is vital, I believe, for information digestibility. Thank God you've made links as first-class citizens with types and the ontology manager. This makes argumentation mapping so much easier where such links as "evidenced_by" and "refuted_by" are readily visible.
+-
+- I think structured data is critical in all of this, and moreover flexible structured data - where data can adopt different attributes and properties depending on which philosophical framework or mapping system is being considered.
+- Structured data is also critical to distill the essence of data and arguments, reduce information overload and improve decision making. This is why I'm so excited about HashAI.
+-
+-
+-
+- KC
+	- argument mapping
+	- controversy mapping
+	- concept mapping
+	- graphic organizers
+- AI
+	- train AI on my data
+	- AI LLM trained on fringe information
+- Community curation
+- Publishing
+- Feature requests
+	- Canvases
+		- nested
+		- multiple link types
+		- canvas links as first-class citizens
+		- multiple links between canvas boards
+		- embed graphics behind boards
+	- View types, inspired by Tinderbox
+		-

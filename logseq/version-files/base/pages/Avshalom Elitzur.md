@@ -1,0 +1,11 @@
+alias::
+URL::
+organisation::
+role:: #academic 
+fields::
+publications:: 
+tags:: person, #[[quantum physics]], #physics, #metaphysics #time #keyThinker 
+project:: #Metamechanica 
+public:: true
+- see also:: [[Avi Loeb]] ?
+-

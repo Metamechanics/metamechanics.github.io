@@ -1,0 +1,9 @@
+- #myBook #toWrite
+- see also: [[The Universe as Mental Model and Logical Fallacy]]
+- How are our sets of so-called cognitive biases actually biased and contradictory?
+- We explain away certain phenomena referring to these [[cognitive bias]] but are there other CBs which support the phenomena, or rebut its refutation?
+- How do [[mental models]] conflict and compete?
+- Are CBs only apparent in hindsight?
+- Why do we have CBs?
+-
+-

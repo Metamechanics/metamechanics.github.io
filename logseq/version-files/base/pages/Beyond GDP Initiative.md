@@ -1,0 +1,4 @@
+- #EFA #[[Fresh Alternatives]] #idea #Europe
+- [European Commission - Environment](https://ec.europa.eu/environment/beyond_gdp/index_en.html)
+-
+-

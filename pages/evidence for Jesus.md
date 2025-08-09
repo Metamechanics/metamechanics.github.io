@@ -1,0 +1,6 @@
+-
+- [Evidence for the Resurrection of Jesus - YouTube](https://www.youtube.com/watch?v=VwQUPbL6ghQ)
+- [The Case for Christ explained in 16 minutes - YouTube](https://www.youtube.com/watch?v=OnJKQv5XkK0)
+- [The Case for Christ: A Journalist's Personal Investigation of the Evidence for Jesus: Strobel, Lee: 9780310209300: Amazon.com: Books](https://www.amazon.com/Case-Christ-Journalists-Personal-Investigation/dp/0310209307) by [[Lee Strobel]]
+-
+-

@@ -1,0 +1,3 @@
+-
+- [[Owning our future]] . Book. Generative economy. [[Marjorie Kelly]] .
+-

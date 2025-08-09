@@ -1,0 +1,5 @@
+-
+- [[Quantum Interpretations Explained - Six Paths to Understanding Reality]]
+- [[Objective Collapse Theories of Quantum Physics]]
+	- [[Giancarlo Ghirardi]], [[Alberto Rimini]], [[Tullio Weber]]
+	-

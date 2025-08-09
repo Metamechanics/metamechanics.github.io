@@ -1,0 +1,3 @@
+-
+- [Who Built the Egyptian Pyramids & How Did They Do It?: New Archeological Evidence Busts Ancient Myths | Open Culture](https://www.openculture.com/2021/03/who-built-the-egyptian-pyramids-how-did-they-do-it.html)
+- study: [[Pyramids of Giza - Ancient Egyptian Art and Archaeology]]

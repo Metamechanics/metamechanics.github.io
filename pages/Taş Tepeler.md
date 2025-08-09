@@ -1,0 +1,19 @@
+-
+- [Turkey's Taş Tepeler marks the beginning of civilization - Arkeonews](https://arkeonews.net/turkeys-tas-tepeler-marks-the-beginning-of-civilization/)
+-
+- [[Gobekli Tepe]]
+- [[Karahan Tepe]]
+- [[Harbetsuvan Tepesi]]
+- [[Ayanlar Hoyuk]]
+- [[Hamzan Tepe]]
+- [[Nevali Cori]] - flooded by Euphrates Dam
+- [[Cakmaktepe]], closer to Gaziantiep than Sanliurfa
+- [[Kurt Tepesi]]
+- [[Hamzan Tepe]]
+- [[Taşli Tepe]]
+- [[Urfa - Yeni Mahalle]]
+- ![Tas Teppeler site infographic.png](../assets/Tas_Teppeler_site_infographic_1713179450735_0.png)
+-
+- [Taş Tepeler Discoveries 2024 | New Revelations and Archaeological Update | Megalithomania - YouTube](https://www.youtube.com/watch?v=2oxdswN_ngo)
+	- [[Sayburc]]
+	-

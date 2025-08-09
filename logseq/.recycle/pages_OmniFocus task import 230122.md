@@ -1,0 +1,26 @@
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- DONE [[../2 Metamechanics/Books/Another M-Theory/Some Spiritual Practice Paths/ACIM]] notes focused for [[Fresh Alternatives]]
+  collapsed:: true
+	- DONE choice
+	- DONE real alternatives
+	- DONE perception
+	- DONE new world
+	- TODO happy dream
+	- DONE birth
+-
+-
+-
+-
+-
+-
+-
+-

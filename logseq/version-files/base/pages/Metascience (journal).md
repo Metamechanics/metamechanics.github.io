@@ -1,0 +1,9 @@
+alias::
+author::
+publisher:: [[Springer]] 
+URL:: 
+tags:: journal, reference, [[Philosophy of Science]] 
+project:: [[Metamechanica]], [[X-Science]] 
+public:: true
+- [Metascience | Home](https://link.springer.com/journal/11016)
+-

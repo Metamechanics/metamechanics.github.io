@@ -1,0 +1,12 @@
+-
+- Solutions to the Fermi Paradox
+	- [Five Solutions to the Fermi Paradox | BBVA OpenMind](https://www.bbvaopenmind.com/en/science/physics/five-solutions-to-the-fermi-paradox/)
+	- [The Great Filter: A possible solution to the Fermi Paradox | Astronomy.com](https://astronomy.com/news/2020/11/the-great-filter-a-possible-solution-to-the-fermi-paradox)
+	- [The Sustainability Solution to the Fermi Paradox](https://arxiv.org/pdf/0906.0568.pdf)
+	- [The Fermi Paradox, Where Are All the Aliens? (Infographic)](https://futurism.com/10-solutions-to-the-fermi-paradox)
+	- [5 Answers to the Question: Why Haven't We Made Contact Yet? | Gaia](https://www.gaia.com/article/fermi-paradox-why-havent-we-made-contact-yet?utm_source=google+paid&utm_medium=cpc&utm_term=&utm_campaign=1-INTL-DYNAMIC-SEARCH&utm_content=UFOs&gclid=CjwKCAiAvOeQBhBkEiwAxutUVNILHnlIjAaAE0cgWIUUb1Bz-MSl_W8ZIck_ioqphEeBA2HweQsaZxoCUxYQAvD_BwE)
+	-
+- [Do SETI Optimists Have a Fine-Tuning Problem?](https://arxiv.org/pdf/2407.07097)
+- [Prior indigenous technological species | International Journal of Astrobiology | Cambridge Core](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/abs/prior-indigenous-technological-species/5D349ECF89D1D77DC537D419F0172CC6)
+- [How Much SETI Has Been Done? Finding Needles in the n-dimensional Cosmic Haystack - IOPscience](https://iopscience.iop.org/article/10.3847/1538-3881/aae099)
+-

@@ -1,0 +1,1 @@
+	To build bridges one must appreciate the chasm, orientation and foundations of competing futures.

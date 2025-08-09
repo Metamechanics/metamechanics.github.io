@@ -1,0 +1,12 @@
+-
+- [[metaphysics]]
+- [[ethics]]
+- [[logic]]
+- [[epistemology]]
+-
+- How do they inter-relate? Surely they do. They must!
+	- What you can conclude in one branch is determined by what is possible as declared in another.
+-
+- If the ego is designed to be incomprehensible, inconsistent, broken-by-design...then there will be inconsistencies
+- We are left chasing our tale if we do not recognise that the ego is leading us on a wild goose chase: a delaying maneuver
+-

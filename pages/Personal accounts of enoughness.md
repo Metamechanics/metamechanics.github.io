@@ -1,0 +1,3 @@
+- stories from people who have undergone a transition from hopeless searching and meaninglessness, perhaps drug addiction, to feeling a greater fullness
+- do not have to be 'perfect', just powerful
+-

@@ -1,0 +1,90 @@
+- part of [[Eurasia 2024]]
+- Itinerary
+	- [[13-07-2024]]
+		- arrive Cagliari airport
+		- Car rental [Cagliari-Olbia, Alamo via VroomVroomVroom ref. 1359418351](https://booking.vroomvroomvroom.co.uk/uk/booking-finished/OCt6SGF2bm5ZQm51ZWo4LzA0aXJHZz09YzNVdD2du0fc3Zm7CPUO.TwvhHNE)
+		- stay [Corte Arrubiu - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4ApKejLEGwAIB0gIkOGE2N2Q3Y2MtYmFlMy00MDNlLWExMjctZmVlM2VmY2E2Njc02AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=reZYnMkPhdPZ2iPW&source=mytrips)
+			- Via San Sperate 13, 09023 Monastir, Italy
+			- [Corte Arrubia – Bed & Breakfast a Monastir, Cagliari – Sardegna | A soli 20 Km da Cagliari](https://www.cortearrubia.com/)
+	- [[14-07-2024]]
+	- [[15-07-2024]]
+	- [[16-07-2024]]
+		- check out Corte Arrubiu, Monastir
+		-
+		- stay [Cuccumiao, Sorgono - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4ApKejLEGwAIB0gIkOGE2N2Q3Y2MtYmFlMy00MDNlLWExMjctZmVlM2VmY2E2Njc02AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=L8vzs9cY4hpQgUIY&source=mytrips)
+			- via Azuni n° 8, 08038 Sorgono, Italy
+	- [[17-07-2024]]
+	- [[18-07-2024]]
+	- [[19-07-2024]]
+		- check out Cuccumiao, Sorgono
+		- stay [La Casa del Rosario, Aggius](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4ApKejLEGwAIB0gIkOGE2N2Q3Y2MtYmFlMy00MDNlLWExMjctZmVlM2VmY2E2Njc02AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=Hvg8aHhc4gGVk751&source=mytrips)
+			- Via Rosario, 07020 Aggius, Italy
+			- check-in 4 pm onwards
+	- [[20-07-2024]]
+	- [[21-07-2024]]
+	- [[22-07-2024]]
+	- [[23-07-2024]]
+		- check-out La Casa del Rosario, Aggius
+		- 1 hour drive to Olbia airport
+		- depart Olbia 08:55 hours
+		- arrive Milan 10:10
+		- depart Milan 14:35 hours
+		- arrive Manchester 15:45 pm
+- [Megaliths, Pyramids & Giants of Ancient Sardinia & Corsica Tour 2020](https://www.megalithomania.co.uk/sardinia2020.html)
+- Nuragic people
+- [Pyramids, Megaliths & Giants of Ancient Sardinia - Hugh Newman FULL LECTURE - YouTube](https://www.youtube.com/watch?v=IjxVzwOCFyk)
+- [The Nuragic Civilisation of Bronze Age Sardinia - YouTube](https://www.youtube.com/watch?v=AfdDPl7iLu8)
+- Nuraghe -
+	- ![Table of simple Nuraghe - Mario Buildreps.png](../assets/Table_of_simple_Nuraghe_-_Mario_Buildreps_1710676588177_0.png)
+		- Source: [The Mystery of Nuraghes - a Glimpse Into a Lost Civilization](https://www.mariobuildreps.com/mystery-of-nuraghes/)
+-
+- [Nuraghi, tombe di giganti, pozzi sacri, domus de janas, dolmen, menhir, la Sardegna antica attraverso l'immagine e la fotografia - neroargento.com](https://www.neroargento.com/)
+-
+- [SardegnArcheologica](https://sardegnarcheologica.it/it)
+	- [SardegnArcheologica - links to other good sites](https://sardegnarcheologica.it/links/0/it)
+- Cagliari & south-west
+	- Sant'Anastasia sacred well
+	- sacred healing springs of Nuragic people
+	- Concias Giant's Grave
+	- Cagliari archaeological museum
+		- Mont'e Prama Giants
+	- Montessu Domus de Janas hypogeums
+	- Sa Tueredda Giant's Grave
+	- [Homepage - Parco Storico Archeologico Sant'Antioco](https://parcostoricoarcheologicosantantioco.it/)
+- Sud Sardegna
+-
+- North of Cagliari
+	- Su Nuraxi Nuraghe
+	- Prehistoric Statue-Menhir Museum
+	- Sa Domu 'e s'Orku Giant's Grave
+	- [[Arrubbiu Nuraghe]]
+	- Pranu Mutteddu menhir alignments & stone circle
+- Central Sardinia
+	- Nuraghe Santa Cristina
+	- Santu Antine Nuraghe
+	- [[Nuraghe Genna Maria]]
+	- [[Nuraghe Losa]]
+- Oristano
+	- [[Tharros]]
+- Nuoro
+	- [[Pozzo Sacro e Nuraghe di Noddule]]
+- Sassari
+	- Arzachena
+		- Giants Graves
+			- [[Coddu Vecchiu]] ,
+			- [[Li Lolghi]]
+			- Necropolis of Li Muri
+		- Sassari
+			- [[Ziggurat of Monte d'Accoddi]] megalithic pyramid
+				- closed Mondays
+	- Su Crucifissu Mannu Domus de Janas
+		- cart ruts
+	- Porto Torres
+	- S'incantu best Domus de Janas
+	- Alghero Catalan medieval historial centre
+	- [[Nuraghe Santu Antine]]
+	- Perfugas
+		- [[Pozzo Sacro del Predio Canopoli]]
+	-
+- Olbia
+-

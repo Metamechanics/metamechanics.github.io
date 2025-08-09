@@ -1,0 +1,6 @@
+- #AI #[[existential threat]] #megatrend
+- https://futurism.com/the-byte/researcher-99-percent-chance-ai-destroy-humankind
+- [Roman Yampolskiy: Dangers of Superintelligent AI | Lex Fridman Podcast #431 - YouTube](https://www.youtube.com/watch?v=NNr6gPelJ3E)
+-
+- see-also:: [[deceptive AI]]
+-

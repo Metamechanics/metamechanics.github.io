@@ -1,0 +1,5 @@
+-
+- on making my spiritual experience more personal, less aloof and impersonal, while I think I am an individuated person
+- cultivating a deeper relationship with my symbol of the love and peace of God
+- going with Jesus together to God
+-

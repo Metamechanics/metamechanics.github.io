@@ -1,0 +1,7 @@
+- #journalism #censorship #SocialMedia
+- Twitter files author
+- [Michael Shellenberger](https://shellenberger.org/)
+-
+-
+- [Why renewables can’t save the planet | Michael Shellenberger | TEDxDanubia - YouTube](https://www.youtube.com/watch?v=N-yALPEpV4w)
+-

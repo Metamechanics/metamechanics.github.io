@@ -1,0 +1,18 @@
+- alias::
+  tags::
+  url:: 
+  project::
+  see-also::
+- Consider these metadata
+-
+- Creator(s), Authors
+- Proponents
+- Cosmogony
+- Cosmology
+- Definition of God
+- Source of mind
+- Mind-body-spirit relationship
+- Altered States of Consciousness
+	- Interpretation
+	- Role
+	- Value

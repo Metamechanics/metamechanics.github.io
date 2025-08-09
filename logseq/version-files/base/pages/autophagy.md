@@ -1,0 +1,3 @@
+-
+- is stopped primarily by protein
+-

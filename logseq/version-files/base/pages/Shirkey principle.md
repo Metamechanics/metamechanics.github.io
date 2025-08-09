@@ -1,0 +1,4 @@
+- institutions will attempt to preserve the problem to which they are the solution.
+- source?
+- similar to US social activist Upton Sinclair put it in 1934: ‘It is difficult to get a man to understand something, when his salary depends upon his not understanding it.’
+-

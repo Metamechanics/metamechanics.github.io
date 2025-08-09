@@ -1,0 +1,1 @@
+An exhaustive wikipedia of religion and spirituality

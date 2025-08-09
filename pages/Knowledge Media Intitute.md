@@ -1,0 +1,8 @@
+alias:: KMI
+URL:: [Knowledge Media Institute | The Open University](https://kmi.open.ac.uk/)
+org-type:: research, #academia 
+people:: [[Simon Buckingham-Shum]] 
+tags:: #[[knowledge cartography]], #[[Big Data]]
+
+- #Organisation
+-

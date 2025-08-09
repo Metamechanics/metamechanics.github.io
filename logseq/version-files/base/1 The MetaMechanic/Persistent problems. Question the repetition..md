@@ -1,0 +1,1 @@
+Is evolution disguised devolution? Or revolution? Today’s solution, tomorrow’s satan? If you agree, drag your knuckles or spin on your chair, metamechanic projects could benefit from your offerings. 

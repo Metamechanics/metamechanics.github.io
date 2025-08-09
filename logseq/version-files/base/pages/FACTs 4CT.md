@@ -1,0 +1,3 @@
+-
+- using #FACTs to learn, undertake, critique #[[critical thinking]]
+-

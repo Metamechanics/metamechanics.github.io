@@ -1,0 +1,19 @@
+- see also: [[MetaTechnology]]
+- Need to reach [[The Science Delusion]]
+- Empirical science as metaphor
+	- Multiple/many data points = various areas of scholarship
+	- Scient
+- Scientific nature of genuine spiritual practice
+	- inspired by Ken Wilber
+	- Broader [[scientific method]] as reflective of spiritual practice, without the imposition of a priori truth boundaries
+- Beyond falsifiability
+	- Does falsifiability limit and constrain the genuine search for knowledge and truth?
+	- The dogmatic doctrine of falsifiability ?
+- Trans-rational science & discovery & innovation
+	- Dreams as a source of inspiration and understanding
+		- Benzene ring
+		- Sewing machine and arrowheads
+		- Tesla's dreams
+		-
+	- Einstein: art and science; daydreaming
+-

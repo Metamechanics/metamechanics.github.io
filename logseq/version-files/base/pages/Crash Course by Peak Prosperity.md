@@ -1,0 +1,2 @@
+- #[[Chris Martenson]] #energy #MacroEnergetics #[[Global Effort]]
+-

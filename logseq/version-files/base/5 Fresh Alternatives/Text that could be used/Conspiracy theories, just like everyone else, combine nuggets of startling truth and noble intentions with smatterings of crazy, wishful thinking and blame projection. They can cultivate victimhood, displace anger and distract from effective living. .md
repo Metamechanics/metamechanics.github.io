@@ -1,0 +1,1 @@
+Conspiracy theories, just like everyone else, combine nuggets of startling truth and noble intentions with smatterings of crazy and wishful thinking, thus cultivating victimhood and fertilising anger. Ultimately they don’t empower any more than what they oppose.

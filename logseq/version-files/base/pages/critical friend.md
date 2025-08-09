@@ -1,0 +1,3 @@
+alias:: friendly critic
+
+-

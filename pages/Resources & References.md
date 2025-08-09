@@ -1,0 +1,10 @@
+- #toCreate
+- a page collating all references in projects
+	- organizations
+	- books & articles
+	- documentaries, movies and video clips
+	- sites and locations
+	- theories, philosophies, conceptual frameworks and mental tools
+-
+- [[people]]
+-

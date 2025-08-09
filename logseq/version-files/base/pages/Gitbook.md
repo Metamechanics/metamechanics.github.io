@@ -1,0 +1,11 @@
+alias::
+tags:: app, software
+URL:: https://www.gitbook.com/
+similar-to:: 
+purpose:: #[[collaborative editing]] #documentation 
+project:: [[A Textbook for the Futures]], [[EFA]], [[X-C Communities]]
+see-also:: [[Read The Docs]]
+-
+- https://www.gitbook.com/
+- for EFA? Metamechanic writing?
+-

@@ -1,0 +1,4 @@
+-
+- [Stones and their properties](https://www.ucl.ac.uk/museums-static/digitalegypt/stone/material.html)
+- ![image.png](../assets/image_1720951459655_0.png)
+- Arnold 1991. Dieter Arnold. Building in Egypt. Pharaonic Stone Masonry. New York/Oxford

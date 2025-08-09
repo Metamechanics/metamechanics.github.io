@@ -1,0 +1,5 @@
+- #about
+ACKNOWLEDGEMENT OF PERSONAL POSITION I think there should be some comment on my own personal position. That is, an acknowledgement that I am priveliged, healthy, safe, wealthy etc on a global scale...  Determine characteristics of prevailing thought, wrt science and resource policy. Separateness Competition Scarcity Fundamental evil/baseness Absolute right/wrong  Distribution and Production and Waste These two principles are continually discussed throughout the whole book. Eg. Technology is a way to produce/make more and distribute more.  Discuss structure of the book  Not meant to be comprehensive in detail. Rather, the purpose is to highlight dominant patterns in adequate breadth and necessary depth.  Much literature on Poverty and development – political and economic focus on a broad scale. Lack of depth, metaphysical undertones. Self-development and “manifesting personal abundance” – pseudo-spiritual focus on a small scale. 
+title:: Acknowledgment of Personal Position
+
+-

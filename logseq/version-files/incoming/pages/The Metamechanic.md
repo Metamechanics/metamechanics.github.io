@@ -1,0 +1,76 @@
+- #brand #identity #project
+- ## Project Brief
+  collapsed:: true
+	- ## Overview & Summary
+	- ## Driving Questions and Sub-Questions of
+	  collapsed:: true
+		- ### Question 1
+			- #### Sub-question 1a
+			- #### Sub-question 1b
+		- ### Question 2
+			- #### Sub-question 2a
+			- #### Sub-question 2b
+	- ## Vision, Goals & Aspirations of
+	- ## Rationale for
+	- ## Central Message
+	- ## Theses and Hypotheses
+	- ## Mechanisms & Platform of
+	- ## Purpose of
+	- ## Related projects & products
+		- ### Similar & sympathetic projects
+		- ### Counter and competitor projects
+		- ### Potential collaborators
+	- ## Uniqueness, Novelty & Differentiation
+	  What it is and what it is not.
+	- ## Anticipated Audience
+		- ## Use Cases & User Stories
+	- ## Exemplars & Design Mock-ups
+	-
+	-
+- [[Metamechanic Mycelium]]
+- [[metamechanic.io]]
+- The Metamechanic is my brand and identity as an independent researcher, knowledge worker and nooledge worker (#noonaut )
+- #slogan
+	- The Metamechanic
+	  Metaphysics. Metaphor. Metanoia. Metamorphosis.
+	-
+- Situating everything in a more helpful, meaningful way or "location" in a bigger, better model. For example:
+  collapsed:: true
+	- Science
+		- does not acknowledge or account for psi, paranormal
+		- spirit, spirituality
+		- has religion-like qualities
+		- plays God
+		- doesn't account for UFO's, ET's in a comprehensive way
+	- Religion
+		- plenty of shortcomings but still very useful
+		- full of inconsistencies, but which can be resolved
+	- History
+		- built on "up from Eden" model
+		- linear, or linear under-model
+			- eg historical cycles but still with 2024 AD as the pinnacle
+		- does not account for advanced ancient civilizations
+		- does not account for possible Earth colonization eg. via Mars
+	- Evolution
+		- does not account for advanced ancient civilizations
+		-
+- Asking the questions:
+	- How can these (the above) be better?
+		- How can they be made better?
+		- How can they be viewed better?
+	- How are they inadequate, contradictory, hypocritical, unhelpful, self-contradictory?
+	- How can they fit together, to be coherent?
+	- How do we reconcile God, science, religion, UFOs, psi, myth, ancient civilizations, alternative medicine...in a meaningful, robust way.
+	- How much do real #T.O.E theorists acknowledge the alternative? eg. ETs, Atlantis
+	- How to introduce these ideas to the general public?
+		-
+- Orthodox, atheistic Scientists
+- Religious Scientists
+- New-age "quantum" scientists
+- Apologist, religious commentators
+-
+- Conspiracy theorists
+- Fringe historians
+-
+- Confusion of levels; confusing idols for God
+	-

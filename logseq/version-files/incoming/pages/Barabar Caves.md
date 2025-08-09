@@ -1,0 +1,11 @@
+alias:: Barabar
+tags:: #precision #megalith 
+place:: Bihar
+country:: #India 
+place-type:: #[[ancient site]] 
+project:: #[[Adam's Atlas]] 
+nearest-town:: Patna
+map-url:: https://maps.app.goo.gl/vpfvEAMisWiWELqv7
+
+-
+-

@@ -1,0 +1,12 @@
+- see also: [[MetaTechnology]]
+- Empirical science as metaphor
+	- Multiple/many data points = various areas of scholarship
+	-
+- Scientific nature of genuine spiritual practice
+	- inspired by Ken Wilber
+- Beyond falsifiability
+	- Does falsifiability limit and constrain the genuine search for knowledge and truth?
+	- The dogmatic doctrine of falsifiability ?
+- Recognising
+- Need to reach [[The Science Delusion]]
+-

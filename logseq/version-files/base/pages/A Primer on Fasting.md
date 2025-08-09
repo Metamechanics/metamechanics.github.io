@@ -1,0 +1,23 @@
+- #myCreation #fasting #health #toWrite
+- Questions to answer:
+	- Why do I fast? Why does one fast? Why should one fast?
+	- How does one go about fasting?
+	- What is [[autophagy]]?
+	- What is [[ketosis]]?
+- Blood Glucose - Ketone Ratio ?
+	- [[Glucose Ketone Index]] - Glucose-Ketone Index
+	- [Autophagy & Fasting: How Long To Biohack Your Body For Maximum Health? (GKI) - YouTube](https://www.youtube.com/watch?v=96dv7Xrgksw) [[Dr. Sten Ekberg]]
+		- refers to
+- What are the benefits of fasting?
+	- Cancer
+	- Alzheimer's Disease and Parkinsons's Disease
+	- Insulin Resistance
+	- Type 2 diabetes
+	- Testosterone
+- Warburg Effect
+- [[Thomas Seyfried]]
+	- how cancer doesn't do well without glucose
+	- shrink brain tumours in mice and humans
+	- developed GKI index
+- [[autophagy]] begins around GKI = 1.5
+-

@@ -1,0 +1,13 @@
+person:: #[[Albert Einstein]] 
+source::
+tags:: quote
+topic-theme::
+project:: #AMT #AMTbook
+
+-
+- Einstein is correct in saying this since God doesn't 'play' with the universe at all. That is, God doesn't interact with the universe, God didn't create the universe and then let it play out. In fact, God is not even 'aware' of the universe's existence.
+- The universe, after all, is illusory, not real. As such, God doesn't 'know' about it.
+- This explains Einstein's discomfort, yet also the probabilistic nature of quantum phenomena since a characteristic of the ego's universe is uncertainty and insecurity; illusory free will and illusory choice, illusory creativity...
+- in Reality,
+- The Realm of God, sometimes referred to as Heaven, is certain, perfect, changeless. It is known. There are no roulette wheels, poker cards or dice.
+- What then is 'gambled' with? Only

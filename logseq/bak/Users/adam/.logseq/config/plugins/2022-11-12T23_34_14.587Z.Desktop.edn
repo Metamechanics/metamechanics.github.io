@@ -1,0 +1,62 @@
+{:logseq-move-block
+ {:version "v0.0.13",
+  :repo "vipzhicheng/logseq-plugin-move-block",
+  :effect true,
+  :theme false},
+ :logseq-open-in-code
+ {:version "v0.0.5",
+  :repo "rebornix/logseq-open-in-code",
+  :effect true,
+  :theme false},
+ :logseq-markdown-table
+ {:version "v1.7.0",
+  :repo "haydenull/logseq-plugin-markdown-table",
+  :effect false,
+  :theme false},
+ :logseq-bullet-threading
+ {:version "v1.1.0",
+  :repo "pengx17/logseq-plugin-bullet-threading",
+  :effect false,
+  :theme false},
+ :logseq-banners-plugin
+ {:version "v3.4.3",
+  :repo "yoyurec/logseq-banners-plugin",
+  :effect true,
+  :theme false},
+ :logseq-block-to-page
+ {:version "v1.3.0",
+  :repo "hyrijk/logseq-plugin-block-to-page",
+  :effect false,
+  :theme false},
+ :logseq-emoji-picker-fork
+ {:version "v0.0.2",
+  :repo "walsvid/logseq-emoji-picker-fork",
+  :effect false,
+  :theme false},
+ :logseq-kanban-plugin
+ {:version "v2.7.3",
+  :repo "hkgnp/logseq-kanban-plugin",
+  :effect false,
+  :theme false},
+ :logseq-unsplash
+ {:version "v1.0.0",
+  :repo "clearlysid/logseq-unsplash",
+  :effect false,
+  :theme false},
+ :logseq-tocgen
+ {:version "v1.18.2",
+  :repo "sethyuan/logseq-plugin-tocgen",
+  :effect true,
+  :theme false},
+ :logseq-graph-analysis
+ {:version "0.7.0",
+  :repo "trashhalo/logseq-graph-analysis",
+  :effect false,
+  :theme false},
+ :logseq-mermaid-plugin
+ {:version "v1.2.0",
+  :repo "hkgnp/logseq-mermaid-plugin", 
+  :effect false, 
+  :theme false}
+ :logseq-bonofix-theme {:version "v3.8.2", :repo "sansui233/logseq-bonofix-theme", :effect false, :theme true}
+ :logseq-dev-theme {:version "v1.26.13", :repo "pengx17/logseq-dev-theme", :effect false, :theme true}}

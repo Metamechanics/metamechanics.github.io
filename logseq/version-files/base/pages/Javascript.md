@@ -1,0 +1,11 @@
+- #language #toLearn #coding
+- projects
+	- iQubes
+	- folded writing
+	- [[EFA]] slides, presentation, reveal.js
+	- lynda.com javascript training
+	- udemy javascript training
+- [[D3.js]]
+- [[React-js]]
+- [[reveal-js]]
+-

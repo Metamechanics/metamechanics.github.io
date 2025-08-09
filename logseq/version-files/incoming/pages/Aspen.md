@@ -1,0 +1,8 @@
+- #coding
+- markup language for graph data
+- exports to [[Cypher]] for use in [[Neo4j]]
+- [Aspen - Simple graph data](https://aspen-lang.org/)
+- [Online Meetup - Aspen, a simple markup language for creating graph data with Matt Cloyd - YouTube](https://www.youtube.com/watch?v=EgqlqyPppxI)
+- http://try.aspen-lang.org/ - editor
+-
+-

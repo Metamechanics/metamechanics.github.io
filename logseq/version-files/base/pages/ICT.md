@@ -1,0 +1,6 @@
+- [[Software, Apps & Web Services I may use & learn]]
+- [[my domain names]]
+- cybersecurity & privacy
+- cryptocurrency
+- structure of emails & domains for each project
+-

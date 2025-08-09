@@ -1,0 +1,32 @@
+-
+- [Metascience - The Emerging Field of Research on the Scientific Process | Metascience.com](https://metascience.com/)
+- [Metascience 2019 Symposium: Videos, Slides, Speaker Profiles + more | Metascience.com](https://metascience.com/events/metascience-2019-symposium/) #toWatch
+-
+- [OSF | Metascience Collection | Discover](https://osf.io/collections/metascience/discover)
+-
+- ## Mission
+- Metascience is the field of research on the scientific process. This includes the history and philosophy of science.
+	- What is science?
+	- What is science as a process?
+	- What practices and principles govern scientific exploration?
+- The field of metascience – in all its interdisciplinary dimensions – is rapidly emerging as a new discipline itself.
+- The recent Metascience 2019 Symposium has served as a formative meeting for metascience, or the “science of science”. The interdisciplinary dimensions that underpin metascience reveal themselves in a wide spectrum of meta-research topics, ranging from very practical concerns to deeply foundational questions.
+- At the practical level, the so-called ‘reproducibility crisis’ has drawn attention to the every-day operations of laboratory science and how these can go wrong and can be improved. At the foundational level, long-standing questions in the metaphysics of science remain unresolved such as how scientific truth and scientific objectivity can be possible. Increasingly, multiple approaches from various disciplines contribute to accelerating the emergence of metascience as a fully integrated field of research in the 21st century.
+- ## Relevant Research Questions
+  Research questions advancing the emergence of metascience as a fully integrated field of research include the following:
+	- How do scientists generate ideas?
+	- How do scientists interpret and treat evidence?
+	- Does the distinction between exploratory and confirmatory research matter?
+	- What is replication and its impact and its value?
+	- What are the cultures and norms of science?
+	- What demarcates science from pseudoscience?
+	- What makes possible scientific truth and objectivity?
+	- What is the exact role of the scientific agent in the scientific discovery process?
+	- What role do to human values play in the performance of the scientific method?
+	- What are the fundamental limits of science as opposed to the practical limits of science?
+	- Are the limits of science, the limits of scientific reproducibility?
+	- Is the reality that science describes absolute or model-dependent?
+	- Are the foundations of science fixed or are they open to future revision?
+	- Can existing limits be overcome by new advances in metascience?
+	- What is the future of scientific explanation?
+-

@@ -1,0 +1,10 @@
+alias::
+URL::
+organisation::
+role:: [[independent researcher]], [[author]] 
+fields:: 
+publications:: 
+tags:: person, [[UFO]], [[ET]], [[supra-national military-industrial complex]] 
+project:: [[Fresh Alternatives]] 
+public:: true
+-

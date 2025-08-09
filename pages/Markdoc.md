@@ -1,0 +1,3 @@
+- #[[Software, Apps & Web Services I may use & learn]] #EFA #platforms #software
+- [Markdoc | A powerful, flexible, Markdown-based authoring framework](https://markdoc.dev/)
+-

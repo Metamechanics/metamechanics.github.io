@@ -1,0 +1,16 @@
+- [[Argument Mapping]]
+- [[Debate Graphing]]
+- [[Topic Mapping]]
+- [[mind mapping]]
+- [[Controversy Mapping]]
+- [[Concept Mapping]]
+- [[Dialogue Mapping]]
+- [[Futures Mapping]]
+- [[Data Visualization]]
+-
+- #People
+	- [[Bob Horn]]
+	- [[Simon Buckingham-Shum]]
+	- [[Alexandra Okada]]
+	- [[Tim van Gelder]]
+	- researchers at [[Cmap Tools]] university

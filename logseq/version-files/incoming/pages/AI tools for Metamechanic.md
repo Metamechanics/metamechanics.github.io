@@ -1,0 +1,12 @@
+- #app #software #tools #ai
+- see also:: [[Metamechanical AI]]
+- [[personal.ai]]
+- [[genei.ai]]
+- [[inksprout.co]]
+- [[fireflies.ai]]
+- [[elicit.org]]
+- [[napkin.one]]
+- [[litmaps.com]]
+- [[scite.ai]]
+-
+-

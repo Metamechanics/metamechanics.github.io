@@ -1,0 +1,15 @@
+- #myCreation #[[My Books]] #Metamechanica #toWrite
+- Does this overlap with [[X-Science]]?
+- how science is quiet on #[[Free Energy]] #[[alternative medicine]] #psi
+- inspiration: [[Jim Marrs]]
+-
+-
+- Consistency of thinking with practice. (Mis)Alignment of conclusions and operation with premises and assumptions.
+  eg. How do the daily lives of scientists and their practice of science agree with the consequences of quantum mechanics?
+- "I wouldn't believe it if it were true"
+- Analogous to doctors who are unhealthy and unfit; the unhealed healer
+- Science shows X but scientists still do Y
+- Incongruence
+- Serendipity in science
+- Dreams and intuitions in scientific discovery
+-

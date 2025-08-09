@@ -1,0 +1,10 @@
+- alias::
+  tags::
+  project::
+  see-also::
+- Why am I doing The Metamechanic?
+- Why do I want to be a Metamechanic?
+- [[Why am I doing X]]
+-
+- [[Why I am doing EFA]]
+- [[Why & How I am doing AMT]]

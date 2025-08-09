@@ -1,0 +1,6 @@
+-
+- [Nuraghe Genna Maria • Pagan Places](https://paganplaces.com/places/nuraghe-genna-maria/)
+- [Parco e Museo Genna Maria - Villanovaforru](http://www.gennamaria.it/)
+- closed Mondays?
+- 9:30 am to 1 pm; 3:30 pm - 7 pm
+-

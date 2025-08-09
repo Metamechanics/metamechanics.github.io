@@ -1,0 +1,171 @@
+alias:: AMT, OMG
+tags:: #toProcess #toEdit #toWrite, [[My Books]] , [[myCreation]]
+see-also:: #[[AMT tasks]] #[[AMT dashboard]] #[[AMT web]] #[[AMTbook]] #[[AMT hyperbook]]
+
+- Internal
+  collapsed:: true
+	- AMT stands for
+	  collapsed:: true
+		- Adam's Metamechanical Theory
+		- Alternative M
+	- I want to have links to my future/next/other works eg. EFA, BBB, Inner Beginner, X-Science et al through principles expressed
+	- Notes to Self:
+	  id:: 67ca4419-f1be-4f5e-82e9-9a6e7eb4e6ef
+		- AMT is my origin doc. From this everything else emerges.
+		  Basic principles are outlined and laid down.
+		  Expanded upon in other projects and books.
+		- AMT as an introduction to all my other writings in the future, which will expand on ideas begun here
+		  collapsed:: true
+			- Obvious connections
+			  collapsed:: true
+				- EFA
+					- scarcity manufactured by wrong-mind
+				- Metamechanica
+					- particularly morals as mechanics
+					- a scared society's fearless future
+				- Non-dual futuring
+					- Time as separation mechanism
+					- Future as projection of fear & punishment
+					- Futures as defence mechanism, avoidance
+				- Inner Beginner
+					- pathways of rigour
+					- deal with the shadow, the repressed, the denied
+				- Adam's Atlas
+					- connection:
+						- Aliens as gods
+						- Garden of Eden
+						- Bible, Upanishads/Vedas et al as historical docs, in part
+				- X-Science and its books
+					- religion as tech; science as spiritual practice
+					- unconscious science; self-deception, nastiness, placebo
+					- macroscience & metatechnology
+				- Babies, Bibles & Bathwater
+				- FACTs 4CT
+					- the Universe as a variety of logical fallacies
+					- The Ultimate Conspiracy
+					- [[Truth is stranger than fiction]] ; they both come from the same mind
+				- Behind, Below, Beyond
+			- Less obvious connections
+			  collapsed:: true
+				- FF-ed
+				- Global Effort
+		- In writing AMT I should try to embody AMT as much as possible; live the ideas. Don't believe the lie.
+		- If-then-question conclusions to each block.
+			- "If X is true or Y is such, then why/how Z?"
+			- This creates a #CYOA style, a concept map hyperbook
+			- eg. If God is everywhere, then why don't I see it?
+			- I can't think of everything in advance so there should be a submission form for questions which then get linked.
+		- Important points may not be developed enough to be their own blocks.
+			- There is a disappointment and sense of deception in Navigating to a block that gives the impression of being developed, implied by being a link.
+			- What is the cut-off point where a point becomes its own block?
+				- in Logseq DB everything is a node
+	- Possible titles and bylines
+	  collapsed:: true
+		- Oh my God!
+		  Oh my! God?
+		  O, my God…
+		- Myth, misconceptions, metaphor, mind & miracles: An introductory manuscript on the path to peace.
+		- Mind, miracles, multiverses, metaphor, myth & misconceptions: An alternative manuscript for a path to peace.
+	- [[AMT half-page for family and friends]]
+	- [[AMT 1-page project brief]]
+	- [[AMT 5-page project brief]]
+	- notes to self on Overview & Structure
+	  collapsed:: true
+		- Structure as a contrast against scientific materialist, religious creationist, new-age quantum mystic, atheists, and activists, conspiracy theorists, post-modern deconstructionists,
+			- Reinforce what the good of each school is eg. the good of science is reliance on evidence: seek for yourself;
+			- remind of the not-so-good: eg. that reality is just material, only the five senses or God is energy (new-age);
+			- steps towards salvation eg. consciousness is more than we think, but also less ie. not God.
+		- Common messages are present throughout the entire book
+		- Concepts & ideas in one part support others elsewhere in the book
+		- The subway map system of thinking about God.
+		- A flowchart with Yes-No question triggers, resulting in various pathways to "God"/god. Can colour code, like a subway system map. Follows a Yes-No type Q&A diagram down to a conclusion. Each pathway is a colour-coded route.
+			- Eg. Good and evil. See notebook for examples 210412?? with each issue ending in something like “It does not really matter. The goal is to FORCK You!” – quote from ACIM: “A universal theology is impossible but a universal experience is necessary.”
+		- bite-size entries of a few paragraphs; these interlink to build bigger network
+		- don't try to get exhaustive in listings, explanation, refutations etc
+			- instead focus on over-arching and underlying principles
+			- explanations and arguments can be elaborated upon in future works, perhaps using DiaGnosis
+		- In a way an explanation of many principles of MetaMechanica
+		- Inspired by ACIM but not ACIM
+		- Tackle same/similar/recurring points from different starting thoughts. Eg. in “Foundational Concepts” start with the concept and then comment on misconceptions. In “Misconceptions” start with misconception, comment and then return to foundational concept.
+		- with each issue ending in something like “It does not really matter. The goal is to FORCK You!” – quote from ACIM: “A universal theology is impossible but a universal experience is necessary.”
+		- Summary sections of material throughout the book, OR, each section in a logical progresstion
+	- Broad/general schools of thought to aid structure
+	  collapsed:: true
+		- [[PR Sarkar]]
+		- Contemporary
+		  collapsed:: true
+			- [[Richard Dawkins]]
+				- ["It's Sheer Bullsh*t” - Richard Dawkins on Jordan Peterson's Theology - YouTube](https://www.youtube.com/watch?v=_eWDiaDOX0E)
+			- [[Ken Wilber]]
+			- [[Ken Wapnick]]
+			- [[HHDL]]
+			- [[Leonard Susskind]]
+			- [[Michael Shermer]]
+			- [[Daniel Dennett]]
+			- [[Christopher Hitchens]]
+			- [[Deepak Chopra]]
+			- [[Huston Smith]]
+			- [[William James]]
+			- [[Dennis Praeger]]
+			- [[Ben Shapiro]]
+			- [[Jordan Peterson]]
+			- [[Sam Harris]]
+			- [[William Lane Craig]]
+			- [[John Lennox]]
+			- [[Jiddhu Krishnamurti]]
+			- [[Stephen C Meyer]]
+			- [[Gregg Braden]], [[new age]]
+		- Materialists
+		- Creationists
+		- Quantum mystic
+		- Conspiracy theorist
+		- Atheists
+		- Agnostics
+		- Socialists, Marxists, Communists, Maoists, Leninists
+		- Capitalists
+		- Eco
+		- [[CS Lewis]]
+		- [[Wesley Huff]]
+		- People to use as guiding baseline for categories
+		  collapsed:: true
+			- [[Richard Dawkins]]
+			- [[Deepak Chopra]]
+			- [[Michael Shermer]]
+			- [[Ken Wilber]]
+			- [[Albert Einstein]]
+			- [[Ervin Laszlo]]
+		- Monism
+		  collapsed:: true
+			- neutral monism
+		-
+	- [[Why & How I am doing AMT]] #[[My Why-How Statements]]
+- ## [[M-barkation]] 
+  collapsed:: true
+  Some starting notes to the reader on method and madness in the M-ness
+	- [[Rescuing God]]
+	- {{embed [[A Starting Point (AMT hyperbook)]]}}
+	-
+- ## [[M-theory and Maps of the Matrix]] 
+  collapsed:: true
+  Some Theories of Everything, in general
+	- {{embed [[M-theory and Maps of the Matrix]]}}
+- ## [[Metaphysical Foundations of AMT]] 
+  Propositions, postulates, premises and principles.
+- ## [Myth, Metaphor, Models]([[Myth, Metaphor, Models]])
+  Symbols & Signals of God/"God"/god and the universe.
+- ## [Messages from Messengers]([[Messages from Messengers]])
+  Reports from the non-dual jewel and duel
+- ## [Misconceptions, Misdirections & Modifications]([[Misconceptions, Misdirections, Mistranslations and their Modifications (AMT hyperbook)]])
+  collapsed:: true
+  Alternatives to commonly held ideas according to AMT
+	-
+- ## [[Metamechanica (AMT)]] 
+  Practical Responses to the Metaphysics & Misconceptions
+- ## [[Common Questions, Claims, Controversies and Conspiracies]] 
+  Contentious issues and points of debate in metaphysics, theology and philosophy (do not confuse with misconceptions.)
+- ## [[Consequences, Outcomes and Applications of AMT]]
+- ## [[M-index]] 
+  Miscellaneous M-words; The Malphabet
+- ## [[Emilogue]] 
+  Disclosure Statement & Closing comments
+	-

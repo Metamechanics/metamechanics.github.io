@@ -1,0 +1,3 @@
+-
+- “Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.” --Laurence J. Peter #quote
+- [Wicked Problems and Social Complexity - Jeff Conklin; CogNexus Group](http://cognexusgroup.com/wp-content/uploads/2013/03/wickedproblems.pdf)

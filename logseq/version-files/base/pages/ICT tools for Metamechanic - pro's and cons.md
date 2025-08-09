@@ -1,0 +1,37 @@
+- writing and organising tools for metamechanic - pros and cons
+- Tana
+	- propietary
+	- steep learning curve
+- Notion
+	- Good
+		- project management
+		- friction note entry
+		- comments
+	- Not so good
+	- Bad
+		- firmer structure
+		- 2-way tables difficult
+			- Top/header row cannot be existing entities from a database
+			- Duplicate pages possible ie. with same name
+				- Likely to recreate without predictive linking within tables
+				-
+		- No predictive linking within table cells
+		-
+- Coda
+	- Good
+		- publish to web
+		- magazine layout
+		- project management
+		- collaboration
+	- Bad
+		- no good backlinking
+		- note entry friction
+- Logseq
+	- Good
+		- ease of note entry
+		- backlinking
+		- whiteboards
+		- outlining and TLDR native
+		- one graph for all interlinked nuggets
+	- Not so good
+		-

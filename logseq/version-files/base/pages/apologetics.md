@@ -1,0 +1,2 @@
+alias:: apologist
+title:: apologetics

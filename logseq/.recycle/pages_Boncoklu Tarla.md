@@ -1,0 +1,9 @@
+-
+- [A 12.000 -year-old temple was found during excavations in Boncuklu Tarla in southeastern Turkey - Arkeonews](https://arkeonews.net/a-12-000-year-old-temple-was-found-during-excavations-in-boncuklu-tarla-in-southeastern-turkey/)
+-
+- [Boncuklu Tarla October 2022 - YouTube](https://www.youtube.com/watch?v=HZEmZBIAVZM)
+- [12,000-Year-Old Site in Turkey is OLDER than Gobekli Tepe! New Discoveries at Boncuklu Tarla - YouTube](https://www.youtube.com/watch?v=X4GvMGasTzM&t=47s)
+- [... what about BONCUKLU TARLA? | Uncovering the real star of Middle Eastern archaeology. - YouTube](https://www.youtube.com/watch?v=CPdiNDIEpTM&t=315s)
+- [Boncuklu Tarla (The New Gobekli Tepe) - YouTube](https://www.youtube.com/watch?v=z8wPOkwpYHY)
+-
+-

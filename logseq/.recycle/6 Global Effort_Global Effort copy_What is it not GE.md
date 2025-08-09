@@ -1,0 +1,6 @@
+What is it not?
+A wiki of energy technologies which will save the world. Global Effort might explore how this view contributes to the problem.
+A chat forum to argue the rights & wrongs of climate change, peak oil/coal/resources, nuclear power, carbon tax vs carbon trade etc. Global Effort might question if these indeed are the real problems, or the divisive dualistic thinking in response to them, or the structures of science and economics themselves, for example.
+A vehicle for a particular technological, economic, political, cultural or psychological solution. Rather, Global Effort might distill the similarities-differences and highlight the short-comings of each to help build a robust, resilient path forward.
+A library of information collecting digital dust while inflating intellectual egos. The intention of Global Effort is to inform decisions and visions somewhere.
+Neutral. Instead, Global Effort will attempt to recognise and acknowledge the biases present in its propositions, while it highlights the biases in others.

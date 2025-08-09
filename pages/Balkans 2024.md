@@ -1,0 +1,18 @@
+- #CANCELLED
+- [Summer_Solstice_Tour_2024.pdf](https://piramidasunca.ba/images/banners/Summer_Solstice_Tour_2024.pdf?27082023)
+- Itinerary
+	- [[13-06-2024]]
+		- arrive Sarajevo 7:50 pm
+		- stay [Hotel Saraj booking](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4Ar7hg7EGwAIB0gIkNzhiNDExZWMtZDVmOS00YjY5LThkMzYtMTQ4NmE1ZTU3MzNm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=sHdlNOal72eJTKrX&source=mytrips)
+	- [[14-06-2024]]
+		- Sarajevo
+	- [[15-06-2024]]
+		- Sarajevo
+	- [[16-06-2024]]
+		- Sarajevo morning
+		- collected and transfer to hotel for [[Bosnian Pyramid Summer Solstice Celebration 2024]]
+	- [[17-06-2024]] - Monday
+		-
+	- [[06-07-2024]]
+		- depart [[Belgrade]] airport 20:50 hours
+		- arrive Malta airport 22:50 hours

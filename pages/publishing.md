@@ -1,0 +1,7 @@
+-
+- Markdown files
+	- [[Quartz 4]]
+		- https://www.youtube.com/watch?v=ITiiuBNVue0
+	- [[publishkit.dev]]
+	- [How to Publish Obsidian Notes for Free (Next.JS / Tailwind CSS) - YouTube](https://www.youtube.com/watch?v=rKSpK1dXn4E)
+	- [Digital Garden - Publish Obsidian Notes For Free](https://dg-docs.ole.dev/)

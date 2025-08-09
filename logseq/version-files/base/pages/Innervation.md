@@ -1,0 +1,10 @@
+alias::
+tags:: #innovation #transformation #[[change of mind]] #re-definition #reframing  
+url:: 
+project::
+see-also:: [[innervation (medical)]]
+- Innovation through inner transformation
+- "Inner" means mind
+- Transformation means qualitative change
+- [[Hierarchy of Alternatives]]
+-

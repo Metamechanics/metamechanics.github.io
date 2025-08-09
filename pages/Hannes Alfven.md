@@ -1,0 +1,13 @@
+alias::
+URL::
+organisation::
+role::
+fields:: [[plasma cosmology]]  
+publications:: 
+tags:: person
+project::
+public:: true
+- [[Alfven-Klein model]] of cosmology
+- see also:: [[Kristian Birkeland]]
+- known for [[Plasma Universe]]
+-

@@ -1,0 +1,24 @@
+-
+- Surly
+	-
+- Koga
+	- World Traveller [KOGA WorldTraveller | The ultimate trekking bike just get even better](https://www.koga.com/en/bikes/trekking/worldtraveller?frame=H)
+- Kona
+	- Sutra [KONA BIKES | DROP BAR / GRAVEL | SUTRA | Sutra SE](https://www.konaworld.com/sutra_se.cfm)
+	-
+- Vivente
+	- The Gibb [NEW The Gibb - Vivente Bikes](https://viventebikes.com/our-bikes/the-gibb/)
+	-
+- Salsa
+	- Marrakesh Alivio [Marrakesh Alivio | Salsa Cycles](https://www.salsacycles.com/bikes/2021_marrakesh_alivio)
+	-
+- Features & Specs
+	- Frame: Steel, chromoly
+	- Drivetrain
+	- Spokes
+	- Wheels
+	- Seatpost
+	- Seat
+	- Tyres
+	- Hubs
+	-

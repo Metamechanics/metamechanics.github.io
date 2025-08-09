@@ -1,0 +1,40 @@
+alias::
+URL::
+org-type:: #research 
+people:: [[Willoughby Britton]] 
+publications:: 
+tags:: organisation, #[[the shadow]], #meditation #[[contemplative practice]] 
+project:: [[AMT]]
+question::
+public:: true
+- this is in direct support of #AMT
+- new age ignores the ego; these results show importance of facing "the bad thing"
+- it also shows the misconceptions around meditation and mindfulness, as well as forgiveness
+-
+-
+- [willoughby britton dark night project - Brave Search](https://search.brave.com/search?q=willoughby+britton+dark+night+project&source=desktop&summary=1&summary_og=75de3665efb8bf08f4d947)
+- # Willoughby Britton's Dark Night Project
+  
+  Dr. Willoughby Britton, an assistant professor of psychiatry and human behavior at Brown University, has been studying the phenomenon of meditation-induced adverse effects, which she terms “the dark night.” Her research, known as the Dark Night Project, **aims to document, analyze, and publicize accounts of meditation-induced impairment**, challenging the prevailing narrative that meditation is universally beneficial.
+- ## Background
+  
+  Britton’s investigation began after receiving reports from individuals who experienced severe psychological distress, including thoughts of self-harm and suicide, following meditation retreats. These accounts contradicted the widespread assumption that meditation is a safe and effective practice. Britton’s research seeks to understand the underlying mechanisms and prevalence of these adverse effects.
+- ## Key Findings
+- **Prevalence**: Britton’s study suggests that adverse effects of meditation are more common than previously thought, with over 50% of her patients reporting negative experiences.
+- **Variability**: The Dark Night Project reveals that meditation-induced adverse effects can manifest in diverse ways, including:
+	- Vivid, disturbing imagery
+	- Unwanted sexual thoughts
+	- Emotional turmoil
+	- Dissociative experiences
+	- Suicidal ideation
+- **Lack of Acknowledgment**: Britton’s research highlights the widespread lack of recognition and acknowledgment of these adverse effects within the meditation community and among researchers.
+- **Historical Context**: The concept of “dark night” has roots in Christian mysticism, describing a spiritual crisis in the pursuit of union with God. Britton’s study shows that similar experiences are reported across various contemplative traditions, including Buddhism, Sufism, and Christianity.
+- ## Implications
+  
+  The Dark Night Project has significant implications for the meditation community, researchers, and practitioners:
+- **Increased Awareness**: Recognizing the potential risks and adverse effects of meditation can help practitioners prepare for and better cope with challenging experiences.
+- **Improved Research**: Britton’s study emphasizes the need for more comprehensive and nuanced research on meditation’s effects, including its potential risks and benefits.
+- **Responsible Practice**: The Dark Night Project underscores the importance of responsible and informed meditation instruction, as well as the need for practitioners to be aware of their own limitations and boundaries.
+  
+  By shedding light on the darker side of meditation, Dr. Willoughby Britton’s Dark Night Project aims to promote a more balanced understanding of this complex practice and its potential effects on individuals.
+-

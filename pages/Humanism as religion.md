@@ -1,0 +1,5 @@
+- #[[Christopher Hitchens]] #[[Thomas Paine]]
+-
+- I think humanists generally balk at the term 'religion', and for good reason.
+- However, with a re-framing of 'religion', humanism could be seen as a more positive religion.
+-

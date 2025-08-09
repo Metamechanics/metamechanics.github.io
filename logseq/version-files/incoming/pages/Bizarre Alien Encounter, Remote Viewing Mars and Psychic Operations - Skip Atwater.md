@@ -1,0 +1,1844 @@
+alias::
+creators:: [[Shawn Ryan]], [[Skip Atwater]] 
+year:: 2025
+URL:: https://www.youtube.com/watch?v=OwrDI7GvenQ
+tags:: documentary, #[[quantum non-locality]] #[[remote viewing]] #Mars- 
+project:: #AMT #FACTs 
+question::
+public:: true
+
+-
+- Transcript 1
+  collapsed:: true
+	- Skip Atwater, welcome to the show. Thank you very much. I have heard a lot about you from several of the previous guests. I've read about you, I've seen documentaries about you. You're a hard man to reach. I've been trying to make contact for quite a while, and Joe and Scooter, finally, they were the ones that made the connection. So I just want to say thank you to Joe and Scooter.
+	- I'm glad to be here. It's an honor to have you here. But everybody gets an introduction here, so we'll knock that out first.
+	- Frederick Holmes, Skip Atwater. You were a counter-spy during the Cold War era, where you used your natural psychic aptitude as a U. S. Army counterintelligence special agent. You played a key role in the remote-viewing intelligence program now known to the world by the code name Stargate. For 10 years, you were the operations and training officer of this secret remote-viewing program. You recruited and trained an elite cadre of professional intelligence officers to do remote-viewing for the Department of Defense and various members of the national intelligence community.
+	- After retiring from the Army, you became president of the Monroe Institute in Virginia. In your book, Project 8200, UFO-UAP Bases and Activities, the original remote-viewing transcripts, you show us the results of Pat Price's famous exploration of four mountains around the world where Price believed UFO bases were located. You're the author of Captain of My Ship, Master of My Soul, Living with Guidance. You have been featured in several film documentaries, including Ghosts in the Afterlife, A Scientific Investigation, and Third Eye Spies. I'm sure I'm missing quite a bit there, but that's quite deep. That's a big pile, is what you're guessing. That is, that is, that is.
+	- But, you know, I'm just, I have been fascinated with this subject for many years now. And with every person that I interview, I just get more intrigued. And you have been involved in this almost since the very beginning, from what I understand. And so some of the things that I would just, I would like, two main things I would like to do in this interview is one, to cover your life story and how you kind of got involved in this. And I would also like to go over, you know, the history of the Stargate program and kind of how it came on the map for United States intelligence. Yes. Perfect. I can talk about all that.
+	- But, so, but before we get too in the weeds, I have a Patreon account. Patreon, it's a subscription account. There are top supporters. A lot of these folks have been with us since the very beginning, and they're the reason I get to sit here and you're here as well. And so one of the things I do is I offer them the opportunity to ask every guest a question. And so this question is from Jay.
+	- What neurological structures in the brain are responsible for these altered states of consciousness? Is it simply dreaming?
+	- That is an interesting question because we've been thinking about the brain for a long time. And the brain is this and the brain is that. And it used to be thought of hundreds of years ago of that's just to keep your head warm. They don't know what the brain is and what's going on up there. But it's something that, you know, over the past 50, 100 years has become the answer to everything. If it's this, oh, it's in the brain.
+	- You have to fix this part of the brain right here. That's what's wrong with it. And so him asking this question is a reasonable one given the education we have now. I'm not so sure that 50 years from now that will be much of a question because it seems that all these things that people do, whether it's remote viewing or whatever they call it, seems to have something to do with quantum non-locality or the everywhere, every when of all information. What did you call it first? The quantum? Quantum non-locality is a technical term for it.
+	- But they had to invent that 60 years ago because they didn't know what was going on. There's lots of science on saying that there's no space and there's no time. And these people, we'll just call them remote viewers because it's a good thing to use as a name. Not that I like them so much, but that's OK. Everybody calls it remote viewing.
+	- What do you call it? I attempt to list out several different things.
+	- Are you psychic? Is that the word that one should use? It's a word that people toss around a lot. Are you clairvoyant? Are those words that you toss and pass around? But Ingo Swann kind of coined the word remote viewing because when he went to work with Stanford Research Institute, they didn't want to say, well, we're training psychics here. No, let's just call it remote viewing.
+	- That would probably be better, which I've gotten sidetracked in talking a lot here. But it's not really remote viewing because there's nothing that's remote. Everything is all one thing. That's the quantum non-locality. So these people that are doing the remote viewing have the ability to perceive everywhere and every when. And some of them decide to call it this and call it that and call it this. But it looks an awful lot, at least for the next 50 years, to be quantum non-locality.
+	- And I limit that 50-year thing because each unit of time, like there is no time, right? Each unit of time we go through, suddenly things are different. I mean, wasn't the Earth flat at one time? Wasn't everything orbiting around us? No, it's us going around the sun. Hmm, that's an interesting idea. And those kinds of large breakthroughs in science takes a while for us to figure them out and generations to figure them out.
+	- So I can only think that maybe in the future generations it won't be what we think it is now. Makes a lot of sense. Makes a lot of sense. So back to the original question. So it's not a dream? Well, then we've defined something called a dream. And by using the word dream, we all tell ourselves, oh, that wasn't really real.
+	- It was just a dream. Perhaps it's a different kind of knowing, and it's coded when you have a dream about this, this, and this. So, you know, what that really was is how important things are to me when I think about this. And I had a dream about it, and it reminded me when this happened and that happened. I don't think there's anybody who really knows what a dream is, except that they go, oh, it's just a dream. Don't worry about it. So do you – this is interesting – do you – and I know this is going to tie into your childhood too, I think – but do you think that every dream needs to be deciphered and dissected and decoded?
+	- If you mean just tell my wife what my dream was, yeah, I think that's a good thing to talk about. No, I don't think that it's a thing to be decoded and figured out, and you should go see your psychiatrist and say, I need help understanding this dream. I don't think that. It's a matter of – obviously, there are people who have real problems with that, and they should see the proper help things. But it's not – it's just – it's a passing thing, you know? When you talk – what was – I'm sorry, what was the terminology again?
+	- Quantum – Quantum non-locality. Quantum non-locality. So when – And that comes from quantum physics, which is a brand new thing, only 60 years old, and making it simpler. There's no space, no time. Everything is everywhere, everywhere you went, and I don't want to go too far on this. People are turning the channel off.
+	- That guy's on. Oh, no. They're not going to turn the channel off. Because I – because the reason I'm asking is I don't – I've tried to talk about this so many times, and it's just over my head. And so when we say there's no space and no time and everything's happening all at once in the now, correct? Yes. What does that mean?
+	- So what was yesterday? If there's no space, no time, there's no yesterday.
+	- But it's past. There's no past and no future, because it's all happening at once. But how? Because that's the way it is. It's a very interesting thing to ask those questions because many, many, many different people, thousands, millions of people, and different cultures have come along and tried to answer all those questions. So I think what that means is that's the right question. The fact that they can't answer it, but in what I've been doing for a number of years, says that this information we get can only have come to this person one way, and that's the fact that they know this because they didn't read it in a book.
+	- They know this because they didn't get a phone call saying, you ought to watch out for this. They got a message from beyond space and time and came up with some information that proved to be true. So if everything's happening all at once, all the time, and there is no time, then that means every – you could break it down into – you could break a millisecond down into a nanosecond and break that down, and it just continuously – it never ends. You can just keep dissecting, and so does that mean – where is all this happening all at once? That means everything's happening all at once, so that means what I just said two seconds ago is happening again, correct? There's no again if it's all at once. Help me understand this.
+	- I just thought of a joke in my head when you were talking. It was like, you know, he's trying a second chance, and I snipped the word second. Yeah, I'm glad to be of help, but I am as confused about it, too, except for things happen in my life and other people, too, that say, it's funny you brought that up because I was just thinking about that, too. And do you think that means this and this? And it's like, well, how could you have thought about it yesterday morning, and I think about it two days later, and it's the same thing? Doesn't that mean there's a little hint that we are all one together? And I use a gesture that you might want to cut out, but I always say God.
+	- I don't, yes, God is a religious word. We're getting off track here, but it's in my head. I saw an interesting street scene done with Muslims, and a guy was driving up in a taxi or a car, and all the little kids came around and said, gimme, gimme, gimme, gimme, gimme, gimme. And the guy got out of the car and went like that, and they walked away from him. Everything that comes to you comes from what we believe in, not by me giving you quarters or whatever out the window. And it was an interesting, in the movie, it was an interesting lesson. He was teaching those kids.
+	- They're used to trying to find something to eat and run down the street and chase anybody that looks a foreigner or whoever to give them some money and make their life better. And this guy got out, and he just went like that, and all the kids are like. Interesting. So if no time, so I'm trying to understand the concept of no time, everything's happening at once, but what is the space? When you say there's no space, what does that mean? Well, in my mind, if I back up hundreds of years and watch the way people have organized what they thought was space, like we talked about a minute ago in terms of the earth is the center of everything, and everything else goes around the earth. And then you think, well, no, look at it.
+	- We've measured out over the years, and we found out that not everything is the center of the earth. As a matter of fact, if you look, there's things out there. They're really strange, and there's a bunch of things out there. We're calling those planets. Well, how do you know it's doing that? Well, it took a long time for guys to figure it out and watch it happen. So we are beginning to think now that this thing we call space is infinite.
+	- There isn't a place where, well, when do we stop having planets and suns and stars? And it's a good question because some of them say everything was supposed to collapse back in a billion years from now and start all over again with a big bang. And then time went by, and the scientists looked it out and said, all of those things aren't coming back. They just keep going further and further and further away until, as time passes, like there really is time, it will be so far away we can't see it anymore. Well, then are we alone in the universe? What's space all about? That's interesting, because the universe is expanding. Yes. So we will hit, and they can see the beginning.
+	- They can see the big bang, from what I understand, supposedly, correct? They... It happened, however many, you know... And I will challenge that statement, not that it's a big deal. Yes, the big bang is the thing. Well, how much longer? Will that stick?
+	- Will that always be that's the way it is? Or 100 years from now, 200, 500 years from now, they will say, you know, that big bang thing just doesn't work.
+	- I mean, Pluto is no longer a planet. Lots of things change, but I'm just always fascinated in the subject. I'm trying to wrap my head around it, and I don't, I just don't have the IQ level to comprehend it. No, I think you're the one that's supposed to ask those questions and share those answers with the world around you. That's who you are. Patriot Mobile While we may have won this election, the fight to restore our great nation has just begun. Now is the time to take a stand, and Patriot Mobile is leading the charge.
+	- As America's only Christian conservative wireless provider, Patriot Mobile offers a way to vote with your wallet without compromising on quality or convenience. Patriot Mobile isn't just about providing exceptional cell phone service. It's a call to action to defend our rights and freedoms. With Patriot Mobile, you'll get outstanding nationwide coverage because they operate on all three major networks. If you have cell phone service today, you can get cell phone service with Patriot Mobile with a coverage guarantee, but the difference is every dollar you spend with Patriot Mobile helps support the First and Second Amendments, the sanctity of life in our veterans and first responders.
+	- Switching is easy. Keep your number, keep your phone, or upgrade.
+	- Their 100% U. S. -based customer service support team will help you find the perfect plan. Right now, go to patriotmobile.com slash SRS or call 972-PATRIOT and get a free month of service with promo code SRS. Switch to Patriot Mobile today and defend your freedom with every call and text you make. Visit patriotmobile.com slash SRS or call 972-PATRIOT. I know everybody out there has to be just as frustrated as I am when it comes to the B. S. and the rhetoric that the mainstream media continuously tries to force feed us.
+	- And I also know how frustrating it can be to try to find some type of a reliable news source. It's getting really hard to find the truth and what's going on in the country and in the world. And so one thing we've done here at Sean Ryan Show is we are developing our newsletter. And the first contributor to the newsletter that we have is a woman, former CIA targeter. Some of you may know her as Sarah Adams, call sign Superbad. She's made two different appearances here on the Sean Ryan Show. And some of the stuff that she has uncovered and broke on this show is just absolutely mind-blowing. And so I've asked her if she would contribute to the newsletter and give us a weekly intelligence brief.
+	- It's going to be all things terrorists, how terrorists are coming up through the southern border, how they're entering the country, how they're traveling, what these different terrorist organizations throughout the world are up to. And here's the best part. The newsletter is actually free. We're not going to spam you. It's about one newsletter a week, maybe two if we release two shows. The only other thing that's going to be in there besides the intel brief is if we have a new product or something like that. But like I said, it's a free CIA intelligence brief. Sign up.
+	- Links in the description or in the comments. We'll see you in the newsletter. Thank you. Well, Skip, let's get into your story real quick before we do.
+	- Everybody gets a gift here. Oh, yeah? Nothing crazy, just a little something for the ride home. Those are Vigilance Elite gummy bears. Oh, boy. Yeah, to hope you like candy. A real treat. Yeah. Made here in the USA, Michigan. Thank you.
+	- I will bring that home to my family and I'll say, really? Oh, those look really good. Right on. Right on. Well, Skip, like I had mentioned at the beginning, you're a massive part, played a massive role in the Stargate program and in remote viewing and in U. S. intelligence. And so I want to talk about your journey on how that all came about.
+	- And so let's kind of start with childhood. Where did you grow up? I grew up in Southern California and my dad was a dentist and my mother's father was a dentist. So the family business was dentistry for them. And there were a couple of kind of childhood things that were interesting to me because they seemed normal to me because they were happening in the family. And as I got older, I would say, well, you know, I got kind of a weird family. And it sounds like I didn't like them because they were weird.
+	- It was more of a casual comment about that. My mom used to talk to animals that died, a cat or a dog or everything, and they'd tell us kids and shit. But they're fine. I talk to them and they're going to be OK and so forth. And I was like, OK, Mom, I'm going to school. And I guess one of the stories is an interesting bedwetting story. When I was 10 or a little bit younger than 10, I was still wetting my bed, but I wasn't teased about it. It was just a thing that I had to pull the sheets off the bed and run them through the washer and then make the bed again.
+	- But it wasn't teasing or anything else. Of course, I failed a little of that at school, but people would talk about that. And one night I woke up in bed and the bed was all wet. And I was screaming and mad at what had happened because there was no reason for this. It was an embarrassing thing for me with two older sisters and school kids talking about it. So my mother came in.
+	- Are you all right? You fell out of bed? Did you get hurt? Why are you screaming?
+	- What's it all about? And I said, I went into the bathroom and I sat on the toilet. And when I began to pee, I woke up here in bed. And now my bed's all wet. And, you know, very angry, very really outspoken about it. There's a joke in the end. It really pissed me off.
+	- At any rate, my mom put her arm around me and she said, oh, it's okay. It's okay.
+	- It'll be okay. And I was like, why are you so cool about it? I didn't say anything. She says, you know, sometimes you're in your body and sometimes you're not in your body. So when you go into the bathroom, you have to make really sure that you went to the bathroom. Because it's obvious you didn't. And we go back to the discussion of dreams.
+	- Maybe you dreamed you went into the bathroom and you didn't and you peed your bed again. Well, that left a idea in my head as the days rolled by and weeks rolled by. It was like, what does she mean by you're not in your body? And so I would kind of practice at night and found that I could get up and look out the window and then look back and I was in bed. And I said, that's pretty weird. And as time went on, I would jump out the window and my out of body state would jump out the window and I learned to trust that. So when you say, let's rewind for just a second.
+	- When you say you would get out of bed and look out the window and then you would look back and you would be in bed. I mean, how old were you when this started happening?
+	- Right around 10? It would be over 10. So maybe in the next year or two, those things started to happen. Do you remember the first time that happened? Yes. What were you thinking? Made an impression.
+	- Well, I want to go out and play with my friends. I found the first thing that I ran into when I'd go away from my sleeping self in bed, that I was in some sort of school situation, like night school or something. I was in something called night school. But then when I got a little bit older, I started to go find my friends. Where's Mikey down the road? Well, hey, what if I go over here and find this? And they were out of their bodies too, although they didn't realize it like I did.
+	- And so that became part of my life growing up. So does that mean when you interact with somebody in a dream, you believe they are also out of body? I can't answer that question. I can only say what my experience was. And the question is, are they out of body? And I'm not so sure that we use the term out of body. It happens in the hospitals and dying events and everything else.
+	- And so we've classified that as, oh, you were out of your body. And then I say, wait a minute, Skip. Wait a minute. You're everywhere, every when. There's not a being in the body or being out of the body. So I had to just, well, maybe I shouldn't talk so much because I don't know what the heck's going on anyway. The next thing that was kind of like that, telling the story of the weird family I grew up with, which contributes to my eventual career.
+	- When I was older and was into high school and cars and stuff like that, I got a car from my dad's nurse. She gave me a car and I crawled underneath and started taking it apart and everything. My dad was really liberal. It was okay if I took stuff apart and the garage got dirty. He'd look under the car and say, how are you doing down there? Are you making any progress? Very much.
+	- And let me find out for myself and let me figure it out for myself. And got that taken care of. And then later, I bought my uncle's car for $100, a 54 Ford. And immediately, I went to the other uncle who gave me a 292 engine, which I had punched out 60,000s with a racing cam in it and so forth and so on. But there was something else going on. I could look at the car, laying underneath it and look at it and say, oh, I see what's wrong. The exhaust pipe bracket is loose.
+	- And it wasn't something that I could see physically. It was like I could see through it. And later in life, I learned they had a name for that called remote viewing. And I was like, well, that's pretty weird. I guess when you go to a mechanic to get your car fixed, that's why our mechanics know what's wrong with your car. Because they can do that just like I was doing with my car. Later, I found out that isn't what they were doing. Wow. That's part of this development thing that's happening in my weird family again that does it.
+	- And one more short story. When I was going to elementary school, my mom sometimes would pick me up from school. She drove an Oldsmobile station wagon that had the fake wood on the sides and the little hood over the top of the windshield. And she picked me up on this side of the street over here. And then she'd look up and down, and then she'd throw a big Yui to turn around and go up to where our house was. Well, one day when she turned the Yui, the door swung open, and I went floating out. And she turned to me and looked at me.
+	- And I floated back in. And then I reached over and got the door and closed it. And she said, you're always going to have to close that, you know, because it can open up anytime you want. And we didn't talk about it later. I didn't say, what was that floaty thing all about?
+	- How did you do that? And it was like, that wasn't up for discussion. It just, things happened. So that's the weird family I grew up in. And when it came time to get drafted, I'd gone to college and everything. And then finally I got out of college and got jobs, and I wanted to just go make a career. that came, what's the expression that comes through?
+	- And they said, greetings, you are classified 1A and we have a draft and so forth and so on. And the minute that happened, when I was going around to different department stores looking for jobs, they said, and so what's your draft status? Oh, they just got me in 1A here. And he said, well, we can't hire you. And I said, what do you mean you can't hire me? He says, well, if you get a job here and say you work up a little bit in management, you become a cashier and then you become a section of the store manager. And then you finally become the assistant store manager and you get drafted.
+	- They have to keep that position open for you. You have to be able to walk out of the Army afterwards and go into that same position, even if you're in the Army three years or whatever. So we don't hire people that are 1A. And I said, well, I know how to straighten that out. I walked down the street and found the recruiter and I said, I have to join the Army because I have to get rid of this thing hanging over my head. I'm never gonna get anywhere if I don't get rid of this thing. And he says, well, what do you wanna do?
+	- And I said, well, I don't know what's there to do. And he said, well, look at those brochures over there. And spend some time looking at that. See if you see something there that you'd really like to do. And so I went over and looked at the brochures and I saw this one, a blue one, a trifle blue one. And it said Army Intelligence. And I said, what about this one?
+	- This looks really interesting. Oh, I'm sorry, but I can't interview you about that. That's not what I do here in the recruiter's office. And I said, but this looks really interesting to me. I have some college behind me and speak Spanish. And I, what do you mean you can't talk to me? She says, he said, if you really want to know about that, I have to make an appointment for you down in Los Angeles to see some agents down there.
+	- Because they're the ones that have to decide whether they can accept you. What was the brochure? It was just a trifle brochure that said Military Intelligence. And it was blue on the outside. And I opened and read it. And that sounded better than being a medic or being a rifleman and getting shot or anything. So I said, well, let me go talk to them.
+	- What this is all about is, in my book, it says living with guidance. And we define guidance. There seems to be something moving me through my life that I'm not entirely aware of. It's just like, oh, okay, that looks, oh, okay. Now at my age, I say, oh, that's what that was. Anyway, I got into Military Intelligence. Well, what was it?
+	- What was Military Intelligence? No, what was the thing?
+	- I'm sorry, I didn't, I lost. What was the thing guiding you through life? Oh. God. If you use the word God, yeah. What do you use personally? You just use a hands motion.
+	- No, I only remember that. And my wife share it back and forth because we know where it comes from. It means we are all one. We are all there already. And we have souls there that help us and souls that can split themselves and go help other people. And they can be here and still helping you over there. We are the oneness.
+	- So I went off to school. And my mom has always told me, you're gonna be okay, but I don't wanna go to Vietnam. And you're all gonna be okay. And so I go through the school, learn how to interview people and be a counterintelligence agent, so forth and so on. And you like that? I say so forth and so on, just to fill in the blank there. And there's another one, this, that, and the other thing. So when it came down, and the assignments in the classes where they were graduating people in classes out of there, trying to make a lot of counterintelligence people, every other class went to Vietnam.
+	- And then the next class went everywhere else, Europe, around the US and so forth and so on. But it was something to worry about as you were coming up to graduation. And I got sent to another strange place called Alabama. So my first assignment was, isn't this interesting? And my mom used to say, somebody is always gonna take care of you. Yeah, mom, whatever you say. And I went to Alabama.
+	- And I know six months later, Vietnam was over with. And that began, what am I gonna do now? Well, as a corporal or a sergeant by then, I guess, every now and then I got the duty of the teletype. They didn't have other things besides teletypes at that time. And so they'd call me over the headquarters building and say, okay, this is your week on the teletype and learn how to use it and everything. Everybody here does that, so we all know how to use it. But what that meant is I got invitations to, how would you like to go to language school?
+	- How would you like to go to technical school and learn how to bug things? How would you like to do this? And I would take the ribbon out of the teletype and say, we have a volunteer for that right now. And so that's how I created making all of those particular things for me and went to language school and so forth and so on. Went down and spent some time in Panama.
+	- But- Let's rewind real quick. So it sounds like your mom had some type of ability as well. Yes. Did your father? Yes, but it was much more subtle. My dad was a quiet guy and he was subtle, but he was tuned in to what was going on. He was raised as, in the religion where they don't believe about going to doctors.
+	- I don't remember what the name of that is right now, but when he had a broken shoulder bone, his mom tied a red ribbon around it and that was supposed to heal it up. And yet he became a dentist, but they didn't call that a doctor. I mean, that's a dentist for goodness sake, that's not a doctor. So he was very gentle about things, but he was aware and I was very sensitive with him. And I think part of one of those things, as I said, he always encouraged me to try things out. And he let me paint a car in the garage and all I did was hang up sheets all around it. And I painted the car and he said, how did it turn out?
+	- And I said, oh, it's pretty good. Painted uncle's car blue. No, I had a 40 Chevy and I sprayed it taxi yellow and wrote taxi on the side of it. And they didn't like that driving around Glendale, California. And finally a cop came by and he said, we wanna talk to you about your car and the word taxi on the side. I said, yeah, what's wrong with that? And he said, there is no law that says you can't do that.
+	- There's no problem with it. However, all the people that are in the taxi business can't stand it because they think it downgrades their feelings about their own car. And I said, okay, I don't have a problem with that. So took taxi off the side and I think I sold the car for $75 to somebody or something. Nice. Did you have brothers and sisters? Two older sisters, yes.
+	- What about them? They were girls. They weren't as tuned in as I was to this whole thing but they certainly understood it. And as we got older, we'd talk about these things. They're both dead and we talk about these things and them going through their deaths and I was there with them and so forth and so on. And they respected, is that an expression? They respected me down.
+	- They knew something was different about me. It was four years to one sister and another four years to the other sister. So I was the youngest of the family. But as we all grew older as people, there was a different arrangement of the kinds of things Skip did and the kinds of things Sonny did and the kind of things that Sue did and so forth and so on. But yeah, they were different.
+	- What was different? What was different? They liked chasing boys and ditching school and getting in trouble for it. Did you ever hear any conversations between your parents about some of these abilities? No. There's a sidebar to that. When I got out of OCS and was on my way to go to the Pentagon, because I told somebody I wanted to do stuff with remote viewing, because I thought it was a threat.
+	- He said, well, we'll assign you to the Pentagon and you go find it as a lieutenant. You'll be somebody in the Pentagon that's on the night security voice and you have the access to everything and make sure people lock doors and don't leave classified documents out and so forth. I never actually made it there. Because somebody intervened. But the story about, did your parents ever ask you about things? When I told my parents I was moving out to the East and I would be in and around Washington and so forth and so on in the Pentagon and so forth. And she said, oh, well, if you're moving out East, you should look up Bob Monroe.
+	- And first of all, I didn't know what a Bob Monroe was. I had no idea. And so my thinking in my head was, do you know how many millions of people are on the East Coast? I don't know somebody named Bob Monroe. And what is she talking about anyway? And so I'm nodding to my mom, yeah, sounds like an interesting idea. But who was this guy?
+	- I didn't know. So I drive out there. And just before I left Fort Huachuca, Arizona, which is where I was teaching at the time, got a call from up at Fort Meade. And INSCOM had just moved half of their outfit to Fort Meade and the assignments officer called me up and said, we're changing your orders of going to the Pentagon. And I'm like, man, this guy arranged for me to go to the Pentagon so he could help me find out about remote viewing. And now these orders have been changed. And well, I guess I'll just have to forget about all that stuff called remote viewing and what I wanted to do and help the intelligence community and so forth and so on.
+	- And so I got reassigned up to Fort Meade and went behind the green door, as they say, is- Real quick, before we get into Fort Meade, how did you find out about remote viewing through the side of Army Intelligence? Thank you. I was teaching at Fort Huachuca, Arizona. And a friend of mine, Rob Cowart and I found Putoff's book, Mind Reach, where they published all of their remote viewing study, as much as the CIA would let them publish that. And I got ahold of that book and Rob and I would look at it. Look what they say in here about this. Both of us were counterintelligence specialists and doing inspections in different countries and so forth and so on.
+	- We don't check for this. We don't see if anybody is remote viewing our Army units. Ding. Something happened. And so I went to the colonel down there just before I went to OCS and he said, well, you keep your nose clean. You come on back here, Sergeant Atwater. I'll see if I can get you any assignment you want.
+	- You, when you come back here as a lieutenant, you be ready to tell me what you want to do. And so, meanwhile, months ago, Rob Cowart and I were talking about this book from Putoff and he said, you know, we were like, we're counterintelligence specialists and we're not doing anything about this. You know, we're not climbing in people's attics or whatever we do. So when I got back as a lieutenant, I went into colonel's office and he said, well, lieutenant, you're coming to me to tell me where you want to get assigned. And I said, well, sir, it's a little bit different than that. And he said, well, what's that? And I said, there's a book here by some scientists called MindReach out at Stanford Research Institute.
+	- And they're studying something called remote viewing. And he said, well, what's that? And I said, that's why I'm bringing you this book, sir. I think this is very dangerous and a threat to the counterintelligence work we do. And he said, well, leave the book with me, lieutenant, and come on back tomorrow and we'll talk about this. Came back tomorrow and he said, lieutenant, I think you're right. And that's when he reassigned me to the Pentagon, which I never got to.
+	- So that's the beginning of it, of how I got into remote viewing. Started back at Fort Huachuca with Rob Cowart, deciding this isn't right, we should be doing something. This is our job to watch this. And then things switched back and forth from the idea of not getting to the Pentagon. That wasn't the place I should be until the arrangements were made. And wound up at Fort Meade, behind the green door. And I was given a room behind the green door after I passed all my security clearances and everything, and dug through the safes in the room.
+	- And I reached down into this one and picked it up. Those are three classified documents on remote viewing. Wait a minute, I thought all this remote viewing stuff was done since I didn't go to the Pentagon like it was planned that I was gonna go do that. What is this stuff anyway? So I read through it. And Major Keenan, my boss then, was down the hallway and I came out and said, what is it, lieutenant? I wasn't the regular lieutenant because I'd been in the Army 10 years as an enlisted man.
+	- So they had a little more respect for me. And I took these in, I said, sir, I found these three documents here and they're all about remote viewing. And he said, oh yeah, Lieutenant Colonel Skotsko was over there. And he was very interested in that. General Thompson was the one that was looking after that. What was that all about? And General Thompson, in this story, becomes Major General Thompson later.
+	- And there's a term in the military called getting a grandfather, meaning there's somebody who's gonna take care of you and make sure you do the right thing. Turns out General Thompson was my grandfather because Keenan, Major Keenan, who I went to with these documents, knew General Thompson. And he said, I've got a guy in here that knows about this.
+	- What's his name? Atwater. He said, you let Atwater do whatever he wants to do. And I didn't know that was happening. But I knew General Thompson knew Kit Green and the CIA and they'd been working together and he knew all about this stuff that the CIA was doing. So General Thompson had his finger on me through Major Keenan. And he said, well, what should we do about this?
+	- Well, we should recruit some people to do this. And how are you gonna do that, Lieutenant? I said, well, I think we ought to interview some people that have security clearances so that they can do the kind of work we do at looking at the counterintelligence problem. That was the beginning before it was called Stargate. That was the beginning of doing this and working through this situation to get these people trained. Wow, very interesting.
+	- So how did you guys... Where did you start? I mean, a lot of people have security clearances. There's a lot of people in the intelligence world. It sounds out there. It is what it is. Yes. First, what we decided to do, my South...
+	- Major Keenan got another officer in and was gonna be my boss, because I was just a lieutenant and we needed somebody that was a lieutenant colonel to do this. And someone who'd been around in SCOM so that he could go talk to anybody he wanted and had lots of clearances and stuff. And so he was gonna be my boss and I was gonna be the remote viewing expert, which I had to invent, but that's okay. And we decided that we should survey the people around the greater Washington, D. C. area that were in SCOM. And we thought, well, they have to be assignable.
+	- They're, they can't be, there's a lot of people in the Army that I need to get, do this job now so I can get promoted then and I need to do that job here and we need to do that job there. And they build up a career pattern of jobs that they have to work out promotion. We had to find somebody that didn't think that way. So we looked at a pool of about 200 people around the greater Washington, D. C. area that were Army people and civilians, male, female. And we took newspaper clippings that talked about people who had a near-death experience and people who had this happen to them, newspaper-type reporting of psychic stuff.
+	- And we'd take it to them and say, the boss has asked us to come around and see whether or not people would think some of these people could help us in the Army some way. If they can do what they say, maybe they could help us in the Army some way. And we would both ask questions, my major and myself, that time just a lieutenant, and we would, this one would ask and then this one would ask and we'd see if they would agree. And then we would say, well, let's talk to them a little bit further. And then when we finished that process, we told SRI what we're doing and they made an arrangement to do a exposure of these people. And we were gonna pick three people. And I tried to use the word to train.
+	- He said, oh, no, no, no, no, no, no. We don't train people. We evaluate people, but we don't train people. Okay, don't use the word train when you talk to Stanford Research Institute. That's what I learned as a little lieutenant. And so I said, so for our orientation, we wanna do three people and meanwhile, we recruited these people by the method I told you of showing them the newspapers and some of them weren't the right people. And when we told them, we had six people selected that, no, it was like six or eight at that time that we brought in. They didn't all stay.
+	- They said, well, I thought I wanted to do this, but my wife wants to move and I can't do it and so forth and so on. Putoff and Targ heard about it and they said, well, we wanna interview them. We don't want you to select which ones. We want to do the interview with them to see if they're suitable for our evaluation. So they came to Fort Meade and we brought all these people in and Putoff and Targ and talked to them about it. And liked the people and shook their hands and everything. And then we went out to lunch, Putoff and Targ and Scotty Watt and me went out to lunch and they were whispering at each other and whispering at each other.
+	- And finally, Putoff said, well, I don't think we wanna take three people. He says, I want those six guys. Well, how about the agreement we had on how much money we had to pay you to evaluate the three people? He says, we'll do it for the same price. Those people sound good to us and we'll deal with them. So they eventually took the six people out there and then later on found the best three of those and had the three of them go back again.
+	- For example, Joe McMoneagle. What are some of the evaluations that you guys were conducting to find the best candidates? Okay, there's SRI situation, continue with that and what they did. What they did is they had people, somebody would drive away from SRI and then someone would sit back at SRI and get interviewed and say, describe to me where Dr. Putoff's gone. And then later they would bring that back and they would have, this is the true place he was. And then there were six, one out of six.
+	- And so they scored them. Another person, a judge, would look at what the remote viewer tried.
+	- I can't make 10 into six, can I? That doesn't work.
+	- And he would score them. No, it's not that one. This wasn't a racetrack. It might be that one. That's kind of a museum-like thing. And so they would rate these things. And they got 80% correct matches.
+	- For example, Joe McMoneagle. No, it was on the six altogether, meaning that the judge who didn't know where they'd gone or what was the actual thing about. And that is how we scored and decided who we were gonna choose and chose the ones that had the best to start out. Were any of these people, were any of these six people surprised that they were chosen? Were they, I mean, how do I describe this? Was anybody surprised at the program and surprised in the reasons you're evaluating them for? No, they already signed up for the program when they came in and they signed secret certificates of don't tell anybody about this.
+	- Your boss doesn't know what you're doing, but he knows that the boss tells him he has to go to Fort Meade today to do something and he's doing it for me. So they were on board with the program and they heard about going out to SRI. And we had those classified documents, for example, and they looked at those and they were interested in going out there and doing that. What was in the classified documents? There were a couple of them on Project ScanAid. They were things that had been done before, things that the Soviets were doing and was the first beginning published evidence that not the stuff that the CIA knew, but it was the beginning of Department of Defense stuff. It was published that they had been looking at lots of people around the world that are doing this thing.
+	- And why aren't we doing this? Do you know how we found out other intelligence agencies and countries were doing this? Who was the first one to adopt us? I don't know the answer to that. I don't know the answer to that. And I probably would have to say, I can neither confirm nor deny if I knew. What were they?
+	- I'm the lieutenant that discovered the scuff in the safe, went and talked to Dale Graff and so forth and so on. What were they? Can you tell me what they were remote viewing inside the U. S.? I don't know that. But it grew into something else. I mean, Joe's gone over there and been with the Russians and talked to them and played with them and they played with him and so forth and so on. Yeah, yeah.
+	- Okay, so six guys, six people, you guys took in. What happens then? Well, after they finished this evaluation, we had started working at Fort Meade with doing little outbounder things and practicing and so forth and so on of what was going on. So Scotty Watt would drive out in a car to someplace and then I'd sit over in the operations building and interview them about, describe where Scotty is now. And they would sometimes get hits and sometimes not get hits, which was good for Scotty because when they'd get a hit, he would say, I wasn't so sure this stuff worked, but I was the one that went out there and they described the tower I was on and such and so on. It was fun for him. I'll bet, I'll bet that would be a very unique experience.
+	- So I just wanted to tell you, we were working with the people and some of them came and lived in our offices there at Fort Meade and others would come from someplace and we'd make an appointment for them to come. One of those was Joe McMonigle. He was working down in Washington area and we'd say, can you come up on Tuesday and Friday? And so he would say, well, if you arrange for my boss to tell me where I have to be. And so he was part of that same thing, testing it out for himself and us testing how to run this thing. And three others, SRI wanted them back and they had some things that they wanted to try out. Can you read with remote viewing?
+	- How about if this happens or how about if that happens? What about if it's underwater? Would underwater stop it? And none of those things mattered.
+	- Or distance and everything. And one of the interesting things that happened as time passed, Pat Price was remote viewing for them at SRI and he had one target that he talked about, which was water, water tanks. And there's tall tanks and there's two water pools down here and it's a sewage processing plant. And so when they went down to look at the sewage processing plant, hopefully so the remote viewer could learn things he missed, well, how come he didn't talk about the red building or whatever? Turns out that it was a swimming pool. And it was like, well, you did get the water but there was these big towers of the sewage processing plant, so forth and so on. No space, no time.
+	- 75 years later, long after Pat Price himself died, the Menlo Park local government published a book of all the things that had been going on for years and years and years. And Russell Targ got ahold of one and opened it up and he was like, 75 years ago, that coordinate was not a swimming pool, it was a sewage processing plant. And there was the pictures of the towers and everything. First they were like, oh, that remote viewing was 20 blocks away. That remote viewing was when you went on vacation. That remote viewing was 3,000 miles away. And then this thing came up and it was...
+	- Remote viewing is outside of time. Pat Price never knew, because he died, 75, that that was a sewage treatment plant. Wow. So it was an awakening to the scientists to say, there's something more here that's going on than what we think we're doing at SRI. Very, very interesting. I mean, what is time then?
+	- What is it? It's that word that just came out of your mouth. Then what is it? It's a thing that we have invented to organize our lives on earth. You know, my cat doesn't know time and the birds don't know time, except when the weather changes, they're supposed to fly south and so forth and so on. But they don't think of time. And if I knew more about the history of cultures, different societies over time that have come up over the hundreds and thousands of years, they probably have lots of differences.
+	- I imagine weather and when you plant things and when you harvest things is a much more crude kind of interface with that. And you're not so concerned about, let's see, it's about. So that's a really good question. What is time? And my answer is, well, it depends. Who is keeping track of something and decides to say, you know, that's spaced out this way. The seasons of the year, except if you live at the North Pole and the South Pole, they're pretty much always the same season, you know, kind of.
+	- But it sounds like humans are the ones that are more concerned about time. Okay. Let's talk about some of your career in remote viewing. Right. Remember that I am not a remote viewer. I was the guy who taught other people how to do this thing called remote viewing and used my education in psychology to understand how people behave and how to reward them and encourage them and so forth. But I am not, by the definition of what a remote viewer is, I'm not a remote viewer.
+	- But you do have abilities. Yes. But I don't generally, and I wouldn't say those remote view, my abilities are remote viewing. And I generally try to stay away from that topic because I want to present myself. This is the way it was done. This is the way it was monitored. This is the way that it was validated, given to the Pentagon these answers and this much was right that they told us about.
+	- I like playing that role. Okay. As opposed to I do remote viewing too. Interesting. Understandable as well.
+	- How was Joe when you met him? Joe was kind of a complainer about I can never get this right and they're not promoting me fast enough and they should do this and they should do that. And that was bitching was his forte. Had a marriage that was breaking up. Boy, could he remote view, you know, so I, I love Joe. I mean, I really love that. He made the day he would tell me things and I'd be sitting here.
+	- How in the world did he know that? I mean, all I did was from major wad across the way he said, okay, well, here's what we're going to start on today. So one of the things we did was not always, but one of the things we did is I wouldn't know what the target was and it might be in an envelope or it might be a coordinate or whatever. And I would take it over to Joe. So I don't know. Most of the time. I don't know.
+	- And Joe didn't know either. And then I would take it back after doing one short session. You know, Joe would say, well, this is a cold area and there's.
+	- This is really cold. There's snow on the ground and it's northern somewhere, but it's a industrial area. There are smokestacks there and there are many buildings and so forth and so on.
+	- So I'd stop. That would be the end of the session. My man hadn't sketched some stuff and I'd go over to Scotty Watt and I'd say, sir, this is what we got today. And he'd open it up and he'd say, schedule your second session because he could tell me you're on track. There's something going on here. So it's an interesting situation. I have to diverge a little bit.
+	- People were talking about, oh, it's coordinates you use. Oh, it's a picture you use. Oh, well, let me say you can't use coordinates anymore. You got to scramble the numbers and make up a number and say that's the number still works.
+	- And how about this? And how about that? What I really think right now, maybe tomorrow will be something else. But there was a trust between Joe and I. When he and I were in that room, I didn't fool around with him. He knew that I knew the questions that the Pentagon needed to know. So I'd say, Joe, do you want to hold the envelope?
+	- Joe, do you want to hear the coordinates? No, because over the years there was a trust buildup. I'm in that room with him to do one thing, and that's answer some questions from the Pentagon. What kind of questions was the Pentagon interested in?
+	- Oh, lots of different things. Can you tell us, we've watched in Europe as the Soviets are moving their tanks forward, like they're going to go past the folder gap and so forth and so on. Can you ask where this is right now? And Joe would be able to say, well, yes, I see them moving, but they're all parked in garages. And so they would fly another satellite over. Yeah, they're all parked in garages. I don't think we have anything to worry about.
+	- There were many, many things that the Pentagon wanted to know. Somebody would have a particular problem that they're trying to resolve.
+	- And is it this? Is it that? I mean, you saw some of those things in the Third Eye video about things that they were asked, and our satellites that would go over every now and then. And then they said, we never knew that was there. Well, a remote viewer told it was kind of a thing. So that grew, too. Because of Scotty Watt, Scotty Watt knew a lot of people, and he could go to the Pentagon and go out to lunch with a guy and play golf with a guy and everything, and got to know that you could tell Scotty something that you needed to know, and he would bring home the envelope, hand it to me, and I'd do sessions with people, and then we'd send it back to him.
+	- So that built up for a while. Let's take a quick break, and when we come back, we'll get into Project 8200. Okay, that's great. Perfect. Join me and my special guests for the next behind-the-scenes experience exclusively available on Vigilance Elite Patreon. The behind-the-scenes footage is raw and uncut. This is as close to the set as you can possibly get.
+	- You can expect anything from off-topic conversations, studio tours, the final moments before the interview starts, and everything in between. The behind-the-scenes content is constantly evolving and will continue to bring you more as we grow. You can gain access for just $15 a month exclusively at Vigilance Elite Patreon.
+	- Vigilance Elite Patreon. com Project 8200 All right, Skip, we're back from the break, and right before we left, we were getting ready to get into Project 8200, but you had mentioned an important point that you wanted to bring up about how the remote viewer knows what to focus on, and that sounded like in the middle of their journey or experience.
+	- What do you call it? Yes. Is it an experience? I think it's the only words we can use for it in our mind, in our vocabulary, I think it's probably an experience. I don't think intellectually they think they're going anywhere. They know they're sitting in the room with me, but they're having an experience in some way. Okay. Now, they sometimes may describe, well, I'm going to go over there now, and I'm going to look at that, but we shouldn't take that too strongly.
+	- They're still sitting there next to you. Okay. All right. Did you see that video about three-eye spies or whatever that was, third-eye spies? I did not. Okay. So that's perfectly okay, but it has to do with the way I would tell a story, because otherwise I would say these things, and you would say, oh, yeah, but you're not going to do that. Okay. Excellent. So I discovered recently something that I had not given a great deal of thought about, and I've been in this business a long time, and I was like, whoa, this means something.
+	- Regardless of what happened, this means something. So the background to this is that in the days of Putoff and Targ at Stanford Research Institute, they obviously had a contract with CIA, and Kit Green was the guy in CIA who was kind of watching them and was in charge of what they did. And then he would take the results that they would get in their evaluating and testing and studying, under protocol, this idea of remote viewing. And he would take and show some of the results to his people at the CIA, and they started to think, both Kit Green and other people at CIA, was starting to think, how do we know that they're sticking with protocol, and how do we know that they don't have some other access to the targets that their remote viewers are getting? So he decided he was, him, Kit Green, was going to come up with something that would prove to the other people that were questioning him, you know, this stuff is garbage, it doesn't work, it doesn't make any sense to us. He keeps telling them about it and everything. So he decided what he was going to do is he was going to go to another friend of his in the CIA and go to him and say, I want you to give me a set of coordinates, geographic coordinates, that I have no knowledge of it, I know nothing about it, I don't know what it is.
+	- And he said okay, and he gave him the coordinates and he said, so I don't know what this is, that means nothing to me, I don't recognize it as being the Eiffel Tower or anything, and he says, that's right, you won't know what this is. So he passes that out to SRI, and SRI comes back with this, it's a very elaborate description of this place, he says it's very secret and guards and fences around it, and I went inside and I looked through safes and on the wall this was written, and opened up the safes and read what the words and names of the files were, and end of session. And so when he gets that back from SRI, he takes it over to his friend, whose name by the way was Dave, the CIA at that time, and he started laughing, he says, this nonsense that you're doing kid, it's just nonsense, it's ridiculous, and he said, what do you mean? He said, I built a cabin last year and fixed it, and I gave you the coordinates to the cabin, and he went to his other friends and said, this is what SRI told me, and they're all like, you've got to be kidding, and he says, no, that's a real place, and nobody knows about it. So he got in his car and he drove physically to the coordinates, up in the mountains, found this guy's cabin, and said, what is going on here, this makes no sense at all, and he turned around and went down 100 yards down the road, and there was a well-cut, well-groomed road, and he turned up there and came over a ridge, and there was Sugar Grove. It was in the late 60s and 70s, the Navy's installation for monitoring Soviet satellites. Which actually physically doesn't exist anymore.
+	- Never mind, that wasn't ever there, but we have pictures of it, and you can look up Sugar Grove online. So I need to try to add here, when he went in, he said everything had to do with the names on things and the files and so forth had to do with playing pool. There was a cue ball, a nine ball, an eight ball, and this and different kinds of shots and everything. And when he showed that to his other CIA friends, he said, all those are top-secret, classified, limb-dis names. Those are real names of a real project of Sugar Grove. And it was like, how did that happen? Well, because he had given, this is where it twists up a little bit, but I'll get back to it straight.
+	- He had given that to SRI and was expecting that either Hallihammer or Ingo Swann would do the job, and they were going to look at it with one person and so forth and so on. Turns out that Pat Price was hanging around. He said, you guys got something going on here? Here, I'll help. And he was that kind of a guy, you know. And it was Pat Price's work that wound up at Sugar Grove and read those names that were top-secret password names for everything that that Navy installation did. And they immediately showed up in Kurt Green's office angry and mad.
+	- And what did you do? And we're going to have to investigate this. There's a leak in your department here and this and that and the other thing. And he said, SRI did it. I'm California. And then as sort of a joke and an enthusiasm when Puthoff describes this thing going on, he says, I'm trying to remember exactly what he says, every law enforcement person in California showed up at SRI because they were really angry about all this information leaking out. Well, the point of this whole thing is all that stuff happened.
+	- It's very well documented. And what is it that when here was the target assigned by the coordinate and over here was Sugar Grove, when he got sent here, supposedly, here's your coordinates. Describe what's there. And, you know, Putoff and Tart are trying to do their best and get good protocols and everything. And it's a boring, I'm going to make up some words because I don't know what to say. It's boring. But they say, I wonder what the hell that is over there.
+	- And so Pat Price goes over here and finds Sugar Grove. So I started thinking about this situation in remote viewing and everywhere, every when. How do you know that that is a thing of interest? What is it that attracts you to that? As opposed to following the rules, I want you to describe that cabin in the forest.
+	- That's what your job is. Here are your coordinates. And yet he goes to Sugar Grove and pretty much scares the bejesus about the CIA and the Navy at that point in time. So I started thinking about that in terms of all the remote viewing I've done and many others. If the theory of quantum non-locality is true, that there is no time and there is no space, what is that next? I'm using this skull of mine, which makes no sense, but it's a good graphic. What is the next twist that gets the remote viewer to describe that interesting thing?
+	- And how many times has that happened in the hundreds of thousands of remote viewings that are going on in the world? And somebody says, that doesn't make sense. We asked you to do such and such and you did so and so. Did they give any thought to why in the heck did he do so and so? He usually does really good work. Why did he describe that? I'm still chewing on that.
+	- This is less than a month in my head about this particular interesting thing. How does that happen? When you wanted to go over to Project 8200, how did Pat Price go and look at those things? Nobody told him to go look at that. He just was that kind of a guy that was attracted to go look at those things. He says when you talk to him, we used a policeman down in Burbank. He said, oh, you know, the detectives would come in and they would say this, that and the other thing.
+	- And he said, I'd kind of roll my head back and say, well, you know, you really ought to check out this. You didn't tell me you guys checked on that. He said, OK, and he said he'd be unusually right about those every now and then. And so he kept headed in that direction. This Project 8200 thing was something that I did because Pat Price walked into SRI and his normal working there in the early 70s. Having come up from originally down in Burbank, he then lived in Northern California. But he would come down to do sessions because Putoff and Targ checked him out. And so he would go in and he would do things, but they had to control him because he was a gregarious wild cat.
+	- He was not a good, he was just uncontrollable in terms of what he would do. And he came in and on Putoff's desk. He said, you might be interested in this. I've been interested in this for a while and I've found four UFO bases around the globe. And so you really ought to look at it.
+	- Four UFO bases. Yes. And this just came in just completely random one day. This bag comes in and there it is. Four UFO bases around the world.
+	- Where were they? Or where are they? Yes, they're still there. This all happened 50 years ago, a little bit more than that now. Mount Inyangani, which is a country in Africa, isolated country.
+	- Mount Hayes is up in Australia. Mount Perdido is on the border of Spain and France. And then there's one in Australia, which I can't quite remember the name of that up in Australia.
+	- Hayes is in Alaska, correct? Hayes is in Alaska. Okay. But Zeal, I think, might be the one down in Australia. So this was an interesting problem for Putoff to deal with. He says, yeah, actually, you know, we're watching Pat in our program here and testing and evaluating our program here at SRI. These look interesting.
+	- What is it about this that, you know, pulls me to it? So it turns out that he calls up a friend of his called Ken Kress and says, I'm sorry, Kit Green, and calls Kit Green. And they're friends from a long time ago when they were junior officers.
+	- Now, Kit Green is in the CIA. He went that way. And Putoff went into being a research scientist.
+	- But they're really good friends. So he calls up Kit and says, could you do me a favor? And he said, what's that? Well, I was wondering how things are going down in Australia. Do you know who the case officer is down in Australia, the station chief or whatever you call him? And he says, well, yeah. He said, well, I'm just kind of interested in what things are like in Australia now.
+	- I'd like to maybe go down there someday. And so he says, well, let me give him a call. So a couple days later, he calls back and says, yeah, I talked to the station chief down there. And he said they really like it. They get along with the Australians just fine. They share things and work together on things. And I really like it here too.
+	- I hope I don't get reassigned very often. Well, there is one thing. It's all those UFOs up north. And Putoff is like, oh, well, that's kind of an interesting thing. But otherwise, you really like it down there. And Putoff wasn't going to say anything. He says, you know, we ought to get together next time you're back in the States here.
+	- We'll go out and have a beer again. Remember how the good time we had when we were young officers together? He said, yeah, let's do that. Let's get together again. And so then Putoff had those on his desk and told Pat, don't ever do this again. Go get working, not to do things alone. You have to follow protocol.
+	- We're being paid by an outside agency. And we have to follow our protocol, else we'll get fired. So you need to not ever do this again. Only do the things that TARG is working with you in the interview room next door. You do what things we're telling you to do so that we're in control. And we can tell the CIA what we're doing. You know, that's a very interesting demand considering it's all done in your brain.
+	- That's telling you, essentially the same thing as telling you, don't think about these things. I'm your boss. I tell you what to think and how to think.
+	- How did Pat respond to that? Well, I don't think I know the answer to that question. Okay. But he shrugged his shoulders, and I'm sure because of the maverick that he was, he didn't much care about what he said. Probably motivated him to do more. Right. Who knows?
+	- My kind of guy. So anyway, Puthoff keeps it in the drawer, and then he waits because this is a big hullabaloo and people whispering to other people in the office and all of that. And so he waits and he waits and he waits. Meanwhile, Puthoff and I are becoming good friends. He, you know, I would go out there and check on the training and check on this and everything. And they'd always take me out to dinner and do this and do this. And finally, I said, you don't have to do this.
+	- I'm with you guys. You know, I know I signed your checks now. That's what I'm doing for a while because my boss left and now I'm the boss of you. I forget what you call that when you're the person, case control officer. I don't know. Anyways, so we became more friends after a while and could visit and talk about things without him doing his job of taking care of the guy that came from Washington and making sure we take care of that guy because he's the guy who obeys us. Don't do that.
+	- And time passed and he called me. I have a different program that I run back at Fort Meade, which I think I've explained in some of the papers. I said, if you're not doing something because you're at war or having something you have to do, you're practicing on that. You're doing mock things that keep you in good training. You don't just lay around on the ground.
+	- You do PT. You do all sorts of things.
+	- So I had what I called a challenge program that I did when I had remote viewers that weren't too busy and they didn't have something immediately to do. I would come up with challenge targets, like send them to a very confusing museum that went around in a circle like that and see if they could figure that out. Because you'd be looking at this direction and then you'd turn around and look that direction and it would pass 50 years in time because you're supposed to walk through the museum and look at the things. So those were challenge type targets that I did, several different kinds. So I took – Puthoff gave me all of Pat Price's transcripts on the things. He said, do you think you could use this in a challenge target training? I didn't need the Pentagon to tell me to do it.
+	- I was the operations and training officer and that's what I did. Operations and training. On the training side, it was challenge targets. So I worked up a set of plans for taking the transcript and creating the names of the mountains where these UFO bases were, underground UFO bases were, and then did a series of challenge targets. Four of them with Joe who does an ERV thing.
+	- He just lays down and talks. The other people trained by Ingo Swann and they have this very complicated structure to do their remote viewing. And so I had six of those, I think maybe five. And then we had a couple of people who kind of did their own thing. And this was ten years after. That's why I call it Project 8200 because it was 1973 when Pat Price did this. And then Puthoff gave me the material here after, in his opinion, things quieted down out there and people weren't talking.
+	- And so the Project 8200 is those challenge targets of asking Stargate remote viewers, giving them coordinates to go to and have them describe what's there. What did he... And so these bases, were they part of the challenge targets? I gave them the coordinates that Price had said, this is where I was looking. So I took those coordinates and I told them to go look at these different coordinates and see what they found there. The Stargate remote viewers. So before we get into what they saw, what did Pat see at these bases?
+	- He described them as inside areas where four different kinds of groups of people who had different duties had inside places, that they were inside these mountains. What do you mean four different types of people? Races? Genders? What are we talking here? Just different projects that they're on? Yeah, these four bases had different stories.
+	- I can read them to you what they were. They had different jobs that they did in four different bases. And so he would talk about, well, I'm going to go over to Mount Inyangani now and I'm going to look at Mount Hayes. And so his... This is another thing that we talked about before. He just would go to this place and say, well, this is very interesting over here at Mount Perdido, but I think I'll go back up to Hayes and then his thing would change. And we had to go through the transcript very carefully.
+	- Where is he supposed to be talking about now? And then going back to the discussion we had a minute ago, how did he know which one to go to? And it might be more interesting and so forth. And that's just in the back of my mind now, so to speak. Silly the way I talk one way one time and say then in the back of my mind, which I know it's not in there. Anyway, so the main thing that there was some interest in when some people would read this and say, oh my goodness, they're terrible. They're invading us.
+	- They can do this and they can monitor what our radio things are and do this. And the single thing that seemed Joe came up with this is first he was worried about this whole thing in terms of him being a military man and wondering about what's all this going on here. But by the time he got through with going through all the targets, he says, you know, they just don't want to be discovered. They don't want people around the planet to know that they're there. They don't want people hiking up the mountain and saying, hey, you guys, what are you doing here? Who's they? It depends on which thing you win, and I don't believe all of it.
+	- In other words, there's lots of things that they say, like one of them is their home base is Mars. And I don't necessarily believe that, but other people have said something about that. So I'm looking specifically at the material I have and not adding in things that other people have said. So what is the material that you had on these four different locations?
+	- What were they? So we're moving to the next phase. And let me try to make sure I understand the question you're asking is that the only thing I had to start with was prices transcript that put off gave me right. And I changed them into questions. So what was what was Pat's transcript? Specifically, what was going on at these four different locations, the one in Australia, Alaska, Spain, and the location in Africa? Joe started out on his thing, and he usually lays down and then he gets up and comes to the desk and draws for me and explains the drawing.
+	- Meanwhile, I'm tape recording the whole thing. So he says this is for Mount Hayes in Alaska. He says, OK, before I describe these pictures here, I have to make a statement. You have to bear with my descriptions and everything, what they lack, because I can't find a lot. I find a lot of difficulty in describing this because I've never seen anything that remotely resembles this part of the target. Now, he doesn't know he's looking at prices, sealed envelope and all that stuff. I've never seen anything like it, just have no familiarity with it.
+	- I mean, I don't even recognize the screws and bolts of this thing. It's just completely off the wall as far as the target. So I have nothing to relate to. So I have to present it as I envisioned it. And I ask him, what do you mean by off the wall? It's brand new. It's never existed before.
+	- This is a prototype of something, something completely new concept. It's like asking an Aborigine who has never seen an automobile to crawl inside the automobile and then describe in his terms.
+	- What's an automobile? When he has no terms for screws and bolts and seat covers and windows and glass and metal, even the most rudimentary parts of this thing have no meaning whatsoever. And so we kind of knew he was in trouble. Let's see here. This is the kind of position I'm in.
+	- I've seen something. I have not even a rudimentary term to explain as far as other than a Gestalt concept. And you're really asking me to draw this? So how and why my drawings are not going to be very good?
+	- Skip a little bit. Given that's true, here's page one. I have a bunch of water, land, ice, all these general things written here, my sketch. This is generally a very desolate area and drew a mountain range, wrote mountains. This whole range of mountains extends for thousands of miles. So I'll give you an idea of the scale of which I'm drawing and sort of put an X here where I perceive the target to be. So, you know, he goes on in his full transcript about Mount Hayes, an icy covered mountain and so forth and so on.
+	- He has a lot of them. And I want to read you—you've heard of different types of remote viewing. Joe just lays down and talks, but then Ingo Swann tells this story about you have to put them right across this way and then go down here and write that, go down here and write that. It's Ingo's technique of trying to keep thoughts and ideas organized, which makes me wonder about this whole idea of you're everywhere every when. And Ingo, although didn't speak of it that way, tries to get you to organize these different things so that you'll stay focused on something and not try to describe everything. Anyway, this coordinate remote viewing here, the whole point of this exercise, other than challenge target, is to say that thing that Price did in 93 and underground UFO bases and everything, is that a bunch of garbage? Or is there any idea that maybe some of the things that he said were really true?
+	- And so the result of my thing is like, that sounds pretty darn good. Ten years later. So this, I'm going to read this as a summary of one of those people that did the remote viewing by Ingo Swann. He didn't do it, but one of our trainees.
+	- His name was Bill Ray. Sight is a mountain. It is bitter cold and windy.
+	- Much snow, much wind and snow. There may be partly or completely frozen body of water nearby. The mountain is hollow. It is a large cave or crater. This has huge rooms and walls, curved high ceilings. There is an opening into the caves. The cavern is clear, sterile.
+	- There's equipment and different points there in the corridor. Some of the equipment is for monitoring. Other support may be for life support. There are silver metallic ships, which are very quick. They are durable and are large and small. They are used to transport people and equipment. There are some people here.
+	- They are thin, emotional, unemotional, and have programmed feelings. They are strange and have a pre-designed mission. They are freezing and cooling, semi-isolated. They feel unearthly. The site has a research feeling, a feeling like security. The people are benign and serious and are interrelated, sight-end. There are several of those.
+	- I only brought one because of time. What I did in 8200 to find out about what Price did in 1973, some people have said to me, Oh, that's perfectly, it matches perfectly. I'm saying, I'm not ready to go that far, but it sure sounds like you have two people and they describe what it was like when they went to the football game. And this one describes what it was like going to the football game. They're not going to be exactly the same. And I think that's what's playing into it here. These are all different people trying to explain this strange thing that they're seeing while remote viewing. Programmed thoughts.
+	- What is that? Did he expound upon that at all? There is a different concept that these programmed thoughts people can use telepathy to tell you to turn left instead of to turn right, or you don't see anything here. Some sort of programmed telepathy. One thing was an interesting thing. I was asked, well, people have gone up there, people that are UFO type people have gone up there and looked around, but they can't find how to get into the mountain. And my wife said, What makes you think they have to get into the mountain?
+	- I mean, they can. There's lots of things on different things are being proven now. They can walk right through them or they can use this programmed thing and not let you see where the cave begins. That was one of the things people were certainly worried about. And somebody said, well, wouldn't some investigators, some intelligence people go up there and find out if this is true because there's all this going on? And I said, I don't think, I don't know, but I don't think they'd tell me if they did. Now, what about you had said, you had just mentioned maybe they programmed, they used the program thoughts to conceal the entrance.
+	- What are you speaking of when you say people can walk through things? Well, first of all, what is the name of that place that they're showing on TV now where they're studying that place in the mountains where they're watching?
+	- I'm sorry, I just can't remember right now. But they see lights coming down and going in here and then going through the mountain and popping out over here. So we have these days physically watched that happen. And the idea that, it was just my wife's comment, it's just what makes them think they have to, they couldn't go through the mountain. So a softer way of saying that is they could be controlled so they can't see where they go in the mountain. But there also are real films now that show that happens. How do you articulate that?
+	- How do you, what's happening there? How is that happening? I watch it on TV like everybody else does and I see it come down. And it's been going on for quite a while. I think you must have seen the programs. I just can't remember the name of them right now. But they, how would I, what do I think about that and how they do it?
+	- I don't have an answer. I know that it's been videotaped, that it's been documented by a lot of different people and they bring in experts in to try to figure it out. And what you see in the films that they make is it goes through over here and it goes out over there. And when I watch it, I'm saying, well, look at that. I don't have the wherewithal, other than whatever they're doing, it's something we don't know about and that's what they're investigating. Well, what about the, so this was Mount Hayes, correct, that we were just speaking of? We're talking about Mount Hayes in that situation.
+	- What are they, what are Pat and Joe saying about the other three locations? Were they identical? Were there any variations? Yes. I don't have that here in my notes. I have it all written down at home. Do you remember any of it?
+	- It's well documented in my books too. If we're talking about this particular set of beings, in the 8,200 beings, I remember that they... would reportedly, would interfere with... one of our aircraft that would go over and could take satellite pictures in that range and that satellite would have some problems because they didn't want anything to be captured or photographed. They didn't want, it was very important for them not to be discovered. Interesting. And again, they don't seem to be...
+	- dangerous or concerned with hurting us in any way. Just don't get discovered. But they got discovered. Well, in this particular case, with the help of Pat Price and 10 years later with a follow-on of these remote viewers looking at it. Had anyone else other than Joe and Pat remote viewed these locations? Yes, they... I had seven, six... Joe and...
+	- Joe did all four places. Pat did it. But then I had these other... coordinate remote viewers or controlled remote viewers. I had six of those. And that's what I read you when I read you this. Okay. So, with everything that you know about this and, I mean, you set up Project 8,200.
+	- I mean, what is your conclusion? What are these? We have to ask the question softer. My job... I was an army officer at the time and my job to do... these kinds of remote viewing things. This wasn't tasked by anybody but me just for training purposes.
+	- My results are these look very similar to what Pat Price did. I think that there's a validity to the Pat Price work and the work that they did. But when you take one step further is, well, what do I think about them?
+	- What are they doing? And how can they do that? And what this is. That wasn't my job. That wasn't something that I know about. It's... pretty weird stuff.
+	- But it was... It's pretty weird.
+	- Weird, all right. Project 8,200 was about checking out what Price said. And my remote viewers said, well, interestingly, it matches pretty interestingly. So, we're talking six to seven different remote viewers all remote viewed these locations and said something very similar to say. And has there been any reported activity from civilian population, news, media, anything from any of these locations? Apparently, it is a common thing in those type of people that are UFO people or running around. There's many, many, many people who have big opinions about UFOs and want to talk about them all the time.
+	- Those people seem to know about this too a little bit. And I don't deal with talking to them. What is your opinion on UFOs? Are they real? I don't know how to answer that question. It isn't part of my job. And I hear you trying to suck about, suck things out of me in terms of, well, what do you think?
+	- Well, what do you think? And it's like, I think I did a pretty good job organizing how to find out what Price did.
+	- Do you believe in UFOs? You're really good in your questions. I wanted to read you a little bit of this later. If I try to sidestep you like I'm doing right now, then you're going to draw a conclusion.
+	- Ah, I know what he's doing there. He really believes in them, but he doesn't want to tell me. On the other hand, I can say, it's an interesting subject, or I can talk more about it, or I can say, I can neither confirm nor deny. And so there's lots of different things. Do you want me to tell you some stories? Absolutely. When I was a very small child living in California, I was a kid.
+	- I was out in the front yard with my mom walking around. The ivy that my dad had planted, so instead of grass, so that he didn't have to cut the grass all the time, just had the green ivy out there. Big, huge field of green ivy. And I looked up there and said, Mom, what are those five silver things up there? What are those things? And she just said, Oh, they call those UFOs.
+	- Don't worry about them. They're fine. And another story from my weird family. Ingo Swann had some encounters with a UFO on the ground, and he snuck over a mountain and watched him and so forth and so on. And I asked Putoff, Do you trust what Ingo says?
+	- He says, Yes, absolutely. Ingo will never lie. He'll have mistakes and look at this and look at this. But if he says he was there, he saw one. When Joe and I both worked in Stargate together, same office, I had an incident where I was on top of a grassy knoll, which I now use to explain as...
+	- Again, forgetting the name. I actually have a picture of it. It's important to say this name. There it is. Lawrence Livermore National Laboratory.
+	- Do you know what that looks like? I don't. It's outside of San Francisco.
+	- Lawrence Livermore National Laboratory. Anyway, so...
+	- Do you mind if I text this to myself so we can put it on the screen? The story that I'm not telling you is about my actual encounters with UFOs. So Joe and I are both working in... Stargate. And one night I have this very strong... I'm standing on a grassy knoll area. And I'm looking around and there's lots of people, just regular Joes and Janes.
+	- Is that a good way to do that? Regular people there and I'm looking around.
+	- And there's a sense of... sort of being hypnotized during this zone. I wish I knew that name. Do you know when the healers down in South America go around and fix your ears and fix your eyes and stuff? They're all kind of mesmerized.
+	- In a trance. Mesmerized, right? Well, these people that I was standing around with on the grassy knoll area were all sort of mesmerized. And they were like looking around and there were aliens in between them, like interviewing them or talking to them and so forth. And I lost my composure because I was doing training in remote viewing and out-of-body stuff and all that. And in my thing, I spoke up and said, well, I teach people how to get out of their body. And the aliens looked over at me and I said, ah, shit, why didn't I keep my mouth shut?
+	- And they came over to me and they brought over to me a little... This is too big. It was just a little tiny thing that was round like this and had a needle thing here and in here there was a... filled with fluid of some kind that was the color of... kind of brownish color and it was much smaller like this. And they came around to me and circled me and I'm still probably a little mesmerized again by that time but I was like, I realized I said something that I shouldn't have said. And they stuck it in my leg and squeezed the brown part and I floated up into the air and they said, kind of like that.
+	- And I was like, the other people and other aliens didn't care. They looked up, you know, and said, hey, what is he doing floating? No, they didn't. It was, you know, they didn't, because of their mesmerization, mesmer, they didn't seem to care too much that I was floating up in the air and so forth and so on. Now, this is a dream or this is real or... Let's just say this is an experience that I had.
+	- This is an out-of-body experience. So you had an out-of-body experience in a grassy knoll. Let's... Is that correct? No, let's not jump to conclusions until I come to the end and then I'll say I give up. But... So, I had an experience and my experience was I was on a grassy knoll and...
+	- the next morning I wake up and I go to work at Fort Meade and Joe's in the office with everybody else and I walk by Joe... Well, I'm sorry. Joe was there. Amongst the other people, Joe was there and I saw him there. So... In the experience? Yes, I saw him in the experience. So I...
+	- With all the other people and the little aliens. So I went over to Joe and I said, Hey, Joe, can I ask you something?
+	- He said, sure, what do you want? And I said, I was wondering if anything happened to you last night. He said, no, just all those aliens that you and I were with. I said, okay, thanks. And I turned around and walked out of the office and Joe and I to this day have never spoken of it again. Why have you not spoken with him about that? I don't know the answer to that.
+	- But we had talked about it. Now, I did talk to... Putoff about it.
+	- Sidebar, Putoff really believes in UFOs. Okay? Coming back to Putoff, I said... I told him about my experience. Didn't tell him about Joe, I don't think. And he says, was it up at... What was the name of that place again? Mount Hayes?
+	- No, no, no, no, no, this... Oh. I don't know. Okay. Okay. He said to me, was it at the Lawrence Livermore Laboratory? And I said, really, you think it was there?
+	- Because I knew where that place is. And he said, well, there's a lot of incidents up there that get reported. And that's all he told me. But he knew about the Lawrence Livermore thing, so I started looking up pictures. And I said, that looks like a pretty darn good grassy knoll.
+	- Very, very interesting. So, when you asked me about that, I was reluctant to say anything about that.
+	- And I have... had a discrete out-of-body experience. And found myself... in the... It's hard to talk about dimensions, but I was standing behind an alien in a spacecraft. Just a small one, which I understand... get bigger and smaller depending upon...
+	- at any rate. He said, you shouldn't be here. And I said, I know, I realize this is a strange place. But before I go, could I ask you a question? And this is... really a very strong memory.
+	- Excuse me, in my head. I don't remember what I had for dinner last night, but this is in there. I'm telling myself I'm silly again. Dude, it's not in there.
+	- At any rate... And he said, OK. And I said, how do you get from here to Alpha Centauri? We can't do that. The only thing that we think about is I have to go really fast for a really long time. How is it that you can go to Alpha Centauri without any problem? And essentially he said, you wouldn't understand.
+	- So I said, I agree, that's a problem. However, I know that you have access to my mental thoughts. I mean, that's... You're not talking to me with your mouth. You have access to my mental thoughts, and I understand that. Can you use what information I have in my head and try to explain it to me? And he said, well, do you know what a Rubik's Cube is?
+	- And I said, oh yeah, my son can do them in two minutes. He says, OK, so imagine a Rubik's Cube, but not necessarily just the six sides. Just imagine the concept of a Rubik's Cube. And I said, OK. Now imagine on each one of the tiles on the Rubik's Cube has a chart of the elements, an elemental chart. And you say, oh yeah, I know what that is. I've had science in school and everything.
+	- He says, now, on each of the other five surfaces, there's also elemental charts. And I said, so, OK, but what's the deal? And he said, well... For a very long time, what he didn't say to me, which I'm thinking right now, there's no space in time. I'm only thinking that right now. That wasn't part of the explanation. And he says, so what you do to get up to Alpha Centauri is you just twist the cube.
+	- And I said, what do you mean? He said, well, I told you you wouldn't understand. And he said, when the periodic table occurs in a different place, you're at that place. And that's just a very crude explanation. But you have to stop thinking about, go that way for a long time, very fast. It doesn't work. And so, you know, the Rubik's Cube and all that nonsense is probably just trying to mess with my mind and everything.
+	- because that doesn't make, how many Rubik's Cubes do you have to have? You know, it's a stupid question. It's just an explanation for me to try to get my thinking straight. Because he was very strong when he said... So it has to be utilizing some type of a consciousness. Correct? I think that that's absolutely true.
+	- It's a consciousness act. And so, you're talking about quantum, what was it, quantum locale, correct? Yeah. And so, there has to be some kind of a connection. If you heard of, what is they call it? Man, now I'm having problems. Quantum entanglement.
+	- It has to be something like that. I mean, our entire conversation you've been talking about, everything is one connect, how everything is connected. And so, I mean, even the Chinese have claimed to be able to communicate with their satellites now via quantum entanglement, whether that's real or bullshit, I don't know. But supposedly the premise is every atom is connected and we've talked about this several times on the show, if you split an atom in half and you vibrate this half, no matter where in space and time, the other half is, it will mimic the exact same vibration that's being manipulated on the other half. And so, that has to be, that has, oh, I guess it doesn't have to, but I would think that that would come into play. Well, we're trying very hard to think about it as humans in our little brains, but then there does seem to be help coming along like this. Just to end this part of the story, there is no end, there's no space time.
+	- Time passed and it occurred to me, wait a minute, I don't have to twist the cube. If I just turn the cube on the other surface is a different world. And this same guy spoke to me instantly in my brain, and saying, I've been waiting for you to discover that. And it's not like he didn't ever go anywhere because you can't ever go anywhere. So it was very interesting to me, you know, one minute, gee, why did you wait three years to tell me that? There's no such thing as the three years to think about, but it was like, sat me up like this, and said, I didn't say anything in my head, I was like, well, that was pretty interesting. And so getting back to your question, do I believe in UFOs?
+	- I have had experiences. So I guess it's just a matter if you trust your own experiences or not. Yes. Do you trust your own experiences? Yeah, but there are false things around all the time, you know, green ice cream is no good for you, you ought to eat vanilla, you know? So is that a belief system? And I say, somebody told me one time, you shouldn't eat green ice cream, you know?
+	- So I'm where I am right now at 77 years old and the experiences I've had, I have no doubt that there is something going on besides us on this planet, there's something else there. And maybe because the everywhere, every when, and if they are all one, there's no such thing as, they're part of us, they're part of our family, they're part of our group. Interesting concept that I've not heard before. Do you have any other, how, how far down the rabbit hole did you guys go with this?
+	- Were there other projects other than 8200? Of that type, no, I mean, you're. I mean, I remember when I interviewed Joe, he had mentioned remote viewing a pyramid on Mars.
+	- And I believe the year was 2000 BC. Do you have any recollection of that? I sent Joe to Mars. You're the one that sent him there? Mm-hmm. Can you just kind of relive that experience? Actually, let me start with a preliminary question.
+	- How did that pop up on anybody's radar? Why did you even give Joe a specific grid coordinate on Mars with a date? You know, I don't remember. Right, I mean, I even have that on video and the whole thing on my computer, which I'll send you and you can listen to it. But I don't remember actually why I did that. You don't remember why somebody gave you a coordinate to have Joe McMonagle remote view Mars? I would rather say what I just said, and that is I don't remember why I did that. Okay. What did you think when Joe discovered the pyramid through his experience?
+	- Well, I tended to believe him on a couple of things. I had, during the thing, he... This might have had something to do with put off because I asked some questions about it of put off. Anyway, the planet is a different story. It's a different size than ours. So you had to be careful about what he said. One time he looked at the sun and he said, what's wrong with the sun?
+	- I said, Joe, we can't study that right now. We have to look at this coordinate here and the coordinates on Mars all go just in one direction, east, west, north, south. But they, you know, us, we split this way in our east and west, but on Mars, it goes the whole way around. I got goofed up for a while there. And then I remembered coordinates don't matter anyway. He's just doing what he's doing. If I say it, you know, go check out the peanuts, you know, okay.
+	- Wouldn't mean anything. And then he came back down and I said, you know, go over there and go over here. And then he said, Mars used to be a good, used to be a healthy planet, but it got hit by something. And I said, are you saying it was something exploded? Something was destroyed? He says it was like an asteroid came and hit the planet and that tore the atmosphere off of it. And for millions of years now, it's just been deteriorating after it lost its atmosphere.
+	- And then he said, and there's some people in the pyramid thing. I don't know if he just said building or a pyramid, but it could have said a pyramid. And people hid in there knowing that the comet was coming. They wanted to create an environment where they could survive and then come out after the destruction of the terribleness. And I said, well, can you go? And he was able to go back in time. I told him to go back in time till before that hit.
+	- And he described, you know, tall aliens and so forth and so on. And I said, well, how about now? Can you go inside the pyramid? And he said, oh no, it's been too long. It's been a long, long time. And they're all dead now.
+	- They didn't survive. And then he said, but some of them didn't go into that. Some of them took off like they had a spaceship of some kind and they took off. And then he described something that looked an awful lot like earth before the earth got torn apart by, you know, a young earth with volcanoes and stuff all around there, like out of the frying pan into the fire was kind of the thing I was saying. It's like, that's as far as they could get, but it was, at least it was off Mars. Now that I think back, it might be that Putoff had something to do with trying to get me to do that work. Cause I remember talking with him about it.
+	- I'll send the movie to you and you can see it. I would appreciate that. Would it be okay if we put some of the clips into this interview as we talk about it? Sure, cause then you would have the show. Thank you.
+	- How did Pat die? Slowly this or not this. There are many, many stories about Pat dying and everybody has a different story. Do you really want to, I mean, this is really, I can tell you that and then you'll have the stories too. There was a sense that 73, he was active and stuff.
+	- 75, he was dead. CIA had bought him, CMI, CIA got him away from SRI because they saw what he did and CIA hired him.
+	- Lived in the Virginia area. Some of the reports say he was in Washington, DC. No, he was in the Virginia area. That's how far apart Virginia and Washington, DC are. Depends on where you go to the store or not. At any rate, there was a rumor that came up that he was sick and that he was gonna die and he collapsed in a restaurant and they took him to the hospital. And I'm gonna tell these stories differently and you're gonna get them mixed up, okay?
+	- Took him to the hospital and he disappeared from the hospital when two people came to take him and said they're gonna take him to the funeral home. And people say, well, who were these guys? I don't know, but I think when Bill was on night duty but he's not here today and I don't really know who that was, why don't you check at the desk or something? Nobody could identify who they were. I say CIA would do that because he was their employee and had lots of classified stuff and so they would take him. And Russell Targ tells the story that then they were, they took him and they cremated him and buried him in an unmarked grave and he went looking for the grave and see there's the grave that says 155 and it doesn't say anything about it. It's an unmarked grave where supposedly his ashes are in there.
+	- The agency just decided they were gonna cremate him and bury him in an unmarked grave. I would suggest that it's something like that but having you say it was much better. That's one story, okay. Second story, oh, and then, I'm sorry, after he was buried, they called his wife, okay. And that's the story that Russell got when he went looking for what happened to him. Russell Targ got that. Now, story two.
+	- I think there'll be three stories. Story two is Pat Price, Pat Price, Hal. Hal and Pat's wife fly to, I think the place is Las Vegas area, I'm not too sure. And go to the hospital and they say, oh, well, he got taken to the funeral home. They go to the, and we don't know who that was. And they go to the funeral home and there's Pat Price's body in a casket. And Hal tells me, it looks like Price, his wife is there and they agree it looks like him.
+	- But it's not so hard to do that to a body and the CIA is good at fixing stuff up that needs to be fixed up. So, I don't know. After that, there's four stories, not three. I don't know after that, because the next question, well, did they bury that? No, I don't know the story to that.
+	- I only know what Hal told me. It was, you know, he was missing in there and he wound up there and there was a body. The other story we know is like the body was burned and so forth and so on. This is one too. Do you know the true story of what happened? Well, no, I don't. But I know when I heard this story from Hal and nobody knew what happened after that, what do you think I would do?
+	- I would probably, if I were you, I would go to the locations that people said that he was buried and see what's there. Did you do that? No, I put Pat Price's picture in an envelope and gave that sealed envelope to Joe and asked Joe to describe where the person in the picture was. First thing out of Joe's mouth, this guy does something like what I do. And I said, Joe, my task is to tell me where he is. Doesn't matter about, he does what you do. Okay, okay, wait a minute.
+	- He's in an underground office in Virginia somewhere. Okay, Joe, well, let's start with that and I'll get back to you. And then he was used to me saying that because I used to take the envelope in to Major Watt, now Colonel Watt, and say to him, what do you think, should I continue? I didn't really do that. But he knew, Joe knew it was okay for me to say, okay, well, stop for now, Joe, and I'll get back to you. I never did get back to him. But. Why didn't you get back with him?
+	- I didn't want to go too far. I was doing something outside my purview as being the guy in that office, and I just kept my mouth shut. So you have reason to believe that Pat Price's death was false and that he may still be alive.
+	- Still in work. No, he'd be well over 100 years old now. Well, at the time. So when I think about all the shenanigans that went on before, it looked an awful lot like, oh, I know what the fourth one is. Somebody said, oh, he couldn't have been killed by the CIA to get rid of him because he went and got his son this thing and got his wife this thing, and you could tell he was, da-da-da. And I'm saying the CIA could have made up all those stories so everybody would go discover those stories. So that's the fourth situation.
+	- And that's my answer. Interesting. Yeah, very interesting. Well, Skip, we are getting close to time here, so I do wanna ask, why was the Stargate program dismantled? It was told to be dismantled, and they created one gal who said, no, this is going on, and look at so many percentages of this happened, this happened. And the other guy said, oh, no, it's a bunch of nonsense of this, this, and the other. It was time for it to be gone. Okay. Do you think they are continuing the program under a different name? No. Why wouldn't they?
+	- They already had five other programs. They already had five other programs. What are- What did I say then? What are those programs? I've long since not been a part of that. 26 years and 12 years of retirement. It's a long time ago, and nobody would have told me anyways. Fair enough.
+	- Well, Skip, I really appreciate you making the trip out here and it's just a fascinating subject, and it's cool to be talking to somebody that was a part of it all. Thank you, Skip. Okey dokey.
+	- Have a good one.
+- Transcript 2
+	- 00:00:04,920 --> 00:00:08,960 Skip Atwater, welcome to the show. Thank you very much.
+	- 00:00:09,540 --> 00:00:14,78\d I have heard a lot about you from several of the previous guests.
+	- 00:00:15,140 --> 00:00:18,50 I've read about you, I've seen documentaries about you.
+	- 00:00:19,180 --> 00:00:20,38 You're a hard man to reach.
+	- 00:00:21,560 --> 00:00:29,82 I've been trying to make contact for quite a while, and Joe and Scooter, finally, they were
+	- 00:00:29,820 --> 00:00:31,38 the ones that made the connection.
+	- 00:00:31,600 --> 00:00:34,58 So I just want to say thank you to Joe and Scooter.
+	- 00:00:34,860 --> 00:00:35,70 I'm glad to be here.
+	- 00:00:35,940 --> 00:00:37,66 It's an honor to have you here.
+	- 00:00:38,820 --> 00:00:48,66 But everybody gets an introduction here, so we'll knock that out first. Frederick Holmes, Skip Atwater.
+	- 00:00:48,660 --> 00:00:57,90 You were a counter-spy during the Cold War era, where you used your natural psychic aptitude as a U.S. Army counterintelligence special agent.
+	- 00:00:58,240 --> 00:01:04,92 You played a key role in the remote-viewing intelligence program now known to the world by the code name Stargate.
+	- 00:01:05,400 --> 00:01:12,20 For 10 years, you were the operations and training officer of this secret remote-viewing program.
+	- 00:01:12,380 --> 00:01:18,24 You recruited and trained an elite cadre of professional intelligence officers to do remote-viewing
+	- 00:01:18,240 --> 00:01:23,96 for the Department of Defense and various members of the national intelligence community.
+	- 00:01:25,720 --> 00:01:30,50 After retiring from the Army, you became president of the Monroe Institute in Virginia.
+	- 00:01:30,740 --> 00:01:39,24 In your book, Project 8200, UFO-UAP Bases and Activities, the original remote-viewing transcripts,
+	- 00:01:39,460 --> 00:01:44,90 you show us the results of Pat Price's famous exploration of four mountains around the world
+	- 00:01:44,900 --> 00:01:47,56 where Price believed UFO bases were located.
+	- 00:01:48,240 --> 00:01:54,32 You're the author of Captain of My Ship, Master of My Soul, Living with Guidance.
+	- 00:01:54,840 --> 00:02:01,84 You have been featured in several film documentaries, including Ghosts in the Afterlife, A Scientific
+	- 00:02:01,840 --> 00:02:04,84 Investigation, and Third Eye Spies.
+	- 00:02:05,440 --> 00:02:08,16 I'm sure I'm missing quite a bit there, but that's quite deep.
+	- 00:02:08,160 --> 00:02:09,64 That's a big pile, is what you're guessing.
+	- 00:02:09,640 --> 00:02:11,62 That is, that is, that is.
+	- 00:02:11,620 --> 00:02:22,24 But, you know, I'm just, I have been fascinated with this subject for many years now.
+	- 00:02:22,300 --> 00:02:28,72 And with every person that I interview, I just get more intrigued.
+	- 00:02:29,240 --> 00:02:36,00 And you have been involved in this almost since the very beginning, from what I understand.
+	- 00:02:36,000 --> 00:02:41,52 And so some of the things that I would just, I would like, two main things I would like to do
+	- 00:02:41,520 --> 00:02:47,18 in this interview is one, to cover your life story and how you kind of got involved in this.
+	- 00:02:47,260 --> 00:02:55,02 And I would also like to go over, you know, the history of the Stargate program and kind of
+	- 00:02:55,020 --> 00:03:05,60 how it came on the map for United States intelligence. Yes. Perfect.
+	- 00:03:05,840 --> 00:03:07,06 I can talk about all that.
+	- 00:03:08,220 --> 00:03:16,46 But, so, but before we get too in the weeds, I have a Patreon account.
+	- 00:03:16,920 --> 00:03:20,76 Patreon, it's a subscription account. There are top supporters.
+	- 00:03:21,360 --> 00:03:26,86 A lot of these folks have been with us since the very beginning, and they're the reason I get
+	- 00:03:26,860 --> 00:03:29,24 to sit here and you're here as well.
+	- 00:03:29,240 --> 00:03:35,80 And so one of the things I do is I offer them the opportunity to ask every guest a question.
+	- 00:03:36,540 --> 00:03:39,24 And so this question is from Jay.
+	- 00:03:40,640 --> 00:03:48,40 What neurological structures in the brain are responsible for these altered states of consciousness? Is it simply dreaming?
+	- 00:03:49,500 --> 00:03:55,02 That is an interesting question because we've been thinking about the brain for a long time.
+	- 00:03:55,040 --> 00:03:57,64 And the brain is this and the brain is that.
+	- 00:03:57,640 --> 00:04:04,78 And it used to be thought of hundreds of years ago of that's just to keep your head warm.
+	- 00:04:04,900 --> 00:04:08,20 They don't know what the brain is and what's going on up there.
+	- 00:04:08,320 --> 00:04:18,00 But it's something that, you know, over the past 50, 100 years has become the answer to everything.
+	- 00:04:18,080 --> 00:04:19,92 If it's this, oh, it's in the brain.
+	- 00:04:19,960 --> 00:04:21,86 You have to fix this part of the brain right here.
+	- 00:04:21,880 --> 00:04:23,12 That's what's wrong with it.
+	- 00:04:23,120 --> 00:04:29,82 And so him asking this question is a reasonable one given the education we have now.
+	- 00:04:31,600 --> 00:04:37,24 I'm not so sure that 50 years from now that will be much of a question because it seems that
+	- 00:04:37,240 --> 00:04:44,00 all these things that people do, whether it's remote viewing or whatever they call it, seems
+	- 00:04:44,000 --> 00:04:52,52 to have something to do with quantum non-locality or the everywhere, every when of all information.
+	- 00:04:53,360 --> 00:04:55,84 What did you call it first? The quantum?
+	- 00:04:56,260 --> 00:05:00,70 Quantum non-locality is a technical term for it.
+	- 00:05:00,700 --> 00:05:07,10 But they had to invent that 60 years ago because they didn't know what was going on.
+	- 00:05:07,100 --> 00:05:13,12 There's lots of science on saying that there's no space and there's no time.
+	- 00:05:13,780 --> 00:05:22,04 And these people, we'll just call them remote viewers because it's a good thing to use as a name.
+	- 00:05:22,720 --> 00:05:25,12 Not that I like them so much, but that's OK.
+	- 00:05:25,220 --> 00:05:26,66 Everybody calls it remote viewing.
+	- 00:05:28,340 --> 00:05:29,78 What do you call it?
+	- 00:05:29,780 --> 00:05:39,12 I attempt to list out several different things. Are you psychic?
+	- 00:05:39,360 --> 00:05:41,58 Is that the word that one should use?
+	- 00:05:41,960 --> 00:05:46,40 It's a word that people toss around a lot. Are you clairvoyant?
+	- 00:05:46,460 --> 00:05:49,10 Are those words that you toss and pass around?
+	- 00:05:49,720 --> 00:05:58,48 But Ingo Swann kind of coined the word remote viewing because when he went to work with Stanford
+	- 00:05:58,480 --> 00:06:02,62 Research Institute, they didn't want to say, well, we're training psychics here.
+	- 00:06:02,920 --> 00:06:06,50 No, let's just call it remote viewing.
+	- 00:06:06,640 --> 00:06:13,46 That would probably be better, which I've gotten sidetracked in talking a lot here.
+	- 00:06:13,460 --> 00:06:20,88 But it's not really remote viewing because there's nothing that's remote.
+	- 00:06:21,660 --> 00:06:26,20 Everything is all one thing. That's the quantum non-locality.
+	- 00:06:26,500 --> 00:06:34,68 So these people that are doing the remote viewing have the ability to perceive everywhere and every when.
+	- 00:06:35,440 --> 00:06:40,00 And some of them decide to call it this and call it that and call it this.
+	- 00:06:40,280 --> 00:06:46,92 But it looks an awful lot, at least for the next 50 years, to be quantum non-locality.
+	- 00:06:46,920 --> 00:06:56,07 And I limit that 50-year thing because each unit of time, like there is no time, right?
+	- 00:06:56,520 --> 00:07:00,80 Each unit of time we go through, suddenly things are different.
+	- 00:07:00,940 --> 00:07:03,48 I mean, wasn't the Earth flat at one time?
+	- 00:07:04,020 --> 00:07:07,80 Wasn't everything orbiting around us?
+	- 00:07:08,080 --> 00:07:09,78 No, it's us going around the sun.
+	- 00:07:09,920 --> 00:07:11,70 Hmm, that's an interesting idea.
+	- 00:07:11,700 --> 00:07:22,30 And those kinds of large breakthroughs in science takes a while for us to figure them out and
+	- 00:07:22,300 --> 00:07:24,26 generations to figure them out.
+	- 00:07:24,400 --> 00:07:31,42 So I can only think that maybe in the future generations it won't be what we think it is now.
+	- 00:07:32,380 --> 00:07:33,42 Makes a lot of sense.
+	- 00:07:33,880 --> 00:07:34,80 Makes a lot of sense.
+	- 00:07:36,100 --> 00:07:39,56 So back to the original question.
+	- 00:07:41,120 --> 00:07:42,70 So it's not a dream?
+	- 00:07:44,760 --> 00:07:48,54 Well, then we've defined something called a dream.
+	- 00:07:48,920 --> 00:07:54,30 And by using the word dream, we all tell ourselves, oh, that wasn't really real.
+	- 00:07:54,320 --> 00:07:55,44 It was just a dream.
+	- 00:07:58,560 --> 00:08:06,36 Perhaps it's a different kind of knowing, and it's coded when you have a dream about this, this, and this.
+	- 00:08:06,740 --> 00:08:15,20 So, you know, what that really was is how important things are to me when I think about this.
+	- 00:08:15,260 --> 00:08:20,24 And I had a dream about it, and it reminded me when this happened and that happened.
+	- 00:08:20,240 --> 00:08:27,24 I don't think there's anybody who really knows what a dream is, except that they go, oh, it's just a dream. Don't worry about it.
+	- 00:08:28,700 --> 00:08:34,20 So do you – this is interesting – do you – and I know this is going to tie into your childhood
+	- 00:08:34,200 --> 00:08:41,92 too, I think – but do you think that every dream needs to be deciphered and dissected and decoded?
+	- 00:08:43,440 --> 00:08:48,12 If you mean just tell my wife what my dream was, yeah, I think that's a good thing to talk about.
+	- 00:08:48,120 --> 00:08:56,34 No, I don't think that it's a thing to be decoded and figured out, and you should go see your
+	- 00:08:56,340 --> 00:09:01,20 psychiatrist and say, I need help understanding this dream. I don't think that.
+	- 00:09:03,500 --> 00:09:08,50 It's a matter of – obviously, there are people who have real problems with that, and they should
+	- 00:09:08,500 --> 00:09:10,86 see the proper help things.
+	- 00:09:10,860 --> 00:09:15,04 But it's not – it's just – it's a passing thing, you know?
+	- 00:09:15,040 --> 00:09:22,54 When you talk – what was – I'm sorry, what was the terminology again? Quantum – Quantum non-locality. Quantum non-locality.
+	- 00:09:22,760 --> 00:09:31,32 So when – And that comes from quantum physics, which is a brand new thing, only 60 years old, and making it simpler.
+	- 00:09:32,860 --> 00:09:34,60 There's no space, no time.
+	- 00:09:35,120 --> 00:09:41,22 Everything is everywhere, everywhere you went, and I don't want to go too far on this.
+	- 00:09:41,220 --> 00:09:44,66 People are turning the channel off. That guy's on. Oh, no.
+	- 00:09:44,840 --> 00:09:46,40 They're not going to turn the channel off.
+	- 00:09:46,620 --> 00:09:52,42 Because I – because the reason I'm asking is I don't – I've tried to talk about this so many
+	- 00:09:52,420 --> 00:09:55,88 times, and it's just over my head.
+	- 00:09:55,980 --> 00:10:07,24 And so when we say there's no space and no time and everything's happening all at once in the now, correct? Yes. What does that mean? So what was yesterday?
+	- 00:10:08,000 --> 00:10:12,58 If there's no space, no time, there's no yesterday. But it's past.
+	- 00:10:13,460 --> 00:10:18,70 There's no past and no future, because it's all happening at once. But how?
+	- 00:10:20,400 --> 00:10:21,70 Because that's the way it is.
+	- 00:10:21,700 --> 00:10:30,52 It's a very interesting thing to ask those questions because many, many, many different people,
+	- 00:10:32,340 --> 00:10:38,72 thousands, millions of people, and different cultures have come along and tried to answer all those questions.
+	- 00:10:39,200 --> 00:10:42,66 So I think what that means is that's the right question.
+	- 00:10:42,660 --> 00:10:50,56 The fact that they can't answer it, but in what I've been doing for a number of years, says
+	- 00:10:50,560 --> 00:10:59,50 that this information we get can only have come to this person one way, and that's the fact
+	- 00:10:59,500 --> 00:11:04,44 that they know this because they didn't read it in a book.
+	- 00:11:04,680 --> 00:11:09,78 They know this because they didn't get a phone call saying, you ought to watch out for this.
+	- 00:11:09,780 --> 00:11:19,78 They got a message from beyond space and time and came up with some information that proved to be true.
+	- 00:11:23,120 --> 00:11:30,90 So if everything's happening all at once, all the time, and there is no time,
+	- 00:11:33,440 --> 00:11:43,96 then that means every – you could break it down into – you could break a millisecond down into
+	- 00:11:43,960 --> 00:11:48,86 a nanosecond and break that down, and it just continuously – it never ends.
+	- 00:11:48,860 --> 00:11:57,50 You can just keep dissecting, and so does that mean – where is all this happening all at once?
+	- 00:11:57,820 --> 00:12:04,70 That means everything's happening all at once, so that means what I just said two seconds ago is happening again, correct?
+	- 00:12:05,180 --> 00:12:08,18 There's no again if it's all at once.
+	- 00:12:12,500 --> 00:12:17,26 Help me understand this. I just thought of a joke in my head when you were talking.
+	- 00:12:17,640 --> 00:12:23,60 It was like, you know, he's trying a second chance, and I snipped the word second.
+	- 00:12:26,260 --> 00:12:37,78 Yeah, I'm glad to be of help, but I am as confused about it, too, except for things happen in
+	- 00:12:37,780 --> 00:12:46,62 my life and other people, too, that say, it's funny you brought that up because I was just thinking about that, too.
+	- 00:12:46,620 --> 00:12:49,22 And do you think that means this and this?
+	- 00:12:49,320 --> 00:12:55,18 And it's like, well, how could you have thought about it yesterday morning, and I think about
+	- 00:12:55,180 --> 00:12:57,94 it two days later, and it's the same thing?
+	- 00:12:57,940 --> 00:13:07,76 Doesn't that mean there's a little hint that we are all one together?
+	- 00:13:09,720 --> 00:13:18,90 And I use a gesture that you might want to cut out, but I always say God.
+	- 00:13:20,800 --> 00:13:24,42 I don't, yes, God is a religious word.
+	- 00:13:30,500 --> 00:13:32,84 We're getting off track here, but it's in my head.
+	- 00:13:33,600 --> 00:13:46,26 I saw an interesting street scene done with Muslims, and a guy was driving up in a taxi or a
+	- 00:13:46,260 --> 00:13:50,80 car, and all the little kids came around and said, gimme, gimme, gimme, gimme, gimme, gimme.
+	- 00:13:50,800 --> 00:13:56,76 And the guy got out of the car and went like that, and they walked away from him.
+	- 00:13:58,000 --> 00:14:07,56 Everything that comes to you comes from what we believe in, not by me giving you quarters or whatever out the window.
+	- 00:14:08,300 --> 00:14:13,58 And it was an interesting, in the movie, it was an interesting lesson.
+	- 00:14:13,580 --> 00:14:15,20 He was teaching those kids.
+	- 00:14:15,960 --> 00:14:21,18 They're used to trying to find something to eat and run down the street and chase anybody that
+	- 00:14:21,180 --> 00:14:27,34 looks a foreigner or whoever to give them some money and make their life better.
+	- 00:14:27,740 --> 00:14:34,54 And this guy got out, and he just went like that, and all the kids are like. Interesting.
+	- 00:14:35,340 --> 00:14:43,50 So if no time, so I'm trying to understand the concept of no time, everything's happening at
+	- 00:14:43,500 --> 00:14:44,70 once, but what is the space?
+	- 00:14:44,740 --> 00:14:48,28 When you say there's no space, what does that mean?
+	- 00:14:48,280 --> 00:14:58,82 Well, in my mind, if I back up hundreds of years and watch the way people have organized what
+	- 00:14:58,820 --> 00:15:04,68 they thought was space, like we talked about a minute ago in terms of the earth is the center
+	- 00:15:04,680 --> 00:15:08,80 of everything, and everything else goes around the earth.
+	- 00:15:08,800 --> 00:15:11,58 And then you think, well, no, look at it.
+	- 00:15:11,580 --> 00:15:18,60 We've measured out over the years, and we found out that not everything is the center of the earth.
+	- 00:15:18,880 --> 00:15:21,16 As a matter of fact, if you look, there's things out there.
+	- 00:15:21,320 --> 00:15:26,10 They're really strange, and there's a bunch of things out there. We're calling those planets.
+	- 00:15:27,900 --> 00:15:29,94 Well, how do you know it's doing that?
+	- 00:15:30,000 --> 00:15:34,52 Well, it took a long time for guys to figure it out and watch it happen.
+	- 00:15:38,140 --> 00:15:48,68 So we are beginning to think now that this thing we call space is infinite.
+	- 00:15:49,060 --> 00:15:55,20 There isn't a place where, well, when do we stop having planets and suns and stars?
+	- 00:15:55,820 --> 00:16:03,14 And it's a good question because some of them say everything was supposed to collapse back in
+	- 00:16:03,140 --> 00:16:06,98 a billion years from now and start all over again with a big bang.
+	- 00:16:07,700 --> 00:16:15,20 And then time went by, and the scientists looked it out and said, all of those things aren't coming back.
+	- 00:16:15,640 --> 00:16:21,96 They just keep going further and further and further away until,
+	- 00:16:24,540 --> 00:16:34,42 as time passes, like there really is time, it will be so far away we can't see it anymore.
+	- 00:16:36,600 --> 00:16:41,94 Well, then are we alone in the universe? What's space all about?
+	- 00:16:44,100 --> 00:16:48,42 That's interesting, because the universe is expanding. Yes.
+	- 00:16:48,700 --> 00:16:51,46 So we will hit, and they can see the beginning.
+	- 00:16:51,760 --> 00:16:58,14 They can see the big bang, from what I understand, supposedly, correct? They...
+	- 00:16:58,140 --> 00:17:00,94 It happened, however many, you know...
+	- 00:17:00,940 --> 00:17:05,22 And I will challenge that statement, not that it's a big deal.
+	- 00:17:05,300 --> 00:17:07,50 Yes, the big bang is the thing.
+	- 00:17:10,900 --> 00:17:14,54 Well, how much longer? Will that stick?
+	- 00:17:14,760 --> 00:17:17,22 Will that always be that's the way it is?
+	- 00:17:18,680 --> 00:17:24,28 Or 100 years from now, 200, 500 years from now, they will say, you know, that big bang thing just doesn't work.
+	- 00:17:26,760 --> 00:17:28,96 I mean, Pluto is no longer a planet.
+	- 00:17:28,960 --> 00:17:34,64 Lots of things change, but I'm just always fascinated in the subject.
+	- 00:17:34,900 --> 00:17:40,86 I'm trying to wrap my head around it, and I don't, I just don't have the IQ level to comprehend it.
+	- 00:17:42,020 --> 00:17:51,50 No, I think you're the one that's supposed to ask those questions and share those answers with the world around you. That's who you are.
+	- 00:17:55,140 --> 00:18:00,46 Patriot Mobile While we may have won this election, the fight to restore our great nation has just begun.
+	- 00:18:00,760 --> 00:18:05,04 Now is the time to take a stand, and Patriot Mobile is leading the charge.
+	- 00:18:05,580 --> 00:18:11,04 As America's only Christian conservative wireless provider, Patriot Mobile offers a way to vote
+	- 00:18:11,040 --> 00:18:15,28 with your wallet without compromising on quality or convenience.
+	- 00:18:15,820 --> 00:18:19,42 Patriot Mobile isn't just about providing exceptional cell phone service.
+	- 00:18:19,420 --> 00:18:22,56 It's a call to action to defend our rights and freedoms.
+	- 00:18:23,120 --> 00:18:29,04 With Patriot Mobile, you'll get outstanding nationwide coverage because they operate on all three major networks.
+	- 00:18:29,460 --> 00:18:33,90 If you have cell phone service today, you can get cell phone service with Patriot Mobile with
+	- 00:18:33,900 --> 00:18:39,66 a coverage guarantee, but the difference is every dollar you spend with Patriot Mobile helps
+	- 00:18:39,660 --> 00:18:47,28 support the First and Second Amendments, the sanctity of life in our veterans and first responders. Switching is easy.
+	- 00:18:47,880 --> 00:18:50,40 Keep your number, keep your phone, or upgrade.
+	- 00:18:50,980 --> 00:18:56,26 Their 100% U.S.-based customer service support team will help you find the perfect plan.
+	- 00:18:56,500 --> 00:19:06,00 Right now, go to patriotmobile.com slash SRS or call 972-PATRIOT and get a free month of service with promo code SRS.
+	- 00:19:06,520 --> 00:19:10,72 Switch to Patriot Mobile today and defend your freedom with every call and text you make.
+	- 00:19:10,720 --> 00:19:16,18 Visit patriotmobile.com slash SRS or call 972-PATRIOT.
+	- 00:19:18,860 --> 00:19:26,58 I know everybody out there has to be just as frustrated as I am when it comes to the B.S. and
+	- 00:19:26,580 --> 00:19:31,20 the rhetoric that the mainstream media continuously tries to force feed us.
+	- 00:19:31,760 --> 00:19:36,76 And I also know how frustrating it can be to try to find some type of a reliable news source.
+	- 00:19:37,320 --> 00:19:42,28 It's getting really hard to find the truth and what's going on in the country and in the world.
+	- 00:19:42,460 --> 00:19:48,06 And so one thing we've done here at Sean Ryan Show is we are developing our newsletter.
+	- 00:19:48,900 --> 00:19:54,88 And the first contributor to the newsletter that we have is a woman, former CIA targeter.
+	- 00:19:55,260 --> 00:19:58,78 Some of you may know her as Sarah Adams, call sign Superbad.
+	- 00:19:58,980 --> 00:20:01,98 She's made two different appearances here on the Sean Ryan Show.
+	- 00:20:01,980 --> 00:20:12,34 And some of the stuff that she has uncovered and broke on this show is just absolutely mind-blowing.
+	- 00:20:13,380 --> 00:20:19,92 And so I've asked her if she would contribute to the newsletter and give us a weekly intelligence brief.
+	- 00:20:20,860 --> 00:20:24,42 It's going to be all things terrorists, how terrorists are coming up through the southern border,
+	- 00:20:24,620 --> 00:20:28,86 how they're entering the country, how they're traveling, what these different terrorist organizations
+	- 00:20:28,860 --> 00:20:30,26 throughout the world are up to.
+	- 00:20:30,740 --> 00:20:31,92 And here's the best part.
+	- 00:20:32,080 --> 00:20:33,70 The newsletter is actually free.
+	- 00:20:34,460 --> 00:20:35,92 We're not going to spam you.
+	- 00:20:36,420 --> 00:20:41,02 It's about one newsletter a week, maybe two if we release two shows.
+	- 00:20:41,440 --> 00:20:45,18 The only other thing that's going to be in there besides the intel brief is if we have a new
+	- 00:20:45,180 --> 00:20:46,92 product or something like that.
+	- 00:20:48,200 --> 00:20:54,02 But like I said, it's a free CIA intelligence brief. Sign up.
+	- 00:20:54,220 --> 00:20:56,60 Links in the description or in the comments.
+	- 00:20:57,380 --> 00:20:58,24 We'll see you in the newsletter.
+	- 00:21:01,340 --> 00:21:07,42 Thank you. Well, Skip, let's get into your story real quick before we do.
+	- 00:21:07,820 --> 00:21:12,04 Everybody gets a gift here. Oh, yeah?
+	- 00:21:12,680 --> 00:21:15,64 Nothing crazy, just a little something for the ride home.
+	- 00:21:17,300 --> 00:21:20,98 Those are Vigilance Elite gummy bears. Oh, boy.
+	- 00:21:20,980 --> 00:21:24,30 Yeah, to hope you like candy. A real treat. Yeah.
+	- 00:21:24,300 --> 00:21:29,24 Made here in the USA, Michigan. Thank you.
+	- 00:21:29,480 --> 00:21:33,32 I will bring that home to my family and I'll say, really?
+	- 00:21:33,780 --> 00:21:36,36 Oh, those look really good. Right on. Right on.
+	- 00:21:37,980 --> 00:21:44,90 Well, Skip, like I had mentioned at the beginning, you're a massive part, played a massive role
+	- 00:21:44,900 --> 00:21:53,84 in the Stargate program and in remote viewing and in U.S. intelligence.
+	- 00:21:53,840 --> 00:21:59,10 And so I want to talk about your journey on how that all came about.
+	- 00:21:59,500 --> 00:22:03,14 And so let's kind of start with childhood.
+	- 00:22:03,340 --> 00:22:04,76 Where did you grow up?
+	- 00:22:05,520 --> 00:22:15,40 I grew up in Southern California and my dad was a dentist and my mother's father was a dentist.
+	- 00:22:15,820 --> 00:22:19,76 So the family business was dentistry for them.
+	- 00:22:20,600 --> 00:22:30,52 And there were a couple of kind of childhood things that were interesting to me because they
+	- 00:22:30,520 --> 00:22:33,72 seemed normal to me because they were happening in the family.
+	- 00:22:34,140 --> 00:22:38,60 And as I got older, I would say, well, you know, I got kind of a weird family.
+	- 00:22:40,780 --> 00:22:45,70 And it sounds like I didn't like them because they were weird.
+	- 00:22:45,700 --> 00:22:50,00 It was more of a casual comment about that.
+	- 00:22:50,860 --> 00:23:01,54 My mom used to talk to animals that died, a cat or a dog or everything, and they'd tell us kids and shit. But they're fine.
+	- 00:23:01,620 --> 00:23:04,20 I talk to them and they're going to be OK and so forth.
+	- 00:23:04,260 --> 00:23:06,04 And I was like, OK, Mom, I'm going to school.
+	- 00:23:10,940 --> 00:23:16,72 And I guess one of the stories is an interesting bedwetting story.
+	- 00:23:17,000 --> 00:23:25,02 When I was 10 or a little bit younger than 10, I was still wetting my bed, but I wasn't teased about it.
+	- 00:23:25,040 --> 00:23:30,74 It was just a thing that I had to pull the sheets off the bed and run them through the washer
+	- 00:23:30,740 --> 00:23:31,86 and then make the bed again.
+	- 00:23:32,200 --> 00:23:35,74 But it wasn't teasing or anything else.
+	- 00:23:35,740 --> 00:23:40,06 Of course, I failed a little of that at school, but people would talk about that.
+	- 00:23:41,700 --> 00:23:48,92 And one night I woke up in bed and the bed was all wet.
+	- 00:23:49,220 --> 00:23:54,98 And I was screaming and mad at what had happened because there was no reason for this.
+	- 00:23:55,740 --> 00:24:01,82 It was an embarrassing thing for me with two older sisters and school kids talking about it.
+	- 00:24:01,820 --> 00:24:06,10 So my mother came in. Are you all right?
+	- 00:24:06,160 --> 00:24:09,86 You fell out of bed? Did you get hurt? Why are you screaming? What's it all about?
+	- 00:24:10,000 --> 00:24:15,94 And I said, I went into the bathroom and I sat on the toilet.
+	- 00:24:16,580 --> 00:24:19,68 And when I began to pee, I woke up here in bed.
+	- 00:24:20,660 --> 00:24:22,48 And now my bed's all wet.
+	- 00:24:24,300 --> 00:24:29,58 And, you know, very angry, very really outspoken about it.
+	- 00:24:32,280 --> 00:24:33,60 There's a joke in the end.
+	- 00:24:33,760 --> 00:24:35,32 It really pissed me off.
+	- 00:24:37,680 --> 00:24:44,40 At any rate, my mom put her arm around me and she said, oh, it's okay. It's okay. It'll be okay.
+	- 00:24:44,540 --> 00:24:48,72 And I was like, why are you so cool about it? I didn't say anything.
+	- 00:24:48,960 --> 00:24:55,90 She says, you know, sometimes you're in your body and sometimes you're not in your body.
+	- 00:24:58,140 --> 00:25:04,44 So when you go into the bathroom, you have to make really sure that you went to the bathroom.
+	- 00:25:08,060 --> 00:25:10,30 Because it's obvious you didn't.
+	- 00:25:12,240 --> 00:25:14,46 And we go back to the discussion of dreams.
+	- 00:25:14,620 --> 00:25:23,20 Maybe you dreamed you went into the bathroom and you didn't and you peed your bed again.
+	- 00:25:25,900 --> 00:25:33,02 Well, that left a idea in my head as the days rolled by and weeks rolled by.
+	- 00:25:33,080 --> 00:25:37,66 It was like, what does she mean by you're not in your body?
+	- 00:25:38,200 --> 00:25:45,70 And so I would kind of practice at night and found that I could get up and look out the window
+	- 00:25:45,700 --> 00:25:47,58 and then look back and I was in bed.
+	- 00:25:48,300 --> 00:25:49,94 And I said, that's pretty weird.
+	- 00:25:49,940 --> 00:26:00,42 And as time went on, I would jump out the window and my out of body state would jump out the
+	- 00:26:00,420 --> 00:26:03,10 window and I learned to trust that.
+	- 00:26:05,100 --> 00:26:07,74 So when you say, let's rewind for just a second.
+	- 00:26:07,800 --> 00:26:12,78 When you say you would get out of bed and look out the window and then you would look back and
+	- 00:26:12,780 --> 00:26:13,72 you would be in bed.
+	- 00:26:15,740 --> 00:26:19,34 I mean, how old were you when this started happening? Right around 10?
+	- 00:26:19,340 --> 00:26:21,66 It would be over 10.
+	- 00:26:21,760 --> 00:26:26,08 So maybe in the next year or two, those things started to happen.
+	- 00:26:27,100 --> 00:26:32,80 Do you remember the first time that happened? Yes. What were you thinking? Made an impression.
+	- 00:26:33,220 --> 00:26:35,32 Well, I want to go out and play with my friends.
+	- 00:26:36,340 --> 00:26:44,48 I found the first thing that I ran into when I'd go away from my sleeping self in bed, that
+	- 00:26:44,480 --> 00:26:50,08 I was in some sort of school situation, like night school or something.
+	- 00:26:50,360 --> 00:26:51,98 I was in something called night school.
+	- 00:26:53,840 --> 00:26:59,88 But then when I got a little bit older, I started to go find my friends.
+	- 00:27:00,220 --> 00:27:01,30 Where's Mikey down the road?
+	- 00:27:01,720 --> 00:27:04,58 Well, hey, what if I go over here and find this?
+	- 00:27:05,460 --> 00:27:10,04 And they were out of their bodies too, although they didn't realize it like I did.
+	- 00:27:10,420 --> 00:27:18,10 And so that became part of my life growing up.
+	- 00:27:18,100 --> 00:27:25,16 So does that mean when you interact with somebody in a dream, you believe they are also out of body?
+	- 00:27:28,920 --> 00:27:31,08 I can't answer that question.
+	- 00:27:31,220 --> 00:27:35,06 I can only say what my experience was.
+	- 00:27:35,460 --> 00:27:39,24 And the question is, are they out of body?
+	- 00:27:39,320 --> 00:27:44,58 And I'm not so sure that we use the term out of body.
+	- 00:27:44,580 --> 00:27:48,84 It happens in the hospitals and dying events and everything else.
+	- 00:27:49,580 --> 00:27:54,58 And so we've classified that as, oh, you were out of your body.
+	- 00:27:54,980 --> 00:28:01,14 And then I say, wait a minute, Skip. Wait a minute. You're everywhere, every when.
+	- 00:28:02,580 --> 00:28:05,12 There's not a being in the body or being out of the body.
+	- 00:28:06,200 --> 00:28:12,98 So I had to just, well, maybe I shouldn't talk so much because I don't know what the heck's going on anyway.
+	- 00:28:15,880 --> 00:28:24,10 The next thing that was kind of like that, telling the story of the weird family I grew up with,
+	- 00:28:24,120 --> 00:28:29,06 which contributes to my eventual career.
+	- 00:28:29,820 --> 00:28:44,28 When I was older and was into high school and cars and stuff like that, I got a car from my dad's nurse.
+	- 00:28:44,600 --> 00:28:48,44 She gave me a car and I crawled underneath and started taking it apart and everything.
+	- 00:28:48,440 --> 00:28:49,92 My dad was really liberal.
+	- 00:28:50,980 --> 00:28:54,58 It was okay if I took stuff apart and the garage got dirty.
+	- 00:28:55,520 --> 00:28:58,52 He'd look under the car and say, how are you doing down there?
+	- 00:28:58,580 --> 00:29:01,44 Are you making any progress? Very much.
+	- 00:29:02,760 --> 00:29:06,20 And let me find out for myself and let me figure it out for myself.
+	- 00:29:09,220 --> 00:29:11,58 And got that taken care of.
+	- 00:29:12,920 --> 00:29:18,94 And then later, I bought my uncle's car for $100, a 54 Ford.
+	- 00:29:18,940 --> 00:29:26,10 And immediately, I went to the other uncle who gave me a 292 engine, which I had punched out
+	- 00:29:26,100 --> 00:29:30,68 60,000s with a racing cam in it and so forth and so on.
+	- 00:29:31,680 --> 00:29:34,00 But there was something else going on.
+	- 00:29:35,040 --> 00:29:44,42 I could look at the car, laying underneath it and look at it and say, oh, I see what's wrong.
+	- 00:29:45,520 --> 00:29:48,18 The exhaust pipe bracket is loose.
+	- 00:29:49,400 --> 00:29:52,02 And it wasn't something that I could see physically.
+	- 00:29:52,140 --> 00:29:53,86 It was like I could see through it.
+	- 00:29:56,800 --> 00:30:02,12 And later in life, I learned they had a name for that called remote viewing.
+	- 00:30:02,960 --> 00:30:05,70 And I was like, well, that's pretty weird.
+	- 00:30:05,720 --> 00:30:11,68 I guess when you go to a mechanic to get your car fixed, that's why our mechanics know what's wrong with your car.
+	- 00:30:11,680 --> 00:30:14,62 Because they can do that just like I was doing with my car.
+	- 00:30:16,100 --> 00:30:19,20 Later, I found out that isn't what they were doing. Wow.
+	- 00:30:20,600 --> 00:30:29,64 That's part of this development thing that's happening in my weird family again that does it.
+	- 00:30:29,660 --> 00:30:31,24 And one more short story.
+	- 00:30:32,080 --> 00:30:38,42 When I was going to elementary school, my mom sometimes would pick me up from school.
+	- 00:30:38,980 --> 00:30:48,12 She drove an Oldsmobile station wagon that had the fake wood on the sides and the little hood
+	- 00:30:48,120 --> 00:30:49,46 over the top of the windshield.
+	- 00:30:50,240 --> 00:30:53,48 And she picked me up on this side of the street over here.
+	- 00:30:54,900 --> 00:31:01,32 And then she'd look up and down, and then she'd throw a big Yui to turn around and go up to where our house was.
+	- 00:31:01,320 --> 00:31:11,22 Well, one day when she turned the Yui, the door swung open, and I went floating out.
+	- 00:31:11,840 --> 00:31:14,66 And she turned to me and looked at me.
+	- 00:31:16,240 --> 00:31:18,34 And I floated back in.
+	- 00:31:19,560 --> 00:31:23,02 And then I reached over and got the door and closed it.
+	- 00:31:23,020 --> 00:31:27,90 And she said, you're always going to have to close that, you know, because it can open up anytime you want.
+	- 00:31:29,640 --> 00:31:31,76 And we didn't talk about it later.
+	- 00:31:32,020 --> 00:31:34,24 I didn't say, what was that floaty thing all about?
+	- 00:31:34,360 --> 00:31:35,84 How did you do that?
+	- 00:31:36,420 --> 00:31:40,96 And it was like, that wasn't up for discussion. It just, things happened.
+	- 00:31:42,340 --> 00:31:49,64 So that's the weird family I grew up in.
+	- 00:31:50,300 --> 00:32:00,16 And when it came time to get drafted, I'd gone to college and everything.
+	- 00:32:00,240 --> 00:32:05,81 And then finally I got out of college and got jobs, and I wanted to just go make a career. that
+	- 00:32:05,810 --> 00:32:08,55 came, what's the expression that comes through?
+	- 00:32:08,750 --> 00:32:15,47 And they said, greetings, you are classified 1A and we have a draft and so forth and so on.
+	- 00:32:15,590 --> 00:32:20,65 And the minute that happened, when I was going around to different department stores looking
+	- 00:32:20,650 --> 00:32:23,43 for jobs, they said, and so what's your draft status?
+	- 00:32:23,510 --> 00:32:25,49 Oh, they just got me in 1A here.
+	- 00:32:25,770 --> 00:32:28,19 And he said, well, we can't hire you.
+	- 00:32:28,990 --> 00:32:30,83 And I said, what do you mean you can't hire me?
+	- 00:32:30,850 --> 00:32:36,97 He says, well, if you get a job here and say you work up a little bit in management, you become
+	- 00:32:36,970 --> 00:32:43,33 a cashier and then you become a section of the store manager.
+	- 00:32:43,590 --> 00:32:49,23 And then you finally become the assistant store manager and you get drafted.
+	- 00:32:50,690 --> 00:32:54,07 They have to keep that position open for you.
+	- 00:32:54,370 --> 00:32:59,51 You have to be able to walk out of the Army afterwards and go into that same position, even
+	- 00:32:59,510 --> 00:33:01,59 if you're in the Army three years or whatever.
+	- 00:33:02,890 --> 00:33:06,93 So we don't hire people that are 1A.
+	- 00:33:08,110 --> 00:33:10,23 And I said, well, I know how to straighten that out.
+	- 00:33:10,270 --> 00:33:16,63 I walked down the street and found the recruiter and I said, I have to join the Army because
+	- 00:33:16,630 --> 00:33:18,85 I have to get rid of this thing hanging over my head.
+	- 00:33:18,870 --> 00:33:21,89 I'm never gonna get anywhere if I don't get rid of this thing.
+	- 00:33:22,370 --> 00:33:23,91 And he says, well, what do you wanna do?
+	- 00:33:23,950 --> 00:33:28,45 And I said, well, I don't know what's there to do.
+	- 00:33:28,490 --> 00:33:31,41 And he said, well, look at those brochures over there.
+	- 00:33:31,410 --> 00:33:33,49 And spend some time looking at that.
+	- 00:33:33,490 --> 00:33:36,11 See if you see something there that you'd really like to do.
+	- 00:33:36,590 --> 00:33:41,73 And so I went over and looked at the brochures and I saw this one, a blue one, a trifle blue one.
+	- 00:33:42,250 --> 00:33:44,09 And it said Army Intelligence.
+	- 00:33:44,390 --> 00:33:48,05 And I said, what about this one? This looks really interesting.
+	- 00:33:48,250 --> 00:33:50,93 Oh, I'm sorry, but I can't interview you about that.
+	- 00:33:51,750 --> 00:33:54,17 That's not what I do here in the recruiter's office.
+	- 00:33:54,870 --> 00:33:57,65 And I said, but this looks really interesting to me.
+	- 00:33:57,770 --> 00:34:01,11 I have some college behind me and speak Spanish.
+	- 00:34:01,110 --> 00:34:04,75 And I, what do you mean you can't talk to me?
+	- 00:34:04,910 --> 00:34:11,99 She says, he said, if you really want to know about that, I have to make an appointment for
+	- 00:34:11,990 --> 00:34:15,85 you down in Los Angeles to see some agents down there.
+	- 00:34:15,850 --> 00:34:21,79 Because they're the ones that have to decide whether they can accept you. What was the brochure?
+	- 00:34:22,150 --> 00:34:28,33 It was just a trifle brochure that said Military Intelligence.
+	- 00:34:28,470 --> 00:34:29,91 And it was blue on the outside.
+	- 00:34:29,910 --> 00:34:31,65 And I opened and read it.
+	- 00:34:32,350 --> 00:34:39,53 And that sounded better than being a medic or being a rifleman and getting shot or anything.
+	- 00:34:39,670 --> 00:34:42,67 So I said, well, let me go talk to them.
+	- 00:34:44,910 --> 00:34:54,67 What this is all about is, in my book, it says living with guidance. And we define guidance.
+	- 00:34:54,970 --> 00:35:01,91 There seems to be something moving me through my life that I'm not entirely aware of.
+	- 00:35:02,010 --> 00:35:05,47 It's just like, oh, okay, that looks, oh, okay.
+	- 00:35:06,250 --> 00:35:12,45 Now at my age, I say, oh, that's what that was.
+	- 00:35:15,290 --> 00:35:21,21 Anyway, I got into Military Intelligence. Well, what was it? What was Military Intelligence?
+	- 00:35:21,590 --> 00:35:22,85 No, what was the thing?
+	- 00:35:23,190 --> 00:35:24,57 I'm sorry, I didn't, I lost.
+	- 00:35:24,570 --> 00:35:27,61 What was the thing guiding you through life? Oh.
+	- 00:35:30,550 --> 00:35:34,23 God. If you use the word God, yeah.
+	- 00:35:34,430 --> 00:35:36,73 What do you use personally?
+	- 00:35:37,130 --> 00:35:39,21 You just use a hands motion.
+	- 00:35:39,370 --> 00:35:41,97 No, I only remember that.
+	- 00:35:42,130 --> 00:35:46,95 And my wife share it back and forth because we know where it comes from.
+	- 00:35:47,370 --> 00:35:50,13 It means we are all one.
+	- 00:35:51,150 --> 00:35:53,27 We are all there already.
+	- 00:35:54,030 --> 00:36:04,51 And we have souls there that help us and souls that can split themselves and go help other people.
+	- 00:36:04,750 --> 00:36:11,47 And they can be here and still helping you over there. We are the oneness.
+	- 00:36:15,150 --> 00:36:18,49 So I went off to school.
+	- 00:36:21,290 --> 00:36:25,75 And my mom has always told me, you're gonna be okay, but I don't wanna go to Vietnam.
+	- 00:36:28,070 --> 00:36:29,71 And you're all gonna be okay.
+	- 00:36:29,870 --> 00:36:34,89 And so I go through the school, learn how to interview people and be a counterintelligence agent,
+	- 00:36:35,090 --> 00:36:37,97 so forth and so on. And you like that?
+	- 00:36:38,110 --> 00:36:40,69 I say so forth and so on, just to fill in the blank there.
+	- 00:36:41,430 --> 00:36:43,79 And there's another one, this, that, and the other thing.
+	- 00:36:46,910 --> 00:36:53,17 So when it came down, and the assignments in the classes where they were graduating people in
+	- 00:36:53,170 --> 00:37:01,13 classes out of there, trying to make a lot of counterintelligence people, every other class went to Vietnam.
+	- 00:37:01,150 --> 00:37:07,33 And then the next class went everywhere else, Europe, around the US and so forth and so on.
+	- 00:37:08,270 --> 00:37:12,29 But it was something to worry about as you were coming up to graduation.
+	- 00:37:15,270 --> 00:37:20,11 And I got sent to another strange place called Alabama.
+	- 00:37:21,210 --> 00:37:26,61 So my first assignment was, isn't this interesting?
+	- 00:37:27,970 --> 00:37:31,15 And my mom used to say, somebody is always gonna take care of you.
+	- 00:37:31,930 --> 00:37:33,47 Yeah, mom, whatever you say.
+	- 00:37:34,590 --> 00:37:36,59 And I went to Alabama.
+	- 00:37:38,470 --> 00:37:42,27 And I know six months later, Vietnam was over with.
+	- 00:37:44,110 --> 00:37:47,55 And that began, what am I gonna do now?
+	- 00:37:48,670 --> 00:37:56,39 Well, as a corporal or a sergeant by then, I guess, every now and then I got the duty of the teletype.
+	- 00:37:57,550 --> 00:38:00,99 They didn't have other things besides teletypes at that time.
+	- 00:38:01,150 --> 00:38:05,89 And so they'd call me over the headquarters building and say, okay, this is your week on the
+	- 00:38:05,890 --> 00:38:07,33 teletype and learn how to use it and everything.
+	- 00:38:08,190 --> 00:38:11,17 Everybody here does that, so we all know how to use it.
+	- 00:38:11,890 --> 00:38:16,71 But what that meant is I got invitations to, how would you like to go to language school?
+	- 00:38:17,330 --> 00:38:23,17 How would you like to go to technical school and learn how to bug things?
+	- 00:38:23,530 --> 00:38:24,81 How would you like to do this?
+	- 00:38:24,850 --> 00:38:30,79 And I would take the ribbon out of the teletype and say, we have a volunteer for that right now.
+	- 00:38:31,730 --> 00:38:40,69 And so that's how I created making all of those particular things for me and went to language
+	- 00:38:40,690 --> 00:38:42,19 school and so forth and so on.
+	- 00:38:42,710 --> 00:38:43,99 Went down and spent some time in Panama.
+	- 00:38:46,390 --> 00:38:48,81 But- Let's rewind real quick.
+	- 00:38:49,170 --> 00:38:55,57 So it sounds like your mom had some type of ability as well. Yes. Did your father?
+	- 00:38:58,870 --> 00:39:01,53 Yes, but it was much more subtle.
+	- 00:39:01,830 --> 00:39:13,91 My dad was a quiet guy and he was subtle, but he was tuned in to what was going on. He was raised as,
+	- 00:39:17,070 --> 00:39:20,05 in the religion where they don't believe about going to doctors.
+	- 00:39:21,670 --> 00:39:28,79 I don't remember what the name of that is right now, but when he had a broken shoulder bone,
+	- 00:39:29,470 --> 00:39:34,81 his mom tied a red ribbon around it and that was supposed to heal it up.
+	- 00:39:35,910 --> 00:39:39,01 And yet he became a dentist, but they didn't call that a doctor.
+	- 00:39:39,150 --> 00:39:41,47 I mean, that's a dentist for goodness sake, that's not a doctor.
+	- 00:39:43,730 --> 00:39:47,45 So he was very gentle about things,
+	- 00:39:50,750 --> 00:39:53,45 but he was aware and I was very sensitive with him.
+	- 00:39:53,450 --> 00:40:00,03 And I think part of one of those things, as I said, he always encouraged me to try things out.
+	- 00:40:00,330 --> 00:40:05,19 And he let me paint a car in the garage and all I did was hang up sheets all around it.
+	- 00:40:05,190 --> 00:40:09,23 And I painted the car and he said, how did it turn out?
+	- 00:40:09,230 --> 00:40:13,95 And I said, oh, it's pretty good. Painted uncle's car blue.
+	- 00:40:14,030 --> 00:40:23,75 No, I had a 40 Chevy and I sprayed it taxi yellow and wrote taxi on the side of it.
+	- 00:40:24,470 --> 00:40:27,73 And they didn't like that driving around Glendale, California.
+	- 00:40:27,950 --> 00:40:35,15 And finally a cop came by and he said, we wanna talk to you about your car and the word taxi on the side.
+	- 00:40:36,570 --> 00:40:38,65 I said, yeah, what's wrong with that?
+	- 00:40:38,650 --> 00:40:41,93 And he said, there is no law that says you can't do that.
+	- 00:40:41,970 --> 00:40:43,41 There's no problem with it.
+	- 00:40:44,330 --> 00:40:50,77 However, all the people that are in the taxi business can't stand it because they think it downgrades
+	- 00:40:51,690 --> 00:40:53,65 their feelings about their own car.
+	- 00:40:54,690 --> 00:40:58,47 And I said, okay, I don't have a problem with that.
+	- 00:40:59,150 --> 00:41:05,11 So took taxi off the side and I think I sold the car for $75 to somebody or something. Nice.
+	- 00:41:05,770 --> 00:41:14,91 Did you have brothers and sisters? Two older sisters, yes. What about them? They were girls.
+	- 00:41:17,670 --> 00:41:25,01 They weren't as tuned in as I was to this whole thing but they certainly understood it.
+	- 00:41:25,010 --> 00:41:31,15 And as we got older, we'd talk about these things.
+	- 00:41:31,150 --> 00:41:37,37 They're both dead and we talk about these things and them going through their deaths and I was
+	- 00:41:37,370 --> 00:41:39,67 there with them and so forth and so on.
+	- 00:41:40,350 --> 00:41:45,85 And they respected, is that an expression? They respected me down.
+	- 00:41:46,950 --> 00:41:49,61 They knew something was different about me.
+	- 00:41:50,090 --> 00:41:54,17 It was four years to one sister and another four years to the other sister.
+	- 00:41:54,390 --> 00:41:56,75 So I was the youngest of the family.
+	- 00:41:58,310 --> 00:42:06,97 But as we all grew older as people, there was a different arrangement of the kinds of things
+	- 00:42:06,970 --> 00:42:13,15 Skip did and the kinds of things Sonny did and the kind of things that Sue did and so forth and so on.
+	- 00:42:13,530 --> 00:42:19,25 But yeah, they were different. What was different? What was different?
+	- 00:42:19,790 --> 00:42:28,33 They liked chasing boys and ditching school and getting in trouble for it.
+	- 00:42:28,830 --> 00:42:35,31 Did you ever hear any conversations between your parents about some of these abilities?
+	- 00:42:38,510 --> 00:42:39,21 No.
+	- 00:42:43,250 --> 00:42:44,65 There's a sidebar to that.
+	- 00:42:44,850 --> 00:42:51,21 When I got out of OCS and was on my way to go to the Pentagon,
+	- 00:42:54,050 --> 00:42:59,65 because I told somebody I wanted to do stuff with remote viewing, because I thought it was a threat.
+	- 00:42:59,970 --> 00:43:06,79 He said, well, we'll assign you to the Pentagon and you go find it as a lieutenant.
+	- 00:43:07,030 --> 00:43:14,73 You'll be somebody in the Pentagon that's on the night security voice and you have the access
+	- 00:43:14,730 --> 00:43:19,07 to everything and make sure people lock doors and don't leave classified documents out and so forth.
+	- 00:43:19,710 --> 00:43:23,69 I never actually made it there. Because somebody intervened.
+	- 00:43:26,930 --> 00:43:33,65 But the story about, did your parents ever ask you about things?
+	- 00:43:35,490 --> 00:43:43,87 When I told my parents I was moving out to the East and I would be in and around Washington
+	- 00:43:43,870 --> 00:43:46,85 and so forth and so on in the Pentagon and so forth.
+	- 00:43:46,870 --> 00:43:50,79 And she said, oh, well, if you're moving out East, you should look up Bob Monroe.
+	- 00:43:51,710 --> 00:43:55,93 And first of all, I didn't know what a Bob Monroe was. I had no idea.
+	- 00:43:56,890 --> 00:44:04,49 And so my thinking in my head was, do you know how many millions of people are on the East Coast?
+	- 00:44:05,470 --> 00:44:07,47 I don't know somebody named Bob Monroe.
+	- 00:44:08,430 --> 00:44:10,43 And what is she talking about anyway?
+	- 00:44:11,190 --> 00:44:16,11 And so I'm nodding to my mom, yeah, sounds like an interesting idea.
+	- 00:44:16,110 --> 00:44:19,11 But who was this guy? I didn't know.
+	- 00:44:20,790 --> 00:44:22,47 So I drive out there.
+	- 00:44:23,130 --> 00:44:29,77 And just before I left Fort Huachuca, Arizona, which is where I was teaching at the time, got
+	- 00:44:29,770 --> 00:44:34,81 a call from up at Fort Meade.
+	- 00:44:36,170 --> 00:44:43,77 And INSCOM had just moved half of their outfit to Fort Meade and the assignments officer called
+	- 00:44:43,770 --> 00:44:47,91 me up and said, we're changing your orders of going to the Pentagon.
+	- 00:44:48,130 --> 00:44:55,27 And I'm like, man, this guy arranged for me to go to the Pentagon so he could help me find out about remote viewing.
+	- 00:44:56,170 --> 00:44:58,95 And now these orders have been changed.
+	- 00:45:02,070 --> 00:45:06,69 And well, I guess I'll just have to forget about all that stuff called remote viewing and what
+	- 00:45:06,690 --> 00:45:10,01 I wanted to do and help the intelligence community and so forth and so on.
+	- 00:45:10,590 --> 00:45:21,81 And so I got reassigned up to Fort Meade and went behind the green door, as they say, is- Real
+	- 00:45:21,810 --> 00:45:31,41 quick, before we get into Fort Meade, how did you find out about remote viewing through the side of Army Intelligence? Thank you.
+	- 00:45:32,970 --> 00:45:38,01 I was teaching at Fort Huachuca, Arizona.
+	- 00:45:39,230 --> 00:45:49,83 And a friend of mine, Rob Cowart and I found Putoff's book, Mind Reach, where they published
+	- 00:45:49,830 --> 00:45:56,93 all of their remote viewing study, as much as the CIA would let them publish that.
+	- 00:45:57,430 --> 00:46:00,69 And I got ahold of that book and Rob and I would look at it.
+	- 00:46:00,810 --> 00:46:02,77 Look what they say in here about this.
+	- 00:46:05,190 --> 00:46:09,77 Both of us were counterintelligence specialists and doing inspections in different countries
+	- 00:46:09,770 --> 00:46:10,87 and so forth and so on.
+	- 00:46:11,350 --> 00:46:13,41 We don't check for this.
+	- 00:46:13,590 --> 00:46:16,53 We don't see if anybody is remote viewing our Army units.
+	- 00:46:19,810 --> 00:46:26,09 Ding. Something happened. And so I went to the colonel down there just before I went to OCS
+	- 00:46:26,090 --> 00:46:29,89 and he said, well, you keep your nose clean.
+	- 00:46:29,970 --> 00:46:31,69 You come on back here, Sergeant Atwater.
+	- 00:46:32,430 --> 00:46:34,79 I'll see if I can get you any assignment you want.
+	- 00:46:35,370 --> 00:46:41,03 You, when you come back here as a lieutenant, you be ready to tell me what you want to do.
+	- 00:46:42,570 --> 00:46:53,19 And so, meanwhile, months ago, Rob Cowart and I were talking about this book from Putoff and
+	- 00:46:53,190 --> 00:47:01,33 he said, you know, we were like, we're counterintelligence specialists and we're not doing anything about this.
+	- 00:47:01,510 --> 00:47:05,39 You know, we're not climbing in people's attics or whatever we do.
+	- 00:47:06,610 --> 00:47:15,05 So when I got back as a lieutenant, I went into colonel's office and he said, well, lieutenant,
+	- 00:47:15,130 --> 00:47:18,35 you're coming to me to tell me where you want to get assigned.
+	- 00:47:18,450 --> 00:47:21,49 And I said, well, sir, it's a little bit different than that.
+	- 00:47:22,290 --> 00:47:23,97 And he said, well, what's that?
+	- 00:47:23,990 --> 00:47:30,39 And I said, there's a book here by some scientists called MindReach out at Stanford Research Institute.
+	- 00:47:31,330 --> 00:47:34,23 And they're studying something called remote viewing.
+	- 00:47:34,410 --> 00:47:35,55 And he said, well, what's that?
+	- 00:47:35,590 --> 00:47:38,47 And I said, that's why I'm bringing you this book, sir.
+	- 00:47:39,450 --> 00:47:45,29 I think this is very dangerous and a threat to the counterintelligence work we do.
+	- 00:47:46,210 --> 00:47:51,21 And he said, well, leave the book with me, lieutenant, and come on back tomorrow and we'll talk about this.
+	- 00:47:52,190 --> 00:47:55,41 Came back tomorrow and he said, lieutenant, I think you're right.
+	- 00:47:56,610 --> 00:48:00,85 And that's when he reassigned me to the Pentagon, which I never got to.
+	- 00:48:02,710 --> 00:48:08,13 So that's the beginning of it, of how I got into remote viewing.
+	- 00:48:08,650 --> 00:48:14,63 Started back at Fort Huachuca with Rob Cowart, deciding this isn't right, we should be doing something.
+	- 00:48:14,770 --> 00:48:16,57 This is our job to watch this.
+	- 00:48:18,170 --> 00:48:25,81 And then things switched back and forth from the idea of not getting to the Pentagon.
+	- 00:48:26,030 --> 00:48:29,83 That wasn't the place I should be until the arrangements were made.
+	- 00:48:31,230 --> 00:48:36,11 And wound up at Fort Meade, behind the green door.
+	- 00:48:37,250 --> 00:48:46,67 And I was given a room behind the green door after I passed all my security clearances and everything,
+	- 00:48:47,410 --> 00:48:50,19 and dug through the safes in the room.
+	- 00:48:50,470 --> 00:48:53,15 And I reached down into this one and picked it up.
+	- 00:48:53,150 --> 00:48:57,33 Those are three classified documents on remote viewing.
+	- 00:49:00,210 --> 00:49:05,99 Wait a minute, I thought all this remote viewing stuff was done since I didn't go to the Pentagon
+	- 00:49:05,990 --> 00:49:08,21 like it was planned that I was gonna go do that.
+	- 00:49:09,070 --> 00:49:10,25 What is this stuff anyway?
+	- 00:49:10,350 --> 00:49:11,39 So I read through it.
+	- 00:49:12,890 --> 00:49:19,03 And Major Keenan, my boss then, was down the hallway and I came out and said, what is it, lieutenant?
+	- 00:49:19,830 --> 00:49:25,07 I wasn't the regular lieutenant because I'd been in the Army 10 years as an enlisted man.
+	- 00:49:25,290 --> 00:49:27,37 So they had a little more respect for me.
+	- 00:49:30,990 --> 00:49:39,35 And I took these in, I said, sir, I found these three documents here and they're all about remote viewing.
+	- 00:49:39,750 --> 00:49:44,19 And he said, oh yeah, Lieutenant Colonel Skotsko was over there.
+	- 00:49:44,610 --> 00:49:46,45 And he was very interested in that.
+	- 00:49:46,750 --> 00:49:50,97 General Thompson was the one that was looking after that.
+	- 00:49:51,530 --> 00:49:52,83 What was that all about?
+	- 00:49:54,850 --> 00:49:59,59 And General Thompson, in this story, becomes Major General Thompson later.
+	- 00:50:00,430 --> 00:50:08,83 And there's a term in the military called getting a grandfather, meaning there's somebody who's
+	- 00:50:08,830 --> 00:50:11,67 gonna take care of you and make sure you do the right thing.
+	- 00:50:12,330 --> 00:50:20,05 Turns out General Thompson was my grandfather because Keenan, Major Keenan, who I went to with
+	- 00:50:20,050 --> 00:50:22,37 these documents, knew General Thompson.
+	- 00:50:23,830 --> 00:50:29,25 And he said, I've got a guy in here that knows about this. What's his name? Atwater.
+	- 00:50:29,950 --> 00:50:32,81 He said, you let Atwater do whatever he wants to do.
+	- 00:50:33,490 --> 00:50:35,45 And I didn't know that was happening.
+	- 00:50:36,290 --> 00:50:45,49 But I knew General Thompson knew Kit Green and the CIA and they'd been working together and
+	- 00:50:45,490 --> 00:50:48,87 he knew all about this stuff that the CIA was doing.
+	- 00:50:49,350 --> 00:50:54,89 So General Thompson had his finger on me through Major Keenan.
+	- 00:50:55,430 --> 00:50:58,31 And he said, well, what should we do about this?
+	- 00:50:58,390 --> 00:51:00,79 Well, we should recruit some people to do this.
+	- 00:51:02,010 --> 00:51:03,97 And how are you gonna do that, Lieutenant?
+	- 00:51:04,330 --> 00:51:10,39 I said, well, I think we ought to interview some people that have security clearances so that
+	- 00:51:10,390 --> 00:51:13,95 they can do the kind of work we do at looking at the counterintelligence problem.
+	- 00:51:15,390 --> 00:51:19,81 That was the beginning before it was called Stargate.
+	- 00:51:20,050 --> 00:51:29,89 That was the beginning of doing this and working through this situation to get these people trained. Wow, very interesting.
+	- 00:51:30,530 --> 00:51:36,87 So how did you guys... Where did you start?
+	- 00:51:37,230 --> 00:51:39,21 I mean, a lot of people have security clearances.
+	- 00:51:39,530 --> 00:51:46,49 There's a lot of people in the intelligence world. It sounds out there.
+	- 00:51:46,730 --> 00:51:48,65 It is what it is. Yes.
+	- 00:51:50,410 --> 00:51:53,93 First, what we decided to do,
+	- 00:51:58,170 --> 00:52:06,95 my South... Major Keenan got another officer in and was gonna be my boss, because I was just
+	- 00:52:06,950 --> 00:52:12,85 a lieutenant and we needed somebody that was a lieutenant colonel to do this.
+	- 00:52:14,230 --> 00:52:19,87 And someone who'd been around in SCOM so that he could go talk to anybody he wanted and had
+	- 00:52:19,870 --> 00:52:21,13 lots of clearances and stuff.
+	- 00:52:21,730 --> 00:52:28,51 And so he was gonna be my boss and I was gonna be the remote viewing expert, which I had to invent, but that's okay.
+	- 00:52:30,750 --> 00:52:39,51 And we decided that we should survey the people around the greater Washington, D.C. area that were in SCOM.
+	- 00:52:40,250 --> 00:52:42,73 And we thought, well, they have to be assignable.
+	- 00:52:43,430 --> 00:52:50,25 They're, they can't be, there's a lot of people in the Army that I need to get, do this job
+	- 00:52:50,250 --> 00:52:54,55 now so I can get promoted then and I need to do that job here and we need to do that job there.
+	- 00:52:54,570 --> 00:53:00,01 And they build up a career pattern of jobs that they have to work out promotion.
+	- 00:53:00,510 --> 00:53:03,55 We had to find somebody that didn't think that way.
+	- 00:53:05,030 --> 00:53:15,59 So we looked at a pool of about 200 people around the greater Washington, D.C. area that were
+	- 00:53:15,590 --> 00:53:18,45 Army people and civilians, male, female.
+	- 00:53:19,950 --> 00:53:27,65 And we took newspaper clippings that talked about people who had a near-death experience and
+	- 00:53:27,650 --> 00:53:34,79 people who had this happen to them, newspaper-type reporting of psychic stuff.
+	- 00:53:36,350 --> 00:53:45,59 And we'd take it to them and say, the boss has asked us to come around and see whether or not
+	- 00:53:45,590 --> 00:53:51,69 people would think some of these people could help us in the Army some way.
+	- 00:53:51,770 --> 00:53:55,93 If they can do what they say, maybe they could help us in the Army some way.
+	- 00:53:58,850 --> 00:54:09,97 And we would both ask questions, my major and myself, that time just a lieutenant, and we would,
+	- 00:54:12,750 --> 00:54:16,37 this one would ask and then this one would ask and we'd see if they would agree.
+	- 00:54:17,370 --> 00:54:21,37 And then we would say, well, let's talk to them a little bit further.
+	- 00:54:21,710 --> 00:54:32,35 And then when we finished that process, we told SRI what we're doing and they made an arrangement to do a
+	- 00:54:35,990 --> 00:54:40,17 exposure of these people. And we were gonna pick three people.
+	- 00:54:40,430 --> 00:54:42,73 And I tried to use the word to train.
+	- 00:54:42,950 --> 00:54:45,49 He said, oh, no, no, no, no, no, no. We don't train people.
+	- 00:54:46,010 --> 00:54:49,45 We evaluate people, but we don't train people.
+	- 00:54:52,010 --> 00:54:58,03 Okay, don't use the word train when you talk to Stanford Research Institute.
+	- 00:54:58,190 --> 00:55:00,23 That's what I learned as a little lieutenant.
+	- 00:55:00,690 --> 00:55:09,53 And so I said, so for our orientation, we wanna do three people and meanwhile, we recruited
+	- 00:55:09,530 --> 00:55:15,93 these people by the method I told you of showing them the newspapers and some of them weren't the right people.
+	- 00:55:17,670 --> 00:55:23,07 And when we told them, we had six people selected that,
+	- 00:55:27,490 --> 00:55:32,37 no, it was like six or eight at that time that we brought in. They didn't all stay.
+	- 00:55:32,690 --> 00:55:38,67 They said, well, I thought I wanted to do this, but my wife wants to move and I can't do it
+	- 00:55:38,670 --> 00:55:39,97 and so forth and so on.
+	- 00:55:42,150 --> 00:55:45,65 Putoff and Targ heard about it and they said, well, we wanna interview them.
+	- 00:55:46,030 --> 00:55:48,29 We don't want you to select which ones.
+	- 00:55:48,710 --> 00:55:52,57 We want to do the interview with them to see if they're suitable for our evaluation.
+	- 00:55:53,190 --> 00:56:03,49 So they came to Fort Meade and we brought all these people in and Putoff and Targ and talked to them about it.
+	- 00:56:03,490 --> 00:56:07,07 And liked the people and shook their hands and everything.
+	- 00:56:07,270 --> 00:56:15,09 And then we went out to lunch, Putoff and Targ and Scotty Watt and me went out to lunch and
+	- 00:56:15,090 --> 00:56:21,43 they were whispering at each other and whispering at each other. And finally, Putoff said,
+	- 00:56:24,050 --> 00:56:26,77 well, I don't think we wanna take three people.
+	- 00:56:27,930 --> 00:56:29,83 He says, I want those six guys.
+	- 00:56:31,250 --> 00:56:38,67 Well, how about the agreement we had on how much money we had to pay you to evaluate the three people?
+	- 00:56:38,810 --> 00:56:40,33 He says, we'll do it for the same price.
+	- 00:56:41,090 --> 00:56:46,27 Those people sound good to us and we'll deal with them.
+	- 00:56:46,270 --> 00:56:55,63 So they eventually took the six people out there and then later on found the best three of those
+	- 00:56:55,630 --> 00:56:59,59 and had the three of them go back again. For example, Joe McMoneagle.
+	- 00:57:00,710 --> 00:57:09,93 What are some of the evaluations that you guys were conducting to find the best candidates?
+	- 00:57:11,690 --> 00:57:16,65 Okay, there's SRI situation, continue with that and what they did.
+	- 00:57:17,290 --> 00:57:26,19 What they did is they had people, somebody would drive away from SRI and then someone would
+	- 00:57:26,190 --> 00:57:33,07 sit back at SRI and get interviewed and say, describe to me where Dr. Putoff's gone.
+	- 00:57:33,610 --> 00:57:40,57 And then later they would bring that back and they would have, this is the true place he was.
+	- 00:57:40,830 --> 00:57:44,33 And then there were six, one out of six.
+	- 00:57:44,770 --> 00:57:46,63 And so they scored them.
+	- 00:57:46,790 --> 00:57:52,37 Another person, a judge, would look at what the remote viewer tried.
+	- 00:57:53,030 --> 00:57:55,79 I can't make 10 into six, can I? That doesn't work.
+	- 00:57:58,310 --> 00:58:00,33 And he would score them.
+	- 00:58:01,610 --> 00:58:04,95 No, it's not that one. This wasn't a racetrack.
+	- 00:58:07,010 --> 00:58:08,57 It might be that one.
+	- 00:58:08,610 --> 00:58:10,29 That's kind of a museum-like thing.
+	- 00:58:10,610 --> 00:58:12,85 And so they would rate these things.
+	- 00:58:16,970 --> 00:58:25,97 And they got 80% correct matches. For example, Joe McMoneagle.
+	- 00:58:25,970 --> 00:58:33,67 No, it was on the six altogether, meaning that the judge who didn't know where they'd gone or
+	- 00:58:33,670 --> 00:58:35,37 what was the actual thing about.
+	- 00:58:36,270 --> 00:58:46,95 And that is how we scored and decided who we were gonna choose and chose the ones that had the best to start out.
+	- 00:58:47,770 --> 00:58:55,77 Were any of these people, were any of these six people surprised that they were chosen?
+	- 00:58:56,630 --> 00:59:00,89 Were they, I mean, how do I describe this?
+	- 00:59:01,110 --> 00:59:03,59 Was anybody surprised at the program
+	- 00:59:06,890 --> 00:59:10,37 and surprised in the reasons you're evaluating them for?
+	- 00:59:11,730 --> 00:59:19,67 No, they already signed up for the program when they came in and they signed secret certificates
+	- 00:59:19,670 --> 00:59:21,49 of don't tell anybody about this.
+	- 00:59:21,950 --> 00:59:29,97 Your boss doesn't know what you're doing, but he knows that the boss tells him he has to go
+	- 00:59:29,970 --> 00:59:33,65 to Fort Meade today to do something and he's doing it for me.
+	- 00:59:35,670 --> 00:59:41,85 So they were on board with the program and they heard about going out to SRI.
+	- 00:59:42,050 --> 00:59:49,15 And we had those classified documents, for example, and they looked at those and they were interested
+	- 00:59:49,150 --> 00:59:51,03 in going out there and doing that.
+	- 00:59:51,830 --> 00:59:53,85 What was in the classified documents?
+	- 00:59:58,410 --> 01:00:03,57 There were a couple of them on Project ScanAid.
+	- 01:00:03,710 --> 01:00:12,49 They were things that had been done before, things that the Soviets were doing and was the first
+	- 01:00:12,490 --> 01:00:18,93 beginning published evidence that not the stuff that the CIA knew, but it was the beginning
+	- 01:00:18,930 --> 01:00:21,17 of Department of Defense stuff.
+	- 01:00:21,170 --> 01:00:27,89 It was published that they had been looking at lots of people around the world that are doing this thing.
+	- 01:00:28,450 --> 01:00:30,63 And why aren't we doing this?
+	- 01:00:31,910 --> 01:00:38,59 Do you know how we found out other intelligence agencies and countries were doing this?
+	- 01:00:43,050 --> 01:00:45,81 Who was the first one to adopt us?
+	- 01:00:48,230 --> 01:00:50,69 I don't know the answer to that.
+	- 01:00:51,310 --> 01:00:53,07 I don't know the answer to that.
+	- 01:00:53,150 --> 01:01:00,91 And I probably would have to say, I can neither confirm nor deny if I knew. What were they?
+	- 01:01:01,450 --> 01:01:08,47 I'm the lieutenant that discovered the scuff in the safe, went and talked to Dale Graff and
+	- 01:01:08,470 --> 01:01:12,25 so forth and so on. What were they?
+	- 01:01:12,630 --> 01:01:21,03 Can you tell me what they were remote viewing inside the U. S.? I don't know that.
+	- 01:01:21,790 --> 01:01:24,09 But it grew into something else.
+	- 01:01:24,430 --> 01:01:28,79 I mean, Joe's gone over there and been with the Russians and talked to them and played with
+	- 01:01:28,790 --> 01:01:32,75 them and they played with him and so forth and so on. Yeah, yeah.
+	- 01:01:33,790 --> 01:01:42,03 Okay, so six guys, six people, you guys took in. What happens then?
+	- 01:01:44,090 --> 01:01:53,17 Well, after they finished this evaluation, we had started working at Fort Meade with doing little
+	- 01:01:53,170 --> 01:01:57,75 outbounder things and practicing and so forth and so on of what was going on.
+	- 01:01:59,570 --> 01:02:04,57 So Scotty Watt would drive out in a car to someplace and then I'd sit over in the operations
+	- 01:02:04,570 --> 01:02:10,27 building and interview them about, describe where Scotty is now.
+	- 01:02:10,310 --> 01:02:15,83 And they would sometimes get hits and sometimes not get hits, which was good for Scotty because
+	- 01:02:15,830 --> 01:02:23,35 when they'd get a hit, he would say, I wasn't so sure this stuff worked, but I was the one that
+	- 01:02:23,350 --> 01:02:28,07 went out there and they described the tower I was on and such and so on.
+	- 01:02:28,270 --> 01:02:29,71 It was fun for him.
+	- 01:02:30,650 --> 01:02:35,15 I'll bet, I'll bet that would be a very unique experience.
+	- 01:02:39,470 --> 01:02:47,07 So I just wanted to tell you, we were working with the people and some of them came and lived
+	- 01:02:47,070 --> 01:02:54,35 in our offices there at Fort Meade and others would come from someplace and we'd make an appointment for them to come.
+	- 01:02:55,310 --> 01:02:56,75 One of those was Joe McMonigle.
+	- 01:02:56,910 --> 01:03:05,51 He was working down in Washington area and we'd say, can you come up on Tuesday and Friday?
+	- 01:03:06,210 --> 01:03:11,39 And so he would say, well, if you arrange for my boss to tell me where I have to be.
+	- 01:03:12,390 --> 01:03:20,47 And so he was part of that same thing, testing it out for himself and us testing how to run this thing.
+	- 01:03:23,310 --> 01:03:31,25 And three others, SRI wanted them back and they had some things that they wanted to try out.
+	- 01:03:31,430 --> 01:03:33,61 Can you read with remote viewing?
+	- 01:03:34,670 --> 01:03:37,79 How about if this happens or how about if that happens?
+	- 01:03:37,870 --> 01:03:43,21 What about if it's underwater? Would underwater stop it?
+	- 01:03:43,390 --> 01:03:48,27 And none of those things mattered.
+	- 01:03:51,230 --> 01:04:00,35 Or distance and everything. And one of the interesting things that happened as time passed,
+	- 01:04:02,530 --> 01:04:15,63 Pat Price was remote viewing for them at SRI and he had one target that he talked about, which was water, water tanks.
+	- 01:04:15,750 --> 01:04:26,51 And there's tall tanks and there's two water pools down here and it's a sewage processing plant.
+	- 01:04:27,610 --> 01:04:37,35 And so when they went down to look at the sewage processing plant, hopefully so the remote viewer
+	- 01:04:37,350 --> 01:04:40,65 could learn things he missed, well, how come he didn't talk about the red building or whatever?
+	- 01:04:41,530 --> 01:04:45,75 Turns out that it was a swimming pool.
+	- 01:04:47,930 --> 01:04:55,85 And it was like, well, you did get the water but there was these big towers of the sewage processing
+	- 01:04:55,850 --> 01:04:57,33 plant, so forth and so on.
+	- 01:04:59,110 --> 01:05:13,27 No space, no time. 75 years later, long after Pat Price himself died, the Menlo Park local government
+	- 01:05:14,230 --> 01:05:20,55 published a book of all the things that had been going on for years and years and years.
+	- 01:05:21,750 --> 01:05:29,73 And Russell Targ got ahold of one and opened it up and he was like, 75 years ago, that coordinate
+	- 01:05:29,730 --> 01:05:36,99 was not a swimming pool, it was a sewage processing plant.
+	- 01:05:37,250 --> 01:05:39,63 And there was the pictures of the towers and everything.
+	- 01:05:41,200 --> 01:05:46,10 First they were like, oh, that remote viewing was 20 blocks away.
+	- 01:05:46,180 --> 01:05:48,36 That remote viewing was when you went on vacation.
+	- 01:05:48,600 --> 01:05:52,00 That remote viewing was 3,000 miles away.
+	- 01:05:52,180 --> 01:05:54,34 And then this thing came up and it was...
+	- 01:05:58,300 --> 01:06:00,78 Remote viewing is outside of time.
+	- 01:06:04,380 --> 01:06:16,12 Pat Price never knew, because he died, 75, that that was a sewage treatment plant. Wow.
+	- 01:06:16,500 --> 01:06:23,86 So it was an awakening to the scientists to say, there's something more here that's going on
+	- 01:06:23,860 --> 01:06:29,14 than what we think we're doing at SRI. Very, very interesting.
+	- 01:06:29,140 --> 01:06:34,76 I mean, what is time then? What is it?
+	- 01:06:35,140 --> 01:06:41,86 It's that word that just came out of your mouth. Then what is it?
+	- 01:06:44,980 --> 01:06:52,28 It's a thing that we have invented to organize our lives on earth.
+	- 01:06:53,760 --> 01:06:58,80 You know, my cat doesn't know time and the birds don't know time, except when the weather changes,
+	- 01:06:58,980 --> 01:07:01,02 they're supposed to fly south and so forth and so on.
+	- 01:07:01,460 --> 01:07:04,66 But they don't think of time.
+	- 01:07:04,740 --> 01:07:08,04 And if I knew more about the history of cultures,
+	- 01:07:10,760 --> 01:07:19,10 different societies over time that have come up over the hundreds and thousands of years, they
+	- 01:07:19,100 --> 01:07:21,22 probably have lots of differences.
+	- 01:07:21,220 --> 01:07:29,08 I imagine weather and when you plant things and when you harvest things is a much more crude
+	- 01:07:29,080 --> 01:07:31,60 kind of interface with that.
+	- 01:07:31,960 --> 01:07:35,88 And you're not so concerned about, let's see, it's about.
+	- 01:07:37,940 --> 01:07:41,70 So that's a really good question. What is time?
+	- 01:07:42,600 --> 01:07:45,28 And my answer is, well, it depends.
+	- 01:07:46,540 --> 01:07:53,84 Who is keeping track of something and decides to say, you know, that's spaced out this way.
+	- 01:07:54,040 --> 01:07:59,06 The seasons of the year, except if you live at the North Pole and the South Pole, they're pretty
+	- 01:07:59,060 --> 01:08:01,08 much always the same season, you know, kind of.
+	- 01:08:03,940 --> 01:08:10,10 But it sounds like humans are the ones that are more concerned about time. Okay.
+	- 01:08:12,660 --> 01:08:20,35 Let's talk about some of your career in remote viewing. Right.
+	- 01:08:20,860 --> 01:08:24,30 Remember that I am not a remote viewer.
+	- 01:08:29,060 --> 01:08:39,36 I was the guy who taught other people how to do this thing called remote viewing and used my
+	- 01:08:39,360 --> 01:08:45,22 education in psychology to understand how people behave and how to reward them and encourage them and so forth.
+	- 01:08:46,700 --> 01:08:54,28 But I am not, by the definition of what a remote viewer is, I'm not a remote viewer.
+	- 01:08:55,580 --> 01:08:57,86 But you do have abilities. Yes.
+	- 01:08:57,860 --> 01:09:07,68 But I don't generally, and I wouldn't say those remote view, my abilities are remote viewing.
+	- 01:09:08,240 --> 01:09:13,88 And I generally try to stay away from that topic because I want to present myself.
+	- 01:09:14,840 --> 01:09:16,14 This is the way it was done.
+	- 01:09:16,440 --> 01:09:18,30 This is the way it was monitored.
+	- 01:09:18,300 --> 01:09:27,18 This is the way that it was validated, given to the Pentagon these answers and this much was
+	- 01:09:27,180 --> 01:09:28,66 right that they told us about.
+	- 01:09:29,520 --> 01:09:33,14 I like playing that role. Okay.
+	- 01:09:33,520 --> 01:09:41,20 As opposed to I do remote viewing too. Interesting. Understandable as well.
+	- 01:09:42,320 --> 01:09:45,48 How was Joe when you met him?
+	- 01:09:47,400 --> 01:09:55,06 Joe was kind of a complainer about I can never get this right and they're not promoting me fast
+	- 01:09:55,060 --> 01:09:57,48 enough and they should do this and they should do that.
+	- 01:09:58,000 --> 01:10:01,86 And that was bitching was his forte.
+	- 01:10:06,140 --> 01:10:09,54 Had a marriage that was breaking up.
+	- 01:10:13,500 --> 01:10:20,12 Boy, could he remote view, you know, so I, I love Joe.
+	- 01:10:20,340 --> 01:10:21,82 I mean, I really love that.
+	- 01:10:22,080 --> 01:10:26,12 He made the day he would tell me things and I'd be sitting here.
+	- 01:10:26,660 --> 01:10:28,60 How in the world did he know that?
+	- 01:10:28,700 --> 01:10:39,52 I mean, all I did was from major wad across the way he said, okay, well, here's what we're going to start on today.
+	- 01:10:39,520 --> 01:10:47,46 So one of the things we did was not always, but one of the things we did is I wouldn't know
+	- 01:10:47,460 --> 01:10:51,42 what the target was and it might be in an envelope or it might be a coordinate or whatever.
+	- 01:10:51,880 --> 01:10:58,96 And I would take it over to Joe. So I don't know. Most of the time. I don't know.
+	- 01:11:00,320 --> 01:11:01,70 And Joe didn't know either.
+	- 01:11:02,680 --> 01:11:05,94 And then I would take it back after doing one short session.
+	- 01:11:05,940 --> 01:11:12,84 You know, Joe would say, well, this is a cold area and there's. This is really cold.
+	- 01:11:12,920 --> 01:11:20,34 There's snow on the ground and it's northern somewhere, but it's a industrial area.
+	- 01:11:20,560 --> 01:11:25,92 There are smokestacks there and there are many buildings and so forth and so on. So I'd stop.
+	- 01:11:26,760 --> 01:11:28,08 That would be the end of the session.
+	- 01:11:28,080 --> 01:11:35,98 My man hadn't sketched some stuff and I'd go over to Scotty Watt and I'd say, sir, this is what we got today.
+	- 01:11:36,320 --> 01:11:43,70 And he'd open it up and he'd say, schedule your second session because he could tell me you're on track.
+	- 01:11:43,820 --> 01:11:45,56 There's something going on here.
+	- 01:11:49,800 --> 01:11:52,42 So it's an interesting situation.
+	- 01:11:52,800 --> 01:11:55,04 I have to diverge a little bit.
+	- 01:11:55,040 --> 01:11:58,04 People were talking about, oh, it's coordinates you use.
+	- 01:11:58,220 --> 01:12:00,08 Oh, it's a picture you use.
+	- 01:12:00,320 --> 01:12:02,64 Oh, well, let me say you can't use coordinates anymore.
+	- 01:12:02,720 --> 01:12:09,74 You got to scramble the numbers and make up a number and say that's the number still works. And how about this? And how about that?
+	- 01:12:10,580 --> 01:12:15,42 What I really think right now, maybe tomorrow will be something else.
+	- 01:12:16,100 --> 01:12:20,10 But there was a trust between Joe and I.
+	- 01:12:20,100 --> 01:12:24,28 When he and I were in that room, I didn't fool around with him.
+	- 01:12:24,280 --> 01:12:31,56 He knew that I knew the questions that the Pentagon needed to know.
+	- 01:12:35,680 --> 01:12:38,42 So I'd say, Joe, do you want to hold the envelope?
+	- 01:12:38,900 --> 01:12:39,98 Joe, do you want to hear the coordinates?
+	- 01:12:40,380 --> 01:12:45,68 No, because over the years there was a trust buildup.
+	- 01:12:46,300 --> 01:12:51,88 I'm in that room with him to do one thing, and that's answer some questions from the Pentagon.
+	- 01:12:51,880 --> 01:12:56,08 What kind of questions was the Pentagon interested in?
+	- 01:12:56,700 --> 01:12:58,28 Oh, lots of different things.
+	- 01:13:01,160 --> 01:13:11,30 Can you tell us, we've watched in Europe as the Soviets are moving their tanks forward, like
+	- 01:13:11,300 --> 01:13:14,02 they're going to go past the folder gap and so forth and so on.
+	- 01:13:14,380 --> 01:13:19,20 Can you ask where this is right now?
+	- 01:13:19,200 --> 01:13:24,74 And Joe would be able to say, well, yes, I see them moving, but they're all parked in garages.
+	- 01:13:25,800 --> 01:13:27,86 And so they would fly another satellite over.
+	- 01:13:28,420 --> 01:13:29,64 Yeah, they're all parked in garages.
+	- 01:13:29,700 --> 01:13:31,20 I don't think we have anything to worry about.
+	- 01:13:32,680 --> 01:13:36,94 There were many, many things that the Pentagon wanted to know.
+	- 01:13:36,940 --> 01:13:45,22 Somebody would have a particular problem that they're trying to resolve. And is it this? Is it that?
+	- 01:13:45,220 --> 01:13:54,30 I mean, you saw some of those things in the Third Eye video about things that they were asked,
+	- 01:13:55,220 --> 01:13:58,66 and our satellites that would go over every now and then.
+	- 01:13:58,780 --> 01:14:01,78 And then they said, we never knew that was there.
+	- 01:14:02,520 --> 01:14:04,98 Well, a remote viewer told it was kind of a thing.
+	- 01:14:09,000 --> 01:14:16,46 So that grew, too. Because of Scotty Watt, Scotty Watt knew a lot of people, and he could go
+	- 01:14:16,460 --> 01:14:22,02 to the Pentagon and go out to lunch with a guy and play golf with a guy and everything, and
+	- 01:14:22,020 --> 01:14:27,62 got to know that you could tell Scotty something that you needed to know, and he would bring
+	- 01:14:27,620 --> 01:14:33,48 home the envelope, hand it to me, and I'd do sessions with people, and then we'd send it back to him.
+	- 01:14:34,290 --> 01:14:39,38 So that built up for a while.
+	- 01:14:44,220 --> 01:14:52,10 Let's take a quick break, and when we come back, we'll get into Project 8200. Okay, that's great. Perfect.
+	- 01:14:54,640 --> 01:15:02,42 Join me and my special guests for the next behind-the-scenes experience exclusively available on Vigilance Elite Patreon.
+	- 01:15:02,420 --> 01:15:05,82 The behind-the-scenes footage is raw and uncut.
+	- 01:15:06,300 --> 01:15:09,74 This is as close to the set as you can possibly get.
+	- 01:15:09,920 --> 01:15:15,02 You can expect anything from off-topic conversations, studio tours, the final moments before
+	- 01:15:15,020 --> 01:15:17,48 the interview starts, and everything in between.
+	- 01:15:17,560 --> 01:15:22,82 The behind-the-scenes content is constantly evolving and will continue to bring you more as we grow.
+	- 01:15:23,200 --> 01:15:29,58 You can gain access for just $15 a month exclusively at Vigilance Elite Patreon.
+	- 01:15:59,540 --> 01:16:02,40 Vigilance Elite Patreon.com
+	- 01:16:09,580 --> 01:16:14,26 Project 8200 All right, Skip, we're back from the break, and right before we left, we were getting
+	- 01:16:14,260 --> 01:16:20,96 ready to get into Project 8200, but you had mentioned an important point that you wanted to
+	- 01:16:20,960 --> 01:16:29,36 bring up about how the remote viewer knows what to focus on, and that sounded like in the middle
+	- 01:16:29,360 --> 01:16:32,46 of their journey or experience.
+	- 01:16:32,580 --> 01:16:36,86 What do you call it? Yes. Is it an experience?
+	- 01:16:37,300 --> 01:16:45,86 I think it's the only words we can use for it in our mind, in our vocabulary, I think it's probably an experience.
+	- 01:16:47,880 --> 01:16:51,34 I don't think intellectually they think they're going anywhere.
+	- 01:16:51,340 --> 01:16:59,16 They know they're sitting in the room with me, but they're having an experience in some way. Okay.
+	- 01:16:59,760 --> 01:17:03,98 Now, they sometimes may describe, well, I'm going to go over there now, and I'm going to look
+	- 01:17:03,980 --> 01:17:07,18 at that, but we shouldn't take that too strongly.
+	- 01:17:07,320 --> 01:17:09,34 They're still sitting there next to you. Okay. All right.
+	- 01:17:13,860 --> 01:17:25,32 Did you see that video about three-eye spies or whatever that was, third-eye spies? I did not. Okay.
+	- 01:17:26,420 --> 01:17:31,00 So that's perfectly okay, but it has to do with the way I would tell a story, because otherwise
+	- 01:17:31,000 --> 01:17:35,78 I would say these things, and you would say, oh, yeah, but you're not going to do that. Okay. Excellent.
+	- 01:17:39,260 --> 01:17:53,36 So I discovered recently something that I had not given a great deal of thought about, and I've
+	- 01:17:53,360 --> 01:18:00,76 been in this business a long time, and I was like, whoa, this means something.
+	- 01:18:00,760 --> 01:18:05,08 Regardless of what happened, this means something.
+	- 01:18:06,020 --> 01:18:13,00 So the background to this is that in the days of Putoff and Targ at Stanford Research Institute,
+	- 01:18:14,320 --> 01:18:22,42 they obviously had a contract with CIA, and Kit Green was the guy in CIA who was kind of watching
+	- 01:18:22,420 --> 01:18:25,18 them and was in charge of what they did.
+	- 01:18:25,180 --> 01:18:33,88 And then he would take the results that they would get in their evaluating and testing and studying,
+	- 01:18:34,560 --> 01:18:39,06 under protocol, this idea of remote viewing.
+	- 01:18:39,500 --> 01:18:46,92 And he would take and show some of the results to his people at the CIA, and they started to
+	- 01:18:46,920 --> 01:18:53,62 think, both Kit Green and other people at CIA, was starting to think,
+	- 01:18:57,000 --> 01:19:04,62 how do we know that they're sticking with protocol, and how do we know that they don't have
+	- 01:19:04,620 --> 01:19:11,00 some other access to the targets that their remote viewers are getting?
+	- 01:19:14,260 --> 01:19:23,20 So he decided he was, him, Kit Green, was going to come up with something that would prove to
+	- 01:19:23,200 --> 01:19:29,24 the other people that were questioning him, you know, this stuff is garbage, it doesn't work,
+	- 01:19:29,300 --> 01:19:30,72 it doesn't make any sense to us.
+	- 01:19:31,260 --> 01:19:33,06 He keeps telling them about it and everything.
+	- 01:19:34,060 --> 01:19:39,78 So he decided what he was going to do is he was going to go to another friend of his in the
+	- 01:19:39,780 --> 01:19:49,46 CIA and go to him and say, I want you to give me a set of coordinates, geographic coordinates,
+	- 01:19:50,040 --> 01:19:55,60 that I have no knowledge of it, I know nothing about it, I don't know what it is.
+	- 01:19:57,640 --> 01:20:04,52 And he said okay, and he gave him the coordinates and he said, so I don't know what this is,
+	- 01:20:04,520 --> 01:20:11,52 that means nothing to me, I don't recognize it as being the Eiffel Tower or anything, and he
+	- 01:20:11,520 --> 01:20:14,54 says, that's right, you won't know what this is.
+	- 01:20:15,020 --> 01:20:23,84 So he passes that out to SRI, and SRI comes back with this, it's a very elaborate description
+	- 01:20:23,840 --> 01:20:35,32 of this place, he says it's very secret and guards and fences around it, and I went inside and
+	- 01:20:35,320 --> 01:20:46,90 I looked through safes and on the wall this was written, and opened up the safes and read what
+	- 01:20:46,900 --> 01:20:55,06 the words and names of the files were, and end of session.
+	- 01:20:57,420 --> 01:21:06,38 And so when he gets that back from SRI, he takes it over to his friend, whose name by the way
+	- 01:21:06,380 --> 01:21:13,70 was Dave, the CIA at that time, and he started laughing, he says, this nonsense that you're
+	- 01:21:13,700 --> 01:21:18,82 doing kid, it's just nonsense, it's ridiculous, and he said, what do you mean?
+	- 01:21:18,860 --> 01:21:24,58 He said, I built a cabin last year and fixed it, and I gave you the coordinates to the cabin,
+	- 01:21:26,460 --> 01:21:35,22 and he went to his other friends and said, this is what SRI told me, and they're all like, you've
+	- 01:21:35,220 --> 01:21:45,42 got to be kidding, and he says, no, that's a real place, and nobody knows about it.
+	- 01:21:48,700 --> 01:21:57,04 So he got in his car and he drove physically to the coordinates, up in the mountains, found
+	- 01:21:57,040 --> 01:22:05,52 this guy's cabin, and said, what is going on here, this makes no sense at all, and he turned
+	- 01:22:05,520 --> 01:22:16,58 around and went down 100 yards down the road, and there was a well-cut, well-groomed road, and
+	- 01:22:16,580 --> 01:22:22,40 he turned up there and came over a ridge, and there was Sugar Grove.
+	- 01:22:22,920 --> 01:22:33,70 It was in the late 60s and 70s, the Navy's installation for monitoring Soviet satellites.
+	- 01:22:35,360 --> 01:22:38,30 Which actually physically doesn't exist anymore.
+	- 01:22:39,200 --> 01:22:45,30 Never mind, that wasn't ever there, but we have pictures of it, and you can look up Sugar Grove online.
+	- 01:22:47,600 --> 01:22:58,22 So I need to try to add here, when he went in, he said everything had to do with the names on
+	- 01:22:58,220 --> 01:23:03,36 things and the files and so forth had to do with playing pool.
+	- 01:23:03,700 --> 01:23:08,56 There was a cue ball, a nine ball, an eight ball, and this and different kinds of shots and everything.
+	- 01:23:09,520 --> 01:23:24,34 And when he showed that to his other CIA friends, he said, all those are top-secret, classified, limb-dis names.
+	- 01:23:24,780 --> 01:23:31,14 Those are real names of a real project of Sugar Grove.
+	- 01:23:32,320 --> 01:23:36,70 And it was like, how did that happen?
+	- 01:23:37,360 --> 01:23:44,14 Well, because he had given, this is where it twists up a little bit, but I'll get back to it straight.
+	- 01:23:44,500 --> 01:23:55,72 He had given that to SRI and was expecting that either Hallihammer or Ingo Swann would do the
+	- 01:23:55,720 --> 01:23:59,06 job, and they were going to look at it with one person and so forth and so on.
+	- 01:24:00,380 --> 01:24:03,12 Turns out that Pat Price was hanging around.
+	- 01:24:04,160 --> 01:24:06,96 He said, you guys got something going on here? Here, I'll help.
+	- 01:24:07,560 --> 01:24:10,24 And he was that kind of a guy, you know.
+	- 01:24:10,720 --> 01:24:20,04 And it was Pat Price's work that wound up at Sugar Grove and read those names that were top-secret
+	- 01:24:20,040 --> 01:24:25,60 password names for everything that that Navy installation did.
+	- 01:24:26,540 --> 01:24:31,82 And they immediately showed up in Kurt Green's office angry and mad.
+	- 01:24:32,080 --> 01:24:33,32 And what did you do?
+	- 01:24:33,620 --> 01:24:35,86 And we're going to have to investigate this.
+	- 01:24:36,000 --> 01:24:39,50 There's a leak in your department here and this and that and the other thing.
+	- 01:24:39,740 --> 01:24:44,16 And he said, SRI did it. I'm California.
+	- 01:24:44,160 --> 01:24:58,20 And then as sort of a joke and an enthusiasm when Puthoff describes this thing going on, he
+	- 01:24:58,200 --> 01:25:06,04 says, I'm trying to remember exactly what he says, every law enforcement person in California
+	- 01:25:06,040 --> 01:25:14,38 showed up at SRI because they were really angry about all this information leaking out.
+	- 01:25:15,860 --> 01:25:21,16 Well, the point of this whole thing is all that stuff happened. It's very well documented.
+	- 01:25:22,480 --> 01:25:35,02 And what is it that when here was the target assigned by the coordinate and over here was Sugar
+	- 01:25:35,020 --> 01:25:42,30 Grove, when he got sent here, supposedly, here's your coordinates. Describe what's there.
+	- 01:25:43,880 --> 01:25:49,26 And, you know, Putoff and Tart are trying to do their best and get good protocols and everything.
+	- 01:25:51,440 --> 01:25:57,04 And it's a boring, I'm going to make up some words because I don't know what to say. It's boring.
+	- 01:25:57,960 --> 01:26:01,26 But they say, I wonder what the hell that is over there.
+	- 01:26:01,900 --> 01:26:05,80 And so Pat Price goes over here and finds Sugar Grove.
+	- 01:26:08,060 --> 01:26:15,00 So I started thinking about this situation in remote viewing and everywhere, every when.
+	- 01:26:17,280 --> 01:26:20,72 How do you know that that is a thing of interest?
+	- 01:26:20,980 --> 01:26:23,88 What is it that attracts you to that?
+	- 01:26:24,760 --> 01:26:30,38 As opposed to following the rules, I want you to describe that cabin in the forest.
+	- 01:26:31,080 --> 01:26:33,40 That's what your job is. Here are your coordinates.
+	- 01:26:34,800 --> 01:26:43,48 And yet he goes to Sugar Grove and pretty much scares the bejesus about the CIA and the Navy
+	- 01:26:43,480 --> 01:26:44,52 at that point in time.
+	- 01:26:44,520 --> 01:26:51,66 So I started thinking about that in terms of all the remote viewing I've done and many others.
+	- 01:26:55,840 --> 01:27:08,74 If the theory of quantum non-locality is true, that there is no time and there is no space, what is that next?
+	- 01:27:09,420 --> 01:27:14,10 I'm using this skull of mine, which makes no sense, but it's a good graphic.
+	- 01:27:14,980 --> 01:27:23,90 What is the next twist that gets the remote viewer to describe that interesting thing?
+	- 01:27:27,020 --> 01:27:33,14 And how many times has that happened in the hundreds of thousands of remote viewings that are
+	- 01:27:33,140 --> 01:27:34,08 going on in the world?
+	- 01:27:36,200 --> 01:27:38,42 And somebody says, that doesn't make sense.
+	- 01:27:38,520 --> 01:27:41,98 We asked you to do such and such and you did so and so.
+	- 01:27:43,260 --> 01:27:46,82 Did they give any thought to why in the heck did he do so and so?
+	- 01:27:46,900 --> 01:27:49,22 He usually does really good work.
+	- 01:27:49,400 --> 01:27:50,86 Why did he describe that?
+	- 01:27:52,700 --> 01:27:54,44 I'm still chewing on that.
+	- 01:27:54,600 --> 01:28:06,92 This is less than a month in my head about this particular interesting thing. How does that happen?
+	- 01:28:13,280 --> 01:28:21,86 When you wanted to go over to Project 8200, how did Pat Price go and look at those things?
+	- 01:28:22,040 --> 01:28:24,08 Nobody told him to go look at that.
+	- 01:28:24,140 --> 01:28:28,24 He just was that kind of a guy that was attracted to go look at those things.
+	- 01:28:29,680 --> 01:28:33,16 He says when you talk to him, we used a policeman down in Burbank.
+	- 01:28:34,440 --> 01:28:39,56 He said, oh, you know, the detectives would come in and they would say this, that and the other thing.
+	- 01:28:39,580 --> 01:28:48,10 And he said, I'd kind of roll my head back and say, well, you know, you really ought to check out this.
+	- 01:28:48,760 --> 01:28:50,76 You didn't tell me you guys checked on that.
+	- 01:28:50,760 --> 01:28:58,86 He said, OK, and he said he'd be unusually right about those every now and then.
+	- 01:28:58,880 --> 01:29:01,82 And so he kept headed in that direction.
+	- 01:29:04,980 --> 01:29:16,36 This Project 8200 thing was something that I did because Pat Price walked into SRI and his normal
+	- 01:29:16,360 --> 01:29:20,64 working there in the early 70s.
+	- 01:29:20,640 --> 01:29:28,72 Having come up from originally down in Burbank, he then lived in Northern California.
+	- 01:29:29,040 --> 01:29:35,84 But he would come down to do sessions because Putoff and Targ checked him out.
+	- 01:29:36,500 --> 01:29:46,92 And so he would go in and he would do things, but they had to control him because he was a gregarious wild cat.
+	- 01:29:46,920 --> 01:29:52,38 He was not a good, he was just uncontrollable in terms of what he would do.
+	- 01:29:57,540 --> 01:30:01,08 And he came in and on Putoff's desk.
+	- 01:30:01,380 --> 01:30:02,96 He said, you might be interested in this.
+	- 01:30:03,720 --> 01:30:10,90 I've been interested in this for a while and I've found four UFO bases around the globe.
+	- 01:30:11,440 --> 01:30:16,04 And so you really ought to look at it. Four UFO bases. Yes.
+	- 01:30:16,700 --> 01:30:20,00 And this just came in just completely random one day.
+	- 01:30:20,780 --> 01:30:23,60 This bag comes in and there it is.
+	- 01:30:24,180 --> 01:30:32,52 Four UFO bases around the world. Where were they? Or where are they? Yes, they're still there.
+	- 01:30:32,520 --> 01:30:37,74 This all happened 50 years ago, a little bit more than that now.
+	- 01:30:39,260 --> 01:30:46,04 Mount Inyangani, which is a country in Africa, isolated country.
+	- 01:30:46,920 --> 01:30:49,40 Mount Hayes is up in Australia.
+	- 01:30:51,180 --> 01:30:54,86 Mount Perdido is on the border of Spain and France.
+	- 01:30:55,340 --> 01:31:02,08 And then there's one in Australia, which I can't quite remember the name of that up in Australia.
+	- 01:31:02,760 --> 01:31:05,08 Hayes is in Alaska, correct? Hayes is in Alaska. Okay.
+	- 01:31:05,080 --> 01:31:08,56 But Zeal, I think, might be the one down in Australia.
+	- 01:31:09,840 --> 01:31:15,72 So this was an interesting problem for Putoff to deal with.
+	- 01:31:16,260 --> 01:31:25,50 He says, yeah, actually, you know, we're watching Pat in our program here and testing and evaluating
+	- 01:31:25,500 --> 01:31:30,50 our program here at SRI. These look interesting.
+	- 01:31:32,160 --> 01:31:35,86 What is it about this that, you know, pulls me to it?
+	- 01:31:36,460 --> 01:31:49,86 So it turns out that he calls up a friend of his called Ken Kress and says, I'm sorry, Kit Green, and calls Kit Green.
+	- 01:31:50,160 --> 01:31:55,46 And they're friends from a long time ago when they were junior officers.
+	- 01:31:55,460 --> 01:32:02,36 Now, Kit Green is in the CIA. He went that way.
+	- 01:32:02,820 --> 01:32:08,94 And Putoff went into being a research scientist.
+	- 01:32:09,160 --> 01:32:10,40 But they're really good friends.
+	- 01:32:11,180 --> 01:32:18,58 So he calls up Kit and says, could you do me a favor?
+	- 01:32:18,680 --> 01:32:19,64 And he said, what's that?
+	- 01:32:20,820 --> 01:32:24,34 Well, I was wondering how things are going down in Australia.
+	- 01:32:24,340 --> 01:32:29,58 Do you know who the case officer is down in Australia, the station chief or whatever you call him?
+	- 01:32:30,000 --> 01:32:32,10 And he says, well, yeah.
+	- 01:32:32,540 --> 01:32:41,08 He said, well, I'm just kind of interested in what things are like in Australia now.
+	- 01:32:41,520 --> 01:32:43,60 I'd like to maybe go down there someday.
+	- 01:32:43,980 --> 01:32:46,30 And so he says, well, let me give him a call.
+	- 01:32:46,620 --> 01:32:52,38 So a couple days later, he calls back and says, yeah, I talked to the station chief down there.
+	- 01:32:52,380 --> 01:32:54,70 And he said they really like it.
+	- 01:32:54,780 --> 01:32:57,18 They get along with the Australians just fine.
+	- 01:32:58,760 --> 01:33:02,00 They share things and work together on things.
+	- 01:33:03,060 --> 01:33:05,28 And I really like it here too.
+	- 01:33:05,400 --> 01:33:06,96 I hope I don't get reassigned very often.
+	- 01:33:07,500 --> 01:33:08,76 Well, there is one thing.
+	- 01:33:08,820 --> 01:33:10,50 It's all those UFOs up north.
+	- 01:33:11,600 --> 01:33:15,66 And Putoff is like, oh, well, that's kind of an interesting thing.
+	- 01:33:15,740 --> 01:33:17,66 But otherwise, you really like it down there.
+	- 01:33:18,620 --> 01:33:20,32 And Putoff wasn't going to say anything.
+	- 01:33:20,320 --> 01:33:23,90 He says, you know, we ought to get together next time you're back in the States here.
+	- 01:33:23,900 --> 01:33:25,18 We'll go out and have a beer again.
+	- 01:33:25,300 --> 01:33:29,52 Remember how the good time we had when we were young officers together?
+	- 01:33:29,560 --> 01:33:31,84 He said, yeah, let's do that. Let's get together again.
+	- 01:33:33,060 --> 01:33:48,04 And so then Putoff had those on his desk and told Pat, don't ever do this again.
+	- 01:33:48,860 --> 01:33:52,30 Go get working, not to do things alone.
+	- 01:33:52,400 --> 01:33:53,78 You have to follow protocol.
+	- 01:33:54,360 --> 01:33:57,18 We're being paid by an outside agency.
+	- 01:33:57,640 --> 01:34:01,56 And we have to follow our protocol, else we'll get fired.
+	- 01:34:01,740 --> 01:34:05,26 So you need to not ever do this again.
+	- 01:34:05,600 --> 01:34:11,46 Only do the things that TARG is working with you in the interview room next door.
+	- 01:34:11,520 --> 01:34:16,02 You do what things we're telling you to do so that we're in control.
+	- 01:34:16,020 --> 01:34:20,30 And we can tell the CIA what we're doing.
+	- 01:34:20,960 --> 01:34:27,08 You know, that's a very interesting demand considering it's all done in your brain.
+	- 01:34:28,240 --> 01:34:34,94 That's telling you, essentially the same thing as telling you, don't think about these things. I'm your boss.
+	- 01:34:35,160 --> 01:34:37,68 I tell you what to think and how to think.
+	- 01:34:37,740 --> 01:34:39,98 How did Pat respond to that?
+	- 01:34:39,980 --> 01:34:47,18 Well, I don't think I know the answer to that question. Okay.
+	- 01:34:47,580 --> 01:34:55,06 But he shrugged his shoulders, and I'm sure because of the maverick that he was, he didn't much
+	- 01:34:55,060 --> 01:34:55,92 care about what he said.
+	- 01:34:56,520 --> 01:35:01,32 Probably motivated him to do more. Right. Who knows? My kind of guy.
+	- 01:35:03,240 --> 01:35:12,86 So anyway, Puthoff keeps it in the drawer, and then he waits because this is a big hullabaloo
+	- 01:35:12,860 --> 01:35:16,76 and people whispering to other people in the office and all of that.
+	- 01:35:17,600 --> 01:35:19,94 And so he waits and he waits and he waits.
+	- 01:35:20,460 --> 01:35:22,98 Meanwhile, Puthoff and I are becoming good friends.
+	- 01:35:25,220 --> 01:35:30,56 He, you know, I would go out there and check on the training and check on this and everything.
+	- 01:35:30,660 --> 01:35:33,74 And they'd always take me out to dinner and do this and do this.
+	- 01:35:33,840 --> 01:35:37,42 And finally, I said, you don't have to do this. I'm with you guys.
+	- 01:35:37,600 --> 01:35:41,22 You know, I know I signed your checks now.
+	- 01:35:41,260 --> 01:35:45,34 That's what I'm doing for a while because my boss left and now I'm the boss of you.
+	- 01:35:45,340 --> 01:35:53,78 I forget what you call that when you're the person, case control officer. I don't know.
+	- 01:35:54,260 --> 01:36:00,58 Anyways, so we became more friends after a while and could visit and talk about things without
+	- 01:36:00,580 --> 01:36:06,40 him doing his job of taking care of the guy that came from Washington and making sure we take
+	- 01:36:06,400 --> 01:36:10,80 care of that guy because he's the guy who obeys us. Don't do that.
+	- 01:36:13,300 --> 01:36:16,84 And time passed and he called me.
+	- 01:36:18,040 --> 01:36:26,48 I have a different program that I run back at Fort Meade, which I think I've explained in some of the papers.
+	- 01:36:26,480 --> 01:36:33,66 I said, if you're not doing something because you're at war or having something you have to
+	- 01:36:33,660 --> 01:36:36,48 do, you're practicing on that.
+	- 01:36:38,660 --> 01:36:43,58 You're doing mock things that keep you in good training.
+	- 01:36:43,760 --> 01:36:46,10 You don't just lay around on the ground. You do PT.
+	- 01:36:46,260 --> 01:36:47,60 You do all sorts of things.
+	- 01:36:47,600 --> 01:36:54,76 So I had what I called a challenge program that I did when I had remote viewers that weren't
+	- 01:36:54,760 --> 01:36:57,32 too busy and they didn't have something immediately to do.
+	- 01:36:57,400 --> 01:37:05,10 I would come up with challenge targets, like send them to a very confusing museum that went
+	- 01:37:05,100 --> 01:37:09,66 around in a circle like that and see if they could figure that out.
+	- 01:37:09,660 --> 01:37:13,76 Because you'd be looking at this direction and then you'd turn around and look that direction
+	- 01:37:13,760 --> 01:37:21,22 and it would pass 50 years in time because you're supposed to walk through the museum and look at the things.
+	- 01:37:22,620 --> 01:37:26,54 So those were challenge type targets that I did, several different kinds.
+	- 01:37:26,540 --> 01:37:41,16 So I took – Puthoff gave me all of Pat Price's transcripts on the things.
+	- 01:37:41,300 --> 01:37:47,04 He said, do you think you could use this in a challenge target training?
+	- 01:37:48,780 --> 01:37:51,46 I didn't need the Pentagon to tell me to do it.
+	- 01:37:51,460 --> 01:37:57,04 I was the operations and training officer and that's what I did. Operations and training.
+	- 01:37:57,760 --> 01:38:00,34 On the training side, it was challenge targets.
+	- 01:38:01,160 --> 01:38:20,72 So I worked up a set of plans for taking the transcript and creating the names of the mountains
+	- 01:38:20,720 --> 01:38:30,06 where these UFO bases were, underground UFO bases were, and then did a series of challenge targets.
+	- 01:38:31,480 --> 01:38:36,56 Four of them with Joe who does an ERV thing.
+	- 01:38:36,980 --> 01:38:38,38 He just lays down and talks.
+	- 01:38:38,780 --> 01:38:47,04 The other people trained by Ingo Swann and they have this very complicated structure to do their remote viewing.
+	- 01:38:47,700 --> 01:38:52,18 And so I had six of those, I think maybe five.
+	- 01:38:52,420 --> 01:38:55,06 And then we had a couple of people who kind of did their own thing.
+	- 01:38:57,640 --> 01:39:00,28 And this was ten years after.
+	- 01:39:00,380 --> 01:39:06,30 That's why I call it Project 8200 because it was 1973 when Pat Price did this.
+	- 01:39:06,480 --> 01:39:13,78 And then Puthoff gave me the material here after, in his opinion, things quieted down out there and people weren't talking.
+	- 01:39:13,810 --> 01:39:24,47 And so the Project 8200 is those challenge targets of asking Stargate remote viewers, giving
+	- 01:39:24,470 --> 01:39:29,53 them coordinates to go to and have them describe what's there.
+	- 01:39:32,250 --> 01:39:38,01 What did he... And so these bases, were they part of the challenge targets?
+	- 01:39:38,010 --> 01:39:45,47 I gave them the coordinates that Price had said, this is where I was looking.
+	- 01:39:46,050 --> 01:39:52,51 So I took those coordinates and I told them to go look at these different coordinates and see what they found there.
+	- 01:39:55,230 --> 01:40:03,43 The Stargate remote viewers. So before we get into what they saw, what did Pat see at these bases?
+	- 01:40:04,410 --> 01:40:11,03 He described them as inside areas where four different kinds of groups of people who had different
+	- 01:40:11,030 --> 01:40:18,35 duties had inside places, that they were inside these mountains.
+	- 01:40:18,510 --> 01:40:22,81 What do you mean four different types of people? Races? Genders?
+	- 01:40:23,310 --> 01:40:24,81 What are we talking here?
+	- 01:40:25,310 --> 01:40:27,65 Just different projects that they're on?
+	- 01:40:27,650 --> 01:40:31,59 Yeah, these four bases had different stories.
+	- 01:40:31,690 --> 01:40:33,09 I can read them to you what they were.
+	- 01:40:33,850 --> 01:40:40,59 They had different jobs that they did in four different bases.
+	- 01:40:41,170 --> 01:40:46,65 And so he would talk about, well, I'm going to go over to Mount Inyangani now and I'm going
+	- 01:40:46,650 --> 01:40:50,41 to look at Mount Hayes. And so his...
+	- 01:40:50,410 --> 01:40:53,23 This is another thing that we talked about before.
+	- 01:40:53,790 --> 01:41:00,29 He just would go to this place and say, well, this is very interesting over here at Mount Perdido,
+	- 01:41:00,350 --> 01:41:03,99 but I think I'll go back up to Hayes and then his thing would change.
+	- 01:41:04,050 --> 01:41:06,61 And we had to go through the transcript very carefully.
+	- 01:41:07,650 --> 01:41:09,39 Where is he supposed to be talking about now?
+	- 01:41:10,290 --> 01:41:18,55 And then going back to the discussion we had a minute ago, how did he know which one to go to?
+	- 01:41:18,650 --> 01:41:22,09 And it might be more interesting and so forth.
+	- 01:41:22,250 --> 01:41:24,87 And that's just in the back of my mind now, so to speak.
+	- 01:41:26,390 --> 01:41:31,55 Silly the way I talk one way one time and say then in the back of my mind, which I know it's not in there.
+	- 01:41:31,550 --> 01:41:46,67 Anyway, so the main thing that there was some interest in when some people would read this and
+	- 01:41:46,670 --> 01:41:49,85 say, oh my goodness, they're terrible. They're invading us.
+	- 01:41:49,850 --> 01:41:56,23 They can do this and they can monitor what our radio things are and do this.
+	- 01:41:57,130 --> 01:42:12,23 And the single thing that seemed Joe came up with this is first he was worried about this whole
+	- 01:42:12,230 --> 01:42:17,45 thing in terms of him being a military man and wondering about what's all this going on here.
+	- 01:42:17,450 --> 01:42:23,81 But by the time he got through with going through all the targets, he says, you know, they just
+	- 01:42:23,810 --> 01:42:25,09 don't want to be discovered.
+	- 01:42:25,950 --> 01:42:32,77 They don't want people around the planet to know that they're there.
+	- 01:42:33,090 --> 01:42:37,69 They don't want people hiking up the mountain and saying, hey, you guys, what are you doing here? Who's they?
+	- 01:42:40,230 --> 01:42:45,95 It depends on which thing you win, and I don't believe all of it.
+	- 01:42:46,070 --> 01:42:52,53 In other words, there's lots of things that they say, like one of them is their home base is Mars.
+	- 01:42:52,870 --> 01:42:57,75 And I don't necessarily believe that, but other people have said something about that.
+	- 01:42:57,770 --> 01:43:05,67 So I'm looking specifically at the material I have and not adding in things that other people have said.
+	- 01:43:05,670 --> 01:43:11,81 So what is the material that you had on these four different locations? What were they?
+	- 01:43:13,190 --> 01:43:20,07 So we're moving to the next phase.
+	- 01:43:20,730 --> 01:43:29,45 And let me try to make sure I understand the question you're asking is that the only thing I
+	- 01:43:29,450 --> 01:43:35,97 had to start with was prices transcript that put off gave me right.
+	- 01:43:36,070 --> 01:43:38,25 And I changed them into questions.
+	- 01:43:38,250 --> 01:43:42,27 So what was what was Pat's transcript?
+	- 01:43:43,670 --> 01:43:49,21 Specifically, what was going on at these four different locations, the one in Australia, Alaska,
+	- 01:43:50,670 --> 01:43:53,61 Spain, and the location in Africa?
+	- 01:43:55,310 --> 01:44:03,15 Joe started out on his thing, and he usually lays down and then he gets up and comes to the
+	- 01:44:03,150 --> 01:44:06,35 desk and draws for me and explains the drawing.
+	- 01:44:06,350 --> 01:44:08,35 Meanwhile, I'm tape recording the whole thing.
+	- 01:44:09,810 --> 01:44:12,49 So he says this is for Mount Hayes in Alaska.
+	- 01:44:12,890 --> 01:44:17,55 He says, OK, before I describe these pictures here, I have to make a statement.
+	- 01:44:17,950 --> 01:44:23,93 You have to bear with my descriptions and everything, what they lack, because I can't find a lot.
+	- 01:44:24,070 --> 01:44:29,69 I find a lot of difficulty in describing this because I've never seen anything that remotely
+	- 01:44:29,690 --> 01:44:31,53 resembles this part of the target.
+	- 01:44:32,090 --> 01:44:39,37 Now, he doesn't know he's looking at prices, sealed envelope and all that stuff.
+	- 01:44:39,850 --> 01:44:43,31 I've never seen anything like it, just have no familiarity with it.
+	- 01:44:43,330 --> 01:44:47,31 I mean, I don't even recognize the screws and bolts of this thing.
+	- 01:44:47,450 --> 01:44:50,79 It's just completely off the wall as far as the target.
+	- 01:44:51,210 --> 01:44:53,19 So I have nothing to relate to.
+	- 01:44:53,410 --> 01:44:57,61 So I have to present it as I envisioned it.
+	- 01:44:57,810 --> 01:45:03,89 And I ask him, what do you mean by off the wall? It's brand new. It's never existed before.
+	- 01:45:04,210 --> 01:45:08,59 This is a prototype of something, something completely new concept.
+	- 01:45:08,930 --> 01:45:15,65 It's like asking an Aborigine who has never seen an automobile to crawl inside the automobile
+	- 01:45:15,650 --> 01:45:20,79 and then describe in his terms. What's an automobile?
+	- 01:45:21,700 --> 01:45:28,53 When he has no terms for screws and bolts and seat covers and windows and glass and metal, even
+	- 01:45:28,530 --> 01:45:33,81 the most rudimentary parts of this thing have no meaning whatsoever.
+	- 01:45:35,190 --> 01:45:41,85 And so we kind of knew he was in trouble. Let's see here.
+	- 01:45:45,350 --> 01:45:49,53 This is the kind of position I'm in. I've seen something.
+	- 01:45:51,590 --> 01:45:57,67 I have not even a rudimentary term to explain as far as other than a Gestalt concept.
+	- 01:45:58,450 --> 01:46:01,11 And you're really asking me to draw this?
+	- 01:46:01,410 --> 01:46:08,53 So how and why my drawings are not going to be very good? Skip a little bit.
+	- 01:46:08,710 --> 01:46:11,11 Given that's true, here's page one.
+	- 01:46:11,110 --> 01:46:18,05 I have a bunch of water, land, ice, all these general things written here, my sketch.
+	- 01:46:18,690 --> 01:46:24,89 This is generally a very desolate area and drew a mountain range, wrote mountains.
+	- 01:46:25,010 --> 01:46:28,83 This whole range of mountains extends for thousands of miles.
+	- 01:46:29,370 --> 01:46:34,21 So I'll give you an idea of the scale of which I'm drawing and sort of put an X here where I
+	- 01:46:34,210 --> 01:46:35,49 perceive the target to be.
+	- 01:46:37,170 --> 01:46:45,95 So, you know, he goes on in his full transcript about Mount Hayes, an icy covered mountain and
+	- 01:46:45,950 --> 01:46:47,37 so forth and so on.
+	- 01:46:51,190 --> 01:46:52,49 He has a lot of them.
+	- 01:46:52,490 --> 01:47:03,45 And I want to read you—you've heard of different types of remote viewing.
+	- 01:47:03,830 --> 01:47:12,13 Joe just lays down and talks, but then Ingo Swann tells this story about you have to put them
+	- 01:47:12,130 --> 01:47:18,55 right across this way and then go down here and write that, go down here and write that.
+	- 01:47:18,550 --> 01:47:25,73 It's Ingo's technique of trying to keep thoughts and ideas organized, which makes me wonder
+	- 01:47:25,730 --> 01:47:31,11 about this whole idea of you're everywhere every when.
+	- 01:47:31,890 --> 01:47:37,79 And Ingo, although didn't speak of it that way, tries to get you to organize these different
+	- 01:47:37,790 --> 01:47:42,89 things so that you'll stay focused on something and not try to describe everything.
+	- 01:47:44,050 --> 01:47:52,23 Anyway, this coordinate remote viewing here, the whole point of this exercise, other than challenge
+	- 01:47:52,230 --> 01:48:01,59 target, is to say that thing that Price did in 93 and underground UFO bases and everything,
+	- 01:48:02,110 --> 01:48:03,55 is that a bunch of garbage?
+	- 01:48:03,690 --> 01:48:09,61 Or is there any idea that maybe some of the things that he said were really true?
+	- 01:48:10,390 --> 01:48:19,21 And so the result of my thing is like, that sounds pretty darn good. Ten years later.
+	- 01:48:19,810 --> 01:48:27,47 So this, I'm going to read this as a summary of one of those people that did the remote viewing by Ingo Swann.
+	- 01:48:28,210 --> 01:48:30,39 He didn't do it, but one of our trainees.
+	- 01:48:31,670 --> 01:48:40,59 His name was Bill Ray. Sight is a mountain.
+	- 01:48:41,710 --> 01:48:44,63 It is bitter cold and windy.
+	- 01:48:47,610 --> 01:48:50,87 Much snow, much wind and snow.
+	- 01:48:51,290 --> 01:49:01,07 There may be partly or completely frozen body of water nearby. The mountain is hollow.
+	- 01:49:01,070 --> 01:49:05,57 It is a large cave or crater.
+	- 01:49:06,530 --> 01:49:13,05 This has huge rooms and walls, curved high ceilings.
+	- 01:49:13,630 --> 01:49:16,71 There is an opening into the caves.
+	- 01:49:17,330 --> 01:49:19,57 The cavern is clear, sterile.
+	- 01:49:20,410 --> 01:49:28,07 There's equipment and different points there in the corridor.
+	- 01:49:28,070 --> 01:49:31,51 Some of the equipment is for monitoring.
+	- 01:49:31,810 --> 01:49:34,61 Other support may be for life support.
+	- 01:49:35,450 --> 01:49:40,79 There are silver metallic ships, which are very quick.
+	- 01:49:42,070 --> 01:49:46,15 They are durable and are large and small.
+	- 01:49:47,390 --> 01:49:51,95 They are used to transport people and equipment.
+	- 01:49:52,710 --> 01:49:54,15 There are some people here.
+	- 01:49:54,150 --> 01:50:03,51 They are thin, emotional, unemotional, and have programmed feelings.
+	- 01:50:04,870 --> 01:50:12,33 They are strange and have a pre-designed mission.
+	- 01:50:14,030 --> 01:50:20,93 They are freezing and cooling, semi-isolated. They feel unearthly.
+	- 01:50:21,790 --> 01:50:28,59 The site has a research feeling, a feeling like security.
+	- 01:50:29,870 --> 01:50:39,61 The people are benign and serious and are interrelated, sight-end.
+	- 01:50:41,430 --> 01:50:43,43 There are several of those.
+	- 01:50:43,530 --> 01:50:45,35 I only brought one because of time.
+	- 01:50:49,730 --> 01:50:58,05 What I did in 8200 to find out about what Price did in 1973,
+	- 01:51:02,190 --> 01:51:05,85 some people have said to me, Oh, that's perfectly, it matches perfectly.
+	- 01:51:05,970 --> 01:51:14,15 I'm saying, I'm not ready to go that far, but it sure sounds like you have two people and they
+	- 01:51:14,150 --> 01:51:16,71 describe what it was like when they went to the football game.
+	- 01:51:16,790 --> 01:51:19,27 And this one describes what it was like going to the football game.
+	- 01:51:20,490 --> 01:51:22,77 They're not going to be exactly the same.
+	- 01:51:23,990 --> 01:51:26,53 And I think that's what's playing into it here.
+	- 01:51:26,650 --> 01:51:35,75 These are all different people trying to explain this strange thing that they're seeing while remote viewing. Programmed thoughts. What is that?
+	- 01:51:36,470 --> 01:51:38,69 Did he expound upon that at all?
+	- 01:51:39,610 --> 01:51:57,41 There is a different concept that these programmed thoughts people can use telepathy to tell
+	- 01:51:57,410 --> 01:52:02,43 you to turn left instead of to turn right, or you don't see anything here.
+	- 01:52:03,330 --> 01:52:04,99 Some sort of programmed telepathy.
+	- 01:52:12,310 --> 01:52:16,05 One thing was an interesting thing.
+	- 01:52:16,150 --> 01:52:23,91 I was asked, well, people have gone up there, people that are UFO type people have gone up there
+	- 01:52:23,910 --> 01:52:28,23 and looked around, but they can't find how to get into the mountain.
+	- 01:52:31,010 --> 01:52:38,25 And my wife said, What makes you think they have to get into the mountain? I mean, they can.
+	- 01:52:39,490 --> 01:52:42,65 There's lots of things on different things are being proven now.
+	- 01:52:42,670 --> 01:52:55,05 They can walk right through them or they can use this programmed thing and not let you see where the cave begins.
+	- 01:52:57,590 --> 01:53:02,25 That was one of the things people were certainly worried about.
+	- 01:53:02,250 --> 01:53:10,85 And somebody said, well, wouldn't some investigators, some intelligence people go up there and
+	- 01:53:10,850 --> 01:53:14,13 find out if this is true because there's all this going on?
+	- 01:53:14,430 --> 01:53:20,39 And I said, I don't think, I don't know, but I don't think they'd tell me if they did.
+	- 01:53:24,290 --> 01:53:30,29 Now, what about you had said, you had just mentioned maybe they programmed, they used the program
+	- 01:53:30,290 --> 01:53:32,99 thoughts to conceal the entrance.
+	- 01:53:33,650 --> 01:53:42,63 What are you speaking of when you say people can walk through things? Well, first of all,
+	- 01:53:48,370 --> 01:53:56,03 what is the name of that place that they're showing on TV now where they're studying that place
+	- 01:53:56,030 --> 01:53:57,63 in the mountains where they're watching?
+	- 01:53:58,950 --> 01:54:01,01 I'm sorry, I just can't remember right now.
+	- 01:54:01,810 --> 01:54:09,51 But they see lights coming down and going in here and then going through the mountain and popping out over here.
+	- 01:54:10,870 --> 01:54:16,05 So we have these days physically watched that happen.
+	- 01:54:17,310 --> 01:54:25,65 And the idea that, it was just my wife's comment, it's just what makes them think they have
+	- 01:54:25,650 --> 01:54:28,03 to, they couldn't go through the mountain.
+	- 01:54:29,790 --> 01:54:35,87 So a softer way of saying that is they could be controlled so they can't see where they go in the mountain.
+	- 01:54:36,310 --> 01:54:43,33 But there also are real films now that show that happens.
+	- 01:54:43,770 --> 01:54:45,35 How do you articulate that?
+	- 01:54:46,250 --> 01:54:50,59 How do you, what's happening there? How is that happening?
+	- 01:54:51,190 --> 01:54:55,59 I watch it on TV like everybody else does and I see it come down.
+	- 01:54:56,350 --> 01:54:58,85 And it's been going on for quite a while.
+	- 01:54:59,430 --> 01:55:01,37 I think you must have seen the programs.
+	- 01:55:02,450 --> 01:55:04,55 I just can't remember the name of them right now. But they,
+	- 01:55:07,350 --> 01:55:12,91 how would I, what do I think about that and how they do it?
+	- 01:55:14,730 --> 01:55:16,27 I don't have an answer.
+	- 01:55:16,970 --> 01:55:21,43 I know that it's been videotaped, that it's been documented by a lot of different people and
+	- 01:55:21,430 --> 01:55:24,11 they bring in experts in to try to figure it out.
+	- 01:55:24,730 --> 01:55:30,61 And what you see in the films that they make is it goes through over here and it goes out over there.
+	- 01:55:32,410 --> 01:55:35,73 And when I watch it, I'm saying, well, look at that.
+	- 01:55:36,170 --> 01:55:46,45 I don't have the wherewithal, other than whatever they're doing, it's something we don't know
+	- 01:55:46,450 --> 01:55:48,95 about and that's what they're investigating.
+	- 01:55:49,990 --> 01:55:54,65 Well, what about the, so this was Mount Hayes, correct, that we were just speaking of?
+	- 01:55:54,670 --> 01:55:58,79 We're talking about Mount Hayes in that situation.
+	- 01:55:59,410 --> 01:56:10,17 What are they, what are Pat and Joe saying about the other three locations? Were they identical? Were there any variations?
+	- 01:56:12,890 --> 01:56:15,61 Yes. I don't have that here in my notes.
+	- 01:56:15,610 --> 01:56:17,27 I have it all written down at home.
+	- 01:56:18,030 --> 01:56:19,13 Do you remember any of it?
+	- 01:56:19,170 --> 01:56:21,73 It's well documented in my books too.
+	- 01:56:24,450 --> 01:56:33,79 If we're talking about this particular set of beings, in the 8,200 beings, I remember that they...
+	- 01:56:40,570 --> 01:56:54,01 would reportedly, would interfere with... one of our aircraft that would go over and could take
+	- 01:56:54,010 --> 01:57:02,17 satellite pictures in that range and that satellite would have some problems because they didn't
+	- 01:57:02,170 --> 01:57:05,33 want anything to be captured or photographed.
+	- 01:57:05,410 --> 01:57:13,55 They didn't want, it was very important for them not to be discovered. Interesting.
+	- 01:57:14,710 --> 01:57:31,51 And again, they don't seem to be... dangerous or concerned with hurting us in any way. Just don't get discovered. But they got discovered.
+	- 01:57:32,810 --> 01:57:39,79 Well, in this particular case, with the help of Pat Price and 10 years later with a follow-on
+	- 01:57:39,790 --> 01:57:42,61 of these remote viewers looking at it.
+	- 01:57:43,310 --> 01:57:46,59 Had anyone else other than Joe and Pat remote viewed these locations?
+	- 01:57:49,370 --> 01:58:01,49 Yes, they... I had seven, six... Joe and...
+	- 01:58:01,490 --> 01:58:04,61 Joe did all four places. Pat did it.
+	- 01:58:04,710 --> 01:58:12,11 But then I had these other... coordinate remote viewers or controlled remote viewers.
+	- 01:58:12,490 --> 01:58:13,45 I had six of those.
+	- 01:58:13,590 --> 01:58:18,49 And that's what I read you when I read you this. Okay.
+	- 01:58:18,490 --> 01:58:24,81 So, with everything that you know about this and, I mean, you set up Project 8,200.
+	- 01:58:25,310 --> 01:58:28,93 I mean, what is your conclusion? What are these?
+	- 01:58:32,890 --> 01:58:35,51 We have to ask the question softer.
+	- 01:58:40,710 --> 01:58:51,41 My job... I was an army officer at the time and my job to do... these kinds of remote viewing things.
+	- 01:58:51,830 --> 01:58:56,33 This wasn't tasked by anybody but me just for training purposes.
+	- 01:58:58,690 --> 01:59:04,67 My results are these look very similar to what Pat Price did.
+	- 01:59:06,430 --> 01:59:11,71 I think that there's a validity to the Pat Price work and the work that they did.
+	- 01:59:12,530 --> 01:59:17,83 But when you take one step further is, well, what do I think about them? What are they doing?
+	- 01:59:17,910 --> 01:59:22,17 And how can they do that? And what this is. That wasn't my job.
+	- 01:59:22,330 --> 01:59:24,73 That wasn't something that I know about.
+	- 01:59:27,770 --> 01:59:35,61 It's... pretty weird stuff. But it was... It's pretty weird. Weird, all right.
+	- 01:59:35,750 --> 01:59:41,09 Project 8,200 was about checking out what Price said.
+	- 01:59:41,470 --> 01:59:47,43 And my remote viewers said, well, interestingly, it matches pretty interestingly.
+	- 01:59:48,130 --> 01:59:52,97 So, we're talking six to seven different remote viewers all remote viewed these locations and
+	- 01:59:52,970 --> 01:59:54,93 said something very similar to say.
+	- 01:59:56,150 --> 02:00:05,89 And has there been any reported activity from civilian population, news, media, anything from any of these locations?
+	- 02:00:06,710 --> 02:00:18,73 Apparently, it is a common thing in those type of people that are UFO people or running around.
+	- 02:00:18,770 --> 02:00:24,21 There's many, many, many people who have big opinions about UFOs and want to talk about them all the time.
+	- 02:00:25,810 --> 02:00:30,21 Those people seem to know about this too a little bit.
+	- 02:00:31,170 --> 02:00:34,61 And I don't deal with talking to them.
+	- 02:00:35,670 --> 02:00:40,45 What is your opinion on UFOs? Are they real?
+	- 02:00:41,510 --> 02:00:43,09 I don't know how to answer that question.
+	- 02:00:43,510 --> 02:00:45,25 It isn't part of my job.
+	- 02:00:45,290 --> 02:00:52,25 And I hear you trying to suck about, suck things out of me in terms of, well, what do you think?
+	- 02:00:52,470 --> 02:00:53,07 Well, what do you think?
+	- 02:00:53,630 --> 02:01:01,63 And it's like, I think I did a pretty good job organizing how to find out what Price did.
+	- 02:01:03,270 --> 02:01:04,93 Do you believe in UFOs?
+	- 02:01:11,530 --> 02:01:13,81 You're really good in your questions.
+	- 02:01:14,210 --> 02:01:15,91 I wanted to read you a little bit of this later.
+	- 02:01:19,750 --> 02:01:25,97 If I try to sidestep you like I'm doing right now, then you're going to draw a conclusion.
+	- 02:01:26,190 --> 02:01:28,81 Ah, I know what he's doing there.
+	- 02:01:28,830 --> 02:01:31,01 He really believes in them, but he doesn't want to tell me.
+	- 02:01:31,370 --> 02:01:33,69 On the other hand, I can say,
+	- 02:01:37,630 --> 02:01:45,57 it's an interesting subject, or I can talk more about it, or I can say, I can neither confirm nor deny.
+	- 02:01:46,070 --> 02:01:48,61 And so there's lots of different things.
+	- 02:01:49,890 --> 02:01:52,69 Do you want me to tell you some stories? Absolutely.
+	- 02:01:54,870 --> 02:01:56,89 When I was a very small child
+	- 02:01:59,430 --> 02:02:01,41 living in California, I was a kid.
+	- 02:02:02,370 --> 02:02:06,73 I was out in the front yard with my mom walking around.
+	- 02:02:07,090 --> 02:02:12,79 The ivy that my dad had planted, so instead of grass, so that he didn't have to cut the grass
+	- 02:02:12,790 --> 02:02:15,01 all the time, just had the green ivy out there.
+	- 02:02:15,010 --> 02:02:16,49 Big, huge field of green ivy.
+	- 02:02:16,970 --> 02:02:24,55 And I looked up there and said, Mom, what are those five silver things up there? What are those things?
+	- 02:02:24,630 --> 02:02:28,19 And she just said, Oh, they call those UFOs. Don't worry about them. They're fine.
+	- 02:02:30,910 --> 02:02:33,11 And another story from my weird family.
+	- 02:02:38,110 --> 02:02:45,57 Ingo Swann had some encounters with a UFO on the ground, and he snuck over a mountain and watched
+	- 02:02:45,570 --> 02:02:46,87 him and so forth and so on.
+	- 02:02:48,890 --> 02:02:57,11 And I asked Putoff, Do you trust what Ingo says? He says, Yes, absolutely. Ingo will never lie.
+	- 02:02:57,570 --> 02:03:01,29 He'll have mistakes and look at this and look at this.
+	- 02:03:01,290 --> 02:03:04,49 But if he says he was there, he saw one.
+	- 02:03:10,510 --> 02:03:20,85 When Joe and I both worked in Stargate together, same office, I had an incident where I was
+	- 02:03:20,850 --> 02:03:26,91 on top of a grassy knoll, which I now use to explain as...
+	- 02:03:32,690 --> 02:03:36,89 Again, forgetting the name. I actually have a picture of it.
+	- 02:03:36,890 --> 02:03:38,27 It's important to say this name.
+	- 02:03:43,890 --> 02:03:48,11 There it is. Lawrence Livermore National Laboratory.
+	- 02:03:49,030 --> 02:03:50,67 Do you know what that looks like? I don't.
+	- 02:03:51,070 --> 02:03:52,67 It's outside of San Francisco.
+	- 02:03:55,690 --> 02:04:01,59 Lawrence Livermore National Laboratory. Anyway, so...
+	- 02:04:01,590 --> 02:04:05,05 Do you mind if I text this to myself so we can put it on the screen?
+	- 02:04:05,370 --> 02:04:11,41 The story that I'm not telling you is about my actual encounters with UFOs.
+	- 02:04:11,410 --> 02:04:14,41 So Joe and I are both working in...
+	- 02:04:17,690 --> 02:04:22,75 Stargate. And one night I have this very strong...
+	- 02:04:24,330 --> 02:04:29,41 I'm standing on a grassy knoll area.
+	- 02:04:34,010 --> 02:04:40,87 And I'm looking around and there's lots of people, just regular Joes and Janes.
+	- 02:04:41,410 --> 02:04:42,91 Is that a good way to do that?
+	- 02:04:45,070 --> 02:04:47,67 Regular people there and I'm looking around.
+	- 02:04:49,570 --> 02:04:51,47 And there's a sense of...
+	- 02:04:54,190 --> 02:04:56,85 sort of being hypnotized during this zone.
+	- 02:04:57,850 --> 02:04:59,55 I wish I knew that name.
+	- 02:04:59,830 --> 02:05:07,59 Do you know when the healers down in South America go around and fix your ears and fix your eyes and stuff?
+	- 02:05:08,350 --> 02:05:14,07 They're all kind of mesmerized. In a trance. Mesmerized, right?
+	- 02:05:14,230 --> 02:05:22,07 Well, these people that I was standing around with on the grassy knoll area were all sort of mesmerized.
+	- 02:05:22,450 --> 02:05:34,01 And they were like looking around and there were aliens in between them, like interviewing them
+	- 02:05:34,010 --> 02:05:36,71 or talking to them and so forth.
+	- 02:05:38,030 --> 02:05:52,35 And I lost my composure because I was doing training in remote viewing and out-of-body stuff and all that.
+	- 02:05:54,070 --> 02:06:02,85 And in my thing, I spoke up and said, well, I teach people how to get out of their body.
+	- 02:06:03,910 --> 02:06:09,43 And the aliens looked over at me and I said, ah, shit, why didn't I keep my mouth shut?
+	- 02:06:10,210 --> 02:06:20,37 And they came over to me and they brought over to me a little... This is too big.
+	- 02:06:20,390 --> 02:06:25,57 It was just a little tiny thing that was round like this and had a needle thing here and in
+	- 02:06:25,570 --> 02:06:39,85 here there was a... filled with fluid of some kind that was the color of... kind of brownish
+	- 02:06:39,850 --> 02:06:44,47 color and it was much smaller like this.
+	- 02:06:44,570 --> 02:06:50,59 And they came around to me and circled me and I'm still probably a little mesmerized again by
+	- 02:06:50,590 --> 02:06:55,45 that time but I was like, I realized I said something that I shouldn't have said.
+	- 02:06:57,050 --> 02:07:02,73 And they stuck it in my leg and squeezed the brown part
+	- 02:07:05,610 --> 02:07:11,23 and I floated up into the air and they said, kind of like that.
+	- 02:07:11,310 --> 02:07:15,95 And I was like, the other people and other aliens didn't care.
+	- 02:07:16,190 --> 02:07:19,83 They looked up, you know, and said, hey, what is he doing floating? No, they didn't.
+	- 02:07:20,050 --> 02:07:28,03 It was, you know, they didn't, because of their mesmerization, mesmer, they didn't seem to care
+	- 02:07:28,030 --> 02:07:31,07 too much that I was floating up in the air and so forth and so on.
+	- 02:07:31,570 --> 02:07:35,73 Now, this is a dream or this is real or...
+	- 02:07:35,990 --> 02:07:39,75 Let's just say this is an experience that I had.
+	- 02:07:40,330 --> 02:07:42,49 This is an out-of-body experience.
+	- 02:07:42,790 --> 02:07:50,45 So you had an out-of-body experience in a grassy knoll. Let's... Is that correct?
+	- 02:07:50,830 --> 02:07:57,93 No, let's not jump to conclusions until I come to the end and then I'll say I give up. But...
+	- 02:07:59,450 --> 02:08:04,23 So, I had an experience and my experience was I was on a grassy knoll
+	- 02:08:07,090 --> 02:08:15,11 and... the next morning I wake up and I go to work at Fort Meade and Joe's in the office with
+	- 02:08:15,110 --> 02:08:21,21 everybody else and I walk by Joe... Well, I'm sorry. Joe was there.
+	- 02:08:22,230 --> 02:08:27,77 Amongst the other people, Joe was there and I saw him there. So... In the experience?
+	- 02:08:28,490 --> 02:08:31,99 Yes, I saw him in the experience. So I...
+	- 02:08:31,990 --> 02:08:33,63 With all the other people and the little aliens.
+	- 02:08:34,010 --> 02:08:38,99 So I went over to Joe and I said, Hey, Joe, can I ask you something?
+	- 02:08:40,730 --> 02:08:42,05 He said, sure, what do you want?
+	- 02:08:42,190 --> 02:08:47,61 And I said, I was wondering if anything happened to you last night.
+	- 02:08:47,750 --> 02:08:53,61 He said, no, just all those aliens that you and I were with. I said, okay, thanks.
+	- 02:08:53,610 --> 02:08:59,55 And I turned around and walked out of the office and Joe and I to this day have never spoken of it again.
+	- 02:09:00,470 --> 02:09:02,43 Why have you not spoken with him about that?
+	- 02:09:03,070 --> 02:09:05,11 I don't know the answer to that.
+	- 02:09:05,130 --> 02:09:07,05 But we had talked about it.
+	- 02:09:07,050 --> 02:09:12,35 Now, I did talk to... Putoff about it.
+	- 02:09:12,750 --> 02:09:16,63 Sidebar, Putoff really believes in UFOs. Okay?
+	- 02:09:17,290 --> 02:09:19,61 Coming back to Putoff, I said...
+	- 02:09:22,230 --> 02:09:24,07 I told him about my experience.
+	- 02:09:24,550 --> 02:09:25,67 Didn't tell him about Joe, I don't think.
+	- 02:09:26,370 --> 02:09:31,09 And he says, was it up at...
+	- 02:09:31,090 --> 02:09:34,35 What was the name of that place again? Mount Hayes?
+	- 02:09:34,590 --> 02:09:37,49 No, no, no, no, no, this... Oh.
+	- 02:09:40,090 --> 02:09:41,57 I don't know. Okay. Okay.
+	- 02:09:47,670 --> 02:09:52,07 He said to me, was it at the Lawrence Livermore Laboratory?
+	- 02:09:53,310 --> 02:09:57,37 And I said, really, you think it was there?
+	- 02:09:58,410 --> 02:10:00,37 Because I knew where that place is.
+	- 02:10:01,450 --> 02:10:05,49 And he said, well, there's a lot of incidents up there that get reported.
+	- 02:10:06,250 --> 02:10:07,95 And that's all he told me.
+	- 02:10:09,130 --> 02:10:14,03 But he knew about the Lawrence Livermore thing, so I started looking up pictures.
+	- 02:10:14,610 --> 02:10:21,17 And I said, that looks like a pretty darn good grassy knoll. Very, very interesting.
+	- 02:10:21,490 --> 02:10:28,65 So, when you asked me about that, I was reluctant to say anything about that.
+	- 02:10:31,610 --> 02:10:37,67 And I have... had a discrete out-of-body experience.
+	- 02:10:41,410 --> 02:10:48,59 And found myself... in the...
+	- 02:10:48,590 --> 02:10:54,29 It's hard to talk about dimensions, but I was standing behind an alien in a spacecraft.
+	- 02:10:54,970 --> 02:11:04,83 Just a small one, which I understand... get bigger and smaller depending upon... at any rate.
+	- 02:11:07,030 --> 02:11:09,45 He said, you shouldn't be here.
+	- 02:11:09,550 --> 02:11:12,91 And I said, I know, I realize this is a strange place.
+	- 02:11:14,170 --> 02:11:18,31 But before I go, could I ask you a question?
+	- 02:11:19,490 --> 02:11:25,21 And this is... really a very strong memory.
+	- 02:11:26,570 --> 02:11:28,05 Excuse me, in my head.
+	- 02:11:28,690 --> 02:11:32,03 I don't remember what I had for dinner last night, but this is in there.
+	- 02:11:34,130 --> 02:11:36,19 I'm telling myself I'm silly again.
+	- 02:11:36,250 --> 02:11:40,05 Dude, it's not in there. At any rate...
+	- 02:11:43,710 --> 02:11:53,75 And he said, OK. And I said, how do you get from here to Alpha Centauri? We can't do that.
+	- 02:11:53,790 --> 02:12:00,13 The only thing that we think about is I have to go really fast for a really long time.
+	- 02:12:01,090 --> 02:12:04,61 How is it that you can go to Alpha Centauri without any problem?
+	- 02:12:05,790 --> 02:12:07,73 And essentially he said, you wouldn't understand.
+	- 02:12:08,950 --> 02:12:13,89 So I said, I agree, that's a problem.
+	- 02:12:14,070 --> 02:12:20,13 However, I know that you have access to my mental thoughts. I mean, that's...
+	- 02:12:20,130 --> 02:12:21,55 You're not talking to me with your mouth.
+	- 02:12:21,590 --> 02:12:24,37 You have access to my mental thoughts, and I understand that.
+	- 02:12:24,370 --> 02:12:30,41 Can you use what information I have in my head and try to explain it to me?
+	- 02:12:31,090 --> 02:12:34,65 And he said, well, do you know what a Rubik's Cube is?
+	- 02:12:34,690 --> 02:12:37,35 And I said, oh yeah, my son can do them in two minutes.
+	- 02:12:37,670 --> 02:12:43,37 He says, OK, so imagine a Rubik's Cube, but not necessarily just the six sides.
+	- 02:12:43,750 --> 02:12:47,11 Just imagine the concept of a Rubik's Cube. And I said, OK.
+	- 02:12:48,030 --> 02:12:51,63 Now imagine on each one of the tiles on the Rubik's Cube
+	- 02:12:55,110 --> 02:12:59,37 has a chart of the elements, an elemental chart.
+	- 02:13:00,710 --> 02:13:03,13 And you say, oh yeah, I know what that is.
+	- 02:13:03,190 --> 02:13:05,45 I've had science in school and everything.
+	- 02:13:05,570 --> 02:13:10,85 He says, now, on each of the other five surfaces, there's also elemental charts.
+	- 02:13:12,870 --> 02:13:17,79 And I said, so, OK, but what's the deal? And he said, well...
+	- 02:13:17,820 --> 02:13:25,36 For a very long time, what he didn't say to me, which I'm thinking right now, there's no space in time.
+	- 02:13:26,740 --> 02:13:28,30 I'm only thinking that right now.
+	- 02:13:28,380 --> 02:13:29,72 That wasn't part of the explanation.
+	- 02:13:31,640 --> 02:13:36,34 And he says, so what you do to get up to Alpha Centauri is you just twist the cube.
+	- 02:13:39,020 --> 02:13:44,14 And I said, what do you mean?
+	- 02:13:44,200 --> 02:13:45,72 He said, well, I told you you wouldn't understand.
+	- 02:13:45,720 --> 02:13:55,32 And he said, when the periodic table occurs in a different place, you're at that place.
+	- 02:13:55,700 --> 02:13:58,52 And that's just a very crude explanation.
+	- 02:13:59,240 --> 02:14:08,64 But you have to stop thinking about, go that way for a long time, very fast. It doesn't work.
+	- 02:14:11,600 --> 02:14:18,84 And so, you know, the Rubik's Cube and all that nonsense is probably just trying to mess with my mind and everything.
+	- 02:14:22,860 --> 02:14:26,00 because that doesn't make, how many Rubik's Cubes do you have to have?
+	- 02:14:26,060 --> 02:14:27,48 You know, it's a stupid question.
+	- 02:14:27,540 --> 02:14:32,58 It's just an explanation for me to try to get my thinking straight.
+	- 02:14:32,580 --> 02:14:35,10 Because he was very strong when he said...
+	- 02:14:35,100 --> 02:14:39,38 So it has to be utilizing some type of a consciousness. Correct?
+	- 02:14:40,400 --> 02:14:44,58 I think that that's absolutely true. It's a consciousness act.
+	- 02:14:45,440 --> 02:14:54,10 And so, you're talking about quantum, what was it, quantum locale, correct? Yeah.
+	- 02:14:54,260 --> 02:14:56,52 And so, there has to be some kind of a connection.
+	- 02:14:58,780 --> 02:15:04,04 If you heard of, what is they call it?
+	- 02:15:04,300 --> 02:15:09,86 Man, now I'm having problems. Quantum entanglement.
+	- 02:15:11,260 --> 02:15:14,06 It has to be something like that.
+	- 02:15:14,900 --> 02:15:24,30 I mean, our entire conversation you've been talking about, everything is one connect, how everything is connected.
+	- 02:15:25,400 --> 02:15:32,74 And so, I mean, even the Chinese have claimed to be able to communicate with their satellites
+	- 02:15:32,740 --> 02:15:37,30 now via quantum entanglement, whether that's real or bullshit, I don't know.
+	- 02:15:37,760 --> 02:15:44,80 But supposedly the premise is every atom is connected and we've talked about this several times
+	- 02:15:44,800 --> 02:15:54,24 on the show, if you split an atom in half and you vibrate this half, no matter where in space
+	- 02:15:54,240 --> 02:16:02,86 and time, the other half is, it will mimic the exact same vibration that's being manipulated on the other half.
+	- 02:16:02,860 --> 02:16:10,16 And so, that has to be, that has, oh, I guess it doesn't have to, but I would think that that would come into play.
+	- 02:16:10,560 --> 02:16:20,24 Well, we're trying very hard to think about it as humans in our little brains, but then there
+	- 02:16:20,240 --> 02:16:23,94 does seem to be help coming along like this.
+	- 02:16:28,680 --> 02:16:34,26 Just to end this part of the story, there is no end, there's no space time.
+	- 02:16:36,720 --> 02:16:42,94 Time passed and it occurred to me, wait a minute, I don't have to twist the cube.
+	- 02:16:43,320 --> 02:16:48,06 If I just turn the cube on the other surface is a different world.
+	- 02:16:49,420 --> 02:16:57,76 And this same guy spoke to me instantly in my brain, and saying, I've been waiting for you to discover that.
+	- 02:16:59,940 --> 02:17:04,32 And it's not like he didn't ever go anywhere because you can't ever go anywhere.
+	- 02:17:08,060 --> 02:17:15,78 So it was very interesting to me, you know, one minute, gee, why did you wait three years to tell me that?
+	- 02:17:17,660 --> 02:17:23,74 There's no such thing as the three years to think about, but it was like, sat me up like this,
+	- 02:17:23,740 --> 02:17:31,78 and said, I didn't say anything in my head, I was like, well, that was pretty interesting.
+	- 02:17:36,460 --> 02:17:46,16 And so getting back to your question, do I believe in UFOs? I have had experiences.
+	- 02:17:47,440 --> 02:17:52,04 So I guess it's just a matter if you trust your own experiences or not. Yes.
+	- 02:17:52,380 --> 02:17:53,96 Do you trust your own experiences?
+	- 02:17:57,280 --> 02:18:02,32 Yeah, but there are false things around all the time, you know, green ice cream is no good for
+	- 02:18:02,320 --> 02:18:03,94 you, you ought to eat vanilla, you know?
+	- 02:18:04,180 --> 02:18:05,58 So is that a belief system?
+	- 02:18:05,780 --> 02:18:10,54 And I say, somebody told me one time, you shouldn't eat green ice cream, you know?
+	- 02:18:12,440 --> 02:18:20,46 So I'm where I am right now at 77 years old and the experiences I've had, I have no doubt that
+	- 02:18:20,460 --> 02:18:27,10 there is something going on besides us on this planet, there's something else there.
+	- 02:18:27,800 --> 02:18:31,28 And maybe because the everywhere, every when,
+	- 02:18:34,920 --> 02:18:42,76 and if they are all one, there's no such thing as, they're part of us, they're part of our family,
+	- 02:18:42,880 --> 02:18:43,94 they're part of our group.
+	- 02:18:45,820 --> 02:18:48,22 Interesting concept that I've not heard before.
+	- 02:18:52,360 --> 02:18:54,44 Do you have any other, how,
+	- 02:18:58,440 --> 02:19:01,62 how far down the rabbit hole did you guys go with this?
+	- 02:19:02,020 --> 02:19:04,42 Were there other projects other than 8200?
+	- 02:19:05,660 --> 02:19:08,06 Of that type, no, I mean, you're.
+	- 02:19:09,900 --> 02:19:17,04 I mean, I remember when I interviewed Joe, he had mentioned remote viewing a pyramid on Mars.
+	- 02:19:17,960 --> 02:19:20,28 And I believe the year was 2000 BC.
+	- 02:19:21,080 --> 02:19:22,58 Do you have any recollection of that?
+	- 02:19:23,660 --> 02:19:24,72 I sent Joe to Mars.
+	- 02:19:25,200 --> 02:19:27,50 You're the one that sent him there? Mm-hmm.
+	- 02:19:28,940 --> 02:19:32,02 Can you just kind of relive that experience?
+	- 02:19:34,960 --> 02:19:39,40 Actually, let me start with a preliminary question.
+	- 02:19:40,000 --> 02:19:43,44 How did that pop up on anybody's radar?
+	- 02:19:43,840 --> 02:19:51,16 Why did you even give Joe a specific grid coordinate on Mars with a date?
+	- 02:19:55,220 --> 02:19:56,62 You know, I don't remember.
+	- 02:19:58,140 --> 02:20:06,00 Right, I mean, I even have that on video and the whole thing on my computer, which I'll send
+	- 02:20:06,000 --> 02:20:07,10 you and you can listen to it.
+	- 02:20:07,100 --> 02:20:10,92 But I don't remember actually why I did that.
+	- 02:20:12,080 --> 02:20:18,48 You don't remember why somebody gave you a coordinate to have Joe McMonagle remote view Mars?
+	- 02:20:21,780 --> 02:20:28,34 I would rather say what I just said, and that is I don't remember why I did that. Okay.
+	- 02:20:30,060 --> 02:20:34,86 What did you think when Joe discovered the pyramid through his experience?
+	- 02:20:34,860 --> 02:20:41,60 Well, I tended to believe him on a couple of things.
+	- 02:20:45,440 --> 02:20:52,56 I had, during the thing, he...
+	- 02:20:52,700 --> 02:20:58,82 This might have had something to do with put off because I asked some questions about it of put off.
+	- 02:21:01,080 --> 02:21:04,84 Anyway, the planet is a different story.
+	- 02:21:04,860 --> 02:21:05,82 It's a different size than ours.
+	- 02:21:06,760 --> 02:21:10,78 So you had to be careful about what he said.
+	- 02:21:12,620 --> 02:21:15,72 One time he looked at the sun and he said, what's wrong with the sun?
+	- 02:21:16,300 --> 02:21:18,30 I said, Joe, we can't study that right now.
+	- 02:21:18,360 --> 02:21:27,26 We have to look at this coordinate here and the coordinates on Mars all go just in one direction, east, west, north, south.
+	- 02:21:27,440 --> 02:21:33,98 But they, you know, us, we split this way in our east and west, but on Mars, it goes the whole way around.
+	- 02:21:33,980 --> 02:21:35,92 I got goofed up for a while there.
+	- 02:21:36,780 --> 02:21:39,84 And then I remembered coordinates don't matter anyway.
+	- 02:21:39,900 --> 02:21:41,86 He's just doing what he's doing.
+	- 02:21:42,040 --> 02:21:49,80 If I say it, you know, go check out the peanuts, you know, okay. Wouldn't mean anything.
+	- 02:21:55,500 --> 02:22:02,76 And then he came back down and I said, you know, go over there and go over here. And then he said,
+	- 02:22:08,200 --> 02:22:14,68 Mars used to be a good, used to be a healthy planet, but it got hit by something.
+	- 02:22:15,820 --> 02:22:22,36 And I said, are you saying it was something exploded? Something was destroyed? He says it was
+	- 02:22:27,020 --> 02:22:35,46 like an asteroid came and hit the planet and that tore the atmosphere off of it.
+	- 02:22:35,860 --> 02:22:40,36 And for millions of years now, it's just been deteriorating after it lost its atmosphere.
+	- 02:22:42,740 --> 02:22:47,84 And then he said, and there's some people in the pyramid thing.
+	- 02:22:48,140 --> 02:22:52,20 I don't know if he just said building or a pyramid, but it could have said a pyramid.
+	- 02:22:55,560 --> 02:23:00,30 And people hid in there knowing that the comet was coming.
+	- 02:23:00,760 --> 02:23:13,42 They wanted to create an environment where they could survive and then come out after the destruction of the terribleness.
+	- 02:23:14,620 --> 02:23:18,08 And I said, well, can you go?
+	- 02:23:22,360 --> 02:23:25,02 And he was able to go back in time.
+	- 02:23:25,180 --> 02:23:28,30 I told him to go back in time till before that hit.
+	- 02:23:28,760 --> 02:23:34,96 And he described, you know, tall aliens and so forth and so on.
+	- 02:23:34,960 --> 02:23:36,68 And I said, well, how about now?
+	- 02:23:36,800 --> 02:23:37,94 Can you go inside the pyramid?
+	- 02:23:38,140 --> 02:23:39,42 And he said, oh no, it's been too long.
+	- 02:23:40,140 --> 02:23:42,30 It's been a long, long time.
+	- 02:23:43,520 --> 02:23:46,36 And they're all dead now. They didn't survive.
+	- 02:23:48,940 --> 02:23:50,56 And then he said,
+	- 02:23:53,300 --> 02:23:57,00 but some of them didn't go into that.
+	- 02:23:57,000 --> 02:24:03,70 Some of them took off like they had a spaceship of some kind and they took off.
+	- 02:24:04,320 --> 02:24:07,18 And then he described something that looked an awful lot
+	- 02:24:10,020 --> 02:24:21,02 like earth before the earth got torn apart by, you know, a young earth with volcanoes and stuff
+	- 02:24:21,020 --> 02:24:26,46 all around there, like out of the frying pan into the fire was kind of the thing I was saying.
+	- 02:24:26,460 --> 02:24:31,14 It's like, that's as far as they could get, but it was, at least it was off Mars.
+	- 02:24:34,540 --> 02:24:44,26 Now that I think back, it might be that Putoff had something to do with trying to get me to do that work.
+	- 02:24:44,280 --> 02:24:46,50 Cause I remember talking with him about it.
+	- 02:24:48,280 --> 02:24:51,72 I'll send the movie to you and you can see it. I would appreciate that.
+	- 02:24:51,820 --> 02:24:56,42 Would it be okay if we put some of the clips into this interview as we talk about it?
+	- 02:24:56,640 --> 02:25:01,56 Sure, cause then you would have the show. Thank you.
+	- 02:25:04,360 --> 02:25:06,44 How did Pat die?
+	- 02:25:10,200 --> 02:25:11,94 Slowly this or not this.
+	- 02:25:13,360 --> 02:25:23,98 There are many, many stories about Pat dying and everybody has a different story.
+	- 02:25:26,800 --> 02:25:32,18 Do you really want to, I mean, this is really, I can tell you that and then you'll have the stories too.
+	- 02:25:36,740 --> 02:25:48,18 There was a sense that 73, he was active and stuff. 75, he was dead.
+	- 02:25:49,900 --> 02:26:03,86 CIA had bought him, CMI, CIA got him away from SRI because they saw what he did and CIA hired him.
+	- 02:26:05,500 --> 02:26:06,88 Lived in the Virginia area.
+	- 02:26:09,280 --> 02:26:13,02 Some of the reports say he was in Washington, DC.
+	- 02:26:13,180 --> 02:26:14,44 No, he was in the Virginia area.
+	- 02:26:14,440 --> 02:26:17,64 That's how far apart Virginia and Washington, DC are.
+	- 02:26:18,340 --> 02:26:20,22 Depends on where you go to the store or not.
+	- 02:26:21,420 --> 02:26:34,62 At any rate, there was a rumor that came up that he was sick and that he was gonna die
+	- 02:26:37,560 --> 02:26:44,46 and he collapsed in a restaurant and they took him to the hospital.
+	- 02:26:52,660 --> 02:26:57,58 And I'm gonna tell these stories differently and you're gonna get them mixed up, okay?
+	- 02:26:58,880 --> 02:27:14,26 Took him to the hospital and he disappeared from the hospital when two people came to take him
+	- 02:27:14,260 --> 02:27:16,66 and said they're gonna take him to the funeral home.
+	- 02:27:18,320 --> 02:27:21,04 And people say, well, who were these guys?
+	- 02:27:21,760 --> 02:27:32,28 I don't know, but I think when Bill was on night duty but he's not here today and I don't really
+	- 02:27:32,280 --> 02:27:34,94 know who that was, why don't you check at the desk or something?
+	- 02:27:36,240 --> 02:27:38,32 Nobody could identify who they were.
+	- 02:27:38,920 --> 02:27:46,76 I say CIA would do that because he was their employee and had lots of classified stuff and so they would take him.
+	- 02:27:51,320 --> 02:28:00,44 And Russell Targ tells the story that then they were, they took him and they cremated him and
+	- 02:28:00,440 --> 02:28:05,74 buried him in an unmarked grave and he went looking for the grave and see there's the grave
+	- 02:28:05,740 --> 02:28:10,66 that says 155 and it doesn't say anything about it.
+	- 02:28:11,800 --> 02:28:16,08 It's an unmarked grave where supposedly his ashes are in there.
+	- 02:28:16,080 --> 02:28:22,86 The agency just decided they were gonna cremate him and bury him in an unmarked grave.
+	- 02:28:26,840 --> 02:28:33,06 I would suggest that it's something like that but having you say it was much better.
+	- 02:28:39,080 --> 02:28:50,64 That's one story, okay. Second story, oh, and then, I'm sorry, after he was buried, they called his wife, okay.
+	- 02:28:50,640 --> 02:29:00,22 And that's the story that Russell got when he went looking for what happened to him. Russell Targ got that. Now, story two.
+	- 02:29:01,960 --> 02:29:03,02 I think there'll be three stories.
+	- 02:29:03,720 --> 02:29:06,74 Story two is Pat Price, Pat Price,
+	- 02:29:15,960 --> 02:29:23,06 Hal. Hal and Pat's wife
+	- 02:29:26,080 --> 02:29:34,96 fly to, I think the place is Las Vegas area, I'm not too sure. And
+	- 02:29:38,860 --> 02:29:43,20 go to the hospital and they say, oh, well, he got taken to the funeral home.
+	- 02:29:43,580 --> 02:29:46,44 They go to the, and we don't know who that was.
+	- 02:29:46,440 --> 02:29:51,46 And they go to the funeral home and there's Pat Price's body
+	- 02:29:54,900 --> 02:30:10,38 in a casket. And Hal tells me, it looks like Price, his wife is there and they agree it looks like him.
+	- 02:30:10,700 --> 02:30:19,72 But it's not so hard to do that to a body and the CIA is good at fixing stuff up that needs to be fixed up.
+	- 02:30:24,240 --> 02:30:28,02 So, I don't know. After that,
+	- 02:30:31,340 --> 02:30:33,18 there's four stories, not three.
+	- 02:30:34,600 --> 02:30:41,06 I don't know after that, because the next question, well, did they bury that?
+	- 02:30:42,240 --> 02:30:44,46 No, I don't know the story to that.
+	- 02:30:44,520 --> 02:30:46,08 I only know what Hal told me.
+	- 02:30:46,260 --> 02:30:51,26 It was, you know, he was missing in there and he wound up there and there was a body.
+	- 02:30:51,620 --> 02:30:56,68 The other story we know is like the body was burned and so forth and so on.
+	- 02:30:59,780 --> 02:31:09,66 This is one too. Do you know the true story of what happened? Well, no, I don't.
+	- 02:31:09,760 --> 02:31:18,58 But I know when I heard this story from Hal and nobody knew what happened after that, what do
+	- 02:31:18,580 --> 02:31:19,78 you think I would do?
+	- 02:31:21,420 --> 02:31:34,14 I would probably, if I were you, I would go to the locations that people said that he was buried and see what's there. Did you do that?
+	- 02:31:34,860 --> 02:31:41,94 No, I put Pat Price's picture in an envelope and gave that sealed envelope to Joe and asked
+	- 02:31:41,940 --> 02:31:45,22 Joe to describe where the person in the picture was.
+	- 02:31:47,300 --> 02:31:51,86 First thing out of Joe's mouth, this guy does something like what I do.
+	- 02:31:52,420 --> 02:31:57,82 And I said, Joe, my task is to tell me where he is.
+	- 02:31:59,540 --> 02:32:02,92 Doesn't matter about, he does what you do.
+	- 02:32:04,100 --> 02:32:05,72 Okay, okay, wait a minute.
+	- 02:32:09,840 --> 02:32:15,16 He's in an underground office in Virginia somewhere.
+	- 02:32:17,700 --> 02:32:21,48 Okay, Joe, well, let's start with that and I'll get back to you.
+	- 02:32:22,780 --> 02:32:30,78 And then he was used to me saying that because I used to take the envelope in to Major Watt,
+	- 02:32:31,220 --> 02:32:34,04 now Colonel Watt, and say to him,
+	- 02:32:36,580 --> 02:32:38,02 what do you think, should I continue?
+	- 02:32:38,220 --> 02:32:39,96 I didn't really do that.
+	- 02:32:40,680 --> 02:32:46,82 But he knew, Joe knew it was okay for me to say, okay, well, stop for now, Joe, and I'll get back to you.
+	- 02:32:47,540 --> 02:32:51,46 I never did get back to him. But.
+	- 02:32:53,380 --> 02:32:54,66 Why didn't you get back with him?
+	- 02:32:56,380 --> 02:32:59,18 I didn't want to go too far.
+	- 02:32:59,400 --> 02:33:07,68 I was doing something outside my purview as being the guy in that office, and I just kept my mouth shut.
+	- 02:33:09,740 --> 02:33:19,88 So you have reason to believe that Pat Price's death was false and that he may still be alive. Still in work.
+	- 02:33:19,960 --> 02:33:23,38 No, he'd be well over 100 years old now. Well, at the time.
+	- 02:33:25,400 --> 02:33:31,84 So when I think about all the shenanigans that went on before, it looked an awful lot like,
+	- 02:33:32,380 --> 02:33:33,76 oh, I know what the fourth one is.
+	- 02:33:34,900 --> 02:33:43,42 Somebody said, oh, he couldn't have been killed by the CIA to get rid of him because he went
+	- 02:33:43,420 --> 02:33:51,64 and got his son this thing and got his wife this thing, and you could tell he was, da-da-da.
+	- 02:33:51,920 --> 02:33:58,64 And I'm saying the CIA could have made up all those stories so everybody would go discover those stories.
+	- 02:34:00,140 --> 02:34:08,94 So that's the fourth situation. And that's my answer. Interesting. Yeah, very interesting.
+	- 02:34:11,360 --> 02:34:20,26 Well, Skip, we are getting close to time here, so I do wanna ask, why was the Stargate program dismantled?
+	- 02:34:21,200 --> 02:34:28,08 It was told to be dismantled, and they created one gal who said, no, this is going on, and look
+	- 02:34:28,080 --> 02:34:30,28 at so many percentages of this happened, this happened.
+	- 02:34:30,600 --> 02:34:33,86 And the other guy said, oh, no, it's a bunch of nonsense of this, this, and the other.
+	- 02:34:34,100 --> 02:34:38,66 It was time for it to be gone. Okay.
+	- 02:34:39,640 --> 02:34:44,02 Do you think they are continuing the program under a different name?
+	- 02:34:49,300 --> 02:34:56,02 No. Why wouldn't they? They already had five other programs.
+	- 02:34:58,660 --> 02:35:00,98 They already had five other programs.
+	- 02:35:01,700 --> 02:35:05,14 What are- What did I say then? What are those programs?
+	- 02:35:11,300 --> 02:35:17,12 I've long since not been a part of that. 26 years and 12 years of retirement.
+	- 02:35:19,560 --> 02:35:25,74 It's a long time ago, and nobody would have told me anyways. Fair enough.
+	- 02:35:26,600 --> 02:35:33,88 Well, Skip, I really appreciate you making the trip out here and it's just a fascinating subject,
+	- 02:35:34,700 --> 02:35:41,66 and it's cool to be talking to somebody that was a part of it all. Thank you, Skip. Okey dokey. Have a good one.
+	-

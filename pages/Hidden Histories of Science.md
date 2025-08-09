@@ -1,0 +1,3 @@
+-
+- [Hidden Histories of Science by Robert B. Silvers](https://www.goodreads.com/book/show/57398.Hidden_Histories_of_Science#:~:text=Silvers%2C%20is%20a%20series%20of,forgotten%2C%20denied%2C%20or%20erased.)
+-

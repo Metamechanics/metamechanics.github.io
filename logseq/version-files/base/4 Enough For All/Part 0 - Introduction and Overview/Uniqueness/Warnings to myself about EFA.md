@@ -1,0 +1,3 @@
+-
+- I must make it clear that this is not a case of pray to God to make it rain, make my child better, make my side win... as is so often done.  Q How does “going to God”, “seeking God first”, “listening to God”... manifest in planning, strategy, organizing, designing, individual life etc. A Listening to others Inspiration, inspired creativity Not re-inforcing the prob or creating a new one Encouragement (&ability) of debate without attachment Fearlessness Expanded idea of oneself No over-consumption – obesity, material goods, drugs, addiction
+-

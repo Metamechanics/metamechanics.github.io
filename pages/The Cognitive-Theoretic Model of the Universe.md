@@ -1,0 +1,14 @@
+alias:: CTMU
+author:: [[Christopher Michael Langan]] 
+url:: https://megafoundation.substack.com/p/teleologic-evolution
+publication-year::
+tags:: book, reference, #t.o.e #consciousness #Metamechanica #keyResource 
+project:: [[AMT]], [[X-Science]] 
+public:: true
+
+- [The Cognitive-Theoretic Model of the Universe: A New Kind of Reality Theory: Langan, Christopher Michael: 9780971916227: Amazon.com: Books](https://www.amazon.com/Cognitive-Theoretic-Model-Universe-Reality-Theory/dp/0971916225/ref=pd_sim_d_sccl_1_4/138-1623267-9466632?pd_rd_w=lNEyT&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PTW7Z6BT7T3K1QC8425G&pd_rd_wg=4mrGr&pd_rd_r=96774205-d044-4514-ba8b-02cfc832e096&pd_rd_i=0971916225&psc=1)
+- [The CTMU: A New Kind of Reality Theory PDF](http://knowledgebase.ctmu.net/wp-content/uploads/2018/10/Langan_CTMU_0929021-1.pdf)
+-
+- [TELEOLOGIC EVOLUTION](https://megafoundation.substack.com/p/teleologic-evolution)
+-
+-

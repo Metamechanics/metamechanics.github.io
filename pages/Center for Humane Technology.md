@@ -1,0 +1,7 @@
+- #collaborator #keyThinker
+- [Center for Humane Technology](https://www.humanetech.com/)
+- [[Tristan Harris]]
+- [[Aza Raskin]]
+- [[The AI Dilemma]]
+-
+-

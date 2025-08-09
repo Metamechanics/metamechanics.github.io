@@ -1,0 +1,13 @@
+alias::
+URL::
+organisation:: [[Alternative Cosmology Group]], [[Lawrenceville Plasma Physics]] 
+role:: [[independent researcher]] 
+fields:: #cosmology #physics #fusion 
+publications:: [[The Big Bang Never Happened]] 
+tags:: person, #plasma #unorthodox  
+project::
+public:: true
+- [Eric Lerner | Plasma-Universe.com](https://www.plasma-universe.com/eric-lerner/)
+- [LPPFusion: Zero Emissions, Zero Nuclear Waste | Decentralized Fusion Energy](https://www.lppfusion.com/)
+- see also: [[Hannes Alfven]]
+-

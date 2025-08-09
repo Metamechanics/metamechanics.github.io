@@ -1,0 +1,13 @@
+alias:: TDE
+- #economics #framework
+- Thesis
+	- We must separate finite material economics from infinite, non-material economics
+	- They relate, intersect and overlap. We must know where these points are and how best to relate them.
+- There are limited materials resources on earth.
+	- on a global scale, we are not creating any more water or air
+	- at most, we are moving and rearranging atoms from one location and configuration to another
+	- net influx of extra-terrestrial new material is minimal
+- In contrast, ideas are infinite, in scope, scale and number
+- How can we use the same system to value them?
+- #qts? Can there be a "third domain" which links the 2 other domains?
+-

@@ -1,0 +1,2 @@
+	Seeking health beyond the individual physical body. Generating wealth beyond the personal pocket.
+Metamechanic projects uncover and highlights links between personal fitness and civilizational integrity, individual lack and planetary poverty.

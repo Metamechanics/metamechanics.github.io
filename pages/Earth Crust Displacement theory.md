@@ -1,0 +1,7 @@
+alias:: ECD
+tags:: concept
+domain:: #geology
+people:: [[Charles Hapgood]] 
+project::
+public:: true
+-

@@ -1,0 +1,17 @@
+alias:: holonic notes, holographic writing, holo-writing, symphonic writing, holonic essays
+tags:: #holon 
+project:: #workflow 
+see-also:: #[[folded writing]]
+- how is this different from #[[folded writing]]? ie. #[[nested writing]]
+- contrast with #[[atomic notes]]
+-
+- in a hologram, a part contains the whole
+- while this is practically impossible in writing, it can be approached...
+- perhaps #[[symphonic writing]] is a better term, a la [[Ken Wapnick]]
+-
+- Scientific metaphor of writing
+	- Same component (particle, atom, molecule, compound...) is used in different places, different contexts ie. transclusion
+	- Different emergent properties arise given the combination and context
+		- epigenetics #[[epimemetics]]
+- Musical metaphor of writing
+-

@@ -1,0 +1,4 @@
+- #mentalImmunity #[[misinformation innoculation]]
+- [How developing mental immunity can protect us from bad ideas](https://nesslabs.com/mental-immunity)
+- [Mental Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to Think: Amazon.co.uk: Norman, Andy: 9780063002982: Books](https://www.amazon.co.uk/Mental-Immunity-Infectious-Mind-Parasites-Search/dp/0063002981/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
+-

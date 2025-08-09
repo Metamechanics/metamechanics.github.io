@@ -1,0 +1,21 @@
+- #app #platforms #XC
+- The open-source, community-led, end-to-end publishing platform for knowledge communities.
+- [PubPub · Community Publishing](https://www.pubpub.org/)
+- Features
+  collapsed:: true
+	- real-time Collaboration,
+	- versioning,
+	- export,
+	- discussion,
+	- rich media
+	- access control
+	- collection metadata
+	- community
+	- code interactives
+- import .md from Logseq or Obsidian
+- Could use for
+	- EFA,
+	- FACTs/Fresh,
+	- Inner Beginner
+	- Global Effort
+-

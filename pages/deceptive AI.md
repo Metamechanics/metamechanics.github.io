@@ -1,0 +1,3 @@
+-
+- [AI Systems Are Learning to Lie and Deceive, Scientists Find - futurism.com](https://futurism.com/ai-systems-lie-deceive)
+-

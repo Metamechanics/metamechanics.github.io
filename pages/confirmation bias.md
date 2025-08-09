@@ -1,0 +1,2 @@
+- #[[logical fallacy]] #bias
+- see: [[The Contradictions of Cognitive Biases and Mental Models]]

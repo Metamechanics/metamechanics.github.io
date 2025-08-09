@@ -1,0 +1,24 @@
+-
+- paired with [[Camino de Santiago de Compostela]]
+- [Kumano Kodo Pilgrimage Trails - Kumano Travel](https://www.japan-guide.com/e/e4952.html)
+- [Kumano Kodo Maps – Tanabe City Kumano Tourism Bureau](https://www.tb-kumano.jp/en/kumano-kodo/maps/)
+- [The Kumano Kodo Walking Trail: A Guide with Maps - Inside Kyoto](https://www.insidekyoto.com/kumano-kodo-walking-trail-guide-with-maps)
+-
+-
+- [KUMANO TRAVEL | Community Reservation System](https://www.kumano-travel.com/en/)
+- [Accommodations List – Tanabe City Kumano Tourism Bureau](https://www.tb-kumano.jp/en/lodging/list/)
+- Nakahechi
+	- 6-day suggested itinerary: [6-day model itinerary: KUMANO TRAVEL | Community Reservation System](https://www.kumano-travel.com/en/model-itineraries/6-days-E1-kumano-kodo-trek-nakahechi#DetailedItineray)
+		- Night 0: Takijiri-oji
+		- Day 1: Takijiri-oji - Tsugizahara-oji
+		- Day 2: Tsugizahara-oji - Kumano Hongo Taisha
+			- Bus to accomm in Yunomine Onsen
+		- Day 3: Ukegawa - Koguchi
+			- bus from Yunomine Onsen to Ukegawa
+		- Day 4: Koguchi - Kumano Nachi Taisha
+			- bus to accomm in Nachisan or Katsuura
+- Kohechi
+	-
+- [Practical considerations on the Kumano Kodo trail Walking the Kumano Kodo](https://kumanokodo.com.au/practical-considerations/)
+- Maps: [Kumano Kodo Maps – Tanabe City Kumano Tourism Bureau](https://www.tb-kumano.jp/en/kumano-kodo/maps/)
+-

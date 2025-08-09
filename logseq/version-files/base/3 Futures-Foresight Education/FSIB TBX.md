@@ -1,0 +1,9006 @@
+- This has lots of repetition; perhaps even 4 cycles
+- Some articles to get out
+-
+-
+- [[FSIB Survey of MCSHS-IB Students 2020]]
+  collapsed:: true
+	-
+	- Solving the world’s big issues requires new technologies
+	- Solving the world’s big issues requires new technologies.
+	-
+	-
+	- Technology is a mixed bag - it brings out the best and worst in us.
+	- Technology is a mixed bag -
+	-
+	-
+	- Technology will cause more problems than it solves
+	- Technology will cause more problems than it solves.
+	-
+	-
+	- Technology is never the problem; it is the people behind it - the designer, marketer, controller, user - that is the real problem
+	- Technology is never the problem; it is the people behind it - the designer, marketer, controller, user - that is the real problem.
+	-
+	-
+	- Technological development is driven by a desire to innovate and improve the world
+	- Technological development is driven by a desire to innovate and improve the world.
+	-
+	-
+	- Countries and cultures are developed to the degree to which they have ‘the latest technology’
+	- Countries and cultures are developed to the degree to which they have ‘the latest technology’.
+	-
+	-
+	- I am concerned about new and future technologies, and the changes they may bring
+	- I am concerned about new and future technologies, and the changes they may bring.
+	- Technology developers should share their work more freely for the benefit of the world
+	- We can control the use of technology such that it is more beneficial than harmful
+	- We can foresee the effects and consequences of the introduction of technology quite well
+	- We should be pursuing technological development as the world's primary development issue
+	- If you were "CEO of the World", what one directive would you give ?
+	- Rank these aspirations and actions in order of importance of development and implementation, as you believe, and as you understand the concepts. (If you don't understand a concept, or don't know much, place it last/lower.)
+	- Space colonization
+	- Seed banking
+	- Soil regeneration
+	- Kelp farming
+	- Global government
+	- Renewable energy
+	- Vegetarianism
+	- Biohacking
+	- Computer, Digital and Media literacy
+	- Meditation, mindfulness & yoga
+	- Universal Basic Income
+	- Quantum computing
+	- Permaculture
+	- Compulsory National Community Service
+	- Advanced public/shared transport
+	- Autonomous vehicles (cars, buses, planes)
+	- Universal free internet access
+	- Geoengineering
+	- Nuclear energy
+	- Tax on super-wealthy
+	- World army/air force/navy/space force
+	- Resource reclamation & recycling
+	- Developing alternatives to antibiotics
+	- Phase 5: Reflection
+	- Add your own general question, with answer
+	- Has this questionnaire prompted you to think more deeply about something, or made you want to learn more about something?
+	- If so, please elaborate
+	- How much has this questionnaire stimulated your thinking about the future?
+	- Is there anything else you would like to add?
+	- Survey of past students
+	- Year/number: Check-box/drop-down: 2022, 2021-20, 2019-2015; 2014-2010; 2009-2005
+	- What subjects are you doing/did you do in your IBDP?
+	- Question Types in Survey Monkey
+	- Close-ended
+	- MC
+	- Checkboxes
+	- Dropdown
+	- Image choice
+	- Open-ended
+	- Comment textbox
+	- Single textbox
+	- Multiple textboxes
+	- Rating Questions
+	- Star rating
+	- Net Promotion Score
+	- Slider
+	- Matrix/Rating Scale
+	- Ranking
+	- Standalone text and images
+	- Text
+	- Image
+	- Text A/B test
+	- Image A/B test
+	- Disregarded questions
+	- In your opinion, is there an over-emphasis on technology when talking and thinking about the future? Why/why not?
+	- Rank these skills, attributes and characteristics in order of importance for your life in the 21st Century...(and beyond?!?!)
+	- Computer programming skills
+	- Rank these statements in order of priority
+	- We should adapt to
+	- We should anticipate
+	- We should seek alternatives
+	- We should follow
+	- We should wait and see
+	- How important is X in "studying the future"?
+	- art
+	- literature
+	- foreign languages
+	- maths
+	- science
+	- computer programming
+	- when you are 25, 50. 75, 100
+	- Degrees and style of agency?
+	- Futures issues in the future
+	- 20
+	- 2023
+	- 2031
+	- 2068
+- T4 Solutions Challenge
+  collapsed:: true
+	- SOLUTIONS CHALLENGE – FOR TEACHERS!
+	-
+	- You are here: Home / Get involved / T4 Solutions Challenge – for teachers!
+	- T4 Solutions Challenge – for teachers!
+	- Announcing the Solutions Challenge
+	- On Friday 17th July, Koen Timmers, Co-founder of Take Action Global and one of our World Education Week partners, announced an exciting new addition to our World Education Week programme – the T4 Solutions Challenge! 💥
+	-
+	- Watch the video to learn what this challenge for teachers involves AND to learn about the prizes that will be awarded! A copy of the video’s transcript is available below the video.
+	-
+	-
+	- Transcript
+	- Hi, this is Koen from Take Action Global and we all know about the huge impact T4 had a few weeks ago.
+	-
+	- When Vikas and I were brainstorming about the next edition, we couldn’t help ourselves but make an important connection to the best practices in classrooms, from across the world. And we all know that good education goes with problem-solving, taking action and even sharing those practices with peers in every corner of the world. And that’s why we decided to come up with something new, something very exciting, an action component!
+	-
+	- We want teachers globally to find a solution for a global issue. This can be poverty, climate change, gender inequality, or any other UN Sustainable Development Goal. But it has to involve SDG number 4 Quality Education.
+	-
+	- We want you to create a two-minute video which describes your solution through education. Next, you will need to promote your solution on social media, and through other channels, because the 100, most voted videos, they will be considered by a jury!
+	-
+	- Your deadline is 12th of September and we will be announcing the top three on September 28th. I am also happy to mention that you will not only receive infinite fame, but the winner will also go with $5000 US,  the first runner up will receive $3000 US, and the second runner up will go with $2000 US.!
+	-
+	- Make sure to submit your video at earthproject.org, and best of luck!
+	-
+	- The Solutions Challenge in summary
+	- If you are a teacher, you are invited to submit a 2-minute video presenting a solution to a global issue.
+	- Your solution can be about any of the UN Sustainable Development Goals but it must include SDG 4 Quality Education.
+	- Your video must be in English and submitted to the Earth Project website.
+	- Include a 200-word summary with your video.
+	- Deadline for submitting: 12th September.
+	- Once your video is on the site, please share your submission on the Earth Project website and ask your networks to vote for you.
+	- Publication of the top 100 projects: 21st September
+	- The 100 most popular videos will be reviewed by a jury.
+	- The winner will receive $5000 US, the first runner up will receive $3000 US and the second runner up will receive $2000 US!
+	- The 3 winners will be announced on 28th September.
+	- To learn more, visit the Solutions Challenge page on the Earth Project website.
+	-
+	- READ OUR FREQUENTLY ASKED QUESTIONS GO TO EARTH PROJECT
+	- Share this:
+	-
+	- JOIN OUR COMMUNITY
+	- Subscribe to our T4 Community newsletter and we'll keep you updated on our activities.
+	-
+	- JOIN NOW
+	- BE SOCIAL WITH US
+	- Footer
+	- CONTACT
+	- Email: info@t4event.one
+	- Address: T4 , Enghavevej 9, DK-7100 Vejle, Denmark
+	- WOULD YOU LIKE TO SPONSOR WORLD EDUCATION WEEK?
+	- For sponsorships, please write to: sponsors@t4event.one
+	-
+	- Copyright © 2020 · T4 Education & Our World
+	-
+	-
+	- Essay
+	- Some ideas
+	- Social media voting
+	- Popularity contest over principles and critical thinking
+	-
+	- Propaganda over pedagogical depth
+	-
+	- Sound bites over
+-
+-
+- Is this the future we want?
+- Quick fixes over hard work
+- Teachers and coaches are often critical of students’ and trainees desire for the short cut
+-
+- Education activists, administrators and academics implore us to develop critical, creative, higher-order thinking in our students and their approach to thinking and learning. Yet are we practicing that ourselves in our solutions towards the world’s problems.
+- Worshipping our solutions
+- Is this part of the problem?
+-
+-
+- Are the SDGs part of the problem?
+- FF would ask this.
+-
+- “Economic Growth”
+-
+-
+- Solutions looking for problems
+- Viagra?
+-
+- Round peg in a square hole
+-
+-
+- A tool is only useful when its used in the right way, the right time, for the right purpose by the right person.
+- Most "solutions" here will be "technological" in nature.
+- Maybe a few systemic proposals.
+-
+-
+- My proposal is no different - its usefulness, its “solution-ness” will depend on how its used.
+-
+- The future is constantly misused and abused.
+-
+- Or rather, its never misused but its underlying deeper purpose is not made apparent - it is consciously but more often unconsciously, kept hidden.
+-
+-
+- What is quality education when the problems of the world are made by the "educated"?
+- What is "expertise" when "experts" often preside over many problems.
+- Storyboard
+- R. Buckminster Fuller quotes
+- There is nothing in a caterpillar that tells you its going to be a butterfly.
+- You never change things by fighting the existing reality. To change something, build a model that makes the old model obsolete.
+- Quite clearly our task is predominantly metaphysical, for it is how to get all of humanity to educate itself enough to generate spontaneous social behaviours that will avoid extinction.
+- We are called to be architects of the future, not its victims.
+- A fool with a tool still remains a fool.
+- Futures & Foresight Literacy: Read and Write the Futures
+- find a solution for a global issue
+-
+-
+- imagination
+- peace
+- tranquility
+- paradise
+- The Problem
+- ...is more and more problems
+- of increasing severity
+- increasing complexity
+- increasing longevity
+-
+-
+- ...is a perplexity of competing, conflicting solutions
+- wasting resources?
+-
+- survival of the fittest? (entrepreneurial darwinism?)
+-
+- distracting from more effective solutions?
+- ...is disagreeing conceptions of 'the problem'
+- ...is 'solutions' that merely shift the problem
+- sweep under the carpet
+-
+- in space
+-
+- in time
+-
+- in person?
+- ...is my problem is bigger than yours
+- ...is my solution is better than yours
+- ...is quick fixes only solving superficial symptoms
+- ...is accelerating change, decreasing attention spans, quickening business/election cycles,  and instant gratification...all at the expense of environmental integrity, socio-economic stability and psychological security
+- ...is today's solutions are tomorrow's problems
+- short-term focus
+-
+- immediate needs with long-term consequences
+-
+- decreasing attention spans
+- ...is everyone thinks of changing the world, but no one thinks of changing himself. (Leo Tolstoy)
+- The Problem is...
+- more and more problems
+- of increasing severity
+- increasing complexity
+- increasing longevity
+- change is changing
+- accelerating change
+- unpredictable change
+- volatile
+- Game over.
+- System reset.
+- What can quality education do?
+- All notions of education...represent ideas about the future
+- Growth
+- Learning
+- Development
+- Preparation
+- Life skills
+- Work
+- Lifelong learning
+- Citizenship
+- Values
+- But the future is changing...
+- We all want to kick goals...
+- …but how do you kick
+- a moving ball
+- through shifting goal posts
+- in changing games
+- of unknown rules
+- and crazy scoring systems
+- using strange equipment
+- in turbulent weather
+- We need a Futures Thinking Toolbox!
+- Intro - Futures & Foresight Literacy
+- Critical Futures
+- Integral
+- Transformative
+- Holistic
+- Interdisciplinary
+- Transdisciplinary
+-
+-
+- Creative
+-
+-
+- Use education OF the future (pedagogies, tech)
+- implemented BY the future (students, teachers, parents and community)
+- to teach ABOUT the future (
+- FOR the future (a better world, preferred futures)
+- OF
+- This is the focus of “futures of education”
+-
+- cycles of pedagogy
+- what is old will be new again
+- ancient wisdom/treasure will be re-valued and recovered
+- FOR
+- A better world
+-
+- But whose better world?
+-
+- SDGs…are good
+-
+- But which
+- ABOUT
+- BY
+- Part 1 - IF, BUT, Then...
+- Part 2 - The nature of problems
+- Part 3 - The Solution - Outline
+- Teach Futures & Foresight Literacy: the ability to read and write the Futures
+- Mitigate risk
+- Navigate uncertainty
+- Anticipate change
+- Envision alternatives
+- Implement action
+- Question prescriptions
+- Foresee consequences
+- Acknowledge depth and appreciate diversity
+- Apprehend complexity
+- Identify weak signals
+- How do you study the future? How do you practice foresight?
+- Models
+- Inayatullah - Six Pillars
+- Bishop & Hines - Strategic Foresight; Teach the Future
+- Slaughter - Integral Futures
+- Gidley - Postformal reasoning & consciousness evolution
+- Everyone is already a futurist. Let's develop these skills explicitly.
+- Futures Studies and Strategic Foresight is already an academic discipline at universities and within business. We can make it a core competency!
+- Tech is not the answer because tech is not the goal. It is part of the answer if used the right way. It depends on the purpose, the aspiration, the vision.
+- Part 4 - Myths & Misconceptions around FF
+- You are already teaching a particular future, embedded in the curriculum and embodied by your practice. Whose preferred future is this? Yours? Your students'? The government's? The World Economic Forum? World Bank? Neoliberal capitalists? Green marxists? Luddite conservative? ZuckerBezos Techno-utopia?
+- The Future is about tech...prediction...strategy... Yes...but so much more...
+- Culture
+- Scenarios
+- Emerging issues
+- Quotes
+- Diogenes
+- The foundation of every state is the education of its youth.
+- Rabindranath Tagore
+- Don’t limit a child to your own learning, for he was born in another time.
+- Part 5 - Some key points FF provides around problems and solutions
+- The nature of problems
+- Problems are facilitated by the educated
+- What the problem is depends on who you ask
+- The toolbox defines the problem
+- Shifting the problem versus solving the problem
+- Inconvenient solutions
+- Require hard work
+- The resistance is where the solution is
+- The blind spot hides the real problem, the deeper problem
+-
+-
+- Today's solution is tomorrow's problem
+- …if there is no temporal dimension
+- foresight
+- holistic
+-
+-
+-
+- For whom is it a problem? A priority?
+- Not wanting to see the real problem
+- Current dominant socio-economics rewards problems without genuine solutions
+- Examples of questions FF would ask and aspects FF would treat
+- Everyone wants a better world...as they see it
+- Tech has become the goal in itself, rather than one piece of the puzzle.
+- Tech & Data
+- Systems & Networks
+- Worldview & Culture
+- Myth, Metaphor & Model
+- The Transition
+- Unquestioned Futures to Critical Futures
+- Repackaged, respun solutions seeking problems to fresh alternatives
+- Implicit - explicit
+- Haphazard - systematic
+- superficial - rigorous
+- receptive & passive - proactive, creative
+- techno-utopia -> systemic, cultural, civilizational transformation
+- quarterly business cycles and annual strategic planning - culture of foresight,
+- Throw in critique of 4IR somewhere
+- and STEM
+-
+-
+- If everyone is "innovating" then what really is innovation?
+- If everyone is an "entrepreneur" what does entrepreneurship genuinely look like?
+- hustle
+- gig economy
+- pitching
+-
+- An Ironic Conclusion
+- Social media
+- Classic example of the human operating system determining the value of the technology
+-
+-
+- Education changes minds. And a change of mind is largely invisible.
+- yet if a “solution” doesn’t change minds, is it really a solution?
+-
+-
+- Leo Tolstoy
+- Everyone thinks of changing the world, but no one thinks of changing himself.
+- Alvin Toffler
+- Note re Concept Mapping for this TBX document
+- I want to create a concept map at each level of work in order to visualise the relationships and purpose of each element. I want to see how they fit together and why I am doing that particular task.
+- To do this I use the existing map containers *at that level* of map along with the Driving Questions and Goals, Objectives, Aims of each of the elements. (These DQs and GOAs would be contained within the element, and therefore are 1 level down in terms of the TBX outline levels.)
+- New attributes may need to be defined at each mapping level and set to ‘true’ in order for an agent to create and collect these aliases and map them. For example, at the top level, ‘isFFLcmap’ is the mapping attribute. Within the ‘FSIB PhD’ container, a ‘isFSIBphdCmap’ attribute may need to be created and set, and so on.
+- Within each enterprise/project/container, there must be Driving Questions (DQs) and Goals, Objectives, Aims (GOAs). These are essential to the map.
+-
+-
+- Tasks or “to do’s” can be represented as Writings - articles and blogs, which can be prioritised.
+-
+-
+- RationaleSteps FSSFsbs
+- Requirements for subjects
+- IB sbs
+- SATE/QCAA
+- HSC NSW/VIC
+- UK A-levels/GCSE
+- USA: Mass, Cal, NY, Texas
+- Singapore
+- Identify and analyse existing/past FSSF subjects at tertiary and secondary
+- Use them as models and guides
+- Curriculum theory
+- Curriculum theory - education academia
+- Curriculum theory - futures academia
+- Rationale and Justification of FSSF sbs
+- Existing literature review
+- Update for 2020 by looking at recent ed developments and trends
+- Sample (fairly represent) what the education community - academia and general - are saying what the trends in education are.
+-
+- Proposition: there is an absence of explicitly thinking about the future, and moreover, alternative futures, in these “new” programs (NPDL, 21CT, STEM et al)
+-
+-
+- FFL Writing
+- All writing tasks aliases collected here as agents
+-
+-
+- All FFL Writing
+- All writing tasks sorted by Priority and Status.
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+-
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Compare-contrast FsL vs FLs
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+- “Future Literacies”
+- Argues that FLs is not FFL
+- is not a subset of FFL;
+- rather it is required to balance, temper and open up quoted FFLs
+-
+- FLs are framed as literacies of the future, but whose future? Who says?
+-
+- FFL as vehicle of 6C's, ESD, STEM, DL,HOT
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and the IB Learning Profile
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and subject overlap
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and educational and cultural needs of school, nation and others
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+-
+- Explore metaphors of Education such as Fishing, Farming, Factories, Finance
+- eg. Teach a man to fish, factory schooling
+-
+- But, also use these as:
+- a) actual models eg. factory schooling, factory farming
+- b) actual topics/issues for study that are increasingly important
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Driving towards Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Hitting a Moving Target: Aligning the Future and Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Updating the context for teaching FSSF/FFL
+-
+- Update purpose of education?
+- Update youth visions, mental health and anxiety around the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+-
+-
+- “STEM is not enough” document by Millennium Project
+- Hitting a Moving Target: Aligning the Future and Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Updating the context for teaching FSSF/FFL
+-
+- Update purpose of education?
+- Update youth visions, mental health and anxiety around the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+-
+-
+- “STEM is not enough” document by Millennium Project
+- Futures Studies for the IB: the case for explicitly teaching the future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and International Mindedness
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and IBDP Group 3 Aims
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- This can be the rationale side. There is another article in this about application in the classroom.
+- Futures Studies and the IB: A cyborg hand in a fairtrade glove
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- EFA as an Educational Tool for the Future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Compare-contrast FSIB vs Group 4 vs Group 3 subjects
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB, assessment and assessment objectives
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and IBDP Approaches to Teaching and Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and CAS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and ToK
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Depth and Height in NPDL: A integral futures critique
+-
+-
+- Megatrends of the Mind
+- The Future in Bloom: Higher Order Futures Thinking for preferred, alternative futures
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Q-matrix for the Future: an extension of a powerful teaching tool for preferred, alternative futures.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Book review: NPDL Engage the World, Change the World
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies and IB: A chance for innovation and leadership
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- "Future": not just a noun
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Writing the future: a textbook challenge for futurists
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- The Futures of IBHK Global Conference - a critical review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures and Foresight Literacy in the IB - An Introduction
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- To Darrin & Renee: The Case for FFL at MCSHS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Integration & transdisciplinarity and the future of IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- STEM/STEAM v FFL. Compare-contrast. Critical Analysis.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- "Temporal skills" as additional Approach To Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Pop Futurists views of Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies as personalised learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- MCSHS presentation to 21CT/HOT core team
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- Futures and Foresight Literacy: From monotone monologue to animated polylogue
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- UNESCO Futures Literacy Article
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- ESD vs Futures Studies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures could allow EE to become CAS, and vice versa
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- VIEWS: A Perspective on the QI skills
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL A-Priority Writing Tasks
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+-
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Compare-contrast FsL vs FLs
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+- “Future Literacies”
+- Argues that FLs is not FFL
+- is not a subset of FFL;
+- rather it is required to balance, temper and open up quoted FFLs
+-
+- FLs are framed as literacies of the future, but whose future? Who says?
+-
+- Driving towards Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL as vehicle of 6C's, ESD, STEM, DL,HOT
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+-
+- Explore metaphors of Education such as Fishing, Farming, Factories, Finance
+- eg. Teach a man to fish, factory schooling
+-
+- But, also use these as:
+- a) actual models eg. factory schooling, factory farming
+- b) actual topics/issues for study that are increasingly important
+- FSIB and educational and cultural needs of school, nation and others
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and subject overlap
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and the IB Learning Profile
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL B-Priority Writing Tasks
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- This can be the rationale side. There is another article in this about application in the classroom.
+- Futures Studies and the IB: A cyborg hand in a fairtrade glove
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and IBDP Group 3 Aims
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and International Mindedness
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies for the IB: the case for explicitly teaching the future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL C-Priority Writing Tasks
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- EFA as an Educational Tool for the Future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Compare-contrast FSIB vs Group 4 vs Group 3 subjects
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB, assessment and assessment objectives
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and IBDP Approaches to Teaching and Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and CAS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and ToK
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Depth and Height in NPDL: A integral futures critique
+-
+-
+- Megatrends of the Mind
+- The Future in Bloom: Higher Order Futures Thinking for preferred, alternative futures
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Q-matrix for the Future: an extension of a powerful teaching tool for preferred, alternative futures.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Book review: NPDL Engage the World, Change the World
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- UNESCO Futures Literacy Article
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- "Temporal skills" as additional Approach To Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Pop Futurists views of Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- The Futures of IBHK Global Conference - a critical review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- Futures and Foresight Literacy: From monotone monologue to animated polylogue
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Writing the future: a textbook challenge for futurists
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- MCSHS presentation to 21CT/HOT core team
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- Futures Studies and IB: A chance for innovation and leadership
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures and Foresight Literacy in the IB - An Introduction
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- "Future": not just a noun
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Integration & transdisciplinarity and the future of IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- STEM/STEAM v FFL. Compare-contrast. Critical Analysis.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies as personalised learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- To Darrin & Renee: The Case for FFL at MCSHS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- ESD vs Futures Studies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FFL D-Priority Writing Tasks
+- FFL E-Priority Writing Tasks
+- Futures could allow EE to become CAS, and vice versa
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- VIEWS: A Perspective on the QI skills
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- All FFL projects
+- All project writing tasks sorted by number of projects the item is relevant/common to.
+- Futures Studies for the IB: the case for explicitly teaching the future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Hitting a Moving Target: Aligning the Future and Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Updating the context for teaching FSSF/FFL
+-
+- Update purpose of education?
+- Update youth visions, mental health and anxiety around the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+-
+-
+- “STEM is not enough” document by Millennium Project
+- Hitting a Moving Target: Aligning the Future and Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Updating the context for teaching FSSF/FFL
+-
+- Update purpose of education?
+- Update youth visions, mental health and anxiety around the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+-
+-
+- “STEM is not enough” document by Millennium Project
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- The Future in Bloom: Higher Order Futures Thinking for preferred, alternative futures
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+-
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Compare-contrast FsL vs FLs
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+- “Future Literacies”
+- Argues that FLs is not FFL
+- is not a subset of FFL;
+- rather it is required to balance, temper and open up quoted FFLs
+-
+- FLs are framed as literacies of the future, but whose future? Who says?
+-
+- Futures could allow EE to become CAS, and vice versa
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies and IB: A chance for innovation and leadership
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- STEM/STEAM v FFL. Compare-contrast. Critical Analysis.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- "Temporal skills" as additional Approach To Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies as personalised learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- "Future": not just a noun
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- This can be the rationale side. There is another article in this about application in the classroom.
+- FFL as vehicle of 6C's, ESD, STEM, DL,HOT
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Driving towards Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- The Futures of IBHK Global Conference - a critical review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures and Foresight Literacy: From monotone monologue to animated polylogue
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Q-matrix for the Future: an extension of a powerful teaching tool for preferred, alternative futures.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Studies and the IB: A cyborg hand in a fairtrade glove
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- VIEWS: A Perspective on the QI skills
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- To Darrin & Renee: The Case for FFL at MCSHS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Writing the future: a textbook challenge for futurists
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures and Foresight Literacy in the IB - An Introduction
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Pop Futurists views of Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- MCSHS presentation to 21CT/HOT core team
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- ESD vs Futures Studies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Depth and Height in NPDL: A integral futures critique
+-
+-
+- Megatrends of the Mind
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+-
+- Explore metaphors of Education such as Fishing, Farming, Factories, Finance
+- eg. Teach a man to fish, factory schooling
+-
+- But, also use these as:
+- a) actual models eg. factory schooling, factory farming
+- b) actual topics/issues for study that are increasingly important
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- EFA as an Educational Tool for the Future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Compare-contrast FSIB vs Group 4 vs Group 3 subjects
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB, assessment and assessment objectives
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and IBDP Approaches to Teaching and Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and CAS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and ToK
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Book review: NPDL Engage the World, Change the World
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Integration & transdisciplinarity and the future of IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- UNESCO Futures Literacy Article
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and IBDP Group 3 Aims
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and International Mindedness
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and educational and cultural needs of school, nation and others
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and subject overlap
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB and the IB Learning Profile
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- FSIB MA-PhD
+- Arc of Articles for PhD
+- Paper A designs the course(s). It does not critique, though it may report others’ critiques of yet other proposals. It uses the statements of authoring/proposing/governing entities themselves and shows how FS meets these ie. FSSF ticks your boxes.
+-
+- Paper A does NOT address the question of “…then why not just follow the program offered by Z in Proposal X?” It avoid this. Instead, it might show how each of their goals & methods conflict. Paper A does NOT show how Proposal X does not really meet the needs of the future or its quoted needs.
+-
+- Paper A may need to address the question: What are our priorities then? We can’t do all of whay team P, Q and R are proposing? Which should we prioritize?
+- (Hint: Fill the gaps ie. Futures. STEM is done. Coding. Environment?)
+- Add 2 F’s and 4A’s to 3R’s and 6C’s.
+-
+- Paper B critiques curricula and shows how Futures can fill gaps and heal holes, generally, theoretically.
+-
+- Paper C will offer some in-class activities to do this.
+-
+- Paper D reports on the effect of doing Paper C stuff.
+-
+- Paper E suggest tweaks and refinements.
+- Paper A - Designing a Futures Studies subject for the IB Diploma Program
+- Objective:
+- Use this article to help design FSSF-sbs for IBDP, and document the process.
+-
+- I could contrast the requirements of IBDP/IBO with other curricula.
+-
+- I could investigate how IBO looks on industry input, and what these industrial players are saying
+-
+- In the process of designing FSSF-sbs, I can also design FFL-ATAR and FFEE. These could be other papers (spin-offs), using the groundwork of this paper. I might even mention this paper.
+-
+- I could even structure it with possible other goals in mind ie. subjects for other systems:
+- IBCP (career program)
+- QCAA
+- NSW/VIC
+- UK
+- NZ
+- Malaysia, Taiwan, India
+-
+- Rationale is cursory, concise, shallow.
+- Rationale only insofar as to support directives of the curricula.
+-
+-
+- Use latest Curriculum Theory to inform design of FSSF course
+- Use Futures frameworks and models to inform design of FSSF course and textbook
+- Conversely, use recent ed trends/developements to augment FFL programs
+- Generate spectrum/matrix of FFL opportunities for various curricula
+- Create scenarios/typology/spectrum/matrix of FSSF courses for various systems
+- Teach teachers some Futures techniques through articles
+- Explore existing Futures Education & FFL programs
+- this includes FFL already implicitly embedded in programs/curricula
+-
+- tertiary and corporate
+-
+-
+- Determine key concepts, ideas and understandings of a Futures subject
+- How does each system/proposal determine what the key concepts are and/or prioritize the importance of ideas and understandings.
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Criteria for Selection
+- Criteria for Review
+- FutureWe
+- Foresight Education
+- Teach the Future
+- Teaching For A Better World
+- Education Futures
+- Global Future Education Foundation and Institute
+- Future Problem Solving Program
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Paper A2 - Surveys
+- IBDP students
+- IBO staff
+- MCSHS teachers
+- IB teachers
+- MCSHS students - IB, ATAR, NATAR
+- IBMYP students
+- Paper A3 - FFL-ATAR experiment
+- Pre-survey
+- Deliver FFL-ATAR for Term 3
+- Mid-survey
+- Deliver FFL-ATAR for Term 4
+- Post-survey
+-
+- Year 11 and Year 12 content the same
+- Focus topic can be COVID-19 and the Future of Work & Education
+-
+- Integrated:
+- STEEPLE
+- 4-quadrant
+-
+-
+- Tools:
+- Scenarios
+- Backcasting
+- Scanning
+- Emerging Issue Analysis
+- Paper B - Rationale for Futures and Foresight Literacy in Contemporary Contexts
+- Compare-contrast FSSF/FFL with 21CT/NPDL/6C/STEM
+- Update the Context - Rationale for FFL
+- If…
+- But…
+- And therefore…
+-
+- With…
+- Yet…
+- While…
+-
+- Then why not teach Futures and Foresight Literacy - the ability to READ AND WRITE the Future.
+-
+- Update Ivana’s thesis dissertation?
+- Update Slaughter, Bussey, Gidley, Bateman, Inayatullah
+- Futures Analysis of 21C education programs, systems, initiatives and proposals
+- Highlight shortcomings, contradictions, holes, biases etc.
+- ie. Inconsistencies with own stated objectives/agenda
+-
+- Start with IB
+- Propose enhancement/solution: Teach FFL and FSSF
+- somewhat surface
+- depth comes in Paper 2
+- Update Trends & Scenarios in Education
+- What are people saying about the Future of Education?
+-
+- What are the big players saying?
+- What are the futures academia saying?
+- What are the education academia saying?
+-
+- Is this where I look at the Future of Work?
+-
+-
+- Introduce recent Education initiatives
+- Survey?
+-
+- Justify my choice…how? What criteria?
+-
+- Identify commonalities and overlaps. Group?
+-
+-
+- These initiatives are supposedly informed by trends, scenarios, imperatives, preferred futures of authorities
+-
+-
+- Identify general gaps for teaching FSSF in secondary
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Compare-contrast FsL vs FLs
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+- “Future Literacies”
+- Argues that FLs is not FFL
+- is not a subset of FFL;
+- rather it is required to balance, temper and open up quoted FFLs
+-
+- FLs are framed as literacies of the future, but whose future? Who says?
+-
+- Hitting a Moving Target: Aligning the Future and Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Updating the context for teaching FSSF/FFL
+-
+- Update purpose of education?
+- Update youth visions, mental health and anxiety around the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+-
+-
+- “STEM is not enough” document by Millennium Project
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- This can be the rationale side. There is another article in this about application in the classroom.
+- IF education is for the future, and the future is a)moving b)moving quickly c)moving quickly, more quickly d)characterised by large ramifications e) common to everyone as a concept f)lifelong...then, why don't we teach the future?
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- General. Intro. Overview.?
+- OECD
+- UNESCO
+- World Economic Forum
+- NPDL
+- CLA of 21st Century Skills
+- Integral Futures Analysis of 21st Century Skills
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Metaphor
+- Literal/Physical
+- Quantum and Time
+- Uncertainty (Heisenberg)
+- Bell theorem
+- Collapsing the wave function through Intention
+- Unconsciousness
+- What is Digital Literacy?
+- Who is promoting “Digital Literacy”?
+- How “digital” actually are “digital technologies”?
+- What does “digital” even mean?
+- Technical definition
+- In education
+- Quantum as metaphor for Futures Literacy
+- Uncertainty
+- Observer Effect
+- Probability
+- Multiple interpretations
+- Analog as Past. Quantum as Future. Digital as compromise -
+- Digital Literacy as analogous to education’s approaches to Futures
+- Digital was futuristic in the 20th century
+- Quantum PLUS Digital, not Quantum instead of Digital
+- Quantum instead of Digital would not *be* quantum, it would be digital ie. it wouuld be either/or, not both/and.
+-
+-
+- Digital = either/or. Quantum = neither/and
+- Neven’s Law vs Moore’s Law
+- Quantum Computing
+- What is it?
+- State of Industry
+- Prospects
+- Implications for education
+- Quantum physics role in current technology
+- Quantum interpretations
+- Digital literacy is equivalent of training factory workers (labtory?)
+- Spiritual lives of Quantum physicists
+- Quantum literacy = Scientific literacy
+- “We live in a digital world”. Evaluate. Comment. Analyse
+- This is a Newtonian comment.
+-
+-
+- Quantum was ridiculed, dismissed, rejected...
+- "All that remains is to measure more accurately"...before quantum revolution
+- "If you think you understand quantum mechanics, you don't..."
+- If you think you understand education, you don’t…
+-
+-
+- Digital 1/o is one particular state of a quantum spectrum of probabilities
+- The future that we implicitly teach is but one possibility of a spectrum of possibilities.
+- Is it the best?
+- Administrators have “collapsed the wave function”
+- Administrators have "collapsed the wave function"
+- Loops as sub-metaphor
+- Strange loops
+- If-then loops
+- Infinite loops
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Michael McQueen
+- Alternative Lao Tse, to counter McQueen's quote
+- Conrad Hughes
+- Nenad Bakic
+- Brad Bass
+- Ally Wu
+- Pop Futures and Education
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Paper C - Application of Futures Tools to a) IB Subjects b)Topics c) Techniques/ATL
+- intrinsically -
+- What are the futures each subject embodies?
+- how futures oriented are these subjects (in each curriculum)
+-
+- extrinsically -
+- how can we futurize the subject?
+- activities
+- learning goals/outcomes
+- pedagogy
+-
+- Do not do futures analysis of Curricula. That is Paper 2.
+-
+- Paper A designs the course(s). It does not critique, though it may report others’ critiques of yet other proposals. It uses the statements of authoring/proposing/governing entities themselves and shows how FS meets these ie. FSSF ticks your boxes.
+-
+- Paper A does NOT address the question of “…then why not just follow the program offered by Z in Proposal X?” It avoid this. Instead, it might show how each of their goals & methods conflict. Paper A does NOT show how Proposal X does not really meet the needs of the future or its quoted needs.
+-
+- Paper A may need to address the question: What are our priorities then? We can’t do all of whay team P, Q and R are proposing? Which should we prioritize?
+- (Hint: Fill the gaps ie. Futures. STEM is done. Coding. Environment?)
+- Add 2 F’s and 4A’s to 3R’s and 6C’s.
+-
+- Paper B critiques curricula and shows how Futures can fill gaps and heal holes, generally, theoretically.
+-
+- Paper C will offer some in-class activities to do this.
+-
+- Paper D reports on the effect of doing Paper C stuff.
+-
+- Paper E suggest tweaks and refinements.
+- Identify opportunities in existing curricula to inject/deepen FFL
+- Teach teachers some Futures techniques through articles ie. multi-layered embedded teaching
+- Heal existing dominant pedagogies using Critical and Transformative Futures eg. How can Deep Learning, STEM, ESD become more futures-oriented?
+- What is missing from these approaches?
+-
+- What can be added?
+-
+- Topics?
+- Time perspectives?
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+-
+- Explore metaphors of Education such as Fishing, Farming, Factories, Finance
+- eg. Teach a man to fish, factory schooling
+-
+- But, also use these as:
+- a) actual models eg. factory schooling, factory farming
+- b) actual topics/issues for study that are increasingly important
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- Paper 5 - Textbook of the Future
+- Paper 6 - Implementation of FSSF-SBS in the classroom
+- Arc of Articles for PhD - old
+- Paper 1 - Contemporary Context, Gaps, Opportunities
+- Update the Context - Rationale for FFL
+- If…
+- But…
+- And therefore…
+-
+- With…
+- Yet…
+- While…
+-
+- Then why not teach Futures and Foresight Literacy - the ability to READ AND WRITE the Future.
+-
+-
+- Update Trends & Scenarios in Education
+- What are people saying about the Future of Education?
+-
+- What are the big players saying?
+- What are the futures academia saying?
+- What are the education academia saying?
+-
+- Is this where I look at the Future of Work?
+-
+-
+- Introduce recent Education initiatives
+- Survey?
+-
+- Justify my choice…how? What criteria?
+-
+- Identify commonalities and overlaps. Group?
+-
+-
+- These initiatives are supposedly informed by trends, scenarios, imperatives, preferred futures of authorities
+-
+-
+- Propose enhancement/solution: Teach FFL and FSSF
+- somewhat surface
+- depth comes in Paper 2
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+-
+- Purpose
+-
+- Purpose of Article
+-
+- Compare-contrast FsL vs FLs
+- Audience
+-
+- Who are my readers?
+-
+- All
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- “Future Literacies”
+- Argues that FLs is not FFL
+- is not a subset of FFL;
+- rather it is required to balance, temper and open up quoted FFLs
+-
+- FLs are framed as literacies of the future, but whose future? Who says?
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Trends and Drivers in Education: An updated review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+-
+- OECD Trends in Education
+- UNESCO
+- A recent history of "futures" in the IB - A critique and extension
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Michael McQueen
+- Alternative Lao Tse, to counter McQueen's quote
+- Conrad Hughes
+- Nenad Bakic
+- Brad Bass
+- Ally Wu
+- Pop Futures and Education
+- Scenarios of Higher Education and Implications for Secondary Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Paper 1b - Survey of IBDP students, IBMYP students, IBO staff
+- Paper 1c - FFL-ATAR experiment
+- Pre-survey
+- Deliver FFL-ATAR for Term 3
+- Mid-survey
+- Deliver FFL-ATAR for Term 4
+- Post-survey
+-
+- Year 11 and Year 12 content the same
+- Focus topic can be COVID-19 and the Future of Work & Education
+-
+- Integrated:
+- STEEPLE
+- 4-quadrant
+-
+-
+- Tools:
+- Scenarios
+- Backcasting
+- Scanning
+- Emerging Issue Analysis
+- Paper 2 - Rationale for Futures and Foresight Literacy in Contemporary Contexts
+- Explore existing Futures Education & FFL programs
+- this includes FFL already implicitly embedded in programs/curricula
+-
+- tertiary and corporate
+-
+-
+- Compare-contrast FSSF/FFL with 21CT/NPDL/6C/STEM
+- Hitting a Moving Target: Aligning the Future and Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Updating the context for teaching FSSF/FFL
+-
+- Update purpose of education?
+- Update youth visions, mental health and anxiety around the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+-
+-
+- “STEM is not enough” document by Millennium Project
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Literacy: Adding 2 F's and 4 A's to the 6 C's.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Futures
+- Foresight
+-
+- Anticipation
+- Adaptability
+- Authenticity
+- Alignment
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- IF education is for the future, and the future is a)moving b)moving quickly c)moving quickly, more quickly d)characterised by large ramifications e) common to everyone as a concept f)lifelong...then, why don't we teach the future?
+- 21st Century Thinking Skills vs FFL. Compare-contrast-critique.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- General. Intro. Overview.?
+- OECD
+- UNESCO
+- World Economic Forum
+- NPDL
+- CLA of 21st Century Skills
+- Integral Futures Analysis of 21st Century Skills
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- Metaphor
+- Literal/Physical
+- Quantum and Time
+- Uncertainty (Heisenberg)
+- Bell theorem
+- Collapsing the wave function through Intention
+- Unconsciousness
+- What is Digital Literacy?
+- Who is promoting “Digital Literacy”?
+- How “digital” actually are “digital technologies”?
+- What does “digital” even mean?
+- Technical definition
+- In education
+- Quantum as metaphor for Futures Literacy
+- Uncertainty
+- Observer Effect
+- Probability
+- Multiple interpretations
+- Analog as Past. Quantum as Future. Digital as compromise -
+- Digital Literacy as analogous to education’s approaches to Futures
+- Digital was futuristic in the 20th century
+- Quantum PLUS Digital, not Quantum instead of Digital
+- Quantum instead of Digital would not *be* quantum, it would be digital ie. it wouuld be either/or, not both/and.
+-
+-
+- Digital = either/or. Quantum = neither/and
+- Neven’s Law vs Moore’s Law
+- Quantum Computing
+- What is it?
+- State of Industry
+- Prospects
+- Implications for education
+- Quantum physics role in current technology
+- Quantum interpretations
+- Digital literacy is equivalent of training factory workers (labtory?)
+- Spiritual lives of Quantum physicists
+- Quantum literacy = Scientific literacy
+- “We live in a digital world”. Evaluate. Comment. Analyse
+- This is a Newtonian comment.
+-
+-
+- Quantum was ridiculed, dismissed, rejected...
+- "All that remains is to measure more accurately"...before quantum revolution
+- "If you think you understand quantum mechanics, you don't..."
+- If you think you understand education, you don’t…
+-
+-
+- Digital 1/o is one particular state of a quantum spectrum of probabilities
+- The future that we implicitly teach is but one possibility of a spectrum of possibilities.
+- Is it the best?
+- Administrators have “collapsed the wave function”
+- Administrators have "collapsed the wave function"
+- Loops as sub-metaphor
+- Strange loops
+- If-then loops
+- Infinite loops
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Paper 3 - Application of Futures Tools to a) Curricula b) IB Subjects c)Topics
+- intrinsically -
+- What are the futures each subject embodies?
+- how futures oriented are these subjects (in each curriculum)
+-
+-
+- extrinsically -
+- how can we futurize the subject?
+- activities
+- learning goals/outcomes
+- pedagogy
+- Futures Analysis of 21C education programs, systems, initiatives and proposals
+- Highlight shortcomings, contradictions, holes, biases etc.
+- ie. Inconsistencies with own stated objectives/agenda
+-
+- Start with IB
+- Identify opportunities in existing curricula to inject/deepen FFL
+- Teach teachers some Futures techniques through articles ie. multi-layered embedded teaching
+- A Futures Analysis of IB, IBDP and IBMYP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- A Futures Analysis of QCAA-SATE
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Fourth Industrial Revolution and Futures Literacy: A Used Future Salesman
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Question the whole categorization system of the Fourth Industrial Revolution
+- A
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Analysis of modern pedagogical frameworks and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures of International Education and the IB/IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Future Problem Solving Program: A critical analysis
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Paper 4 - Design of FSSF SBS for the IB Diploma Program
+- Use latest Curriculum Theory to inform design of FSSF course
+- Use Futures frameworks and models to inform design of FSSF course and textbook
+- Conversely, use recent ed trends/developements to augment FFL programs
+- Generate spectrum/matrix of FFL opportunities for various curricula
+- Create scenarios/typology/spectrum/matrix of FSSF courses for various systems
+- Teach teachers some Futures techniques through articles
+- Fishing, Farming, Factories and Finance: Metaphors to guide Futures of Education
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- (Perhaps this is my summary article after analyses of programs/proposals)
+-
+-
+-
+- A meta-reflection on trends, scenarios and alternatives in education
+-
+- Explore existing metaphorical usage of fishing, farming, factories, finance
+- eg. Teach a man to fish, factory schooling, factory farming
+- “investing in the future”
+- Within each of these metaphors, there are “sub-metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+- ie. If we used a farming metaphor, what sort of farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+- For a factory metaphor, what sort of factory?
+- Cheap labour, repetitive tasks, time-pressured
+- A production line?
+-
+- But I’m not stopping at metaphor. In exploring the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+- Then, perhaps (though I need to think this through more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+-
+- Finance
+- Big 4? Fintech? Peer-to-peer?
+- Purpose
+-
+- Purpose of Article
+-
+- Explore metaphors of Education such as Fishing, Farming, Factories, Finance
+- eg. Teach a man to fish, factory schooling
+-
+- But, also use these as:
+- a) actual models eg. factory schooling, factory farming
+- b) actual topics/issues for study that are increasingly important
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Criteria for Selection
+- Criteria for Review
+- FutureWe
+- Foresight Education
+- Teach the Future
+- Teaching For A Better World
+- Education Futures
+- Global Future Education Foundation and Institute
+- Future Problem Solving Program
+- Futuring in the Classroom: A literature review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Paper 5 - Textbook of the Future
+- Paper 6 - Implementation of FSSF-SBS in the classroom
+- GOAs of doing a PhD in FFL
+- To guide and document the development of FSSFsbs
+- I need to/should know what went on before (eg. Slaughter/O’Rourke and Corinda) and what is going on now (Teach the Future, Bishop/Hines et al.)
+-
+- To have external "authority" to teach something more meaningful at school - FSSF
+- To have credibility to train teachers in teaching FSSF
+- To open up opportunities down the track eg. University work
+- To develop FSSF subject and justify its implementation
+- To train an army of thinkers
+- To learn Futures thinking and Futures tools myself
+- My contentions, assertions, propositions and theses:
+- A structured futures studies course in a structured program such as IBDP, QCAA sate, A-levels etc is a) a necessary step forward b) a helfpul step forward c) a transitionary step, between old knowledge structures and new knowledge structure (see Gidley Megatrends of Mind, evolution of consciousness, education for radical change). It acknowledges internal and not just external.
+- FSSF is the ideal tool to create lifelong learners
+- Futures can be taught in the style of out-dated traditional Factory model. OR it can be taught in ways that reflect the future aspirations of the student and society. There are a spectrum of FSSF scenarios, which reflect the spectrum of society's ideas of their future.
+- 21CT has inherent contradictions about the future
+- Futures & Foresight Literacy is an essential, missing element in contemporary education. Futures Literacy must not only feature in the toolbox of Future Literacies, it must guide and temper the choice of "Future Literacies". The choice of "Future Literacies" is determined by our views of the future.
+- Contrast Futures Literacy against Future Literacies
+- FSSF meets the criteria for deep learning, higher order thinking and is perfectly suited for project-based learning, inquiry-learning etc.
+- FSSF is a vastly improved vehicle for 21st Century Skills
+- FSSF IB SBS and its cousins is helpful and necessary for modern students.
+- FSSF is a transitionary step between old knowledge structures and new knowledge structures (see Gidley, Megatrends of the Mind.)
+- Deep Learning does not really promote qualitative growth as much as FFL does.
+- ...but what is Deep Learning for? (Or HOT, or STEM, or 21CT)
+- An FFL culture in schools and education systems enhances educational outcomes for all
+- Education... OF the future, ABOUT the future, FOR the future, BY/WITH the future
+- IF education is for the future, and the future is a)moving b)moving quickly c)moving quickly, more quickly d)characterised by large ramifications e) common to everyone as a concept f)lifelong...then, why don't we teach the future?
+- There needs to be a subject/course which explicitly teaches the educational imperatives states ie. integrated transdisciplinarity, futures-orientation, higher-order problem solving, holism & depth, life-long learning, 4A's
+- If not an FSSF subject, then each subject should have an FFL component to temper, balance, deepen, make more rigorous and resilient each subject's work
+- If...But...And therefore...With...Yet...While... Then Why don't we teach Futures and Foresight Literacy?
+- PhD structured research as Chapter Outline
+- Part 1 - Overview, Introduction and Context
+- If…
+- but..
+- and therefore…
+- With…
+- Yet…
+- While… predictions and forecasts are inadequate (add this in!)
+- Then…
+-
+- ￼
+- 2 Introduction
+- ￼
+- 2.1 Personal Context
+- 2.2 Research context
+- ￼
+- 2.2.1 Problem background and definition
+- 2.2.2 Current State of Futures in Secondary Education
+- 2.2.3 Rationale for the Research
+- 2.2.4 An Overview and Outline of Futures Studies
+- 2.2.5 Alignment of IBDP with an explicit formal Futures Studies course
+- 2.3 Research Questions
+- 2.3.1 Research questions
+- Can be divided into Design, Rationale, Delivery…but remember! that these are not independent but inter-dependent:
+-
+- Why determines what.
+- The what requires a certain how. Or, how facilitates the what.
+-
+- What is limited/defined by how and why?
+- How is determined by what and why?
+-
+- Rationale FFL - Why should FFL be taught?
+- Reasons
+- Imperatives
+- Goals
+-
+- Why is the foundation. What and How build on this. So it should come first.
+-
+- Quick answer: Because each program says (more or less) that we either need to chagne, prepare for the future, prepare for uncertainty, changing job landscape etc
+- ie. teach for this (their) future. But…
+- a) its not explicit
+- b) it preferences a particular future, or narrow set of futures
+- c) its likely to be inaccurate to a significant degree
+- d) its not really novel, at the deeper level
+-
+- What is the state of the world that education is embedded in?
+- What is the Future of Education?
+- 2 parts:
+- Historical literature review - not novel
+- Update this for 2020 by looking at recent developments
+-
+- Proposition: The 2020 status isn’t that much different. Still the same underlying stuff.
+- Or: We have made developments, but this FFL is how it could be improved (given its own directives of “preparing for the future”.)
+-
+- This question looks at the RATIONALE for explicitly teaching FSSF. Its addressing will show the need for explicit FSSF, i can argue.
+-
+- Emerging issues analysis?
+- Integral analysis?
+- CLA?
+- What are the trends and scenarios?
+- Of secondary education
+- Of tertiary education influencing secondary
+- Of youth
+- Global world trends influencing education
+- What says what about trends/future?
+- What are the models? Programs? Initiatives?
+- What are the goals of education proposed by these models? Explicit. Implicit.
+- What are the purposes of education within these?
+- How does the Future of Work relate to the Future of Education?
+- Since work and education so strongly linked these days
+- How do/did I select who/what to analyse?
+- UNESCO
+- IB
+- OECD
+- NPDL
+- World Economic Forum
+- Big tech
+- Government
+-
+-
+- Education Academia
+- Futures Academia
+- How does each system frame and represent "the future"?
+- How much do Education Futures actually teach the Future? ie. Cultivate Futures & Foresight Literacy
+- What is Futures & Foresight Literacy?
+- link to Futures Literacy vs Future Literacies
+-
+-
+- Is it possible to design and deliver a Futures Studies course within the IBDP?
+- What do I even mean by this question? Of course it is possible? But what would make it “permissible”, “acceptable”, “probable”, “attractive”?
+-
+- The GOA’s, as stated in their own terms ie. Does it nominally agree with their objectives?
+-
+- What
+- Why the IBDP? Why not other systems?
+- What might be the barriers to FFL/FSSF in secondary?
+- Futures Triangle of Curricula and Systems
+-
+- The bulk of this won’t be new. But i am updating to include latest proposals.
+- Why would an FSSF course be advantageous? Of benefit? Even essential?
+- To IB and its students
+- To the Future Community
+- How is FFL/FSSF different? (to 21CT, NPDL, STEM, ESD, PI) How might it be more effective?
+- (to 21CT, NPDL, STEM, ESD, PI)
+- ESS
+- ToK
+- Rationale FSSF - Why should a dedicated FFL subject be offered?
+- Why FSSFsbs might be even more attractive than just FFL?
+- Design FFL & FSSF - What should be taught?
+- What is structure? What content? What skills? What values?
+-
+- What do/should/could FFL activities look like?
+- FFL activities as opposed to FSSF subject
+-
+- How should current implicit FFL activities be modified to become more rigorous, more effective, deeper… and meet a system’s self-quoted objectives criteria?
+- How might this FSSF course be designed?
+- What Futures stuff should be included in secondary subject?
+- What Futures content?
+- What Futuring skills?
+- What topics and issues should be prioritized in a secondary FSSF subject?
+- What Curriculum (design) Theory?
+- Education academia
+- Futures academia
+- Is it possible to have this course represent the full power of FSSF?
+- What do I mean by this question?
+- I think…
+- How do we avoid pop futures, shallow futures, used futures?
+- What is the Knowledge base?
+- What should be taught according to FFL/FSSF practitioners?
+- What are existing FSSF courses? What/how do they teach?
+- Secondary
+- Tertiary
+- Professional
+- Other
+-
+- Oz - USC, Swinburne, Slaughter
+- USA/Mexico - TTF, Bishop & Hines
+- UK - Hicks
+- Taiwan - Tamkang, Fo Guang
+- NZ -
+- Iran?
+- Singapore?
+- Kazakhstan - Sweeney
+-
+- Futures Literacy Labs - Riel Miller
+- What might a textbook look like?
+- Teaching About The Future - Bishop & Hines
+- Futures Thinking for Social Foresight - Bussey & Slaughter
+- Questioning the Future - SI
+- Operation FFL/FSSF - How should it be taught? Assessed?
+- Sequence
+- Pedagogy
+- Assessment
+- How might it be implemented and taught? Assessment?
+- What are the Approaches to Teaching and Learning the Future?
+- What are the psycho-social considerations of FFL for youth/adolescents?
+- Integration FFL->FSSF - Where and how can FFL fit in a system?
+- Opportunities for FFL and FSSF in curricula
+-
+- Integrating my arguments AND Integrating into the various systems
+-
+- Result is scenarios
+-
+-
+- How might it integrate with and complement other subjects, while offering novelty?
+- How could FFL be incorporated into IBDP? IBMYP? (Scenarios?)
+- Spectrum/matrix
+-
+- FSSFsbs is the ultimate
+-
+- FFL acknowledgement in existing subjects could be at other/initial end
+- How could FSSFsbs be incorporated into IBDP?
+- My proposition
+-
+- Of
+- About
+- For
+- By
+- With
+-
+- Scenarios i develop
+- 2.4 Theoretical Orientation/Framework
+- 2.4.1 Theory and Methodology
+- 2.4.2 Futures theory
+- 2.4.2.1 Approaches to teaching the future
+- 2.4.2.2 Poststructuralism and Critical Futures
+- 2.4.2.3 Causal Layered Analysis
+- 2.4.2.4 Deconstruction
+- 2.4.2.5 Integral Futures
+- 2.4.2.6 Interviews
+- 2.4.3 Education theory
+- 2.4.3.1 Approaches to designing curriculum
+- 2.4.3.1.1 Academia driven
+- 2.4.3.1.2 Business driven
+- 2.4.3.1.3 Government driven
+- 2.4.3.2 Approaches to delivering curriculum
+- 2.4.3.3 Approaches to assessment
+- 2.4.3.4 Pedagogy
+- 2.4.3.4.1 Futures pedagogy
+- 2.4.3.4.2 21st Century pedagogy
+- 2.4.3.4.3 ESD pedagogy
+- 2.4.3.4.4 Alternative pedagogies
+- 2.4.4 Futures education theory
+- 2.4.5 IB philosophy and policy
+- 2.5 Methods
+- 2.5.1 Literature Review
+- 2.5.2 CLA
+- 2.5.3 Deconstruction
+- 2.5.4 Futures Triangle
+- 2.5.5 Emerging Issues Analysis
+- 2.5.6 Interviews
+- 2.5.7 Scenarios
+- 2.5.8 Anticipatory Action Learning
+- 2.5.9 Independent external assessment
+- 2.5.10 IB pilot course process
+- 2.6 Research Aims and Outcomes
+- 2.6.1 Novelty and Contribution
+- This research expects to contribute to the field in these ways:
+- Update the critical education futures literature to include analyses around ‘21st Century Skills’ and other recent education trends and “innovations”.
+- Update the critical education futures literature to include analyses around the purposes of education, particularly how education, work and the economy relate.
+- Offer the IBO possibilities for the future of the IBO and IBDP
+- Offer designs of a formal Futures Studies subject for the IBDP, which may serve as models for other suitable secondary education systems.
+- Develop a knowledge base for Futures Studies suitable to upper-secondary school students across cultural, national and epistemological borders. (This could be through a textbook).
+-
+- Update the critical education futures literature to include analyses around ‘21st Century Skills’ and other recent education trends and “innovations”
+- Update the critical education futures literature to include analyses around ‘21st Century Skills’ and other recent education trends and “innovations”.
+-
+- Update the critical education futures literature to include analyses around the purposes of education, particularly how education, work and the economy relate
+- Update the critical education futures literature to include analyses around the purposes of education, particularly how education, work and the economy relate.
+-
+- Offer the IBO possibilities for the future of the IBO and IBDP
+- Offer the IBO possibilities for the future of the IBO and IBDP
+-
+- Offer designs of a formal Futures Studies subject for the IBDP, which may serve as models for other suitable secondary education systems
+- Offer designs of a formal Futures Studies subject for the IBDP, which may serve as models for other suitable secondary education systems.
+-
+- Develop a knowledge base for Futures Studies suitable to upper-secondary school students across cultural, national and epistemological borders
+- Develop a knowledge base for Futures Studies suitable to upper-secondary school students across cultural, national and epistemological borders. (This could be through a textbook).
+-
+- Offer a spectrum/matrix of FFL opportunities for IBDP, QCAA, HSC with FSSFsbs being the ultimate
+- 2.7 Possible Titles
+- Futures Studies for the IBDP: charting new courses for #next generation IB
+- Futures for The Future by The Future: Teaching the Future as a formal dedicated subject in the IBDP.
+- Futures for The Future by The Future:
+- From The Future of the IB to The Future in the IB
+- 3 21st Century, Education and the Future
+-
+- Look at key education programs, proposals, initiatives and their representation and incorporation of the future.
+- 3.1 The State of the World - now and to come
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 3.2 On Education and ‘The Future’: a review of non-futures literature, curricula, policies and programs
+- 3.2.1 Significant trends in education
+- 3.2.2 On the needs of the 21st Century learner
+- 3.2.3 Dominant/common approaches to 21st Century Education
+- 3.2.3.1 STEM/STEAM, coding, innovation and entrepreneurship
+- 3.2.3.2 Deep Learning, PBL, HOT
+- 3.2.3.3 Education for Sustainable Development
+- 3.2.3.4 Globalised Education
+- 3.2.4 Futures orientation of existing key education stakeholders
+- 3.2.4.1 OECD
+- 3.2.4.1.1 Schooling for Tomorrow
+- 3.2.4.1.2 OECD Education 2030
+- 3.2.4.1.2.1 The Future of Education and Skills 2030
+- 3.2.4.1.2.2 OECD Learning Compass
+- 3.2.4.1.2.3 21st Century Children
+- 3.2.4.1.3 Andreas Schleicher, OECD
+- 3.2.4.1.4 Innovative Teaching for Effective Learning
+- http://www.oecd.org/education/ceri/innovative-teaching-for-effective-learning.htm
+-
+-
+-
+-
+- 3.2.4.1.5 Trends Shaping Education
+- http://www.oecd.org/education/ceri/innovative-teaching-for-effective-learning.htm
+-
+-
+-
+-
+- 3.2.4.1.5.1 Trends Shaping Education 2019
+- 2019
+- http://www.oecd.org/education/ceri/trends-shaping-education-22187049.htm
+-
+- Envisioning the Future of Education and Jobs
+- http://www.oecd.org/education/Envisioning-the-future-of-education-and-jobs.pdf
+-
+-
+-
+- 21st Century Children
+- http://www.oecd.org/education/ceri/21st-century-children.htm
+-
+-
+- 3.2.4.1.5.2 Trends Shaping Education 2016
+- 2019
+- http://www.oecd.org/education/ceri/trends-shaping-education-22187049.htm
+-
+- Envisioning the Future of Education and Jobs
+- http://www.oecd.org/education/Envisioning-the-future-of-education-and-jobs.pdf
+-
+-
+-
+- 21st Century Children
+- http://www.oecd.org/education/ceri/21st-century-children.htm
+-
+-
+- 3.2.4.1.5.3 Trends Shaping Education 2013
+- 2019
+- http://www.oecd.org/education/ceri/trends-shaping-education-22187049.htm
+-
+- Envisioning the Future of Education and Jobs
+- http://www.oecd.org/education/Envisioning-the-future-of-education-and-jobs.pdf
+-
+-
+-
+- 21st Century Children
+- http://www.oecd.org/education/ceri/21st-century-children.htm
+-
+-
+- 3.2.4.2 UNESCO
+- 3.2.4.2.1 Delors report
+- 3.2.4.2.2 Rethinking Education: Towards a Common Global Good
+- 3.2.4.2.3 Les Sept Savoirs - Edgar Morin
+- 3.2.4.2.4 ICT-IFT
+- 3.2.4.2.5 Riel Miller
+- 3.2.4.3 WEF
+- 3.2.4.4 21CT core crew
+- 3.2.4.4.1 Partnership for 21st Century (Thinking?) Skills
+- 3.2.4.4.2 New Partnerships for Deep Learning?
+- 3.2.4.4.3 Brookings Institute
+- 3.2.4.4.4 Center for Curriculum Redesign
+- 3.2.4.5 Big Tech
+- 3.2.4.5.1 Bill Gates
+- 3.2.4.5.2 Google
+- 3.2.4.5.3 Microsoft
+- 3.2.4.5.4 Cisco
+- 3.2.4.5.5 Intel
+- 3.2.4.6 Government
+- 3.2.4.6.1 Australian Departments of Education: Qld, NSW, ACT
+- 3.2.4.6.2 Gonski 2.0 review
+- 3.2.4.6.3 AITSL, Australia
+- 3.2.4.6.4 Ontario
+- 3.2.4.7 Prominent Individuals
+- 3.2.4.7.1 Peter Diamandis, Singularity Hub, Techno-Utopians
+- 3.2.4.7.2 Seth Godin
+- 3.2.4.7.3 Elon Musk
+- 3.2.4.7.4 Stephen Hawking
+- 3.2.4.7.5 Robert Kiyosaki
+- 3.2.4.7.6 Ken Robinson
+- 3.2.4.7.7 John Taylor Gotto
+- 3.2.4.7.8 Ivan Ilyich
+- 3.2.4.7.9 Peter Senge
+- 3.2.4.7.10 Ken Robinson
+- 3.2.4.7.11 Peter Diamandis
+- 3.2.4.7.12 Andrew McAfee
+- 3.2.4.8 Academia
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 3.2.4.8.1 Harvard Project Zero
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 3.2.4.8.2 Uni Melbourne
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 3.2.4.8.3 Michael Fullan
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 3.2.4.9 Finland & Singapore
+- 3.2.4.10 Anti-Silicon Valley
+- 3.2.4.11 Thinktanks
+- 3.2.4.12 Education Changemakers
+- 3.2.4.13 Future Anything
+- 3.2.4.14 FutureWe
+- 3.2.5 The Purposes of Education
+- 3.2.6 Education, and the Futures of Work and the Knowledge Economy
+- 3.2.7 On the current nature of Futures Approaches within dominant curricula
+- 3.3 The Future of the IB, IB education and the 21st Century learner
+- 3.3.1 Treatment of The Future within the IBDP subjects
+- Part 2 - Critical Futures Analysis of 21C Education
+- 5 Education Futures - A literature review
+- Look at educational futurists and what they say about standard education throughout history, up to 21st Century (more or less).
+-
+- 5.1 Futures/Education researchers
+- 5.1.1 Inayatullah
+- 5.1.2 Slaughter
+- 5.1.3 Bussey
+- 5.1.4 Houston
+- 5.1.4.1 Bishop
+- 5.1.4.2 Hines
+- 5.1.4.3 Goldbeck
+- 5.1.4.4 Bol
+- 5.1.5 Gidley
+- 5.1.6 Bateman
+- 5.1.7 Gough
+- 5.1.8 Hicks
+- 5.2 Futures Education Theses
+- 5.2.1 Paynter
+- 5.2.2 Bateman
+- 5.2.3 O'Rourke
+- 5.2.4 Milojevic
+- 5.3 Comparator Models of Education
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 5.3.1 Global Education
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 5.3.2 Education for Sustainability
+- $MyOutlineString = if($OutlineDepth >($OutlineDepth.parent)){
+- collect(ancestor,$SiblingOrder).reverse.format(".")+"."+$SiblingOrder;
+- }else{
+- $SiblingOrder
+- };
+- 5.4 Models for FSIB
+- 5.4.1 O'Rourke and Slaughter
+- 5.4.2 Houston/Teach The Future
+- 5.4.3 Tamkang
+- 5.4.4 UNESCO Futures Literacy workshops, Riel Miller
+- 5.4.5 Inayatullah Six Pillars
+- 5.4.6 USC Graduate Diploma
+- 6 Futures orientation of Curriculum & Policy documents
+- Situate proposals and programs identified in Part 1 within framework of old
+- 6.1 IB
+- 6.2 QCAA/SATE
+- 6.3 NSW, VIC, ACT, WA
+- 6.4 UK
+- 6.5 USA
+- 6.5.1 California
+- 6.5.2 Massachussets
+- 6.5.3 Texas
+- 6.5.4 New York
+- 6.5.5 Georgia
+- 6.6 EU
+- 7 Rationale for Teaching the Future
+- 7.1 Rationale for incorporating Futures thinking into existing curricula
+- 7.1.1 The Global MegaCrisis: Critical Futures Studies addresses complexity and depth of discourse
+- 7.1.2 Equips and empowers students with tools to think about their future, at all scales.
+- 7.1.3 Alleviates anxiety
+- 7.2 Rationale for teaching a dedicated, explicit, formal Futures & Foresight course
+- 7.3 Rationale for the IB to teach a formal futures course
+- 7.3.1 On the need for the IB to innovate
+- 7.3.2 Structure allows it
+- 7.3.3 Aligns with IB philosophy and prinicples
+- 7.4 On Integrative Knowledge vs Displicinary Knowledge
+- Part 3 - Futures Education
+- 9 Summary of Findings - collate and distill
+- 9.1 General Requirements for Futures subject
+- 9.1.1 Applied to IB
+- 9.1.2 Applied to QCAA
+- 9.1.3 Applied to Others
+- 10 Mapping the Futures of Education and the IB/IBDP
+- 10.1 Futures Studies and the needs of the 21st Century learner
+- 10.2 International and Global Education
+- 10.3 The IBDP - Philosophy, Curriculum Design and Assessment
+- 11 Analysis: Futures treatment of Education and IB/IBDP
+- 11.1 Critical Futures analysis
+- 11.1.1 Literature review of Critical Education Futures
+- 11.1.2 Analysis of “21st Century Skills”
+- 11.1.3 International and Global Education
+- 11.1.4 Causal Layered Analysis of the IB and IBDP
+- 11.2 Integral Futures analysis
+- 12 Alignment of Futures with IB
+- 12.1 Futures Studies as a legitimate academic discipline
+- 12.2 Suitability of Futures Studies for the IBDP
+- 12.3 Futures and Theory of Knowledge
+- 12.4 Futures Studies vs IBDP subjects: Global Politics, Philosophy, Environmental Systems and Society, and World Studies Extended Essay
+- Part 3: Designing FFL activities and FSSF course
+- 14 Approaches to teaching and learning The Future
+- 14.1 A survey of Existing Futures Studies education
+- 14.1.1 Tertiary
+- 14.1.2 Secondary
+- 14.1.2.1 Foresight Education
+- 14.1.2.2 Teach The Future
+- 14.1.2.3 FutureWe
+- 14.1.2.4 David Hicks
+- 14.1.3 Corporate and Organizational
+- 14.1.4 Models and Proposals by Futures organizations
+- 14.1.5 The Millennium Project
+- 14.1.6 UNESCO
+- 14.2 Approaches to explicitly teaching the future
+- 14.2.1 Inayatullah, Dator, Tamkang
+- 14.2.2 University of Houston Clear-Lake
+- 14.2.3 Teach The Future.org
+- 14.2.4 Foresight Education
+- 14.2.5 Finland?
+- 14.2.6 New Zealand
+- 14.2.7 Fo Guang
+- 14.2.8 Others?
+- 14.3 Over-arching guidelines for Futures subject according to Futures Ed researchers
+- 14.4 Some considerations in teaching FS to IBDP students and adolescents
+- 14.4.1 Cross-cultural considerations of Futures Studies for the IB
+- 14.4.2 Religious and spiritual considerations of FSIB
+- 14.4.3 Adolescent/developmental considerations of teaching the Future
+- 15 Results: Possible IBDP Futures Studies curricula
+- 15.1 Interviews with IB staff
+- 15.2 Scenarios of an FSIB course
+- 15.2.1 Futures Studies as a course
+- 15.2.1.1 Futures modules scenario
+- 15.2.1.2 Alternatives
+- 15.2.1.3 Bolt-on
+- 15.2.2 Futures Literacy as a component of subjects
+- 15.2.3 Guerilla/stealth futures
+- 15.2.4 FSSF as a TOK framework
+- 15.2.5 Futures as a CAS framework
+- 15.2.6 Futures as an Extended Essay
+- 15.3 How to write a FS textbook for IBDP age students?
+- 15.4 What is a suitable knowledge base for IBDP Futures?
+- 15.5 Possible futures of IBDP Futures Studies programs
+- Part 4: Textbook of the Future
+- 17 Bibliography
+- 17.1 A selected anticipated Bibliography
+- 17.2 IB documents: philosophy, policy and procedure
+- 17.3 Critical Education Futures
+- 17.4 Integral Education Futures
+- 17.5 Education Design Theory
+- 17.6 Stakeholders of 21st Century Thinking Skills
+- 17.7 Untitled Document
+- untitled
+- 1 Education OF the Future: Trends in Education
+- Predictions, proposals, trends in education
+-
+-
+- 2 Education FOR the Future: Purpose, Power and Preferences
+- 3 Education ABOUT the Future: Content and Skills
+- How to future?
+- What is the future of …?
+- 4 Education BY-WITH the Future: The role of the student, elders, innovation, wisdom and collaboration in education
+- Book review: NPDL Engage the World, Change the World
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- EFA as an Educational Tool for the Future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- The Futures of IBHK Global Conference - a critical review
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Jamie Chu
+- Ally Wu
+- MIchael McQueen
+- Jawahar Surisetti
+- Service learning guy
+- UNESCO Futures Literacy Article
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Opportunities for Futures Literacy in the IB
+- Submission to Global Education Monitoring Report
+- FFed Website
+- This FFL project serves 2 purposes:
+- 1. Be the platform to write about FFL for a general audience, whether it be education generally, lay audience, futurists generally
+- 2. Be the platform to do my own background research and foundation writing (for PhD etc)
+- 3. Promote my services
+- Possible Domain Names
+- Futures and Foresight Literacy
+- Education Futures
+- Read and Write the Future
+- FSSF
+- FSSF education
+- FuturesEducation
+- FuturesForesightEducation
+- Of, About, For, By
+- ABOUT Futures Education
+- About the Futures
+- By the futures
+- Of the futures
+- U 				(For the future)
+- Towards the futures
+-
+-
+-
+-
+- Menu structure
+- About Adam
+- About AFE
+- Aims & Objectives
+- Teaching Resources
+- Futures Education Network
+- FSSF Concepts - TiddlyMap/Tiddlywiki?
+- Wordpress pages for About, General, Intro, Blogs etc
+- Tiddlywiki/TiddlyMap for concepts, educating, reference notes
+-
+- 4 Scenarios for FFL
+- Futures & Foresight Literacy
+- Compare-contrast-critique: Futures OF/IN/FOR Education.
+- Degrees of change or 2x2 Matrix
+-
+-
+- GOAs of FSSF Education website
+- Provide a visual record of my learning and academic development
+- Develop my basic understanding of FSSF Ed though writing and sharing
+- Introduce education community to FSSF
+- Promote my services, ideas, brand
+- FSSF IB SBS
+- Establishment of Futures Studies and Strategic Foresight as a school-based subject in the IBDP
+-
+- Write blog and journal articles to support this.
+- Blog pieces are for IB blog and other education blogs.
+- Journal articles could overlap with FSIB.
+-
+-
+- Insight!
+- I need to approach creation of FSSF-sbs as if I were creating a science subject.
+- FF easily lends itself to humanities. That side will emerge much more easily.
+- I need to approach design with the thought:
+- This could the student’s only Science subject. What should they learn? What lab work and field work should/could they undertake?
+- Similarly, this could be the student’s only Humanities subject: What should they learn?
+- SBS guide
+-
+- ￼
+- Feedback and Comms with Robin Julian and IBO
+- Letter to Robin Julian re moving forward with FSIB-SBS
+- Dear Robin,
+-
+- It is with great excitement and anticipation that I can now reply to our early email thread about Futures Studies & Strategic Foresight SBS proposal.
+-
+- My school, Mountian Creek State High School, has whole-heartedly endorsed the idea. In more helpful detail, the idea has been unanimously adopted by the Executive Leadership group at the recent Strategic Review meeting, approved by the School Council, and endorsed by the Parents & Citizens Association.
+-
+- In fact, the school shares my view and value of this idea and wants me to extend the study of Futures & Foresight beyond the IB-SBS into our majority student population which pursues the ATAR Queensland government curriculum. This will be done via 1-hour per week class for Year 11’s and 12’s, as well as a dedicated introductory subject for Year 10’s, inspired by IB principles and meeting general and interdisciplinary ACARA criteria.
+-
+- This may not be optimal timing for this email given COVID-19 impacts and adjustments. However, this very pandemic and its socio-economic consequences adds greater justification for why this subject should be studied. Futures-oriented researchers and thinkers have been talking about “outbreak” as an inevitable scenario for a long time. Now, government and the general public will, or should, adjust their thinking for future events, not just contagion.
+-
+- I look forward to hearing back from you at your convenience as to next steps and where to from here, and how.
+-
+- Kind regards,
+- Adam Duus
+- Group 3 subject features, aims, methods etc.
+-
+-
+-
+- Group 3 aims
+- ￼
+-
+-
+-
+-
+- ITGS aims
+-
+-
+- ￼
+-
+- ESS aims
+-
+-
+- ￼
+-
+- GP aims
+-
+-
+- ￼
+-
+- Anthoropology aims
+-
+- ￼
+-
+-
+- History aims
+-
+-
+-
+- ￼
+-
+-
+- Geography aims
+- Economics aims
+-
+-
+- ￼
+-
+-
+- Business aims
+-
+-
+- ￼
+-
+-
+- Other Group aims
+- Group 1 - Language A aims
+- Group 4 - Biology
+- Group 5 - Maths aims
+- Group 6 - Visual Arts
+- Group 3 and ToK
+- ITGS and ToK
+- ￼
+- ESS and ToK
+- ￼
+-
+- GP and ToK
+- ￼
+-
+- History and ToK
+-
+-
+-
+- ￼
+-
+-
+- Philosophy and ToK
+- Anthropology and ToK
+- Economics and ToK
+-
+-
+- ￼
+-
+-
+- Business and ToK
+-
+-
+- ￼
+-
+- ￼
+-
+-
+- Group 3 and CAS
+- History and CAS
+-
+-
+- ￼
+-
+-
+- Group 3 ATLs
+- ITGS ATLs
+- ￼
+- ￼
+- ￼
+- ￼
+-
+- ESS ATLs
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+-
+- GP ATLs
+- History ATLs
+-
+-
+- ￼
+-
+-
+- ￼
+-
+-
+- Business and ATLs
+-
+-
+- ￼
+-
+-
+- ￼
+- ￼
+-
+- ￼
+-
+- ￼
+- ￼
+-
+- ￼
+-
+- ￼
+- ￼
+-
+-
+- Group 3 Nature of the Subject
+- Nature of ITGS
+- ￼
+- ￼
+-
+- Nature of ESS
+- ￼
+- ESS and sensitive topics
+- ￼
+-
+- Nature of GP
+- ￼
+- ￼
+-
+- Nature of History IBDP
+-
+-
+-
+-
+- ￼
+-
+- Nature of Anthropology
+-
+- ￼
+-
+-
+- Nature of Economics
+-
+-
+- ￼
+-
+-
+- Nature of Business Management
+-
+-
+- ￼
+-
+-
+- Group 3 and International Dimension
+- ITGS and International Dimension
+- ￼
+- ESS and international-mindedness
+- ￼
+-
+- GP and international-mindedness
+- ￼
+-
+- History and IM
+-
+-
+- ￼
+-
+- Economics and IM
+-
+-
+- ￼
+-
+-
+- Group 3 and the IB Learner Profile
+- ITGS and the Learner Profile
+- ￼
+- ￼
+- ESS and the Learner Profile
+- ￼
+-
+- GP and the LP
+- Group 3 and Assessment Objectives
+- ITGS Assessment Objectives
+- ￼
+-
+- ￼
+-
+-
+- ESS Assessment Objectives
+- ￼
+- ￼
+-
+- GP Assessment Objectives
+- ￼
+- ￼
+-
+- History Assessment Objectives
+-
+-
+-
+-
+- ￼
+-
+-
+- ￼
+-
+-
+- ￼
+-
+- ￼
+-
+- ￼
+-
+- ￼
+-
+-
+-
+- Anthropology Assessment Objectives
+-
+- ￼
+-
+- ￼
+-
+-
+- Economics Assessment Objectives
+-
+- ￼
+-
+-
+- ￼
+- Business Assessment Objectives
+-
+-
+- ￼
+-
+- ￼
+-
+- ￼
+- ￼
+-
+- ￼
+- ￼
+-
+- ￼
+-
+- ￼
+-
+- ￼
+-
+- ￼
+- ￼
+-
+- World Studies EE
+- ￼
+-
+-
+-
+- ￼
+- Group 4 subject features, aims, methods
+- Group 3 aims
+- Possible ways to make FSSF a Group 4 subject
+- Know the science of the orthodoxy’s proposals to critique it
+-
+- Examination, discussion and analysis of models
+- eg. climate models
+-
+-
+- History of Science
+- Paradigm shifts
+-
+- Role of sci-tech in socio-economic/political revolution, war & peace
+-
+- Pre-existing theory
+- Copernicus v Aristarchus
+-
+- Technological pathway forks/branching
+- Nuclear weapons/energy
+- World Wide Web/internet - mother of all presentations
+-
+- Technology Forecasting & Assessment
+- Science of Tech issues
+- Climate Change
+- AI
+- Peak Oil, Peak X
+- Genetics: CRISPR, epigenetics etc
+- Materials Processing
+- Quantum Computing
+- Space Colonization
+- Disease, Vaccines & Drugs
+- Energy: renewables & nuclear
+- Fusion
+- Thorium
+- New fission
+-
+- Food & Mood
+- Complexity Science
+- Postnormal Science
+- Nature of Science
+- Neglected Science
+- Rosalind Franklin
+-
+- Wegener (outsider)
+-
+- Einstein (paradigm shift)
+-
+- Radium girls
+- Sociology, Philosophy & Politics of Science: Schools of Science
+- eg. Positivism
+- Reductionism
+-
+-
+- Predictive & empirical futures & foresight
+- Unconventional Science?
+- Ilya Prigogine
+- Rupert Sheldrake
+- Yale Engineering Professor, mind and machines
+- Edgar Mitchell, IONS
+- Ulcers from bacteria, Aussie scientist
+- Buckminster Fuller
+- David Bohm
+-
+- Fat v Sugar
+- Emergence
+- Holistic Science (but what even is this?)
+- The term ‘holistic science’ emerged just now in my mind.
+- What is it?
+-
+- Integrated science? eg. biophysics
+-
+- Biophysical basis of economics
+- Consequences of quantum physics
+- Controversies in Science
+- Silent Spring, Rachel Carson
+- Cold Fusion, LETR US Navy
+- Current Wars
+- Death of the electric vehicle, 1970s
+-
+- The science of Big History
+- FSSF subject guide (Adam to create to assist with SBS process)
+- Nature of the Subject
+- interdisciplinary, transdisciplinary, integrative
+-
+- use ideas and concepts of the future to make better decisions in the present
+- empowering
+-
+- personal and professional
+-
+- futuring skills by topical content
+-
+- asking big questions
+-
+- VUCA
+- exponential technologies, disruptive innovations
+- pace of change
+-
+- intersection of conflicting and competing futures
+-
+- plans, pathways, predictions, forecasts, strategies, scenarios, visions, grand patterns, deep stories
+-
+- models and theories of change
+-
+- contesting prescribed notions of the future
+-
+- critical futures - critical thinkers about popular and prescribed notions of the future; generate alternatives
+- integral futures - holistic; personal, behavioural, systemic, cultural
+- deep futures - layers of reality, recognizes not only multiple horizontal dimensions but levels of analysis
+- anticipatory action learning -
+-
+- Many contemporary programs and initiatives claim to be future-focused in some way. All parties and systems hold some kind of artefact of the future, if only implicit. It is the nature of Futures Studies to map and critically analyse these many, often competing, claims around the future and generate authentic alternatives. It is the role of Strategic Foresight to use proactively anticipate issues and events in order to make more effective decisions in the present.
+- Aims
+- Develop futuring skills
+-
+- Develop futuring skills
+- Understand that while change is characteristic of natural and social systems, there may be underlying patterns to this change
+- Become critical thinkers around dominant ideas of the future and creative thinkers in generating alternative futures
+- Gain content knowledge in topics that are impacting/will impact more and more on young people's lives, some of which may not be represented in mainstream media or the IBDP
+- Investigate one's own personal approaches to the future and develop capacity to more effectively create preferred futures
+- Approaches to Teaching and Learning
+- Assessment Objectives
+- FSSF and the Learner Profile
+- See my slide from IBHK
+-
+- Inquirers
+- Knowledgeable
+- Thinkers
+- Communicators
+- Open-minded
+- Caring
+- Balanced
+- Reflective
+- Risk-Taker
+- Principled
+-
+- FSSF and International-Mindedness
+- Syllabus Structure
+- Topics?
+- Strands?
+- Syllabus Content
+- Personal Futures and Futuring
+- What do we believe about the future?
+- How do we approach the future, as individuals?
+-
+- Examine, unpack, reveal…
+- Biases, preferences, obstacles
+-
+- What do we want to get from this course?
+-
+- On Sensitivity, Privacy and Disclosure
+-
+- Rules of Engagement in the subject
+-
+-
+- SBS criteria and features
+- Meets education and/or cultural needs of a particular school
+- Syllabus does not overlap in content or concepts with other DP subject
+- SL only. Coverable in 150 hours
+- Syllabus adopts the aims and assessment principles of the subject group to which the syllabus relates
+- Syllabus presents a challenge comparable to other SL subjects
+- Engages with learner profile, supports development of international-mindedness, supports and is supported by the DP core. (No EE possible)
+- Enables IB approaches to teaching and learning, such as development of critical and conceptual thinking
+- Assessment design is viable from IB pedagogical, management and cost perspectives
+- For "regional" SBS, evidence of national requirements
+- Any vocational elements are appropriate (see source doc for details)
+- Has intrinsic value in its own right for candidates who will not study in this curriculum area in the future
+- Acknowledgement that administrative logistics may mean a lead-in period before an SBS proposal is considered, or before a new SBS is implemented.
+- The school gives written confirmation that, if authorized, the IB will own the copyright of the syllabus.
+- SBS Expression of interest.docx - 400 words baseline, 800 words extra
+- School-based syllabus (SBS): expression of interest
+-
+- Proposed title of SBS :
+-
+- Date:
+-
+- Name of school proposing SBS :
+-
+- IB school code :
+-
+- DP Coordinator :
+-
+- Email :
+-
+- Additional contact person :
+-
+- Email :
+-
+- Proposed language of delivery of the syllabus (English, French or Spanish ; regional language – give details)
+-
+- Examination session
+- May
+- November
+-
+-
+-
+-
+-
+- Programme subject group with which this syllabus aligns :
+-
+- Estimation of growth of student numbers :
+- Year 1
+- Year 2
+- Year 3
+-
+-
+-
+-
+-
+-
+- Confirmation that, if authorized, the IB will own copyright of the syllabus
+- Please type ‘YES’ :
+-
+-
+- Detail of the proposed SBS
+- Please allow no more than 800 words for this section.
+- Outline the nature of the proposed SBS.
+-
+-
+-
+-
+-
+-
+-
+- Which of the following categories best describe(s) the inspiration for putting forward this syllabus?
+- Innovation
+- Addresses national requirements
+- Exploits local expertise and skills
+- Meets local needs and interests
+-
+-
+-
+-
+-
+- Explain how the syllabus meets the educational and/or cultural needs of the school, but could also be taken up by others.
+-
+-
+-
+-
+-
+-
+- Does the syllabus overlap significantly with that of a mainstream DP subject, DP pilot subject, or another school-based syllabus ? If so, please provide details.
+-
+-
+-
+-
+-
+-
+- How does the syllabus adopt and relate to the aims of the programme group* to which the syllabus relates ?
+- *these can be found in subject guides of relevant existing DP subjects
+- (Please do not just list the aims.)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- How will the syllabus embed the IB learner profile ?
+-
+-
+-
+-
+-
+-
+-
+-
+- How will the syllabus support and be supported by these core requirements of the Diploma Programme: theory of knowledge, and creativity, activity, service (CAS) ?
+-
+-
+-
+-
+-
+-
+-
+- How will the syllabus embed IB Approaches to teaching and learning?
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- How will the syllabus foster ‘international mindedness’?
+-
+-
+-
+-
+-
+-
+-
+-
+- Outline of syllabus content, emphasising a conceptual approach, and including a statement explaining its relevance to the programme group. (Coverage in appropriate depth should be possible in 150 hours.)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- Outline of assessment, including an explanation of the connection with the relevant subject group's assessment objectives, and also an explanation of how assessment conforms with the school’s IB Diploma Programme assessment policy.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- What resources are in place or planned to support teaching and learning for this SBS?
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- Please submit this expression of interest form to :
+- DPdevelopment@ibo.org
+-
+- Outline the nature of the proposed SBS
+-
+- The essence of Futures Studies and Strategic Foresight is to use robust theories, concepts and methodologies of Futures and Foresight to enable better decision-making in the present. All individuals and organizations already use ideas around ‘the future’ for this general purpose, with varying degrees of success and unintended consequences. It is the purpose of FSSF to make the study and use of the future explicit, considered, rigorous and systematic rather than implicit, unconscious, superficial and haphazard.
+- a toolbox of futures and foresight tools, in conjunction with knowledge of contemporary important and emerging issues, to enable better decision making in the present.
+-
+- The future can consist of 2 basic types of artefacts. Not strictly a ‘time’, the future exists as an idea or thought of what we think may unfold or (not) want to unfold, and the means to accomplish this. Plans, predictions, hypotheses, forecasts, strategies, scenarios, visions, dreams fall into this category, as do grand patterns, timeless stories, myth and metaphor.
+- The future may also consist of ‘signals’ from the future in the form of data and trends. While they do temporally and physically exist in the present, they are yet to be considered conventional or as an opportunity or threat, and remain on the fringe of acceptance and/or implementation.
+- Having foresight involves identifying these issues and trends, the proposed responses, and critically assessing them and their possible consequences.
+-
+- One could argue that if we study the past then should we not also study the future? Just as the study of history involves taking multiple perspectives, calls for reinterpretation in the light of new facts, and is constrained by its tools and methodologies, FSSF
+-
+- In describing the nature of FSSF, it is helpful to consider what it is as well as what it is not.
+-
+- ‘The forward looking version of history.’ ~ Richard Slaughter
+-
+- ‘Futurists aim to discover or invent, propose, examine and evaluate possible, probable and preferable futures’ ~ Wendell Bell
+-
+- ‘Futures studies is the systematic study of possible, probable and preferable futures including the worldviews and myths that underlie each future.’ ~ Sohail Inayatullah
+-
+-
+- SI
+- RS
+-
+- What it is not
+- “Crystal ball gazing”
+- Predicting the future,
+- prescribing ‘the future’
+- A focus on technology, how it will ‘solve’ our ‘problems’, and/or subtle promotion of techno-utopia
+-
+-
+-
+- Plans, proposals, pathways, predictions, forecasts, trends, strategies, scenarios, visions, dreams
+-
+- Complexity and conflict
+- VUCA
+- Exponential
+-
+- Increasing need to adapt to emerging issues, anticipate trends, generate authentic alternatives, align values and efforts, and foster agency in creating preferred, sustainable futures.
+-
+- Through a Futures lens, one could consider the world as the chaotic interplay of plausible and preferred futures of diverse stakeholders. FSSF maps and analyzes these pla
+- Which of the following categories best describe(s) the inspiration for putting forward this syllabus?
+- Innovation
+- Addresses national requirements
+- Exploits local expertise and skills
+- Meets local needs and interests
+-
+-
+-
+- INNOVATION
+- School’s commitment to innovative practice, social responsibility
+-
+- Look at MCSHS values and mission
+-
+-
+- ADDRESSES NATIONAL REQUIREMENTS
+- not in terms of unique curriculum requirements, but in terms of imperatives to produce safe, secure and satisfied populi with a sustainable socio-economic system embedded in healthy ecosystems.
+-
+-
+- Explain how the syllabus meets the educational and/or cultural needs of the school, but could also be taken up by others.
+- MCSHS motto, vision, core purpose
+-
+- to inspire a love of learning
+-
+- To be an innovative and socially responsible school maximising student outcomes for young people in a safe, secure and well-ordered environment to prepare them for a productive future of active citizenship and employment in a global society.
+-
+- individual success locally, nationally and internationally for all students
+-
+- Everyone is a futurist, if only implicitly and unconsciously.
+-
+- Everyone, at all stages of life, and every organization, already uses the future though to varying degrees of effectiveness.
+-
+- Universal needs and aspirations: peace, security, prosperity, family, food, health, shelter, transport, communication,
+-
+- Global issues, trends, threats with regional flavours and local priorities.
+-
+- MCSHS
+- innovative
+- A love of learning
+- safe and ordered
+-
+- Most schools would agree that they hold nominally similar ambitions for their students.
+-
+-
+- Does the syllabus overlap significantly with that of a mainstream DP subject, DP pilot subject, or another school-based syllabus ? If so, please provide details.
+- No.
+- Part of the intention of FSSF is to identify existing FFL moments and tie into them, leverage them, deepen them, extend them.
+- For example,
+- Physics: energy production, quantum computing, death of the universe
+- Maths: extrapolation, probability, modelling
+- English: myth and metaphor, images of the future, alternative histories
+-
+-
+- Rather than overlapping with any subjects, FSSF connects into and integrates with ALL subjects.
+-
+- Connections
+- ESS - Environmental Value Systems, Sustainability, Energy Futures, Urban development,
+- ITGS
+- Geography
+- History
+- Design Tech
+- Global Politics
+- Language A - Literature: myth & metaphor, stories
+- Visual Art - images of the future,
+- Drama/Theature - role play
+- How does the syllabus adopt and relate to the aims of the programme group* to which the syllabus relates ?
+- *these can be found in subject guides of relevant existing DP subjects
+- (Please do not just list the aims.)
+-
+- As such, FSSF meets all six Group 3 aims.
+-
+- FSSF will draw heavily on a range of “schools” of futures thinking: predictive-empirical, interpretive, critical and integral & transdisciplinary. This is in order to offer the full power of a futures-orientation and appreciate the diversity and depth of values, views and variables across technological, environmental, socio-economic, geopolitical and cultural systems.
+-
+- FSSF is predicated on the view there is no one single future, but a spectrum of possible, plausible and probable futures in which is embedded an organization’s or individual’s preferred futures.
+-
+- 1. Encourage the systematic study of possible, plausible, probable and preferred futures, including the worldviews and myths that underlie them, across a range of physical space, intellectual domain and time scale.
+-
+- 2. Develop skills in critical futuring, creative foresight and change management to map and anticipate emerging issues, analyse and evaluate proposed responses, generate alternatives, and implement strategy.
+-
+- 3. Collect, describe, analyse and interpret data around emerging issues and trends, forecasts and scenarios across a range of domains, disciplines and time scales.
+-
+- 4. Promote the appreciation of futures-oriented learning as a balance and counterpoint to past-oriented learning, and how this learning is culturally bound and variant.
+-
+- 5. Develop an awareness in the student of the panoply of future possibility beyond those of the student’s institutions of origin, and that study of the future behooves not only appreciation of this diversity but the presence of ‘blind spots’ and filters in everyone.
+-
+- 6. Assist the student to appreciate and manage the uncertainty of the future, recognizing that claims and methodologies of futures are contestable, and that their study facilitates the power to adapt to this uncertainty and the possibility to envision and enact alternatives.
+-
+- 4. Promote the appreciation of
+- ￼
+-
+-
+-
+- Students will be able to gather, interpret and evaluate data from varied sources around forecasts and projected futures
+-
+- enable students to employ futures frameworks to critically and sensitively analyse future-oriented texts such as policy documents, business plans, techno-economic modelling, scenario outlines, technology roadmaps, organizational strategy, stories of alternative history, science fiction and utopia/dystopia, and visionary art, music and literature.
+-
+- enable students to apply tools and methods to generate alternative and preferred futures, considering consequences and evaluating impacts across diverse stakeholders.
+-
+- understand that while the future is characterised by uncertainty, one can appreciate grand patterns through history and across domain and apply models of change to strategic foresight activities
+-
+- encourage students to use their knowledge of futures issues and practical foresight skills to offer insights to a specified stakeholder or end-user.
+-
+- appreciate the multi-disciplinary, inter-disciplinary and trans-disciplinary nature and benefits of futures approaches to knowledge
+- https://blogs.lt.vt.edu/grad5104/multiintertrans-disciplinary-whats-the-difference/
+- https://www.arj.no/2012/03/12/disciplinarities-2/
+-
+- appreciate that contemporary complex issues and problems may consist of layers, aspects and degrees, and that solutions and responses benefit from acknowledging this scale and scope.
+-
+- Since FSSF will draw heavily on the school of Critical Futures,
+-
+-
+-
+-
+- How will the syllabus embed the IB learner profile ?
+- By adopting critical, integral, transdisciplinary futures approaches, NOT stopping at predictive-forecasting, FSSF becomes a reliable vehicle for the IB Learner Profile. Since there is always a future, as well as something of interest or need, students become inquisitive throughout life. They become knowledgeable about a range of pressing issues across space and time, including the timeless and universal. FSSF encourages students to question ethics and investigate value systems in formulating action steps on complex problems. It allows them to anticipate consequences and thus take greater responsibility for actions. Being committed to alternative futures and intepretations of histories, FSSF fosters an open-mind and appreciation of other value systems. And being goal-oriented and values driven, FSSF is service-oriented, while being reflective of success-failure, as well as biases and blind spots. The very essence of FSSF is the “approach to uncertainty with forethought” as well as “new ideas and innovation…in the face of challenges and change.”
+-
+- Anticipatory action learning
+- Incorporate the big questions
+- Open-minded: FSSF seeks to open the future, not reinforce and close-off prescribed futures
+- Inquirers: From what is the future to what should the future what might be the futures to what future do I want
+-
+- Knowledgeable: knowing about issues which have a strong likelihood of affecting our future
+-
+- Five Dimensions of Futures Consciousness:
+- Agency beliefs, Openness to Alternatives, Systems perception, Concern for others, Time perspective
+- ￼
+-
+- ￼
+- How will the syllabus support and be supported by these core requirements of the Diploma Programme: theory of knowledge, and creativity, activity, service (CAS) ?
+- Not EE, though maybe i should mention futures possibilities for EE
+-
+-
+- ToK
+- To what extent can we know the future?
+- How can we ‘know’ what hasn’t happened yet?
+- If predictions are routinely inaccurate, is there any value in predicting?
+- How do different cultures frame time?
+- What are the many ways to experience time?
+- How do different cultures frame time, agency, authority?
+- What is time?
+- How do we know time passes?
+- To what extent do we place more value on knowing the past than the future?
+- What are our biases about the future?
+- How can know what we don’t know that we don’t know?
+- How can we prepare for what we can’t see that we can’t see?
+- How do different disciplines frame the future?
+- To what extent does the past determine the future? Conversely, to what extent does the future define the past?
+- To what extent does the definition of a problem define the limits of the solution?
+-
+- International School of Brussels, Belgium
+-
+- CAS
+- CAS is already implicitly oriented towards the future: students hold an image of a preferred future in mind and seek to enact and enable it through service and action in the community. We could consider this Higher-Order Futures Thinking. FSSF will support CAS by offering a toolbox of foresight skills and change management principles, as well as topic knowledge, in order to make the CAS process more rigorous and effective.
+-
+- While not part of this EOI and initial scope of the FSSF-SBS, it is envisaged that FSSF offers one rigorous means to extend and/or unite CAS into an Extended Essay.
+-
+- FSSF is goal-based, action-oriented and values driven, and thus committed to serving the broader community. CAS supports FSSF by stimulating inquiry in a field of interest through a real-world project. CAS projects are essentially about making a difference and realising a preferred future. Through implementing its theories and techniques, FSSF supports CAS by guiding CAS direction and helping make projects more rigorous and effective.
+-
+-
+- How will the syllabus embed IB Approaches to teaching and learning?
+- FSSF embeds IB ATL by taking an inquiry-driven and conceptually-based approach, built on truly “Big Questions” and universal principles tailored to a student’s context. These are individually relevant in each student’s context, while  As such, FSSF is both differentiated through preferred futures and ways of learning and knowing. Social, collaboration as well as self-management skills are developed through encouraging personal responsibility for learning as well as their lives and world. FSSF incorporates a systems approach acknowledging complexity and emergence, but also looks at the worldviews, myths and metaphors underlying each.
+-
+- in the understanding that we don’t, and can’t, act and live alone. Our actions-consequences intertwine
+-
+- What exactly are IB ATL?
+- 5 approaches to Learning:
+- Developing thinking skills
+- Social skills
+- Communication skills
+- Self-management skills
+- Research skills
+-
+- 6 approaches to Teaching:
+- Inquiry-based
+- Conceptually-focused
+- Contextualized
+- Collaborative
+- Differentiated
+- Informed by assessment
+-
+- OF
+- ABOUT
+- FOR
+- BY
+- TO/WITH
+-
+-
+- not only how we teach, but what we teach.
+- Not only what we teach, but who defines what we should know for the future ( eg. WEF)
+- “Futures of Education” have conventionally fallen into two categories. Either they are focused on how to teach for the future: increased use of technology, flipped classrooms, blended learning, “21st Century skills”, “deep” learning, project-based learning etc. Or, alternatively, if discussing the “what”, they privelige a particular vision of the future and emphasise preferred trends to define the required content to “succeed in the future”. This has lead to heavy and rapid investment in STEM programs, coding and robotics, in terms of content, that will lead to “success” in the (prescribed) future.
+-
+- FSSF seeks to find a balanced, middle ground of trend, innovation, and wisdom, informed by criticality, reflection and introspection.
+-
+- In addition to contemporary “literacy” initiatives such as scientific/STEM literacy, digital/ICT literacy, media literacy et al, FSSF promotes Futures and Foresight Literacy: the capacity to read and write the future, critically and creatively.
+-
+- in addition to orthodox contemporary literacy movements: language literacy, numeracy, scientific literacy, digital/ICT literacy,
+-
+- Teachers of learners AND teachers of content
+- Students meaningfully engaged in structured inquiry with greater critical and creative thinking
+- Promote aims of subjects (making more than just aspirations) while linking previously isolated knowledge
+- A variety of skills that will equip them for learning beyond school and success beyond tertiary education
+- Enhance the coherence and relevance of students’ DP experience
+- Blend of idealism and practicality
+- ￼
+-
+- What are IB ATLs?
+- How will the syllabus foster ‘international mindedness’?
+- FSSF fosters international-mindedness in many ways. By considering global issues, their local effects and regional responses, FSSF looks at the variety of ways the future is viewed across the world. Many contemporary problems have consequences beyond borders and call for trans-national co-operation given their scope and magnitude. FSSF considers not only national and international futures but those held by cultural groups which also don’t obey nation-state boundaries. Globalization is recognized as a massive trend making IM central to the FSSF subject. Furthermore, alternative ways of knowing the future and understanding time beyond modern Western, techno-economic models are explored.
+-
+- recognizes that globalization is a strong driver of world systems, and these systems are increasingly interconnected in their operation and consequences.
+-
+- discusses futures of nation-state, ideas around it,
+- discusses alternative notions of culture and groupings rather than the nation-state
+-
+- emerging issues - watching the world, not just local
+-
+- alternative ways of knowing  the future
+- different models and modes of time eg. indian vs pacific vs western
+- macrohistorical models of time
+-
+- not only how different nations define issues and craft responses, but how different cultures
+-
+- redefines culture
+- How does IB define IM?
+- How do others define IM?
+- How does Futures define something like IM?
+- Outline of syllabus content, emphasising a conceptual approach, and including a statement explaining its relevance to the programme group.
+- (Coverage in appropriate depth should be possible in 150 hours.)
+-
+- FSSF draws on the academic discipline of Foresight and Future Studies as well as the gems from other Group 3 subjects.
+-
+- FSSF draws on the conceptually-based “three element frameworks” found in other IBDP Group 3 subjects.
+-
+- 3 strands with student & stakeholders at the centre
+- Big questions and significant ideas
+- Key concepts
+-
+- FSSF draws from the relatively young academic discipline of Foresight and Future Studies as well as models from other Group 3 subjects. It employs an integrated three-element framework which can also be found in subjects such as Global Politics (People-Power-Politics; Theoretical Foundations, Levels of Analysis and Individual & Group Perspectives), ITGS (the three strands) and History (Content-Concepts-Skills). It also adopts “Big Questions, Key Concepts and Significant Ideas” similar to Environmental Systems and Societies.
+- The 3 strands of FSSF are as follows:
+- 1.	The SHAPE of the Future: Science, History, Art, Philosophy and Education of Futures and Foresight. ‘Shape’ is used here in two ways. One, as a catchy umbrella acronym outlining the strand’s intentions of looking at the various ways the future may be investigated, treated and expressed.
+-
+-
+- System of ‘threes’
+-
+- ESS:
+-
+- GP core: People, power, politics and
+- Theoretical Foundations, Levels of Analysis, and Individual and Group Perspectives
+-
+- ITGS: 3 strands of
+- Strand 1: Social and Ethical Significance
+- Strand 2: Application to specified scenarios
+- Strand 3: IT Systems
+-
+- Student | Stakeholders at the centre
+- Outline of assessment, including an explanation of the connection with the relevant subject group's assessment objectives, and also an explanation of how assessment conforms with the school’s IB Diploma Programme assessment policy.
+- FSSF intends to align with the Group 3 assessment objectives and methods by modelling after other Group 3 subjects.
+-
+- Assessment will consist of 2 external exam papers and an Internal Assessment. Indicative weightings could be Paper 1 - 40%, Paper 2 -  40% and IA - 20%, though I would also like to explore the possibility of weighting the IA more heavilty. For example, Paper 1 - 30%, Paper 2 - 30%, IA - 40%.
+-
+- The Internal Assessment would be a futures and foresight analysis on an issue or question of personal interest or local significance. The treatment should meet a required level of specificity, locality and particularity and should not have been covered in detail within the syllabus. The IA would possess both a critical-analytical element as well as a creative-alternatives element. Students will be required to identify and analyse existing treatments, assessments or representations of the futures issue. Using futures tools and methodologies, including those which may not have been covered in the course, students are then to generate alternatives to the futures investigated. These futures may then be expressed in a number of ways, leveraging the student’s preferred means of expression. These may include but are not limited to:
+- art piece: drawing,
+- creative writing: short story, newspaper article, album lyrics
+- movie/drama script
+- mathematical/biophysical modelling
+- survey and statistical analysis
+- scientific-style report
+- web site, multimedia production
+- alternative historical timeline
+- business plan, corporate/marketing strategy
+- infographic, data visualization dashboard
+- foresight exercise with report for local organization
+-
+- An exegetic report component must be included clearly and explicitly communicating the futures analysis and interpretations embedded in the work.
+-
+- 2 exams?
+- IA
+- Multimedia
+- Exegesis
+- Foresight case study
+- Analysis of Proposed Futures; critique
+- Creation of alternatives
+- Art, story, plan, scenarios, choose-your-own adventure,
+- Textual/media analysis
+- Interview, survey
+-
+-
+- Models: ESS, Anthropology, Business
+-
+- Assessment objective 1: Knowledge and understanding
+-
+-
+- Assessment objective 1: Knowledge and understanding
+- Demonstrate knowledge and understanding of futures and foresight concepts, issues and arguments.
+- Identify the futures elements, values and attitudes present in both futures artefacts and non-futures stimuli.
+- Demonstrate technical knowledge of futures issues
+- Demonstrate knowledge and understanding of contemporary emerging issues and expected trends and orthodox responses
+-
+-
+- Assessment objective 2: Application and analysis
+- • Analyse philosophical concepts, issues and arguments
+- Assessment objective 2: Application and analysis
+-
+- Explain and analyse the futures representations issues and approaches present in both futures artefacts and non-futures stimuli.
+- Analyse the possible social, technical, economic, environmental and political and ethical consequences of futures artefacts.
+- Analyse foresight case studies and applying concepts and tools in unfamiliar contexts by explaining the issue(s) at stake, selecting and interpreting data, and applying appropriate tools, techniques, theories and concepts
+-
+-
+-
+- Assessment objective 3: Synthesis and evaluation
+- • Evaluate philosophical concepts, issues and arguments
+- Assessment objective 3: Synthesis and evaluation
+-
+- Evaluate futures and foresight concepts, issues and arguments.
+- Construct and develop relevant, balanced and focused arguments for a variety of future visions, pathways, strategies and plans.
+- Evaluate, formulate and justify possible visions, scenarios and strategic courses of action in response to a problem or issue.
+- Compare, contrast, synthesize and evaluate a variety of perspectives and approaches to futures issues, and evaluate beliefs, biases and prejudices, and their origin.
+-
+-
+-
+-
+-
+-
+- Assessment objective 4: Selection, use and application of appropriate skills and techniques
+- Assessment objective 4: Selection, use and application of appropriate skills and techniques
+- Demonstrate the ability to produce clear and well-structured written responses.
+- Select and demonstrate the use of methods and skills, appropriate to a specific futures research question, to gather, present, analyse, interpret and reflect on foresight data.
+- Suggest holistic, innovative solutions that demonstrate awareness of cultural differences, value diversity and long-term impacts.
+-
+- FSSF assessment objectives
+-
+-
+- Assessment objective 1: Knowledge and understanding
+- Demonstrate knowledge and understanding of futures and foresight concepts, issues and arguments.
+- Identify the futures elements, values and attitudes present in both futures artefacts and non-futures stimuli.
+- Demonstrate technical knowledge of futures issues
+- Demonstrate knowledge and understanding of contemporary emerging issues and expected trends and orthodox responses
+-
+-
+- Assessment objective 2: Application and analysis
+-
+- Explain and analyse the futures representations issues and approaches present in both futures artefacts and non-futures stimuli.
+- Analyse the possible social, technical, economic, environmental and political and ethical consequences of futures artefacts.
+- Analyse foresight case studies and applying concepts and tools in unfamiliar contexts by explaining the issue(s) at stake, selecting and interpreting data, and applying appropriate tools, techniques, theories and concepts
+-
+- Assessment objective 3: Synthesis and evaluation
+-
+- Evaluate futures and foresight concepts, issues and arguments.
+- Construct and develop relevant, balanced and focused arguments for a variety of future visions, pathways, strategies and plans.
+- Evaluate, formulate and justify possible visions, scenarios and strategic courses of action in response to a problem or issue.
+- Compare, contrast, synthesize and evaluate a variety of perspectives and approaches to futures issues, and evaluate beliefs, biases and prejudices, and their origin.
+-
+-
+- Assessment objective 4: Selection, use and application of appropriate skills and techniques
+- Demonstrate the ability to produce clear and well-structured written responses.
+- Select and demonstrate the use of methods and skills, appropriate to a specific futures research question, to gather, present, analyse, interpret and reflect on foresight data.
+- Suggest holistic, innovative solutions that demonstrate awareness of cultural differences, value diversity and long-term impacts.
+-
+-
+- Demonstrate knowledge and understanding
+- anthropological concepts and theories
+- – anthropological research methods and ethics
+- – a range of appropriately identified ethnographic materials
+- – specified areas of inquiry
+-
+- Demonstrate detailed, relevant and accurate historical knowledge.
+- • Demonstrate understanding of historical concepts and context.
+- • Demonstrate understanding of historical sources.
+-
+- facts and concepts
+- – methodologies and techniques
+- – values and attitudes.
+-
+- – the business management tools, techniques and theories specified in the syllabus content
+- – the six concepts that underpin the subject
+- – real-world business problems, issues and decisions
+- – the HL extension topics (HL only).
+-
+- the business management tools, techniques and theories specified in the syllabus content
+- – the six concepts that underpin the subject
+- – real-world business problems, issues and decisions
+- – the HL extension topics (HL only).
+-
+- Demonstrate knowledge and understanding of key political concepts and contemporary issues in global politics
+- • Demonstrate understanding of relevant source material
+- • Demonstrate understanding of a political issue in a particular experiential situation (engagement activity)
+- • At HL only, demonstrate in-depth knowledge and understanding of political issues in two detailed case studies
+-
+- Demonstrate an awareness of IT applications and developments in specified scenarios
+- • Demonstrate an awareness of the social and ethical significance of specified IT applications and developments
+- • Demonstrate technical knowledge of ITGS terminology, concepts and tools
+- • Demonstrate technical knowledge of IT systems
+- • Demonstrate knowledge and understanding of topics related to the annually issued case study (HL paper 3 only)
+- Demonstrate Application and Analysis
+- Demonstrate Synthesis and Evaluation
+- Demonstrate Use and Application of  Appropriate Skills
+- Anthropology assessment objectives
+-
+-
+- 1. Knowledge and understanding (AO1)
+- Demonstrate knowledge and understanding of:
+- – anthropological concepts and theories
+- – anthropological research methods and ethics
+- – a range of appropriately identified ethnographic materials
+- – specified areas of inquiry
+-
+- 2. Application and analysis (AO2)
+- – Recognize anthropological concepts in ethnographic materials
+- – Use ethnographic examples and anthropological concepts to formulate an argument
+- – Apply anthropological knowledge and understanding to reflect on the “big” anthropological questions
+- – Analyse ethnographic materials in terms of the viewpoint of the anthropologist, research methods, concepts and ethics
+- – Use anthropological theories to formulate an argument
+- – In the internal assessment task, engage in the practice of anthropology, including recognition of the position of the observer; select appropriate methods; interpret methods; interpret data; consider ethical issues
+-
+- 3. Synthesis and evaluation (AO3)
+- – Compare and contrast characteristics of specific cultures and societies
+- – Discuss a range of ethnographic materials and critically evaluate them utilizing appropriate conceptual frameworks
+- – In the internal assessment task, justify methodological choices and critically reflect on the practice of anthropology
+- – At HL only, to demonstrate understanding and use of anthropological theories to evaluate ethnographic materials.
+-
+- 4. Selection and use of a variety of skills (AO4)
+- – Identify an appropriate context, anthropological concept and research question for investigation
+- – Select and demonstrate the use of methods and skills, appropriate to a specific anthropological research question, to gather, present, analyse, interpret and reflect on ethnographic data
+- History assessment objectives
+-
+- Assessment objective 1: Knowledge and understanding
+- • Demonstrate detailed, relevant and accurate historical knowledge.
+- • Demonstrate understanding of historical concepts and context.
+- • Demonstrate understanding of historical sources. (Internal assessment and paper 1)
+-
+- Assessment objective 2: Application and analysis
+- • Formulate clear and coherent arguments.
+- • Use relevant historical knowledge to effectively support analysis.
+- • Analyse and interpret a variety of sources. (Internal assessment and paper 1)
+-
+- Assessment objective 3: Synthesis and evaluation
+- • Integrate evidence and analysis to produce a coherent response.
+- • Evaluate different perspectives on historical issues and events, and integrate this evaluation effectively into a response.
+- • Evaluate sources as historical evidence, recognizing their value and limitations. (Internal assessment and paper 1)
+- • Synthesize information from a selection of relevant sources. (Internal assessment and paper 1)
+-
+- Assessment objective 4: Use and application of appropriate skills
+- • Structure and develop focused essays that respond effectively to the demands of a question.
+- • Reflect on the methods used by, and challenges facing, the historian. (Internal assessment)
+- • Formulate an appropriate, focused question to guide a historical inquiry. (Internal assessment)
+- • Demonstrate evidence of research skills, organization, referencing and selection of appropriate sources. (Internal assessment)
+- ESS assessment objectives
+-
+- 1. Demonstrate knowledge and understanding of relevant:
+- – facts and concepts
+- – methodologies and techniques
+- – values and attitudes.
+-
+- 2. Apply this knowledge and understanding in the analysis of:
+- – explanations, concepts and theories
+- – data and models
+- – case studies in unfamiliar contexts
+- – arguments and value systems.
+-
+- 3. Evaluate, justify and synthesize, as appropriate:
+- – explanations, theories and models
+- – arguments and proposed solutions
+- – methods of fieldwork and investigation
+- – cultural viewpoints and value systems.
+-
+- 4. Engage with investigations of environmental and societal issues at the local and global level through:
+- – evaluating the political, economic and social contexts of issues
+- – selecting and applying the appropriate research and practical skills necessary to carry out investigations
+- – suggesting collaborative and innovative solutions that demonstrate awareness and respect for the cultural differences and value systems of others.
+-
+- Business assessment objectives
+-
+-
+- By the end of the business management course, students are expected to reach the following assessment objectives.
+-
+- 1. Demonstrate knowledge and understanding of:
+- – the business management tools, techniques and theories specified in the syllabus content
+- – the six concepts that underpin the subject
+- – real-world business problems, issues and decisions
+- – the HL extension topics (HL only).
+-
+- 2. Demonstrate application and analysis of:
+- – knowledge and skills to a variety of real-world and fictional business situations
+- – business decisions by explaining the issue(s) at stake, selecting and interpreting data, and applying appropriate tools, techniques, theories and concepts
+- – the HL extension topics (HL only).
+-
+- 3. Demonstrate synthesis and evaluation of:
+- – business strategies and practices, showing evidence of critical thinking
+- – business decisions, formulating recommendations
+- – the HL extension topics (HL only).
+-
+- 4. Demonstrate a variety of appropriate skills to:
+- – produce well-structured written material using business terminology
+- – select and use quantitative and qualitative business tools, techniques and methods
+- – select and use business material, from a range of primary and secondary sources.
+-
+-
+- Global Politics assessment objectives
+-
+-
+- Assessment objective 1: Knowledge and understanding
+- • Demonstrate knowledge and understanding of key political concepts and contemporary issues in global politics
+- • Demonstrate understanding of relevant source material
+- • Demonstrate understanding of a political issue in a particular experiential situation (engagement activity)
+- • At HL only, demonstrate in-depth knowledge and understanding of political issues in two detailed case studies
+-
+- Assessment objective 2: Application and analysis
+- • Apply knowledge of key political concepts to analyse contemporary political issues in a variety of contexts
+- • Identify and analyse relevant material and supporting examples
+- • Use political concepts and examples to formulate, present and sustain an argument
+- • Apply knowledge of global politics to inform and analyse experiential learning about a political issue (engagement activity)
+- • At HL only, apply knowledge of global politics to analyse political issues in two case studies
+-
+- Assessment objective 3: Synthesis and evaluation
+- • Compare, contrast, synthesize and evaluate evidence from sources and background knowledge
+- • Compare, contrast, synthesize and evaluate a variety of perspectives and approaches to global politics, and evaluate political beliefs, biases and prejudices, and their origin
+- • Synthesize and evaluate results of experiential learning and more theoretical perspectives on a political issue (engagement activity)
+- • At HL only, demonstrate synthesis and evaluation of different approaches to and interpretations of political issues in two case studies
+-
+- Assessment objective 4: Use and application of appropriate skills
+- • Produce well-structured written material that uses appropriate terminology
+- • Organize material into a clear, logical, coherent and relevant response
+- • Demonstrate evidence of research skills, organization and referencing (engagement activity and HL extension in particular)
+- • At HL only, present ideas orally with clarity
+- ITGS assessment objectives
+-
+-
+- Assessment objective 1: Knowledge and understanding of specified content
+- • Demonstrate an awareness of IT applications and developments in specified scenarios
+- • Demonstrate an awareness of the social and ethical significance of specified IT applications and developments
+- • Demonstrate technical knowledge of ITGS terminology, concepts and tools
+- • Demonstrate technical knowledge of IT systems
+- • Demonstrate knowledge and understanding of topics related to the annually issued case study (HL paper 3 only)
+-
+- Assessment objective 2: Application and analysis
+- • Explain the impacts of IT applications and developments in specified scenarios
+- • Analyse the social and ethical significance of specified IT applications and developments
+- • Transfer IT knowledge and make connections between specific scenarios
+- • Apply technical knowledge of IT systems acquired through independent research to provide supporting evidence in possible decisions relating to future courses of action related to the annually issued case study (HL paper 3 only)
+-
+- Assessment objective 3: Synthesis and evaluation
+- • Evaluate local and global impacts of specified IT developments through individually researched studies
+- • Evaluate a solution involving IT to a specified problem using knowledge of IT systems
+- • Discuss the social and ethical implications of specified IT policies and developments
+- • Evaluate, formulate and justify possible strategic courses of action related to the annually issued case study (HL paper 3 only)
+-
+- Assessment objective 4: Use of ITGS skills
+- • Demonstrate evidence of project management in the development of a well-organized product to resolve a specific issue
+- • Use IT tools and the product development life cycle (PDLC) to create an original product in consultation with a client
+- • Demonstrate evidence of the use of appropriate techniques to develop an original IT product
+- Philosophy assessment objectives
+-
+-
+- Assessment objective 1: Knowledge and understanding
+- • Demonstrate knowledge and understanding of philosophical concepts, issues and arguments.
+- • Identify the philosophical issues present in both philosophical and non-philosophical stimuli.
+- • At HL only, demonstrate knowledge and understanding of the nature, function, meaning and methodology of philosophical activity.
+-
+- Assessment objective 2: Application and analysis
+- • Analyse philosophical concepts, issues and arguments.
+- • Analyse the philosophical issues present in both philosophical and non-philosophical stimuli.
+- • Explain and analyse different approaches to philosophical issues, making use of relevant supporting evidence/examples.
+- • At HL only, analyse the nature, function, meaning and methodology of philosophical activity.
+-
+- Assessment objective 3: Synthesis and evaluation
+- • Evaluate philosophical concepts, issues and arguments.
+- • Construct and develop relevant, balanced and focused arguments.
+- • Discuss and evaluate different interpretations or points of view.
+- • At HL only, evaluate the nature, function, meaning and methodology of philosophical activity.
+- • At HL only, compare and contrast their personal experience of philosophical activity with the issues regarding philosophical activity raised in an unseen text.
+-
+- Assessment objective 4: Selection, use and application of appropriate skills and techniques
+- • Demonstrate the ability to produce clear and well-structured written responses.
+- • Demonstrate appropriate and precise use of philosophical vocabulary.
+- • In the internal assessment task, demonstrate evidence of research skills, organization and referencing.
+- What resources are in place or planned to support teaching and learning for this SBS?
+- ASOT, HOT and Collins
+-
+- Sohail, son did IBDP at Mountain Creek
+- Marcus, USC - Grad Dip futures; university connection
+-
+- Rick Slaughter as friendly advisor, former teacher/designer of only known secondary course/subject in Futures
+-
+-
+- Resources - from Letter to Darrin
+- There exists an extensive repository of resources to draw material and support from for the FSSF-SBS, covering a range of sources and diversity of type.
+- Within the Futures and Foresight community there is a strong educational thrust as they recognize, perhaps better than anyone, that youth are the future, and the future is fundamentally about learning.
+-
+- I will draw on the resources of this academic community, in conjunction with the IBO, to design and deliver FSSF-SBS. This includes the curricula and teaching staff of the various tertiary Futures & Foresight subjects, courses and diplomas around the world, and the insights and experiences of Futures ‘pracademia’ in working with the corporate world.
+-
+- For example, a selection of pedagogical Futures & Foresight text resources might include:
+- Questioning the Future: Methods and Tools for Organizational and Societal Transformation, Sohail Inayatullah
+- Foundations of Futures Studies, Wendell Bell
+- Teaching About the Future, Peter Bishop and Andy Hines
+- Futures Thinking for Social Foresight, Richard Slaughter with Marcus Bussey
+- What works: Case Studies in the Practice of Foresight by Sohail Inayatullah
+- Foresight: The Art and Science of Anticipating the Future by Denis Loveridge
+-
+- Various peer-reviewed journals are available to draw on as well. Looking at only my current library, there is an array of both futures-focused journals as well as those of other disciplines which address the future. These include:
+- Journal of Futures Studies
+- Technological Forecasting and Social Change
+- The Futurist
+- World Future Review
+- Futures
+- European Journal of Futures Research
+- Foresight
+- On the Horizon
+-
+- This is complemented by futures & foresight articles appearing in a range of other journals:
+- Journal of Teacher Education for Sustainability
+- Journal of Peace Education
+- American Behavioural Scientist
+- Computers & Education
+- Procedia - Social and Behavioural Sciences
+- International Journal of Management Education
+- Energy Policy
+- Physics Today
+- …and many more
+-
+- Professional foresight practitioners and others futures-oriented professionals organise around many professional associations. Most of these have educational outreach arms. I’m confident they would be very interested in some kind of collaboration with an IBDP FSSF-SBS and/or creating a “student” category of membership similar to other professional bodies.
+- World Future Society
+- World Futures Studies Federation
+- Institute for the Future
+- The Millennium Project
+- Association of Professional Futurists
+-
+- In terms of content, FSSF can draw on anything and everything that is available to the school, its teachers and its students: free web content, newspapers, story books, movies and documentaries, local council policy documents, existing textbooks and general library resources will all offer opportunities to investigate the future. However, to suggest some specific  specific resources which might be included are
+- UN Sustainable Development Goals
+- The Big History Project
+- Teach The Future foundation
+- UNESCO Future Literacy Labs
+- … and many more.
+-
+- Pedagogically, I anticipate drawing on UNESCO’s growing work in Futures and Foresight Literacy evidenced by their nomination of 8 Chairs in Anticipation, Futures Literacy and Futures Studies, based at various Universities and institutions around the world. Should the FSSF-SBS go ahead, I see great potential for collaboration with UNESCO’s Global Futures Literacy Network.
+-
+- In fact, I am fortunate to have Professor Sohail Inayatullah, the UNESCO Chair in Futures Studies, as my MA/PhD co-supervisor. Professor Inayatullah is a UNESCO Chair in Futures Studies and holds positions at USC, Tamkang University (Taiwan), Universiti Sains Islam Malaysia and the Melbourne Business School. Not only a theoretician, Prof. Inayatullah consults on futures and foresight with organizations around the world such as Interpol, Asian Development Bank, UN Food and Agriculture Organization, Rural Health Victoria, Disability Queensland, and the Governments of Malaysia, Pakistan, Armeania, China, Singapore and New Zealand, to name but a few.  Furthermore, Prof. Inayatullah has links to our school as children were students of MCSHS. His son, Saim Inayatullah completed the IBDP in 2011, giving Prof. Inayatullah a unique appreciation of the IB and the role FSSF can play. My other supervisor is Dr Marcus Bussey, Deputy Head, School of Social Sciences at USC. He is a former school teacher and ran the USC Graduate Certificate in Futures Studies.
+-
+- The development of the FSSF-SBS will serve as a vehicle for my MA/PhD studies through our local university , the University of the Sunshine Coast (USC), with whom my school already collaborates quite closely. In doing so, the SBS course development is given additional academic rigour and oversight. It also strengthens secondary-tertiary-community collaboration and leverages existing expertise and resources.
+-
+- My research will help inform the development of the necessary elements of the FSSF-SBS: curriculum, syllabus, teacher resources, student resources, suggested learning sequences and activities. I will compare and contrast the various approaches to teaching the future. A significant effort will be in framing, positioning and delivering the wealth of futures literature in a way suitable for a secondary school audience. Furthermore, my research will update the existing futures education literature for the 21st Century, re-emphasising the need in the Anthropocene for explicit, systematic, critical, holistic treatment of futures, and proactive and reflective use of anticipation and foresight. I intend to highlight the significant gap in preparing for the future that exists in secondary education - that of cultivating Futures and Foresight Literacy - and how the IBO is perfectly positioned to fill that gap and meet that imperative. Lastly, I hope to gather empirical data on the implementation of FSSF-SBS including its effects on the sense of preparedness and hope students feel.
+-
+- Another significant human resource is the wisdom and experience of Dr Richard Slaughter, a groundbreaking Futures and Foresight pracademic in the South-East Queensland region. Dr Slaughter is largely retired from academic life but has agreed to meet with me at his home in Brisbane. Dr Slaughter was the designer and educator of two innovative Futures thinking education initiatives. First was the Queensland Board of Senior Secondary School Studies, Pre-Pilot Senior Syllabus in Futures. Sadly, this course was discontinued for political-bureaucratic reasons rather than student interest or effectiveness. (See Slaughter RA. Futures education: catalyst for our times. Journal of Futures Studies. 2008;12:15-30.) Later, Dr Slaughter designed, established and taught the early years of the Master of Strategic Foresight at Swinburne University in Melbourne. He has co-authored books and articles with Dr Bussey, my co-supervisor, who assures me he will be interested in consulting in some way.
+-
+- I have plans to broaden the FSSF network further by actively reaching out to potential international collaborators. I will be arranging to visit Dr Peter Bishop, former Director of the graduate program in Futures Studies at the University of Houston, on my way to family holidays in Colombia in December 2020. In addition, should the EoI be accepted by the IBO, I shall be applying to present at an international conference: ‘Learning Futures – Futures of Learning’, the 21st International Futures Conference of the Finland Futures Research Centre and Finland Futures Academy of the University of Turku in June 2020.
+-
+- SBS EOI supporting notes
+- ATL has always been part of IB teaching
+- “What is of paramount importance in the pre-university stage is not what is learned but learning how to learn
+- ATL has always been part of IB teaching
+- “What is of paramount importance in the pre-university stage is not what is learned but learning how to learn ... What matters is not the absorption and regurgitation either of fact or pre- digested interpretations of facts, but the development of powers of the mind or ways of thinking which can be applied to new situations and new presentations of facts as they arise.”
+- —Alec Peterson
+- Peterson, A. 1972. The International Baccalaureate: An experiment in International Education. London. George Harrap.
+-
+- QUOTED IN IB ATL FLYER !!
+- Quotes
+- Marshall McLuhan
+-
+-
+- We drive into the future using only our rearview mirror.
+-
+- We become what we behold. We shape our tools and then our tools shape us.
+-
+- It is the framework which changes with each new technology and not just the picture within the frame.
+-
+- Our Age of Anxiety is, in great part, the result of trying to do today’s job with yesterday’s tools and yesterday’s concepts.
+-
+- Most of our assumptions have outlives their uselessness.
+-
+- There are no passengers on spaceship Earth. We are all crew.
+-
+-
+- Curriculum notes and Curriculum models
+- Futures Curriculum Models
+- Hicks
+- Slaughter, O'Rourke
+- Slaughter & Bussey - Futures Thinking for Social Foresight
+- Inayatullah
+- Questioning the Future
+- 6 pillars
+- Bishop and Hines
+- Teach the Future
+-
+- Erica Bol - Teach the Future Europe
+- Tamkang
+- Fo Guang
+- Turku
+- University of Turku, Finland
+-
+-
+- FUTURES LITERACY LAB FOR EDUCATION
+- Nicolas A. Balcom Raleigh, Laura Pouru, Ellinoora Leino-Richert,
+- Marjukka Parkkinen & Markku Wilenius
+-
+- FUTURES LITERACY LAB FOR EDUCATION
+- Imagining Complex Futures of Human Settlements at
+- Finland Futures Academy Summer School 2017
+-
+-
+- Riel Miller - Futures Literacy Lab
+- https://www.hanze.nl/eng/research/overviews/FutureLiteracyKnowLabs
+-
+-
+- Swinburne
+- USC Grad Dip
+- Iran?
+- Kazakhstan
+- UNESCO
+- Futures Literacy
+- https://en.unesco.org/themes/futures-literacy
+-
+- Strand model a la ITGS
+- ITGS
+- Strand 1: Social and Ethical Significance
+- Strand 2: Application to specified scenarios
+- Strand 3: IT Systems
+-
+-
+- FSSF
+- Strand 1: SHAPE of the Future: Science, History, Art, Philosophy and Ethics of Futures
+- Strand 2: Tools for Foresight and Alternative Futures
+- Strand 3: Emerging Issues and Important Topics
+-
+- Strand 1: SHAPE of the Future: The science, history, art, philosophy and education of Futures
+- Frameworks and values dominant in conventional approaches (to topics) and inherent in tools
+-
+- Images of the future
+- Ways of knowing the future
+- History of the future; development of studying the future
+-
+- Critique of prediction and forecasting
+- Typology of Futures - Gidley’s model?
+- Schools of Futures eg. predictive-empirical, interpretive, critical/transformative
+- Models of Futures eg. 6 pillars
+- Strand 2: Tools of Foresight and Alternative Futures
+- Explore tools of Futures and Foresight, including as dominantly/conventionally used in certain fields/issues
+-
+- Scenarios
+- Emerging Issues Analysis
+- Backcasting
+- CLA
+- Futures Triangle
+- Strand 3: Emerging Issues and Important Areas
+- Apply tools and frameworks to issues and topics
+-
+- Climate Change
+- Computing Technology
+- Other Technology: electrical & mechanical, chemical & mineral
+- Space
+-
+-
+- Business & Finance
+- Peace & Conflict, War & Defence
+- Food & Clothing
+- Health & Medicine
+- Cities & Transport
+- Environment & Resources
+- Education & Work
+- Politics, Government & Law
+- Culture, Gender, Race & Religion
+- Science & Technology
+-
+- The Project: Tools, Topics and Test of choice
+- Big Questions and Significant Ideas, a la ESS
+- Big Questions
+- In each sub-topic:
+- Significant Ideas
+- Knowledge and Understanding
+- Application and Skills
+- Guidance
+- IM
+- ToK
+- Connections (within subject and to other DP)
+- Mathematical requirements
+- a la ESS
+-
+- ￼
+-
+- Basic statistics?
+- Archetypal mathematical curves:
+- Exponentional, Linear, Logistic, Sine
+- Chaos, fractals
+- Complexity, strange attractors
+- Global Politics
+- “People, power, politics”
+-
+- ￼
+-
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+- ￼
+-
+-
+- History IBDP
+- Use of PRESCRIBED case studies within Prescribed Subjects
+-
+- ￼
+-
+-
+- ￼
+-
+-
+- ￼
+-
+-
+- ￼
+-
+-
+-
+- ￼
+-
+-
+- ￼
+-
+- ￼
+-
+- ￼
+-
+-
+- ￼
+-
+-
+-
+- FSIB assorted ideas, notes and points
+- Possible features & characteristics of FSIB
+- Established futures studies education pathways
+- USC
+- Turku
+- Tamkang
+- Houston
+- Indigenous perspectives eg. ACARA and elsewhere
+- From prediction/forecasting to empowerment/transformation
+- Assessment
+- Apply methodologies
+- EE
+- IA
+- Select an issue of personal interest
+- Apply 2 distinctly different futures tools
+- Assessment delivery method of their choice
+- film/music piece
+- art/drama
+- script
+- and/or performance
+- mathematical model/forecast
+- literary analysis
+- multimedia
+- Critical thinking
+- Higher-order thinking
+- Compare/contrast IBDP subjects
+- World Studies
+- Philosophy
+- TOK
+- History
+- Economics
+- Nature of Science/Group 4
+- ESS
+- STEM, coding & innovation, entrepreneurship
+- Curriculum/Syllabus
+- Tools
+- Particular issues
+- Climate change
+- Migration
+- Gender roles and identity
+- Poverty
+- Health/Mental Health
+- Education
+- Integration with other subjects
+- Relationship to student interests
+- Build on and complement
+- Challenge with other perspectives: wider and/or deeper
+- STEM focus
+- Humanities focus
+- History
+- Geography
+- Political Science
+- Economics
+- Arts focus
+- LOTE focus
+- Benefits
+- Application to personal lives, not just academic
+- Even greater literacy across disciplines
+- Higher-Order and Critical Thinking
+- Improved ability to "Other": space, time, person
+- An increasing interest and need for futures focus
+- Invite teachers of specialist discplines to discussion.
+- Teachers unprepared. Students ask probing questions.
+- Teachers prepared with ideas and information.
+- History of new subjects in IB
+- Process
+- Criteria
+- General benefits of FS over drive/need for a new subject.
+- A general oblique reference to FS as existing, practised, taught subjects in high schools and universities, without going into explicit need for FSIB.
+- A discussion about a specific, formal FSIB course could emerge.
+- Action learning approach to course design - dynamic, iterative, personalised
+- Students design and create the course, not just for themselves but for future students
+-
+- Students could create texts (video, presentations, essays) which serve as:
+- a) reading for the next cohort
+- b) assessment for themselves
+- c) a basis/trigger/fuel for an assessment piece for next cohort (ie. a reference, a critique)
+-
+- Builds a knowledge base?
+- Rebalancing: From an era of specialization, shifting back towards some generalization, or at least, inter-disciplinary literacy
+- Polymaths are dead. But futurists can prosper.
+- Driving Questions (specific to FSIBsbs)
+- What is the procedure for IB-SBS?
+- What are comparative examples? ESS?
+- How could FSIBsbs integrate with other subjects? EE? CAS? ToK? Complement them?
+- What are assessment requirements for IBDP?
+- GOA's FSSFsbs
+- To develop an IB school-based subject in FSSF which I can teach at school
+- To develop the subject I wish I could have studied at school
+- To develop the subject that I believe needs teaching at school
+- To develop a subject which abides by: OF/ABOUT/FOR/BY
+- To develop FSSF subject with FSSF characteristics
+- To develop 4 scenarios of FSSF subject, with varying degrees of characteristics
+- 1. Conventional
+-
+-
+- 4. Student-led, teacher
+-
+-
+- One axis of matrix is “student-teacher driven”
+-
+- Other could be:
+- Conventional assessment - novel assessment
+-
+- Project-based learning
+- Personalised learning
+- Deep Learning
+- Critical Thinking
+- Creative Thinking
+- Inquiry Learning
+- Passion project
+- To develop an FSSF subject which can be taught on-line
+- To export the FSSF subject and train teachers
+- FSSFsbs provides practical context and application of skills
+- to personal lives and plans
+- to professional pathways
+- Students choose to investigate futures via a particular vocation
+- interview someone
+- review journals etc
+-
+- to actual problems
+- FSIB and IBDP Group 4 Aims
+- Futures Studies for the IB: the case for explicitly teaching the future
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Studies and IB: A chance for innovation and leadership
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures could allow EE to become CAS, and vice versa
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- "Temporal skills" as additional Approach To Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- "Future": not just a noun
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Studies and the IB: A cyborg hand in a fairtrade glove
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+-
+- Explore alignment and suitability of FSSF with IBDP and IBMYP.
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- IB is well suited to FSSF
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- An updated review of Futures Education in schools
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures and Foresight Literacy in the IB - An Introduction
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Goals of the article
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A literature review.
+- Communicate the need for Futures Approaches, not just "21st Century Skills"
+- Communicate the need for Futures Literacy
+- Show that FS is an established academic discipline
+- History of Futures Studies
+- University degrees
+- Futures practitioners
+- Courses (non-uni)
+- Current status of Futures
+- Knowledge Base
+- Journals
+- Introduce novel tools and ideas about the future
+- Share some ways FS has been used in the classroom
+- Show that the applicability of FS ranges from personal to civilizational, from short-term to very long-term
+- Explore some ways FS could be used in the classroom
+- Presenter lead
+- Group discussion (structured? free?)
+- Questions to answer and concerns to address in the article
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- What is Futures Studies?
+- What is Futures and Foresight Literacy?
+- Why should we "teach the future"? Aren't we already doing that? Isn't that what STEM and 21CT are about?
+- How can we teach what hasn't happened yet?
+- How can we teach what we (the teachers) don't know?
+- How can we incorporate FFL into our classrooms and schools?
+- Article outline
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- First of many articles
+- On Education and the Future
+- State of the world/ the future
+- Megacrisis
+- Pace of change. Preparation for jobs that don’t exist.
+- Complexity
+- Globalization
+- Future of Technology
+- Future of Work
+- Demographics
+- Digital world
+- State of the Education World
+- “Education for the future”. “Education and the future”.
+- 21st Century Thinking Skills
+- Project based learning
+- Service learning
+- Deep learning
+- Personalised learning
+- International and Global education
+- Mobile learning
+- Free learning
+- In “looking forward” are we still actually driven by the past?
+- Critique of rhetoric around the future.
+- Humans not required
+- Coders the new blue collar workers
+- Views of the future, by experts, differ
+- Anxiety due to change and technology
+- Effects of ICT culture on people, particularly youth
+- How are they same, different?
+- Is ICT really that different? Maybe, but what aspects are not?
+- Youth visions of the future
+- Experts are routinely wrong
+- Many genuine differences, but (at least) still one great similarity…
+- Need to future INSIDE the classroom
+- On the need to make Futures explicit, not just implicit
+- How is Futures already made explicit?
+- Career guidance and post-secondary pathways
+- Incorporating Futures: inadvertent, implicit, explicit
+- An overarching literacy: 'Futures and Foresight Literacy'
+- Misconceptions and Myth-conceptions of the Future
+- An outline and background of Futures Studies
+- A History and Evolution of Futures Studies
+- Current status of Futures Studies
+- Futures Studies as an academic discipline and career pathway
+- Not just prediction, trends, forecasting, scenarios and wild aspirations
+- It is actually possible to teach ‘the future’
+- Schools of Thought of Futures Studies ie. Models
+- Alignment and suitability of IB and IBDP with FS
+- Map IB Learner Profile to 5 Aspects of Futures Consciousness, 6 Pillars? and other models
+- IB Philosophy, Ethos, Mission Statement and Directions
+- IB Mission Statement and FS
+- Inquiring, knowledgeable and caring
+- Create a better and more peaceful world
+- Intercultural understanding
+- Active, compassionate and lifelong learners
+- …other people, with their differences, can also be right
+- FS and the IB Learner Profile
+- Inquirers
+- Thinkers
+- Communicators
+- Risk-takers
+- Knowledgeable
+- Principled
+- Caring
+- Open-minded
+- Well-balanced
+- Reflective
+- IB Mission Statement
+- Apply FS to IB conference description
+- Aspects of IB’s possible relation to FS
+- FS and Innovation
+- FS and TOK
+- FS and Community
+- FS and Generation IB
+- FS and mental health
+- FS and interdisciplinarity
+- Comparison of FS with subjects
+- History
+- Philosophy
+- ESS
+- ToK
+- FS and the World Studies extended essay
+- Futures as an INTEGRATIVE subject. Think Group 4
+- Integrating knowledge ie. content, inter-/trans-disciplinarity
+- Integration as process ie. with existing concurrent subjects
+- Generation IB themes
+- Innovation
+- International-mindedness
+- community
+- impact
+- service
+- Elements of a possible FSIB Toolbox
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Megatrends of Mind
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Compare-contrast FSIB vs Group 4 vs Group 3 subjects
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB, assessment and assessment objectives
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and IBDP Approaches to Teaching and Learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and CAS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and ToK
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and educational and cultural needs of school, nation and others
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and subject overlap
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and IBDP Group 3 Aims
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and International Mindedness
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FSIB and the IB Learning Profile
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Integration & transdisciplinarity and the future of IBDP
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Activities & Teaching-Learning Resources
+- Gather and create activities to teach and cultivate Futures & Foresight Literacy
+- 1. Generate new
+- 2. Modify existing
+- Apply FSSF methods to existing content
+- Apply existing approaches to Futures-oriented issues/topics
+- GOAs of Futures Acitivies
+- To gather existing activities which cultivate FFL
+- To develop new activities which cultivate FFL
+- To identify opportunities in existing curricula for injecting new FFL
+- To identify existing FFL activities (both implicit & explicit) within existing curricula
+- To tweak & extend existing activities to add/enhance FFL
+- To develop a spectrum/matrix of "FFL opportunity" ie. how/when to incorporate FFL
+- Haphazard, undirected, task considered timeless, universal, always essential
+- Already existing, implicit (Recommendation - make explicit)
+- Already existing, explicit (relate to other futures issues)
+-
+-
+- Futures-oriented topic, futures-oriented
+-
+-
+- Matrix:
+- skills axis: subject-oriented/traditional  <-> futures-focused
+- content axis:  traditional subject <-> emerging issues & future requirements
+- "Give a man a fish..." thought exercise
+- Iterative.
+- Do, survey, critique, re-do, extend.
+- ...applied to 21st Century Thinking Skills
+- ...applied to a predictive-interpretive-critical schools of thought
+- Futures whispers
+- Emergent writing
+- Read whole (hi)story
+- Read only previous sentence
+- Read only previous paragraph
+- What is your preferred pathway and ending?
+- 500 years ago. 500 years ahead.
+- DL21HOT-FT
+- Arguing for, promoting and teaching Futures Thinking as a vehicle for “Deep Learning” and “21st Century Skills”
+-
+-
+- GOAs of DL21HOT-FT
+- Identify the Future-ness of en vogue/trending/emerging programs and concepts: DL, 21CT, inquiry, PBL, flipped, STEM et al
+- Explicit
+- Implicit
+-
+- CLA
+-
+-
+- Encourage EXPLICIT teaching of FSSF rather than implicit in NPDL, STEM etc
+- Identify ways to improve NPDL/STEM/SATE/HSC/IBDP by injecting Futures Thinking in various ways
+- Develop Higher Order Futures Thinking as educational model
+- Link subject's topics to Futures topics for various curricula
+- Identify where in curriculum future-related problems and issues are addressed eg. climate change? ESS only? Physics? AI - ?? What futures-related issues are addressed?
+- DLFT makes subject even more relevant
+- QI skills
+- Laura A Jana
+- An alternative to 6 C’s
+-
+- Me
+- We
+- Why
+- Will
+- Wiggle
+- Wobble
+- What If
+-
+- DUUSAD addition:
+- Within (aka VIEWS - Values, Intuition, Ethics, Wisdom, Spirituality)
+- Quantum Literacy vs Digital Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- This could be a sequel to Futures Literacy vs Futures Literacies: making the future explicit.
+- FsL vs FLs is broad, introduces the idea of FFL, identifies players
+- QL vs DL provides a macro-metaphor, expands conversation (eg. to spirituality while providing an example of FsL vs FFL)
+-
+- Digital - Newtonian. Observe (the future) independently. Deterministic.
+- Quantum - non-deterministic. Interaction (observation) affects the outcome (the future).
+- FFL/FSSF and Modern Pedagogical Trends - Compare-contrast-critique
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- 21CT, DL, HOT, Inquiry, ESD, Flipped
+- STEM/STEAM v FFL. Compare-contrast. Critical Analysis.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Pop Futurists views of Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Studies as personalised learning
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FFL as vehicle of 6C's, ESD, STEM, DL,HOT
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Futures Venn Diagram
+- Futures and Foresight Literacy: From monotone monologue to animated polylogue
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- A Taxonomy of Futures Literacy
+- Embody. Enlighten. Integrate.
+- Enact. Empower. Ennoble.
+- Evaluate. Elect.
+- Envision. Create. Transform. Generate.
+- (Gap - enter Higher Order Futures Thinking)
+- Question. Open. Entertain possibility.
+- Resist, reject, revolt. Rally
+- Recite, repeat, regurgitate. Respond.
+- Repress. Oppress. Disown. Deny. Forget.
+- Of, About, For, By
+- Emphasise Depth of DL and Height of HOT
+- Q-matrix for the Future: an extension of a powerful teaching tool for preferred, alternative futures.
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- The Future in Bloom: Higher Order Futures Thinking for preferred, alternative futures
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Depth and Height in NPDL: A integral futures critique
+-
+-
+- Megatrends of the Mind
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- FFEE & FFL @ MCSHS
+-
+- 1. To promote FFL within MCSHS, obviously, as well as
+-
+-
+- GOA's of FFL @ MCSHS
+- Gather support for FSSFsbs
+- Provide balance, depth and perspective to STEM
+- Provide rigour, structure and depth to 21CT
+- Provide application to PI
+- Develop tools for ATAR/NATAR
+- Cultivate genuine innovation and social responsibility at MCSHS
+- Driving Questions
+- How does FFL align with MCSHS priorities?
+- How futures-oriented are MCSHS strategies and initiatives?
+- How might FFL be incorporated into the school?
+- How could existing strategies and programs be augmented and enhanced by FFL?
+- To Darrin & Renee: The Case for FFL at MCSHS
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Alignment with AIP
+- FFL and ASOT
+- FFL and HOT
+- Summary
+- Proposition: The Innovators of Innovators
+- Mountain Creek Futures Hub
+- The Innovators of Innovators
+- Education of, about, for, by
+- Australian Curriculum and Futures
+- Lifelong Learning Requires a Futures-Orientation
+- Critical Thinking Calls for Critical Futures
+- Our Core Business is Futuristic
+- Our Core Purpose is Futures-focused
+- Vision, Motto, Goals
+- Futures and the Needs of Students
+- Futures Literacy and the Needs of Teachers
+- Futures Literacy and the Needs of Administrators
+- FFL is not another task, another bolt-on.
+- ASOT
+- HOT
+- Boys
+- Possible scenarios
+- Detail comes from the team
+- Education, Trends, Disruptions and Futures
+- Trends in education
+- Trends that will affect education
+- Trends in the school
+- Futures Education and Student Anxiety
+- Frame FFL in terms of ASOT
+- Frame FFL in terms of HOT
+- Our problems are post-silo
+- MCSHS presentation to 21CT/HOT core team
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- From problem-solving to problem-framing
+- Critique the video BUSWCH presented
+- Duus' taxonomy of Futures Thinking
+- MCSHS letter to RR
+- Duus' taxonomy of Futures Thinking
+- Embody. Enlighten. Integrate.
+- Enact. Empower. Ennoble.
+- Evaluate. Elect.
+- Envision. Create. Transform. Generate.
+- (Gap - enter Higher Order Futures Thinking)
+- Question. Open. Entertain possibility.
+- Resist, reject, revolt. Rally
+- Recite, repeat, regurgitate. Respond.
+- Repress. Oppress. Disown. Deny. Forget.
+- MCSHS School mottos etc
+- Futures Venn Diagram
+- Comparative Table of Futures
+- Quote from Stanford
+- Strategic Foresight & Anticipatory Expertise
+- Of, About, For, By
+- Uses of the Future
+- Response to Renee's email 200319
+- Futures Club MCSHS
+- blurb v0.1
+- blurb concise
+- Ties in with Breen Corp
+- Point of differentiation for the school
+- Driving towards Futures Literacy
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- An intro/background to Driving towards Futures Literacy-1
+- Driving towards Futures Literacy - blog
+- Can we even teach the future?
+- Quote from Stanford
+- ESD vs Futures Studies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- VIEWS: A Perspective on the QI skills
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Futures Literacy vs Future Literacies
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+-
+- Compare-contrast FsL vs FLs
+-
+- Sequel to this could be Quantum Literacy vs Digital Literacy: metaphor and mechanism in the Future of Education.
+-
+- “Leveraging Digital” of NPDL
+-
+-
+- The skills to see possibilities ahead or the skills to do what I’m told
+-
+- “Future Literacies”
+- Argues that FLs is not FFL
+- is not a subset of FFL;
+- rather it is required to balance, temper and open up quoted FFLs
+-
+- FLs are framed as literacies of the future, but whose future? Who says?
+-
+- Proposal to Curriculum Review team for FFEE @ MCSHS
+- 6C's have no temporal component
+- 6C's has no content component relevant to 21C
+- 6Cs are not really new or innovative
+- Not everything new or "innovative" is good.
+- Not everything "old" is bad.
+- Futures and Foresight for Ethical Entrepreneurship
+- Extends beyond conventional foci: environment, "innovation", coding & computers
+- Extends "entrepreneurship" beyond tech, business and apps
+- Social entrepreneurs
+- Peace entrepreneurs
+- Environmental entrepreneurs
+- Not all kids are that way inclined: tech entrepreneurship or environmental activism
+- They are concerned about the future of the world but don't feel inclined to impact in those ways
+- Art, Music, Literature
+- Community service
+- Do you want more youth like Extinction Rebellion?
+- Do you want more Greta Thunbergs?
+- Its easy to criticize and protest. Its harder to create alternative solutions and enact them.
+- Critically analyzes tech approaches to problem solving
+- Uber drones. Amazon drones.
+- Someone and something needs to address mindless fascination with tech
+- If all you have is a hammer, everything looks like a nail.
+- Need PPTs with
+- 6Cs + HOT = Higher Order Being: Higher Order Futures Thinking
+- There are debates around future issues that are not clear cut.
+- Climate change
+- Food
+- AI
+- Transport
+- Be wary of merely training the next generation of "blue collar workers"
+- Ethical AI...but whose ethics?
+- "Ethics" are not universal, necessarily...as Ines and I presented upon at IBHK
+- Highest order thinking is transdisciplinary and interdisciplinary
+- Making links across boundaries: subject silos and across time
+- Social entrepreneurs
+- Environmental entrepreneurs
+- Peace entrepreneurs
+- Vintage entrepreneurs
+- Reintroducing lost wisdom
+-
+- Ball-goal metaphor
+- Kicking a ball
+- moving ball
+- shifting goal posts
+- strange equipment
+- changing rules
+- unpredictable points system
+- turbulent weather (windy, rainy)
+- Why we need to teach the future. Why we need to teach Futures.
+- A significant aspect of education is preparing kids for the future, their future
+- Curriculum Innovation paragraph for Darrin
+- Curriculum Innovation: Futures & Foresight
+-
+- MCSHS is leading the educational curve, as well as community and national capacity building, by electing to develop and include Futures & Foresight programs into its curriculum. As explicit subjects dedicated to studying the future, these will be world firsts.
+-
+- In 2022, MCSHS will introduce a Year 10 Futures & Foresight subject available to all students bound for both ATAR and IB pathways. To soon begin formal development is the subject Futures Studies and Strategic Foresight offered as part of the IB Diploma Program beginning in 2023. The existing senior subject, currently known as “ATAR” and “NATAR” will also have futures thinking injected to provide coherence, relevance and competence for students’ futures.
+-
+- These subjects will develop students 21st Century Skills as well as the 5 Aspects of Futures Competencies: Adaptation, Anticipation, Agency, Alignment and Alternatives.  Students will undertake a holistic, deep, interdisciplinary treatment of the future by investigating such things as significant trends (eg. climate change), emerging issues (eg. ethics of AI), as well as universal and timeless patterns, while developing the skills to engage in critical and creative futuring. The full spectrum of life shall be included: Society, Technology, Economics, Environment, Politics, Law, Ethics (STEEPLE).
+-
+- Funding would greatly assist this educational innovation be a success and accelerate its propagation within and beyond the school.
+-
+- $20,000 is requested across 2020 and 2021 for two primary purposes:
+-
+- 1) Time for curriculum and resource development.
+- 2) Resources. Books, software, digital subscription services etc to support these programs, also available to the rest of the school.
+-
+- In the future, funding will also be requested for teacher training as the subjects grow in number and popularity. Support will also be sought from external agencies.
+-
+- A Textbook of the Future
+- Propose, design and create a Textbook of the Future
+- Writing the future: a textbook challenge for futurists
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Purpose
+-
+- Purpose of Article
+- Audience
+-
+- Who are my readers?
+- Thesis/Proposition
+-
+- What am I arguing ?
+- What is my central message?
+- What are my secondary messages?
+-
+- Evidence
+- What are my supporting points and data?
+- Who do I reference?
+- Characteristics of the Textbook platform
+- Peer-to-Peer
+- Content
+- Process
+- Possible tools & platforms
+- Scalar.me
+- GitHub
+- Driving Questions
+- Is there a Textbook design theory?
+- What are the characteristics of a leading-edge textbook?
+- What is the role of the textbook?
+- Who is the audience?
+- What model of teaching and learning does the textbook embody?
+- What platforms facilitate the desired characteristics?
+- Classic example of what-why-how mutual definition and limitation.
+-
+- How/method defines what (content, purpose) and who (audience, contributors)
+- GOA's of A Textbook of the Future
+- Write the textbook to be used for FSSF
+- Keep in mind:
+-
+- OF
+- FOR
+- ABOUT
+- BY
+- WITH
+-
+- Platform
+- Forking
+- Federated Wiki
+- Dynamic content
+- Collaborative
+- Develop/decide on FSSF Knowledge Base suitable for secondary
+- FTFE: Futures Teaching for Enlightenment
+- Using my work, research, advocacy as my path to enlightenment.
+-
+- My efforts in FFL/FSSF is my Atonement path and present my forgiveness opportunities.
+- My efforts intertwine with the Atonement paths of others. We each offer what the other needs.
+-
+- Sohail & Marcus
+- Futures community critics
+- MCSHS admin
+- Education community
+- STEM community
+-
+- Students
+-
+-
+- Other Articles & Blogs
+- Prospections and Genuflections: Futures of a Novice Futurist
+- Purpose
+- Audience
+- Thesis/Proposition
+- Evidence
+- Procrastination
+- Presentations
+- FS-IB-HK Presentation
+- Additional goals of the presentation
+- Have the presentation embody the open, organic, participatory nature of Futures rather than closed, prescribed and/or predictive
+- Make the presentation engaging, stimulating, thought-provoking, win-win-win and FUN!
+- Quotes
+- Malcolm X
+- Alvin Toffler
+- OECD, World Bank?
+- Teach a man to fish...
+- Government of the People, by the People for the People
+- Siva Kumari
+- Riel Miller
+- Marshall McLuhan
+- Possible, Probable, Plausible, Preferred Futures
+- NSW education review conversation cards as starter survey questions
+- Experts can be wrong
+- On experts and expertise
+- Examples of failed predictions
+- What is the problem?
+- What is education for?
+- What is the future for?
+- What futuring do you know?
+- Where do you teach about the future in your subject(s)?
+- Specifically/explicitly
+- Implicitly
+- Assumed, but not really (upon reflection)
+- Rubik's video: critique
+- How is this different to the present? How is it the same?
+- What is assumed? Who/what is favoured?
+- Rosalind Franklin v Crick-Watson
+- Edison (v Tesla)
+- Newton (v Leibniz et al)
+- "Give a man a fish" exercise...
+- Activity: "Future whispers"
+- Can we teach the future?
+- The missing competency/capability: Futuring
+- Why 21CT? Why not 21+CT? Why not 21-22-23 CT?
+- Subject specific - commentaries and activities
+- Science
+- STEM
+- Language A & Literature
+- Authors
+- Scenario writing
+- Collaborative emergent writing
+- Alternative Sci-Fi
+- Eternal themes
+- Myth and Metaphor. Critique of Joseph Campbell
+- Language B
+- History
+- Visual Art
+- Drama
+- Music
+- Economics and Business
+- ESS
+- ToK
+- World Studies Extended Essay
+- On science as an objective value-free domain. Extend to STEM
+- Alternative/hidden histories
+- Resources for Teachers
+- Foresighteducation.info
+- TeachTheFuture.org
+- see Paynter
+- Dedicated Explicit Futuring vs Subject incorporation of futures
+- Venn diagram: HOT, 21CT, STEM, Career planning
+- 21CT is somewhat incongruent: technotopia vs ethics
+- Big Data, Machine Learning and Standardised testing
+- Technotopia vs Ethics
+- IB
+- Mission Statement
+- IB Learner Profile
+- Conference Themes
+- A Futures Wheel exercise?
+- Deepening the Future: A CLA of 21CT
+- Whose Future is it?
+- Michael McQueen: response and critique
+- Missing dimensions
+- Acknowledging constraints
+- How do you prepare for the future when the future is dynamic?
+- Correcting some misconceptions about the future
+- Exercise: 4th industrial revolution and education interceptors
+- Shanghai - SWFLA
+- 1. Deep Learning and Futures Thinking
+- What is Deep Learning
+- Frameworks of Deep Learning
+- P21
+- NPDL
+- Qi Skills
+- FutureWe framework
+- Steiner
+- Integral
+- Summary of characteristics
+- Transdisciplinarity
+- The Role of Teachers in Deep Learning
+- Metaphors of Education & Teaching - survey
+- What is Futures Thinking
+- Frameworks of Futures Thinking
+- Summary of characteristics
+- Futures Thinking as a vehicle for Deep Learning
+- Who is our market? Audience? Client? Student?
+- Program Structure
+- Workshop goals
+- Workshop methods
+- Day 1 Session 1
+- Day 1 Session 2
+- Day 2 Session 1
+- Day 2 Session 2
+- Context
+- Background
+- IB Global Conference Hong Kong
+- Resume
+- Approach to Teaching and Learning
+- Trends
+- Inbound Drivers
+- Outbound Drivers
+- Deep Learning AI vs Deep Learning HI
+- What does industry want?
+- Futures Triangle
+- Images of the Future
+- Trends, drivers, pressures, goals
+- What is education for?
+- 2. General application of DLFT in the classroom
+- Q matrix
+- Bloom's taxonomy
+- 7P Futures Cone
+- 6 Pillars
+- 6 Questions
+- 6 Concepts
+- 6 Pillars
+- Mapping
+- Anticipating
+- Timing
+- Deepening
+- Alternatives
+- Scenarios
+- Transforming
+- The Big Issues
+- Climate Change, Energy & Biosphere
+- Demographics, Ageing, Migration
+- Mental Health
+- Economic Development
+- Future of Work
+- 3. Specific application of DLFT in the classroom
+- Natural/experimental sciences
+- Science Fiction
+- History of Science
+- Value-free science?
+- STEM and Alternative STEM
+- Topics
+- Quantum computing
+- Contagion
+- 4. Assorted work on DLFT
+- Other IB DLFT opportunities
+- ToK
+- CAS
+- Extended Essay
+- Futures Thinking for Personal & Professional Significance
+- Metaphors in Schooling, Education, Teaching & Learning
+- Mindfulness Education
+- Trends in and around Education, University, China and World
+- Review and revisit by staff
+- Some possible other topics
+- Jack Ma
+- China in Space
+- Anxiety
+- IBO, IBDP and IBMYP
+- IB Research Department - Curriculum research areas
+- Curriculum research areas
+- The studies cover four key areas, and each area has a distinctive aim:
+-
+- 1.	Fostering curriculum implementation, by exploring and analyzing educational innovation and initiatives, strategies, challenges and lessons learned through enhancing the implementation of the IB’s four programmes in diverse school contexts and developing timely resources for the effectiveness of teaching and learning.
+- 2.	Supporting the continuum of the programmes, by investigating theory and practice of curriculum alignment and articulation to support learning continuum between and across the four programmes.
+- 3.	Responding proactively to potentials of and challenges for students in the 21st century, by examining initiatives in cultivating international-mindedness and how it relates to students’ development towards holistic individuals, lifelong learners, and global citizens.
+- 4.	Building research capacity for curriculum development, by providing research training to sustain research competences and thus rigorous educational research throughout the continuous curriculum development process of the four programmes.
+-
+- Resources - Research
+- Journal Article summaries and quotes
+- A FTFE: Futures Teaching for Enlightenment thought
+-
+-
+- Journal Articles to summarise and precis
+- The dubious promise of educational technologies- Historical patterns and future challenges - Jandric Cuban 2015.pdf
+- In this article, Larry Cuban discusses his ideas about the topic of this Special Issue of E-learning and Digital Media ‘Networked Realms and Hoped-For Futures: A trans-generational dialogue’ with one of its co-editors, Petar Jandric ́. The conversation explores the historical relationships between education and information and communication technologies and draws lessons for pre- sent and future. The first part of the conversation explores methodological issues pertaining to historical thinking about schools and computers in the network society. It identifies a continued need to recognize historical patterns, including those in thought experiments, and shows that Rogers’ theory of diffusion of innovations should be supplemented by more nuanced approaches to the historical relationships between schools and computers. The second part of the conver- sation presents an attempt to explain historical patterns using the ancient notion of magical thinking. It explores why teachers use computers in their private lives much more than in their professional lives, and ‘school anarchy’ caused by student usage of personally owned devices in classrooms. It creates a baseline for comparison between desktop / laptop computers and various hand-held devices, and dismantles the quest for deschooling as another example of magical thinking. The third part of the conversation examines the ideological role of information and communication technologies in contemporary school reform and explores their potential for democracy. It analyses the contemporary transformations of traditional publishing formats such as books, journals and newspapers, and their reflections in the world of academia. It examines the changing role of teachers as public intellectuals, and the role of information and communication technologies in their public exposure. The last part of the conversation analyses the process of ‘educationalizing’ various social and economic problems, and links it to contemporary technolo- gies. It revisits Larry Cuban’s predictions from Teachers and Machines: Classroom Use of Technology Since 1920 (1986), and reminds us that accurate predictions are rare, while inaccurate ones are not only common but often memorable. Finally, it examines why it is so hard to balance education with information and communication technologies.
+-
+-
+- Introduction - revisit past insights into the relationships between education and technologies
+- Introduction
+- Petar Jandric ́ (PJ): Larry, it is a great pleasure to have this opportunity for conversation! In this Special Issue, we invite authors to step back from the never-ending quest for new con- cepts and ideas and to revisit past insights into the relationships between education and technologies. Decades ago, in the article entitled ‘Four Stories: About National Goals for American Education’, you wrote:
+-
+-
+- Historians invent the past
+- Historians invent the past. I do not mean that historians invent facts, although they frequently discover new ones; I mean that historians ask questions of the past, analyse the available sources and evidence, and filter the data through their experiences, values, and expertise to create their own versions of what happened. Because historians are products of their times and differ one from the other, histories of the same event, era, or institution will vary. As vividly demonstrated in the classic film Rashomon, in which the story of an attack on medieval nobles is told from different points of view, history is woven out of multiple interpretations of what happened. (Cuban, 1990: 265)
+-
+- Rapid development of information and commu- nication technologies makes their past and present increasingly intertwined. Therefore, I would like to start this conversation by asking what happens to traditional historical thinking in the age of the network? Can we still apply traditional historical approaches to the questions concerning education and technologies? Using the metaphor from another of your early art- icles (Cuban, 1995), should we conduct our research like hedgehogs or like foxes?
+-
+- Larry Cuban (LC): I cannot recommend either the fox or hedgehog approach to research. Both seem to be essential but I do know for sure that I am a hedgehog. By that I mean I have persisted in investigating how teachers have taught during high visibility reform periods in the past and how policy, then and now, gets translated into classroom practice. Technological innovations, of course, mandated by policymakers or eagerly embraced by educators (or both) fit into my unrelenting focus on teachers and teaching, past and present.
+-
+- So I have looked at past efforts school reformers have made to introduce technological innovations and found patterns – see Teachers and Machines (1986). Those cyclical patterns have accompanied new technologies for nearly a century:
+-
+- reform-minded policymakers surround the innovation with extravagant claims
+- followed by academic studies showing limited or unimaginative classroom use of devices
+- followed by disappointment and then blame heaped upon teachers
+- rather than those who made the initial claims.
+-
+- Two current versions of that cycle I see unfolding right now with the spread in the US of tablets and 1:1 tablets and laptops. The cycle also appears in Massive Open Online Courses (MOOCs) in higher education.
+-
+- Knowing historically that these cycles have been present for over a century and how earlier generations of well-intentioned reformers faced similar situations as do current cheer- leaders for tablets and MOOCs could help contemporary decision-makers design policies and implementation campaigns that incorporate teachers early in the process of buying and deploying the newest high-tech device and software. In my judgement, then, describing and analysing the past, particularly the nexus between new technologies and schooling, is needed even more to inform policymakers, practitioners, and researchers.
+-
+-
+- PJ: What do you think of attempts to inspire educational research by science fiction?
+- PJ: What do you think of attempts to inspire educational research by science fiction? Could we interpret those imagined and/or hoped for futures as genuine thought experiments, or should they be taken much more lightly?
+-
+- LC: Futuristic scenarios of schooling predicting (or wishing for) what schooling will be like a half century or a full century from now have been around for decades. (Either inspired by science fiction or created out of one’s imagination, ones now put forth read like science fiction to me – nearly all instruction for children and youth online and the disappearance of bricks and mortar schools with all schooling occurring in the home, workplace, and other settings.) A number of advocates for online learning in K-12 schools see the eventual replace- ment of formal schools by children and youth working at home and non-school sites includ- ing the workplace. Historically, I have seen so many of these fictional leaps into the future with a nearly inevitable lack of substantial movement toward such scenarios. So I remain highly sceptical of these scenarios. Nor do I take them seriously as thought experiments. I do take them seriously as hoped for futures. When such fictitious leaps do appear, they tell me more about the values and aspirations of the author(s) than predicting what will occur.
+-
+-
+- Rogers’ theory of diffusion of innovations
+- PJ: Your works often refer to concepts from Everett Rogers’ theory of diffusion of innovations (Jandric ́ , 2012; Rogers, 1986, 1995) such as ‘early adopters’, ‘late adopters’ and ‘laggards’ (i.e. Cuban, 2003: 105). Up to fairly recently, it made a lot of sense to apply Rogers’ theory to the relationships between computers and education: year by year, one could liter- ally see incremental increase in adoption of information and communication technologies in Western schools. Nowadays, however, when most citizens of the developed world are con- stantly connected, counting computers or users of certain software might seem a bit outdated. What is the relevance of Rogers’ theory of diffusion of innovations for the contemporary relationship between education and information and communication technol- ogies? Could Rogers’ theory be antiquated? Could it, perhaps, be complemented by more nuanced approaches? Where should we look for those new approaches?
+-
+- LC: You raise a nice point here. I have used Rogers’ diffusion theory because it did fit the first three decades of the introduction of high-tech devices into schools. There are two reasons, however, that other theories should be tried out to explain the spread of both devices and software, of teacher use in classrooms, because, as you point out, devices and software are becoming ubiquitous in the developed world. First, Rogers’ diffusion theory has certain biases built into it. For example, the theory favours those who adopt new technology over those who do not or are slow in embracing the innovation, i.e. ‘laggards’. The theory ignores the simple truth that in some situations with some innovations, teachers and other educators may have ample justification to say no to a new policy, a new device or software. Saying ‘no’, however, is viewed as a negative within the theory. The second reason is that blame haunts the theory. For those who are slow to adopt or chose not to adopt, or when innovations suffocate for lack of resources, users such as teachers, more often than not, get blamed. That, too, is built into the theory.
+-
+- For those reasons, other ways of looking at how innovations spread should become part of the researcher’s repertoire. For example, theories that look more closely at the features of the innovation and the context in which the innovation is placed make a great deal of sense to me. The interaction between innovation characteristics and the conditions present in particular settings needs to be investigated without blaming who does the implementation or how it unfolds in particular settings. Also consider Hype Cycle developed by private sector consulting firm Gartner as another way of defusing bias and blame inherent in diffusion theory. The Hype Cycle tracks the historical path that technological innovations have followed. According to people’s expectations, it divides that path into the following five phases: technology trigger, peak of inflated expectations, trough of disillusionment, slope of enlightenment and plateau of productivity (Gartner, 2014). In this way, the Hype Cycle offers another way to examine the context interacting with the innovation free of blame, but even this construct contains biases that need to be made explicit.
+-
+-
+- Magical genie from the computer
+- PJ: In a recent blog post, you quote Mike Trucano’s ‘one of the 9 worst ed tech practices in the developing world: Dump hardware in schools, hope for magic to happen’ (Cuban, 2014a), and expand it into a very interesting historical analysis
+- Magical genie from the computer
+- PJ: In a recent blog post, you quote Mike Trucano’s ‘one of the 9 worst ed tech practices in the developing world: Dump hardware in schools, hope for magic to happen’ (Cuban, 2014a), and expand it into a very interesting historical analysis. What is magical thinking in the context of schooling and computers? Where does it come from; will it ever end?
+-
+- LC: Magical thinking is a belief in scientifically unproven causal relationships between human actions and events. It may well be hard wired into our brains: after all, one can see it in action during illnesses we have, disappointment in careers, or even in troubled families. And it occurs in organizations undergoing stresses in dealing with serious problems. Thus, during times when schools have been heavily criticized for failing (which has been the case in the US since the mid-1950s), electronic technologies – Skinner’s ‘teaching machine’ was popular in the 1950s – have been drafted time and again to alter teaching and get students to learn more, faster and better. So magical thinking, in my opinion, seems to be connected to times when each of us, including school reformers, wish for a better, happier time. In a society enamoured with new technologies, it would seem to occur often.
+-
+-
+- PJ: Oversold and Underused (Cuban, 2001) clearly shows that teachers use computers in their private lives much more than in their professional lives
+- PJ: Oversold and Underused (Cuban, 2001) clearly shows that teachers use computers in their private lives much more than in their professional lives. Much of the reference to school usage of technology, however, is about its imposition, as it were, by authorities and interested groups. Is there any correlation between these facts? What about personal ownership of powerful technologies by the students and teachers themselves and what about their status as experienced (by some definitions) users of social media?
+-
+- LC: Yes, there is a correlation between mandated or imposed uses of new technologies and implementation problems showing up in classrooms, particularly if teachers’ legitimate concerns and needs are ignored in the policy discussions about improved teaching and learning. That has happened often in past deployments of new technologies in the US. From the experiences of one-laptop-per-child in other countries, it may be the case as well.
+-
+- The gap in use of computers between school and home for teachers may be related to the above point and also linked to the lack of relevant software, on-site technical assistance, and lack of first-hand evidence that students will achieve more academically with electronic devices. The discrepancy in use between home and school has little to do with the teacher’s experience with devices or social media and far more to do with the historic role of teacher as gatekeeper to the classroom, a role that policymakers have generally overlooked or ignored for decades.
+-
+-
+- PJ: What about the anarchy brought about by the students having their own devices, and the frequent response to this of banning the use of such personal devices in the classroom or school?
+- PJ: What about the anarchy brought about by the students having their own devices, and the frequent response to this of banning the use of such personal devices in the classroom or school?
+-
+- LC: There have been examples of schools urging students to bring their own devices and having teachers work with a myriad of mobile devices. While some of these experiments may linger for a while, in an age where standardization in policy, procedure and equipment is the clear direction that the US and other nations have taken, such instances of bring-your-own- device will become footnotes to any history of technology use in schools.
+-
+- PJ: Your research clearly shows that large classroom desktop or laptop computers are Oversold and Underused, and predicts that with these technologies ‘no fundamental change in teaching practices will occur’ (Cuban, 2001: 196). During the past decade, however, computers have evolved into various hand-held devices that have become our constant companions. The desktop computer links us to the Internet, but the smartphone transforms us into truly networked, cyborg-like organisms which strongly resemble androids from James Cameron’s film Terminator. In Alone Together, Sherry Turkle calls that phenomenon ‘the new state of the self’ (2012: 157), and identifies the ‘life mix’ as ‘the mash-up of what you have on- and offline’ (Turkle, 2012: 160). Inspired by your recent blog post about the effects of high-tech on people (Cuban, 2014b), could you try and create a baseline for comparison between those generations of technology? Do you think that this ‘new state of the self’ has the potential to challenge the ways that information and communication technologies are currently being used in education?
+-
+- LC: Yes, I do. The potential is there. Futuristic scenarios of virtual schools and the gradual elimination of bricks-and-mortar schools capture the potential that champions of accelerated online instruction push. Realizing those scenarios, however, will continue to disappoint advocates of establishing more virtual schools. Why?
+-
+- Advocates for virtual schooling largely ignore a historical fact. The larger political, social and economic role that public schools have performed (and continue to do so) has to be taken seriously since multiple goals for tax-supported public schools have been a reality for two centuries in US schools and I suspect for most other nations with publicly financed educational systems. Moreover, any gap between major changes in society, the economy and cultures, and what schools are doing has been translated time and again into school reforms to eliminate those gaps. In the US and most of Europe, tighter links between the economy and schools over the past quarter century, for example, have been forged in the belief that tougher standards, tests and accountability will improve schools and strengthen the economy by producing multi-skilled graduates entering the labour force.
+-
+- Or consider another example. The swift access and use of mobile devices in the US and developed world have not yet been matched by changes in how schools are organized, how teaching usually occurs and gains in student achievement – expectations raised by the new technologies applied to schools. A large gap continues to exist between the daily whirl of information and communication devices outside the school and what teachers do with students inside their classrooms. In the US, a buying binge has occurred to stock classrooms with devices and new software to reduce the gap.
+- But organizations, I have learned from both research and experience, have plans for those who seek to change routine policies and procedures inside those organizations, especially for a community institution with many aims (e.g., civic engagement, socializing the young into community values, reducing inequalities) that transcend acquiring information and swift communication. Most institutions such as schools, hospitals, the criminal justice system and the military try to maintain their stability amid constant calls for changing what they do. As organizations, these institutions have learned to incorporate changes into ongoing routines. Thus, stability and change exist in most of these institutions in uneasy tension. Academics call this tension: ‘dynamic conservatism’ (Scho ̈ n, 1971: 39). I see that dynamic conservatism at work in schools as they learn to accommodate to frequent and urgent calls for change in policies and daily practices. Too many cheerleaders for high-tech believe that hardware devices and software applications will revolutionize schooling practices. They, sadly, ignore or forget these lessons learned by earlier generations of reformers.
+-
+- PJ: You have spent more than half a century within schools. However, information and communication technologies have opened up vast spaces for less formal teaching and learn- ing. During the 1970s, a small band of researchers such as Everett Reimer (School is Dead, 1971), Paul Goodman (Compulsory Miseducation, 1973) and Ivan Illich (Deschooling Society, 1971) called for complete abandonment of the traditional concept of schooling through information and communication technologies. In order to replace traditional schools, Illich proposed creating large-scale, non-institutional educational infrastructure which consisted of a set of four interlocking educational networks: reference services to educational objects, skill exchanges, peer-matching and reference services to educators-at- large (Illich, 1971). After more than four decades, this vision is embodied in various initia- tives such as the Khan Academy (2014), and it is easy to agree with Hart’s conclusion that ‘it is not too far-fetched to assert that Illich predicted the World Wide Web’ (2001: 72). What do you think of the contemporary potential for deschooling?
+-
+- LC: Deschooling in 2014 comes wrapped in the mantle of total online or virtual schooling, home schooling and similar schemes that dispense with brick-and-mortar schools. Sure, access to the Internet and fire hydrant gushers of information does appeal to many champions of more high-tech in schools – some of those champions, however, might wince at what Ivan Illich, Paul Goodman and Everett Reimer wrote in the full flush of school-haters in the 1960s and 1970s. What so many deschooling advocates overlooked then (and now) in their zeal to dismantle public schools, both good and bad ones, are the multiple functions that public schools serve in a democratic society. Most of the deschooling advocates were opposed to US schooling on ideological, not effectiveness, grounds. Schools taught conformity, squelched real learning, overlooked individual differences among children and youth, and were holding tanks for eventual dropouts.
+-
+- Today, eager promoters of high-tech in schools are less concerned about political and social ideology as that earlier generation was. Much of their eagerness for virtual schools is driven by the failure of public schools to be efficient and effective in producing graduates who can enter the labour market and be productive workers – a different ideology, to be sure. Where producing graduates for the economy the primary goal of tax-supported public schools in the US, perhaps deschooling might have some traction. But that is not the case. Schools have custodial and socialization functions (e.g., becoming productive citizens, abiding by community norms, thinking critically, etc.) that are crucial to a democratic society. Deschooling advocates of the 1970s wanted to dispense with those functions completely. High-tech champions of online schooling and blended schools, too often ignore these functions in their lust for more, better, and faster information and communication in schools.
+- PJ: Could we say, then, that the idea of deschooling is just another example of magical thinking?
+- LC: Yes, it is a prime example of that wishful thinking.
+-
+- Public intellectuals in the age of the network
+- PJ: In the first half of Tinkering toward Utopia: A Century of Public School Reform, you and David Tyack have analysed educational progress as ideology (1995). Following the main focus of our special issue – the invitation ‘to step back from the never-ending quest for new concepts and ideas and to revisit past insights into the relationships between education and technologies’ (Jandric ́ , Sinclair and Macleod, 2014) – it would be interesting to expand your analysis of ideology to information and communication technologies. In Technology and Science as Ideology, Ju ̈ rgen Habermas claims that
+-
+- The progressive ‘rationalisation’ of society is linked to institutionalization of scientific and technological development. To the extent that technology and science permeate social institutions and thus transform them, old legitimations are destroyed. The secularisation and ‘disenchantment’ of action-orienting worldviews, of cultural tradition as a whole, is the obverse of the growing ‘rationality’ of social action. (Habermas, 1970 (1968): 81)
+-
+- This claim is clearly reflected in many aspects of your work. Nowadays, for instance, ration- alization is often interpreted through introduction of business methods into schools and your book The Blackboard and the Bottom Line: Why Schools Can’t be Businesses (Cuban, 2005) provides prime arguments against destruction of old legitimations. However, Habermas’ thinking is deeply embedded in the spirit of the industrial society powered by traditional mass media such as radio and television. Therefore, could you please reflect on the ideological role of information and communication technologies in contemporary school reform?
+-
+- LC: The ideology of progress embedded historically in school reform that David Tyack and I analyse in Tinkering Toward Utopia (1995) is still alive and well in 2014. It is called ICT (information and communications technology), online instruction and virtual schooling. Flush with hype, reformers promoted electronic technologies in the 1920s as ways of getting students to learn more, faster and better than they had, and for teachers to alter traditional ways of teaching. That continues today globally. While deep divisions among US school reformers exist, currently top political and business leaders see ICT, along with expanded parental choice of schools, national curriculum standards, testing and accountability for results, as the eight-cylinder engine for transforming schools into more efficient, effective institutions producing graduates who can enter the labour force and contribute to a growing economy. For example, the surge of interest in online instruction in elementary and second- ary public schools and the spread of virtual schools is one feature of the contemporary reform agenda mirroring this ideology of inevitable progress toward a more rational econ- omy, efficiently operated institutions and effective school performance.
+-
+- PJ: During the past decade or so, there has been a lot of talk about the potential of information and communication technologies for democracy (Jandric ́ and Boras, 2012). In several books, including but not limited to Why Is It So Hard to Get Good Schools? (Cuban, 2003), Hugging the Middle – How Teachers Teach in an Era of Testing and Accountability (Cuban, 2008) and Tinkering Toward Utopia: A Century of Public School Reform (Tyack and Cuban, 1995), you analysed the social role of education in a market-driven democracy. How do you link traditional relationships between education and democracy with information and communication technologies?
+-
+- LC: The short answer is ICT entered schools largely for economic and social reasons. Yes, there was also a political rationale such as increased civic participation in and out of schools, but it was clearly subordinate to the other reasons. The long answer is as follows.
+-
+- Beginning in the early 1980s with the introduction of the personal computer, reformers touted not only the use of computers in schools as the remedy for a declining economy and failing schools, but also a way of expanding child and youth participation in community affairs, building civic engagement and revitalizing the democratic spirit in the US. Keep in mind that using the word ‘democracy’ can mean different things to different people: an individualistic-driven version, a communitarian one and a deliberative form. Such defin- itions matter and need to be made explicit. They went undefined in these years. Since those heady times, when scenarios of high-tech citizen participation became standard fare for those championing new technologies outside of schools, the belief that using computers and hand-held devices will strengthen policy deliberations and democratic practices in schools and at all levels of government (however defined) still remains a strong vision for ICT enthusiasts.
+-
+- The appeal of the Internet encouraging virtual communities and democratic participation has attracted academic researchers, political leaders, and educators. Lincoln Dahlberg (2001) and Benjamin Barber (1998) argue that these new technologies can nurture different forms of democracy but as far as I can see, beyond outlier examples, such arguments have yet to persuade educators to use ICT regularly in schools and classrooms to encourage more democratic practices in classroom lessons. Perhaps part of the reason for this is that in the past thirty-odd years, policy elites have stressed an economic rationale for schooling (i.e. prepare the next generations with job-anchored skills for an ever-changing workplace) thus superseding a political rationale, i.e. civic engagement. Thus, I have yet to see that the growth of new technologies, their ubiquity and use in schools have led to increased student participation either in schools or as high school graduates engaged in their communities, or even increased rates of voting over the past three decades.
+-
+- PJ: You are a prolific writer of academic books and articles, and a very active blogger. Since 2009, your website, Larry Cuban on School Reform and Classroom Practice (2014c), has been accessed nearly 800,000 times by readers scattered all around the world (nearly 40% are international viewers). More often than not, your texts have provoked vivid online discus- sions containing 30, 40 or even 50 responses. This level of public engagement demands a lot of your time and effort. In the current academic setting, however, it is definitely considered less ‘important’ than standard forms of academic writing. As Emeritus Professor, you do not have to worry about the status of your writings. However, the rest of us mortals must carefully choose our battles in order to survive in the academic markets. If you agree, I would like to ‘attack’ this problem on two separate levels. First, what is the future of traditional publishing formats (such as books, journals and newspapers) in the context of information and communication technologies? Second, how does it reflect to the world of the school/academia?
+-
+- LC: For someone who has only a 50% average in predictions – see forecasts that I made in Teachers and Machines (Cuban, 1986) – I have a mediocre record in looking around the corner to see the future interaction between ICT, academic advancement and traditional publishing formats, that is books, journals, etc. Consider that in the US there has been a steady drop in tenure-line positions in colleges and universities with a corresponding increase in short-term adjunct, non-tenure positions. For those academics in tenure-line posts seeking promotion, more and more peer-reviewed journals will be online and peer-reviewed e-books and similar electronic versions will spread. So I believe that getting published in traditional venues will continue to be the gold standard. In these tenure-line academic positions, I doubt very much whether being a blogger will help one get promoted, however. In the US, I do not know of any concerted effort in universities to include blogs as part of the portfolio sub- mitted for a tenure decision. Depending on the academic discipline, being first author on a team-produced article or writing a book will continue, in the short term, to be highly prized within colleges and universities. Once tenure is gained, however, for those academics who aspire to reach larger audiences (e.g. teachers, administrators, policymakers and parents) for their ideas and research, then blogging is clearly one venue that goes beyond those few thousand who read academic journals.
+- I see writing for larger audiences as a form of teaching, not for academic advancement or influencing the discipline. Newspaper articles, blogging and writing for general audiences in large-circulation online and print magazines is a way of getting ideas into the school reform marketplace, offering different perspectives that readers may not have encountered elsewhere.
+-
+- PJ: Just a wild thought, Larry: have you ever considered turning your blog into a book? I’m sure that it would be fairly easy to cherry-pick the most interesting articles, together with some exciting discussions, and make a great and easy-to-read collection. Perhaps that would be a good way to integrate the technological and the traditional, the popular and the academic . . .
+-
+- LC: I have had that thought, Petar, but for now have dismissed it. I am currently working on a new project about the teaching of history in US schools a half-century ago and now. PJ: Sounds like a really interesting project, Larry – I can’t wait to read about it! History is one of the subject areas which clearly show that teaching is much more than a job, and our duties reach far beyond achieving ‘benchmarks’ of standardized curricula and testing. Whenever we enter our classrooms, our thoughts, opinions and attitudes become public – in this sense, all teachers are public intellectuals. Up to a few decades ago, traditional mass media such as newspapers and books have allowed only so much space to publish our thoughts outside classrooms – and entrance to this space has been carefully guarded by a whole structure of editors, reviewers and other gate-keepers. Nowadays, however, informa- tion and communication technologies are supporting wide spaces for public engagement without middlemen. Anyone can start a blog, and its success depends only on the author – having skipped middlemen, we fall into a rabbit hole where millions of websites float and struggle for recognition. What are the main challenges pertaining to teachers’ public engage- ment in the age of the network?
+-
+- LC: I have been very impressed by the last decade’s explosion of teacher and principal blogs, including ones from retired teachers and other practitioners. Many of my blog viewers are teachers and school-site administrators – where they find the time to read and write I do not know – and I learn a great deal from those who I read. I consider this flowering of teacher and administrator writing a decided plus for the profession and public debate over policy.
+-
+- Historical patterns and future challenges
+- PJ: Your prologue to Tinkering Toward Utopia makes a very convincing historical argument that ‘reforming the public schools has long been a favourite way of improving not just education but society’ (Tyack and Cuban, 1995: 1). In your talk in Barcelona (Cuban, 2010), you named this process ‘educationalizing’ of various social and economic problems. Similarly, information and communication technologies also seem to be perceived as a panacea for almost everything. Our factories are losing from competition? Let’s buy new computers. Our office productivity fails? Let’s buy new computers. Our students fail at standardized tests? Let’s buy new computers. For the purpose of this argument, I will name this process ‘technologizing’ of contemporary social problems and cautiously add that a Google search for this term returns only four sources. How would you analyse the relationships between ‘educationalizing’ and ‘technologizing’ of our society?
+-
+- LC: David Labaree has used the term ‘educationalizing’ to refer to the US policy elites’ habit of using school reform to solve US social, economic and political problems (see Labaree, 2008). What ‘educationalizing’ means is transferring societal structural problems to the institution of schooling so individual students and teachers then become first, an easy target to blame, and second, responsible for solving the problem. For example, national health problems of smoking tobacco and drinking alcohol in the prior century got translated into school courses for youth about the physical and cognitive damages done by both drugs. Too many road accidents? Driver training and completing a safe driver’s course for high school graduation became a school-based solution to a national problem. And as you pointed out in your question, the harnessing of schools to an increasingly high-tech economy means that children and youth are engaged early and persistently in using electronic devices so that they can easily fit into a high-tech workplace. What you call ‘technologizing’ to me becomes just another instance of policy elites ‘educationalizing’ a national economic problem into school reforms focusing on teacher and student use of devices, implying that such access and use of devices in schools across the country will somehow improve national economic growth and productivity.
+-
+- PJ: Three decades ago, you published Teachers and Machines: Classroom Use of Technology Since 1920. Only four years after the famous appearance of the computer on the cover of Time magazine in 1982, you dedicated a whole quarter of the book to ‘the promise of the computer’ (Cuban, 1986: 72–103). Some of the presented conclusions are just as relevant today. For instance, it cannot be disputed that ‘to question computer use in schools is to ask what schools are for, why teachers teach certain content, how they should teach, and how children learn’ (Cuban, 1986: 98). At the time, however, it was impossible to predict the depth and extent of social change brought by information and communication technologies.
+-
+- Standing on the shoulders of previous research efforts, we can learn from fulfilled pre- dictions just as much as we can learn from failed promises. Based on the most successful predictions and the deepest historic failures, therefore, what can be learned from the first one hundred years of marriage between education and technologies? If you set out to rewrite Teachers and Machines, what would you do differently?
+-
+- LC: Thanks, Petar, for recalling that qupte from Teachers and Machines. It is the one I have used often. Please allow me to reproduce the blog post I wrote about this topic five years ago: A quarter-century ago, I described and analysed the history of machines deployed in classrooms (film, radio, instructional television and the newly arrived desktop computer) to help teachers teach more, faster and better. Then I did something foolish in the final chapter. I predicted future uses of computers in classrooms from my vantage point in 1986.
+-
+- Of course, I was not alone in making predictions. Seymour Papert dove into the same empty pool that I did a couple of years before my venture into crystal ball gazing: ‘There won’t be schools in the future . . . I think the computer will blow up the school. That is, the school defined as something where there are classes, teachers running exams, people structured in groups by age, following a curriculum –all of that’ (Papert, 1984). Based upon my research in schools and experience as a teacher and superintendent, however, I was far more sceptical about the penetration and use of computers than Papert. Here is what I predicted in Teachers and Machines for computers in schools:
+- I predict that...in elementary schools where favourable conditions exist, teacher use will increase but seldom exceed more than 10 percent of weekly instructional time [roughly 3 hours a week]. Pulling out students for a 30-to-45-minute period in a computer lab will, I suspect, gain increasing popularity in these schools . . . In secondary schools, the dominant pat- tern of use will be to schedule students into [labs] and one or more elective classes where a score of desk-top computers sit...In no event would I expect general student use of computers in secondary schools to exceed 5 percent of the weekly time set aside for instruction. I predict no great breakthrough in teacher use patterns at either level of schooling. (Cuban, 1986: 99)
+-
+- As events unfolded in the next quarter-century, my prediction flat-lined. Access to computers – desktops, laptops, hand-held devices and interactive white boards – soared. In writing Oversold and Underused: Computers in Classrooms (Cuban, 2001), I did find higher percentages of students and teachers using computers in preschools, secondary schools and universities that ruined my 1986 prediction. Since then, hundreds of thousands of students and tens of thousands of teachers across the country have received 1:1 laptops, tablets and white boards. In researching classrooms since 2001, again, I have found higher use by teachers and students in both elementary and secondary classrooms. More teachers – my guess is over 30% across different districts – use machines for instruction (I include the whole panoply of available high- tech devices) regularly, that is, at least once or more a week. Another 30 to 40% use computers occasionally, that is, at least once or more a month. The remainder of teachers – still a sig- nificant minority – hardly ever, if at all, use machines for instruction. This continues to puzzle researchers and policymakers since they know that nearly all teachers have high-tech devices at home. So my 1986 prediction on teacher and student use of computers for classroom instruc- tion was inaccurate and died a quiet death. Compassionate readers seldom remind me that I flopped in peeking into the future. The facts are clear that students and teachers use high-tech devices for instruction more than I had foreseen.
+- One final confession. I stated clearly in Teachers and Machines and subsequent writings that the uses of new technologies for classroom instruction would seldom satisfy those advocates of more instructional use in schools, because teacher use would tend toward the traditional, blending both teacher- and student-centred approaches, and such approaches were seen as unimaginative. Not all teachers, by any means, but enough for the charge of uncreative teacher use to be commonly pointed out. Both of these predictions have turned out to be accurate . . . so far is a large block quote of Cuban (2010a).
+-
+- I confess to my errors in foreseeing the future for no other reason than to remind readers, both champions and sceptics of computers in schools, that accurate predictions are rare and inaccurate ones are not only common but often memorable. So if I re-wrote Teachers and Machines (Cuban, 1986) today, what predictions would I make? I would predict that well over 90% of US schools a quarter-century from now will be age-graded and brick-and- mortar, not virtual ones. There will be much more blending of online and face-to-face instruction in classrooms as students get older – more of the latter in elementary schools and more of the former in secondary ones. Most teachers – at least 75% – will use some form of device regularly in parts of daily lessons because they have expanded their repertoire of teaching activities to achieve their goals for student learning. Those uses by teachers and students will be far more integrated into daily lessons, yet will still be criticized by that future generation of techno-enthusiasts as obsolete and unimaginative,
+- PJ: At the very end of this exciting conversation, Larry, I would like to paraphrase one of my favourite titles (Cuban, 2003) on the long shelf of your books and ask a simple yet very important question: why is it so hard to balance education with information and commu- nication technologies?
+- LC: The question assumes that ICT is a separate force apart from formal age-graded schooling. In one sense ICT has been separate because policy elites (business, civic and political leaders) as well as vendors have lobbied local, state and federal decision-makers to introduce computer devices into classrooms and schools. These lobbyists for ICT have argued unrelentingly for the past three decades that ICT will modernize schools, strengthen the economy, alter traditional teaching methods, and increase the academic performance of US students. And they have become increasingly successful as lobbyists for ICT. If any- thing, current spending on ICT has increased greatly in the last decade, suggesting an imbalance.
+- The reasons for the increased access to ICT are straightforward: the historic pattern of a decentralized system of US schooling – that is, nearly all 14,000 school boards are elected and fund their schools out of local monies. These local school boards have multiple goals to achieve in spending these monies and allocating staff, such as insuring that graduates are literate, can go to college or enter careers when they graduate, have embraced community values, get engaged in their communities and are independent thinkers. Such multiple goals and structures of local policymaking and funding guarantee conflicts among groups over how school dollars should be spent and the larger issue of civic leaders deciding how much money should schools get as compared to police, fire and other local agencies. The larger questions about what schools should teach, how teachers should teach and toward what ends schools should be aimed, may or may not be raised publicly, but answers to those questions vary among voters and policy elites.
+- All of this decentralization in a rowdy democracy makes tax-supported schools politically vulnerable to shifts in school goals and practices. With the centralization of state and federal authority over schools since the mid-1960s, local lobbying still occurs, but the pattern of top- down mandates from state and federal authorities (e.g. No Child Left Behind and Common Core Standards) occurs far more often and reveals again how politically vulnerable local public schools are. After all, what I call ‘political vulnerability’ non-educators and influential policymakers call ‘democratic participation’ by community leaders and their coalitions. And this is why ICT feels separate from education when, in actuality, it is part and parcel of what policy elites and voters believe teachers do daily in getting students to learn, with or without electronic devices.
+-
+- The short answer to your question, Petar, is that for tax-supported schools, democratic politics mean that those who want teachers and students to have more and better access and use of ICT in classrooms compete with other interest groups that seek an upgraded science curriculum, less (or more) standardized testing, more (or fewer) charter schools, and judging teacher effectiveness on the basis of student test scores. That is why ‘it is so hard to balance education with information and communication technologies’.
+- PJ: Thank you a lot for this exciting conversation, Larry!
+- Acknowledgements
+- PJ: I am especially grateful to dear friends and co-editors of this Special Issue, Christine Sinclair and Hamish Macleod, for their valuable input to this conversation.
+- LC: I thank the editors of this issue for this opportunity to discuss my thoughts about access and use of technologies in schools both historically and currently.
+-
+- References
+- Barber BR (1998) Three scenarios for the future of technology and strong democracy. Political Science Quarterly 113(4): 573–589.
+- Cuban L (1986) Teachers and Machines: Classroom Use of Technology since 1920. New York and London: Columbia University Press.
+- Cuban L (1990) Four stories: About national goals for American education. Phi Delta Kappan 72(4): 264–271.
+- Cuban L (1993) How Teachers Taught: Constancy and Change in American Classrooms, 1890–1990. New York and London: Columbia University Press.
+- Cuban L (1995) Hedgehogs and Foxes among Educational Researchers. The Journal of Educational Research 89(1): 6–12.
+- Cuban L (2001) Oversold and Underused: Computers in the Classroom. Cambridge, MA and London, UK: Harvard University Press.
+- Cuban L (2003) Why Is It So Hard to Get Good Schools? New York and London: Columbia University Press.
+- Cuban L (2005) The Blackboard and the Bottom Line: Why Schools Can’t be Businesses. Cambridge, MA and London, UK: Harvard University Press.
+- Cuban L (2008) Hugging the Middle – How Teachers Teach in an Era of Testing and Accountability. New York and London: Columbia University Press.
+- Cuban L (2010a) Confessions from a Skeptic on Computers in School. In: Larry Cuban on School Reform and Classroom Practice. Available at: http://larrycuban.wordpress.com/2010/01/31/confes- sions-from-a-skeptic-on-computers-in-school/ (accessed 23 February 2014).
+- Cuban L (2010b) Educational and political dilemmas of the use of ICT in the classroom: The US case. In: Debats Educacio ́ , 16 November 2010. Video file available at: http://youtu.be/4SYTmTpJqN0 (accessed 11 March 2014).
+- Cuban L (2013) Inside the Black Box of Classroom Practice: Change without Reform in American Education. Cambridge, MA and London, UK: Harvard University Press.
+- Cuban L (2014a) No end to magical thinking when it comes to high-tech schooling. In: Larry Cuban on School Reform and Classroom Practice. Available at: http://larrycuban.wordpress.com/2013/03/ 18/no-end-to-magical-thinking-when-it-comes-to-high-tech-schooling/ (accessed 23 March 2014).
+- Cuban L (2014b) Using Technology to nail down what we know and don’t know about effects of high- tech on people today. In: Larry Cuban on School Reform and Classroom Practice. Available at: https://larrycuban.wordpress.com/2014/01/27/using-technology-to-nail-down-what-we-know-and- dont-know-about-effects-of-high-tech-on-people-today/ (accessed 23 February 2014).
+-
+- Cuban L (2014c). Larry Cuban on School Reform and Classroom Practice. Available at: http://larry- cuban.wordpress.com/ (accessed 23 March 2014).
+- Dahlberg L (2001) Exploring the prospects of online deliberative forums extending the public sphere. Information, Communication and Society 4(4): 615–633.
+- Gartner (2014) Hype Cycles 2014: Research Methodologies. Available at: www.gartner.com/technol- ogy/research/methodologies/hype-cycle.jsp (accessed 11 March 2014).
+- Goodman P (1973) Compulsory Miseducation. Harmondsworth: Penguin Education Specials.
+- Hart I (2001) Deschooling and the Web: Ivan Illich 30 Years On. Education Media International
+- 38(2–3): 69–76.
+- Habermas J (1970(1968)) Technology and science as ideology. In Shapiro J (ed.) Toward a Rational
+- Society. Boston: Beacon Press, pp.81–122.
+- Illich I (1971) Deschooling Society. London: Marion Boyars Publishers Ltd.
+- Internetworldstats (2014) World Internet Users and Population Stats. Colombia: Miniwatts Marketing
+- Group. Available at: www.internetworldstats.com/ (accessed 23 February 2014).
+- Jandric ́ P (2012) The diffusionist model of e-learning development. In Peters M, Ghiraldelli P, Zˇ arnic ́ B,
+- et al. (eds) The Encyclopaedia of Educational Philosophy and Theory.
+- Jandric ́ P and Boras D (2012) Critical e-learning: Struggle for Power and Meaning in the Network
+- Society. Zagreb: FF Press and the Polytechnic of Zagreb.
+- Jandric ́ P, Sinclair C and Macleod H (2014) Call for Papers: Networked realms and hoped-for futures:
+- a trans-generational dialogue. Retrieved 23 February 2014 from http://www.wwwords.co.uk/elea/
+- pdf/CFP-Networked-Realms.pdf.
+- Khan Academy (2014) A Free World-Class Education for Anyone Anywhere. California, Mountaing
+- View: Khan Academy. Retrieved 23 February 2014 from https://www.khanacademy.org/about. Labaree DF (2008) The winning ways of a losing strategy: Educationalizing social problems in the
+- United States. Educational Theory 58(4): 447–460.
+- Papert S (1984) Trying to predict the future. Popular Computing 3(13): 30–44.
+- Reimer EW (1971) School is Dead: Alternatives in Education. London: Penguin.
+- Rogers EM (1986) Communication Technology: The New Media in Society. New York: Free Press. Rogers EM (1995) Diffusion of Innovations. New York: Free Press.
+- Scho ̈ n D (1971) Beyond the Stable State. New York: Random House.
+- Turkle S (2012) Alone Together: Why We Expect More from Technology and Less from Each Other.
+- New York: Basic Books.
+- Tyack D and Cuban L (1995) Tinkering Toward Utopia: A Century of Public School Reform.
+- Cambridge, MA and London, UK: Harvard University Press.
+-
+- Author biographies
+- Larry Cuban is an Emeritus Professor of Education at Stanford University, California. His main research interests are history of curriculum and instruction, educational leadership, school reform, school effectiveness, and the uses of technology in the classroom. The young- est of three sons of Russian immigrant parents and the only one to attend college in his family, Larry started his career as a high school teacher of history in 1956. He taught high school for a total of 14 years. After earning a PhD in the history of education in 1974, he moved on to the position of district superintendent and served for seven years. He finally became a professor at Stanford University in 1981 and served as a professor for 20 years. At Stanford School of Education, students voted him Teacher of the Year seven times. As a practitioner, he continually works with teachers and administrators and participates in vari- ous policy projects. Since becoming Professor Emeritus, he has continued to teach a seminar on ‘good’ schools, to do research in schools and to write, including his twice-weekly blog.
+-
+- He has published numerous articles and books including Teachers and Machines: Classroom Use of Technology Since 1920 (1986), How Teachers Taught: Constancy and Change in American Classrooms, 1890–1990 (1993), Tinkering toward Utopia: A Century of Public School Reform (with David Tyack, 1995), Oversold and Underused: Computers in the Classroom (2001), Why Is It So Hard to Get Good Schools? (2003), The Blackboard and the Bottom Line: Why Schools Can’t be Businesses (2005), Hugging the Middle – How Teachers Teach in an Era of Testing and Accountability (2008), Inside the Black Box of Classroom Practice: Change without Reform in American Education (2013), and many more.
+- Petar Jandric ́ is an educator, researcher and activist. He has authored three books, several dozen scholarly articles and chapters, and numerous popular articles. Petar’s books have been published in Croatian, English and Serbian. He regularly participates in national and international e-learning projects and policy initiatives. Petar’s background is in physics, education and information science, and his research interests are situated at the post-dis- ciplinary intersections between technologies, pedagogies and society. Petar has worked at the Croatian Academic and Research Network, the University of Edinburgh, Glasgow School of Art and the University of East London. At present, he works as a senior lecturer at the Polytechnic of Zagreb. His most recent book is Critical Learning in Digital Networks (Springer, 2015).
+-
+- What is Futures Education - Slaughter
+- What is Futures Education?
+-
+- Introduction
+- Everyone knows the future is important. That is why we spend many millions of dollars on education, defence, power stations, hospitals and so on. Every large organisation has discovered that it has to plan ahead and to make forecasts about future conditions. Otherwise too many things can go wrong: the stock of essential parts runs out and production stops; market conditions change and the product or service is no longer saleable; the competition develops a better product; the enemy's contingency plans were better. Futures studies as a field of enquiry has emerged in response to demands of this kind.
+- With all this activity one might have expected that futures would be seen to be a natural and inevitable part of education. After all, much of our teaching and learning focuses upon the future. But, until recently, this has not been the case.
+- Futures in education is a direct response to change and the recognition that there are problems, dangers and choices ahead which have few, if any, historical precedents. This paper looks at the substance of futures study, the origins of futures work in education, at the rationales which have been put forward and at patterns of innovation and implementation.
+-
+- Substance of futures study
+- Much discussion about futures begs the question of what is being studied. This raises genuine concern since in crude empirical terms it has been suggested that 'the future' does not exist. How, therefore, may one study it? When this line of argument is raised at least three comments are relevant. First that empiricist approaches tend to focus on the tangible and the measurable. Second, that the argument overlooks the primacy of values and meanings (etc) which are in no way diminished by the non-material status. Third, that there is more than one meaning to the word 'future'. In one restricted sense it does indeed stand for that which is beyond, out of reach, yet to come. But rather than stressing notions of separateness, distance, and the problematic aspects of futures, other uses stress the way that futures concerns permeate the present.
+- To put it briefly, there are at least two key 'strands' to futures study. One is the strand which examines perceptions of futures. The other attempts to come to grips with some processes of continuity and change. Futures study draws on a wide range of human capacities and deploys a number of specific concepts and methodologies in pursuit of these two types of understanding. The results of this activity lead into a wide range of issues, themes and applications including futures in education. ￼
+- Figure 1: Futures study matrix
+- Futures study as a forward looking matrix
+- It is crucial for the latter that these relationships are recognised and understood. A field which sometimes generates questions about its subject matter and methods must be able to show that it is properly-grounded, comprehensible and useful. It's also important that those who are engaged in teaching futures actually utilise futures concepts and tools. Two common mistakes in futures teaching concern the failure to utilise these concepts and a tendency to over-emphasise extrapolation (ie 'the future of ....' approach).
+- A sample of futures concepts which I regularly use is discussed elsewhere. 1 There is a reciprocal relationship between such concepts and human capacities. One could say that the former 'enable' the latter, and that the latter 'drive' the former. The combination of concepts and capacities help to structure a forward-looking perceptual field. These perceptions both shape the character of futures study and provide part of its subject matter. The methodologies arise from all of the above and represent the active outworking of futures concerns at the social, institutional and group levels.
+- Futures methodologies focus on the present and possible future states of processes. Frequently the concern is with change: social, economic, technical, environmental and, less frequently, value change. However, continuities (of language, tradition, meaning) are equally important and with increasing interest in alternatives to conventional assumptions about economic growth, the 'steady-state' side of the equation is receiving more attention.
+- The concern with processes lends futures study and research an empirical dimension which many of its critics have not noticed. In order to say anything of value about the possible future states of dynamic systems it is necessary to know a great deal about the past and present. This is partly why futures has sometimes been characterised as a 'summarising discipline'. It necessarily draws on a very wide range of sources. Finally, the whole structure as I have described it gives rise to a number of characteristic issues, themes and applications.
+- There are two major implications for futures in education. First, the futures field is a serious field of enquiry which can stand up to the most exacting and rigorous enquiry. It therefore provides a sound basis for educational work. Second, the value of the field to education solely in terms of its symbolic resources is considerable. The concepts and methods involved are capable of much wider application and use than they have yet received.
+- Origins of futures in education
+- Futures per se are an ancient concern. The earliest makers of stone tools carried a clear image in their minds of the purpose which the tools would fulfill and this guided their work. The earliest dwellings and villages were constructed according to plans which reflected present and future communal needs. Agriculture only became practicable when the changes of the seasons could be understood and predicted with assurance. The person who plants seeds must feel that it is likely he or she will reap a subsequent crop. Otherwise it is not worth the effort and, moreover, the family could starve.
+- In other words, the future is organically bound up with everyday life. Or, to put it differently, we can say that futures are constitutive of the present. Take away the futures dimension and what remains is not worth living in because you would have also removed the 'space' needed for plans, purposes, goals, meanings, intentions and so on. We all require a future (or futures) in order to live. I often ask teachers to imagine they are taking a foreign trip. I ask them to consider the way they go about it. They think about climate, clothing, transport schedules, money, insurance, maps and so on. Bearing this in mind we then think about school curricula and the way these embody purposes and meanings which relate to the future. Usually such forward-looking concerns take the form of aims, objectives, goals and, more distantly, some notion of how present activities contribute to the development and evolution of society. All, of course, are true futures concerns. That's why I often remark that schools are already in the futures business, though few of them realise it yet.
+- The first school courses with an explicit futures label were taught in the USA and Canada in the mid-1960s. They drew upon the wider field of futures research which had itself developed in the context of the cold war and its military scenarios. That, in turn, was rooted in the strategic need to move military personnel and materials in a co-ordinated way, and in conditions of great uncertainty, during the great wars. The techniques of planning, forecasting, war-gaming and scenario analysis were seen to have value well beyond military applications. With a number of other techniques they were quickly assimilated into government, business and industry.
+- Even today, when futures study and research is a global concern, the USA remains the heartland of futures work. It has more forecasters, consultants, futures researchers, marketing analysts and science fiction writers per head than any other country. So when the first school course was taught there in 1966 it was because people had seen dramatic changes and knew that the future could no longer simply be assumed. Whereas once it extended unproblematically ahead, now there were more and more possibilities, some of them not particularly pleasant.
+- A number of pilot projects were funded by the then Office of Education and these led to the establishment of centers where futures were studied and taught. The University of Houston at Clear Lake City offered one of the most comprehensive masters programs in futures. The World Future Society entered the picture and by the early 1970s its education section had a professional membership of several thousand. Conferences, publications and seminars followed all over the continental USA and in other countries. By this time a number of international networks and organisations had sprung up. Perhaps the most productive and durable of these is the World Futures Studies Federation.
+- In virtually every Western country, groups of innovators based in schools, colleges and universities began to learn from each other and to perceive that they were part of a wider shift. A shift from immersion in a taken-for-granted past and present to a conscious evaluation of possible, probable and preferable futures. While the futures education movement in the USA seemed to falter under increasingly unfavourable political and economic conditions, others took up the work which had been started there and improved upon it. Today on a global scale there are thousands of teachers, lecturers and researchers with an interest in futures in education. With over twenty years' work completed it is clear that futures in this context may sometimes appear new but the principles involved are certainly not untested.
+- Elements of a rationale for futures in education
+- Rationales take various forms in various places. But among the most commonly cited suggestions are the following.
+- 1.	Rapid change means that many past assumptions, meanings and purposes are no longer valid and self-evident. In this context, past knowledge, and earlier modes and methods of representing knowledge do not command automatic support. Past experience becomes less and less reliable.
+- 2.	Actions and decisions have consequences. In a world which is physically and socially interconnected many of the latter are displaced in space and time (for example, acid rain, ozone depletion and terrorism). Futures thinking therefore becomes a strategic imperative.
+- 3.	'Preaction' or careful forward thinking is preferable to 'crisis management'. It represents a saving of the energy which would otherwise be expended clearing up the mess.
+- 4.	Images of futures condition the present. Both positive and negative images feed back into the present and affect what people consider to be worth doing. These images are being continuously negotiated at all levels of society, though often in implicit. hidden, ways (for example, through advertising). Many images are ambiguous in that it is the human response to the image which is crucial, not the simple fact of the image itself.
+- 5.	Futures are not abstractions. Since they cannot be measured they have been illegitimately dismissed by empiricist frameworks of enquiry. But the future (as a category) is 'a principle of present action'. Without it we could not act at all. The human capacity to articulate plans, purposes, goals, intentions and meanings relies upon an open and undetermined future.
+- 6.	The taken-for-granted present does not indicate a specific period of time because the mental present has no firm boundaries. Aspects of past and future are enfolded within the present and schools can be much more explicit about what this involves for teaching and learning.
+- 7.	Education is a major institution which has strong roots in the past. Yet it cannot simply try to reproduce the past. It requires credible futures alternatives in order to make sense of the present and to establish appropriate strategies and directions.
+- 8.	It is not possible to change the past, though the past is continuously re-interpreted (because we never stand at the end of history). Our relation to the future is different. We all exert our will and our intentionality upon it, and attempt to shape it according to our perceptions and needs. This is a much more active stance than we can adopt in relation to the past.
+- 9.	The implicit model of personhood we apply to schooling affects the way we view futures. If students are viewed as interpreters of culture and makers of meaning (agents) there is a direct connection between futures and the curriculum. This connection is obscured in more instrumental views.
+- 10.	Pupils are already alert to futures. Hence they do not need to be coerced into considering it further. They are naturally interested in the unfolding of their own lives. Many have fears about unemployment, pollution and nuclear war. It is important to help pupils channel their energies which support these fears into strategies which address the source of the fear.
+- Futures in education in the UK
+- In Britain a number of individuals and individual institutions have developed their own initiatives locally and there have been a few attempts to integrate these. The World Future Society has not developed a large enough membership in Britain to sustain meetings of the kind common in the USA. (The WFSF is much smaller but it is a true global network that holds meetings all over the world.) The pattern of innovation is therefore a decentralised one, with people making changes and taking initiatives wherever they happen to be.
+- For example, a group of teachers at Pocklington school in Yorkshire developed a sixth-form general studies course entitled Possible Futures focusing on such issues as the nature of humanity, urban areas and knowledge versus wisdom. The design faculty of the Open University offered a course entitled Man-Made Futures for several years. The course materials were among the best produced anywhere. A number of other universities have offered courses with titles such as Alternative Futures as part of a humanities degree, but Oxbridge appears not to have noticed. Two projects can be mentioned. One is Simon Nicholson's Children in Futures project which aimed to give children access to media in order to explore their own interests and their own images of futures. Another is the ‘implications of critical futures study for the theory and practice of curriculum’ which surveyed futures work world-wide, developed a systematic basis for curriculum innovation and rendered some futures tools and techniques into a form teachers can use. 2
+- Conferences and workshops have been few and far between. A potentially significant two-day invitation workshop co-sponsored by the UK Futures Network and the University of London Institute of Education was held in February 1985 but was not followed up. Conferences on futures-related themes are common but none to my knowledge has explored the centrality of futures as a coherent intellectual, academic or practical focus within education. The nearest to this are the occasional meetings sponsored from outside the formal system. For example, the Education for Life conferences organised by the Mediating Network in Brighton in 1986 and 1987. Also the Education for the Twenty-First Century meeting held at the Findhorn Foundation, Forres, Scotland in 1986. Both of the latter were true futures gatherings, though they were grounded in futures movements rather than in the wider field (embracing futures research, futures study and the futures movements).
+- Content and process in futures education
+- During a survey of curriculum units, modules and materials I found a wide variety of work from around the world. Some of it was of a very high quality indeed, but several things stood out clearly.
+- 1.	Very few curriculum offerings were clearly and explicitly grounded in a specific theoretical framework.
+- 2.	There was wide variability between the foci chosen for study. Considerable attention was paid to futures methodologies and to specific issues. But theories, creativity and real-world connections were relatively rare.
+- 3.	Almost none of the materials studied were broad or balanced (in the sense of covering the range of the field in a coherent way).
+- 4.	There was very little evidence of sustained treatment of specific foci over a period of time using a succession of approaches and methods.
+- 5.	No agreed framework of analysis of evaluation could be found.
+- 6.	No comprehensive view of the content and process of futures in education was then available (other than in books referring specifically to the USA).
+- It was clear that the decentralised pattern of innovation I had noticed in Britain also applied on a wider scale. People tended to create innovations in a vacuum, as it were, with very little knowledge of work carried out elsewhere. Hence, in an attempt to provide some sort of standard outline of the range of existing work, I developed the notion of a 'model futures curriculum'.
+- Given the variety of approaches noted - some leaning heavily toward methodology, others toward local issues, still others toward child participation and creativity - it was hard to generalise about curriculum process. However, on the whole, teachers tended to utilise pupil-centred approaches rather than more formal methods and to engage students in matters of concern to them. The few evaluations available strongly suggest that students find futures studies enjoyable and, in some sense, 'liberating' or 'empowering'. This was certainly the case at Lancaster (UK) with teachers who have taken the MA module Futures Study and Curriculum Design. 3
+- At the time of writing (1988) an adequate account of classroom practice had yet to be written. There are still far too few researchers and scholars working in this field. Yet what is known suggests that futures study injects a new sense of purpose into obsolescent curricula. The latent demand for this work therefore appears to be considerable. How to activate that latency remains a key question and challenge.
+- Implementation
+- There are basically three approaches to implementation.
+- 1.	The introduction of discrete futures units or modules into an existing curriculum program.
+- 2.	The introduction of futures as a dimension of existing subjects and curriculum foci.
+- 3.	The reconceptualisation of a schools' modus operandi according to futures concepts and methods.
+- Approach three is the most ambitious and it has not been tried in Britain. However, overseas examples such as the Montclair Futures School in New Jersey and initiatives by the Barcelona school system, show that it is a viable option where resources, staffing and support are available. It does presuppose that adequate training, materials and leadership are present locally, and this is clearly not often the case.
+- Approach two requires that a 'prime mover', such as a head teacher, take on the task of a school-wide shift in content and process. In current circumstances this is difficult and it has not been widely attempted. Nevertheless, given the right environment and support, it does represent a way forward. If teachers are given the time to familiarise themselves with futures concepts and approaches, most tend to change what they do in small but significant ways. Since Futures Studies is a cross-circular dimension it can be approached in this way.
+- The first approach is the commonest since it means that highly-motivated individuals can innovate in their own classrooms without disturbing established procedures elsewhere. It is becoming increasingly common for general studies, social and life skills, careers, domestic science, languages, drama and design to include an explicit futures component and many new courses have recently been designed along these lines.
+- It is possible to combine elements of the above. But for the time being the likelihood is that option three will continue to be the most popular approach to implementation.
+- Conclusion
+- Very occasionally a new insight or approach will illuminate the taken-for-granted world in a new way. This was true of the theory of evolution. It was true of quantum theory and the view back of the planet Earth from space. In a more modest way futures in education represent another paradigmatic shift of perception. The weaknesses of some early approaches have now been corrected and a systematic basis for futures work is now available. This means that schools can take up the available tools and understandings and integrate them into every aspect of their work.
+- Futures is not simply another subject or curriculum focus entering into competition in an already overcrowded curriculum. It is a true metaperspective grounded in a coherent body of theory and practice. A thumbnail definition of futures is that it is the forward-looking equivalent of history. If the latter enables us to study where, in some collective sense, we have come from, the former allows us to consider where we may wish to go. The two are closely linked and accounts of 'good' history teaching are often equally applicable to futures. But at the end of the twentieth century a new shift is needed. It is a shift of consciousness and perception which understands that the past is indeed past. It has much to teach us, yet it cannot be altered. Human will, intentionality and responsibility face in another direction - toward the emerging future. As Ziegler has noted, the future is less a realm of knowledge than of action. 4
+- At this particular point in time it is the future which should command our attention - not least of all because of the many unresolved difficulties and problems associated with our transition from the industrial era. Far from being a distant abstraction, the study of futures has now become indispensable within education, as elsewhere. To draw fully on this field of enquiry is to open up new options for innovation and development. It is to bring into schools the means to participate fully in the transition process and thereby fulfill their obligations both to individuals and to society at large.
+- A cynical view asks ‘what has posterity done for me?’ Jonathon Schell is probably correct with his devastating assertion that ‘formerly the futures was given to us - now it must be achieved.’ 5 But my preference is for Kenneth Boulding's insightful observation that ‘the future is the way I repay my debt to the past.’ It captures what is, perhaps, the underlying theme of much futures work: our inextricable involvement in a universal process embracing past, present and future.
+- Notes and references
+- 1.	Slaughter, R. Recovering the Future, GSES, Monash, Melbourne, Australia, 1988.
+- 2.	Slaughter, R. Futures Tools and Techniques, Futures Study Centre, Melbourne, 1987.
+- 3.	Taught at the Department of Educational Research, University of Lancster, UK, for three years from 1985.
+- 4.	Ziegler, W. Designing and Facilitating Projects and Workshops in Futures Invention, Futures Invention Associates, Denver, COL., USA, 1987, 2.
+- 5.	Schell, J. The Fate of the Earth, London, Picador, 1982, 174.
+-
+- A futures perspective: Lessons from the school room - Hicks 2008.pdf
+-
+-
+- 5. A FUTURES PERSPECTIVE
+- Lessons from the school room
+- In this chapter I firstly set out some of the problems faced by practising teachers in relation to the academic field of futures studies and then clarify the educational rationale for developing a ‘futures perspective’ in the school curriculum. Whilst schools have a crucial role to play in helping young people think about the future what is actually possible and appropriate is dependent on children’s ages. I outline some of what is currently known about children and young people’s perceptions of the future and then give an example of how teachers and students who intend to be teachers can be introduced to these concerns. Finally I indicate some of the areas of futures education that require further research.
+- PROLOGUE
+- Teachers as professionals
+- All good futurists would probably like other professionals to be enthused about their field. This is because it seems self-evident to us that the insights from futures studies could be of benefit to most other academic fields. Wendell Bell (1997, p. xxi) thus argues that specialists in other disciplines would benefit from futurising their thinking and I would agree with this. Why, therefore, do I find social commentators generally and teachers in particular so uninformed about futures studies? I suspect Jim Dator (1998, p. 298) had the answer when he addressed readers of the American Behavioural Scientist:
+- ... the chances are very good that ... you have never taken a course in futures studies; never met a person who teaches it at the university level; teach or study on a campus where futures studies is not offered; and probably associate futures studies (if the term means anything to you at all) either with astrology and charlatans or with Alvin Toffler, John Naisbitt, or Faith Popcorn ... Your most fundamental images of the future are almost certainly shaped primarily by films and videos you have seen.
+- This would certainly be true for most school teachers but it would also be reinforced by other forces relating to the professional context in which they work. Most teachers consider themselves to be first and foremost educators, that is, they feel they have an obligation to educate rather than proselytise. They thus feel it would be wrong to add things to the curriculum simply because other professionals feel they should and, anyway, the content of the curriculum may not be up for negotiation if the education system is a highly centralised one. Secondly, many teachers in industrialised countries have been suffering from ‘curriculum fatigue’ in particular as a result of neoliberal policies which have lead to increasingly utilitarian and market driven forms of education. Thirdly, teachers may unwittingly resist innovative change because schools are but one of the many sites of cultural reproduction which reflect prevailing hegemonic forces. They, as well as their pupils, are often unable to think ‘outside the box’ whether socially or culturally, as Apple (1993) and Giroux (1992) have argued at length, or ecologically, as writers such as Orr (1994) and Bowers (1997) have argued. Western forms of education, whether as practised at home or exported, thus tend to reflect white, male, neoliberal views of the world (Apple, 2001)—and of the future (Milojević, 2002).
+- Children and Youth
+- If we believe that adults can benefit from the insights of futures studies in their personal lives, their work and their communities, then what they might or might not have learnt about futures in their youth and childhood needs to be of vital interest too. I use the term futures education, as against futures studies, to distinguish what may or may not go on in schools and formal education up to the age of 18. Whilst culture, ethnicity, gender and class will affect young people’s views of the future (as it also does for adults), what in particular affects them is the process of childhood socialisation and development.
+- How children conceptualise the future varies with age. In early childhood we are dealing with quite different notions of the future to those held by older children (Page, 2000). As they enter the middle years of schooling (7–14), children’s views begin to take on some aspects of adult understanding (Hicks & Holden, 1995) and these mature with age. Youth futures (15–25) have also been noted as a specific category differing in crucial ways from adult views (Gidley & Inayatullah, 2002). A range of important changes are thus taking place in youth and childhood which makes futures education a distinctly different enterprise to that of futures studies. How adults conceptualise the future is largely a result of what did, or did not, happen to them during this crucial formative period.
+- The Problem with Futures Studies
+- The problem with futures studies for teachers is that most of them will never have heard of it for the reasons given by Dator above. If they do come across the field, it appears to be an academic and research-based activity carried on in universities. This puts most teachers off because universities seem remote from their daily life in classrooms. The nature of futures studies is thus likely to be misunderstood and, even if understood, not seen as immediately useful to teachers in schools. There is nowhere I can point to at the moment in the UK as an example of good practice in futures education. Whilst the English Qualifications and Curriculum Authority has a Futures Programme (www.qca.org.uk/11232.html), on closer inspection this turns out to be primarily about the future of the curriculum and contains little that specifically helps teachers think more critically and creatively about a range of alternative futures, whether for society or education.
+- Many other issue-orientated academic fields have given rise to lively and innovative educational fields. Examples include global education, development education, environmental education, peace education, intercultural education. Whilst each maintains its own distinct identity, many see these fields as potential allies with overlapping interests. When educators refer by name to these issue- based educations what is generally missing, however, is any reference to futures studies or futures education. In other words, we have as yet to gain widespread credibility with natural educational allies. One of the few exceptions is Pike and Selby’s (1999) model of global education which argues that the spatial and temporal dimensions of the curriculum are of equal importance.
+- FUTURES EDUCATION
+- Educational Rationale
+- Whilst ‘futures education’ or ‘futures in education’ are useful shorthand terms to designate the application of futures ideas to formal schooling and teacher training, it is important to recall that this is not generally part of the everyday vocabulary of teachers. They are more likely to talk about ‘preparing children for the future’ and, if urged to be more specific about the future in their teaching, would probably demand a clear educational rationale for this. This is an appropriate request for an educator to make and one that can easily be answered in the professional language of teachers as shown below in Table 1.
+- Table 1. Rationale for a futures dimension in the curriculum
+- Pupil motivation
+- Pupil expectation about the future can affect behaviour in the present, e.g., that something is, or is not, worth working for. Clear images of desired personal goals can help stimulate motivation and achievement.
+- Anticipating change
+- Anticipatory skills and flexibility of mind are important in times of rapid change. Such skills enable pupils to deal more effectively with uncertainty and to initiate, rather than merely respond to, change.
+- Critical thinking
+- In weighing up information, considering trends and imagining alternatives, pupils will need to exercise reflective and critical thinking. This is often triggered by realising the contradictions between how the world is now and how one would like it to be.
+- Clarifying values
+- All images of the future are underpinned by differing value assumptions about human nature and society. In a democratic society pupils need to be able to begin to identify such value judgements before they can themselves make appropriate choices between alternatives.
+- Decision making
+- Becoming more aware of trends and events which are likely to influence one’s future and investigating the possible consequences of one’s actions on others in the future, leads to more thoughtful decision making in the present.
+- Creative imagination
+- One faculty that can contribute to, and which is particularly enhanced by, designing alternative futures is that of the creative imagination. Both this and critical thinking are needed to envision a range of preferable futures from the personal to the global.
+- A better world
+- It is important in a democratic society that pupils develop their sense of vision, particularly in relation to more just and sustainable futures. Such forward looking thinking is an essential ingredient in both the preserving and improving of society. Responsible citizenship
+- Critical participation in democratic life leads to the development of political skills and thus more active and responsible citizenship. Future generations are then more likely to benefit, rather than lose, from decisions made today.
+- Aims of Futures Education
+- In exploring the elements of such a rationale with teachers it then becomes possible to talk about the need for a ‘futures dimension’ within the curriculum and the need for pupils to develop a ‘futures perspective’, i.e., the ability to think more critically and creatively about the future. The specific aims of futures education can be formulated as helping teachers and pupils to:
+- – develop a more future-orientated perspective both on their own lives and events in the wider world;
+- – identify and envision alternative futures which are just and sustainable;
+- – exercise critical thinking skills and the creative imagination more
+- effectively;
+- – participate in more thoughtful and informed decision making in the
+- present; and
+- – engage in active and responsible citizenship, both in the local, national
+- and global community, and on behalf of present and future generations
+- Aims such as these are of interest to a wide range of educators concerned with subjects such as English, maths, science, technology, geography, history, modern languages, business studies and religious education. They are also of particular relevance to equal opportunities, multicultural education, and cross-curricular themes such as education for sustainability, citizenship, and personal and social education.
+- At the same time, discussion with teachers and teacher educators in various countries reveals that the future is largely a missing dimension within education. Gough’s (1990) investigation into the portrayal of futures in educational discourse is invaluable here. After examining a range of educational documents he identified three common types of reference to the future—tacit, token and taken–for–granted. Tacit futures are all those which are assumed and never brought out into the open. They remain hidden and unexplicated but nevertheless present. Thus the future may not even be mentioned in an educational document but assumptions about it are still tacitly present. Token futures often involve clichés and stereotypes presented in a rhetorical fashion. Gough (1990, p. 303) notes, “When one finds ‘the future’ (or a futures-oriented inference) in the title of an educational document it usually means much less than might be expected”. Taken–for–granted futures occur whenever a particular future, or range of futures, is described as if there were no alternatives. Discussion of the future framed solely in terms of science and technology or work and leisure would be in this category.
+- Insights from Futures Studies
+- It is interesting to reflect on which insights and concepts from futures studies have been taken up by teachers and used in their work and also how they have been developed for use with children. Whilst the teaching materials available to schools are still relatively limited, it is nevertheless still possible to give some idea of the concepts that have been taken up. The following examples are fairly representative of responses over the last 25 years in Western education.
+- Amongst the concepts used in a seminal booklet from the US National Council for Social Studies (Fitch & Svengalis, 1979) are: possible, probable and preferable futures; utopian and dystopian writing; assumptions about time; scenarios; trend analysis; forecasting; cross-impact matrices; and futures wheels. Riley’s (1989) resource book for teachers includes: possible, probable and preferable futures; trend extrapolation; futures wheels; Delphi technique; cross-impact matrices; scenarios; values and the future; imaging; and timelines. Pike and Selby’s (1999) resource book on global education refers to: possible, probable and preferable futures; futures wheels; intergenerational justice; and sustainability. A resource book on citizenship education (Hicks, 2001) contains: images of the future; futures wheels; probable and preferable futures; rights of future generations; scenarios; and sustainable futures. Contributors to Gidley and Inayatullah’s (2002) book on youth futures further confirm that a wide range of futures tools are being used with young people as does Slaughter and Bussey’s Futures Thinking for Social Foresight (2006).
+- YOUNG PEOPLE AND THE FUTURE
+- Understanding how children and young people develop their ideas about the future is crucial since it is from this formative period that adult perceptions emerge. The importance of futures education in schools lies in its capacity to challenge often unconscious processes. The literature on children and young people’s views of the future has been growing slowly since the mid-90s and a flavour of this will be given under the headings primary, secondary and youth. (NB. Since ‘secondary’ encompasses 11–18 and ‘youth’ 15–25, there is an overlap between these two categories.) As you will notice the research still has a very Western bias so one should be cautious about generalising from this.
+- Primary Level
+- It is a common assumption amongst many teachers that younger pupils have little conception of issues in the wider world. However, Fountain (1990) points out that nursery and infant children (age 4–7) regularly: call each other names (prejudice); arbitrarily exclude others from their play (discrimination); argue over materials (resource distribution); protest that rules are not fair (human rights); quarrel and fight (peace and conflict); waste consumable materials (environmental awareness); find out that more can be accomplished by working together (interdependence). Issues that might initially be considered national or global are thus present in many classrooms and need to be recognised and worked with.
+- One of the few educators to explore how young children conceptualise the future is Australian early years specialist Jane Page (2000), who notes that futures educators generally ignore this age group. Her work with 4 and 5 year olds, however, shows that futures concepts are beginning to be developed at this age. The children she studied have a fundamentally different attitude towards the future, time and change than older children. Time is viewed purely in terms of the child’s own activities, i.e., in four sleeps rather than four days time. They cannot understand that time exists independent of themselves, but there is a growing sense of progression beginning with notions of ‘before’ and ‘after’ and moving on to ‘yesterday’ and ‘tomorrow’.
+- The ‘future’ means being older or things changing. There is a growing awareness of societal issues, for example the environment, war, music, places and events in the news. Thinking about the future at this age involves imaginative fantasy, past and future often get mixed up (they are both the ‘not now’), and there is a great sense of control and freedom over the future in such play. Whilst this may seem idiosyncratic and unrealistic from an adult point of view, this is a vital developmental stage. Young children are developing positive feelings about their place in the future and their role in its creation and are more positive than older children about the future.
+- Whilst different levels of ability are found in conceptualising the future at 7–8, this is when initial manifestations of an ‘adult’ understanding of time begin to appear. Research by Hicks and Holden (1995) in England shows the emergence of an ability to think ahead and the realisation that the future may be something to work towards as well as something to be concerned about. Reality and fantasy may still sit side by side and children sometimes fear that their own area may be subject to violence and wars seen in other places on TV. There is a growing awareness of social and environmental issues and children are generally optimistic that the future will be better both for themselves and others. However, some think problems such as pollution and poverty may get worse. Boys often fear global disasters, for example the world exploding or aliens landing.
+- Secondary Level
+- Understandably, young people’s concerns for the future tend to reflect current national and global events although these may change over time. In the 90s Hicks and Holden (1995) found that in relation to their personal futures English adolescents were concerned about getting a good job, having a good life, issues of health, good relationships and doing well at school. In relation to the futures of their local community they identified crime and violence, jobs and employment, the range of amenities, and environmental threats as their main concerns. In terms of the global future, they were worried about issues of war and peace, environmental damage, poverty and hunger, and relationships between countries. Pessimism increased with age and most felt that they had not learnt enough about these issues at school.
+- Oscarsson’s (1996) work with Swedish teenagers showed similar findings. A majority of pupils had a positive view of their own future, although many reported what he called ‘uncertain optimism’ in relation to work. Unemployment was seen as the main threat to their personal futures and, to a lesser extent, environmental problems. They had a less optimistic vision of Sweden’s future, however, often expressing concern about economic conditions. Nearly two-thirds had a pessimistic view of the global future, particularly in relation to environmental issues and to a lesser extent warfare. Their views of the global future were more pessimistic than those of personal or Swedish futures. Brunstad’s (2002) research in Norway and Rubin’s (2000) in Finland echo some of these ‘European’ themes. Rubin also examines in some depth the relationship between young people’s concerns and the wider socio-cultural context.
+- Hutchinson’s (1996) work with Australian teenagers focused in particular on the nature of their probable and preferable futures. Their probable futures fell into six broad categories: i) an uncompassionate world (depersonalised and uncaring); ii) a physically violent world (with a high likelihood of war); iii) a divided world (between ‘haves’ and ‘have-nots’); iv) a mechanised world (of often violent technological change); v) an environmentally unsustainable world (with continued degradation of the biosphere); and vi) a politically corrupt and deceitful world (where voting is a waste of time). Their preferable futures fell into four broad categories: i) technocratic dreaming (uncritical acceptance, especially amongst boys, of techno-fix solutions for all problems); ii) demilitarisation and greening (of science and technology to meet genuine human needs); iii) intergenerational equity (accepting responsibility for future generations); and iv) making peace (with people and planet via a reconceptualisation of both ethics and lifestyles). These are very powerful images for young people who said they had learnt little about futures in school.
+- Youth Futures
+- A most welcome addition to this comparative research is Gidley and Inayatullah’s (2002) Youth Futures in which Eckersley (2002) has a chapter on Australian youth. He reports that the future most young Australians want is neither the future they expect, nor the future they are promised. Most do not expect Australian society to be better than today in 2010. They see a society driven by greed whilst what they would like is one motivated by generosity. Their dreams are for a society that places less emphasis on the individual, material wealth and competition, and more on community and family, the environment and co-operation. The belief that life would improve is a minority position and pessimism increases with age; those in their 20s are more negative than those in their teens. In an earlier account of this research, Eckersley (1999) concludes “Young people’s preferred futures are undoubtedly idealised and utopian. Their significance lies in what they reveal about fundamental human needs ... and what they expect and what is being offered to them by world and national leaders”.
+- It is clear from the above that much of the existing research on young people and the future relates to Western societies so that, as yet, limited cross-cultural comparisons can be made. Research on youth futures is also, by definition, less likely to look at age differences than work done in schools. Two contrasting studies deal with Japan and Singapore. Wright (2002) examines the role of contemporary Japanese youth in challenging traditional values and argues that their ‘cool resistance’ may enable them to rewrite a future that has already been colonised by their parents’ culture. In a different vein, Oehlers (2002) explores how political and cultural pressures in Singapore have largely stifled any youth disaffection so that any debate about alternative futures is almost impossible.
+- TEACHER EDUCATION
+- A Global Dimension
+- For futures education to have a greater impact on schools it is clear that initial and on-going teacher education are crucial arenas to influence. The obstacles in teacher education, however, are likely to be similar to those in schools. I thus think it is tactically easier, in schools and teacher education, to get people thinking first about the need for a ‘global dimension’ in the curriculum (where are we now?) and then to go on to consider the need for a ‘futures perspective’ (what may happen as a consequence?). Thus, rather than starting with the future and explaining its importance in relation to the global issues in the present, one begins by looking at the state of the world in the present which automatically leads on to questions about the future (Hicks & Holden, 2007). What’s happening now will always be more tangible than what has yet to come. An example of this in terms of educational policy and practice comes from my own institution, Bath Spa University in the UK.
+- Traditionally, undergraduates training to be teachers in England used to take a degree which focused rather narrowly on the National Curriculum and the professional training of teachers. Increasingly, a number of universities have replaced this with a 3+1 route, i.e., a three-year degree (Education Studies as single honours or Education with a subject specialism as joint honours) followed by a one-year post-graduate Certificate in Education—which is where their professional training now occurs. Those who do this at Bath Spa are guaranteed a global perspective in their modular programme because it forms a key strand in the Education Studies degree. The School of Education specifically chose this strategy in order to bring breadth and depth back to the study of education.
+- Modules are arranged in three strands ~ A: Learning and curriculum; B: Teaching, settings and structures; C: Global and international. Education students have to choose modules from each of these groups, so all of them will have some understanding of the need for and nature of a global perspective. In their first year all students take a compulsory module entitled Education for Change which explores three main themes: i) the nature and purposes of education; ii) the current state of the world; and iii) the need for a global and futures dimension in the curriculum. The ‘international’ modules explore the nature of education in different cultural settings. The ‘global’ modules focus on contemporary global issues and concerns. These include futures, citizenship, human rights, and sustainability.
+- A Futures Perspective
+- Description
+- Table 2. ED2013 Education for the Future
+- ‘Futures in education’ is the shorthand term used internationally by educators who believe that one of the main tasks of education is to prepare young people for a future that will necessarily be very different from today. In the UK teachers are more likely to talk about ‘education for the future’ when they express this concern. This module will introduce you to the crucial need for a futures perspective in schools and the ways in which this can be used to enhance pupils’ learning. It will look at how young people feel about the future, locally and globally, and ways in which images of the future affect what we feel is worth doing in the present. It will explore the nature of both probable and preferable futures in the early 21st century and encourage you to think more critically and creatively about your personal and professional futures.
+- Learning outcomes
+- By the end of this module you should be able to:
+- Understand the need for a futures perspective in the curriculum
+- Think critically and creatively about futures related issues
+- Reflect critically on both the meaning and practice of futures education Develop classroom activities that encourage futures-orientated thinking Outline programme
+- Facing the future
+- Popular images of the future
+- Understanding futures studies
+- Whose futures?
+- The nature of futures education
+- A futures perspective (primary)
+- Young people’s views (secondary)
+- Envisioning preferable futures
+- The need for sustainable futures
+- Course review and evaluation
+- Each year around 25 second year students take module ED2013 Education for the Future. The time allowed for this module is a one-hour lecture and a two-hour seminar each week for 12 weeks. A flavour of the module is conveyed by the following details (Table 2).
+- 83
+-
+- Issues Arising
+- EPILOGUE
+- There are two quite different issues that I would like to raise here. The first is to do with the significance of what we are learning from the research and the second is procedural in the sense of how best to influence teachers and educational policy makers.
+- Whilst we now know more about what young people think about the future, we are only just beginning to engage with what that might mean. Eckersley (2002, p. 32) highlights the difficulties when he writes:
+- There is little doubt that many qualities that future fears might intuitively be expected to influence—hope, purpose and meaning in life, coherence, efficacy, or agency—are important to well-being. However, we may never be able to do more than suggest this because of the difficulty of disentangling concerns about the fate of the earth from the many other factors that influence these qualities, and hence well-being.
+- He further notes important qualifications to the belief that global pessimism might be eroding young people’s well being. Firstly, the direction of any causal relationship between future pessimism and diminished well being can run two ways. Young people may feel pessimistic about the future because of their experience of the world now; at the same time, if depression levels are increasing in society then future visions are likely to become more pessimistic. Secondly, the wider research on well being shows that most people report satisfaction with their lives and that this is most influenced by family, work, friends and leisure. Thirdly, pessimism is only one of several cultural traits in modern Western society that are inimical to well being, including consumerism, deconstructive postmodernism and individualism.
+- Futures education has as yet to make a significant impact in schools despite a range of important initiatives instigated by committed educators in different countries (e.g., Gidley et al., 2004; Morgan, 2006). In this respect, unfortunately, I have to take issue with Slaughter (2002) who argues that there has been a shift from ‘rhetoric to reality’ in schools and that futures is emerging into the educational mainstream. The list, however, is still the ‘usual suspects’—a handful of innovative educators in the US, Australia and the UK—but not yet a sea change in the wider educational system. One of my measures of this, as I mentioned earlier, is that futures education still seldom makes it into the list of ‘issue-based educations’ that socially committed educators around the world are conversant with.
+- Global education is an interesting case in point. It is an international educational field that has at least a 30 year history, its own professional organisations and publications, conferences, alliances, documents, agendas, official policies and curriculum frameworks (Oxfam, 2006; Pike, 2000; DfES, 2005). Most of this effort is aimed at primary and secondary schools and teacher education. If there are lessons here for futures education, it could be that it may take years of dedicated work before the need for a ‘futures perspective’ is as widely accepted as the need for a ‘global dimension’ in the curriculum. This requires a younger generation of futures educators to be also involved in that struggle. An alternative, of course, is that futures educators should infiltrate other issue-based educations and ensure that they each contain a futures element (Hicks, 2004).
+- A good example of this can be found in environmental education, where a recent review of empirical studies of learners and learning (Rickinson, 2001) included a section on young people’s views of the future. Conversely, I was intrigued to read a recent biography of Elise Boulding (Morrison, 2001) which was written in terms of her contribution to peace education and feminist research but made no reference to her vital work on futures. One of the most useful entry points for those educators interested in a ‘futures perspective’ could still be global education. Pike and Selby, influential theorists in this field, have long argued for a model of global education that contains four main elements: an issues dimension; a spatial dimension; a temporal dimension; and a process dimension. This model is described in Pike and Selby (1999) together with a range of practical classroom activities.
+- Research Needed
+- The field of futures education is still under-researched and there are many crucial issues and themes awaiting investigation. Even an initial list of basic research that needs to be done (Hicks, 2006) is quite a long one (see Table 3).
+- Table 3. Research needed in futures education
+- Images of the future
+- •	How do children conceptualise time and the future and how does this vary with age?
+- • How do children’s views of the future vary by gender?
+- • How do children’s views of the future vary by social class?
+- • How do children’s views of the future vary by ethnic group?
+- • What is the nature of children’s probable and preferred futures?
+- • What emerges from cross-cultural comparisons of the above?
+- NB. Views of the future could be broken down into personal, local, national and global.
+- Media influences on images
+- What images of the future are conveyed by children’s books, comics and computer games?
+- What images of the future are conveyed by TV advertising?
+- What images of the future have been conveyed by popular movies over the last 25 years?
+- How do such images relate to issues of gender, age, class and Western culture?
+- Image and action
+- How do images of the future affect attitudes and behaviour in the present? What determines reactive or proactive stances in relation to the future?
+- What changes in attitude and behaviour arise from extended futures-orientated work in a school or classroom?
+- What do teaching materials that encourage skills of participation and responsible action look like for different age groups?
+- Resources and policy
+- What do appropriate teaching materials look like for different subject areas and how can subject specialists be encouraged to develop them?
+- Which futures methodologies are most useful in the classroom and how can they be related to a range of other learning outcomes?
+- How can head teachers, school governors and parents be persuaded of the need for a futures dimension in the curriculum?
+- What educational bodies and which key players would need to be influenced in order to gain official backing for such a dimension in the curriculum?
+- This is in no way intended to be a complete list but it highlights a range of initial research possibilities.
+- And Finally
+- There is no clear body of opinion within mainstream education that understands or supports the need for a futures perspective in schools. It is still the domain of a loose international network of socially committed educators. Future steps that need to be taken could include the following:
+- – Creation internationally of a seed group of educators specifically committed to futures education, possibly as an offshoot of the World Futures Studies Federation.
+- – Creation nationally of networks of teachers and teacher educators committed to futures education.
+- – Setting up alliances, nationally and internationally, with colleagues working in global education, social education, education for sustainability.
+- – The development of teaching materials for different age groups and subject areas that embody the principles of futures education.
+- – Working with professional groups (e.g., teachers, head teachers, subject specialists) to incorporate a futures perspective in policy documents.
+- – Offering professional development programmes to schools, local authorities, curriculum development bodies and other national bodies.
+- – Identifying key players in education who need to be inducted into the principles and practice of futures education.
+- – Circulating nationally and internationally, via conferences and newsletters, examples of successful practice at all levels of education.
+- If official recognition of a global perspective in the UK is anything to go, by achieving the same for a futures perspective could yet take some time. Is there enough commitment internationally to attempt this? Who are the key players and where are they now? Who would be natural allies? What and where are the pressure points which need to be worked on? And how can the wider field of futures studies support those working in schools and teacher education to begin such a programme?
+-
+- In discussing William Morris’s great utopian novel, News from Nowhere, Coleman and O’Sullivan (1990, p.10) write:
+- Let us imagine that life is not as it is, but as it one day might be. Let us inspect the unknown terrain of the future, as if we are about to inhabit it ... the imagined future is a subversive force: the more who imagine a different kind of future, and imagine constructively, materially and determinedly, the more dangerous utopian dreams become. They grow from dreams to aims.
+- Morris, I suspect, would be delighted to know that in the early twenty-first century these concerns are still alive and at the heart of the academic field of futures studies—and futures education in schools.
+- REFERENCES
+- Apple, M. (1993). Official Knowledge: Democratic Education in a Conservative Age. London: Routledge.
+- Apple, M. (2001). Educating the ‘Right’ Way: Markets, Standards, God, and Inequality. London: RoutledgeFalmer.
+- Bell, W. (1997). Foundations of Futures Studies (Vol. 1). New Brunswick: Transaction Publishers.
+- Bowers, C. (1997). The Culture of Denial: Why the Environmental Movement Needs a Strategy for Reforming Universities and Public Schools. Albany: State University of New York Press.
+- Brunstad, P. (2002). Longing for belonging: Youth culture in Norway. In J. Gidley & S. Inayatullah (Eds.), Youth Futures: Comparative Research and Transformative Visions (Chapter 12). Westport, CT: Praeger.
+- Coleman, S., & O’Sullivan, P. (1990). William Morris and News from Nowhere: A Vision for Our Time.
+- Bideford: Green Books.
+- Dator, J. (1998). The future lies behind! Thirty years of teaching futures studies. American Behavioural Scientist, 42, 298-319.
+- Department for Education and Skills (DfES) (2005). Developing the Global Dimension in the School Curriculum. London: Qualifications and Curriculum Authority.
+- Eckersley, R. (1999). Dreams and expectations: Young people’s expected and preferred futures and their significance for education. Futures, 31, 73-90.
+- Eckersley, R. (2002). Future visions, social realities, and private lives: Young people and their personal well-being. In J. Gidley & S. Inayatullah (Eds.) Youth Futures: Comparative Research and Transformative Visions (Chapter 3). Westport, CT: Praeger.
+- Fitch, R., & Svengalis, C. (1979). Futures Unlimited: Teaching About Worlds to Come. Bulletin Washington DC: National Council for Social Studies.
+- Fountain, S. (1990). Learning Together: Global Education 4–7. Cheltenham: Stanley Thornes. Gidley, J., & Inayatullah, S. (Eds.) (2002). Youth Futures: Comparative Research and Transformative Visions. Westport CT: Praeger.
+- Gidley, J., Bateman, D., & Smith, C. (2004). Futures in Education: Principles, Practice and Potential.
+- Australian Foresight Institute, Melbourne: Swinburne University of Technology.
+- Giroux, H. (1992). Border Crossings: Cultural Workers and the Politics of Education. London: Routledge.
+- Gough, N. (1990). Futures in Australian education: Tacit, token and taken for granted. Futures, 22, 298-310.
+- Hicks, D. (2001). Citizenship for the Future: A Practical Classroom Guide. Godalming: World Wide Fund for Nature UK.
+- Hicks, D. (2006). Lessons for the Future: The Missing Dimension in Education. Victoria, BC: Trafford Publishing.
+- Hicks, D. (2004). Teaching for tomorrow: what can futures studies contribute to peace education? Journal of Peace Education, 1(2), 165-178.
+- Hicks, D., & Holden, C. (1995). Visions of the Future: Why We Need to Teach for Tomorrow. Stoke-on- Trent: Trentham Books.
+- Hicks, D., & Holden, C. (Eds.) (2007). Teaching the Global Dimension: Key Principles and Effective Practice. London: RoutledgeFalmer.
+- Hicks, D., & Slaughter, R. (Eds.) (1998). Futures Education: The World Yearbook of Education 1998. London: Kogan Page.
+- Hutchinson, F. (1996). Educating Beyond Violent Futures. London: Routledge
+- Milojević, I. (2002). Futures of Education: Feminist and Post-Western Critiques and Visions. PhD thesis, Brisbane: University of Queensland.
+- Morgan, A. (2006). Teaching geography for a sustainable future. In D. Balderstone (Ed.), Secondary Geography Handbook (Chapter 23). Sheffield: Geographical Association.
+- Morrison, M. (2001). The life of Elise Boulding: Educating towards a culture of peace. Vitae
+- Scholasticae, Spring, 7-21.
+- Oehlers, A. (2002). Imagining the future: Youth in Singapore. In J. Gidley & S. Inayatullah (Eds.) Youth Futures: Comparative Research and Transformative Visions (Chapter 9). Westport, CT: Praeger.
+- Orr, D. (1994). Earth in Mind: On Education, Environment and the Human Prospect. Washington DC: Island Press.
+- Oscarsson, V. (1996). Pupils’ views of the future. In A. Osler, et al. (Eds.) Teaching for Citizenship in Europe (Chapter 18). Stoke-on-Trent: Trentham Books.
+- Oxfam (2006). A Curriculum for Global Citizenship. Oxford: Oxfam.
+- Page, J. (2000). Reframing the Early Childhood Curriculum: Educational Imperatives for the Future. London: RoutledgeFalmer.
+- Pike, G. (2000). Global education and national identity: In pursuit of meaning. Theory into Practice, 39(2), 64-74.
+- Pike, G., & Selby, D. (1999). In the Global Classroom (Vol. 1). Toronto: Pippin.
+- Publishing Qualifications and Curriculum Authority (2006). Futures Progamme. Available online at: www.gca.org.uk/11232.html.
+- Rickinson, M. (2001). Learners and learning in environmental education: A critical review of the evidence. Environmental Education Research (special issue), 7(3), 207-317.
+- Riley, K. (1989). Towards Tomorrow. New York: Scholastic.
+- Rubin, A. (2000). Growing Up in Social Transition: In Search of a Late-Modern Identity. Turku: University of Turku.
+- Slaughter, R. (2002). From rhetoric to reality: the emergence of futures into the educational mainstream. In J. Gidley & S. Inayatullah (Eds.) Youth Futures: Comparative Research and Transformative Visions (Chapter 14). Westport, CT: Praeger.
+- Slaughter, R., & Bussey, M. (2006). Futures Thinking for Social Foresight. Tamsui, Taiwan: Tamkang University Press.
+- Wright, D. (2002). Japanese youth: rewriting futures in the ‘no taboos’ postbubble millennium. In J.
+- Gidley & S. Inayatullah (Eds.) Youth Futures: Comparative Research and Transformative Visions (Chapter 7). Westport, CT: Praeger.
+- AFFILIATIONS
+- is Professor in the School of Education at Bath Spa University. He is internationally recognised for his work on the need for a global and futures dimension in the curriculum and is particularly interested in ways of helping students and teachers think more critically and creatively about the future. He has published widely in the fields of futures education and global education. His most 88
+-
+- recent books are Teaching the Global Dimension: Key Principles and Effective Practice, with Cathie Holden (RoutledgeFalmer, 2007), Lessons for the Future: The Missing Dimension in Education (Trafford Publishing, 2005), and Citizenship for the Future: A Practical Classroom Guide (World Wide Fund for Nature UK, 2001).
+- 89
+-
+- Futures Education - Catalyst for our Times - Slaughter 2008.pdf
+- Abstract
+- Abstract
+- Since the 1960s many people have attempted to introduce different aspects of futures into education but surprisingly few initiatives have survived. The paper considers one that took place in Queensland in the late 1990s. It suggests why bureaucracies have thus far mishandled such socially vital innovations and comments on the social and human costs. Factors from commerce, pedagogy and the global system are advanced to sug- gest why futures need to become a mainstream concern in education systems at all levels.
+- Keywords: futures education, bureaucracy, case study
+-
+- Quote from Pre-Pilot Senior Syllabus in Futures, Board of Senior Secondary School Studies, Brisbane, April 1998, pp. 1-2
+- Preamble
+- The study of Futures is intellectually stimulating and seeks to empower students. It draws on the innate capacity of the human mind to engage in foresight, or futures thinking enhanced by concepts, tools and techniques. When this enhanced capacity to engage with 'the future' is implemented in specific areas ... Futures can contribute substantially to social and economic well-being. Students who take this course will be encouraged to transform their view of the world. As they develop informed foresight about the 21st century they may experience many shifts of value, focus and atti- tude and they should discover that most fears, negative attitudes and 'doomsday' images of the future rest on misperceptions. In learning how present actions will shape future consequences, stu- dents gain access to new sources of understanding and action...
+- Futures also address the critical issues of late adolescence and provides a valuable preparation for working life. Therefore, instead of looking ahead to the world beyond school with anxiety and fear, students will be able to look ahead with much greater clarity and confidence. Such attitudes and skills clearly provide a sound basis for decision making...
+- Citizens of tomorrow need to be prepared for a world which will be significantly different from the world of the 1990's: a world characterised by rapid technological change, major environmental challenges, globalism and expanding information net- works. This syllabus provides the opportunity for students to develop the skills that will enable them to develop leadership in shaping their own future and Australia's.
+- Pre-Pilot Senior Syllabus in Futures, Board of Senior Secondary School Studies, Brisbane, April 1998, pp. 1-2
+-
+- The Story that Connects
+- The range of change processes can appear bewildering because they operate across many different domains. That is why change analysts and foresight practitioners have adopted various methods for managing this complexity. 1
+- A central claim of this article is that, equipped with this resource, it is well within the capacity of human societies to respond. A well-grounded and informed futures perspective goes a long way beyond allowing us to propose a variety of actions to preserve the environment, vital as this is. It also provides the tools to understand deeper issues like the fallacies of economic growth and discerns some of the more subtle drivers of unsustainable outlooks within the heart of the Western worldview itself (Berman, 1981; Slaughter, 2004).
+-
+-
+- How Bureaucracies De-focus the Future And Undermine Innovation
+- How Bureaucracies De-focus the Future And Undermine Innovation
+- The first, fairly obvious, point to make is that bureaucracies are not designed to to be forward thinking. They exist to carry out a range of administrative tasks in the here and now as dictated by past practice and current political realities. The Directors and CEOs of such organisations must first and foremost serve their current political masters or they are quickly out of a job. In working with such entities it is striking to see how the focus of attention is not only short-term but also largely internal.
+- Broadly speaking they are not densely connected to the wider world but operate unthinkingly within a pre-defined sense of what has been called 'bounded rationality'. They are pro- foundly rational, and there are reasons for everything, but reality is deeply filtered and simplified. There are two immediate implications for the topic under discussion.
+- First, approaches to 'the future' when they do occur, tend to be stereotypical.
+- Second, as I will show below, innovations with any potential for deep-seated change are quickly marginalised.
+- Over several decades what has become clear is that government departments, bureaucracies, decision-makers in school systems are far more comfortable with initiatives addressing the futures of education. The basic reason for this is that such exercises are largely extrapolative, tend not to question bureaucratic assumptions and do little to question or challenge existing educational practice. On the other hand, approaches that consider futures in education introduce dynamic new features into present-day administration, theory and practice. Thus, overall, it tends to end up in the 'too hard' basket despite its many positive implications (Hicks, 2002; Gidley et al., 2004).
+- A second point about bureaucracies is that they do not welcome innovations 'from the outside', as it were. Many futures initiatives I've known of, or been involved in, worked very well at the school level and were enthusiastically embraced. But as soon as one moves beyond particular schools to the system level everything changes. Here futures in education initiatives seem to vanish like smoke on a windy day and are seen no more. Perhaps the central reason for this is that school systems are governed, in turn, by two powerful sets of background forces that have no real interest at all in education or, indeed, our collective futures. Those forces are politics and economics. In fact education, politics and economics are themselves mediated through an ideological framework that has become hegemonic over recent decades (Milojevic, 2005). This managerialist, market oriented, growth-addicted view of the world has actively worked to de-focus and hold back many useful social innovations, not only this one (Fisher, 2006). The result is that teachers in schools (and let us not forget, teachers and learners in very many other locations) have been undermined by these background forces that all-too-often lie out of sight and unregarded. Bringing futures work in education back into focus and freshly comprehending its individual and cultural value is indeed a challenging task. Yet it is a vital step toward a worthwhile future for humankind.
+-
+- A specific example - Board of Senior Secondary School Studies (BSSSS)
+- A specific example occurred in Queensland, Australia, during the mid-1990s when I made many trips from Melbourne to Brisbane to chair a committed convened by the then Board of Senior Secondary School Studies (BSSSS). The committee had been formed following a government report that had recommended a more explicitly futures-oriented approach (Queensland Government, 1994). The result, after about two years' work was a detailed outline of a two-year subject for Years 11 and 12 called: Futures Personal, Social, Global (BSSSS, 1995). The subject was put out for trial in a number of Queensland schools and a formal evaluation was undertaken (Underwood, 1996).
+-
+- reasons provided to the official evaluator by the schools for choosing to trial the draft subject:
+- It's worth noting some of the reasons provided to the official evaluator by the schools for choosing to trial the draft subject:
+- 􏰀 at each school there is a teacher or teachers enthusiastic about the challenge of this innovative syllabus;
+   -
+- 􏰀 the subject is seen as a means of making available the skills of the humanities' disciplines as students move from traditional disciplines to new technology based subjects;
+   - �
+- ��� Futures is seen as being relevant to the needs of students in a changing world. They will learn to cope with change by understanding it; and
+   - �
+- � The subject offers opportunity for students to acquire and develop in the areas of basic competencies and the core curriculum elements (p. 3).
+   -  
+   -
+-
+- reaso
+- ns given by students themselves for wishing to take the subject
+   - Equal
+- ly interesting are the reasons given by students themselves for wishing to take the subject:
+   - 􏰀
+- the content of the course is appealing;
+   - 􏰀 th
+- e belief that students should develop an active relationship with the future;
+   - 􏰀 (it
+- is) the best subject available on the subject choice line;
+   - 􏰀 the be
+- lief that it would help them to get an overall position in the Student Evaluation Profile needed to obtain tertiary entrance; and
+   - 􏰀 the expe
+- ctation that it would be helpful or needed in a future job (p. 4).
+   - 
+   - summary of
+- the
+- evaluation
+   - While it can be
+- argued that creating a new Futures subject is not the only, nor even the best option, clearly this one was going to be a success. The summary of the evaluation highlighted the following points:
+   - 􏰀 an 'encour
+- aging number of students' had taken part;
+   - 􏰀 the teachers
+- involved were 'highly qualified in a number of disciplines';
+   - 􏰀 there was 'fav
+- ourable parent reaction' to the work carried out;
+   - 􏰀 the trial subjec
+- t offered 'attractive and innovative learning experiences';
+   - 􏰀 teachers were havi
+- ng 'some difficulties with the assessment of students in group work';
+   - 􏰀 there were some conc
+- erns about 'insufficient detail in the curriculum document'; 
+   - 􏰀 also, 'locating and ad
+- apting resources for classroom use are concerns';
+   - 􏰀 yet there was also an im
+- pressive enthusiasm for the new subject amongst Administrators, Heads of Department and Teachers; and, finally,
+   - 􏰀 'this new and innovative s
+- ubject is being enthusiastically received in the trial schools and, though there have been some difficulties and concerns, is progressing satisfactorily' (p. 10).
+   - 
+   - 
+   - Student reflection on Qld
+- BSS
+- SS f
+- utures subject experiment
+   - She wrote:
+   -  This has been a ve
+- ry empowering
+- experience for myself, as this (subject) created an opportunity for the advantages of the internet to be experienced first-hand. The due date provided just that little bit of extra inspiration. However, this driving force was ultimately eclipsed by the motivation from the desire to achieve something that I have never tried before. It really opened my eyes. Having the occasion to teach others about the Futures Field forced me to re-think what it means to me, and my relationship with its role now and in the future. In a sense it restored a feeling of 'awe' that I initially experienced when I first encountered the field, and has cleared away a lot of the baggage and associations that accumulated throughout the year. The fact that it has occurred through a blossoming and thriving new medium has been a bonus and I feel that I have learned a great deal about my own capabilities... (Rundle, 1996).
+   - 
+   - 
+   - 'Joining the Dots' throug
+- h En
+- viro
+- nmental Scanning and Strategic Foresight
+   - If there is a summary statement t
+- hat describes the predicament of school systems today it is that they are still caught up in 'past perceptions of problems'
+   - 'Joining the Dots' through Enviro
+- nmental Scanning and Strategic Foresight
+   - If there is a summary statement t
+- hat describes the predicament of school systems today it is that they are still caught up in 'past perceptions of problems'. 
+   - As time goes by it becomes increa
+- singly clear that the lack of an explicit futures perspective in any curriculum – be it 'traditional' or 'progressive' - leads to the same general consequences, ie, a new generation of students lacking any real grasp of the human predicament and of the ways it can be addressed. 
+   - 
+   - First, for any organisation i
+- nter
+- ested in understanding broad processes of change, systematic scanning of the environment (a precursor to disciplined forward thinking) is both possible and highly desirable. Second, the skills involved have been around for some time, are not particularly esoteric and could easily be widely adopted if the will was there to do so. Consider, therefore, the following passage that describes a typical early morning meeting at a large international merchant bank:
+   - ...Seated round the table are peo
+- ple who have got to the top of their product speciality at the world's biggest financial players. These people know what they are doing, and they know everything there is to know about their product area. They get together daily; they are not discussing the weather or the sports scores, they are discussing business threats and opportunities, 'anticipated market movements' to use one of their favourite phrases. These are real-life, dynamic meetings not dull bureaucratic risk-control affairs. These are firms in a state of 'constant communication' ... not just in the meetings but outside too, using the informal networks that the organisational structure develops...This is an industry taking a great deal of trouble to join up the dots at every conceivable level (Augar, 2006, p. 113).
+   - Although I've not visited more th
+- an a tiny fraction of the world's educational bureaucracies, I'd venture to suggest that not one of them has meetings of this kind anywhere, at any time, whose purpose is to scan broadly and 'connect the dots'. We've already seen why. Like the governments they serve, [educational bureaucracies[ are simply not alert to dynamic shifts in the macro-environment. Nor, on the whole, do they have the skills that this alertness requires. 
+   - Bureaucracies serve as agents of
+- government policy for social administration in the here and now. In this role of 'minding the shop' they have no interest in, nor any capability for, forward thinking. It is simply not within their remit or job description. One could argue that they are concerned with continuity, not with change. So when ideas, people, books, curriculum innovations with some of these features appear, a well-oiled 'immune system' not dissimilar to the white cells in the human bloodstream, is activated and the 'invaders' are repelled. Yet for those with eyes to see, historically unprecedented changes can be clearly discerned 'in the pipeline' or, to change the metaphor, 'tsunamis of change' can be seen moving steadily toward us from the near future (Dator, 1992). What therefore are some appropriate responses?
+   - Forward-looking Educational Respo
+- nses
+   - A number of educational thinkers
+- and writers have addressed this issue and come to similar conclusions. For example, Peters covers much of the relevant territory in his paper on Educational Policy Futures (Peters, 2005). What is clear from this and simi- lar sources is that the grounds for including explicit futures perspectives within educational administration and school curricula are now compelling. Ironically, this case was made quite explicitly in what became known as the Wiltshire Report commis- sioned by the Queensland Government in the 1990s (Queensland Government, 1994). An overview document states very clearly that 'the Panel recommends that every syl- labus in every subject should have a futures perspective, tackling new timely topics and crucial current social issues' (p. 5). One reason this did not occur is that there was no real support for it in the bureaucracy, which continued along its well-worn 'busi- ness-as-usual' path, with the results discussed above.
+   - In contrast to this sad and famil
+- iar picture it seems rather obvious to suggest that educational bureaucracies need to be re-designed (not re-structured along similar lines) for a very different world. It is a world that is, or should be, informed by what I termed 'the story that connects'. It is simply no longer good enough for large-scale economic interests to draw on advanced thinking and innovative practice for commer- cial gain while educational interests continue to lag decades behind. The environmen- tal scanning capabilities, the same global connectivity and the sense of urgency to 'connect the dots' should now be designed into school systems. This means new struc- tures, new operational units, new job descriptions and a new, or renewed, sense of 'what education is about' in the early 21st Century (Beare & Slaughter, 1993).
+   - Another way to approach this ques
+- tion at the system level is to consider how strategic foresight differs from old-style planning. One definition of strategic foresight is:
+   - The ability to create and maintai
+- n high quality, coherent and functional forward views and to use the insights arising in organisationally useful ways. For exam- ple, to detect adverse conditions, guide policy, shape strategy, and to explore new markets, products and services (Slaughter, 1999, p. 287).
+   - Most, if not all, educational bur
+- eaucracies have some sort of planning and / or strategy function, albeit one that is inward looking and stereotypical. On the other hand our understanding of foresight has developed rapidly in recent years and we can now regard it as a human capacity with considerable power when it is properly devel- oped and applied. Thus, the process of adding 'foresight' to planning and / or strategy is profoundly enlivening and can readily be seen to 'refresh' the latter. It does do by bringing into play ideas, methods and capabilities that had earlier been overlooked. Moreover, there are sufficient case studies available to demonstrate these gains in capability very clearly (Slaughter, 2007). Such changes are needed at the highest lev- els – from ministers to department heads to professors in universities – before innova- tions at the school level can thrive.
+   - Thus far I've argued that FE is m
+- andated by threats to human civilisation that are now rebounding upon humanity from an over-stressed global system. But we should also be clear that the intrinsic value to young people provides equally powerful grounds for innovations of this kind.
+   -   What Does Futures In Education
+- Offer Young People?
+   - Again, this is not new. The many
+- constructive consequences of teaching and learning explicitly within a futures mode are well understood and documented (Hicks, 2002). It has long been understood that for young people 'the future' is a topic of deep and abiding concern. For example, one researcher looking at the experiences of teenage girls recently reported that: 'every single girl had these massive feelings of doubt. A lot of them ask: "what am I doing here? Do I have a future and what is it?" ' (Sullivan, 2007) All are, quite reasonably, interested in the unfolding of their own lives and not a few can see that there are a number of issues that give rise to concern, if not outright fear.
+   - Unfortunately, however, it has be
+- en the case that young peoples' images of futures are largely and one-sidedly derived from the mass media: films, computer games, TV and Internet subcultures, with few resources available to process or mediate their implicit and explicit content, and with all-too-familiar results. A 2007 survey found that:
+   - The future most young Australians
+- want is neither the future they expect nor the future they are promised under current national priorities... Most ... see the expected or probable future of humankind largely in terms of a continuation or worsening of today's global and national problems and difficulties. The probable future is also the problematic future (Eckersley et al, 2007, p. 13).
+   - While such images are certainly n
+- ot without value when considered carefully, they also tend to exert a distinctly negative influence. Hence many young people grow up fearing the future, learning to avoid it, and unaware of either its positive potentials or the many ways that they could act to address issues of concern. On the other hand, FE provides the perspectives and understandings that provide a basis for many long- term solutions to the human predicament: active foresight, sustainable cultures, stew- ardship of the Earth. If we recall the 'feeling of awe' and the 'clearing away of (mental) baggage' mentioned above by the student from a trial school, one can readily detect the kind of fruitful engagement between alert youngsters and the challenges ahead that stand at the heart of 'effective schooling'.
+   - What's currently missing from edu
+- cational thinking and practice is a specifically futures discourse. It is absent from the highest levels of executive decision making, from universities and professional associations and also from classrooms. Yet it is growing mastery here that actually provides the symbolic starting points to move 'the future' from being a domain of fear and avoidance to one of agency and personal power. The point is that even a very basic familiarity with, and competence in, a futures discourse has catalytic effects. In a nutshell, and most centrally, it 'unlocks' the Futures domain and catalyses human and social potential. What does this mean? Ideas that seemed vague are clarified (eg, how human foresight can become a princi- ple of great social utility and power); global problems that seemed 'too hard' now admit a range of solutions (eg, peak oil and alternatives for an over-dependent world); the links between individual and collective action are revealed (eg, how political sys- tems can be influenced through various forms of 'right action') and so on. It is appropriate, therefore, to return to the 'good news' mentioned above, ie, the starting points for a futures discourse are simple, straightforward and well within the capacity of every young person. Given the chance, all young people can understand concepts such as the following:
+   - 􏰀 the use of foresight in ever
+- yday life;
+   - 􏰀 the use of different time fram
+- es for different purposes;
+   - 􏰀 exploring the 200 year present (
+- stretching 100 back and forward); 􏰀 the use of simple tools such as time lines and futures wheels; and 􏰀 how to change fears into motivation.
+   - This is merely a small sample of the resour
+- ces available (Slaughter & Bussey, 2006).
+   - At first sight, and without the symbolic su
+- pport of a futures discourse, the futures domain may appear either threatening or 'empty'. Yet the latter is an illusion woven from habit, linguistic traps (such as past, present, future tenses) and cultural assump- tions that have not been clearly reflected upon, problematised and re-framed. Solutions are not distant but, in fact, surprisingly close at hand. Anyone who looks at daily life carefully enough soon discovers that without a very personal mastery of applied foresight no one would rise from their bed each day. No one would go to school or work because they'd have lost all motivation and purpose. It's the fact of having an open future that makes it possible, indeed, requires us, to think, evaluate and plan ahead in virtually everything we do. Understanding this makes it a good deal easier to explore the implications of futures enquiry and informed action at the organi- sational and social levels.
+   - The key point is this: exploring the future
+- s domain at a range of levels provides some of the most valuable ways to get to grips with human life and culture in time. Despite a current preoccupation with 'back to basics' in school curricula around the world and the false sense of security that it provides to some, forward thinking should be seen as a core skill, requirement and focus at every level of every school system. This was the conclusion reached by the Wiltshire Report in Queensland in 1994 and subsequent events have only served to confirm its veracity. Executive decision-makers need an immersion in Futures so that they can become attuned to the meaning of sig- nals of change in the wider world. Teacher educators need it because successive gen- erations of teachers are preparing young people for a progressively altered world. Young people themselves need it because they face a number of powerful systemic challenges, any of which could bring the species to its knees, and they need to be pre- pared (Slaughter, 2006).
+   - Beyond denial, avoidance and repression
+   -
+- It was suggested above there have been many
+- curriculum innovations directed at bringing futures thinking and perspectives into educational thinking and practice but hitherto they have generally been marginalised. The Queensland trial subject in Futures is a case in point. The common strategies of denial, avoidance and repression of unwanted knowledge screen out uncomfortable truths at every level and in every sector of society. Now, however, 'signals' from the global system regarding conflict, climate change, water supply, chronic over-dependence on cheap oil – these and many others – are confronting everyone with facts that can no longer be ignored. We are liv- ing through the most profound, many-stranded, global transition in history. It is one in which the human species needs to pay close attention to the many 'signals' emerging from the global system. According to the Meadows team three basic responses are available:
+   - 􏰀 deny, disguise or confuse the signals;
+- 􏰀 alleviate the pressures from limits by t
+- echnical or economic fixes; or
+   - 􏰀 acknowledge that the human socio-economic
+- system as currently structured is
+   - unmanageable and seek to change the structure of
+- the system. (Meadows, 2005,
+   - pp. 235-6)
+   - Any look at the mass media will fin
+- d the first so
+- lution highlighted clearly and
+   - often. A particularly obnoxious example is The Au
+- stralian newspaper's monthly glossy high-end publication called Wish Magazine. At an estimated cost of perhaps Aud$2 million per year, it engages the best visuals and advertising talent to, in effect, push the message that 'you, too, deserve the very same lifestyles as the rich and famous.' It is a futile and counter-productive message that perversely works against any shared social interest in a more sane and equitable world. Why? Because, if we were smart, we would not be expending wealth generated during the temporary sum- mer of oil's peak on further stimulating yet higher levels of consumption. Instead we'd be investing those very same temporary riches in adapting to a changed world. Similarly, a quick scan of the news will reveal many technical and economic fixes designed to facilitate more growth and development in an already-stressed system. The third response – changing the structure of the system – is currently beyond the capability of present day decision-making, even though it is where we need to go. The fact is that it may only be invoked when one or more sufficiently serious 'inflections' in the world system (such as a stock market crash, a human pandemic or a large-scale environmental catastrophe) reveal the poverty of present practices. Clearly 'social learning' of this magnitude will be a very expensive exercise indeed. But we would be foolish to merely sit back and wait...
+   - To deal successfully with global challenges of th
+- e scale we are facing requires much broader understanding of the human context than currently exists in govern- ments and bureaucracies anywhere. Societies need time to respond. If it is only through the careful use of informed foresight that we can create time and space to deal with such complicated and challenging issues, then the sooner school systems begin using and teaching it at every level, as appropriate, the better. Clearly, we are not speaking here merely about a curriculum change but changes in the deep structures of our understanding of the world (Wilber, 1995).
+   - Conclusion
+   - School systems have been run, by an
+- d large, as if
+- the future remained open and unproblematic. That was once a reasonable assumption but it no longer is. The future of humanity is currently under greater threat than most are willing admit. Yet as the costs of not understanding the 'great transition' progressively mount, so the rationale for thinking ahead becomes increasingly obvious. School systems need to face these facts. They need a more dynamic and responsive structure, including their own envi- ronmental scanning systems that are different from, but as effective as, those routinely operated in commercial environments. They need to value and use the futures frame- works, methods and tools that have been available for some time. Beginning teachers need to be introduced to futures concepts and tools suitable for classroom use. They also need to develop their own specifically futures-oriented understanding more fully than ever before
+   - It is only when changes of this kind are well und
+- er way that school systems can legitimately claim that they are preparing young people appropriately for their future lives. Only then will young people begin to be properly equipped for the manifestly challenging tasks ahead. The 'bottom line' is that there is nothing inevitable about the journey of the human race from its origins in the distant past onward into the future. Equally, however, there is nothing inevitable about the current 'overshoot and collapse' trajectory, the 'fall into Dystopia', either. While schools are by no means the only, or even the most powerful, actors involved it seems to me that they have a pivotal role to play in helping humanity decide just how to respond to the growing global dilemma that surrounds us.
+   - 
+   - Correspondence
+   - Richard A. Slaughter
+   - PO
+- Box
+- 793, Indooroopilly
+- , Queensland 4068, Austr
+- alia Email: rslaughter@ozemail.com.au
+   - Web: http://www.foresightinternational.com.au
+   -
+- Notes
+   - 1. The term STEEP was developed to t
+- rack
+- 'signals
+- of change' in relation to: Social, Technological, Economic, Environmental and Political factors. There are, in fact, several such acronyms but all have the same underlying purpose.
+   - 2. Wendell Bell's opus, The Foundations of Future
+- s Studies, vols 1 & 2 (Bell, 1997, 2003), and especially volume 2: on values, objectivity and the good society, provide a valuable and informed overview of some of the 'big questions' of our time as viewed from a specifically Futures viewpoint.
+   - 3. The work in question is Donnelly, K. Dumbing D
+- own (Donnelly, 2007), a barely literate polemic purporting to identify a left-wing conspiracy to take over the school curriculum. Soon after publication its thesis was convincingly rebutted by historian Stuart Macintyre. (Macintyre, 2007)
+   - 
+   - 
+   - References
+   - References
+   - Augar, Philip
+- . (2
+- 006)
+- . The greed me
+- rchants. Londo
+- n: Penguin.
+   - Beare, Hedley & Richard Slaughter. (1993). Educat
+- ion for the 21st Century. London: Routledge.
+   - Bell, Wendell. (2003, 2004). Foundations of futur
+- es studies. Vols. 1 & 2, New Brunswick: Transaction Press.
+   - Berman, Morris. (1981). The reenchantment of the
+- world. Ithica and London: Cornell University Press.
+   - Board of Senior Secondary School Studies Queensla
+- nd. (1995). Trial Syllabus in Futures. Brisbane.
+   - Dator, James. (1992). Surfing the tsunamis of cha
+- nge, paper for symposium 'Construction Beyond 2000'. Finland: Espoo.
+   - Donnelly, Kevin. (2007). Dumbing down: Outcomes-b
+- ased and politically correct-the impact of the culture wars on our schools. Melbourne: Hardie Grant.
+   - Eckersley, Richard, H. Cahill, A. Wierenga, & J.
+- Wyn. (2007). Generations in dialogue about the future: The hopes and fears of young Australians. Canberra: Australia21.
+   - Fisher, Frank. (2006). Response ability. Melbourn
+- e:Vista.
+   - Gidley, Jenny, Caroline Smith, & Debra Bateman. (
+- 2004). Futures in education: Principles, practice and potential. Australian Foresight Institute Monograph 5, Melbourne. Available at: http://www.swin.edu.au/agse/courses/foresight/monographs.htm 
+   - Hamilton, Clive, & Richard Denniss. (2005). Afflu
+- enza. Sydney: Allen & Unwin. 
+   - Hicks, David. (2002). Lessons for the future. Lon
+- don: Routledge.
+   - Kunstler, James. (2005). The long emergency. Lond
+- on:Atlantic Books.
+   - Macintyre, Stuart. (2007). Polemic fails its own
+- test. Australian Literary Review. 7th March, pp. 12-13.
+   - Meadows, Dennis, Donella H. Meadows, Dennis L. Me
+- adows, Jorgen Randers, & William W. Behrens III. (1972). The limits to growth. New York: Universe Books.
+   - Meadows, Dennis, Donella H. Meadows, Jorgen Rande
+- rs, & Dennis L. Meadows. (2004). The limits to growth: 30 Year Update. London : Earthscan.
+   - Milojevic, Ivana. (2005). Educational futures: Do
+- minant and contesting visions. London: Routledge.
+   - Peters, Michael. (2005). Educational policy futur
+- es. In Richard, Slaughter, Inayatullah, Sohail and Romos, & Jose. (Eds.), Knowledge base of futures studies, vol. 5: Synergies, case studies and implementation. CD-ROM, Brisbane: Foresight International.
+   - Queensland Government. (1994). Shaping the future
+- , overview of the review of the Queensland School curriculum. Brisbane (AKA The Wiltshire Report).
+   - Rundle, Kathleen. (1996). Curriculum futures expe
+- riment in Queensland. unpublished ms.
+   -  Sardar, Zia, & Merril Davies. (2004). American d
+- ream – global nightmare. London: Icon. Slaughter, Richard. (1999). Futures for the third millennium – enabling the forward view.
+   - Sydney: Prospect.
+   - Slaughter, Richard. (2004).
+- Futures beyond dystop
+- ia: Creating social foresight. London:
+   - Routledge. Available on CD-ROM at: http://www.for
+- esightinternational.com.au Slaughter, Richard. (2006). Living in a world on the edge. Paper for Ideas Festival.
+   - Brisbane, 2006. Available on line at: http://www.
+- foresightinternational.com.au Slaughter, Richard, & Marcus Bussey. (2006). Futures thinking for social foresight. Taiwan: Tamkang University. Available on CD-ROM at: http://www.foresightinternational.com.au
+   - Slaughter, Richard. (Ed.). (2007). AFI Monograph
+- Series, vols. 1-10, Melbourne:
+   - Swinburne University. Available in pdf form from:
+- http://www.swin.edu.au/agse/ courses/foresight/monographs.htm
+   - Steffan, Will, Angelina Sanderson, Peter Tyson, J
+- ill Jager, Pamela Matson, Berrien Moore III. et al. (2005). Global change and the earth system: A planet under pressure. Berlin: Springer Verlag.
+   - Sullivan, Jane. (2007). Schoolgirl crushers. The
+- Age, A2 section, 21 April, pp. 12-13. Underwood, Frank. (1996). Evaluation of the trial syllabus in senior futures. Brisbane: Interim Report 1, BSSSS.
+   - Wilber, Ken. (1995). Sex, ecology, spirituality:
+- The spirit of evolution. Boston: Shambhala.
+   - Journals and Articles
+   - Journal of Future Educat
+- ion
+   - Futures & Foresigh
+- t journals
+   - World Future Revi
+- ew
+   - European Journal of Future
+- s Research
+   - Journal o
+- f Futures Studies
+   - Futures
+   - Educatio
+- n Journals
+   - International Jo
+- urnal of Le
+- arning Teaching and Ed
+- ucation Research
+   - Policy Futures in Education
+   - Journal of Curricu
+- lum Studies
+   - Youth Journals
+- Journal of Youth Development
+   -
+- Other
+   - Systems
+- Thinker
+   - Resources - Teaching
+- & Learnin
+- g
+   - Digital, ICT &
+- Software
+   - Arg Maps - Tim van Gel
+- der
+   - cMap Tools - concept
+- maps
+   - Federated Wiki - War
+- d Cunningham
+   - Wiki
+   - OneNo
+- te
+   - Collaborative, asynchronous do
+- cument w
+- riting
+   - G
+- it
+   - untitled
+   - Journals & Magazine
+   - Books
+- Activ
+- ities & Curr
+- icula
+   - Teach the Futu
+- re
+   - Res
+- ources - Funding & Support
+- Government suppo
+- rt
+   - Education bodies funding op
+- ps
+   - Futures orgs
+   -
+- Future of Life.org
+   - Other
+   - To
+- research - term
+- s, authors, concepts,
+- articles
+- Octavia E Butler
+   - Female, black Sci-Fi writer
+- - diversity of c
+- haracter
+   - 
+   - https://www.you
+- tube
+- .com/watch?v=X6YI8lsjJJA&f
+- eatu
+- re=youtu.be&utm_source=TED-Ed+Subscribers&utm_campaign=94d97f3e2b-2013_09_219_19_2013_COPY_01&utm_medium=email&utm_term=0_1aaccced48-94d97f3e2b-48578309&mc_cid=94d97f3e2b&mc_eid=9ef78316ee
+   - 
+   - prediction of Donald Trump-like character, am
+- ongs
+- t other things
+   - References to obtain
+   - Board of Senior Secondary
+- School Studies Queensla
+- nd. (1995). Trial Syllabus in Futures. Brisbane.
+   - Underwood, Frank. (1996). Evaluation of the trial
+- syllabus in senior futures. Brisbane:
+   - Interim Report 1, BSSSS.
+   - Rundle, Kathleen. (19
+- 96). Curriculum futures expe
+- riment in Queensland. unpublished ms.
+   - Knight, BA, Rowan, L, Researching Futures Oriente
+- d Pedagogies; philpapers.org; 2000
+   - Youth futures: Comparative research and transform
+- ative visions. Inayatullah and Gidley
+   - Educating for the Future: A practical classroom g
+- uide. Hicks. 1994
+   - Educating for the 21st Century
+   - Perspectives, P
+- olicies and Practices from Around
+- the World. 
+   - Editors: Choo, S., Sawch, D., Villanueva, A., Vin
+- z, R. (Eds.) Springer.
+   - https://www.springer.com/gp/book/9789811016714
+   -
+- - Weiss, R. S. (1994). Learning from Strang
+- ers:
+- The
+- Art and Method of Qualitative Interview Studies.
+   - New York: Free Press.
+   - Tony Judge's  Envisionin
+- g Conferencing: Aesthetic
+- s of Governance, for more on metaphors and reality.
+   - Academic knowledge construction and multimodal cu
+- rriculum development
+   - https://usc-edu-primo.hosted.exlibrisgroup.com/pr
+- imo-explore/fulldisplay?docid=61USC_ALMA2116784790002621&context=L&vid=61USC&search_scope=USC_Blend&tab=usc_blend&lang=en_US
+   - 
+   - Transforming the future of learning with educ
+- atio
+- nal research
+   - https://usc-edu-primo.hosted.exlibrisgroup.com/pr
+- imo-explore/fulldisplay?docid=61USC_ALMA2117264670002621&context=L&vid=61USC&search_scope=USC_Blend&tab=usc_blend&lang=en_US
+   - Complex educational design: a course design model
+- based on complexity/Freire, Maximina Maria
+   - https://usc-edu-primo.hosted.exlibrisgroup.com/pr
+- imo-explore/fulldisplay?docid=TN_emerald_s10.1108/10650741311330357&context=PC&vid=61USC&search_scope=USC_Blend&tab=usc_blend&lang=en_US
+   - 
+   - Participatory educational design: How to impr
+- ove
+- mutual learning and the quality and usability of the design?/Janssen, Fred J. J. M. ; Könings, Karen D. ; Van Merriënboer, Jeroen J. G.
+   - https://usc-edu-primo.hosted.exlibrisgroup.com/pr
+- imo-explore/fulldisplay?docid=TN_wj10.1111/ejed.12229&context=PC&vid=61USC&search_scope=USC_Blend&tab=usc_blend&lang=en_US
+   - 
+   - Wendell Bell
+   - Michael Young
+   - The curricul
+- um o
+- f the future: fr
+- om the new sociol
+- ogy of education to a critical theory of learning
+   - 
+   - New Thinking for the New Millennium - de Bono
+-
+- available at USC
+   - 
+   - 
+   - Visions of education
+- Woods
+   - Milojevi
+- c
+   -
+- Dul
+- l
+   - Buckingham
+   - Hanse
+- n
+   - Educ
+- ating "Good"
+- Citizen
+- in a Globalisi
+- ng World f
+- or the Twenty-First Century
+   - Murray Print and Chuanbao Tan (eds.)
+   - applicati
+- ons of FS within secondary education
+   -
+- The International School of Brussels, Belgium
+   -
+- The International School of Brussels, Belgium, ha
+- s used foresight in tenth-grade humanities and twelfth-grade International Baccalaureate Theory of Knowledge. The school has initiated a student Foresight Club, has modeled a one-day mini foresight program, and is planning for the introduction of foresight into the arts program
+   - 
+   - see article I already have
+   - futures and car
+- eer
+- guidance
+   - Teach The Future
+- Foresight Education
+   - Future
+- We
+   - David Hicks
+   -
+- futures literacy of se
+- condary teac
+- hers
+   - skills
+- for a changing world
+   - skills for the 21s
+- t century
+   - educational design
+- theory
+   - curriculum design th
+- eory
+   - curriculum theory
+   -
+- instructional design theory
+- futures education
+- design theory
+   - new pedagogies
+- for deep learning
+   - critique of 2
+- 1ct
+   - visions for the future of edu
+- cation
+   - Teachers a
+- nd Machines - Larry Cuban
+   - State of V
+- ictoria, NPDL, Amplify
+   - Practice Prin
+- cipeles for excellencei n teaching a
+- nd learning
+   - "Live for today, learn for tomorrow, be the futur
+- e"
+   - Quotes & Catchphrases
+   - Inayatullah, S in Future
+- s: A Reader, CD-ROM
+   - Th
+- e future, after all, is an open space, a space
+- that must be made personal, decolonised from institutions and structures which intend to make it their own, as well as from theories which claim history and future has ended, that imagination has been stricken from history, leaving only technique, the task of implementing social design. Futures studies, as this tour intends to articulate, is about keeping the future always a step ahead of our desire to totalize, to concretize; after all, as we violate each other and nature, maintaining the dream of a different type of society, of a renaissance that leads to the ever awakening of vision, is a hope that must remain free and open, always more than our ability to attain it.
+   - Malcolm X
+   - The future is something we should be
+- concerned wi
+- th as it has been taken from us'
+   - unattributed
+   - 
+   - 
+   - Albert Einstein
+   - Imagin
+- ation is more im
+- port
+- ant
+- than knowledge. For
+- while knowledge defines all we currently know and understand, imagination points to all we might yet discover and create.
+   - 
+   - Albert Einstein 2
+   - “A human being is a pa
+- rt o
+- f the whole called by
+- us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty.”
+   - 
+   - José Ortega y Gasset
+   - “Life is a series
+- of c
+- ollisions with the future
+- ;
+   - it is not the sum of what we have been, but what
+- we yearn to be.”
+   - José Ortega y Gasset
+   - Minister of Education in
+- Rwanda.
+   -  “Tell me w
+- hat you teach your children and I wi
+- ll tell you what you are today and what you will be tomorrow”, Minister of Education in Rwanda. 
+   - 
+   - WHO? said this
+   - WHEN?
+   - John Dewey
+   - “T
+- he w
+- orld is moving at
+- a tremend
+- ous rate. No o
+- ne knows where. We must prepare our children not for the world of the past, not for our world, but for their world–the world of the future.”
+   - 
+   - 1940’s
+   - 
+   - 
+   - Gert Biesta
+   - Philosophe
+- r of
+- education G
+- ert
+- Bies
+- ta (2014) puts
+- it this way:
+   - “Philosophy of education must always make place
+- for that which cannot be foreseen as a possibility, that which transcends the realm of the possible.”
+   - Jesus of Nazareth
+   - Give a man a fish, he’ll e
+- at for a day
+   - Teach
+- a man to fish, he’ll eat for a lifetime
+- - Mark Cuban
+   - “I personally think there’s
+- goi
+- ng to be a gre
+- ater demand in 10 years for liberal arts majors than there were for programming majors and maybe even engineering, because when the data is all being spit out for you, options are being spit out for you, you need a different perspective in order to have a different view of the data. [You need] someone who is more of a freer thinker.”
+   - 
+   - 
+   - Kai-Fu Lee, former Google and Microsoft e
+- xecu
+- tive
+- “Given AI is more objective, analytical, data
+- driven, maybe it’s time for some of us to switch to the humanities, liberal arts, and beauty.”
+   - University of Technology Sydney
+   - The constant c
+- hallenge for educators has always b
+- een to prepare young people for the future of industry.
+   - 27/2/2019
+   - https://www.uts.edu.au/partners-and-
+- community/ini
+- tiatives/social-justice-uts/news/future-proof-education-deliver-industry
+   - 
+   - Center for Curriculum Redesign
+   - Let’s sha
+- pe e
+- ducation for the future we want.
+- - video, watched 27/2/19
+   - https://www.youtube
+- .com
+- /watch?v=n7dgWnPIENU&featu
+- re=youtu.be
+   - 
+   - The future WHO wants?
+   - Tom Alegounaris
+   - S
+- choo
+- l curriculum is an expres
+- sion of the hope we
+- have for the future.
+   - 
+   - When we set out the knowledge, skills and und
+- erst
+- anding that we formally require young people to attain in school, we are saying that this represents our realistic aspiration for the world and for young people’s contribution to it.
+   - 
+   - Tom Alegounarias, 
+   - https://www.smh.com.au/
+- educ
+- ation/feel-the-excitem
+- ent-at-the-dawn-of-a-new-curriculum-20190223-p50zra.html
+   - viewed 27/2/2019
+   - Government of the people, by
+- the people, for the
+- people
+   - OECD blog
+   - Responsible policy making does not p
+- ush present p
+- roblems into the future; it pulls future developments into the present, and turns them into an opportunity to learn and prepare.
+   - 
+   - Tracey Burns, Joshua Polchar
+   - https://oecde
+- duca
+- tiontoday.blogspot.com/2019/01/f
+- uture-of-education-trends-digital-climate-change-globalisation.html
+   - viewed 27/2/19
+   - 
+   - Siva Kumari, DG IB
+   - It is
+- important that cu
+- rric
+- ulum and assessment ar
+- e continuously redesigned so that teachers can provide the best possible education to prepare young people for their future.
+   - Siva Kumari, Director-General IBO.
+   - https://cur
+- riculumredesign.org/partners/
+   - viewe
+- d 28/2/19
+   - 
+   - Riel Miller, Head of Foresi
+- ght Educatin, UNES
+- CO
+- Alvin Toffler
+   - Gandhi
+   - Be the change you wish
+- to see in the wo
+- rld
+   - 
+   -
+- Recognise a problem and Foresee/ predict/ ext
+- end
+- the problematic trends
+   - Envision a preferred future
+   - Identify the diffe
+- rences between that and the pre
+- sent
+   - Learn what needs to be done
+   - Take the steps, ex
+- ternally
+   - Embody the future,
+- internally
+   - Gerd Leonhard
+   -
+- The future has never been so tem
+- porary.
+   - Future
+- s Reader CD-Rom
+   - Summary of Sohail's futu
+- res preferences
+   - To sum
+- marize, I prefer futures theories, methods
+- and visions that 
+   - (1) move outside conventional economistic neo-rea
+- list frames 
+   - (2) make implicit the idea that there is not one
+- future but a range of alternative futures, 
+   - (3) that privilege more than one way of knowing t
+- he world, 
+   - (4) that see history and future as not merely lin
+- ear but cyclical and spiral, and 
+   - (5) that examine the assumptions, the politics of
+- the particular future being put forth.
+   - Misc notes
+   - Definition: Praxis: an interactive
+- development of
+- theory, values, critique and social action.
+   - Moving the present from a function of the past, t
+- o a function of the future
+   - Notes from NPDL conference
+   - Look into NPDL as p
+- ossible approach for FFL
+   - FF
+- L as an over-arching curriculum framework, a la
+- NPDL
+   - "NPDL is a bolt in, not a bolt on."
+   - NPDL was n
+- ot a new program but a "depth lens" for
+- existing work and programs.
+   - Dive into Deep Learning - the how of implementing
+- NPDL
+   - Engage the world, change the world - the what of
+- NPDL
+   - Conferences
+   - World Curriculum Studies Conferenc
+- e
+   - HundrED In
+- novation Summit
+   - IB conferences
+   - IB
+- HK 2019
+   - IBHK Proposal subm
+- ission
+   - Proposed
+- Session Titl
+- e
+   - Session theme:
+   - Inter
+- national Mindedness
+   - Inn
+- ovation
+   - Impact
+- Service
+   - Community
+   - S
+- ession Descrip
+- tion
+   - Dr
+- aft 1
+   - Dr
+- aft 2
+   - Draf
+- t 3
+   - Draft 4
+   - Notes
+- Definit
+- ion of FS
+- PROFESSOR
+- WHATEVER h
+- as define
+- d Future Studies as
+- a field that 'deals with issues...
+   - Futures Studies is an academic discipline that ex
+- amines the future through various...
+   - Futures Studies, or Social Foresight, deals with
+- with trends, forecasts,  visions...
+   - One definition of Futures Studies is 'the forward
+- looking equivalent to history...
+   - Session Goals
+   - Draft 1
+   - Draft 2
+   - Draft 3
+   -
+- Notes
+   - Check u
+- nderstandin
+- g within au
+- dience of I
+- B Teacher
+- s of what Futures is
+   - Format of proposed session
+   - Draft 1
+   - Draft 2
+- Main Presenter - Brief Biog
+- raphy
+   - sp
+- eech for vi
+- deo IBFS outline/abstract
+   - Biograp
+- hies
+   - FSIB Research Poster for IBHK
+   - N
+- otes to self
+   -
+- IBFS initial outline/abstract
+   -
+- FSIB abstract su
+- bmission for Research Poster
+   - M
+- y research will investigate the advantages and p
+- ossibilities for introducing...
+   - Poster abstact - final
+   - ‘education for the fu
+- ture’
+   - It is hypothesi
+- sed that a course which formally a
+- nd explicitly teaches tools...
+   - 8 x A4 sections = A1
+   - Title
+   - Introducation/Ba
+- ckground
+   - Research Que
+- stions se
+- ction
+   - Objectives/Aims/Goa
+- l/Problem
+   - Research Aims sec
+- tion
+   - Aims of FS for IBDP stud
+- ents
+   - Methods
+   - 6 pill
+- ars section
+   - Integral Futures
+- section
+   -
+- Results
+   - Critical F
+- utures toolbox section
+   - CL
+- A pyramid w
+- ith 2 examples
+   - Conclusions
+   - Sce
+- narios grid
+   - Points for consi
+- deration in des
+- igning course
+   - S
+- uitability of IB as FS vehicle
+   - Learner Profil
+- e
+   - Mission Statement
+   - Reference
+- s
+   - Seeking assist
+- ance
+   - Compare-contr
+- ast Critical F
+- utures with 21CT
+   - Sh
+- ort List of uni courses
+   - Implicit FS vs Expli
+- cit FS
+   - On Futures Literacy
+- Futures conferences
+   - Asi
+- a Pacific Futures Netwo
+- rk
+   - Collaborators/Fun
+- ding sources?
+   - IB - Jeff Thomp
+- son award?
+   - UNESCO
+   - IB
+   - Hund
+- rED
+   - Center for Curriculum
+- Redesign
+- Futu
+- reWe
+   - Eth
+- ical Markets / Hazel Henderson
+   -
+- Institute fo
+- r the Future
+   - Australian Futures
+   -
+- World Academy of Art and Sc
+- iences
+   - FFL concept
+- map - DQs & GOAs
+   - Scenarios of High
+- er Education and Implications fo
+- r Secondary Education
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - A r
+- ecent histor
+- y of "futures" in the
+- IB - A criti
+- que and extension
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Tre
+- nds and Driv
+- ers in Education: An u
+- pdated revie
+- w
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Hit
+- ting a Movin
+- g Target: Aligning the
+- Future and
+- Education
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- Updating th
+- e context for teaching
+- FSSF/FFL
+   -
+-
+- Update purpose of education?
+   - Update youth
+- visi
+- ons, mental health and anxiety a
+- round the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+   - 
+   - 
+   - “STEM is not enough” document by Mill
+- enni
+- um P
+- roject
+   - Futures Analysis of modern pedagogical frameworks
+- and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - A F
+- utures Analy
+- sis of QCAA-SATE
+   - Pu
+- rpose
+   - Aud
+- ience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fou
+- rth Industri
+- al Revolution and Futu
+- res Literacy
+- : A Used Future Salesman
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- Question th
+- e whole categorization
+- system of t
+- he F
+- ourth Industrial Revolution
+   - A
+   - Futures Literacy: Adding 2 F's and 4 A's to
+- the 6
+- C's.
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- 21st Centur
+- y Thinking Skills vs F
+- FL. Compare-
+- cont
+- rast-critique.
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Qua
+- ntum Literac
+- y vs Digital Literacy
+- Purpose
+- Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- This could
+- be a sequel to Futures
+- Literacy vs
+- Fut
+- ures Literacies: making the future explicit.
+   - FsL vs FLs is broad, introduces the idea of FFL,
+- identifies players
+   - QL vs DL provides a macro-metaphor, expands conve
+- rsation (eg. to spirituality while providing an example of FsL vs FFL)
+   - 
+   - Digital - Newtonian. Observe (the future) ind
+- epen
+- dently. Deterministic.
+   - Quantum - non-deterministic. Interaction (observa
+- tion) affects the outcome (the future).
+   - Futures of International Education and the IB/IBD
+- P
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ure Problem
+- Solving Program: A cri
+- tical analys
+- is
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures Literac
+- y vs Future Literacies
+- Purpose
+- Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- Sequel
+- to this could be Quant
+- um Literacy
+- vs D
+- igit
+- al Literacy: metaphor and mechanism in the Future of Education.
+   - 
+   - “Leveraging Digital” of NPDL
+   - 
+   - 
+   - T
+- he s
+- kills to see possibilities ahead or
+- the
+- skil
+- ls to do what I’m told
+   - 
+   - 
+   - FFL/FSSF and Modern Pedagogical Trends -
+- Comp
+- are-
+- contrast-critique
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- 21CT, DL, H
+- OT, Inquiry, ESD, Flip
+- ped
+   - A Fut
+- ures
+- Analysis of IB, IBDP and IBMYP
+   - Purpo
+- se
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fis
+- hing, Farmin
+- g, Factories and Finan
+- ce: Metaphor
+- s to guide Futures of Education
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - (Pe
+- rhaps this i
+- s my summary article a
+- fter analyse
+- s of programs/proposals)
+   - 
+   - 
+   - 
+   - A meta-reflection on trends, scenario
+- s an
+- d al
+- tern
+- atives in education
+   - 
+   - Explore existing metaphorical usage of fishin
+- g, f
+- arming, factories, finance
+   - eg. Teach a man to fish, factory schooling, facto
+- ry farming
+   - “investing in the future”
+   - Within each of t
+- hese metaphors, there are “sub-
+- metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+   -  ie. If we used a farming metaphor, what sort of
+- farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+   - For a factory metaphor, what sort of factory?
+   -
+- Cheap labour, repetitive tasks, time-pressured
+   -
+- A production line? 
+   - 
+   - But I’m not stopping
+- at metaphor. In explor
+- ing
+- the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+   - Then, perhaps (though I need to think this throug
+- h more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+   - 
+   - Finance
+   - Big 4? Fintech? Peer-to-peer? 
+   -
+- An u
+- pdated revi
+- ew of Futures Education in schools
+- Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- uring in the
+- Classroom: A literatu
+- re review
+   -
+- Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - EFA
+- as an Educa
+- tional Tool for the Fu
+- ture
+   - Purp
+- ose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Sce
+- narios of Hi
+- gher Education and Imp
+- lications fo
+- r Secondary Education
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Com
+- pare-contras
+- t FSIB vs Group 4 vs G
+- roup 3 subje
+- cts
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B, assessmen
+- t and assessment objec
+- tives
+   - Pur
+- pose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B and IBDP A
+- pproaches to Teaching
+- and Learning
+- Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B and CAS
+   -
+- Purpose
+   - Audience
+- Thesis/Pro
+- position
+   - Evid
+- ence
+   - FSI
+- B and ToK
+   -
+- Purpose
+   - Audience
+- Thesis/Pro
+- position
+   - Evid
+- ence
+   - FSI
+- B and educat
+- ional and cultural nee
+- ds of school
+- , nation and others
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B and subjec
+- t overlap
+   - Purpose
+- Audience
+- Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B and IBDP G
+- roup 3 Aims
+   - Purpose
+- Audience
+- Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B and Intern
+- ational Mindedness
+   -
+- Purpose
+   - A
+- udience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - FSI
+- B and the IB
+- Learning Profile
+   - P
+- urpose
+   - Au
+- dience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures Analysi
+- s of modern pedagogica
+- l frameworks
+- and trends - 21CT, IB/international, Deep Learning (MULTIPLE ARTICLES IN THIS)
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - A F
+- utures Analy
+- sis of IB, IBDP and IB
+- MYP
+   - Purpo
+- se
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Hit
+- ting a Movin
+- g Target: Aligning the
+- Future and
+- Education
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- Updating th
+- e context for teaching
+- FSSF/FFL
+   -
+-
+- Update purpose of education?
+   - Update youth
+- visi
+- ons, mental health and anxiety a
+- round the future, state of the world, the future of work, the future of tertiary education, technologies disrupting education, technology not disrupting education despite its promises etc, pace of change, prediction
+   - 
+   - 
+   - “STEM is not enough” document by Mill
+- enni
+- um P
+- roject
+   - Offer a spectrum/matrix of FFL opportunities for
+- IBDP, QCAA, HSC with FSSFsbs being the ultimate
+   - FFed Website
+   - This FFL project serves 2 purpose
+- s:
+   - 1. Be the
+- platform to write about FFL for a gener
+- al audience, whether it be education generally, lay audience, futurists generally
+   - 2. Be the platform to do my own background resear
+- ch and foundation writing (for PhD etc)
+   - 3. Promote my services
+   - Develop a knowledge bas
+- e for Futures Studies suit
+- able to upper-secondary school students across cultural, national and epistemological borders
+   - Develop a knowledge base for Futures Studies suit
+- able to upper-secondary school students across cultural, national and epistemological borders. (This could be through a textbook).
+   - 
+   - FFEE & FFL @ MCSHS
+   - 
+   - 1. To promote FFL w
+- ithi
+- n MCSHS, obviously, as
+- wel
+- l as
+   - 
+   - 
+   - Presentations
+   - 21st Century Thinking Sk
+- ills
+- vs
+- FFL. Compare-cont
+- rast-critique.
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Tre
+- nds and Driv
+- ers in Education: An u
+- pdated revie
+- w
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- uring in the
+- Classroom: A literatu
+- re review
+   -
+- Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - The
+- Futures of
+- IBHK Global Conference
+- a critica
+- l review
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - A F
+- utures Analy
+- sis of QCAA-SATE
+   - Pu
+- rpose
+   - Aud
+- ience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - A r
+- ecent histor
+- y of "futures" in the
+- IB - A criti
+- que and extension
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - To
+- Darrin & Ren
+- ee: The Case for FFL a
+- t MCSHS
+   - P
+- urpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - MCS
+- HS presentat
+- ion to 21CT/HOT core t
+- eam
+   - Purpo
+- se
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Dep
+- th and Heigh
+- t in NPDL: A integral
+- futures crit
+- ique
+   - 
+   - 
+   - Megatrends of the Mind
+   - VIEWS: A Perspe
+- ctiv
+- e on
+- the QI skills
+   - Purpose
+- Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Int
+- egration & t
+- ransdisciplinarity and
+- the future
+- of IBDP
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Pop
+- Futurists v
+- iews of Futures Litera
+- cy
+   - Purpos
+- e
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures Studies
+- and IB: A chance for
+- innovation a
+- nd leadership
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures could a
+- llow EE to become CAS,
+- and vice ve
+- rsa
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - "Te
+- mporal skill
+- s" as additional Appro
+- ach To Learn
+- ing
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures Literac
+- y: Adding 2 F's and 4
+- A's to the 6
+- C's.
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- This ca
+- n be the rationale sid
+- e. There is
+- anot
+- her
+- article in this about application in the classroom.
+   - The Future in Bloom: Higher Order Futures Thinkin
+- g for preferred, alternative futures
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - To
+- develop an I
+- B school-based subject
+- in FSSF whi
+- ch I can teach at school
+   - To develop a subject which abides by: OF/ABOUT/FO
+- R/BY
+   - To develop 4 scenarios of FSSF subject, with vary
+- ing degrees of characteristics
+   - 1. Conventional
+   - 
+   - 
+   - 4. Student-led, teache
+- r
+   - 
+   - 
+   - One ax
+- is o
+- f ma
+- trix is “student-teacher
+- driv
+- en�
+- �
+   - 
+   - Other could be:
+   - Conventional assessment -
+- nove
+- l assessment
+   - 
+   -
+- To develop FSSF subject with FSSF characteris
+- tics
+- Develop tools for ATAR/NATAR
+   - Cultivate genuine
+- innovation and social responsib
+- ility at MCSHS
+   - Provide application to PI
+   - Provide balance, dep
+- th and perspective to STEM
+   -
+- Provide rigour, structure and depth to 21CT
+   - To
+- develop new activities which cultivate FFL
+   -
+- To gather existing activities which cultivate FFL
+- To identify existing FFL activities (both implici
+- t & explicit) within existing curricula
+   - To tweak & extend existing activities to add/enha
+- nce FFL
+   - To develop a spectrum/matrix of "FFL opportunity"
+- ie. how/when to incorporate FFL
+   - Haphazard, undirected, task considered timeless,
+- universal, always essential
+   - Already existing, implicit (Recommendation - make
+- explicit)
+   - Already existing, explicit (relate to other futur
+- es issues)
+   - 
+   - 
+   - Futures-oriented topic, futures-oriented
+-
+-
+- Matrix: 
+   - skills axis: subject-oriented
+- /tra
+- diti
+- onal  <-> fu
+- tures-focused
+   - content axis:  traditional subject <-> emerging i
+- ssues & future requirements
+   - To identify opportunities in existing curricula f
+- or injecting new FFL
+   - To develop the subject I wish I could have studie
+- d at school
+   - To develop the subject that I believe needs teach
+- ing at school
+   - Future Problem Solving Program: A critical analys
+- is
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Gat
+- her support
+- for FSSFsbs
+   - Introdu
+- ce education
+- community to FSSF
+   - Promote
+- my services, ideas, brand
+   - Develop my b
+- asic understanding of FSSF Ed though
+- writing and sharing
+   - Provide a visual record of my learning and academ
+- ic development
+   - To develop an FSSF subject which can be taught on
+- line
+   - Offer designs of a formal Futures Studies subject
+- for the IBDP, which may serve as models for other suitable secondary education systems
+   - Offer designs of a formal Futures Studies subject
+- for the IBDP, which may serve as models for other suitable secondary education systems.
+   - 
+   - Futures Activities & Teaching-Learning Resour
+- ces
+- Gather and create activities to teach and cultiva
+- te Futures & Foresight Literacy
+   - 1. Generate new
+   - 2. Modify existing
+   - Apply FS
+- SF methods to exist
+- ing content
+   - Apply e
+- xisting approaches to Futures-oriented iss
+- ues/topics
+   - FSIB MA-PhD
+   - A Textbook of the Future
+   - Propos
+- e, design and c
+- reate a Textbook of the Futu
+- re
+   - FSSF IB SBS
+   - Establishment of Futures Studies a
+- nd Strategic Fo
+- resight as a school-based subject in the IBDP
+   - 
+   - Write blog and journal articles to support th
+- is.
+- Blog pieces are for IB blog and other education b
+- logs.
+   - Journal articles could overlap with FSIB.
+   - 
+   -
+- Insight!
+   - I need to approach creation o
+- f FS
+- SF-s
+- bs as if I w
+- ere creating a science subject.
+   - FF easily lends itself to humanities. That side w
+- ill emerge much more easily.
+   - I need to approach design with the thought:
+   - Th
+- is could the student’s only Science subject.
+- What should they learn? What lab work and field work should/could they undertake?
+   - Similarly, this could be the student’s only Hum
+- anities subject: What should they learn?
+   - Update the critical education futures literature
+- to include analyses around ‘21st Century Skills’ and other recent education trends and “innovations”
+   - Update the critical education futures literature
+- to include analyses around ‘21st Century Skills’ and other recent education trends and “innovations”.
+   - 
+   - Identify ways to improve NPDL/STEM/SATE/HSC/I
+- BDP
+- by injecting Futures Thinking in various ways
+   - Encourage EXPLICIT teaching of FSSF rather than i
+- mplicit in NPDL, STEM etc
+   - Identify the Future-ness of en vogue/trending/eme
+- rging programs and concepts: DL, 21CT, inquiry, PBL, flipped, STEM et al
+   - Explicit
+   - Implicit
+   - 
+   - CLA
+   - 
+   - 
+   - Update
+- the critica
+- l education
+- futu
+- res lit
+- erat
+- ure
+- to include analyses around the purposes of education, particularly how education, work and the economy relate
+   - Update the critical education futures literature
+- to include analyses around the purposes of education, particularly how education, work and the economy relate.
+   - 
+   - Offer the IBO possibilities for the future of
+- the
+- IBO and IBDP
+   - Offer the IBO possibilities for the future of the
+- IBO and IBDP
+   - 
+   - Quantum Literacy vs Digital Literacy
+   - Purpo
+- se
+- Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- This could
+- be a sequel to Futures
+- Literacy vs
+- Fut
+- ures Literacies: making the future explicit.
+   - FsL vs FLs is broad, introduces the idea of FFL,
+- identifies players
+   - QL vs DL provides a macro-metaphor, expands conve
+- rsation (eg. to spirituality while providing an example of FsL vs FFL)
+   - 
+   - Digital - Newtonian. Observe (the future) ind
+- epen
+- dently. Deterministic.
+   - Quantum - non-deterministic. Interaction (observa
+- tion) affects the outcome (the future).
+   - An updated review of Futures Education in schools
+- Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - To
+- export the F
+- SSF subject and train
+- teachers
+   -
+- Fourth Industrial Revolution and Futures Literacy
+- : A Used Future Salesman
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- Question th
+- e whole categorization
+- system of t
+- he F
+- ourth Industrial Revolution
+   - A
+   - Futures Studies for the IB: the case for exp
+- licit
+- ly teaching the future
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures and For
+- esight Literacy in the
+- IB - An Int
+- roduction
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - "Fu
+- ture": not j
+- ust a noun
+   - Purpose
+- Audience
+- Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures Studies
+- and the IB: A cyborg
+- hand in a fa
+- irtrade glove
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - STE
+- M/STEAM v FF
+- L. Compare-contrast. C
+- ritical Anal
+- ysis.
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - To
+- have externa
+- l "authority" to teach
+- something m
+- ore meaningful at school - FSSF
+   - To open up opportunities down the track eg. Unive
+- rsity work
+   - To have credibility to train teachers in teaching
+- FSSF
+   - To develop FSSF subject and justify its implement
+- ation
+   - To guide and document the development of FSSFsbs
+- I need to/should know what went on before (eg. Sl
+- aughter/O’Rourke and Corinda) and what is going on now (Teach the Future, Bishop/Hines et al.)
+   - 
+   - Futures Literacy vs Future Literacies
+   - Purp
+- ose
+- Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- Compare-con
+- trast FsL vs FLs
+   -
+- Sequel to
+- this
+- could be Quantum Literacy vs D
+- igit
+- al Literacy: metaphor and mechanism in the Future of Education.
+   - 
+   - “Leveraging Digital” of NPDL
+   - 
+   - 
+   - T
+- he s
+- kills to see possibilities ahead or
+- the
+- skil
+- ls to do what I’m told
+   - 
+   - “Future Literacies” 
+   - Argues that FLs i
+- s no
+- t FFL
+   - is not a subset of
+- FFL; 
+   - rather it is required
+- to balance, temper and open
+- up quoted FFLs
+   - 
+   - FLs are framed as literacies of the future, b
+- ut w
+- hose future? Who says?
+   - 
+   - FFL/FSSF and Modern Pedagogical Trends - Comp
+- are-
+- contrast-critique
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - 
+   -
+- 21CT, DL, H
+- OT, Inquiry, ESD, Flip
+- ped
+   - FFL W
+- riti
+- ng
+   - All writing tasks aliases collecte
+- d here as agent
+- s
+   - 
+   - 
+   - DL21HOT-FT
+   - Arguing for, promoting and
+- teac
+- hing
+- Futures Think
+- ing as a vehicle for “Deep Learning” and “21st Century Skills”
+   - 
+   - 
+   - Develop Higher Order Futures Thinking as
+- educ
+- atio
+- nal model
+   - Writing the future: a textbook challenge for futu
+- rists
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures and For
+- esight Literacy: From
+- monotone mon
+- ologue to animated polylogue
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - FFL
+- as vehicle
+- of 6C's, ESD, STEM, DL
+- ,HOT
+   - Purp
+- ose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Boo
+- k review: NP
+- DL Engage the World, C
+- hange the Wo
+- rld
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Q-m
+- atrix for th
+- e Future: an extension
+- of a powerf
+- ul teaching tool for preferred, alternative futures.
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures Studies
+- as personalised learn
+- ing
+   - Purpo
+- se
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Dri
+- ving towards
+- Futures Literacy
+   - P
+- urpose
+   - Au
+- dience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - ESD
+- vs Futures
+- Studies
+   - Purpose
+   -
+- Audience
+   -
+- Thesis/Proposition
+   - Evid
+- ence
+   - Fut
+- ures of Inte
+- rnational Education an
+- d the IB/IBD
+- P
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Fis
+- hing, Farmin
+- g, Factories and Finan
+- ce: Metaphor
+- s to guide Futures of Education
+   - Purpose
+   - Audience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - (Pe
+- rhaps this i
+- s my summary article a
+- fter analyse
+- s of programs/proposals)
+   - 
+   - 
+   - 
+   - A meta-reflection on trends, scenario
+- s an
+- d al
+- tern
+- atives in education
+   - 
+   - Explore existing metaphorical usage of fishin
+- g, f
+- arming, factories, finance
+   - eg. Teach a man to fish, factory schooling, facto
+- ry farming
+   - “investing in the future”
+   - Within each of t
+- hese metaphors, there are “sub-
+- metaphors” eg. factory farming (caged chickens, feed lots, monoculture) or family farming, organic, indigenous
+   -  ie. If we used a farming metaphor, what sort of
+- farm would your school be? What would be the diet(curriculum) your farm favours or serves?
+   - For a factory metaphor, what sort of factory?
+   -
+- Cheap labour, repetitive tasks, time-pressured
+   -
+- A production line? 
+   - 
+   - But I’m not stopping
+- at metaphor. In explor
+- ing
+- the metaphor, I am simultaneously exploring the factories(work), fishing/farming (food) and finance (resources) systems of the future.
+   - Then, perhaps (though I need to think this throug
+- h more carefully) I am also critiquing these future techs/systems, or alternatively, providing a warning of what features must they incorporate. (I’m not sure how this critique will happen/arise yet)
+   - 
+   - Finance
+   - Big 4? Fintech? Peer-to-peer? 
+   -
+-
+- Explore met
+- aphors of Education such as Fishin
+- g, F
+- arming, Factories, Finance
+   - eg. Teach a man to fish, factory schooling
+   - 
+   -
+- But, also use these as:
+   - a) actual models e
+- g. f
+- actory schooling, factory f
+- arming
+   - b) actual topics/issues for study that are increa
+- singly important
+   - UNESCO Futures Literacy Article
+   - Purpose
+   - Aud
+- ience
+   - Thesis/Proposition
+   - Evid
+- ence
+   - Pro
+- jects
+   - Tem
+- plates
+   - Scrivener
+   -
+- <?xml versi
+- on="1.0" enc
+- oding="UTF-8"
+- ?>
+   - <!--
+   -
+- This template exports a note and each
+- of its descendants to an OPML file,
+   - which can be read by Scrivener, OmniOutliner, and many other programs.
+   - 
+   - The exported file should use the extension ".opml". You can set the extension
+   - in HTML Inspector inside Tinderbox, or rename the file in Finder.
+   - 
+   - -->
+   - 
+   - 
+   - <opml version="1.0">
+   - <head>
+   - <title>
+- Scri
+- vene
+- r</title>
+   - <expansionS
+- tate>0</expansionState>
+   - </head>
+   - <body>
+   - 
+   - </body>
+   - </opml>
+   - 
+   - Scrivener
+- item
+   - ^indent("\t",1)^
+- <outline^if
+- (Tex
+- t)^ text="Scrivene
+- tline^if(Text)^ text="Scrivene
+- - 
+   - 
+   - pNotePrototypes
+   - pReferenceNote
+   - pAda
+- mWri
+- ting
+- Purpose
+   - Audi
+- ence
+   - Thesis/Pro
+- position
+   - Evid
+- ence
+   - Pur
+- pose
+   - 
+   -
+- Purpose of Article
+   -
+- Audience
+   -
+- Who are
+- my
+- readers?
+   - Thesis/Pro
+- position
+   -
+-
+- What am I arguing ?
+   -
+- What is my central mes
+- sage
+- ?
+   - What are my second
+- ary messages?
+   - 
+   - Evidence
+- What are my supporting points and
+- dat
+- a?
+   - Who do
+- I reference?
+   - .3 pDissertationSection
+   -
+- $MyOutlineString = if(
+- $OutlineDepth >($OutlineDep
+- th.parent)){
+   -    collect(ancestor,$SiblingOrder).reverse.format
+- (".")+"."+$SiblingOrder;
+   - }else{
+   -    $SiblingOrder
+   - };
+   - pGoalObjectiv
+- eAim
+   - pA
+- uthorThinkerOrganisa
+- tion
+- pIdeaPropositionArg
+- umentConcept
+   - pRationaleStep
+- s
+   - pQuestion
+   - pProject
+   - Proto
+- types
+   - HTML Templ
+- ate
+   - <!--
+- Tinderbox: H
+- TML Template -
+- >
+   - 
+   - 
+   - Non
+- FSIB Futures stuff
+   - Before & After
+- C-19
+- web
+- conference 6/4/20
+   - Educ
+- ation
+   - Gap between IT savvy and not widens
+- Socializin
+- g
+   - Vaccine generation
+   - Increased di
+- spute between a
+- nti-vaxxers and not
+   -
+- Vaxx card/requirement for public service and corp
+- orate jobs
+   - Wet markets
+   - Saving for a rainy day
+   - Biotech
+- investment
+   - B
+- lind to other threats
+   - S
+- hort-term memory
+   - Th
+- is was the big one. (And w
+- e don't see the next
+- big one coming.)
+   - World 1.5
+   - Intensification of pharmaceuticals.
+- Increasing ri
+- dicule of home remedies.
+   - Prepper numbers rise
+   - National fortification
+   -
+- Wet markets
+   - Military
+- bio warfare
+   - More thi
+- nking around ca
+- re of elderly. Euthanasia?
+- Assisted dying.
+   - Ethical discussions around who dies extends to AI
+- Bio-hazard pay becomes more common
+   - Universal B
+- asic Income
+   - Universal Health Care
+- An understanding that in
+- dividual health affects e
+- veryone’s health
+   - Sandbox-Shoebox
+   - How and what should we teach i
+- n a VUCA world?
+   -
+- What images of the future should we be embedding
+- into our teaching?
+   - A concept based curriculum for FSSF-IB. What are
+- the concepts? - FSIB-PhD article
+   - Marketing of FSSF-SBS as activity to plan for
+   -
+- Re:Thinking - doco on USA education involving sys
+- tems thinking, Cabrera Labs
+   -
+-

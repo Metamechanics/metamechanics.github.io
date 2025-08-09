@@ -1,0 +1,18 @@
+alias:: Buddha of the North
+author:: [[DT Suzuki]] 
+publication-year:: 
+tags:: book #toBuy #[[Comparative Religion]] #Swedenborg 
+project:: #AMT #InnerBeginner 
+question::
+public:: true
+
+- [Swedenborg: Buddha of the North - Swedenborg Foundation](https://swedenborg.com/product/swedenborg-buddha-north/)
+	- *Swedenborg: Buddha of the North* offers an in-depth exploration of the spiritual parallels between Emanuel Swedenborg, the 18th-century Swedish mystic, and Buddhist philosophy. Written by D. T. Suzuki, one of the foremost scholars of Zen Buddhism, this work delves into Swedenborg’s remarkable spiritual experiences, comparing them to the core principles of Buddhism, such as interconnectedness, spiritual awakening, and the transcendent nature of divine wisdom.
+	- This thoughtful analysis not only reveals the striking similarities between Swedenborg’s theology and Buddhist teachings but also highlights the universal truths that transcend cultural and religious boundaries. Suzuki’s essays, enriched by Andrew Bernstein’s meticulous translation and introduction, offer Western and Eastern audiences alike a chance to appreciate the shared spiritual heritage of humanity.
+	- Ideal for readers interested in comparative religion, mystical traditions, and spiritual philosophy, *Swedenborg: Buddha of the North* is a meditative journey into the profound connections between East and West, challenging us to see the divine beyond dogma.
+	- ## Description
+	- How do spiritual traditions separated by geography and time speak to one another? What insights can we uncover when Eastern and Western mysticism meet? In *Swedenborg: Buddha of the North*, renowned Zen Buddhist scholar D. T. Suzuki engages deeply with the visionary work of Emanuel Swedenborg, exploring striking parallels between Swedenborg’s Christian mysticism and Buddhism.
+	- Suzuki’s essays illuminate how Swedenborg’s spiritual revelations—his descriptions of heaven, divine love, and the nature of the soul—resonate with Buddhist principles of interdependence, self-transcendence, and the concept of “other-power” (tariki). By examining Swedenborg’s mystical writings through the lens of Zen philosophy, Suzuki uncovers universal truths that bridge the East-West divide, revealing shared pathways to spiritual enlightenment.
+	- Translated and introduced by Andrew Bernstein, this volume provides a seamless entry into Suzuki’s reflections, offering both historical context and a fresh perspective on Swedenborg’s ideas. In the afterword, philosopher David Loy expands on the dialogue between Swedenborgian and Buddhist thought, exploring how their shared focus on inner transformation and compassion offers powerful lessons for contemporary spiritual seekers.
+	- Far from being a mere comparative study, *Swedenborg: Buddha of the North* challenges readers to reflect on the universal quest for divine wisdom that transcends religious boundaries. It invites us to see Swedenborg not only as a Christian mystic but as an explorer whose insights into the spiritual realm tap into universal spiritual principles and echo the teachings of the Buddha.
+	  This book is ideal for readers interested in comparative religion, mystical philosophy, and the shared currents of human spirituality. It offers a thoughtful, reflective journey into how different traditions can illuminate one another, enriching our understanding of the sacred and inspiring deeper engagement with our own spiritual paths. This work provides a contemplative lens through which to explore the divine mysteries that unite humanity.

@@ -1,0 +1,22 @@
+- #[[Mission Management]] #[[metamechanic workflow]]
+- see-also:: [[Phase 1 MM]], [[Phase 3 MM]], [[MM 3+ phase evolution]]
+- begins 2025
+- collaboration
+	- move from solo work to incorporating comments from others
+	- invite critique and suggestion
+	- identify what is
+		- unclear
+		- naive
+		- done before
+- website landing pages within [[Metamechanic Mycelium]]
+	- downloadable 5-page project briefs
+	- Notion-like site
+		-
+- start 20-page project briefs
+- social media presence
+	- infrequent
+	- basic creative
+	- extensive number project is following
+	- build possible collaborators
+- invite [[inner circle]] of [[collaborators]]
+-

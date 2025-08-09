@@ -1,0 +1,8 @@
+- #[[Big Questions]]
+- #[[Driving Questions]] #[[Big Questions]]
+- What are my essential overarching driving research questions?
+- My essential driving research questions
+- I need to write these.
+- One per project. Can be a statement of purpose rather than question.
+- Two or three deeper clarifying or defining questions.
+-

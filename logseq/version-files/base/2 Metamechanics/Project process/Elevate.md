@@ -1,0 +1,1 @@
+	To panoramas we never imagined, nor could imagine. One can see more from up higher.

@@ -1,0 +1,19 @@
+alias:: Velikovsky
+URL:: https://www.velikovsky.info/
+organisation::
+role:: 
+fields::
+publications:: [[Worlds in Collision]], [[Mankind in Amnesia]], [[Earth in Upheaval]], [[Oedipus and Akhnaton]], [[Peoples of the Sea]] 
+tags:: person, 
+project::
+public:: true
+- [The Velikovsky Encyclopedia | The Immanuel Velikovsky database with reference sources](https://www.velikovsky.info/)
+- [The Immanuel Velikovsky Archive](https://www.varchive.org/)
+-
+- He arrived at a body of radical inter-disciplinary ideas, which might be summarized as:
+	- Planet Earth has suffered natural catastrophes on a global scale, both before and during mankind’s recorded history.
+	- There is evidence for these catastrophes in the geological record (here Velikovsky was advocating [Catastrophist](https://www.velikovsky.info/catastrophism/) ideas as opposed to the prevailing [Uniformitarian](https://www.velikovsky.info/uniformitarian/) notions) and archeological record. The extinction of many species had occurred catastrophically, not by gradual Darwinian means.
+	- The catastrophes which occurred within the memory of mankind are recorded in the myths, legends and written history of all ancient cultures and civilisations. Velikovsky pointed to alleged concordances in the accounts of many cultures, and proposed that they referred to the same real events. For instance, the memory of a flood is recorded in the Hebrew Bible, in the Greek legend of [Deucalion](https://www.velikovsky.info/deucalion/) and in the [Manu](https://www.velikovsky.info/manu/) legend of India. Velikovsky put forward the psychoanalytic idea of “Cultural Amnesia” as a mechanism whereby these literal records came to be regarded as mere myths and legends.
+	- The cause of these natural catastrophes were close encounters between the Earth and other bodies within the [solar system](https://www.velikovsky.info/solar-system/) — not least what were now the planets Saturn, Jupiter, Venus and Mars, these bodies having moved upon different orbits within human memory.
+	- To explain the celestial mechanics necessary to permit these changes to the configuration of the solar system, Velikovsky thought that electromagnetic forces might somehow play a greater role to counteract [gravity](https://www.velikovsky.info/gravity/) and [orbital mechanics](https://www.velikovsky.info/orbital-mechanics/).
+	- Velikovsky argued that the conventional chronology of the Near East and classical world, based upon Egyptian [Sothic dating](https://www.velikovsky.info/sothic-dating/) and the king lists of [Manetho](https://www.velikovsky.info/manetho/), was wholly flawed. This was the reason for the apparent absence of correlation between the Biblical record and those of neighbouring cultures, and also the cause of the enigmatic “[Dark Ages](https://www.velikovsky.info/greek-dark-ages/)” in [Greece](https://www.velikovsky.info/greece/) and elsewhere. Velikovsky shifted several chronologies and dynasties from the Egyptian Old Kingdom to Ptolemaic times by centuries (a scheme he called the *Revised Chronology*), placing the [Exodus](https://www.velikovsky.info/exodus/) contemporary with the fall of the [Middle Kingdom of Egypt](https://www.velikovsky.info/middle-kingdom-of-egypt/). He proposed numerous other synchronisms stretching up to the time of [Alexander the Great](https://www.velikovsky.info/alexander-the-great/). He argued that these eliminate phantom “Dark Ages”, and vindicate the [biblical](https://www.velikovsky.info/bible/) accounts of history and those recorded by [Herodotus](https://www.velikovsky.info/herodotus/). For further details, see the *[Ages in Chaos](https://www.velikovsky.info/ages-in-chaos/)* article.

@@ -1,0 +1,48 @@
+alias:: course
+- #toStudy
+- Study Courses
+	- ACIM
+		- Ken Wapnick step through the course (@Raintree)
+		- David Hoffmeister Teacher of Teachers
+			- [http://miracleshome.org/library/laying_framework.htm ](http://miracleshome.org/library/laying_framework.htm )
+- Global Effort
+	- MIT opencourseware (see Diigo)
+	- Energy Crisis past and present
+	- Energy, environment and society
+	- Intro to Sustainable Energy
+	- physicsofenergy.mit.edu
+	- Open University
+	- Future energy demand and supply
+	- Coursera
+	- Energy, Environment and Our Future (Jan 6)
+- LOTE
+	- Rocket Arabic
+	- Duolingo
+- ICT
+	- webydo
+	- codecademy
+	- don't fear the internet
+	- W3 school
+	- wordpress TV
+	- net.tutsplus.com (wordpress)
+- TremenDuus
+- [[Fresh Alternatives]]
+	- Walter Russell (see metamemory)
+	- Remote Viewing
+	- ARVARI
+	- Lyn Buchanan
+	- Ed Dames
+	- SRV
+- MetaMechanics
+	- Santa Fe Insitute
+		- Introduction to complexity [http://www.complexityexplorer.org](http://www.complexityexplorer.org)
+- Duus Sensei
+- Udemy
+- Differential equtions in action
+- Adobe
+	- Adobe trainer
+- Microsoft IT Academy
+- [[Think Resilience]] #course
+- [[EarthEd]] #course - [[WorldWatch Institute]]?
+- Bright Future Now #course
+- [[SuperForecasting]] online course [[Philip Tetlock]] #book #Course #Courses

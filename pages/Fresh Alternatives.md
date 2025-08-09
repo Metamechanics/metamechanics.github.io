@@ -1,0 +1,134 @@
+alias:: FRESH, freshAlts
+tags::
+related-to:: [[FACTs]], [[FACTs 4CT]] 
+status:: #toProcess
+
+-
+- Alternative Futures, Religion, Economics, Science & History
+  collapsed:: true
+	- Alternative ...
+	  collapsed:: true
+		- F
+			- Food
+			- Futures
+			- Finance
+			- Fashion
+		- R
+			- Religion
+			- Relationships
+		- E
+			- Economics
+			- Energy
+			- Education
+			- Environmentalism
+		- S
+			- Science
+			- Spirituality
+			- Sport
+			- Sustainability
+			- Sexuality
+		- H
+			- History
+			- Health
+		- & more
+			- Law
+			- Governance
+			- Military
+			- Manufacturing
+			- Agriculture
+			- Politics
+			- Psychology & Psychotherapy
+- Fresh Alternatives is
+	- an alternative Wikipedia or an expanded Wikipedia to give more honest investigation of "crackpot" ideas eg. "pseudoscience"
+- What is difference between Fresh Alternatives vs [[FACTs]] vs [[Metamechanic Mycelium]]
+	- the database underlying all other projects, or is this [[Metamechanic Mycelium]]
+	- the database used to cohere into powerful stories eg. EFA, X-Science, Babies-Bibles-Bathwater, Behind-Below-Beyond et al ?
+- [[Fresh Alternatives project brief]]
+	- [[Fresh Alternatives - paragraph pitch]]
+	  collapsed:: true
+		- {{embed [[Fresh Alternatives - paragraph pitch]]}}
+- Use [[metamechanica tag taxonomy]]. This is universal across all projects.
+- [[Definitions and Criteria for Fresh Alternatives]]
+	- Comparing and contrasting: Are existing mainstream alternatives really different?
+	- Reframing and reinterpreting: Are ideas self-contradictory or hypocritical? Do they hide conflicting assumptions?
+	- Expanding and enlarging: Are there other ideas which are resisted and ridiculed because of their potential power?
+	- Distilling and discerning: Some conspiracy theories are cuckoo and disempowering. Some are more rigorous and supported.
+	- Personal and social responsibility: Explains and includes more. It seems to work better on paper. Warrants examination and experimentation.
+	- More data. More of society: Reframes, retools and reinterprets evidence and events in order to empower and explain.
+	- Discourages victimhood. Encourages personal, social and civilizational responsibility. Empowers agency and understanding.
+	- Typically does not receive significant mainstream media airtime at present. If/when it does, it is presented as crackpot, not given fair representation, overwhelmed by better-resourced opposing voices, or legislated against, or rabidly denounced (provide examples of each).
+	- An example of Fresh Alternatives?
+		- Past historical examples
+		  collapsed:: true
+			- Copernicus
+			- Relativity
+			- Geological age of earth
+			- #[[hand-washing]]
+			- #[[germ theory]]
+- [[Fresh Alternatives lopsided taxonomical branching diagram]]
+- Header Slider, Slogans & Mottos
+	- Acknowledging hierarchies of alternatives
+	  collapsed:: true
+		- All ideas are not created equal. But the goal is universal.
+		- Horses for courses. Tools for schools.
+		- Some things actually ARE better than others.
+		- Beyond dogmatic postmodern relativism
+	- There are too many holes in orthodox theory that don’t hold water.
+	- Innovation, transformation & vision comes from the fringe. We need to hang out there.
+	- Alternatives that...
+	  collapsed:: true
+		- 4 x blurb sections?
+		- Empower more
+		- Explain better
+		- Enlighten faster
+		- Do a better job
+	- Is what you are being told all there is available? Are they the only options? Are there better explanations, models and systems?
+- About Fresh Alternatives
+	- Outline and Overview - What
+		- What not...
+		  collapsed:: true
+			- Not conventional conservative
+			- Not mainstream alternative.
+			- Not orthodox apologist
+			- Not fringe fundamentalist
+			- Not radical extremist
+			- Not conspiracy crackpot
+			- Anything goes
+		- Systems, models, theories, concepts and tools which the world needs to hear more about
+		- An interactive online knowledge community built by participants.
+		- An information portal for accessing alternative ideas, concepts, models, systems and tools in all fields of human endeavour
+		- Mediating the conservative, the counter-culture and the conspiracy. Moderating the crackpot and conman.
+		- A deep, curated wiki for sidelined solutions
+		- A panorama of possible pathways into the future
+		- A toolbox for novel thinking methods
+		- A discussion on what really constitutes an "alternative"
+		- A forum to help heal orthodox v fringe vs conspiracy thinking pathologies
+		- An atlas of alternative models and theories
+		- A web portal for accessing alternative ideas, concepts, models, systems and tools in all fields of human endeavour.
+		- Unmasking pseudo-options. Distilling novel alternatives. Generating genuine difference.
+	- Purpose, Objectives, Aims of Fresh Alternatives - what for ?
+		- Generating a discussion for what constitutes a genuine "alternative"
+		- Trying to navigate the reasoned middle path between conservative, crackpot, conman and cynic.
+		- Mapping and critiquing alternatives in various domains of endeavour without necessarily dismissing, favouring or integrating any of them.
+		- Expanding the scope of debate and consideration, while moderating and balancing fringe ideas
+		- Collating ideas that are rejected and ridiculed but cannot be dismissed by critical thinking
+		- Distilling novel genuine alternatives from the mainstream discourse
+	- FRESH Alternatives - Platform, Procedure, Philosophy, Policy - how?
+		- Content is curated. Community-submitted solutions are reviewed to meet various criteria.
+		- Mapping and critiquing alternatives in various domains of endeavour without necessarily dismissing, favouring or integrating any of them.
+	- Rationale for Fresh Alternatives - why
+		- Because there is more to the world than we think. [[Truth is stranger than fiction]] . Ignorance is greater than (small-k) knowledge.
+		- Innovation, transformation and vision come from the fringe. So does the crazy. A balance is needed. An open but critical analysis is warranted.
+		- Removing the venom, vitriole and vilification from arguments about alternatives.
+		- When you realise your "choices" are two sides of the same coin. When the explanations don't seem adequate.
+		- Mainstream alternatives are often the other side of the same coin. Conspiracy theories vary from compelling evidence and sensible stories containing elements of truth descending all the way down to deliberate deception and disempowering self-victimisation. We cannot blindly accept nor deny. Value and power lie in discernment.
+		- History is the history of elites and victors, not necessarily of balance. Dominant theory sometimes dismisses disruptive data. Social systems can be legacies of outdated institutions. The same for all fields of inquiry. What gems have been buried, are neglected or go under-utilised because they are terrifying or troublesome to special interests or the collective (un)conscious?
+		- Conspiracy theories, just like everyone else, combine nuggets of startling truth and noble intentions with smatterings of crazy, wishful thinking and blame projection. They can cultivate victimhood, displace anger and distract from effective living. Ultimately they may not empower any more than what they oppose.
+		- Yesterday’s revolutionary is today’s leader is tomorrow’s tyrant. “Truth” regularly proves untrue or incomplete. Useful tools can become outdated.
+		- To make an informed, enlightened choice, one must be informed of the distinct choices available.
+		- Because "out of the box" has become so cliche. Because "revolution" only takes us around in circles.
+		- Ockham's razor requires a skilled and responsible hand.
+		- There's more to the world than we think. There are more options than we each individually can be aware of.
+		- An abundance of useful alternatives don’t get a voice.
+		- In a world of big data and information gluttony, awareness of our options is still limited.
+	-

@@ -1,225 +1,1407 @@
-[{:block/name "+start here",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
- {:block/name "../assets/contact_1641441508996_0.pdf",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
- {:block/name "1",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
- {:block/name "1/1 enough general indices",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
- {:block/name "1/1 enough general indices-1",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+[{:block/name "\"chris martenson, ph.d\"",
+  :block/created-at 1662194761658,
+  :block/updated-at 1662194761658}
+ {:block/name "'beyond gdp' initiative",
+  :block/created-at 1647085620968,
+  :block/updated-at 1647085637913}
+ {:block/name "'toulmin model'",
+  :block/created-at 1664581627681,
+  :block/updated-at 1664581627681}
+ {:block/name "+start+",
+  :block/created-at 1646075343893,
+  :block/updated-at 1668305535204}
+ {:block/name "01-01-2023",
+  :block/created-at 1665299089335,
+  :block/updated-at 1665299089335}
+ {:block/name "01-03-2022",
+  :block/created-at 1668217770248,
+  :block/updated-at 1668217770248}
+ {:block/name "01-05-2022",
+  :block/created-at 1668217771274,
+  :block/updated-at 1668217771274}
+ {:block/name "01-10-2022",
+  :block/created-at 1668217772082,
+  :block/updated-at 1668217772082}
+ {:block/name "02-01-2023",
+  :block/created-at 1665299089335,
+  :block/updated-at 1665299089335}
+ {:block/name "02-04-2022",
+  :block/created-at 1668217770615,
+  :block/updated-at 1668217770615}
+ {:block/name "02-05-2022",
+  :block/created-at 1668217771297,
+  :block/updated-at 1668217771297}
+ {:block/name "03-03-2022",
+  :block/created-at 1668217770314,
+  :block/updated-at 1668217770314}
+ {:block/name "03-09-2022",
+  :block/created-at 1668217771495,
+  :block/updated-at 1668217771495}
+ {:block/name "03-12-2022",
+  :block/created-at 1665299089333,
+  :block/updated-at 1665299089333}
+ {:block/name "04-02-2022",
+  :block/created-at 1668217770139,
+  :block/updated-at 1668217770139}
+ {:block/name "04-04-2022",
+  :block/created-at 1668217770650,
+  :block/updated-at 1668217770650}
+ {:block/name "04-12-2022",
+  :block/created-at 1665299089333,
+  :block/updated-at 1665299089333}
+ {:block/name "05-09-2022",
+  :block/created-at 1668217771485,
+  :block/updated-at 1668217771485}
+ {:block/name "05-12-2022",
+  :block/created-at 1665299089333,
+  :block/updated-at 1665299089333}
+ {:block/name "06-01-2022",
+  :block/created-at 1668217770024,
+  :block/updated-at 1668217770024}
+ {:block/name "06-01-2023",
+  :block/created-at 1665299089336,
+  :block/updated-at 1665299089336}
+ {:block/name "06-04-2022",
+  :block/created-at 1668217770769,
+  :block/updated-at 1668217770769}
+ {:block/name "06-11-2022",
+  :block/created-at 1668217772295,
+  :block/updated-at 1668217772295}
+ {:block/name "06-12-2022",
+  :block/created-at 1665299089334,
+  :block/updated-at 1665299089334}
+ {:block/name "07-01-2022",
+  :block/created-at 1668217770062,
+  :block/updated-at 1668217770062}
+ {:block/name "07-01-2023",
+  :block/created-at 1665299089336,
+  :block/updated-at 1665299089336}
+ {:block/name "07-04-2022",
+  :block/created-at 1668217770758,
+  :block/updated-at 1668217770758}
+ {:block/name "07-12-2022",
+  :block/created-at 1665299089334,
+  :block/updated-at 1665299089334}
+ {:block/name "08-01-2022",
+  :block/created-at 1668217770045,
+  :block/updated-at 1668217770045}
+ {:block/name "08-01-2023",
+  :block/created-at 1665299089336,
+  :block/updated-at 1665299089336}
+ {:block/name "09-01-2022",
+  :block/created-at 1668217770076,
+  :block/updated-at 1668217770076}
+ {:block/name "09-01-2023",
+  :block/created-at 1665299089337,
+  :block/updated-at 1665299089337}
+ {:block/name "09-04-2022",
+  :block/created-at 1668217770892,
+  :block/updated-at 1668217770892}
+ {:block/name "10",
+  :block/created-at 1664612470210,
+  :block/updated-at 1664612470210}
+ {:block/name "10 ib global futures & foresight",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "10-04-2022",
+  :block/created-at 1668217770868,
+  :block/updated-at 1668217770868}
+ {:block/name "10-09-2022",
+  :block/created-at 1668217771595,
+  :block/updated-at 1668217771595}
+ {:block/name "10-12-2022",
+  :block/created-at 1665299089334,
+  :block/updated-at 1665299089334}
+ {:block/name "10;^children(",
+  :block/created-at 1664612470212,
+  :block/updated-at 1664612470212}
+ {:block/name "10;^children(/templates",
+  :block/created-at 1664612470212,
+  :block/updated-at 1664612470212}
+ {:block/name "10;^children(/templates/opml",
+  :block/created-at 1664612470213,
+  :block/updated-at 1664612470213}
+ {:block/name "10;^children(/templates/opml/opml",
+  :block/created-at 1664612470211,
+  :block/updated-at 1664612470211}
+ {:block/name "10;^children(/templates/scrivener",
+  :block/created-at 1664612470213,
+  :block/updated-at 1664612470213}
+ {:block/name "10;^children(/templates/scrivener/scrivener",
+  :block/created-at 1664612470211,
+  :block/updated-at 1664612470211}
+ {:block/name "10;^else^^indent(&quot;\\t&quot;",
+  :block/created-at 1664612470210,
+  :block/updated-at 1664612470210}
+ {:block/name "10;^endif^&",
+  :block/created-at 1664612470210,
+  :block/updated-at 1664612470210}
+ {:block/name "10gff",
+  :block/created-at 1643757451248,
+  :block/updated-at 1643757451248}
  {:block/name "10ibcore+",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
- {:block/name "11-01-2022",
-  :block/created-at 1641859200000,
-  :block/updated-at 1641859200000}
+ {:block/name "11-04-2022",
+  :block/created-at 1668217770867,
+  :block/updated-at 1668217770867}
+ {:block/name "11-12-2021",
+  :block/created-at 1668217770007,
+  :block/updated-at 1668217770007}
+ {:block/name "12-01-2023",
+  :block/created-at 1665299089337,
+  :block/updated-at 1665299089337}
+ {:block/name "12-03-2022",
+  :block/created-at 1668217770471,
+  :block/updated-at 1668217770471}
+ {:block/name "12-04-2022",
+  :block/created-at 1668217771083,
+  :block/updated-at 1668217771083}
  {:block/name "13-01-2022",
-  :block/created-at 1642053828715,
-  :block/updated-at 1642054699268}
- {:block/name "17-01-2022",
-  :block/created-at 1642377600000,
-  :block/updated-at 1642377600000}
+  :block/created-at 1668217770126,
+  :block/updated-at 1668217770126}
+ {:block/name "13-03-2022",
+  :block/created-at 1668217770427,
+  :block/updated-at 1668217770427}
+ {:block/name "13-10-2022",
+  :block/created-at 1668217772202,
+  :block/updated-at 1668217772202}
+ {:block/name "13-11-2022",
+  :block/created-at 1668294746596,
+  :block/updated-at 1668294746596}
+ {:block/name "14-04-2022",
+  :block/created-at 1668217771072,
+  :block/updated-at 1668217771072}
+ {:block/name "14-05-2022",
+  :block/created-at 1668217771283,
+  :block/updated-at 1668217771283}
+ {:block/name "14-11-2022",
+  :block/created-at 1668348070972,
+  :block/updated-at 1668348070972}
+ {:block/name "15-12-2021",
+  :block/created-at 1668217769970,
+  :block/updated-at 1668217769970}
+ {:block/name "16-01-2022",
+  :block/created-at 1668217770150,
+  :block/updated-at 1668217770150}
+ {:block/name "16-04-2022",
+  :block/created-at 1668217770867,
+  :block/updated-at 1668217770867}
+ {:block/name "16-08-2022",
+  :block/created-at 1668217771407,
+  :block/updated-at 1668217771407}
+ {:block/name "17-03-2022",
+  :block/created-at 1668217770366,
+  :block/updated-at 1668217770366}
+ {:block/name "17-09-2022",
+  :block/created-at 1668217771724,
+  :block/updated-at 1668217771724}
+ {:block/name "17-12-2022",
+  :block/created-at 1665299089334,
+  :block/updated-at 1665299089334}
+ {:block/name "18-03-2022",
+  :block/created-at 1668217770335,
+  :block/updated-at 1668217770335}
+ {:block/name "18-09-2022",
+  :block/created-at 1668217771740,
+  :block/updated-at 1668217771740}
+ {:block/name "19-03-2022",
+  :block/created-at 1668217770327,
+  :block/updated-at 1668217770327}
+ {:block/name "19-09-2022",
+  :block/created-at 1668217771822,
+  :block/updated-at 1668217771822}
+ {:block/name "19-12-2021",
+  :block/created-at 1668217769982,
+  :block/updated-at 1668217769982}
+ {:block/name "1951",
+  :block/created-at 1647513022919,
+  :block/updated-at 1647513022919}
+ {:block/name "20-03-2022",
+  :block/created-at 1668217770581,
+  :block/updated-at 1668217770581}
+ {:block/name "20-11-2022",
+  :block/created-at 1668900550436,
+  :block/updated-at 1668900550436}
+ {:block/name "21-09-2022",
+  :block/created-at 1668217771810,
+  :block/updated-at 1668217771810}
+ {:block/name "22-01-2022",
+  :block/created-at 1668217770167,
+  :block/updated-at 1668217770167}
+ {:block/name "22-10-2022",
+  :block/created-at 1668217772192,
+  :block/updated-at 1668217772192}
+ {:block/name "23-01-2022",
+  :block/created-at 1668217770109,
+  :block/updated-at 1668217770109}
+ {:block/name "23-10-2022",
+  :block/created-at 1668217772287,
+  :block/updated-at 1668217772287}
+ {:block/name "24-12-2022",
+  :block/created-at 1665299089334,
+  :block/updated-at 1665299089334}
+ {:block/name "25-09-2022",
+  :block/created-at 1668217772005,
+  :block/updated-at 1668217772005}
+ {:block/name "25-10-2022",
+  :block/created-at 1668217772303,
+  :block/updated-at 1668217772303}
+ {:block/name "26-02-2022",
+  :block/created-at 1668217770208,
+  :block/updated-at 1668217770208}
+ {:block/name "26-03-2022",
+  :block/created-at 1668217770537,
+  :block/updated-at 1668217770537}
+ {:block/name "26-09-2022",
+  :block/created-at 1668217771972,
+  :block/updated-at 1668217771972}
+ {:block/name "27-02-2022",
+  :block/created-at 1668217770232,
+  :block/updated-at 1668217770232}
+ {:block/name "27-09-2022",
+  :block/created-at 1668217771936,
+  :block/updated-at 1668217771936}
+ {:block/name "28-09-2022",
+  :block/created-at 1668217772016,
+  :block/updated-at 1668217772016}
+ {:block/name "29-09-2022",
+  :block/created-at 1668217772023,
+  :block/updated-at 1668217772023}
+ {:block/name "3 levels of metamechanics",
+  :block/created-at 1664272801412,
+  :block/updated-at 1664272833996}
+ {:block/name "3 steps of forgiveness",
+  :block/created-at 1664243445982,
+  :block/updated-at 1664243445982}
+ {:block/name "3-d wiki",
+  :block/created-at 1647509163942,
+  :block/updated-at 1647509163942}
+ {:block/name "30-04-2022",
+  :block/created-at 1668217771190,
+  :block/updated-at 1668217771190}
+ {:block/name "31-12-2022",
+  :block/created-at 1665299089335,
+  :block/updated-at 1665299089335}
+ {:block/name
+  "36 arguments for the existence of god: a work of fiction",
+  :block/created-at 1660600497238,
+  :block/updated-at 1660600497238}
+ {:block/name "3b",
+  :block/created-at 1664232287123,
+  :block/updated-at 1664232287123}
+ {:block/name "4c",
+  :block/created-at 1649974789863,
+  :block/updated-at 1649974789863}
+ {:block/name
+  "4c or foresee: what is really needed for the future of education?",
+  :block/created-at 1664243449456,
+  :block/updated-at 1664243449456}
+ {:block/name "7c's of a project",
+  :block/created-at 1664254759938,
+  :block/updated-at 1664254759938}
+ {:block/name "7p",
+  :block/created-at 1647054477866,
+  :block/updated-at 1647054477866}
+ {:block/name "80",
+  :block/created-at 1647133253728,
+  :block/updated-at 1647133253728}
+ {:block/name "80/20 idea",
+  :block/created-at 1647133253728,
+  :block/updated-at 1647133253728}
+ {:block/name "9-11",
+  :block/created-at 1642907292473,
+  :block/updated-at 1642907309463}
  {:block/name "a",
   :block/created-at 1639217415980,
   :block/updated-at 1639217415980}
+ {:block/name "a course in miracles",
+  :block/created-at 1642906083890,
+  :block/updated-at 1642906097163}
+ {:block/name "a global community of deep energy futures experts",
+  :block/created-at 1647509163487,
+  :block/updated-at 1647509163487}
+ {:block/name
+  "a hub to begin informing your choices and broadening horizons",
+  :block/created-at 1647509163428,
+  :block/updated-at 1647509163428}
+ {:block/name "a list of interesting spiritual figures worth heeding",
+  :block/created-at 1649887194106,
+  :block/updated-at 1649887258865}
  {:block/name "a new kind of science – stephen wolfram",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "a note on mapping",
+  :block/created-at 1664185604303,
+  :block/updated-at 1664185604303}
  {:block/name "a note to forthcoming critics",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "a primer on fasting",
+  :block/created-at 1649671734266,
+  :block/updated-at 1649715717608}
+ {:block/name "a recent history of futures in the ib.",
+  :block/created-at 1647026267622,
+  :block/updated-at 1647026318728}
+ {:block/name "a scared society's fearless future",
+  :block/created-at 1647082201583,
+  :block/updated-at 1664164122410}
+ {:block/name "a textbook for the futures",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
+ {:block/name "aa",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "aaps",
+  :block/created-at 1646268093095,
+  :block/updated-at 1646268093095}
+ {:block/name
+  "abortion, euthanasia, death penalty and genetic engineering",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
+ {:block/name "about",
+  :block/created-at 1665617573795,
+  :block/updated-at 1668295628288}
+ {:block/name "about ffed",
+  :block/created-at 1647054477978,
+  :block/updated-at 1647054477978}
+ {:block/name "about me - adam duus",
+  :block/created-at 1664671405109,
+  :block/updated-at 1667689965449}
  {:block/name "about the author – adam duus",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "about the metamechanic knowledge farm",
+  :block/created-at 1664672043240,
+  :block/updated-at 1664672043240}
+ {:block/name "about the projects",
+  :block/created-at 1664671469788,
+  :block/updated-at 1664671469788}
+ {:block/name "about this knowledge farm - the metamechanic",
+  :block/created-at 1664671613509,
+  :block/updated-at 1664672261597}
+ {:block/name "abs",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name "academia",
+  :block/created-at 1646075343893,
+  :block/updated-at 1646075343893}
  {:block/name "academia.edu",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "academic",
+  :block/created-at 1666391816899,
+  :block/updated-at 1666391816899}
+ {:block/name "academics",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name
+  "academy for the advancement of postmaterialist sciences",
+  :block/created-at 1646265687299,
+  :block/updated-at 1664612256734}
+ {:block/name "acim",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "acim accordance",
+  :block/created-at 1647054423207,
+  :block/updated-at 1647054434332}
+ {:block/name "acim transcription & translation",
+  :block/created-at 1663372614568,
+  :block/updated-at 1663372614568}
  {:block/name "acim-lote",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "acim-obsidian",
+  :block/created-at 1642884504284,
+  :block/updated-at 1642884511792}
+ {:block/name "acimob",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
  {:block/name "acknowledgement of personal position",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "acknowledgements and inspirations",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "acknowledgements and inspirations-1",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "acknowledging hierarchies of alternatives",
+  :block/created-at 1647509163430,
+  :block/updated-at 1647509163430}
+ {:block/name "activist",
+  :block/created-at 1665635129108,
+  :block/updated-at 1665635129108}
+ {:block/name "actors & agencies in efa",
+  :block/created-at 1647574765600,
+  :block/updated-at 1647574765600}
+ {:block/name "acute flaccid paralysis",
+  :block/created-at 1651379707292,
+  :block/updated-at 1651379707292}
+ {:block/name "adam - a metamechanic in the making",
+  :block/created-at 1647574762593,
+  :block/updated-at 1647574762593}
+ {:block/name "adam duus",
+  :block/created-at 1647509160006,
+  :block/updated-at 1647509160006}
+ {:block/name "admin",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "administration",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "advanced new energy organisation",
+  :block/created-at 1642906251939,
+  :block/updated-at 1664622575300}
+ {:block/name "aeon timeline",
+  :block/created-at 1649567102762,
+  :block/updated-at 1649567102762}
+ {:block/name "aeon.co",
+  :block/created-at 1648846259529,
+  :block/updated-at 1648846259529}
+ {:block/name "aether",
+  :block/created-at 1664665944482,
+  :block/updated-at 1664665944482}
  {:block/name "afterword with a note to impending critics",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "ai",
+  :block/created-at 1647054477491,
+  :block/updated-at 1647054477491}
+ {:block/name "aims & objectives of efa",
+  :block/created-at 1668317302147,
+  :block/updated-at 1668317302147}
+ {:block/name "aldous huxley",
+  :block/created-at 1647133336051,
+  :block/updated-at 1647133336051}
+ {:block/name "alex madrigal",
+  :block/created-at 1664243415273,
+  :block/updated-at 1664243415273}
  {:block/name "alexandra okada",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "alfred tarski",
+  :block/created-at 1664243911541,
+  :block/updated-at 1664243911541}
+ {:block/name "alien spacecraft",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "aliens",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "allocating  manipulating material resources",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "allocations of authority",
+  :block/created-at 1664184645551,
+  :block/updated-at 1664184645551}
+ {:block/name
+  "alter-egos, parallel identities & individual endeavours - page",
+  :block/created-at 1647509160011,
+  :block/updated-at 1647509160011}
+ {:block/name "alternativemedicine",
+  :block/created-at 1647509464659,
+  :block/updated-at 1647509464659}
  {:block/name "amazon prime",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "amt",
+  :block/created-at 1646075343893,
+  :block/updated-at 1646075343893}
+ {:block/name "amt/book",
+  :block/created-at 1662194761645,
+  :block/updated-at 1662197867789}
+ {:block/name "amt/business",
+  :block/created-at 1662194762507,
+  :block/updated-at 1662194762507}
+ {:block/name "amt/references",
+  :block/created-at 1662194762508,
+  :block/updated-at 1662194762508}
+ {:block/name "amt/tasks",
+  :block/created-at 1662194762507,
+  :block/updated-at 1662194762507}
+ {:block/name "amt/tbx",
+  :block/created-at 1664163555717,
+  :block/updated-at 1664163555717}
+ {:block/name "an abundance of useful alternatives don’t get a voice",
+  :block/created-at 1647509163461,
+  :block/updated-at 1647509163461}
+ {:block/name "an acknowledgment and appeal from the author",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "an alphabet of spiritual pointers & people",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
+ {:block/name "an appeal for assistance",
+  :block/created-at 1647509160058,
+  :block/updated-at 1647509160058}
+ {:block/name
+  "an information portal for accessing alternative ideas, concepts, models, systems and tools in all fields of human endeavour",
+  :block/created-at 1647509163464,
+  :block/updated-at 1647509163464}
+ {:block/name
+  "an interactive online knowledge community built by participants",
+  :block/created-at 1647509163432,
+  :block/updated-at 1647509163432}
+ {:block/name "an introduction to futures studies for the ib",
+  :block/created-at 1647026338660,
+  :block/updated-at 1647026382724}
+ {:block/name "anatomy",
+  :block/created-at 1651459211308,
+  :block/updated-at 1651459211308}
+ {:block/name "andrew kaufman, md",
+  :block/created-at 1648845713681,
+  :block/updated-at 1648845713681}
+ {:block/name "andrew loutit",
+  :block/created-at 1650074867635,
+  :block/updated-at 1650074867635}
+ {:block/name "andrew mcginn",
+  :block/created-at 1651459396236,
+  :block/updated-at 1651459447013}
+ {:block/name "aneo",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "aneo/tasks",
+  :block/created-at 1664244834459,
+  :block/updated-at 1664244834459}
+ {:block/name "aneo/website",
+  :block/created-at 1664244842272,
+  :block/updated-at 1664244842272}
+ {:block/name "anew",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "animal mutilations",
+  :block/created-at 1647512652187,
+  :block/updated-at 1647512652187}
+ {:block/name "anoteonmetamechanics",
+  :block/created-at 1664185484985,
+  :block/updated-at 1664185484985}
+ {:block/name "another m-theory",
+  :block/created-at 1645914938081,
+  :block/updated-at 1666397756924}
+ {:block/name "antediluvian",
+  :block/created-at 1664255754044,
+  :block/updated-at 1664255754044}
+ {:block/name "anti-gravity",
+  :block/created-at 1647513140380,
+  :block/updated-at 1647513140380}
+ {:block/name "anti-science",
+  :block/created-at 1647125938157,
+  :block/updated-at 1647125938157}
+ {:block/name "anything goes",
+  :block/created-at 1647509163437,
+  :block/updated-at 1647509163437}
+ {:block/name "app",
+  :block/created-at 1647509164409,
+  :block/updated-at 1647509164409}
+ {:block/name "apple mail",
+  :block/created-at 1647733599605,
+  :block/updated-at 1647733599605}
+ {:block/name "applications & consequences",
+  :block/created-at 1642891118919,
+  :block/updated-at 1642891118919}
+ {:block/name "argmaps",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "argument mapping",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1642907285929}
+ {:block/name "argument maps",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "argumentation",
+  :block/created-at 1664666095688,
+  :block/updated-at 1664666095688}
+ {:block/name "armin navabi",
+  :block/created-at 1660600403891,
+  :block/updated-at 1660600403891}
+ {:block/name "array",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "array attire",
+  :block/created-at 1642906123805,
+  :block/updated-at 1664244223316}
+ {:block/name "array attire/business",
+  :block/created-at 1664167903337,
+  :block/updated-at 1664167903337}
+ {:block/name "array attire/content",
+  :block/created-at 1664167920003,
+  :block/updated-at 1664167920003}
+ {:block/name "array attire/tasks",
+  :block/created-at 1664097778065,
+  :block/updated-at 1664097834753}
+ {:block/name "array attire/website",
+  :block/created-at 1664167909749,
+  :block/updated-at 1664167909749}
+ {:block/name "art of science and teaching",
+  :block/created-at 1663368378317,
+  :block/updated-at 1663368378317}
+ {:block/name "arthur firstenberg",
+  :block/created-at 1651475841741,
+  :block/updated-at 1651475841741}
+ {:block/name "article",
+  :block/created-at 1643757451248,
+  :block/updated-at 1643757451248}
+ {:block/name "articles",
+  :block/created-at 1643757451248,
+  :block/updated-at 1643757451248}
+ {:block/name "artificial intelligence",
+  :block/created-at 1647054477491,
+  :block/updated-at 1647054477491}
+ {:block/name "aspen",
+  :block/created-at 1647654539177,
+  :block/updated-at 1647729592992}
+ {:block/name "aspirin",
+  :block/created-at 1651475967211,
+  :block/updated-at 1651475967211}
+ {:block/name "atheism",
+  :block/created-at 1660599811628,
+  :block/updated-at 1660599811628}
+ {:block/name "atheism: the case against god",
+  :block/created-at 1666388269191,
+  :block/updated-at 1666388329536}
+ {:block/name "atlantis",
+  :block/created-at 1647127335091,
+  :block/updated-at 1647127335091}
+ {:block/name "atlantis, the antediluvian world",
+  :block/created-at 1664255617446,
+  :block/updated-at 1664255783704}
+ {:block/name "atom app",
+  :block/created-at 1642891516114,
+  :block/updated-at 1642891520833}
+ {:block/name "atomapp",
+  :block/created-at 1642919092940,
+  :block/updated-at 1642919092940}
  {:block/name
   "attempts to hoard and keephave is a misguided attempt to have the love of god",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "audience - participants",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "audio-visual",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "authentic, reflexive, critical science",
+  :block/created-at 1647509164302,
+  :block/updated-at 1647509164302}
+ {:block/name "author",
+  :block/created-at 1651376891805,
+  :block/updated-at 1651376891805}
+ {:block/name "authors",
+  :block/created-at 1662194762677,
+  :block/updated-at 1662194762677}
+ {:block/name "autophagy",
+  :block/created-at 1649671896590,
+  :block/updated-at 1649715746733}
  {:block/name "b",
   :block/created-at 1639217415980,
   :block/updated-at 1639217415980}
+ {:block/name "babies, bibles and bathwater",
+  :block/created-at 1647081551244,
+  :block/updated-at 1664164107079}
+ {:block/name "bamboo folio",
+  :block/created-at 1647723869433,
+  :block/updated-at 1647723869433}
+ {:block/name "bamboo slate",
+  :block/created-at 1647723864536,
+  :block/updated-at 1647723864536}
+ {:block/name "barriers to knowledge action accessibility",
+  :block/created-at 1647509163949,
+  :block/updated-at 1647509163949}
+ {:block/name "bayes theorem",
+  :block/created-at 1646265475128,
+  :block/updated-at 1646265475128}
+ {:block/name "bayesian probability",
+  :block/created-at 1646265475127,
+  :block/updated-at 1646265475127}
+ {:block/name "bbb",
+  :block/created-at 1647054477866,
+  :block/updated-at 1647054477866}
+ {:block/name "bbva",
+  :block/created-at 1664581622631,
+  :block/updated-at 1664581622631}
+ {:block/name "bbva openmind",
+  :block/created-at 1664581622629,
+  :block/updated-at 1664581622629}
+ {:block/name "behind, below, beyond",
+  :block/created-at 1643757451251,
+  :block/updated-at 1664167391272}
+ {:block/name "behind, below, beyond/tasks",
+  :block/created-at 1664166756375,
+  :block/updated-at 1664166758932}
+ {:block/name
+  "believing is seeing: a physicist explains how science shattered his atheism and revealed the necessity of faith",
+  :block/created-at 1664243446045,
+  :block/updated-at 1664243446045}
+ {:block/name
+  "beyond a materialist worldview: towards an expanded science",
+  :block/created-at 1664243445941,
+  :block/updated-at 1664243445941}
+ {:block/name
+  "beyond a materialist worldview_ towards an expanded science",
+  :block/created-at 1647512111239,
+  :block/updated-at 1647512546805}
+ {:block/name "bibliography, data and reports",
+  :block/created-at 1668312765745,
+  :block/updated-at 1668312765745}
+ {:block/name "big questions",
+  :block/created-at 1647075152715,
+  :block/updated-at 1666397901789}
+ {:block/name "bigdata",
+  :block/created-at 1647509164694,
+  :block/updated-at 1647509164694}
+ {:block/name "bigquestions",
+  :block/created-at 1647075152715,
+  :block/updated-at 1648253403950}
+ {:block/name "bill kelly",
+  :block/created-at 1647512721251,
+  :block/updated-at 1647512721251}
+ {:block/name "bill tiller",
+  :block/created-at 1664581628823,
+  :block/updated-at 1664581628823}
+ {:block/name "biochemist",
+  :block/created-at 1651456792135,
+  :block/updated-at 1651456792135}
+ {:block/name "biophysics",
+  :block/created-at 1651459224476,
+  :block/updated-at 1651459224476}
  {:block/name "biotech and food  ",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "black death",
+  :block/created-at 1651460669651,
+  :block/updated-at 1651460669651}
+ {:block/name "blog",
+  :block/created-at 1647026243344,
+  :block/updated-at 1647026243344}
+ {:block/name "blogroll from tbx",
+  :block/created-at 1664232216123,
+  :block/updated-at 1664232216123}
  {:block/name "bob horn",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "bobmarleyonapartner",
+  :block/created-at 1664184217804,
+  :block/updated-at 1664184217804}
+ {:block/name "bogansattva",
+  :block/created-at 1647075347189,
+  :block/updated-at 1647075347189}
+ {:block/name "bogansattva2",
+  :block/created-at 1666404047661,
+  :block/updated-at 1666404047661}
+ {:block/name "book",
+  :block/created-at 1642906339432,
+  :block/updated-at 1642906340583}
+ {:block/name "bookdown",
+  :block/created-at 1647027074381,
+  :block/updated-at 1647027074381}
  {:block/name "bookends",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "books",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "branko fuerst",
+  :block/created-at 1651459391333,
+  :block/updated-at 1651459741565}
+ {:block/name "brett deniese",
+  :block/created-at 1650073445297,
+  :block/updated-at 1650073445297}
+ {:block/name "brezlaw",
+  :block/created-at 1651474700970,
+  :block/updated-at 1651474700970}
+ {:block/name "brian greene",
+  :block/created-at 1660599638802,
+  :block/updated-at 1660599638802}
+ {:block/name "brian muraresku",
+  :block/created-at 1665634683316,
+  :block/updated-at 1665636024565}
+ {:block/name "bruce lipton",
+  :block/created-at 1664581628829,
+  :block/updated-at 1664581628829}
+ {:block/name "bubble.io",
+  :block/created-at 1647054477514,
+  :block/updated-at 1668295050764}
+ {:block/name "bubonic plague",
+  :block/created-at 1651460669650,
+  :block/updated-at 1651460669650}
  {:block/name "buckminster fuller",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
  {:block/name "c",
   :block/created-at 1639217415980,
   :block/updated-at 1639217415980}
+ {:block/name "cairo",
+  :block/created-at 1665299089332,
+  :block/updated-at 1665299089332}
+ {:block/name "calorierestriction",
+  :block/created-at 1649714961002,
+  :block/updated-at 1649714961002}
  {:block/name "can we even provide everyone with more than enough",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "canceled",
+  :block/created-at 1660473713348,
+  :block/updated-at 1660473713348}
+ {:block/name "cancelled",
+  :block/created-at 1660473713348,
+  :block/updated-at 1660473713348}
  {:block/name "card",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
+ {:block/name "carl jung",
+  :block/created-at 1647133328253,
+  :block/updated-at 1647133328253}
  {:block/name "cas",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "ce5",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "central idea ",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "challenges",
+  :block/created-at 1647054477694,
+  :block/updated-at 1647054477694}
+ {:block/name "chaos",
+  :block/created-at 1664581629525,
+  :block/updated-at 1664581629525}
+ {:block/name "charles eisenstein",
+  :block/created-at 1664581628822,
+  :block/updated-at 1664581628822}
+ {:block/name "chasing our tale",
+  :block/created-at 1647081467894,
+  :block/updated-at 1664164085255}
+ {:block/name "chephren",
+  :block/created-at 1664581628776,
+  :block/updated-at 1664581628776}
+ {:block/name "chiara marletto",
+  :block/created-at 1645913879634,
+  :block/updated-at 1645913969178}
+ {:block/name "china",
+  :block/created-at 1650003488419,
+  :block/updated-at 1650003488419}
+ {:block/name "chris klimer",
+  :block/created-at 1648846307579,
+  :block/updated-at 1648846307579}
+ {:block/name "chris martenson, ph.d",
+  :block/created-at 1648846205331,
+  :block/updated-at 1648846205331}
+ {:block/name "christopher hitchens",
+  :block/created-at 1662194762497,
+  :block/updated-at 1662194762497}
+ {:block/name "circular thinking-1",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
+ {:block/name "claim",
+  :block/created-at 1664581628684,
+  :block/updated-at 1664581628684}
  {:block/name
-  "clashing metaphors about classroom teachers_ toward a systematic typology for the language teaching field",
-  :block/created-at 1642053979828,
-  :block/updated-at 1642054617609}
+  "clashing metaphors about classroom teachers: toward a systematic typology for the language teaching field",
+  :block/created-at 1664243446104,
+  :block/updated-at 1664243446104}
+ {:block/name "claus kohnlein, md",
+  :block/created-at 1651376424181,
+  :block/updated-at 1651376424181}
+ {:block/name "climactic change theory of bubonic plague",
+  :block/created-at 1651461013396,
+  :block/updated-at 1651461013396}
+ {:block/name "climate change",
+  :block/created-at 1664581629519,
+  :block/updated-at 1664581629519}
  {:block/name "cloudflare",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "cloudflare pages",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "club of rome",
+  :block/created-at 1643975504345,
+  :block/updated-at 1643975613145}
  {:block/name "cmap tools",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "coda vs notion assessment",
+  :block/created-at 1650080329212,
+  :block/updated-at 1650080437741}
+ {:block/name "coda.io",
+  :block/created-at 1650080219528,
+  :block/updated-at 1650080329214}
+ {:block/name "coding",
+  :block/created-at 1647654552436,
+  :block/updated-at 1647654552436}
+ {:block/name "cognitive biases",
+  :block/created-at 1652645780441,
+  :block/updated-at 1652645780441}
+ {:block/name "cognitive immunology",
+  :block/created-at 1650002789229,
+  :block/updated-at 1650002873302}
+ {:block/name "cold fusion",
+  :block/created-at 1664665092163,
+  :block/updated-at 1664665092163}
+ {:block/name "colin wilson",
+  :block/created-at 1664581628827,
+  :block/updated-at 1664581628827}
+ {:block/name "collaborate",
+  :block/created-at 1650003579883,
+  :block/updated-at 1650003579883}
+ {:block/name "collaboration",
+  :block/created-at 1650003582840,
+  :block/updated-at 1650003582840}
+ {:block/name "collaborator",
+  :block/created-at 1649982598305,
+  :block/updated-at 1650003601358}
+ {:block/name "communicating data for easier intellectual digestion",
+  :block/created-at 1647509162999,
+  :block/updated-at 1647509162999}
+ {:block/name "community curation",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "community-curated multi-layered data portal",
+  :block/created-at 1647509162587,
+  :block/updated-at 1647509162587}
+ {:block/name "comparative religion",
+  :block/created-at 1646265475127,
+  :block/updated-at 1646265475127}
+ {:block/name "comparator",
+  :block/created-at 1664622575299,
+  :block/updated-at 1664622575299}
+ {:block/name
+  "compare and contrast competing futures and conflicting forecasts",
+  :block/created-at 1647509163570,
+  :block/updated-at 1647509163570}
  {:block/name "compendium",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "competitor",
+  :block/created-at 1664622571251,
+  :block/updated-at 1664622571251}
  {:block/name
   "complex stories can be simplified without becoming simplistic",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "complexadaptivesystems",
+  :block/created-at 1647509165032,
+  :block/updated-at 1647509165032}
+ {:block/name "complexity",
+  :block/created-at 1647509165032,
+  :block/updated-at 1647509165032}
  {:block/name "computer languages",
   :block/created-at 1641431107174,
   :block/updated-at 1641431107174}
+ {:block/name "concept",
+  :block/created-at 1664665222351,
+  :block/updated-at 1664665222351}
  {:block/name "concept mapping",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "conclusion",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
- {:block/name "conclusion 110909",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "conflict avocados",
+  :block/created-at 1647050606604,
+  :block/updated-at 1647050606604}
+ {:block/name "conquistadores",
+  :block/created-at 1651461378409,
+  :block/updated-at 1651461378409}
+ {:block/name "consciousness",
+  :block/created-at 1642891118925,
+  :block/updated-at 1642891118925}
+ {:block/name
+  "conspiracy theories, just like everyone else, combine nuggets of startling truth and noble intentions with smatterings of crazy, wishful thinking and blame projection",
+  :block/created-at 1647509163467,
+  :block/updated-at 1647509163467}
+ {:block/name
+  "conspiracy theories, just like everyone else, combine nuggets of startling truth and noble intentions with smatterings of crazy, wishful thinking and blame projection/ they can cultivate victimhood, displace anger and distract from effective living",
+  :block/created-at 1647509163468,
+  :block/updated-at 1647509163468}
+ {:block/name
+  "conspiracy theories, just like everyone else, combine nuggets of startling truth and noble intentions with smatterings of crazy, wishful thinking and blame projection/ they can cultivate victimhood, displace anger and distract from effective living/ ",
+  :block/created-at 1647509163467,
+  :block/updated-at 1647509163467}
+ {:block/name "constructor theory",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "contact",
+  :block/created-at 1651267615440,
+  :block/updated-at 1651267615440}
+ {:block/name "contentcuration",
+  :block/created-at 1650002111605,
+  :block/updated-at 1650002111605}
  {:block/name "contents",
   :block/created-at 1639217415979,
-  :block/updated-at 1639537385569}
+  :block/updated-at 1666395080717}
  {:block/name "controversy mapping",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "conversations with god",
+  :block/created-at 1647133358835,
+  :block/updated-at 1647133358835}
+ {:block/name "corporate kleptocracy",
+  :block/created-at 1647513148891,
+  :block/updated-at 1647513148891}
+ {:block/name "cos",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "cosma",
+  :block/created-at 1663720627932,
+  :block/updated-at 1663721429439}
+ {:block/name "cosmology",
+  :block/created-at 1660599690056,
+  :block/updated-at 1660599690056}
+ {:block/name "costa rica",
+  :block/created-at 1665635797231,
+  :block/updated-at 1665635797231}
+ {:block/name "course",
+  :block/created-at 1647026916638,
+  :block/updated-at 1647026916638}
  {:block/name "courses",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1664165721848}
+ {:block/name "covid",
+  :block/created-at 1665299089331,
+  :block/updated-at 1665299089331}
+ {:block/name "covid-19",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
  {:block/name "cpanel webmail",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "creation & miscreation",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "creationism",
+  :block/created-at 1646075343893,
+  :block/updated-at 1646075343893}
+ {:block/name "creators",
+  :block/created-at 1666391816900,
+  :block/updated-at 1666391816900}
+ {:block/name "critical thinking",
+  :block/created-at 1648269342479,
+  :block/updated-at 1648269364476}
  {:block/name "critique of current and past solutions",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
- {:block/name "critique of current and past solutions general",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "cults, idols and teachers",
+  :block/created-at 1647133295609,
+  :block/updated-at 1647133295609}
+ {:block/name "cultural ",
+  :block/created-at 1665299089339,
+  :block/updated-at 1665299089339}
+ {:block/name "curated cartographic content communities",
+  :block/created-at 1649973282166,
+  :block/updated-at 1650073381956}
+ {:block/name "cypher",
+  :block/created-at 1647654572388,
+  :block/updated-at 1647654572388}
+ {:block/name "cyril northcote parkinson",
+  :block/created-at 1664243415107,
+  :block/updated-at 1664243415107}
+ {:block/name "d-pat",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "d. patrick miller",
+  :block/created-at 1642895608369,
+  :block/updated-at 1642895608369}
+ {:block/name "daily",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "daily routine",
+  :block/created-at 1642807098642,
+  :block/updated-at 1650009628104}
  {:block/name "daily template",
   :block/created-at 1639529925709,
-  :block/updated-at 1641714156263}
+  :block/updated-at 1647734108787}
+ {:block/name "dailyroutine",
+  :block/created-at 1649978545701,
+  :block/updated-at 1649978545701}
+ {:block/name "dampier archipelago",
+  :block/created-at 1648256931565,
+  :block/updated-at 1648256931565}
+ {:block/name "daniel dennett",
+  :block/created-at 1662194762497,
+  :block/updated-at 1662194762497}
+ {:block/name "daniel kahneman",
+  :block/created-at 1664243415115,
+  :block/updated-at 1664243415115}
  {:block/name "data science",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "data source",
+  :block/created-at 1663740829694,
+  :block/updated-at 1663740829694}
+ {:block/name "data types",
+  :block/created-at 1663721610233,
+  :block/updated-at 1663721610233}
+ {:block/name "data visualisation & infographics",
+  :block/created-at 1647509163001,
+  :block/updated-at 1647509163001}
  {:block/name "data visualization",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "database",
+  :block/created-at 1647509164597,
+  :block/updated-at 1647509164597}
+ {:block/name "david bohm",
+  :block/created-at 1660599561568,
+  :block/updated-at 1660599561568}
+ {:block/name "david chalmers",
+  :block/created-at 1647733256939,
+  :block/updated-at 1647733256939}
+ {:block/name "david childress",
+  :block/created-at 1664581628826,
+  :block/updated-at 1664581628826}
+ {:block/name "david hoffmeister",
+  :block/created-at 1649887258518,
+  :block/updated-at 1649887258518}
+ {:block/name "david lorimer",
+  :block/created-at 1647512334633,
+  :block/updated-at 1647512369211}
+ {:block/name "david parker",
+  :block/created-at 1651460414208,
+  :block/updated-at 1651460414208}
+ {:block/name "david perkins",
+  :block/created-at 1647054477987,
+  :block/updated-at 1647054477987}
+ {:block/name "david rasnick, phd",
+  :block/created-at 1651456781284,
+  :block/updated-at 1651456792135}
+ {:block/name "david weeks",
+  :block/created-at 1664255313358,
+  :block/updated-at 1664255313358}
+ {:block/name "dawn lester",
+  :block/created-at 1651460399942,
+  :block/updated-at 1651460399942}
+ {:block/name "ddt",
+  :block/created-at 1651377137402,
+  :block/updated-at 1651377137402}
+ {:block/name "dean radin",
+  :block/created-at 1646268093093,
+  :block/updated-at 1646268093093}
  {:block/name "debate graphing",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
- {:block/name "dec 11th, 2021",
-  :block/created-at 1639180800000,
-  :block/updated-at 1639180800000}
- {:block/name "dec 15th, 2021",
-  :block/created-at 1639526400000,
-  :block/updated-at 1639526400000}
- {:block/name "dec 19th, 2021",
-  :block/created-at 1639872000000,
-  :block/updated-at 1639872000000}
+ {:block/name "debategraph",
+  :block/created-at 1647509164409,
+  :block/updated-at 1647509164409}
+ {:block/name "decision making",
+  :block/created-at 1664581629522,
+  :block/updated-at 1664581629522}
+ {:block/name "decisions",
+  :block/created-at 1664243415117,
+  :block/updated-at 1664243415117}
+ {:block/name "deep, civilizational, long-term",
+  :block/created-at 1647509163524,
+  :block/updated-at 1647509163524}
+ {:block/name "deepak chopra",
+  :block/created-at 1647133341720,
+  :block/updated-at 1647133341720}
  {:block/name "define technology it has to be a broad definition ie",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "definitions & concepts",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name "democracy",
+  :block/created-at 1663740723638,
+  :block/updated-at 1663740723638}
+ {:block/name "designer",
+  :block/created-at 1649982681480,
+  :block/updated-at 1649982681480}
  {:block/name "devonthink",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "diagnosis",
+  :block/created-at 1642897206145,
+  :block/updated-at 1665636330883}
+ {:block/name "diagnosis/tasks",
+  :block/created-at 1664166594776,
+  :block/updated-at 1664166835871}
  {:block/name "dialogue mapping",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "differentiation",
+  :block/created-at 1647509164421,
+  :block/updated-at 1647509164421}
+ {:block/name "digital notepads",
+  :block/created-at 1647725161825,
+  :block/updated-at 1647725250990}
+ {:block/name "digitallegacy",
+  :block/created-at 1650002595281,
+  :block/updated-at 1650002595281}
+ {:block/name "disclosure project",
+  :block/created-at 1647514098212,
+  :block/updated-at 1647514098212}
+ {:block/name "disclosure statement & closing comments",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "discovery institute - center for science and culture",
+  :block/created-at 1645917297890,
+  :block/updated-at 1645917424214}
+ {:block/name "disease",
+  :block/created-at 1651378109999,
+  :block/updated-at 1651378109999}
+ {:block/name "disinformation",
+  :block/created-at 1647513707432,
+  :block/updated-at 1647513730589}
+ {:block/name "documentary",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "does any one actually have enough of everything",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "doing",
   :block/created-at 1639217415980,
   :block/updated-at 1639217415980}
  {:block/name "dokbox",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1642908823879}
+ {:block/name "domain",
+  :block/created-at 1664665472873,
+  :block/updated-at 1664665472873}
  {:block/name "donate  assist",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "done",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
- {:block/name "driving questions",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+ {:block/name "doug kenyon",
+  :block/created-at 1664581628826,
+  :block/updated-at 1664581628826}
+ {:block/name "dr charles creighton",
+  :block/created-at 1651463611235,
+  :block/updated-at 1651463611235}
+ {:block/name "dr deuss",
+  :block/created-at 1647509160017,
+  :block/updated-at 1647509160017}
+ {:block/name "dr gabor mate",
+  :block/created-at 1648846536836,
+  :block/updated-at 1648846549310}
+ {:block/name "dr peter fenwick",
+  :block/created-at 1647511891610,
+  :block/updated-at 1647512111242}
+ {:block/name "dr. peter fenwick",
+  :block/created-at 1648846779576,
+  :block/updated-at 1648846779576}
+ {:block/name "dr. sten ekberg",
+  :block/created-at 1649715245970,
+  :block/updated-at 1649715245970}
+ {:block/name "dr. steven greer",
+  :block/created-at 1647512995046,
+  :block/updated-at 1647512995046}
+ {:block/name "driving questions of efa",
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name
+  "driving towards futures literacy: metaphors, mobility and futures in education",
+  :block/created-at 1664243450061,
+  :block/updated-at 1664243450061}
  {:block/name "duolingo",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "duus family timeline",
+  :block/created-at 1649567119116,
+  :block/updated-at 1649567119116}
+ {:block/name "duus sensei",
+  :block/created-at 1647509160022,
+  :block/updated-at 1664164643112}
+ {:block/name "duusair",
+  :block/created-at 1664168718439,
+  :block/updated-at 1664168718439}
+ {:block/name "duusign",
+  :block/created-at 1647509160026,
+  :block/updated-at 1647509160026}
+ {:block/name "earthed",
+  :block/created-at 1647027010221,
+  :block/updated-at 1647027010221}
+ {:block/name "ebola",
+  :block/created-at 1651456857004,
+  :block/updated-at 1651456857004}
+ {:block/name "eccentric",
+  :block/created-at 1664255282581,
+  :block/updated-at 1664255282581}
+ {:block/name "eccentrics: a study of sanity and strangeness",
+  :block/created-at 1664255266729,
+  :block/updated-at 1664256335692}
+ {:block/name "economics",
+  :block/created-at 1645839201298,
+  :block/updated-at 1645839201298}
  {:block/name "economics of happiness – charles eiserstein",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "edgar mitchell",
+  :block/created-at 1646268093093,
+  :block/updated-at 1646268093093}
+ {:block/name "educate",
+  :block/created-at 1647509161662,
+  :block/updated-at 1647509161662}
+ {:block/name "education futures",
+  :block/created-at 1647054477978,
+  :block/updated-at 1647054477978}
+ {:block/name "efa",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "efa incorporates iru as if iru were something new",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
- {:block/name "efa incorporates iru as if iru were something new/ ",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "efa structure, process & platform",
+  :block/created-at 1668317222425,
+  :block/updated-at 1668317222425}
+ {:block/name "efa tbx",
+  :block/created-at 1647509162981,
+  :block/updated-at 1668307244603}
+ {:block/name "efa/book",
+  :block/created-at 1662194761700,
+  :block/updated-at 1664607072756}
+ {:block/name "efa/business",
+  :block/created-at 1662194761720,
+  :block/updated-at 1662194761720}
+ {:block/name "efa/content",
+  :block/created-at 1664166424074,
+  :block/updated-at 1664166470154}
+ {:block/name "efa/socialmedia",
+  :block/created-at 1662194761692,
+  :block/updated-at 1662194761692}
+ {:block/name "efa/tasks",
+  :block/created-at 1662194761710,
+  :block/updated-at 1664604270890}
+ {:block/name "efa/website",
+  :block/created-at 1662194761699,
+  :block/updated-at 1664273932210}
+ {:block/name
+  "effective, practical solutions address multiple layers of reality but must begin within",
+  :block/created-at 1647509163392,
+  :block/updated-at 1647509163392}
+ {:block/name
+  "effective, practical solutions already exist, awaiting implementation",
+  :block/created-at 1647509163395,
+  :block/updated-at 1647509163395}
+ {:block/name "ego-1",
+  :block/created-at 1646075343891,
+  :block/updated-at 1646075343891}
+ {:block/name "egypt",
+  :block/created-at 1651267623688,
+  :block/updated-at 1651267623688}
+ {:block/name "egypt-jordan 22-23",
+  :block/created-at 1665299089341,
+  :block/updated-at 1666425061651}
+ {:block/name "egyptologist",
+  :block/created-at 1664581628778,
+  :block/updated-at 1664581628778}
+ {:block/name "ehsan noursalehi",
+  :block/created-at 1649982577915,
+  :block/updated-at 1649982681484}
+ {:block/name "electron microscope",
+  :block/created-at 1651378279982,
+  :block/updated-at 1651378279982}
+ {:block/name "elements of ai",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "elevate",
+  :block/created-at 1647509161664,
+  :block/updated-at 1647509161664}
  {:block/name "elsevier.com",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
@@ -228,563 +1410,3226 @@
   :block/updated-at 1639538288374}
  {:block/name "email - structure, platforms and processes",
   :block/created-at 1639531157183,
-  :block/updated-at 1639533194642}
+  :block/updated-at 1664665873877}
+ {:block/name "embed",
+  :block/created-at 1648284649585,
+  :block/updated-at 1648284649585}
+ {:block/name "empiricism",
+  :block/created-at 1664243746671,
+  :block/updated-at 1664243746671}
+ {:block/name "empowerment",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
  {:block/name "empty searching ",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "energenii",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "energetic sociology",
+  :block/created-at 1664243415192,
+  :block/updated-at 1664243415192}
+ {:block/name "energy as unifying metaphor",
+  :block/created-at 1664243415198,
+  :block/updated-at 1664243415198}
+ {:block/name "energy at the crossroads",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "energy futures",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "energy futuring methodologies",
+  :block/created-at 1647509163526,
+  :block/updated-at 1647509163526}
+ {:block/name "energy in nature and society",
+  :block/created-at 1647024918746,
+  :block/updated-at 1647024918746}
+ {:block/name "energy in world history",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "energy medicine",
+  :block/created-at 1651478508254,
+  :block/updated-at 1651478508254}
+ {:block/name "energy myths and realities",
+  :block/created-at 1647024913937,
+  :block/updated-at 1647024913937}
+ {:block/name "energy transitions",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "energy transitions (book)",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
+ {:block/name "enough data",
+  :block/created-at 1668312515107,
+  :block/updated-at 1668312515107}
+ {:block/name "enough for all",
+  :block/created-at 1642893812499,
+  :block/updated-at 1668317601381}
+ {:block/name "enough forecasts",
+  :block/created-at 1668313603298,
+  :block/updated-at 1668313603298}
  {:block/name "enough god",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "enough god-cft2190q1737",
+  :block/created-at 1646260770788,
+  :block/updated-at 1646260770788}
  {:block/name "enough health",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "enough ideas",
+  :block/created-at 1668312556358,
+  :block/updated-at 1668312556358}
+ {:block/name "enough indicators",
+  :block/created-at 1668313587250,
+  :block/updated-at 1668313587250}
+ {:block/name "enough is enough",
+  :block/created-at 1643757451248,
+  :block/updated-at 1643757451248}
+ {:block/name
+  "enough of everything exists for everyone and everything",
+  :block/created-at 1647509163397,
+  :block/updated-at 1647509163397}
  {:block/name "enough of what and for who",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "enough of what and for whom",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "enough stuff",
+  :block/created-at 1668312540141,
+  :block/updated-at 1668312540141}
  {:block/name "enough technology",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "enough theory",
+  :block/created-at 1668316027032,
+  :block/updated-at 1668316027032}
+ {:block/name "enough topics",
+  :block/created-at 1668314091176,
+  :block/updated-at 1668314091176}
+ {:block/name "enoughforall",
+  :block/created-at 1647509162981,
+  :block/updated-at 1647509162981}
+ {:block/name
+  "entangled life: how fungi make our world, change our minds and shape our futures",
+  :block/created-at 1664243445736,
+  :block/updated-at 1664243445736}
+ {:block/name
+  "entangled life_ how fungi make our world, change our minds and shape our futures",
+  :block/created-at 1651479070982,
+  :block/updated-at 1651479076053}
+ {:block/name "enterprise",
+  :block/created-at 1642919092939,
+  :block/updated-at 1663368265567}
+ {:block/name "enterprises",
+  :block/created-at 1663368265567,
+  :block/updated-at 1663368265567}
+ {:block/name "environment",
+  :block/created-at 1665635129107,
+  :block/updated-at 1665635129107}
+ {:block/name "eroei",
+  :block/created-at 1664243417716,
+  :block/updated-at 1664243417716}
+ {:block/name "et",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "ether",
+  :block/created-at 1664665894608,
+  :block/updated-at 1664665944484}
+ {:block/name "everyone wants increasing eroei",
+  :block/created-at 1664185145344,
+  :block/updated-at 1664185145344}
+ {:block/name "evolution",
+  :block/created-at 1664581629519,
+  :block/updated-at 1664581629519}
+ {:block/name
+  "evolution, intelligent design and the anthropomorphic principle",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
  {:block/name "excel",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "exemplar",
+  :block/created-at 1649982615020,
+  :block/updated-at 1649982615020}
  {:block/name "existing solutions and efa",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "exopaedia",
+  :block/created-at 1645919652833,
+  :block/updated-at 1645919653465}
+ {:block/name "exopolitics",
+  :block/created-at 1645918633196,
+  :block/updated-at 1645918740833}
+ {:block/name "expanding the circle of compassion",
+  :block/created-at 1642891118918,
+  :block/updated-at 1642891118918}
+ {:block/name "expanding the circle of identity",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name "expert",
+  :block/created-at 1664581628777,
+  :block/updated-at 1664581628777}
+ {:block/name "explore - journal",
+  :block/created-at 1647025711842,
+  :block/updated-at 1647025711842}
+ {:block/name "extra-terrestrials",
+  :block/created-at 1642907386168,
+  :block/updated-at 1642907390167}
+ {:block/name "facts 4ct",
+  :block/created-at 1647724071572,
+  :block/updated-at 1668215981902}
+ {:block/name "faq",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "farnam street",
+  :block/created-at 1650006679828,
+  :block/updated-at 1650006679828}
+ {:block/name "fast",
+  :block/created-at 1649671348714,
+  :block/updated-at 1649671652435}
+ {:block/name "fasting",
+  :block/created-at 1649671651769,
+  :block/updated-at 1649671651769}
  {:block/name "favorites",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
+ {:block/name "fear",
+  :block/created-at 1649889077333,
+  :block/updated-at 1649889077333}
  {:block/name "feedly",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "feminist science",
+  :block/created-at 1646260770789,
+  :block/updated-at 1646260770789}
  {:block/name "ff-ed",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
  {:block/name "ffed",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "ffed tbx",
+  :block/created-at 1647509161713,
+  :block/updated-at 1647509161713}
+ {:block/name "ffed/business",
+  :block/created-at 1664096156284,
+  :block/updated-at 1664096156284}
+ {:block/name "ffed/manual",
+  :block/created-at 1664096321662,
+  :block/updated-at 1664096321662}
+ {:block/name "ffed/manual for teachers",
+  :block/created-at 1664096291321,
+  :block/updated-at 1664096321663}
+ {:block/name "ffed/phd",
+  :block/created-at 1664096470252,
+  :block/updated-at 1664096470252}
+ {:block/name "ffed/research",
+  :block/created-at 1664096483609,
+  :block/updated-at 1664096483609}
+ {:block/name "ffed/socialmedia",
+  :block/created-at 1664096162559,
+  :block/updated-at 1664096162559}
+ {:block/name "ffed/tasks",
+  :block/created-at 1664097217521,
+  :block/updated-at 1664166845320}
+ {:block/name "ffed/textbook",
+  :block/created-at 1664096203070,
+  :block/updated-at 1664096203070}
+ {:block/name "ffed/website",
+  :block/created-at 1664096149778,
+  :block/updated-at 1664096149778}
+ {:block/name "ffed/writing",
+  :block/created-at 1664096464759,
+  :block/updated-at 1664096464759}
+ {:block/name "ffs",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "fields",
+  :block/created-at 1662194762682,
+  :block/updated-at 1662194762682}
+ {:block/name "fieldsofinterest",
+  :block/created-at 1647075183660,
+  :block/updated-at 1647075183660}
  {:block/name "finance & investing",
   :block/created-at 1641431107174,
   :block/updated-at 1641431107174}
+ {:block/name "finland",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
+ {:block/name
+  "fishing, farming, factories and finance: metaphors to guide the future of education",
+  :block/created-at 1664243450573,
+  :block/updated-at 1664243450573}
+ {:block/name "flights",
+  :block/created-at 1651267636036,
+  :block/updated-at 1651267636036}
+ {:block/name "folded writing",
+  :block/created-at 1647067670922,
+  :block/updated-at 1668305408848}
  {:block/name "for those with enough of the basics",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
  {:block/name "for those with enough of the basics/",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "for those with enough of the basics//",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "forck",
+  :block/created-at 1643757451247,
+  :block/updated-at 1643757451247}
+ {:block/name "forck logo idea",
+  :block/created-at 1647509163901,
+  :block/updated-at 1647509163901}
+ {:block/name "forck you!",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "forck/content",
+  :block/created-at 1664281647636,
+  :block/updated-at 1664281647636}
+ {:block/name "forck/tasks",
+  :block/created-at 1664097729748,
+  :block/updated-at 1664097729748}
+ {:block/name "foresight challenges in schools and organizations",
+  :block/created-at 1647054477695,
+  :block/updated-at 1647054477695}
+ {:block/name "foresightstudies",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "fork vs forck",
+  :block/created-at 1647509163902,
+  :block/updated-at 1647509163902}
+ {:block/name "foucault",
+  :block/created-at 1664243415208,
+  :block/updated-at 1664243415208}
+ {:block/name "frances e vaughn",
+  :block/created-at 1651440949095,
+  :block/updated-at 1651440949095}
+ {:block/name "free",
+  :block/created-at 1646261247509,
+  :block/updated-at 1646261249522}
+ {:block/name "free energy",
+  :block/created-at 1647509440690,
+  :block/updated-at 1664665497814}
+ {:block/name "freedom",
+  :block/created-at 1663740723636,
+  :block/updated-at 1663740723636}
+ {:block/name "freedom house",
+  :block/created-at 1663740515763,
+  :block/updated-at 1663740829697}
+ {:block/name "freeenergy",
+  :block/created-at 1664665497813,
+  :block/updated-at 1664665497813}
+ {:block/name "fresh",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "fresh alternatives",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1666397748055}
+ {:block/name "fresh alternatives/business",
+  :block/created-at 1664165442976,
+  :block/updated-at 1664165442976}
+ {:block/name "fresh alternatives/content",
+  :block/created-at 1664165374994,
+  :block/updated-at 1664165374994}
+ {:block/name "fresh alternatives/research",
+  :block/created-at 1664165420513,
+  :block/updated-at 1664165420513}
+ {:block/name "fresh alternatives/tasks",
+  :block/created-at 1664097604266,
+  :block/updated-at 1664166807899}
+ {:block/name "fresh alternatives/website",
+  :block/created-at 1664165088707,
+  :block/updated-at 1664165088707}
+ {:block/name "fresh alternatives/writing",
+  :block/created-at 1664165435440,
+  :block/updated-at 1664165435440}
+ {:block/name "freshalts",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "fringescience",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "fritjof capra",
+  :block/created-at 1649555657024,
+  :block/updated-at 1649555657024}
+ {:block/name "from outer focus to inner focus",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name "from you change to me change",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "fs",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "fsib",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "fsib tbx",
+  :block/created-at 1647509162571,
+  :block/updated-at 1647509162571}
+ {:block/name "fsib-phd",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "fuck you vs forck you",
+  :block/created-at 1647509163906,
+  :block/updated-at 1647509163906}
+ {:block/name "fuck you vs forck you2",
+  :block/created-at 1666404047598,
+  :block/updated-at 1666404047598}
+ {:block/name "fundamental ideas  hierarachy of ideas",
+  :block/created-at 1642891118923,
+  :block/updated-at 1642891118923}
+ {:block/name "future instance",
+  :block/created-at 1664680776744,
+  :block/updated-at 1664680776744}
+ {:block/name "future: not just a noun",
+  :block/created-at 1664243450656,
+  :block/updated-at 1664243450656}
+ {:block/name "futures",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
+ {:block/name "futures & foresight",
+  :block/created-at 1647509163529,
+  :block/updated-at 1647509163529}
  {:block/name "futures & foresight education",
-  :block/created-at 1642054301600,
-  :block/updated-at 1642054336519}
+  :block/created-at 1642891118917,
+  :block/updated-at 1664096483610}
  {:block/name "futures education",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name
+  "futures in the ib: identifying opportunities for promoting ffl in the ibdp and ibmyp.",
+  :block/created-at 1664243450707,
+  :block/updated-at 1664243450707}
+ {:block/name "futures literacy",
+  :block/created-at 1647026446873,
+  :block/updated-at 1647026520933}
+ {:block/name
+  "futures literacy vs future literacies: a balancing act for better education.",
+  :block/created-at 1664243450675,
+  :block/updated-at 1664243450675}
  {:block/name "futures mapping",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "futures platform",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
+ {:block/name "futures studies",
+  :block/created-at 1642905474041,
+  :block/updated-at 1642905488749}
+ {:block/name "futures studies for the ib",
+  :block/created-at 1642905724409,
+  :block/updated-at 1642905908843}
+ {:block/name "futures thinking",
+  :block/created-at 1647054477742,
+  :block/updated-at 1647054477742}
+ {:block/name "futures, foresight & time tools",
+  :block/created-at 1648253748728,
+  :block/updated-at 1648253748728}
+ {:block/name "futuresliteracy",
+  :block/created-at 1647026520146,
+  :block/updated-at 1647026520146}
+ {:block/name "futuresplatform",
+  :block/created-at 1643757451247,
+  :block/updated-at 1643757451247}
+ {:block/name "futuresstudies",
+  :block/created-at 1642919092940,
+  :block/updated-at 1642919092940}
+ {:block/name "futuresthinking",
+  :block/created-at 1647054477694,
+  :block/updated-at 1647054477694}
  {:block/name "gaia",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "galen strawson",
+  :block/created-at 1647512286440,
+  :block/updated-at 1647512286440}
+ {:block/name "gandhi",
+  :block/created-at 1662194762494,
+  :block/updated-at 1662194762494}
+ {:block/name "gary renard",
+  :block/created-at 1649455384866,
+  :block/updated-at 1649455384866}
+ {:block/name "gary renard tv",
+  :block/created-at 1648846280473,
+  :block/updated-at 1648846280473}
+ {:block/name "gary schwartz",
+  :block/created-at 1664581624062,
+  :block/updated-at 1664581624062}
  {:block/name "gatsby",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "ge",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "genealogy of knowledge",
+  :block/created-at 1664243415207,
+  :block/updated-at 1664243415207}
+ {:block/name "generate",
+  :block/created-at 1642896925100,
+  :block/updated-at 1642899641078}
+ {:block/name "generational, transitional, medium-term",
+  :block/created-at 1647509163532,
+  :block/updated-at 1647509163532}
+ {:block/name "generative economy",
+  :block/created-at 1664581628821,
+  :block/updated-at 1664581628821}
+ {:block/name "george h. smith",
+  :block/created-at 1666388325276,
+  :block/updated-at 1666388325276}
+ {:block/name "getting started with futures & foresight",
+  :block/created-at 1647054477979,
+  :block/updated-at 1647054477979}
+ {:block/name "gff",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
  {:block/name "ghost",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1664085398761}
  {:block/name "git",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "gitbooks",
+  :block/created-at 1647027070513,
+  :block/updated-at 1647027070513}
  {:block/name "github",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "github pages",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1664666695556}
+ {:block/name "giza",
+  :block/created-at 1665299089332,
+  :block/updated-at 1665299089332}
+ {:block/name "gki",
+  :block/created-at 1649713988159,
+  :block/updated-at 1649713988159}
+ {:block/name "glasp",
+  :block/created-at 1650002096382,
+  :block/updated-at 1650002742508}
+ {:block/name "global catastrophes and trends",
+  :block/created-at 1647024927637,
+  :block/updated-at 1647024927637}
+ {:block/name "global consciousness project",
+  :block/created-at 1647025698884,
+  :block/updated-at 1647025698884}
+ {:block/name "global effort",
+  :block/created-at 1642896113989,
+  :block/updated-at 1664244054662}
+ {:block/name "global effort baseline content",
+  :block/created-at 1647509163608,
+  :block/updated-at 1647509163608}
+ {:block/name "global effort page from metamechanic",
+  :block/created-at 1647509163549,
+  :block/updated-at 1647509163549}
+ {:block/name "global effort/business",
+  :block/created-at 1664097461218,
+  :block/updated-at 1664097461218}
+ {:block/name "global effort/phd",
+  :block/created-at 1664097481594,
+  :block/updated-at 1664097481594}
+ {:block/name "global effort/research",
+  :block/created-at 1664097522970,
+  :block/updated-at 1664097522970}
+ {:block/name "global effort/tasks",
+  :block/created-at 1664097425312,
+  :block/updated-at 1664166913952}
+ {:block/name "global effort/website",
+  :block/created-at 1664097452539,
+  :block/updated-at 1664274088080}
+ {:block/name "global effort/writing",
+  :block/created-at 1664097516989,
+  :block/updated-at 1664097516989}
+ {:block/name "global risks report 2022",
+  :block/created-at 1647085679732,
+  :block/updated-at 1647085728049}
+ {:block/name "globaleffort",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "gnostic",
+  :block/created-at 1664244958090,
+  :block/updated-at 1664244958090}
+ {:block/name "gobekli tepe",
+  :block/created-at 1647127303053,
+  :block/updated-at 1647127499582}
  {:block/name "god as sourceinfinite abundanceinfinte dimension",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "god, “god” and gods",
+  :block/created-at 1642891118914,
+  :block/updated-at 1647087413056}
+ {:block/name "god, “god”, gods & gods",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "god: the failed hypothesis",
+  :block/created-at 1660599787501,
+  :block/updated-at 1666388610893}
  {:block/name "google feed",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "graham hancock",
+  :block/created-at 1664581628827,
+  :block/updated-at 1664581628827}
+ {:block/name "grahamhancock",
+  :block/created-at 1647126411042,
+  :block/updated-at 1647126411042}
+ {:block/name "great sphinx of egypt",
+  :block/created-at 1647127895789,
+  :block/updated-at 1647127895789}
+ {:block/name "greater good science center",
+  :block/created-at 1664612465695,
+  :block/updated-at 1664612465695}
+ {:block/name "greenland",
+  :block/created-at 1651460732257,
+  :block/updated-at 1651460732257}
+ {:block/name "gregg braden",
+  :block/created-at 1660600124583,
+  :block/updated-at 1660600124583}
  {:block/name "groupmap",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "guilt, fear & punishment",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "gurdjieff",
+  :block/created-at 1647510354377,
+  :block/updated-at 1647510354377}
+ {:block/name "gus speth",
+  :block/created-at 1665634954135,
+  :block/updated-at 1665635585666}
+ {:block/name "gut",
+  :block/created-at 1660599717969,
+  :block/updated-at 1660599717969}
+ {:block/name "habits",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name "hal puthoff",
+  :block/created-at 1646268093094,
+  :block/updated-at 1646268093094}
+ {:block/name "hany",
+  :block/created-at 1651267615439,
+  :block/updated-at 1651267615439}
+ {:block/name "harald walach, phd",
+  :block/created-at 1648845751138,
+  :block/updated-at 1651376301940}
  {:block/name "harnessing and applying mental resources",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "have you ever wondered why some don't have enough",
+  :block/created-at 1647509162989,
+  :block/updated-at 1647509162989}
+ {:block/name "header",
+  :block/created-at 1664585271908,
+  :block/updated-at 1664585271908}
+ {:block/name "header slider - possibility a",
+  :block/created-at 1647509162991,
+  :block/updated-at 1647509162991}
+ {:block/name "healing",
+  :block/created-at 1649455475421,
+  :block/updated-at 1649455475421}
+ {:block/name "health",
+  :block/created-at 1649455489844,
+  :block/updated-at 1649455489844}
+ {:block/name "heartmath institute",
+  :block/created-at 1647025683001,
+  :block/updated-at 1647025683001}
+ {:block/name "helen schucman",
+  :block/created-at 1649887251810,
+  :block/updated-at 1649887251810}
+ {:block/name "henry george",
+  :block/created-at 1664581624359,
+  :block/updated-at 1664581624359}
+ {:block/name "herbert spencer",
+  :block/created-at 1664243415193,
+  :block/updated-at 1664243415193}
+ {:block/name "heurist scholar",
+  :block/created-at 1647509164598,
+  :block/updated-at 1647509164598}
+ {:block/name "hhdl",
+  :block/created-at 1662194762494,
+  :block/updated-at 1662194762494}
+ {:block/name "hhww",
+  :block/created-at 1649981095777,
+  :block/updated-at 1649981095777}
+ {:block/name "hidden histories of science",
+  :block/created-at 1647081719166,
+  :block/updated-at 1647081940010}
+ {:block/name "hiking equipment",
+  :block/created-at 1666425061650,
+  :block/updated-at 1666425693506}
  {:block/name "history",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "history of science",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "history part 2",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "holistic health & wholeistic wealth",
+  :block/created-at 1648253804943,
+  :block/updated-at 1649981166216}
+ {:block/name "holofractal theory",
+  :block/created-at 1664581629525,
+  :block/updated-at 1664581629525}
+ {:block/name "holomovement",
+  :block/created-at 1664581628818,
+  :block/updated-at 1664581628818}
+ {:block/name "holonomic brain theory",
+  :block/created-at 1664581628819,
+  :block/updated-at 1664581628819}
+ {:block/name "holyhellth",
+  :block/created-at 1664184086851,
+  :block/updated-at 1664184086851}
  {:block/name "hook app",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "hope ahcheen",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "how",
+  :block/created-at 1647509163921,
+  :block/updated-at 1647509163921}
+ {:block/name "how are energy futures created or arrived at",
+  :block/created-at 1647509163492,
+  :block/updated-at 1647509163492}
  {:block/name "how can we ensure that everyone has enough ",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "how can we make sure everyone has enough",
+  :block/created-at 1647509162591,
+  :block/updated-at 1647509162591}
+ {:block/name
+  "how to overcome barriers to forgiveness - greater good science center",
+  :block/created-at 1664245109648,
+  :block/updated-at 1664612456222}
+ {:block/name "hoyte van der zee",
+  :block/created-at 1651459391332,
+  :block/updated-at 1651459437799}
+ {:block/name
+  "https://www.rationaleonline.com/map/d2fb4d/ruleoffaith-1",
+  :block/created-at 1664243453119,
+  :block/updated-at 1664243453119}
+ {:block/name "hugo douglas",
+  :block/created-at 1650074731423,
+  :block/updated-at 1650074731423}
+ {:block/name "human rights",
+  :block/created-at 1663740723635,
+  :block/updated-at 1663740723635}
+ {:block/name "human trafficking",
+  :block/created-at 1647740798211,
+  :block/updated-at 1647740802667}
+ {:block/name "humour",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
+ {:block/name "huston smith",
+  :block/created-at 1662194762498,
+  :block/updated-at 1662194762498}
  {:block/name
   "i guess efa is directed more to those who have materially",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "iai",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "iai.tv",
+  :block/created-at 1648846266475,
+  :block/updated-at 1648846266475}
+ {:block/name "ib",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "ibooks",
+  :block/created-at 1647054477601,
+  :block/updated-at 1647054477601}
+ {:block/name "ibtomt - summary back cover",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
  {:block/name "ict",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "idea",
+  :block/created-at 1651460332975,
+  :block/updated-at 1651460332975}
+ {:block/name "ideas worth investigating",
+  :block/created-at 1664243415217,
+  :block/updated-at 1664243415217}
+ {:block/name "ideas worth investigating/ questions worth questioning",
+  :block/created-at 1664243415218,
+  :block/updated-at 1664243415218}
+ {:block/name
+  "ideas worth investigating/ questions worth questioning/ a journey worth joining",
+  :block/created-at 1664243415217,
+  :block/updated-at 1664243415217}
  {:block/name "ie it is directed to oz us uk eu etc rather than",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "if god exists, how can there be evil",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name
+  "if god exists, how can there be evil/ if there is a god, how can he let bad things happen",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
  {:block/name "if so - why do so many people not have enough",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "if the metaphor is a machine, we need a new mechanics",
+  :block/created-at 1647509164615,
+  :block/updated-at 1647509164615}
  {:block/name "if there isn’t enough for all then why not",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name
+  "if there really is enough for all, why do some not have enough",
+  :block/created-at 1647509162593,
+  :block/updated-at 1647509162593}
+ {:block/name "iframe code",
+  :block/created-at 1648284613686,
+  :block/updated-at 1648285920029}
+ {:block/name "ignatius donnelly",
+  :block/created-at 1664255621755,
+  :block/updated-at 1664255621755}
+ {:block/name "ii",
+  :block/created-at 1650003629500,
+  :block/updated-at 1650003629500}
+ {:block/name "iliadam & the oduusey",
+  :block/created-at 1647509160054,
+  :block/updated-at 1647509160054}
+ {:block/name "illuminate",
+  :block/created-at 1647509161667,
+  :block/updated-at 1647509161667}
+ {:block/name "illuminating the issue of enough",
+  :block/created-at 1647509162994,
+  :block/updated-at 1647509162994}
+ {:block/name "imagesearchterms",
+  :block/created-at 1664184150213,
+  :block/updated-at 1664184150213}
+ {:block/name "implicate order",
+  :block/created-at 1664581628817,
+  :block/updated-at 1664581628817}
  {:block/name "impress.js",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "improved learning",
+  :block/created-at 1664244009972,
+  :block/updated-at 1664244009972}
  {:block/name "in-progress",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
+ {:block/name "inbegin",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "incomplete",
+  :block/created-at 1651460372258,
+  :block/updated-at 1651460372258}
+ {:block/name "individual expertise",
+  :block/created-at 1664243415226,
+  :block/updated-at 1664243415226}
+ {:block/name "individual expertise/ collective intelligence",
+  :block/created-at 1664243415226,
+  :block/updated-at 1664243415226}
+ {:block/name
+  "individual expertise/ collective intelligence/ collaborative insight",
+  :block/created-at 1664243415227,
+  :block/updated-at 1664243415227}
+ {:block/name
+  "individual expertise/ collective intelligence/ collaborative insight/ emergent wisdom",
+  :block/created-at 1664243415225,
+  :block/updated-at 1664243415225}
+ {:block/name "ines dunstan",
+  :block/created-at 1650074816855,
+  :block/updated-at 1650074816855}
+ {:block/name "infinite canvas",
+  :block/created-at 1663721291329,
+  :block/updated-at 1663721291329}
+ {:block/name "infinity maps",
+  :block/created-at 1646075343891,
+  :block/updated-at 1646075343891}
+ {:block/name "infographic",
+  :block/created-at 1663721856241,
+  :block/updated-at 1663721856241}
+ {:block/name "information geometry",
+  :block/created-at 1648253783493,
+  :block/updated-at 1648253783493}
+ {:block/name "information mapping tool ideas",
+  :block/created-at 1664254541559,
+  :block/updated-at 1664609905738}
+ {:block/name "information overload",
+  :block/created-at 1664668401918,
+  :block/updated-at 1664668627175}
+ {:block/name "infranodus",
+  :block/created-at 1647659782709,
+  :block/updated-at 1664668185665}
+ {:block/name "ingo swann",
+  :block/created-at 1646268093093,
+  :block/updated-at 1646268093093}
+ {:block/name "initiative",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "initiatives",
+  :block/created-at 1664164737924,
+  :block/updated-at 1664164737924}
+ {:block/name "inner beginner",
+  :block/created-at 1642897420524,
+  :block/updated-at 1664244157331}
+ {:block/name "inner beginner copy",
+  :block/created-at 1647509163922,
+  :block/updated-at 1647509163922}
+ {:block/name "inner beginner/book",
+  :block/created-at 1664167095418,
+  :block/updated-at 1664167095418}
+ {:block/name "inner beginner/business",
+  :block/created-at 1664167087590,
+  :block/updated-at 1664167087590}
+ {:block/name "inner beginner/tasks",
+  :block/created-at 1664097874393,
+  :block/updated-at 1664166896819}
+ {:block/name "inner beginner/website",
+  :block/created-at 1664167091398,
+  :block/updated-at 1664167091398}
+ {:block/name "inner reponsibility - outer compassion",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
+ {:block/name "innerbeginner",
+  :block/created-at 1662194761843,
+  :block/updated-at 1662194761843}
+ {:block/name "innerbeginner/book",
+  :block/created-at 1662194762648,
+  :block/updated-at 1662194762648}
+ {:block/name "innerbeginner/tasks",
+  :block/created-at 1662194761842,
+  :block/updated-at 1664181623576}
+ {:block/name "innerbeginner/website",
+  :block/created-at 1662194761892,
+  :block/updated-at 1662194761892}
+ {:block/name "innervate",
+  :block/created-at 1647509161669,
+  :block/updated-at 1647509161669}
+ {:block/name
+  "innovation, transformation & vision comes from the fringe",
+  :block/created-at 1647509163450,
+  :block/updated-at 1647509163450}
+ {:block/name
+  "innovation, transformation & vision comes from the fringe/ we need to hang out there",
+  :block/created-at 1647509163450,
+  :block/updated-at 1647509163450}
+ {:block/name "insight maker",
+  :block/created-at 1647025652463,
+  :block/updated-at 1647025652463}
+ {:block/name "inspired resource utilization",
+  :block/created-at 1647509162997,
+  :block/updated-at 1647509162997}
  {:block/name "inspired resource utilization - general comments",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "institute for psychoenergetic science",
+  :block/created-at 1664581628823,
+  :block/updated-at 1664581628823}
+ {:block/name "institute of heartmath",
+  :block/created-at 1664581628821,
+  :block/updated-at 1664581628821}
+ {:block/name "institute of noetic sciences",
+  :block/created-at 1646265475129,
+  :block/updated-at 1646265680653}
  {:block/name "integral practices",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "integral science",
+  :block/created-at 1646260770790,
+  :block/updated-at 1646260770790}
+ {:block/name "integrated intelligence",
+  :block/created-at 1650003474026,
+  :block/updated-at 1650003635210}
+ {:block/name "intelligent design",
+  :block/created-at 1646075343891,
+  :block/updated-at 1646075343891}
+ {:block/name "internet",
+  :block/created-at 1663740723637,
+  :block/updated-at 1663740723637}
+ {:block/name "internet sacred texts archive",
+  :block/created-at 1664255806909,
+  :block/updated-at 1664612230190}
  {:block/name "intro page template",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
- {:block/name "iru general comments",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "introduction",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name
+  "investment funding, financial support & business development ideas",
+  :block/created-at 1647509160070,
+  :block/updated-at 1647509160070}
+ {:block/name "ions",
+  :block/created-at 1646268093094,
+  :block/updated-at 1646268093094}
+ {:block/name "iqubes",
+  :block/created-at 1647067670921,
+  :block/updated-at 1647067670921}
  {:block/name
   "is the world intrinsically for the haves the have-nots and the have mores",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "is there actually enough for all",
+  :block/created-at 1647509162596,
+  :block/updated-at 1647509162596}
  {:block/name "is there anyone that lacks nothing",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name
-  "is there enough food water land housing money natural resources...",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  "is there enough food water land housing money natural resources…",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
  {:block/name "is there really enough for all",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "issue mapping",
+  :block/created-at 1647509163004,
+  :block/updated-at 1647509163004}
  {:block/name "issue-problem data ",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "issues",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "ista",
+  :block/created-at 1664612227125,
+  :block/updated-at 1664612227125}
  {:block/name
   "its directed to the wealthy powerful minority to share and help others",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
  {:block/name "james carter  ",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
- {:block/name "jan 6th, 2022",
-  :block/created-at 1641427200000,
-  :block/updated-at 1641427200000}
- {:block/name "jan 7th, 2022",
-  :block/created-at 1641513600000,
-  :block/updated-at 1641513600000}
- {:block/name "jan 8th, 2022",
-  :block/created-at 1641600000000,
-  :block/updated-at 1641600000000}
- {:block/name "jan 9th, 2022",
-  :block/created-at 1641686400000,
-  :block/updated-at 1641686400000}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "javascript",
+  :block/created-at 1647054477784,
+  :block/updated-at 1647054477784}
+ {:block/name "jeremy drinnan",
+  :block/created-at 1650073436271,
+  :block/updated-at 1650073436271}
+ {:block/name "jiddhu krishnamurti",
+  :block/created-at 1660599558295,
+  :block/updated-at 1660599558295}
+ {:block/name "jim dator",
+  :block/created-at 1664581628832,
+  :block/updated-at 1664581628832}
+ {:block/name "jim marrs",
+  :block/created-at 1647509229608,
+  :block/updated-at 1647509229608}
+ {:block/name "jim west",
+  :block/created-at 1651376839256,
+  :block/updated-at 1651377049137}
+ {:block/name "johan galtung",
+  :block/created-at 1664581628832,
+  :block/updated-at 1664581628832}
+ {:block/name "john anthony west",
+  :block/created-at 1647127934130,
+  :block/updated-at 1647127934130}
+ {:block/name "john b mckinlay",
+  :block/created-at 1651474371258,
+  :block/updated-at 1651474399886}
+ {:block/name "john chitty",
+  :block/created-at 1651459620571,
+  :block/updated-at 1651459633505}
+ {:block/name "john diamond",
+  :block/created-at 1650064140965,
+  :block/updated-at 1650064140965}
+ {:block/name "john franklin enders",
+  :block/created-at 1651378440646,
+  :block/updated-at 1651379039424}
+ {:block/name "john hoagland",
+  :block/created-at 1664581628825,
+  :block/updated-at 1664581628825}
  {:block/name "joining the dots for a coherent image and narrative",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "jordan",
+  :block/created-at 1664146473744,
+  :block/updated-at 1664146473744}
+ {:block/name "jordan trail",
+  :block/created-at 1666420870147,
+  :block/updated-at 1666425006961}
+ {:block/name "joseph mcmoneagle",
+  :block/created-at 1646268093093,
+  :block/updated-at 1646268093093}
+ {:block/name "journal",
+  :block/created-at 1646265475127,
+  :block/updated-at 1646265475127}
+ {:block/name "journal of scientific exploration",
+  :block/created-at 1646261193255,
+  :block/updated-at 1646264511966}
+ {:block/name "jse",
+  :block/created-at 1646265475128,
+  :block/updated-at 1646265475128}
  {:block/name "juggl plug-in",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "julian simon",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
+ {:block/name "jupyter notebook",
+  :block/created-at 1647027057517,
+  :block/updated-at 1647027057517}
+ {:block/name "k-t event",
+  :block/created-at 1647125889015,
+  :block/updated-at 1647125889015}
+ {:block/name "karen armstrong",
+  :block/created-at 1665634689026,
+  :block/updated-at 1665636208873}
+ {:block/name "karibo tribe",
+  :block/created-at 1647509557070,
+  :block/updated-at 1647509557070}
+ {:block/name "kazuki nakayashiki",
+  :block/created-at 1650002078108,
+  :block/updated-at 1650003022460}
+ {:block/name "ken wapnick",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "ken wilber",
+  :block/created-at 1647133238963,
+  :block/updated-at 1647133238963}
+ {:block/name "ketosis",
+  :block/created-at 1649671909614,
+  :block/updated-at 1649671909614}
+ {:block/name "key thinker",
+  :block/created-at 1648846130970,
+  :block/updated-at 1648846130970}
+ {:block/name
+  "kicking goals through moving goalposts: putting education ahead of the curve by teaching futures & foresight literacy",
+  :block/created-at 1664243450943,
+  :block/updated-at 1664243450943}
  {:block/name "kites and kite-making",
   :block/created-at 1639524198620,
   :block/updated-at 1639524269716}
+ {:block/name "kmi",
+  :block/created-at 1647509164370,
+  :block/updated-at 1647509164370}
+ {:block/name "knives and forcks",
+  :block/created-at 1647509163910,
+  :block/updated-at 1647509163910}
+ {:block/name "knoema",
+  :block/created-at 1647067694535,
+  :block/updated-at 1647067694535}
  {:block/name "knowledge cartography",
   :block/created-at 1639533482491,
-  :block/updated-at 1639533710696}
+  :block/updated-at 1667690091918}
+ {:block/name "knowledge gardening",
+  :block/created-at 1649982642099,
+  :block/updated-at 1649982661390}
+ {:block/name "knowledge media intitute",
+  :block/created-at 1647509164371,
+  :block/updated-at 1647509164371}
+ {:block/name "knowledge nutrition",
+  :block/created-at 1664581629518,
+  :block/updated-at 1664581629518}
+ {:block/name "knowledge portal",
+  :block/created-at 1642919092939,
+  :block/updated-at 1666397886236}
+ {:block/name "knowledgegardening",
+  :block/created-at 1649982661359,
+  :block/updated-at 1649982661359}
+ {:block/name "krazy performance indicators",
+  :block/created-at 1664243415237,
+  :block/updated-at 1664243415237}
+ {:block/name "kumu.io",
+  :block/created-at 1647025665223,
+  :block/updated-at 1647025665223}
  {:block/name "language learning",
   :block/created-at 1641431107174,
   :block/updated-at 1641431107174}
+ {:block/name "larry palevsky, md",
+  :block/created-at 1651376320239,
+  :block/updated-at 1651376320239}
  {:block/name "later",
   :block/created-at 1639217415981,
   :block/updated-at 1639217415981}
+ {:block/name "latinamerica",
+  :block/created-at 1651461330564,
+  :block/updated-at 1651461330564}
+ {:block/name "laws of thermodynamics",
+  :block/created-at 1664665117669,
+  :block/updated-at 1664665117669}
+ {:block/name "lawyer",
+  :block/created-at 1665635129105,
+  :block/updated-at 1665635129105}
+ {:block/name "learn to code",
+  :block/created-at 1647054477830,
+  :block/updated-at 1647081141700}
+ {:block/name "leonard susskind",
+  :block/created-at 1662194762495,
+  :block/updated-at 1662194762495}
+ {:block/name "lessonplan.xyz",
+  :block/created-at 1663368297387,
+  :block/updated-at 1663368731774}
+ {:block/name "lessonplan.xyz/tasks",
+  :block/created-at 1664097676003,
+  :block/updated-at 1664166509624}
+ {:block/name "life is constant prayer",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name "limits to growth",
+  :block/created-at 1645839201296,
+  :block/updated-at 1645839201296}
+ {:block/name "linda graham",
+  :block/created-at 1664612465696,
+  :block/updated-at 1664612465696}
+ {:block/name "linkedin learning",
+  :block/created-at 1648846360508,
+  :block/updated-at 1648846360508}
+ {:block/name "logo",
+  :block/created-at 1643757451247,
+  :block/updated-at 1643757451247}
  {:block/name "logseq",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1664668099648}
+ {:block/name "logseq mastery",
+  :block/created-at 1664161490058,
+  :block/updated-at 1664161623210}
+ {:block/name "love has forgotten no one",
+  :block/created-at 1649455361451,
+  :block/updated-at 1649455449573}
+ {:block/name "low-energy thermonuclear reactions",
+  :block/created-at 1664665086063,
+  :block/updated-at 1664665086063}
+ {:block/name "luis alvarez",
+  :block/created-at 1647125775228,
+  :block/updated-at 1647125775228}
+ {:block/name "macroenergetics",
+  :block/created-at 1646265475128,
+  :block/updated-at 1647086970112}
+ {:block/name "macrohistory",
+  :block/created-at 1664581629518,
+  :block/updated-at 1664581629518}
+ {:block/name "macroscience",
+  :block/created-at 1648253585222,
+  :block/updated-at 1648253585222}
+ {:block/name "macroscopic knowledge engineering",
+  :block/created-at 1664184874838,
+  :block/updated-at 1664184874838}
+ {:block/name "mad cow disease",
+  :block/created-at 1651478984960,
+  :block/updated-at 1651478984960}
+ {:block/name "magnetoencephalography",
+  :block/created-at 1647512028959,
+  :block/updated-at 1647512028959}
+ {:block/name "map of content",
+  :block/created-at 1663721762605,
+  :block/updated-at 1664086731591}
+ {:block/name
+  "mapping and critiquing alternatives in various domains of endeavour without necessarily dismissing, favouring or integrating any of them",
+  :block/created-at 1647509163453,
+  :block/updated-at 1647509163453}
+ {:block/name "mapping and questioning the global energy future",
+  :block/created-at 1642905406073,
+  :block/updated-at 1642905499575}
+ {:block/name "mapping pathways of alternative history",
+  :block/created-at 1664184906135,
+  :block/updated-at 1664184906135}
+ {:block/name "maps of content",
+  :block/created-at 1663722619237,
+  :block/updated-at 1663722619237}
+ {:block/name "marcus anthony",
+  :block/created-at 1650003443445,
+  :block/updated-at 1650003443445}
+ {:block/name "mario beauregard",
+  :block/created-at 1664612465696,
+  :block/updated-at 1664612465696}
+ {:block/name "mark lehner",
+  :block/created-at 1664581628779,
+  :block/updated-at 1664581628779}
+ {:block/name "mark purdey",
+  :block/created-at 1651478973035,
+  :block/updated-at 1651479009058}
+ {:block/name "markdown",
+  :block/created-at 1663722550761,
+  :block/updated-at 1663722550761}
+ {:block/name "materialist science",
+  :block/created-at 1646260770790,
+  :block/updated-at 1646260770790}
+ {:block/name "matthew james baker",
+  :block/created-at 1666391816897,
+  :block/updated-at 1666392528971}
  {:block/name "mcshs",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "mcshs killer kite komp",
   :block/created-at 1639524277120,
   :block/updated-at 1639524296727}
- {:block/name "mdgs  its recent reincarnation",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
  {:block/name "mdgs  sustainable development goals",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "meaning & purpose",
+  :block/created-at 1642891118923,
+  :block/updated-at 1642891118923}
+ {:block/name "measles",
+  :block/created-at 1651378625347,
+  :block/updated-at 1651378625347}
+ {:block/name "media",
+  :block/created-at 1663740723638,
+  :block/updated-at 1663740723638}
+ {:block/name "medicine",
+  :block/created-at 1651460468708,
+  :block/updated-at 1651460468708}
+ {:block/name "meditation & mindfulness",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "meduusa",
+  :block/created-at 1647509160041,
+  :block/updated-at 1647509160041}
+ {:block/name "megalithic architecture",
+  :block/created-at 1647127294688,
+  :block/updated-at 1647127294688}
+ {:block/name "meltwater pulse 1b",
+  :block/created-at 1647127032448,
+  :block/updated-at 1647127032448}
+ {:block/name "menas kafatos",
+  :block/created-at 1664612465696,
+  :block/updated-at 1664612465696}
+ {:block/name "mental healing process of gary renard",
+  :block/created-at 1649455449572,
+  :block/updated-at 1649458962176}
+ {:block/name "mental models",
+  :block/created-at 1649984167943,
+  :block/updated-at 1649984167943}
+ {:block/name "mentalimmunity",
+  :block/created-at 1650002809744,
+  :block/updated-at 1650002809744}
+ {:block/name "mercury",
+  :block/created-at 1651461340773,
+  :block/updated-at 1651461340773}
+ {:block/name "merlin sheldrake",
+  :block/created-at 1651479070980,
+  :block/updated-at 1651479070980}
+ {:block/name "merme plata",
+  :block/created-at 1650074685107,
+  :block/updated-at 1650074685107}
  {:block/name "messaging",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "metamechanic",
+  :block/created-at 1639524645145,
+  :block/updated-at 1664681312259}
+ {:block/name "metamechanic - website",
+  :block/created-at 1647054477868,
+  :block/updated-at 1647054477868}
+ {:block/name "metamechanic alterego",
+  :block/created-at 1647574762621,
+  :block/updated-at 1647574762621}
+ {:block/name "metamechanic mesh",
+  :block/created-at 1662194761938,
+  :block/updated-at 1662194761938}
+ {:block/name "metamechanic slogans, mottos, catchphrases",
+  :block/created-at 1664273142494,
+  :block/updated-at 1664273142494}
+ {:block/name "metamechanic website copy and structure tbx",
+  :block/created-at 1664273083431,
+  :block/updated-at 1664681185311}
+ {:block/name "metamechanic-logseq",
+  :block/created-at 1642884712936,
+  :block/updated-at 1642884718000}
+ {:block/name "metamechanic-obsidian",
+  :block/created-at 1642884648821,
+  :block/updated-at 1642884658803}
+ {:block/name "metamechanic-s",
+  :block/created-at 1647574763860,
+  :block/updated-at 1647574763860}
+ {:block/name "metamechanic/business",
+  :block/created-at 1664164851969,
+  :block/updated-at 1664164933105}
+ {:block/name "metamechanic/content",
+  :block/created-at 1664185494932,
+  :block/updated-at 1664185494932}
+ {:block/name "metamechanic/research",
+  :block/created-at 1664162575318,
+  :block/updated-at 1664162575318}
+ {:block/name "metamechanic/tasks",
+  :block/created-at 1664097632420,
+  :block/updated-at 1664604146004}
+ {:block/name "metamechanic/website",
+  :block/created-at 1664162534670,
+  :block/updated-at 1664162534670}
+ {:block/name "metamechanic/writing",
+  :block/created-at 1664162554107,
+  :block/updated-at 1664164223195}
+ {:block/name "metamechanics",
+  :block/created-at 1642896722258,
+  :block/updated-at 1664612982361}
+ {:block/name "metamechanics/info with slogans",
+  :block/created-at 1647509164732,
+  :block/updated-at 1647509164732}
+ {:block/name "metamemory",
+  :block/created-at 1647054477568,
+  :block/updated-at 1647054477568}
  {:block/name "metaphor",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "metaphor-1",
+  :block/created-at 1646075343891,
+  :block/updated-at 1646075343891}
+ {:block/name "metaphysics - foundational & useful concepts",
+  :block/created-at 1642891118919,
+  :block/updated-at 1642891118919}
+ {:block/name "metatechnology",
+  :block/created-at 1648253589379,
+  :block/updated-at 1648253589379}
+ {:block/name "michael cremo",
+  :block/created-at 1664581628825,
+  :block/updated-at 1664581628825}
+ {:block/name "michael d",
+  :block/created-at 1646260770790,
+  :block/updated-at 1646260770790}
+ {:block/name "michael d. gordin",
+  :block/created-at 1645853540957,
+  :block/updated-at 1667689930970}
+ {:block/name "michael d/ gordin",
+  :block/created-at 1668217796232,
+  :block/updated-at 1668217796232}
+ {:block/name "michael guillen",
+  :block/created-at 1646075343895,
+  :block/updated-at 1646075343895}
+ {:block/name "michael salla",
+  :block/created-at 1646075343895,
+  :block/updated-at 1646075343895}
+ {:block/name "michael shermer",
+  :block/created-at 1647660618594,
+  :block/updated-at 1647660618594}
+ {:block/name "michael squirrel",
+  :block/created-at 1650074739163,
+  :block/updated-at 1650074739163}
+ {:block/name "mike baillie",
+  :block/created-at 1651461097489,
+  :block/updated-at 1651461097489}
  {:block/name "mind mapping",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "miro",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "mirth & merriment",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
  {:block/name "misconceptions",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "misconceptions & myth-conceptions",
+  :block/created-at 1642891118919,
+  :block/updated-at 1642891118919}
+ {:block/name "misinformation",
+  :block/created-at 1647513710868,
+  :block/updated-at 1647513710868}
+ {:block/name "misinformationinnoculation",
+  :block/created-at 1650002839574,
+  :block/updated-at 1650002839574}
+ {:block/name "miss-conceptions & co-rections",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "mission management",
+  :block/created-at 1650008188548,
+  :block/updated-at 1664182262707}
+ {:block/name "mm-ls",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "mm-ob",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "mmls",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "mmob",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "mmtd tbx",
+  :block/created-at 1664612467524,
+  :block/updated-at 1664612467524}
+ {:block/name "mobs",
+  :block/created-at 1651377392485,
+  :block/updated-at 1651377392485}
+ {:block/name "moc",
+  :block/created-at 1664086731591,
+  :block/updated-at 1664086731591}
+ {:block/name "models of argumentation",
+  :block/created-at 1647067670919,
+  :block/updated-at 1647067670919}
  {:block/name "money ",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "morals, ethics and metamechanics",
+  :block/created-at 1647574763879,
+  :block/updated-at 1647574763879}
+ {:block/name "morton s biskind, md",
+  :block/created-at 1651377444245,
+  :block/updated-at 1651377844791}
+ {:block/name "moses cordovero",
+  :block/created-at 1664244971854,
+  :block/updated-at 1664244971854}
+ {:block/name "movie",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "movies",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
+ {:block/name "mqgef",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "mqgef global effort tbx",
+  :block/created-at 1647509163882,
+  :block/updated-at 1668295067073}
+ {:block/name "mqgef vs global effort",
+  :block/created-at 1664243415245,
+  :block/updated-at 1664243415245}
+ {:block/name "museums",
+  :block/created-at 1665299089338,
+  :block/updated-at 1665299089338}
+ {:block/name "my creations",
+  :block/created-at 1647026193321,
+  :block/updated-at 1647075373092}
+ {:block/name "my ideal website",
+  :block/created-at 1664273254818,
+  :block/updated-at 1664273254818}
+ {:block/name "my overarching research philosophy",
+  :block/created-at 1664243415264,
+  :block/updated-at 1664243415264}
+ {:block/name "my position on the covid-19 phenomenon",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "my year without fear",
+  :block/created-at 1642905532534,
+  :block/updated-at 1664244193947}
+ {:block/name "myarticle",
+  :block/created-at 1647075282302,
+  :block/updated-at 1647075282302}
+ {:block/name "mybook",
+  :block/created-at 1647075273892,
+  :block/updated-at 1664164156354}
+ {:block/name "mybooks",
+  :block/created-at 1664164156354,
+  :block/updated-at 1664164156354}
+ {:block/name "mycreation",
+  :block/created-at 1647075226964,
+  :block/updated-at 1647075226964}
+ {:block/name "myorganisation",
+  :block/created-at 1647075324289,
+  :block/updated-at 1647075324289}
+ {:block/name "mysticism",
+  :block/created-at 1665636208869,
+  :block/updated-at 1665636208869}
+ {:block/name "mysticism vs ritual religion",
+  :block/created-at 1647133304900,
+  :block/updated-at 1647133304900}
+ {:block/name "myth & myths",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "myth, metaphor, paradox & parable",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
+ {:block/name "mywof",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "namespaces",
+  :block/created-at 1664167008698,
+  :block/updated-at 1664167008698}
+ {:block/name "nassim haramein",
+  :block/created-at 1664581628828,
+  :block/updated-at 1664581628828}
+ {:block/name "national resources defense council",
+  :block/created-at 1665635129101,
+  :block/updated-at 1665635129101}
  {:block/name "natural capitalism",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "nature & scenery",
+  :block/created-at 1665299089339,
+  :block/updated-at 1665299089339}
+ {:block/name "navigating the energy transition",
+  :block/created-at 1647509163568,
+  :block/updated-at 1647509163568}
+ {:block/name
+  "navigating the energy transition/ not speculating on energy prices",
+  :block/created-at 1647509163568,
+  :block/updated-at 1647509163568}
+ {:block/name "nde",
+  :block/created-at 1650002935320,
+  :block/updated-at 1650002935320}
+ {:block/name "ndes",
+  :block/created-at 1647511990920,
+  :block/updated-at 1647511990920}
+ {:block/name "near-death experience",
+  :block/created-at 1647511984624,
+  :block/updated-at 1650002935323}
  {:block/name "neo4j",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "ness labs",
+  :block/created-at 1648259488085,
+  :block/updated-at 1648259493305}
  {:block/name "netflix",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "neuropsychiatrist",
+  :block/created-at 1647512028959,
+  :block/updated-at 1647512028959}
+ {:block/name "neurotoxin",
+  :block/created-at 1651377320423,
+  :block/updated-at 1651377320423}
+ {:block/name "new energy",
+  :block/created-at 1664665136649,
+  :block/updated-at 1664665533276}
  {:block/name "new page created in logseq",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "new science",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "new-age",
+  :block/created-at 1665635995066,
+  :block/updated-at 1665635995066}
  {:block/name "news & information discovery",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "newton",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "next",
+  :block/created-at 1647509162572,
+  :block/updated-at 1647509162572}
+ {:block/name "nine-eleven",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "nobel prize",
+  :block/created-at 1651379039424,
+  :block/updated-at 1651379039424}
+ {:block/name "nocebo effect",
+  :block/created-at 1646265475127,
+  :block/updated-at 1646265475127}
+ {:block/name "non-dual spirituality",
+  :block/created-at 1649975630965,
+  :block/updated-at 1667689971180}
+ {:block/name "non-duality",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "non-violent resistance vs armed revolution",
+  :block/created-at 1642891118919,
+  :block/updated-at 1642891118919}
+ {:block/name "noob",
+  :block/created-at 1664666882635,
+  :block/updated-at 1664666882635}
+ {:block/name "not all vaccines are created equal.",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
  {:block/name "note not “spiritual machines” a la kurzweil  ",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "note relationship types",
+  :block/created-at 1664086091652,
+  :block/updated-at 1664086189177}
+ {:block/name "note types",
+  :block/created-at 1663721615426,
+  :block/updated-at 1663722447551}
+ {:block/name "note-taking",
+  :block/created-at 1664081792299,
+  :block/updated-at 1664081792299}
+ {:block/name "notebook",
+  :block/created-at 1643757451246,
+  :block/updated-at 1643757451246}
+ {:block/name "notes on array attire",
+  :block/created-at 1664185809210,
+  :block/updated-at 1664185809210}
+ {:block/name "notes on forck",
+  :block/created-at 1664185691781,
+  :block/updated-at 1664185691781}
  {:block/name "notes on inspired possible solutions",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "notes on inspired possible solutions in part 2",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "notes to the reader",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "notion",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "notion app",
+  :block/created-at 1643757451251,
+  :block/updated-at 1643757451251}
  {:block/name "now",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
+ {:block/name "ob-mm",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "obacim",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "obpub",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
  {:block/name "obsidian",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "obsidian publish",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1642806996884}
+ {:block/name "oduusey",
+  :block/created-at 1647075373085,
+  :block/updated-at 1647075373085}
+ {:block/name "ofefa",
+  :block/created-at 1664612474694,
+  :block/updated-at 1664612474694}
  {:block/name "omnifocus 3",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "omnifocus export 230122",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "omnifocus task import 230122",
+  :block/created-at 1664166983695,
+  :block/updated-at 1664166983695}
  {:block/name "on the lightness of suggested solutions",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "ongoing",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "online",
+  :block/created-at 1647054477606,
+  :block/updated-at 1647054477606}
+ {:block/name "open source",
+  :block/created-at 1664581622633,
+  :block/updated-at 1664581622633}
+ {:block/name "org-type",
+  :block/created-at 1662194762680,
+  :block/updated-at 1662194762680}
+ {:block/name "organisation",
+  :block/created-at 1646075343893,
+  :block/updated-at 1646075343893}
+ {:block/name "organization for enough for all",
+  :block/created-at 1642895027264,
+  :block/updated-at 1642895904865}
+ {:block/name "orientate",
+  :block/created-at 1647509161671,
+  :block/updated-at 1647509161671}
+ {:block/name "orthodoxy",
+  :block/created-at 1660599652248,
+  :block/updated-at 1660599652248}
+ {:block/name "osirion",
+  :block/created-at 1664581628780,
+  :block/updated-at 1664581628780}
+ {:block/name "otherism",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "our metaphors are our ideas of ourselves",
+  :block/created-at 1664184677479,
+  :block/updated-at 1664184677479}
+ {:block/name "ourworldindata",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "ouspensky",
+  :block/created-at 1647510345996,
+  :block/updated-at 1647510345996}
+ {:block/name "over-arching questions",
+  :block/created-at 1664232160161,
+  :block/updated-at 1664232160161}
+ {:block/name
+  "overwhelming issues made visible, manageable and hopeful",
+  :block/created-at 1647509163007,
+  :block/updated-at 1647509163007}
+ {:block/name "p.r.sarkar",
+  :block/created-at 1662194762494,
+  :block/updated-at 1662194762494}
+ {:block/name "pandemic",
+  :block/created-at 1651475977311,
+  :block/updated-at 1651475977311}
+ {:block/name "panspermia",
+  :block/created-at 1645918511778,
+  :block/updated-at 1645918511778}
+ {:block/name "paper 2_ rationale for ffl in contemporary context",
+  :block/created-at 1647026804785,
+  :block/updated-at 1647026835929}
+ {:block/name "paradox",
+  :block/created-at 1642891118918,
+  :block/updated-at 1642891118918}
+ {:block/name "parapsychology",
+  :block/created-at 1647510393412,
+  :block/updated-at 1647510393412}
+ {:block/name "pareto principle",
+  :block/created-at 1647133263311,
+  :block/updated-at 1647133263311}
+ {:block/name "parkinson's law",
+  :block/created-at 1662200645654,
+  :block/updated-at 1662200645654}
  {:block/name "part 1 the sad state of suffering in 2010 ",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
  {:block/name "part 2 the spiral of satisfaction",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
  {:block/name "part 2 – there is enough",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "part 3 seeking the source of all ",
-  :block/created-at 1642371946396,
-  :block/updated-at 1642371946396}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "part a – is there enough",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "particle physics",
+  :block/created-at 1664581629519,
+  :block/updated-at 1664581629519}
+ {:block/name "partners",
+  :block/created-at 1662194762612,
+  :block/updated-at 1662194762612}
+ {:block/name "patreon",
+  :block/created-at 1648846310546,
+  :block/updated-at 1648846310546}
+ {:block/name "patterns of knowledge over time",
+  :block/created-at 1664254660706,
+  :block/updated-at 1664254660706}
+ {:block/name "peak prosperity",
+  :block/created-at 1648846195022,
+  :block/updated-at 1648846195022}
+ {:block/name "peer-reviewed",
+  :block/created-at 1646265475127,
+  :block/updated-at 1646265475127}
  {:block/name "people",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "permaculture ",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "perpetual motion",
+  :block/created-at 1664665888532,
+  :block/updated-at 1664665888532}
+ {:block/name "persistent problems",
+  :block/created-at 1647509161304,
+  :block/updated-at 1647509161304}
+ {:block/name "persistent problems/ question the repetition",
+  :block/created-at 1647509161303,
+  :block/updated-at 1647509161303}
+ {:block/name "person",
+  :block/created-at 1651461820416,
+  :block/updated-at 1651461820416}
  {:block/name "personal knowledge management",
   :block/created-at 1639533144255,
   :block/updated-at 1639533149028}
+ {:block/name "peter barnard",
+  :block/created-at 1647509165318,
+  :block/updated-at 1647509165318}
+ {:block/name "peter bishop",
+  :block/created-at 1664581628830,
+  :block/updated-at 1664581628830}
+ {:block/name "peter ellyard",
+  :block/created-at 1664581628831,
+  :block/updated-at 1664581628831}
+ {:block/name "petroglyphs",
+  :block/created-at 1648257007032,
+  :block/updated-at 1648257007032}
+ {:block/name "phd",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "philip tetlock",
+  :block/created-at 1643757451248,
+  :block/updated-at 1643757451248}
+ {:block/name "philosophy of science",
+  :block/created-at 1646075343892,
+  :block/updated-at 1646075343892}
+ {:block/name "phoenix flyover",
+  :block/created-at 1647509320180,
+  :block/updated-at 1647509320180}
+ {:block/name "physicists, mechanics, metaphysicists, metamechanics",
+  :block/created-at 1647574763882,
+  :block/updated-at 1647574763882}
+ {:block/name "physics",
+  :block/created-at 1660599695816,
+  :block/updated-at 1660599695816}
+ {:block/name "physiology",
+  :block/created-at 1651459215611,
+  :block/updated-at 1651459215611}
+ {:block/name "pillars, principles, levers and lenses",
+  :block/created-at 1648253635158,
+  :block/updated-at 1648253644300}
  {:block/name "pkm",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "placebo effect",
+  :block/created-at 1646265475128,
+  :block/updated-at 1646265475128}
+ {:block/name "plan b 3.0",
+  :block/created-at 1647050579713,
+  :block/updated-at 1647050579713}
  {:block/name "platforms",
   :block/created-at 1639532987554,
   :block/updated-at 1639532991066}
+ {:block/name "plato",
+  :block/created-at 1647127329709,
+  :block/updated-at 1647127329709}
+ {:block/name "plectica",
+  :block/created-at 1664181733472,
+  :block/updated-at 1664181733472}
+ {:block/name "plexus institute",
+  :block/created-at 1647509165033,
+  :block/updated-at 1647509165033}
  {:block/name "pocket",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "polio",
+  :block/created-at 1651376664090,
+  :block/updated-at 1651378122790}
+ {:block/name "poliomyelitis",
+  :block/created-at 1651378104589,
+  :block/updated-at 1651378104589}
+ {:block/name "positivist science",
+  :block/created-at 1646260770788,
+  :block/updated-at 1646260770788}
+ {:block/name "post-material science",
+  :block/created-at 1647025737304,
+  :block/updated-at 1647025737304}
+ {:block/name "postgrowth institute",
+  :block/created-at 1645839201298,
+  :block/updated-at 1645839201298}
+ {:block/name "postmaterialist",
+  :block/created-at 1664612465695,
+  :block/updated-at 1664612465695}
+ {:block/name "postnormal science",
+  :block/created-at 1646260770791,
+  :block/updated-at 1646260770791}
+ {:block/name "power for the people",
+  :block/created-at 1647024949550,
+  :block/updated-at 1647024949550}
+ {:block/name "powering the dream",
+  :block/created-at 1664243415273,
+  :block/updated-at 1664243415273}
+ {:block/name "pre-diluvian civilization",
+  :block/created-at 1664612432424,
+  :block/updated-at 1664612432424}
+ {:block/name "pre-historical advanced human civilization",
+  :block/created-at 1647509163444,
+  :block/updated-at 1647509163444}
+ {:block/name "predictions",
+  :block/created-at 1647085728047,
+  :block/updated-at 1647085728047}
  {:block/name "presentations",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "principles of curated cartographic content communities",
+  :block/created-at 1649973494626,
+  :block/updated-at 1650061503917}
  {:block/name "process and principles",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "productivity",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "professional metamechanic",
+  :block/created-at 1647574762630,
+  :block/updated-at 1647574762630}
+ {:block/name "project",
+  :block/created-at 1664086320502,
+  :block/updated-at 1664086320502}
+ {:block/name "project blue book",
+  :block/created-at 1647509274665,
+  :block/updated-at 1647509274665}
+ {:block/name "project collaboration dream team",
+  :block/created-at 1650003336448,
+  :block/updated-at 1650075021362}
+ {:block/name "project syndicate",
+  :block/created-at 1648846337225,
+  :block/updated-at 1648846337225}
+ {:block/name "project zero",
+  :block/created-at 1647054477986,
+  :block/updated-at 1647054477986}
+ {:block/name "projection of power and pain",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "projection vs extension",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
  {:block/name "projects",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
- {:block/name "projects/metamechanic",
-  :block/created-at 1639524645145,
-  :block/updated-at 1639524648615}
- {:block/name "projects/personal",
-  :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1665636423871}
  {:block/name "prout ",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "psi",
+  :block/created-at 1646265475128,
+  :block/updated-at 1646265475128}
+ {:block/name "psience",
+  :block/created-at 1645915281141,
+  :block/updated-at 1645915381386}
+ {:block/name "psy-ops",
+  :block/created-at 1647513700313,
+  :block/updated-at 1647513700313}
+ {:block/name "psychadelics",
+  :block/created-at 1665635995066,
+  :block/updated-at 1665635995066}
+ {:block/name "psychobiology",
+  :block/created-at 1664581628820,
+  :block/updated-at 1664581628820}
+ {:block/name "psychokinesis",
+  :block/created-at 1647510380266,
+  :block/updated-at 1647510380266}
+ {:block/name "publication-year",
+  :block/created-at 1662194762675,
+  :block/updated-at 1662194762675}
+ {:block/name "publish",
+  :block/created-at 1664603246874,
+  :block/updated-at 1664603246874}
+ {:block/name "publish logseq to github pages",
+  :block/created-at 1666393592386,
+  :block/updated-at 1666393610439}
+ {:block/name "pyramids of giza",
+  :block/created-at 1664581628775,
+  :block/updated-at 1664581628775}
  {:block/name "python",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "qabbalah",
+  :block/created-at 1664244979500,
+  :block/updated-at 1664244979500}
+ {:block/name "qts",
+  :block/created-at 1662770526834,
+  :block/updated-at 1662770526834}
+ {:block/name "quality of quantity",
+  :block/created-at 1647509163400,
+  :block/updated-at 1647509163400}
+ {:block/name "quality of quantity/ quantity of quality",
+  :block/created-at 1647509163400,
+  :block/updated-at 1647509163400}
+ {:block/name "quantum vacuum",
+  :block/created-at 1664665096708,
+  :block/updated-at 1664665096708}
+ {:block/name "quarterlyroutine",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "quentin wong",
+  :block/created-at 1650074829728,
+  :block/updated-at 1650074829728}
+ {:block/name "questioning change changing the question",
+  :block/created-at 1647509161307,
+  :block/updated-at 1647509161307}
+ {:block/name "questions to myself",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
  {:block/name "questions to self",
   :block/created-at 1639525067079,
-  :block/updated-at 1639530310605}
- {:block/name "rationale",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/updated-at 1664603752062}
+ {:block/name "questionstoself",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "quote",
+  :block/created-at 1647512320517,
+  :block/updated-at 1647512320517}
+ {:block/name "quote)",
+  :block/created-at 1649037114108,
+  :block/updated-at 1649037114108}
+ {:block/name "r markdown",
+  :block/created-at 1664165914616,
+  :block/updated-at 1664165914616}
+ {:block/name "radiate",
+  :block/created-at 1647509161674,
+  :block/updated-at 1647509161674}
+ {:block/name "radical",
+  :block/created-at 1651460352065,
+  :block/updated-at 1651460352065}
+ {:block/name "ralph marinelli",
+  :block/created-at 1651459382616,
+  :block/updated-at 1651459417808}
+ {:block/name "ralph scobey, md",
+  :block/created-at 1651377554336,
+  :block/updated-at 1651377611835}
+ {:block/name "rand flem ath",
+  :block/created-at 1664581628827,
+  :block/updated-at 1664581628827}
+ {:block/name "random references from tbx",
+  :block/created-at 1664243417705,
+  :block/updated-at 1664243417705}
+ {:block/name "rational wiki",
+  :block/created-at 1649282488580,
+  :block/updated-at 1649282543766}
  {:block/name "rationale app",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1648287832434}
+ {:block/name "rationale for efa",
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "rationale for writing in logseq",
+  :block/created-at 1664667271568,
+  :block/updated-at 1664668639733}
+ {:block/name "raymond moody",
+  :block/created-at 1647730072767,
+  :block/updated-at 1647730072767}
+ {:block/name "re-sourcing",
+  :block/created-at 1668312601462,
+  :block/updated-at 1668312601462}
  {:block/name "reading & learning",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "readwise",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "readymag",
+  :block/created-at 1650162909842,
+  :block/updated-at 1650162909842}
+ {:block/name "reality, truth & relativity",
+  :block/created-at 1642891118922,
+  :block/updated-at 1642891118922}
+ {:block/name "reasons i need your help",
+  :block/created-at 1647509161311,
+  :block/updated-at 1647509161311}
+ {:block/name "rebecca newberger goldstein",
+  :block/created-at 1660600507464,
+  :block/updated-at 1660600507464}
+ {:block/name "redgate, montana",
+  :block/created-at 1647512611063,
+  :block/updated-at 1647512611063}
+ {:block/name "reductionist science",
+  :block/created-at 1646260770791,
+  :block/updated-at 1646260770791}
+ {:block/name "reference",
+  :block/created-at 1647509165174,
+  :block/updated-at 1647509165174}
+ {:block/name "related-to",
+  :block/created-at 1662194761723,
+  :block/updated-at 1662194761723}
+ {:block/name "relationships",
+  :block/created-at 1642891118924,
+  :block/updated-at 1642891118924}
+ {:block/name "relevant-projects",
+  :block/created-at 1663740777822,
+  :block/updated-at 1663740777822}
+ {:block/name "religion",
+  :block/created-at 1665635995066,
+  :block/updated-at 1665635995066}
+ {:block/name "religious",
+  :block/created-at 1664244958090,
+  :block/updated-at 1664244958090}
  {:block/name "religious aspect is enough diversity of opinion ",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "religious studies",
+  :block/created-at 1666392439513,
+  :block/updated-at 1666392439513}
+ {:block/name "religious texts & spiritual practice",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "remarkable 2",
+  :block/created-at 1647660428127,
+  :block/updated-at 1647660439168}
+ {:block/name "remote viewing",
+  :block/created-at 1646265475129,
+  :block/updated-at 1646267927622}
+ {:block/name "rescuing god",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "research",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "research & referencing",
   :block/created-at 1641431107173,
   :block/updated-at 1641431107173}
  {:block/name "research rabbit",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "resources for teaching futures",
+  :block/created-at 1647054477977,
+  :block/updated-at 1647054477977}
+ {:block/name "responsibility-1",
+  :block/created-at 1646075343893,
+  :block/updated-at 1646075343893}
+ {:block/name "return of the god hypothesis",
+  :block/created-at 1645916989543,
+  :block/updated-at 1645917287653}
  {:block/name "reveal.js",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "reviewing conventional wisdom",
+  :block/created-at 1647509163379,
+  :block/updated-at 1647509163379}
+ {:block/name "richard dawkins",
+  :block/created-at 1662194762493,
+  :block/updated-at 1662194762493}
+ {:block/name "richard hoagland",
+  :block/created-at 1647511655900,
+  :block/updated-at 1647511655900}
+ {:block/name "richard slaughter",
+  :block/created-at 1647054477694,
+  :block/updated-at 1647054477694}
+ {:block/name "risk",
+  :block/created-at 1647085720896,
+  :block/updated-at 1647085720896}
+ {:block/name "robert b silvers",
+  :block/created-at 1647081719165,
+  :block/updated-at 1647081719165}
+ {:block/name "robert bauval",
+  :block/created-at 1664581628825,
+  :block/updated-at 1664581628825}
+ {:block/name "robert schoch",
+  :block/created-at 1647127940446,
+  :block/updated-at 1647127940446}
+ {:block/name "robertson panel",
+  :block/created-at 1647509282772,
+  :block/updated-at 1647509282772}
+ {:block/name "rocket arabic",
+  :block/created-at 1649555943747,
+  :block/updated-at 1649555943747}
+ {:block/name "roger walsh",
+  :block/created-at 1651440953236,
+  :block/updated-at 1651440953236}
+ {:block/name "roland mcgraty",
+  :block/created-at 1664581628819,
+  :block/updated-at 1664581628819}
+ {:block/name "role",
+  :block/created-at 1662194762682,
+  :block/updated-at 1662194762682}
+ {:block/name "royal r",
+  :block/created-at 1664243451641,
+  :block/updated-at 1664243451641}
+ {:block/name "royal r. rife",
+  :block/created-at 1651478035675,
+  :block/updated-at 1651478389550}
+ {:block/name "royal r/ rife",
+  :block/created-at 1664243451640,
+  :block/updated-at 1664243451640}
  {:block/name "rudolf steiner",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "rupert sheldrake",
+  :block/created-at 1648846123273,
+  :block/updated-at 1648846143848}
+ {:block/name "russel targ",
+  :block/created-at 1646268093092,
+  :block/updated-at 1646268093092}
+ {:block/name "rv",
+  :block/created-at 1646268093093,
+  :block/updated-at 1646268093093}
+ {:block/name "sacred economics",
+  :block/created-at 1664581628822,
+  :block/updated-at 1664581628822}
+ {:block/name "sacred text",
+  :block/created-at 1664255868578,
+  :block/updated-at 1664255868578}
+ {:block/name "salk",
+  :block/created-at 1651379533228,
+  :block/updated-at 1651379533228}
+ {:block/name "sam harris",
+  :block/created-at 1666388620250,
+  :block/updated-at 1666388625308}
+ {:block/name "samuel arbesman",
+  :block/created-at 1660600271217,
+  :block/updated-at 1660600271217}
+ {:block/name "sarah @ mt coolum",
+  :block/created-at 1650075021219,
+  :block/updated-at 1650075021219}
  {:block/name "saws",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "scalar technology",
+  :block/created-at 1647509516336,
+  :block/updated-at 1647509516336}
+ {:block/name "scalar weapons",
+  :block/created-at 1647509511523,
+  :block/updated-at 1647509511523}
+ {:block/name "schools",
+  :block/created-at 1647054477693,
+  :block/updated-at 1647054477693}
+ {:block/name "schools of scientific thinking",
+  :block/created-at 1646075486372,
+  :block/updated-at 1646075835684}
+ {:block/name "science",
+  :block/created-at 1660599883053,
+  :block/updated-at 1660599883053}
+ {:block/name "science and religion",
+  :block/created-at 1642891118919,
+  :block/updated-at 1642891118919}
+ {:block/name "science as method, not knowledge base",
+  :block/created-at 1664184742712,
+  :block/updated-at 1664184742712}
+ {:block/name
+  "science fictions: how fraud, bias, negligence, and hype undermine the search for truth",
+  :block/created-at 1660599865407,
+  :block/updated-at 1660599865407}
+ {:block/name "science-spirituality",
+  :block/created-at 1660599601759,
+  :block/updated-at 1660599601759}
+ {:block/name "scientific and medical network",
+  :block/created-at 1647511957269,
+  :block/updated-at 1647512482282}
+ {:block/name "scientific laws are a function of time",
+  :block/created-at 1664243970011,
+  :block/updated-at 1664243973705}
+ {:block/name "scientist",
+  :block/created-at 1651378593666,
+  :block/updated-at 1651378593666}
+ {:block/name "scigod.com",
+  :block/created-at 1664243502972,
+  :block/updated-at 1664243779223}
  {:block/name "scrivener",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "sections",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "september11",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "serpent in the sky",
+  :block/created-at 1663372821575,
+  :block/updated-at 1663372872857}
+ {:block/name "setapp",
+  :block/created-at 1649556302636,
+  :block/updated-at 1649556302636}
+ {:block/name "seti i",
+  :block/created-at 1664581628781,
+  :block/updated-at 1664581628781}
+ {:block/name "shallow, narrow, short-term",
+  :block/created-at 1647509163535,
+  :block/updated-at 1647509163535}
+ {:block/name "shane parrish",
+  :block/created-at 1650006679828,
+  :block/updated-at 1650006679828}
+ {:block/name "shared-death experiences",
+  :block/created-at 1647730092741,
+  :block/updated-at 1647730092741}
  {:block/name "sharesight",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
  {:block/name "should everyone have enough",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "show your support or share your suggestion",
+  :block/created-at 1647509161314,
+  :block/updated-at 1647509161314}
+ {:block/name "similar-to",
+  :block/created-at 1662194762318,
+  :block/updated-at 1662194762318}
  {:block/name "simon buckingham-shum",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "simplenote",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "simplifying complexity",
+  :block/created-at 1647509163382,
+  :block/updated-at 1647509163382}
+ {:block/name "simplifying complexity/",
+  :block/created-at 1647574310464,
+  :block/updated-at 1647574310464}
+ {:block/name "simplifying complexity///just enough, not too much",
+  :block/created-at 1647509163381,
+  :block/updated-at 1647509163381}
+ {:block/name "skeptics society",
+  :block/created-at 1647660585987,
+  :block/updated-at 1647660618881}
+ {:block/name "skills, domains, proficiencies",
+  :block/created-at 1664183323961,
+  :block/updated-at 1664183350559}
+ {:block/name "skinwalker ranch",
+  :block/created-at 1647514160997,
+  :block/updated-at 1647514160997}
  {:block/name "slid.es",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "smallpox",
+  :block/created-at 1651461299456,
+  :block/updated-at 1651461299456}
+ {:block/name "social messes",
+  :block/created-at 1648253793282,
+  :block/updated-at 1648253793282}
+ {:block/name "social metabolism",
+  :block/created-at 1664581629523,
+  :block/updated-at 1664581629523}
+ {:block/name "socialmedia",
+  :block/created-at 1647050654399,
+  :block/updated-at 1647050654399}
+ {:block/name "society for scientific exploration",
+  :block/created-at 1664581628828,
+  :block/updated-at 1664581628828}
+ {:block/name "socio-economic transitions",
+  :block/created-at 1642919092936,
+  :block/updated-at 1642919092936}
+ {:block/name "software",
+  :block/created-at 1647509164371,
+  :block/updated-at 1647509164371}
  {:block/name "software & app management",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "software, apps & web services i use, like & learn",
   :block/created-at 1639533073871,
-  :block/updated-at 1639538167223}
+  :block/updated-at 1664081805463}
+ {:block/name "solar charger-battery",
+  :block/created-at 1651267585617,
+  :block/updated-at 1651267585617}
+ {:block/name "solon",
+  :block/created-at 1647127329709,
+  :block/updated-at 1647127329709}
  {:block/name "some existing options",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "some fresh alternatives",
+  :block/created-at 1668312712357,
+  :block/updated-at 1668312712357}
+ {:block/name "some metamechanic website text",
+  :block/created-at 1664185494930,
+  :block/updated-at 1664612165408}
+ {:block/name "some spiritual practice paths",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
  {:block/name "some suggested alternatives",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "some suggested alternatives general",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
- {:block/name "special topics sections",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "someday",
+  :block/created-at 1643757451248,
+  :block/updated-at 1643757451248}
+ {:block/name "sonja m mckinlay",
+  :block/created-at 1651474376532,
+  :block/updated-at 1651474376532}
+ {:block/name "spanishflu",
+  :block/created-at 1651474710698,
+  :block/updated-at 1651474710698}
+ {:block/name "sparking a worldwide energy revolution",
+  :block/created-at 1647024941563,
+  :block/updated-at 1647024941563}
+ {:block/name "speciesism",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "sphinx",
+  :block/created-at 1664581624293,
+  :block/updated-at 1664581624293}
+ {:block/name "spiritual",
+  :block/created-at 1664244958092,
+  :block/updated-at 1664244958092}
+ {:block/name "spiritual origin of language",
+  :block/created-at 1664254344227,
+  :block/updated-at 1664254395345}
+ {:block/name "spiritual vs spiritual",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "spirituality",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
  {:block/name "spotify",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
  {:block/name "stan",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "stanislav grof",
+  :block/created-at 1651440975843,
+  :block/updated-at 1651440975843}
+ {:block/name "steady-state economics",
+  :block/created-at 1664581629524,
+  :block/updated-at 1664581629524}
+ {:block/name "stefan lanka, phd",
+  :block/created-at 1648845756929,
+  :block/updated-at 1648845756929}
+ {:block/name "stefan molyneux",
+  :block/created-at 1664243417189,
+  :block/updated-at 1664243417189}
+ {:block/name "steiner",
+  :block/created-at 1651478606955,
+  :block/updated-at 1651478606955}
+ {:block/name "stephen c. meyer",
+  :block/created-at 1645916589407,
+  :block/updated-at 1645916980899}
+ {:block/name "stitching together the story of sufficiency",
+  :block/created-at 1647509163385,
+  :block/updated-at 1647509163385}
+ {:block/name "stonehenge",
+  :block/created-at 1647127485935,
+  :block/updated-at 1647127485935}
+ {:block/name "strange rites: new religions for a godless world",
+  :block/created-at 1660599955422,
+  :block/updated-at 1660599955422}
+ {:block/name "stranger in a strange land",
+  :block/created-at 1647133352944,
+  :block/updated-at 1647133352944}
+ {:block/name "string theory",
+  :block/created-at 1664581629521,
+  :block/updated-at 1664581629521}
+ {:block/name "stuart ritchie",
+  :block/created-at 1660599870632,
+  :block/updated-at 1660599870632}
+ {:block/name "style",
+  :block/created-at 1642891118925,
+  :block/updated-at 1642891118925}
+ {:block/name "subscriptions",
+  :block/created-at 1648846241869,
+  :block/updated-at 1648846241869}
+ {:block/name "superforecasting",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "susan mizrahi",
+  :block/created-at 1650074662972,
+  :block/updated-at 1650074662972}
+ {:block/name "sustainability without the hot air",
+  :block/created-at 1647024934788,
+  :block/updated-at 1647024934788}
+ {:block/name "sustainable society index",
+  :block/created-at 1647086755318,
+  :block/updated-at 1647086760617}
+ {:block/name "systems thinking",
+  :block/created-at 1658034406427,
+  :block/updated-at 1658034406427}
+ {:block/name "t-plates",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
  {:block/name "tableau",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "tableau - community",
+  :block/created-at 1647050690052,
+  :block/updated-at 1647050690052}
+ {:block/name "tara isabella burton",
+  :block/created-at 1660599972009,
+  :block/updated-at 1660599972009}
+ {:block/name
+  "targeting effective triggers and solutions through a logical sequence of in-sufficiency investigation",
+  :block/created-at 1647509163389,
+  :block/updated-at 1647509163389}
  {:block/name "task management tools",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "tasks",
+  :block/created-at 1662194761708,
+  :block/updated-at 1664162329235}
+ {:block/name "taxonomy",
+  :block/created-at 1650073061909,
+  :block/updated-at 1650073061909}
+ {:block/name "tbx",
+  :block/created-at 1642919092939,
+  :block/updated-at 1642919092939}
+ {:block/name "tbx note on amt inner beginner omg forck",
+  :block/created-at 1664243417563,
+  :block/updated-at 1664610499392}
+ {:block/name "tbx notes on 7p",
+  :block/created-at 1664186580803,
+  :block/updated-at 1664186580803}
+ {:block/name "tbx notes on aneo",
+  :block/created-at 1664186019734,
+  :block/updated-at 1664665961518}
+ {:block/name "tbx notes on behind, beyond, below",
+  :block/created-at 1664185967387,
+  :block/updated-at 1664185967387}
+ {:block/name "tbx notes on diagnosis",
+  :block/created-at 1664186094702,
+  :block/updated-at 1664610163170}
+ {:block/name "tbx notes on efa",
+  :block/created-at 1664186318016,
+  :block/updated-at 1668305895887}
+ {:block/name "tbx notes on fresh alternatives",
+  :block/created-at 1664186176802,
+  :block/updated-at 1664610263636}
+ {:block/name "tbx notes on global effort",
+  :block/created-at 1664186246270,
+  :block/updated-at 1664186246270}
+ {:block/name "tbx notes on inner beginner",
+  :block/created-at 1664185884272,
+  :block/updated-at 1664185884272}
  {:block/name "teaching",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "tech and discovery",
+  :block/created-at 1664185049051,
+  :block/updated-at 1664185049051}
  {:block/name "technology ",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "technology as metaphor",
+  :block/created-at 1647509165168,
+  :block/updated-at 1647509165168}
+ {:block/name "technology as metaphor/ metaphor as technology",
+  :block/created-at 1647509165168,
+  :block/updated-at 1647509165168}
  {:block/name
   "technology facilitatesenables a deeper sense of fulfilment",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "telepathy",
+  :block/created-at 1647510373967,
+  :block/updated-at 1647510373967}
  {:block/name "templates",
-  :block/created-at 1642054085131,
-  :block/updated-at 1642054126744}
- {:block/name "templates i need to create",
   :block/created-at 1639535361129,
-  :block/updated-at 1639535390642}
+  :block/updated-at 1667706475804}
+ {:block/name "temples",
+  :block/created-at 1665299089337,
+  :block/updated-at 1665299089337}
  {:block/name "test",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "test obsidian page link",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "testing frontmatter and yaml",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "text",
+  :block/created-at 1664244958093,
+  :block/updated-at 1664244958093}
+ {:block/name "the (en)rich list",
+  :block/created-at 1643974737197,
+  :block/updated-at 1643975398744}
+ {:block/name "the bloodline of jesus",
+  :block/created-at 1642891118918,
+  :block/updated-at 1642891118918}
+ {:block/name "the body",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "the capra course",
+  :block/created-at 1649555652412,
+  :block/updated-at 1649555705592}
+ {:block/name
+  "the church of science: science as religion. religion as technology. spirituality as science.",
+  :block/created-at 1664243446045,
+  :block/updated-at 1664272673282}
+ {:block/name
+  "the contradictions of cognitive biases and mental models",
+  :block/created-at 1649979818923,
+  :block/updated-at 1649984268432}
+ {:block/name "the conversation",
+  :block/created-at 1648846331145,
+  :block/updated-at 1648846331145}
+ {:block/name
+  "the critical, reasonable and self-reflective path between fringe and acceptable",
+  :block/created-at 1647509163473,
+  :block/updated-at 1647509163473}
+ {:block/name "the disappearance of the universe",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "the earth charter",
+  :block/created-at 1665635585666,
+  :block/updated-at 1665635797234}
+ {:block/name "the economics book - (dk)",
+  :block/created-at 1643757451247,
+  :block/updated-at 1643757451247}
+ {:block/name "the ego",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "the end of poverty",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "the ending of time",
+  :block/created-at 1660599545920,
+  :block/updated-at 1660599545920}
+ {:block/name "the fermi paradox",
+  :block/created-at 1645870594020,
+  :block/updated-at 1645870901027}
+ {:block/name "the forgotten technologies",
+  :block/created-at 1647082331085,
+  :block/updated-at 1647082365556}
  {:block/name "the fulfilling spiral ",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "the future of work - dokbox",
+  :block/created-at 1649556292802,
+  :block/updated-at 1649556292802}
+ {:block/name "the galileo commission",
+  :block/created-at 1647512089900,
+  :block/updated-at 1647512428767}
  {:block/name "the guardian newspaper",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
- {:block/name "the premisethesis of efa",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+ {:block/name
+  "the half-life of facts: why everything we know has an expiration date",
+  :block/created-at 1660600267268,
+  :block/updated-at 1660600267268}
+ {:block/name "the happy economist ",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "the heart is not a pump",
+  :block/created-at 1651459198587,
+  :block/updated-at 1651460352068}
+ {:block/name
+  "the invisible rainbow - a history of electricity and life",
+  :block/created-at 1651475841742,
+  :block/updated-at 1651475841742}
+ {:block/name
+  "the left need to read the bhagavad-gita. the right need to read ...?",
+  :block/created-at 1664243452544,
+  :block/updated-at 1664243452544}
+ {:block/name "the mystery of the sphinx",
+  :block/created-at 1664063092760,
+  :block/updated-at 1664612205221}
+ {:block/name "the nature of the universe",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name
+  "the new systems reader: alternatives to a failed economy",
+  :block/created-at 1665635147104,
+  :block/updated-at 1665635388838}
+ {:block/name
+  "the poison cause of poliomyelitis and obstructions to its investigation",
+  :block/created-at 1651377606724,
+  :block/updated-at 1651377732626}
+ {:block/name "the premise and thesis of efa",
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name
   "the purpose of efa is to demonstrate that there is enough for all",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "the purpose of questioning",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "the religious and spiritual nature of science",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "the scientific and medical network",
+  :block/created-at 1648846607205,
+  :block/updated-at 1648846779820}
+ {:block/name "the scientific and religious nature of spirituality",
+  :block/created-at 1642891118913,
+  :block/updated-at 1642891118913}
+ {:block/name "the scientific and spiritual nature of religion",
+  :block/created-at 1642891118916,
+  :block/updated-at 1642891118916}
+ {:block/name "the silence of science",
+  :block/created-at 1647509341853,
+  :block/updated-at 1664272593639}
  {:block/name "the source of policies and strategies ",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "the story of the world, simplified and visualised",
+  :block/created-at 1647509163391,
+  :block/updated-at 1647509163391}
+ {:block/name "the systems view of life",
+  :block/created-at 1658034406425,
+  :block/updated-at 1658034406425}
+ {:block/name "the traveler's key to ancient egypt",
+  :block/created-at 1663372703547,
+  :block/updated-at 1664612435667}
+ {:block/name "the ultimate innovation",
+  :block/created-at 1647082391287,
+  :block/updated-at 1647082502268}
+ {:block/name "the universe is a closed-loop system",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
+ {:block/name "the viral delusion",
+  :block/created-at 1648845658121,
+  :block/updated-at 1651475977312}
+ {:block/name "the wisdom of trauma",
+  :block/created-at 1648846525666,
+  :block/updated-at 1648846538006}
+ {:block/name "theories of change",
+  :block/created-at 1665635331365,
+  :block/updated-at 1665635331365}
+ {:block/name "theory",
+  :block/created-at 1642891118915,
+  :block/updated-at 1642891118915}
+ {:block/name
+  "there are too many holes in orthodox theory that don’t hold water",
+  :block/created-at 1647509163457,
+  :block/updated-at 1647509163457}
+ {:block/name
+  "there are too many holes in orthodox theory that don’t hold water/ ",
+  :block/created-at 1647509163456,
+  :block/updated-at 1647509163456}
  {:block/name "there is enough for all",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "thesis and hypotheses",
-  :block/created-at 1642371946393,
-  :block/updated-at 1642371946393}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "things",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "think resilience",
+  :block/created-at 1647027023128,
+  :block/updated-at 1647027037739}
+ {:block/name "thinking fast and slow",
+  :block/created-at 1664243415116,
+  :block/updated-at 1664243415116}
+ {:block/name "third eye spies",
+  :block/created-at 1646268093092,
+  :block/updated-at 1646268093092}
  {:block/name "this is a book about addiction",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
  {:block/name "this means we can share we dont have to hoard",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "thomas seigfried",
+  :block/created-at 1649714342738,
+  :block/updated-at 1649714961004}
+ {:block/name "thunderbird",
+  :block/created-at 1664665873876,
+  :block/updated-at 1664665873876}
  {:block/name "tim van gelder",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "timo van berg",
+  :block/created-at 1648269396779,
+  :block/updated-at 1648269396779}
  {:block/name "tinderbox",
   :block/created-at 1639538288374,
-  :block/updated-at 1639538288374}
+  :block/updated-at 1642906288209}
+ {:block/name "tldr",
+  :block/created-at 1664668408769,
+  :block/updated-at 1664668408769}
+ {:block/name "tobuy",
+  :block/created-at 1651267601143,
+  :block/updated-at 1651267601143}
  {:block/name "todo",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
+ {:block/name "todownload",
+  :block/created-at 1642919092938,
+  :block/updated-at 1642919092938}
+ {:block/name "toe",
+  :block/created-at 1660599717969,
+  :block/updated-at 1660599717969}
+ {:block/name "tom cowan, md",
+  :block/created-at 1651376308996,
+  :block/updated-at 1651478933295}
+ {:block/name "tools",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
  {:block/name "topic mapping",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "topics of interest",
+  :block/created-at 1646263543518,
+  :block/updated-at 1646263697795}
+ {:block/name "toread",
+  :block/created-at 1643757451249,
+  :block/updated-at 1643757451249}
+ {:block/name "torsten engelbrecht",
+  :block/created-at 1651376500684,
+  :block/updated-at 1651376503484}
+ {:block/name "tostudy",
+  :block/created-at 1647068227769,
+  :block/updated-at 1647068227769}
+ {:block/name "tosummarize",
+  :block/created-at 1663372724469,
+  :block/updated-at 1663372724469}
+ {:block/name "toulmin model",
+  :block/created-at 1664666060570,
+  :block/updated-at 1664666060570}
+ {:block/name "toulmin model of argument",
+  :block/created-at 1647067670917,
+  :block/updated-at 1664666095689}
+ {:block/name "towatc",
+  :block/created-at 1666404048230,
+  :block/updated-at 1666404048230}
+ {:block/name "towatch",
+  :block/created-at 1642919092937,
+  :block/updated-at 1642919092937}
+ {:block/name "towns & cities",
+  :block/created-at 1665299089338,
+  :block/updated-at 1665299089338}
+ {:block/name "towrite",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "trademark",
+  :block/created-at 1647067897222,
+  :block/updated-at 1647067897222}
+ {:block/name "transcribe",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "transformation",
+  :block/created-at 1642891118914,
+  :block/updated-at 1642891118914}
+ {:block/name "transmutate",
+  :block/created-at 1647509161675,
+  :block/updated-at 1647509161675}
+ {:block/name "transpersonal psychology",
+  :block/created-at 1647025722178,
+  :block/updated-at 1651440988711}
+ {:block/name "tremenduus",
+  :block/created-at 1647075306210,
+  :block/updated-at 1664164601586}
+ {:block/name "trend",
+  :block/created-at 1643757451250,
+  :block/updated-at 1643757451250}
+ {:block/name "trends",
+  :block/created-at 1643757451247,
+  :block/updated-at 1643757451247}
  {:block/name "trial",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "trial mermaid diagram",
+  :block/created-at 1652528289644,
+  :block/updated-at 1652528828999}
+ {:block/name "trillium",
+  :block/created-at 1664069493163,
+  :block/updated-at 1664081918435}
+ {:block/name "truth claims",
+  :block/created-at 1647133284566,
+  :block/updated-at 1647133284566}
+ {:block/name "truth tools",
+  :block/created-at 1647133280314,
+  :block/updated-at 1647133280314}
+ {:block/name "truth vs truth-tool",
+  :block/created-at 1642891118919,
+  :block/updated-at 1642891118919}
  {:block/name "twine",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "two ways to help someone up",
+  :block/created-at 1664184963631,
+  :block/updated-at 1664184963631}
+ {:block/name "two-domain economics",
+  :block/created-at 1646265475129,
+  :block/updated-at 1646265475129}
+ {:block/name "types of atheists - usefulcharts",
+  :block/created-at 1666391747854,
+  :block/updated-at 1666391880898}
+ {:block/name
+  "typically does not receive significant mainstream media airtime at present",
+  :block/created-at 1647509163425,
+  :block/updated-at 1647509163425}
  {:block/name "udemy",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "ufo",
+  :block/created-at 1642907323572,
+  :block/updated-at 1642907381415}
+ {:block/name "ufos",
+  :block/created-at 1642919092940,
+  :block/updated-at 1642919092940}
+ {:block/name "undp",
+  :block/created-at 1665635129103,
+  :block/updated-at 1665635129103}
  {:block/name "unibox",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "union of concerned scientists",
+  :block/created-at 1647592677768,
+  :block/updated-at 1647592677768}
  {:block/name "uniqueness – what efa is not ",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "universal challenges",
+  :block/created-at 1647509165308,
+  :block/updated-at 1647509165308}
+ {:block/name "universal challenges/ fundamental fulcra",
+  :block/created-at 1647509165308,
+  :block/updated-at 1647509165308}
+ {:block/name "universal principles",
+  :block/created-at 1647086895570,
+  :block/updated-at 1647086929895}
+ {:block/name "universe & world",
+  :block/created-at 1642891118921,
+  :block/updated-at 1642891118921}
+ {:block/name "university of chicago",
+  :block/created-at 1664581628778,
+  :block/updated-at 1664581628778}
+ {:block/name "unorthodox",
+  :block/created-at 1651460341577,
+  :block/updated-at 1651460341577}
  {:block/name "unread",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name
+  "until the end of time: mind, matter and our search for meaning in an evolving universe",
+  :block/created-at 1660599690058,
+  :block/updated-at 1660599690058}
+ {:block/name "url",
+  :block/created-at 1662194762612,
+  :block/updated-at 1662194762612}
+ {:block/name "usa",
+  :block/created-at 1664243746671,
+  :block/updated-at 1664243746671}
+ {:block/name "vaccine",
+  :block/created-at 1651378603651,
+  :block/updated-at 1651378603651}
+ {:block/name "vaclav smil",
+  :block/created-at 1647067670874,
+  :block/updated-at 1647067670874}
+ {:block/name "valentinian gospel of truth",
+  :block/created-at 1664244908870,
+  :block/updated-at 1664244958093}
+ {:block/name "values-free science",
+  :block/created-at 1646260770791,
+  :block/updated-at 1646260770791}
+ {:block/name "vannevar bush",
+  :block/created-at 1647513133781,
+  :block/updated-at 1647513133781}
  {:block/name "venus project",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "victor j. stenger",
+  :block/created-at 1660599803723,
+  :block/updated-at 1660599803723}
+ {:block/name "violent non-violent resistance ",
+  :block/created-at 1642891118920,
+  :block/updated-at 1642891118920}
+ {:block/name "virology",
+  :block/created-at 1651378765589,
+  :block/updated-at 1651378765589}
+ {:block/name "virology vs toxicology",
+  :block/created-at 1651376906845,
+  :block/updated-at 1651377041439}
+ {:block/name "virus",
+  :block/created-at 1651378629426,
+  :block/updated-at 1651378629426}
+ {:block/name "viruses (journal)",
+  :block/created-at 1651380215263,
+  :block/updated-at 1651380215263}
+ {:block/name "visual knowledge",
+  :block/created-at 1648253760309,
+  :block/updated-at 1648253760309}
+ {:block/name "visual language",
+  :block/created-at 1664581629517,
+  :block/updated-at 1664581629517}
+ {:block/name "visualizing the story of the world",
+  :block/created-at 1647509163411,
+  :block/updated-at 1647509163411}
+ {:block/name "visualizingcomplexity.org",
+  :block/created-at 1647509165460,
+  :block/updated-at 1647509165460}
+ {:block/name "waas",
+  :block/created-at 1646075343895,
+  :block/updated-at 1646075343895}
+ {:block/name "wacom",
+  :block/created-at 1647723875875,
+  :block/updated-at 1647723875875}
  {:block/name "wait",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
  {:block/name "waiting",
   :block/created-at 1639217415979,
   :block/updated-at 1639217415979}
+ {:block/name "walter alvarez",
+  :block/created-at 1647125781883,
+  :block/updated-at 1647125781883}
  {:block/name "walter russell",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "warnings to myself about efa",
+  :block/created-at 1641875538649,
+  :block/updated-at 1668316882232}
+ {:block/name "we are all poor",
+  :block/created-at 1647509163403,
+  :block/updated-at 1647509163403}
+ {:block/name "we are all poor/ we are all wealthy",
+  :block/created-at 1647509163403,
+  :block/updated-at 1647509163403}
+ {:block/name "we are looking in the wrong place",
+  :block/created-at 1647509163406,
+  :block/updated-at 1647509163406}
+ {:block/name "we waste",
+  :block/created-at 1647509163408,
+  :block/updated-at 1647509163408}
+ {:block/name "we waste/ and we don’t care",
+  :block/created-at 1647509163407,
+  :block/updated-at 1647509163407}
+ {:block/name "web platform for a deep, data-driven narrative ",
+  :block/created-at 1647509163413,
+  :block/updated-at 1647509163413}
+ {:block/name "web project outline brief for freelancers and agencies",
+  :block/created-at 1664273309877,
+  :block/updated-at 1664273309877}
+ {:block/name "webber-smith document",
+  :block/created-at 1647513016965,
+  :block/updated-at 1647513016965}
+ {:block/name "webinar",
+  :block/created-at 1649889086185,
+  :block/updated-at 1649889086185}
+ {:block/name "website",
+  :block/created-at 1647068124542,
+  :block/updated-at 1647068124542}
  {:block/name "website tools",
   :block/created-at 1641431107174,
   :block/updated-at 1641431107174}
+ {:block/name "weekly",
+  :block/created-at 1642890657694,
+  :block/updated-at 1642890657694}
+ {:block/name "weekly routine",
+  :block/created-at 1642807105620,
+  :block/updated-at 1649978564860}
+ {:block/name "weeklyroutine",
+  :block/created-at 1649978564857,
+  :block/updated-at 1649978564857}
+ {:block/name "whale (website)",
+  :block/created-at 1651461721154,
+  :block/updated-at 1651461957993}
+ {:block/name "what",
+  :block/created-at 1647509163927,
+  :block/updated-at 1647509163927}
+ {:block/name "what are the world's energy futures",
+  :block/created-at 1647509163494,
+  :block/updated-at 1647509163494}
  {:block/name "what are we really looking for",
-  :block/created-at 1642371946394,
-  :block/updated-at 1642371946394}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
  {:block/name "what do we really want",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
- {:block/name "what efa is not",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "what efa is and is not",
+  :block/created-at 1668314560216,
+  :block/updated-at 1668315645219}
+ {:block/name "what is a \"metamechanic\"?!",
+  :block/created-at 1664671673403,
+  :block/updated-at 1664671673403}
  {:block/name "what is enough for all and how did it come about",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "what is it not",
+  :block/created-at 1647509163925,
+  :block/updated-at 1647509163925}
+ {:block/name
+  "what is psychologically involved in surrendering one model and taking up another one",
+  :block/created-at 1664243417695,
+  :block/updated-at 1664243417695}
+ {:block/name "what is required",
+  :block/created-at 1647509161317,
+  :block/updated-at 1647509161317}
+ {:block/name "what is the history of the world's energy futures",
+  :block/created-at 1647509163496,
+  :block/updated-at 1647509163496}
+ {:block/name "what really makes you ill",
+  :block/created-at 1651460416855,
+  :block/updated-at 1651460567934}
+ {:block/name "when",
+  :block/created-at 1647509163929,
+  :block/updated-at 1647509163929}
  {:block/name "when is efa",
-  :block/created-at 1642371946399,
-  :block/updated-at 1642371946399}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "where",
+  :block/created-at 1647509163931,
+  :block/updated-at 1647509163931}
  {:block/name "where is efa",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
- {:block/name "who",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "who ge",
+  :block/created-at 1647574766215,
+  :block/updated-at 1647574766215}
+ {:block/name "who inner beginner",
+  :block/created-at 1647574766548,
+  :block/updated-at 1647574766548}
+ {:block/name "who is right",
+  :block/created-at 1642891118917,
+  :block/updated-at 1642891118917}
+ {:block/name "why",
+  :block/created-at 1647509163939,
+  :block/updated-at 1647509163939}
  {:block/name
   "why are there so many poor people who don’t have enough to eat",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "why do some not have enough",
+  :block/created-at 1647509162598,
+  :block/updated-at 1647509162598}
  {:block/name "why do some people not have enough",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "why not economics, psychology, politics",
+  :block/created-at 1647509160066,
+  :block/updated-at 1647509160066}
+ {:block/name
+  "why schools fail the complexity test and what they need to do to pass it",
+  :block/created-at 1647509165319,
+  :block/updated-at 1647509165319}
+ {:block/name
+  "why there is no god: simple responses to 20 common arguments for the existence of god",
+  :block/created-at 1660600374679,
+  :block/updated-at 1660600374679}
+ {:block/name "wicked problems",
+  :block/created-at 1647070733076,
+  :block/updated-at 1647070733076}
+ {:block/name "wiki",
+  :block/created-at 1663390385275,
+  :block/updated-at 1663390385275}
+ {:block/name "wiki.js",
+  :block/created-at 1663390380619,
+  :block/updated-at 1663393538244}
+ {:block/name "wikid pyramid",
+  :block/created-at 1649974346645,
+  :block/updated-at 1649974363075}
+ {:block/name "wikipedia",
+  :block/created-at 1664245065790,
+  :block/updated-at 1664245065790}
+ {:block/name "wikipedia vs 3b",
+  :block/created-at 1664245015637,
+  :block/updated-at 1664245065792}
+ {:block/name "william james",
+  :block/created-at 1647133324942,
+  :block/updated-at 1647133324942}
+ {:block/name "william marinelli",
+  :block/created-at 1651459402693,
+  :block/updated-at 1651459456403}
+ {:block/name "william peters",
+  :block/created-at 1647730059459,
+  :block/updated-at 1647730059459}
+ {:block/name "william thetford",
+  :block/created-at 1649887240056,
+  :block/updated-at 1649887240056}
  {:block/name "workflow",
   :block/created-at 1639531441685,
-  :block/updated-at 1639532982295}
+  :block/updated-at 1664096556222}
+ {:block/name "world academy of arts and sciences",
+  :block/created-at 1645843790431,
+  :block/updated-at 1645843792104}
+ {:block/name "world happiness report",
+  :block/created-at 1648271795598,
+  :block/updated-at 1648284498989}
+ {:block/name "world research foundation",
+  :block/created-at 1651478409217,
+  :block/updated-at 1651478508257}
+ {:block/name "world resources institute",
+  :block/created-at 1665635129102,
+  :block/updated-at 1665635129102}
+ {:block/name "worldeconomicforum",
+  :block/created-at 1647085693892,
+  :block/updated-at 1647085693892}
+ {:block/name "worldwatch institute",
+  :block/created-at 1647027010220,
+  :block/updated-at 1647027010220}
  {:block/name "writing & publishing",
   :block/created-at 1639538288374,
   :block/updated-at 1639538288374}
+ {:block/name "writing contributions and feedback",
+  :block/created-at 1647509161320,
+  :block/updated-at 1647509161320}
+ {:block/name "xanaduus",
+  :block/created-at 1647075359037,
+  :block/updated-at 1647075359037}
  {:block/name "yaml",
-  :block/created-at 1642371946398,
-  :block/updated-at 1642371946398}
+  :block/created-at 1641875538650,
+  :block/updated-at 1641875538650}
+ {:block/name "year",
+  :block/created-at 1662194762679,
+  :block/updated-at 1662194762679}
  {:block/name "yeet",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name
+  "yesterday’s revolutionary is today’s leader is tomorrow’s tyrant",
+  :block/created-at 1647509163479,
+  :block/updated-at 1647509163479}
+ {:block/name
+  "yesterday’s revolutionary is today’s leader is tomorrow’s tyrant/ “truth” regularly proves untrue or incomplete",
+  :block/created-at 1647509163479,
+  :block/updated-at 1647509163479}
+ {:block/name
+  "yesterday’s revolutionary is today’s leader is tomorrow’s tyrant/ “truth” regularly proves untrue or incomplete/ useful tools can become outdated",
+  :block/created-at 1647509163478,
+  :block/updated-at 1647509163478}
  {:block/name "yet another page",
-  :block/created-at 1642371946397,
-  :block/updated-at 1642371946397}
+  :block/created-at 1641875538649,
+  :block/updated-at 1641875538649}
+ {:block/name "younger dryas",
+  :block/created-at 1647126657118,
+  :block/updated-at 1647126657118}
  {:block/name "yourstack",
-  :block/created-at 1642371946400,
-  :block/updated-at 1642371946400}
+  :block/created-at 1641875538651,
+  :block/updated-at 1641875538651}
+ {:block/name "zero-point energy",
+  :block/created-at 1664665107313,
+  :block/updated-at 1664665107313}
+ {:block/name "zohar",
+  :block/created-at 1664244988000,
+  :block/updated-at 1664244988000}
  {:block/name "zotero",
-  :block/created-at 1639538288374, 
-  :block/updated-at 1639538288374}]
+  :block/created-at 1639538288374,
+  :block/updated-at 1639538288374}
+ {:block/name "ztrial embed note",
+  :block/created-at 1648845535421, 
+  :block/updated-at 1648845535421}]

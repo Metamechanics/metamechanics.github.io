@@ -1,0 +1,207 @@
+alias:: the Malphabet
+tags:: 
+project:: [[AMT hyperbook]]
+sub-title:: A malphabet
+
+-
+- Notes to self:
+  collapsed:: true
+	- don't just use any M-words for its own sake. Be selective, critical, high-quality
+	- are these terms below tags in the mycelium, or are they actual entry titles?
+		- They could be links to tags but the tag entries are filtered for the "AMTbook" tag, or such like. This would/could then reveal multiple entried related to the tag but each with different titles.
+		- when writing here, I could consider the top bullet to be the general tag then list the titled entry underneath (while database version does not exist)
+			- database version of Logseq could filter by tag AND by project
+- Mechanistic Science
+- [[Myth]]
+	- All myths (falsehoods) are myths (guiding stories)
+	- Why? Because its all false, yet we are on the path to remembering Truth.
+- misconceptions,
+- mindfulness
+- mindlessness
+- meditation
+- [[Meditations (book)]] by [[Marcus Aurelius]]
+- [[mystery]], [[mystery (AMT hyperbook)]]
+-
+- miracle
+- magic
+	- spell, curse, wand; external instrument, and belief in them
+		- belief
+	- sleight of hand
+		- failure to observe well; willingness to not look
+- motivation
+- Mirth and Merriment
+- metaphor
+- model(s) & modelling
+- [[mental models]]; [[The Universe as Mental Model, Cognitive Bias & Logical Fallacy]]
+- mind
+- mental
+- machines
+- measurement
+- miscreation
+- multiple, many
+	- universes
+	- perspectives, but not multiple truths
+	- pathways to God
+- many lives, multiple lives, multiple lifetimes
+- [[Many Lives, Many Masters]]
+- many worlds interpretation of quantum mechanics
+	- [[Hugh Everett III]]
+	- they are already made
+- multiple personality disorder
+- mono
+	- as in "one", unity
+- monotheism
+- [[Moses and Monotheism]]
+- The Matrix
+- murder
+	- of God
+	- of brother
+- martyr, martyrdom
+- meaning
+- memory
+	- memory of God; Holy Spirit
+	-
+- morals
+	- morals as mechanics
+	- meta-ethics, meta-morals
+- maze
+	- the labyrinth of life, world; designed to not escape, to not even know you're in a maze; to
+	- maze of mesmerization
+- map
+	- (is not the territory). You must walk the path (apply)
+	- map reading develops the more you explore the terrain
+	- maps are built on projections
+	- maps have improved over time
+	- maps are the result of people's exploration
+	- different maps offer different information
+- mountain metaphor
+	- each aspect/facet looks different, different terrain/map requiring different tools, seeing different features
+	- as you get higher you see more of the landscape
+	- at some point you have to climb; you can't 'walk around the mountain face' looking for an easier way for too long
+	- sometimes you have to go down to go further up
+- [[Misanthropic Principle]], miss-Anthropic principle
+- mathematics
+	- created to prove itself important
+	- [[Godel incompleteness theorem]]
+	- [[The Unreasonable Effectiveness of Mathematics in the Natural Sciences]]
+	- [Why Physics Is Unreasonably Good at Creating New Math - Nautilus](https://nautil.us/why-physics-is-unreasonably-good-at-creating-new-math-797056/?_sp=b9bf8891-5ab7-4aad-8f76-09499ecbdf46.1727576213198)
+	- [[Why Physics is Unreasonably Good at Creating New Math]]
+	-
+	- maths was created in the moment the universe was; maths comes from the same mind as miscreation; of course maths will support its own reality and power;
+	-
+- [[Mandelbrot]]
+	- [Mandelbrot’s fractals are not only gorgeous – they taught mathematicians how to model the real world](https://theconversation.com/mandelbrots-fractals-are-not-only-gorgeous-they-taught-mathematicians-how-to-model-the-real-world-244302)
+	- the beauty is beguiling
+	- holographic: whole system is repeated and represented in any part of the system
+- minus
+	- 2 ways to get more: add a positive, subtract a negative
+	- removing a mask
+- multiplicity
+	- fragmentation, fracture
+	- lila
+- misinformation
+	- [[Everything is misinformation]]
+	- [[John Wheeler]]; everything is information
+- more - the ego's mechanism
+- [[morphogenetic fields]]
+- Myths, the masks of God and projection / anthropomorphization
+- magisteria
+	- NOMA. Stephen Gould. Yes, true, but the non-overlapping magisteria are God and ego, not science and religion. Science and religion are very overlapping.
+- method
+	- particular reference to scientific method but applies generally
+	- you can't observe, apprehend, measure what you method does not and can not accommodate
+- message and messengers
+	- the message is always first for the messenger ie. preach through practice, wordlessly
+- militancy and fundamentalism
+	- behind/within every fanatic is the seed of doubt
+	- "The fanatic is always concealing a secret doubt". George Smiley, [[Tinker Tailor Soldier Spy]] #quote
+	- "Fanaticism is always a sign of repressed doubt." #quote [[Carl Jung]]
+- metapattern
+	- The pattern of patterns
+- metaproblem
+	- the problem with problems
+	- the problem of problems
+	- the one real problem - a sense of separation from Source
+- megacrisis
+- [[maya]]
+- meta and Meta
+	- there is nothing meta about Meta
+	- coopting
+	- [[The Dangers of Computer Science Co-opting Philosophy & Language]]
+- mind-matter interaction
+	- psi
+	- placebo
+	- [[PEAR Lab]]
+- mirror
+	- the world as the mirror of the mind
+		- quote from Cloud Atlas
+- monochromatic thinking
+	- one shade of grey,
+	- alternatively black-white thinking
+- mantra
+- malady
+	- sickness, illness
+- Mary
+	- mother of Jesus
+	- Magdalene, wife of Jesus
+- MBR, [[microwave background radiation]]
+	- problems with the Big Bang
+- Messiah
+	- Handel's Messiah
+- ### Megaliths 
+  Mayans, Menkaure, Moai, Mamallapuram metcetera
+- Maitreya
+- Mahasamadhi
+- Mahakalpa, mahayuga
+	- grand time cycles
+- McTaggart ; position on time
+- [[Mourning and Melancholia]]
+- Mao, Marx and manifestos
+- manifestation
+	- in terms of how 'reality' manifests itself
+	- the Secret; new age 'manifesting'
+- Middle Way
+- mindset
+- [[René Magritte]]
+- [[Maldacena]]
+- Marquez, Murakami, Mozart, Magritte
+- Mars, Martians,
+- Mulder (as in X-Files)
+- Maharashi, Maharaj, Mahatma
+	- Ramana
+	- Nisagardatta
+	- Mohandas
+- Mohandas, Martin Luther, Martin Luther King, Mother Teresa
+- Mickelson & Morley
+- metanoia
+	- [Metanoia |disambiguation - Wikipedia](https://en.wikipedia.org/wiki/Metanoia)
+	- [Metanoia (psychology) - Wikipedia](https://en.wikipedia.org/wiki/Metanoia_%28psychology%29)
+	- [Metanoia (theology) - Wikipedia](https://en.wikipedia.org/wiki/Metanoia_%28theology%29)
+	- [What is metanoia? by Peter Senge, Author of The Fifth Discipline - YouTube](https://www.youtube.com/watch?v=4RBtBAAdt20)
+- metanoia, meltdown and mid-life crisis
+- metamorphosis: coccoons and Kafka
+	- coccoon
+	- Kafka
+- The Mount and its Sermon
+	- [[The Sermon on the Mount]]
+- [[Minerva]]
+- Machiavelli
+- Mephistopheles
+- [[Maxwell]], Magnetism and Modesty ; history of field equations and fields;
+- [[moral injury]]
+- [[metatheory]]
+	- self-referential systems: using the theory (of whatever) to look at the theory
+	- This never brings into question the fundaments of the theory. Its premises must remain unquestioned for it to be used in the first place.
+- [[Mithras]]
+- [[Hermann Minkowski]]
+- [[McGilchrist, the Master and his Emissary]]
+- Moderation
+	- 'Everything in moderation, even moderation.' #quote #[[Oscar Wilde]]
+- [[Mandell]], Manhattan; the man who paints the future
+	- painted 9-11 attacks
+- [[Metatron]] and the
+- [[Merkaba]]
+- [[Mandala]]
+- [[At the Mountains of Madness]] and [[The Morning of the Magicians]]
+- [[Megadeth, Metallica and Mustaine (AMT hyperbook)]]
+-

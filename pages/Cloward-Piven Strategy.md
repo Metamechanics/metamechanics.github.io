@@ -1,0 +1,6 @@
+-
+- some strategy to induce political and economic crisis to bring down a system
+-
+- [The Cloward-Piven Strategy | Armstrong Economics](https://www.armstrongeconomics.com/world-news/civil-unrest/the-cloward-and-piven-strategy/)
+- [Cloward–Piven strategy - Wikipedia](https://en.wikipedia.org/wiki/Cloward%E2%80%93Piven_strategy)
+- [Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf](https://monoskop.org/images/6/6b/Fanon_Frantz_The_Wretched_of_the_Earth_1963.pdf)

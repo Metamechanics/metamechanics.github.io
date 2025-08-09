@@ -1,0 +1,3 @@
+- #[[World Economic Forum]] #risk #predictions
+- [Global Risks Report 2022 | World Economic Forum](https://www.weforum.org/reports/global-risks-report-2022/digest)
+-

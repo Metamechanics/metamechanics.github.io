@@ -1,0 +1,46 @@
+{:blocks (
+{:block/created-at 1723852458802
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Trial 1 whiteboard"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [232 138.99998298342206]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e3821e0-aae0-11ee-ac19-3f8168c9b4ba"
+:noFill false
+:point [248 648]
+:parentId "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:collapsedHeight 0
+:nonce 1704358978376}}
+:block/updated-at 1723852458802})
+:pages (
+{:block/uuid #uuid "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "658d81cc-7bfd-4902-acaf-07d7666d3a9e"
+:name "trial2 whiteboard"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("0e3821e0-aae0-11ee-ac19-3f8168c9b4ba")}}
+:block/updated-at 1723852458801
+:block/created-at 1703772620203
+:block/type "whiteboard"
+:block/name "trial2 whiteboard"
+:block/original-name "Trial2 whiteboard"})}

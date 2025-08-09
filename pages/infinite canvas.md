@@ -1,0 +1,8 @@
+alias::
+tags::
+project:: #EFA
+see-also::
+- [[json canvas]]
+	- [JSON Canvas — An open file format for infinite canvas data.](https://jsoncanvas.org/)
+-
+-

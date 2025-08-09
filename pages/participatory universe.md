@@ -1,0 +1,12 @@
+alias::
+tags:: concept, theory
+domain:: [[physics]], [[theory of everything]] 
+people:: [[John Wheeler]] 
+related-to::
+project:: #AMT, #X-Science 
+public:: true
+
+-
+- ![image.png](../assets/image_1728692062805_0.png)
+	- source:: https://www.organism.earth/library/document/participatory-universe
+	-

@@ -1,0 +1,22 @@
+- #AMT #God
+- God
+	- The Absolute.
+	- The Limitless.
+	- The Perfect.
+	- The Whole.
+	- The Creator of the Real
+- "God"
+	- is one's conscious definition and conception of God. One's opinion.
+- god
+	- is what one actually "worships", dervives meaning from, and seeks power from or through
+	- has many levels and faces
+	- ultimately, idols
+	- the body, attack, pleasure-pain, sin-guilt-fear
+	- uncertainty, ambiguity
+	- vulnerability, fragility, unreliability
+	- the devil, in disguise
+- gods
+	- the football team
+	- the political team
+	-
+- egod = ego + god; ego-d; e-god

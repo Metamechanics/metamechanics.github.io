@@ -1,0 +1,3 @@
+-
+- [Egypt Before the Written History: THE LOST KNOWLEDGE OF ANCIENT EGYPT: Elbassiouny, Mohamed Ibrahim, Carson, Billy: 9798987122440: Amazon.com: Books](https://www.amazon.com/Egypt-Before-Written-History-KNOWLEDGE/dp/B0CN51T3Q9/ref=pd_sim_d_sccl_3_5/138-1623267-9466632?pd_rd_w=UqEqf&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=7HNVBW4BBHH2FNF209FP&pd_rd_wg=oRtdr&pd_rd_r=61a7f90d-a87e-4fb3-b627-27ee74a94db1&pd_rd_i=B0CN51T3Q9&psc=1)
+-

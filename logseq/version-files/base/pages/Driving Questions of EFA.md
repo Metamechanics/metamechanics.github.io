@@ -1,0 +1,35 @@
+- #[[Driving Questions]] #EFA #toConsolidate
+- The impetus driving EFA can be encapuslated through some basic questions, some of which you may have asked yourself before, in one way or another…
+- Is there really enough for all?
+	- Is there actually enough for everyone? For all of us? And the planet too?
+	- Enough of what? Everything? Or just some things?
+- If there is enough for all, why do _some_ not have enough?
+	- Why don’t _they_ have enough? (food, water etc.) Why don’t I have enough?! (money, time, status, satisfaction etc)
+	- If there is enough for all at a top-level, why do some go hungry, malnourished, impoverished? Why do some at the lower levels (geographically, socially, economically etc) not have enough? Why are some homeless, landless and materially insecure?
+- What does the data say?
+	- Whose data is it?
+	- What assumptions are made? What biases are inherent?
+	- What is an alternative interpretation of the data?
+- For those with the basics, why are so many unhappy, unhealthy, unhelpful, unholy? Why are so many depressed, addicted, overdosing and suicidal?
+- If, at the top-level, there is not enough for all then why not? Is it universal law, a fact of nature, systemic failure, intentionally manufactured, carelessness or wastefulness, other?
+	- Is the world intrinsically for the have’s, the have-not’s and have more’s? Does anyone espouse this? Who?
+- How can we ensure that everyone has enough of everything?
+	- What solutions are offered?
+	- What tools, systems and policies can or should be used?
+	- Do they exist already?
+	- Are they adequately utilised? Over-utilised? Improperly or incompetently utilised?
+- How much is enough? Who says? What determines?
+- Should we attempt to ensure everyone has enough?
+	- Is there a moral imperative? A spiritual duty? An altruistic feel-good factor? An economic advantage? Would everyone benefit from everyone else having enough? Do some have to suffer for others to prosper?
+- When we are looking for ‘enough’, what are we really looking for? What do we really want?
+- EFA starts out with some basic intuitions and hypotheses around these questions, and recogises some philosophical, epistemological and ideological positions in formulating these.
+- What are the reasons the experts give for poverty and plenty?
+	- Are they accurate?
+	- What do they ignore, under-value, over-value?
+- Was there enough in the past? Has there always been enough? Do forecasts predict enough? Why should we believe them? Why not believe them?
+- What are the barriers and limiting mechanisms in play? Who or what erects those barriers and builds those mechanisms?  If there is not enough, could there be enough for all? What could be some of those tools for enough for all? Are common responses really effective? Are they true? What do the solutions hinge on for success?  Does everyone having enough mean some can’t have too much? Or will everyone having enough actually mean more could have more?
+- Do we even _really_ want a world of enough for all?
+	- Can we imagine it?
+	- Do we self-sabotage as a group, unconsciously though intentionally.
+	- (How) Do we benefit, at all/any scales or levels, of some having not enough, others having more, some having 'too much'?
+	- How would I feel if everyone had the same as me?

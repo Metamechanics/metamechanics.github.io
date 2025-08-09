@@ -1,0 +1,13 @@
+alias:: Lovecraft
+URL::
+organisation::
+role:: [[author]] 
+fields:: #supernatural #horror #Extra-terrestrials #fiction #myth 
+publications-productions:: 
+country:: #[[United States of America]] 
+tags:: person
+project:: [[X-Science]], [[AMT]] 
+public:: true
+
+-
+-

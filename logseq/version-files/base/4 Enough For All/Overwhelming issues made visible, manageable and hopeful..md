@@ -1,0 +1,2 @@
+	Most of us feel overwhelmed by the complexity of the world and hopeless when we look at the scale of suffering and conflict. Many of us choose not to look for this reason. 
+Enough For All seeks to not only present data in a way that is digestible, but offer hope and mechanisms for alleviating suffering, resolving conflict and addressing poverties and inequalities.

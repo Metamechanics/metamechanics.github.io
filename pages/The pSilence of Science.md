@@ -1,0 +1,11 @@
+- #myCreation #[[My Books]] #Metamechanica #toWrite
+- Does this overlap with [[X-Science]]?
+- how science is quiet on #[[Free Energy]] #[[alternative medicine]] #psi
+- inspiration: [[Jim Marrs]]
+-
+- evidence of #psi
+- genuine rebuttal of #psi
+	- rebuttal of the rebuttal of #psi
+- dismissal of #psi
+- placebo science; [[Nocebo Effect]] science
+-

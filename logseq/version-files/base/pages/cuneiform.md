@@ -1,0 +1,3 @@
+- #[[writing script]] #language #[[ancient text]] #[[ancient languages]]
+- [Home - Cuneiform Digital Library Initiative](https://cdli.mpiwg-berlin.mpg.de/)
+-

@@ -1,0 +1,12 @@
+- where 'X' represents
+	- multi-
+	- inter-
+	- trans-
+- [Transdisciplinary literacy: Seven principles that help define transdisciplinary research | Blog | Integration and Application Network](https://ian.umces.edu/blog/transdisciplinary-literacy-seven-principles-that-help-define-transdisciplinary-research/)
+	- ![Trans-, Inter-, Multi- and regular -disciplinarity](https://ian.umces.edu/site/assets/files/2617/transdisciplinary_1-1-500x276.jpg)
+		- https://ian.umces.edu/blog/transdisciplinary-literacy-seven-principles-that-help-define-transdisciplinary-research/
+	-
+	- ![Fruit disciplinarity](https://ian.umces.edu/site/assets/files/2617/rectangle1-500x128.jpg)
+		- https://ian.umces.edu/blog/transdisciplinary-literacy-seven-principles-that-help-define-transdisciplinary-research/
+-
+-

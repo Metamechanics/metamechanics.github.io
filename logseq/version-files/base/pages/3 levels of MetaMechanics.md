@@ -1,0 +1,13 @@
+- #Metamechanica
+- 1. Futures techniques, wicked problem strategies, visual language, mapping and thinking tools applied to world problems. Defining the problem. Doing. Focus. Total separation from mind.
+	- Wapnick's reference about Beethoven #QTS: who is the author he reference?: Material eyes looking at material world
+- 2. Futures tools and thinking applied to one’s thinking, including one’s thinking about the world’s problems. Note: This is not lateral thinking or creative thinking about solutions to the world’s problems. Rather, it is how does your thinking contribute to the problem. How are you defining the problem. Expand. Bridge-building to mind.
+	- Spiritual eyes looking at material world?
+- 3. Non-dualistic philosophy tools (inspired by ACIM). (Moving beyond your own thinking. Metaproblem - sense of separation from source. Metasolution - there is no problem. It has already been solved. Undoing. Transcend. Less/minimal separation from  mind.
+	- spiritual eyes looking at spiritual world??
+-
+- Following on from #[[Ken Wapnick]] in [[Duality as Metaphor]] about [[Beethoven]], referencing some book I need #toSource and #toRead
+	- Material eyes looking at material world
+	- Spiritual eyes looking at material world
+	- Spiritual eyes looking at spiritual world
+-

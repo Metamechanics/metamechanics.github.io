@@ -1,0 +1,1 @@
+	Share the light of insight and inspiration. There is a wisdom and light that can emerge from collaborative inquiry and shared insight. Recalcitrant issues are seen in a new light. Previously intractable issues start to shift.

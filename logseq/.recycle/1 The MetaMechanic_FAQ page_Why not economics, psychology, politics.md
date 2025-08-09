@@ -1,0 +1,1 @@
+Why not economics, "tech", politics et al? Well, MM operates on a level under all of these, and can be implemented in all these arenas. Aren't the problems intractable? Aren't their already solutions?

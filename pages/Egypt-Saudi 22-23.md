@@ -1,0 +1,127 @@
+- Packing List
+  collapsed:: true
+	- Wearing/on-person
+		- Cargo pants x 1
+		- Grey shoes
+		- Reading glasses x 1
+	- Carry-on
+		- Passport
+		- Resealable plastic bags
+			- Clear plastic liquid containers
+		- Toiletries
+			- Earplugs
+			- Eye mask
+			- Nose-mouth masks x 3
+			- Mouth splint
+			- deodorant stick
+		- Laptop
+		- Earpods
+		- Travel electricity adaptor
+		- iPhone charger
+	- Check-in: Backpack (to be wrapped @BNE)
+		- Masks
+		- Water purification tablets
+		- Multi-tool
+		- Cargo pants x 2
+		- Travel towel
+		- Water bladder
+		- Black Asics shoes
+		- Thongs
+		- Reading glasses x 1
+- Flight
+  collapsed:: true
+	- Qatar Airways booking number 6QS7HF
+	- BudgetAir booking number BAU-3880548
+	- e-ticket number 9106718386470
+	- [Qatar Travel and Return Policy Qatar Travel and Return Policy](https://covid19.moph.gov.qa/EN/travel-and-return-policy/Pages/default.aspx) - #COVID
+	-
+- Exchange Rates at [[28-09-2022]]:
+  collapsed:: true
+	- [Free Currency Charts - Historical Currency Rates | Xe](https://www.xe.com/currencycharts/)
+	- 1 AUD = 12.5 EGP -> 1 EGP = 0.08 AUD
+	- 1 AUD = 2.3 QAR -> 1 QAR = 0.42 AUD
+	- 1 AUD = 0.24 OMR -> 1 OMR = 4 AUD
+- Itinerary
+	- Week 1: [[Giza]] & [[Cairo]]
+		- [[03-12-2022]]
+			- depart BNE 2010 hours; Qatar Airways
+		- [[04-12-2022]]
+			- Arrive Doha 0400h
+			- [Maps | Hamad International Airport](https://dohahamadairport.com/airport-guide/at-the-airport/maps)
+			- Lockers near gate A3?
+			- [sleep ’n fly Doha & Dubai Airports | Your Sleep Lounge Experience at DOH & DXB](https://q.sleep-n-fly.com/)
+			- Game at Al Thumama stadium 6pm France v Poland
+		- [[05-12-2022]] - Monday
+		- [[06-12-2022]] - Tuesday
+		- [[07-12-2022]] - Wednesday
+		- [[08-12-2022]] - Thursday
+		- [[09-12-2022]] - Friday
+		- [[10-12-2022]] - Saturday
+	- Week 2
+		- [[11-12-2022]]
+		- [[12-12-2022]]
+	- Week 3
+		- [[17-12-2022]]
+		- [[18-12-2022]]
+		- [[19-12-2022]]
+		- [[20-12-2022]]
+		- [[21-12-2022]]
+		- [[22-12-2022]]
+		- [[23-12-2022]]
+	- Week 4
+		- [[24-12-2022]]
+		- [[25-12-2022]]
+		- [[26-12-2022]]
+		- [[27-12-2022]]
+		- [[28-12-2022]]
+		- [[29-12-2022]]
+		- [[30-12-2022]]
+	- Week 5 - [[Saudi Arabia]]
+		- [[31-12-2022]]
+		- [[01-01-2023]]
+		- [[02-01-2023]]
+		- [[03-01-2023]]
+		- [[04-01-2023]]
+		- [[05-01-2023]]
+		- [[06-01-2023]]
+	- Week 6
+		- [[07-01-2023]]
+		- [[08-01-2023]]
+		- [[09-01-2023]]
+		- [[10-01-2023]]
+		- [[11-01-2023]]
+		- [[12-01-2023]]
+		- [[13-01-2023]]
+		-
+- Accommodation notes
+	- Giza
+		- not 3 Pyramids Hotel - toilet in the shower area, a la Tunis
+		- Maged Fayed Pyramids View
+- Locations to visit
+	- [[Temples]]
+	- [[museums]]
+	- [[Towns & Cities]]
+	- [[Nature & Scenery]]
+	- [[Cultural ]]
+- Budget
+  collapsed:: true
+	- Airfare
+	  collapsed:: true
+		- $2935
+	- Accommodation
+	  collapsed:: true
+		- 40 nights @ $25 per night av. = $1000
+	- Domestic travel
+	- Insurance
+	  collapsed:: true
+		- $345
+	- Food & Water
+	  collapsed:: true
+		- 40 days @ $25 per day = $1000
+	- Arabic Study
+	- Tourism (museums et al)
+	-
+- Notes
+	- [[Jordan Trail]]
+	- [[Hiking Equipment]]
+	-

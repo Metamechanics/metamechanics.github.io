@@ -1,4 +1,0 @@
----
-alias: Love
----
-==see-also:==

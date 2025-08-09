@@ -1,0 +1,14 @@
+alias::
+tags::
+place::
+country:: #Iraq 
+place-type:: #[[ancient site]] 
+nearest-town:: Fara
+map-url::
+- see [[Matthew LaCroix]]
+- 3 layers of civilization?
+- Penn museum archives, USA, holds photos of expedition in 1931
+- "inundation layer" in archaeological reports
+	- 1+ metre of mud about 10m down?
+- see [[Ashurbanipal Library]]
+-

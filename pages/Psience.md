@@ -1,0 +1,18 @@
+- #book #toWrite #MetaMechanic
+- Incorporation and acknowledgement of [[psi]] in science.
+- Models of science beyond reductionist, material fundamentalism
+- Bringing authentic skepticism to scientific skepticism and #pseudo-skepticism
+- Science 2.0
+- see [[Manifesto for a Postmaterialist Science]], #[[Post-Material Science]]
+- #[[Postnormal Science]]
+- How does this differ from [[The pSilence of Science]] ?
+-
+- Chapter outline
+	- Evidence for psi
+	- Evidence for no-psi
+	- #[[quantum mechanics]] and interpretations
+		- pro-mind/observer
+		- anti-mind/observer
+	- spiritual lives of quantum physicists
+		- see book by Ken Wilber ? #toFind
+	- Examples of

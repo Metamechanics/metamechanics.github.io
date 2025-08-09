@@ -1,0 +1,7 @@
+- #COVID-19 #vaccine #detoxification
+-
+- [(7) (PDF) Clinical Approach to Post-acute Sequelae After COVID-19 Infection and Vaccination](https://www.researchgate.net/publication/375814234_Clinical_Approach_to_Post-acute_Sequelae_After_COVID-19_Infection_and_Vaccination)
+- [Clinical Approach to Post-acute Sequelae After COVID-19 Infection and Vaccination - PubMed](https://pubmed.ncbi.nlm.nih.gov/38024037/)
+-
+- [[McCullough protocol]]
+-

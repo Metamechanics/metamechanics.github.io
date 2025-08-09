@@ -1,0 +1,3 @@
+-
+- [[Humanist Manifesto]]
+-

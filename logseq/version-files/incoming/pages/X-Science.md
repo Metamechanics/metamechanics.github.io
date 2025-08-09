@@ -1,0 +1,60 @@
+- Here, "X" denotes:
+	- X marks the spot: buried treasure
+	- X as in unknown, the mathematical variable, the useful tool of algebra
+		- could it also represent the unconscious?
+	- X as in "incorrect", "wrong"
+- X =
+	- un
+	- anti
+	- pseudo
+	- a (as in aScientific)
+	- macro ?
+	- meta ?
+- See [[The Science Delusion]] by [[Rupert Sheldrake]]
+- Need to define the below terms:
+	- [[Psience]]
+	- [[Ascience]]
+	- [[anti-Science]]
+	- [[science]]
+	- [[MacroScience]]
+	- [[metascience]]
+	- [[UnScience]]
+	- [[MetaTechnology]]
+	- [[pseudo-science]]
+- Case studies
+	- 9-11
+	- Einstein vs nazi nemesis
+	- Buddha
+		- test for yourself; rub the gold
+	- Quantum mechanics: early vs contemporary; Schrodinger vs Krauss/Caltech guy
+	- James Randi
+- Psychology of scientists
+- Sociology of science
+- Science is limited by fear, and has always been limited by fear. Alternative ideas cannot be explored for various fears:
+	- a)	Fear of persecution by church – excommunication
+	- b)	Fear of economic loss and difficulty, from going counter to the mainstream, accepted dogma (The religion of science)
+	- c)	Fear that our world will fall apart. Our model by which we understand the world will be overturned and upset, thereby upsetting my own peace and comfort. “IF I don’t understand it, I can’t control it. And if I can’t control it, I won’t survive.”
+	- d)	Fear of being lesser, for not knowing
+- What are the various [[Schools of Scientific Thinking]]
+- the world is illusion
+- scientific models are all metaphors
+- models (and thus metaphors) change, expand, abstractionize
+-
+- The failure to return to foundational assumptions and premises when outcomes are anomalous. (What does this fall under? - unScience? aScience?)
+- UC Berkeley image of science
+-
+- [How Science Works - UC Berkeley](https://undsci.berkeley.edu/lessons/pdfs/complex_flow_handout.pdf)
+- [Science checklist - What makes science different from other human endeavours - UC Berkeley](https://undsci.berkeley.edu/lessons/pdfs/science_checklist.pdf)
+- Precepts of Science from IB Group 4 syllabi - see 2016 Physics syllabus guide
+	- There is an objective reality
+	- (only) apprehensible through the five senses and their extensions
+- Collective subjectivity vs individual objectivity
+-
+- Incongruence in orthodox science
+	- [[Terence McKenna]]: "Science asks for just one miracle."
+	- Comedian skit about "nothing"
+- Ridicule, rage, resentment and rip-offs in science
+	- "But scientists are only human!"
+	- "rip offs" refers to theft and unacknowledgment and mischaracterization
+		- [[Rosalind Franklin]]
+	- The problem with scientists is that they are human.

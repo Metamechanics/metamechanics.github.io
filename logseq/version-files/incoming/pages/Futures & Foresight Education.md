@@ -1,0 +1,115 @@
+alias:: Futures Education, FF-ed, FFed, Futures and Foresight Education
+tags:: #myProject #myCreation #[[Futures & Foresight Literacy]] #toOutline 
+see-also::
+-
+- ## IF...education is fundamentally about the future
+  collapsed:: true
+	- Preparing workers for fulfilling employment
+	- Cultivating global, balanced, responsible citizens
+	- Instilling general life skills and values
+	- Fostering curious and courageous life-long learners
+	- Developing specialised skills and technical competencies
+- ## BUT...the world is changing
+  collapsed:: true
+	- Rapidly
+	- Exponentially
+	- Chaotically
+	- Unpredictably
+- ## AND...therefore the future and its promises are equally shifting
+  collapsed:: true
+	- Outpacing us? Eluding us? As we approach, the future moves, spins, twists.
+	- Deceiving us? Beguilding us? The future is not what we thought. With new discoveries, neither is the past the same.
+	- Moving goalposts. Changing balls. Different tools. The future is not static - as we interact with it, it morphs, and so do we.
+- ## WITH...the prospect of megacrises
+  collapsed:: true
+	- Environmental + Economic + Social + Cultural + Spiritual + Existential
+	- Global scope, large scale, long-term consequences
+	- Much technological development; much less moral development
+- ## YET...we are told what 'the future' is by 'experts'
+  collapsed:: true
+	- Authorities frame the problem, designate experts and prescribe/proscribe solutions
+	- Media, PR & advertising - deep stories, subtle messages, hidden agendas
+	- Inner voices, personal biases, self-sabotage, limiting beliefs, habits that harm
+- ## WHILE...experts are routinely wrong and biased
+  collapsed:: true
+	- 'Experts' are biased towards their lenses, filters, tools & strengths
+	- 'Expertise' based on past success and whoever is in power
+	- Disruption arises from blind spots
+	- Innovation emerges from outside orthodoxy
+- ## AND...thinking about the future is universal, essential, eternal
+  collapsed:: true
+  Everyone everywhere has thought about the future in some way, everyday
+	- Dreams, aspirations, fears, doubts
+	- Uncertainty and risk mitigation
+	- Plans, preparations, strategies, roadmaps
+	- Cycles, patterns, steps, rhythms, chaos, collapse
+	- Revising histories, adopting new mythologies, reframing successes & failures
+- ## THEN...why don't we teach Futures Studies & Strategic Foresight in secondary school?
+  collapsed:: true
+  Critical and creative futures thinking. Personal, organisational, cultural, global foresight.
+	- Education OF the future
+	- Education ABOUT the future
+	- Education FOR the future
+	- Education BY the future
+- ## AND...cultivate Futures & Foresight Literacy
+	- Read the Future: responsive, scanning, trends, drivers, deep & critical futuring
+	- Write the Future: proactive, alternatives, action plans, creative & inspired futuring
+- ## ADDING...the 5 A's to the 3 R's and 5 C's
+	- [Adaptability, Anticipation, Alternatives, Alignment, Agency](https://www.notion.so/965ad683bc4842e09f0179102fb7f699?pvs=21)
+	- Reading, wRiting, aRithmetic
+	- Critical thinking, Creativity, Citizenship, Collaboration, Character, Communication
+- The overarching umbrella effort for teaching and learning about the futures in secondary education
+-
+-
+- FFed http://futuresforesight.education
+	- Consultancy with web-based resource portal
+	- Repository of resources, principles
+	- Cohering point for related FF efforts (see below)
+	- canonical texts, theories, schools of thought, thinkers, history, philosophy
+	- #FFL exercises
+	- extendes [[FFL]] with added theoretical and philosophical rigour and richness
+	- [[Resources for Teaching Futures]]
+	- Fundamental, definitive, canonical blogs & articles
+		- [[The Fundamental Futurism of Education]]
+		- [[Kicking Goals through Moving Goalposts: Putting education ahead of the curve by teaching Futures & Foresight Literacy]]
+		- [[Futures Literacy vs Future Literacies - A Balancing Act for Better Education]]
+		- [[Digital Literacy vs Quantum Literacy - a multi-level discussion in the future of education]]
+		- [[Driving towards Futures Literacy - Metaphors, Mobility and Futures in Education]]
+		- [[Fishing, Farming, Factories and Finance - Metaphors to Guide the Future of Education]]
+		- [[Future - not just a noun]]
+- [[Futures Studies & Strategic Foresight]]
+  collapsed:: true
+	- development of modular building blocks to create high-school subjects across any/many curricila
+	- starting with #[[FSSF IBDP]]
+	- #FFL with assessment, extension, depth of creativity and thought, as well as application to broader, societal problems
+	- creating organizational futurists
+	- [[A Textbook for the Futures]]
+- [[Futures Studies for the IB]] #FSIB
+  collapsed:: true
+	- Ways to inject and introduce #FFL into the #IBDP
+		- school-based subject
+		- [[Theory of Knowledge - Futures & Foresight edition]]
+		- Extended Essay
+		- subjects
+	- [[An introduction to Futures Studies for the IB]]
+- [[FSIB-PhD]]
+  collapsed:: true
+	- The development of [[FSIB]] as a PhD exercise
+- [[Futures & Foresight Literacy]]
+  collapsed:: true
+	- general
+	- skills, competencies & exercises to develop them
+	- general rationale, imperative, objectives
+	- tailorable, modular, plug-and-play into all sorts of curricula & systems
+	- not overly academic but educational in focus
+	- entry level, for both students and teachers
+	- individual and personal futures
+	- creating individual futurists
+	- avoid excessive philosophizing and problematizing, thought don't avoid it either
+- [[Futures Literacy vs Future Literacies - A Balancing Act for Better Education]]
+- [[Digital Literacy vs Quantum Literacy - a multi-level discussion in the future of education]]
+-
+-
+-
+-
+-

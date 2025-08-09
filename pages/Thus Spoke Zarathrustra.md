@@ -1,0 +1,9 @@
+alias::
+author::
+publication-year::
+tags:: book, reference #toSource #toRead 
+project:: [[AMT]], #[[Inner Beginner]]
+question::
+public:: true
+-
+-

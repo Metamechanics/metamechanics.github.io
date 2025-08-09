@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "5026d18c0421e972",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c3a9ae15dcd175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd26ff3bc41a6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/A Canticle of Liebowitz.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1505d7449f7557e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_50_53.725Z.Desktop.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbea305e15ca4efe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b911c549b5e89e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b25f9bbe743e4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd270b96f9b8332",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#database",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e171bd3e7c933fc3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d1fea18bb03efa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1626b2de1c15a7e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581826b0ce4dcee9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_50_53.725Z.Desktop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e8d5a29949c704c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_50_53.725Z.Desktop.md"
+              }
+            }
+          },
+          {
+            "id": "6ace273ba0f8704f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_50_53.725Z.Desktop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b977b9004bb5426e",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "40e459f9225ae47b",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f78063a14a39605",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a81344882035e41b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f3e5fe33eff407b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf38e4c1c6d2b587",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "media-extended:Open media": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "a4b25f9bbe743e4d",
+  "lastOpenFiles": [
+    "pages/Excalidraw.md",
+    "pages/baserow.io.md",
+    "logseq/bak/pages/Excalidraw/2024-06-26T14_58_34.464Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw/2024-06-26T14_58_24.461Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw",
+    "pages/Excalidraw Publish.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_52_59.657Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_51_33.581Z.Desktop.md",
+    "logseq/version-files/base/pages/Excalidraw.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_51_06.743Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_51_00.381Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_50_53.725Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_50_29.611Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_49_51.405Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_49_40.615Z.Desktop.md",
+    "logseq/version-files/base/pages/Excalidraw Publish.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_49_03.449Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_49_01.250Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_48_38.377Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_48_35.344Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish/2024-06-26T14_48_30.876Z.Desktop.md",
+    "logseq/bak/pages/Excalidraw Publish",
+    "pages/A Canticle of Liebowitz.md",
+    "logseq/bak/pages/A Canticle of Liebowitz/2024-06-26T14_23_26.246Z.Desktop.md",
+    "logseq/bak/pages/A Canticle of Liebowitz/2024-06-26T14_23_23.550Z.Desktop.md",
+    "pages/science fiction.md",
+    "logseq/bak/pages/A Canticle of Liebowitz/2024-06-26T14_19_33.630Z.Desktop.md",
+    "logseq/bak/pages/A Canticle of Liebowitz/2024-06-26T14_19_28.431Z.Desktop.md",
+    "logseq/bak/pages/A Canticle of Liebowitz",
+    "smart-chats",
+    "logseq/bak/pages/a note second",
+    "logseq/bak/pages/a note to experiment with Obsidian-Logseq interoperability",
+    "logseq/version-files/local/pages/a note to experiment with Obsidian-Logseq interoperability",
+    "logseq/bak/logseq/config/2023-12-31T11_48_29.405Z.Desktop.edn",
+    "logseq/bak/pages/DebateGraph",
+    "logseq/bak/pages/tasks"
+  ]
+}

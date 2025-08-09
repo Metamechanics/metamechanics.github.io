@@ -1,0 +1,46 @@
+{:blocks (
+{:block/created-at 1673035023860
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke ""
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "article"
+:scaleLevel "sm"
+:fill ""
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [95.1484375 32]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "45ea6e60-8dfc-11ed-8e8b-b9d266ba17ab"
+:noFill false
+:point [88.40234375 129.09375]
+:parentId "63ae7b7f-4658-4ae1-8e11-16bf4cb365e9"
+:collapsedHeight 129
+:nonce 1673035016339}}
+:block/updated-at 1673111353363})
+:pages (
+{:block/uuid #uuid "63ae7b7f-4658-4ae1-8e11-16bf4cb365e9"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "63ae7b7f-4658-4ae1-8e11-16bf4cb365e9"
+:name "metamechanic workflow"
+:bindings 
+{}
+:nonce 26
+:assets []}}
+:block/journal? false
+:block/updated-at 1673111353363
+:block/created-at 1672379263793
+:block/type "whiteboard"
+:block/name "metamechanic workflow map"
+:block/original-name "metamechanic workflow map"})}

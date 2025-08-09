@@ -1,0 +1,35 @@
+- #toWrite #toEdit
+- A practitioner of [metamechanica]([[Metamechanica]])
+- Disambiguation: Not a programmer for Facebook, Instagram and the Metaverse
+	-
+- Similarly, what is "metamechanics" ?
+- Physicists, mechanics, metaphysicists, metamechanics
+	- Turning metaphysics into real solutions
+	- Mechanics use tools to fix machines. Metamechanics use tools of mind to upgrade the mechanisms of the world
+- Physicists generate theory in the lab. Mechanics apply theory in the workshop. Metaphysicists generate theory in the cave. Physicians apply theory in the clinic. Metaphysicians uncover theory in the mind. Metamechanics apply theory in the individual, organisational and collective consciousness.
+- Characteristics
+  collapsed:: true
+  (Is this essentially same as characteristics of a teacher from ACIM?)
+	- Visionary
+	- Story-teller
+	- Narrator
+	- Bridge-builder
+	- Partiality Purveyor
+	- Is "purveyor" the right term. ie. Someone who recognises their own partiality as much as dealing with that of others.
+	- Provocateur
+	- Facilitation, mediation, resolution and transcendance
+- Roles of a Metamechanic
+- Diagnose, or rather, help others diagnose and realise for themselves
+	- Caution: it is not telling people how wrong, ignorant, dumb, unaware they are.
+- Noonaut. Zengineer. Inner-vator Cultivating skills and expertise through the development of novel projects.  Alter-Egos, Parallel Identities etc mention, link to page
+- Noospheric navigator
+- Alternatives analyst and advocate
+- Co-conspirator rather than consultant.
+- Narrator and navigator
+- Mapper rather than master
+- Labyrinth of illusory pathways Maze of despair and destruction
+- Bridge-builder. Translator
+- Provocateur, not preacher
+- Inner-vator
+- Abstractionist
+- Manager of the garage, rather than the mechanic himself

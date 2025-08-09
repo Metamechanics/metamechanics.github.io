@@ -1,0 +1,4 @@
+- #[[experimental archaeology]] #Tiahuanaco #[[Lake Titicaca]] #[[Luke Caverns]]
+-
+- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 2002, the Qala Yampu project transported a 9 ton megalith across Lake Titicaca via traditional reed boat. The aim was to see if that’s how stones could have been brought from the quarry across the lake by the Tiwanaku culture 1500 years ago. <a href="https://t.co/KeqBwMXLRc">https://t.co/KeqBwMXLRc</a> <a href="https://t.co/wtNXhorbSE">pic.twitter.com/wtNXhorbSE</a></p>&mdash; Tony Trupp (@TonyTrupp) <a href="https://twitter.com/TonyTrupp/status/1798048145462710618?ref_src=twsrc%5Etfw">June 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-

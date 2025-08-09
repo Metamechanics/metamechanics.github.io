@@ -1,0 +1,5 @@
+-
+- At the moment one realises they are asleep, they are already half-awake.
+- Similarly, the recognition and acceptance of one's madness is the beginning of sanity (healing)
+- Only the open mind realises how closed it is.
+-

@@ -1,0 +1,3 @@
+alias:: catastrophist, catastrophe theory
+
+-

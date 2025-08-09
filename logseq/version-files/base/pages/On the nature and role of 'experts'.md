@@ -1,0 +1,22 @@
+alias:: On Experts
+Related-pubs::
+related-project:: #EFAblog #EFA #blog #[[Fresh Alternatives]] #FACTs #AMT 
+question:: [[What exactly is an expert?]] 
+Tags:: #toWrite #MyBlog #myCreation #toResearch #toOutline, #experts
+
+	- premise / thesis / key messages
+	- audience
+	- Skeleton
+- What is an expert?
+- What defines one?
+- What are their roles?
+- When does one become an expert? When does one cease?
+- Examples of problems that
+	- created by experts
+	- solved by experts
+	- created and solved by same expert
+		- while still considered an expert
+		- after outcast from 'expertise'
+	- created by one experts, solved by another
+	- created by experts, solved by outsiders
+-

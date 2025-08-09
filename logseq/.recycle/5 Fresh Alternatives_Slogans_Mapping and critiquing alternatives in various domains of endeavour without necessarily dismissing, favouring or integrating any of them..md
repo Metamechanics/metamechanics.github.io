@@ -1,0 +1,1 @@
+Mapping and critiquing alternatives in various domains of endeavour without necessarily dismissing, favouring or integrating any of them.

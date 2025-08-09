@@ -1,0 +1,4 @@
+alias:: myths
+see-also:: [[metaphor]], [[metamyth]]
+-
+-

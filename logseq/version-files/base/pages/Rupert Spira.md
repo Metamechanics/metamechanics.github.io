@@ -1,0 +1,22 @@
+alias::
+URL:: https://rupertspira.com/
+organisation::
+role:: #teacher 
+fields:: #non-duality #spirituality #advaita #Sufism  
+publications-productions:: 
+country:: #UK  
+tags:: person #[[Robert Adams]], #[[Francis Lucille]] #[[Jean Klein]], #[[Atmananda Krishna Menon]]
+project:: #InnerBeginner #AMT 
+question::
+public:: true
+
+- [Rupert Spira](https://rupertspira.com/)
+	- About Rupert Spira
+		- Rupert Spira came across the poetry of [[Rumi]] at the age of fifteen, in 1975, and soon after this met his first teacher, Dr. Francis Roles, at Colet House in London. Dr. Roles was himself a student of [[Shantananda Saraswati]] , the Shankaracharya of the North of India. Under his guidance, Rupert learnt mantra meditation and was introduced to the classical system of Advaita, or non-duality, which formed the foundation of his interest and practice for the next twenty-five years. At the same time, he also learnt the Mevlevi Turning, a sacred Sufi dance of movement, prayer and meditation.
+		- During this time he read everything available by the Russian philosopher P. D. Ouspensky and learnt Gurdjieff’s Movements. In the late 1970s, he attended Krishnamurti’s last meetings at Brockwood Park, close to his childhood home, and was deeply impressed and influenced by Krishnamurti’s intellectual rigor and fierce humility. Throughout these years Rupert also studied the teachings of Ramana Maharshi and Sri Nisargadatta Maharaj on a continuous basis.
+		- In the same year that he discovered the poetry of Rumi, Rupert saw a retrospective exhibition of a well-known studio potter, Michael Cardew, at Camberwell Arts Centre in London, an event which was to change the course of his life. Already disenchanted with the scientific path on which he had embarked, he found that pottery provided a new avenue of exploration and experience, and one that was completely consistent with the questions evoked by his encounter with the non-dual understanding.
+		- As a result, in 1977, Rupert left school and enrolled in the Ceramics Department of West Surrey College of Art and Design, under Henry Hammond. In 1980, he moved to Wenford Bridge in Cornwall, where he lived and worked with Michael Cardew, then aged eighty, for the last two years of Cardew’s life. Rupert once said that he was completely re-educated during the time he spent with these two founding fathers of the British Studio Pottery Movement, combined with his regular attendance at Colet House. In 1983, Rupert opened his own studio, and over the next thirty years he made pieces that are to be found in private and public collections around the world.
+		- A turning point in the mid-1990s led Rupert to the American teacher Robert Adams, who died shortly after Rupert arrived in the US, intending to meet with him. However, on this visit he was told about another teacher, Francis Lucille, whom he met several months later. The first words he ever heard Francis say were, ‘Meditation is a universal “yes” to everything.’ Although it was the kind of statement anyone might encounter on the spiritual path, this moment was pivotal in Rupert’s life: ‘I realised that I had arrived home, that this encounter was the flowering and fulfilment of my previous thirty years of seeking.’ When Rupert asked at that first meeting what he should do next, Francis replied, ‘Come as often as you can.’
+		- Over the next twelve years, Rupert spent all the spare time that work and family commitments would allow with Francis, exploring how the sense of separation appears in the mind in the form of beliefs and, more important, how it appears in the body as feelings of being located and limited. Francis also introduced Rupert to the Direct Path teachings of Atmananda Krishna Menon and the Tantric approach of Kashmir Shaivism, which he had received from his teacher, Jean Klein.
+		- Of the essence of these years, Rupert writes, ‘The greatest discovery in life is that our essential nature does not share the limits or the destiny of the body and mind. I do not know what it is about the words, actions or presence of the teacher or teaching that seem to awaken this recognition of our essential nature as it truly is, and its subsequent realisation in our lives, but I am eternally grateful to Francis for our friendship.’
+		- Rupert lives in Oxford, UK. He holds regular meetings in the UK, US and Italy, as well as online webinars and Retreats at Home.

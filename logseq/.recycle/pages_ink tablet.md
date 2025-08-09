@@ -1,0 +1,11 @@
+-
+- What do I want to do with it?
+	- Read
+		- eBooks
+		- PDFs
+	- Write
+		- with paper-like feel
+		- annotate PDFs
+		- journal
+		- brainstorm
+		-

@@ -1,0 +1,19 @@
+-
+- metamechanic
+	- metamechanic.info
+- FFed
+	- futuresforesight.education
+	- futuresforesight.school
+	- futuresforesight.xyz
+- adamduus.com
+- adamdu.us
+- diagnosis
+- forck
+- hologram
+- efa
+	- enough.forall
+- fefa
+- freshalternatives
+- globaleffort
+	- .energy
+	-

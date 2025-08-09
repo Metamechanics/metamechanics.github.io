@@ -1,0 +1,28 @@
+- EFA obviously wouldn't set out to begin an exploration without particular ideas about the nature of the project. Otherwise, why would it have begun and how would it proceed?
+- Being at the outset, these thoughts and positions may better be labelled 'intuitions', hypotheses, orienting
+- answers are available if we don't overtly predetermine the scope or type of answers
+-
+- Inner as well as outer dimension
+  collapsed:: true
+	- Discontent millionaires, drug-addicted superstars, conflicted heroes, and mad geniuses in the same world as happy homeless, patient parents, peaceful beggars and super-satisfied nobodies.
+	- Psychology, spirituality and philosophy are implicit in economics, politics, hard science and technology but often dismissed, devalued or reduced to epiphenomena.
+	- EFA is open to all data, sources, theories and frameworks which highlight poverty and its theorised causes, as well as proposed solutions. Inner world consideration _must_ be included as fundamental given juxtaposed scenarios above.
+-
+-
+- We are all poor. We all lack something at some time in some way.
+	- Some don’t have enough food. Some don’t have enough money. None have enough peace and security consistently or for long enough. However, peace and security - psychological, emotional and material - are available if we know where and how to look and act.
+- We are all wealthy.
+- Enough of everything exists for everyone and everything
+	- All can have enough water. All can have enough warmth. Personal choice, group prioritisation and global decisions make poverty out of plenty, yet abundance awaits.
+- We are seeking in the wrong place
+	- More money isn’t the total answer. More approval doesn’t make one more loved. External searching eventually proves empty. Inner guidance leads to wisdom and wealth.
+- We waste. And we don’t care.
+	- Powerful resources are undervalued and discarded. Trivial resources are overemphasised. We throw away or ignore that which could alleviate our insufficiency and suffering.
+- Effective, practical solutions already exist, awaiting implementation
+	- Technologies and philosophies already exist which would act as part of effective, practical solutions. They address one or more particular layers of reality. They fit together with other pieces addressing other layers, or they acknowledge and address all layers in themselves. They often exist as outside popular culture, on the edge of educated orthodoxy, in the waste bin of ancient wisdom, on the fringe of dominant discourse or the too-hard basket of denial and repression.
+- Effective, practical solutions address multiple layers of reality but must begin within
+- Quality of quantity. Quantity of quality.
+- Knowing when enough is enough and ascendence requires a category shift. A common characteristic of many systems is that there exists a minimum quantity of resource for effective operation. Beyond this measure, improvement returns diminishes to the point where it becomes destructive. At this point, a qualitative shift is required, rather than a quantitative shift. The hierarchy of needs. Facing the resistance to self-actualisation
+-
+-
+- Thesis: We’re all really seeking The Infinite Within, but we create poverty out of abundance by aggressively and excessively seeking fulfillment from idols outside ourselves. Thus, diseases of poverty as well as affluence.

@@ -1,0 +1,3 @@
+-
+- [Monastery Valley | Cappadocia, Turkey | Attractions - Lonely Planet](https://www.lonelyplanet.com/turkey/guzelyurt/attractions/monastery-valley/a/poi-sig/1250206/1319800)
+-

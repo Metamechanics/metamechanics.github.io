@@ -1,0 +1,11 @@
+alias::
+URL::
+organisation::
+role::
+fields::
+publications-productions:: 
+tags:: person #[[Dead Sea Scrolls]] #agnosticism #[[Catholic Church]] 
+project::
+public:: true
+- deciphered Dead Sea Scrolls?
+-

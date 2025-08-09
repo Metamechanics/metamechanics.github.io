@@ -1,0 +1,53 @@
+- Everyday
+	-
+	- ACIM 4T
+	  collapsed:: true
+		- Lesson English
+		- Leçon Français
+		- Glossary-Index entries
+	- #toWrite
+	  collapsed:: true
+		-
+		- This month's project:
+			- [[AMT]]
+			- [[EFA]]
+	- #toRead MM PDF/book #toSummarise
+	  collapsed:: true
+		- Metamechanic reading
+			- [[The Death of Forever]]
+			- [[My Big TOE]]
+			- [[Expanding Earth theory]]
+		- Leisure reading
+			-
+		- Spiritual reading (non-ACIM)
+			- [[The Life of Milarepa]]
+	- Language #[[LOTE study]]
+		- [[Un Cours En Miracle]], Leçons
+		- Duolingo
+	- #toWatch FRESH doco
+	- #admin #toProcess #toSort
+	- #toPlan #toOutline #toMap
+	- Exercise
+		- bike
+		- Bulgarian Bag
+		- Bodyweights
+		- Bodyweight HIIT
+		- Gym machine HIIT
+		- swim
+		- stairs / hill jog
+	- Stretch-Strength
+- Weekend: Fri-Sat-Sun
+	- #toCycle
+	- #toWalk
+	- #toOutline #toBrainstorm
+	- LOTE
+	- WADS study
+	- Plan
+		- weekly focus for each area
+	- #toProcess
+		- [[Logseq-Obsidian workflow]]
+	- Weekly Review
+		- How effective?
+		- Misdirections? Misperceptions?
+		  Falls. Fails.
+		-

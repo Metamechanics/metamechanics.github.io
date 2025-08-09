@@ -1,0 +1,12 @@
+- contrast: [[Metamechanica]]
+- contrast: [[TremenDuus]], [[Duus Sensei]], [[Meduusa]], [[Energenii]], [[Bogansattva]]
+-
+- 'You can't fix something until you know how it works.'
+- But how do you fix something that is designed to not work? That is designed to give the impression that it works, or works 'well enough.'
+- Reframe "fixing" by shifting to forgiveness.
+- This is the mission of the Metamechanic.
+-
+- disambiguation of [[Metamechanica]]
+	- https://en-academic.com/dic.nsf/enwiki/588674
+	- [Meta Mechanics | Groningen - mechanical metamaterials](https://www.metamechanics.net/)
+-

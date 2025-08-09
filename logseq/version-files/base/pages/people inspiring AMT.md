@@ -1,0 +1,23 @@
+-
+- Jesus
+	- the more likely one; not the biblical version
+- Buddha
+- [[Ken Wapnick]]
+- [[Sohail Inayatullah]], and through him, [[PR Sarkar]]
+- [[Ken Wilber]]
+- [[John Wheeler]]
+- [[Sigmund Freud]]
+- [[Friedrich Nietzsche]]
+- [[Arthur Schopenhauer]]
+- [[Shankara]]
+- [[Gary Renard]]
+- [[Brian O'Leary]]
+-
+- Friends
+	- Susan Mizrahi
+	- George Ordal
+	- Schalk Kok
+	- Maggie Ivanova
+	- Hermelinda Plata
+	- Angelica Garcia-Rangel
+	-

@@ -1,0 +1,12 @@
+-
+- Coda advantages
+	- price
+		- only pay for doc makers
+			-
+		- allows for cheaper growth in early stages
+	- forms
+	- tables/databases are more powerful?
+- Notion advantages
+	- linking across docs ?
+	- navigation
+	-

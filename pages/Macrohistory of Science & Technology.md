@@ -1,0 +1,12 @@
+- #toWrite #myBook #myCreation #[[History of Science]] #[[Philosophy of Science]] ##[[X-Science]] #macrohistory
+- inspired by [[Sohail Inayatullah]] and [[Johan Galtung]] and their work on [[macrohistory]]
+- [[Macrohistory and Macrohistorians]]
+-
+- cycle of empire applied to science & knowledge
+	- maybe need to tweak; not power per se but perhaps "authority", data fit
+	- outsiders "attack" existing theories with new data, better models
+	- the new model becomes dominant; incredible success
+		- the founders become fathers;
+	- the fathers become grandfathers; the 'kids' live off the fruit of the model; the model provides a framework, authority...
+	- change is rejected and resisted; new data is not accommodated but ridiculed
+-

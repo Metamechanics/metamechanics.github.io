@@ -1,0 +1,12 @@
+- Add a positive
+- More of the good stuff. Increase levers.
+- Subtract a negative
+- Less of the deleterious. Remove obstacles.
+- How do you help a brother up?
+- Offer him a hand.
+- Take your foot of his throat.
+-
+-
+- [Why the “Unreasonable Effectiveness” of Mathematics? | Episode 2203 | Closer To Truth - YouTube](https://www.youtube.com/watch?v=UOvKPFbhj2Q)
+- Mathematics is part of the [[Anthropic Principle]]. It works because it was designed to work with an invented universe
+-

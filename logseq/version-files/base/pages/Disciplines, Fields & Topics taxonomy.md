@@ -1,0 +1,11 @@
+- #taxonomy #ontology #[[Metamechanic ontology]]
+- see [[ISKO]]
+- what was the work of [[PR Sarkar]] here? New/different classification
+-
+- Language & Literature
+- Language Learning
+- Natural & Hard Sciences
+- Social & Soft Sciences
+- Creative Arts
+- X-disciplinary
+-

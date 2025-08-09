@@ -1,0 +1,29 @@
+- TABLE?
+- Some readers may not have picked up this book due to misconceptions. Others may have made it this far despite their misconceptions. Let’s clear up what this book is not, at the very start.
+- What it is
+	- Cohering disparate data into a message of insight and hope
+- A multi-level treatment of scarcity and abundance in the world.
+- A blog culminating in a book “Enough For All”
+- An alternative to historically inadequate economic, political and other socio-cultural attempts at answering this question.
+-
+-
+- “The Secret” rehashed or repackaged. Any other new-age self-help “manifesting abundance” or “creative visualisation” doctrine. 7+ billion people can’t all own a Ferrari.
+	- Much has been written in recent new-age literature about “manifesting abundance” and “creating your own reality.” EFA is not this. EFA is not “Think and Grow Rich” or “The Secret” rehashed or repackaged. It is not meant to be another new-age self-help “manifesting abundance” doctrine. I don’t think 7+ billion people can all drive a Ferrari in a peaceful world. However, it is asserted here that 7+ billion people can all experience all the benefits of what a Ferrari aims to achieve but ultimately falls short in delivering: mobility, comfort, inner contentment.
+- An academic, theoretical treatise targeted for an “expert” audience.
+	- It is intended to be an easy-to-follow, systematic, logical progression of data and ideas accessible to most audiences (I hope!). Indeed, over-intellectualisation may be a factor in poverty creation.
+	- Most attempts at alleviating poverty have been highly technical in their theoretical framework and language. These frameworks and models have been inaccessible to most people which seems odd when everyone is poor in some way. EFA is not meant to be an academic, theoretical treatise targeted for an elite “expert” audience. It is intended to be an easy-to-follow, systematic, logical progression of data and ideas accessible to most audiences (I hope!). Indeed, over-intellectualisation may be a factor in poverty creation or reinforcement, or possibly another expression of it.
+- Not new data. Not an original story.
+	- A novel, simple and comprehensive way of understanding a complex, compelling story.
+	- Hopefully a more digestible format
+- not a prescription. Not a sermon.
+	- EFA is not an attempt to appease my guilt by telling “the poor and afflicted” what “they” should do. I, Adam, do have my own experience of poverty, scarcity and lack, and therefore am in no position to lecture. I am a student-patient here. I, Adam, also play a role in the poverty experience of others, I’m sure. Rather, EFA will try to explore the factors in creating scarcity. I shall offer some insights, of my own and of others, in treating the problem at its cause, while practicing what I preach to undo my own sense of poverty in my individual life as in my world.
+- not a solution.
+	- Any solution requires action. Action requires decision. Decision is your choice, not ours. Thankfully.
+	- Finally, EFA is not intended to be a commandment, written in stone by a priveliged prophet with special access to the ‘truth’. It is intended as a guide through, and hopefully out of, dark and despairing terrain. As with any guide or map, its value is increased through the contributions of fellow travellers and explorers. Please help. Please provide the inspired thoughts, the penetrating data and the wise alternatives that haven’t made it to this edition of the text. Enough needs you.
+	- EFA does not prescribe but offers suggestions, possible alternatives, all the while keeping options open and inviting further suggestions.
+- Not an ideology. Not an economic analysis. Not a political platform (in the traditional, conventional sense)
+	- History clearly shows that plenty of economists lack answers, the affluent can be very unhappy, political powerbrokers and analysts can lack peace (as well as scruples).
+	- More rigorous responses to poverty must include and integrate all levels and dimensions of experience, for everyone in society.
+	- EFA is not a megaphone for any existing economic, political or technological “solutions” or religious reckonings. It does not intend to further fuel ideological conflicts but assist in healing these divisions. Saying this though, many people will not agree with what is said. There is a central thesis and alternative practices and systems will be presented. However, they are proposed as alternative options to be applied contextually and are not holy econo-political scripture. They are proposed for your consideration.
+	- Its not intended to be a politico-economic system that is a panacaea for the world’s problems eg communism, capitalist democracy or any other ideology. It is designed to point out that we are all looking for The Limitless, albeit unconsciously for the most part. It may point out the weakness, ineffectiveness and perhaps downfall of systems because of a lack of "God-component", inner development. Based, on this, in part 2, it reverses the design process of world systems and resource management. The point is to point out the inner seeking everyone undertakes, but undertakes in an external fashion. Thus, disappointment results if done without this awareness.
+-

@@ -1,0 +1,143 @@
+-
+- {{query (and "DOING" (priority A))}}
+  query-table:: false
+-
+- {{query (and "TODO" (priority A))}}
+- TODO Futures Studies for the IB - notes from Scrivener & TBX into #Logseq [[Futures Studies for the IB]]
+- TODO [[FF-ed]] #website
+- TODO Differentiate [[Education Futures]] resources vs [[Resources for Teaching Futures]] #ffed
+- TODO Complete [[About FFed]] #toWrite
+- TODO [[Getting Started with Futures & Foresight]] #toWrite
+- TODO Populate #ffed database. Create templates in LS properly, as well as Obsidian
+  collapsed:: true
+	-
+	- TODO [[Movies]]
+	- TODO Literature
+	- TODO [[Books]] - adam
+	- TODO [[Books]] - USC
+	- TODO [[Trends]]
+- TODO cPanel & #ICT support actions #ffed
+  collapsed:: true
+	- TODO Code domain name redirect. See medium example
+	- TODO Set up email in cPanel and Mail and iOS
+	- TODO site redirects in cPanel for #ffed
+- TODO How to make FSSF group 4? #QuestionsToSelf
+- How to make FSSF a Concept-based curriculum? #[[Questions To Self]]
+- TODO [[David Perkins]], [[Project Zero]] research Bookends
+- Read Rick Slaughter’s articles re [[Foresight challenges in schools and organizations]] #toRead
+- TODO Adobe Edex training sign up to correct email.
+- TODO Bookends - separate FSIB library from FSSF/FFed library
+- TODO [[EFA]] as an Educational Tool for the Future #toWrite
+- TODO FSSF resources and development
+- TODO “international baccalaurate” pdfs in 3a FSIB PhD
+  id:: 6254991f-187d-465e-81df-6e73acd6ff18
+- #EFA #[[Mission Management]] #tasks
+-
+- TODO [[EFA]] Website proposal and outline: requirements for webwiki
+  collapsed:: true
+	- create template for post types
+		- DataViz
+		- parent topic
+		- child topics
+		- region/country
+		- infographic
+		- saient points in text
+	- create views for posts
+	- Front end user contribution templates/forms/views
+	- Folded writing/drop down functionality
+	- Use existing platforms to illustrate map component: Twine, Pageflow, reveal.js
+- TODO [[EFA]] logo and graphics
+- collapsed:: true
+	- [[TBX]]-SS [[EFA]] writings
+	- [[Scrivener]]
+	- Evernote
+	- Note[[books]]
+- TODO [[EFA]] Platform assessment
+  collapsed:: true
+	- TODO Investigate [[Knoema]]. Find exemplars
+	- TODO GitPages, GitBook, GitHub
+	- TODO impress.js? or similar? Yes! Reveal.js
+	- DONE Pageflow.io
+	- TODO [[TBX]]-SSP combination
+	- TODO The Pudding
+	-
+	-
+	-
+- TODO [[EFA]] Social Media
+  collapsed:: true
+	- [[EFA]] Face[[book]]
+	- [[EFA]] Twitter
+	- [[EFA]] Pinterest
+	- [[EFA]] Instagram - to display Data Vizzes
+- [[EFA]] webwiki sitemap, layout and data structure
+- TODO Build [[EFA]] support community
+- TODO Connect with infographic and DataViz communities on #SocialMedia #EFA #ffed #[[Fresh Alternatives]]
+- [[Tableau]] community; [[Tableau - community]]
+- TODO Make list of potential funders, collaborators ( and competitors)
+- TODO [[EFA]] visual language and [[argument mapping]] schema
+- DONE [[EFA]] writing
+- DONE Create [[EFA]] [[book]] structure in LS for website writing
+- [[Conflict avocados]] #EFA #issues
+- #toRead [[The Economics Book - (DK)]]
+- #toRead [[The End of Poverty]]
+- #toRead [[The Happy Economist ]]
+- #toRead [[Plan B 3.0]]
+- #toRead [[Enough is Enough]]
+- DONE Review Amazon wish list for [[books]] & authors
+- TODO Data Viz: [[Tableau]]/Plotly/ [[Knoema]] /Other?
+- TODO HDI viz for #EFA
+- TODO File, Sort, Organize #ongoing-regular-recurring #someday
+	- TODO use AI to sort PDFs in [[DevonThink]]
+	- TODO index Metamemory PDFs into [[DevonThink]]
+- TODO Business names register
+- TODO IP search
+- TODO [[transcribe]] notes to [[Obsidian (app)]] #someday
+  collapsed:: true
+	- Loose paper [[notebook]] #someday #transcribe
+	- Hard cover journal #someday #transcribe
+	- "Compassion" cover [[notebook]] #someday #transcribe
+	- "Happiness" cover [[notebook]] #someday #transcribe
+- TODO [[Logo]] design - see [[Hope Ahcheen]]
+  collapsed:: true
+	- TODO [[MetaMechanic]] #Logo
+	- TODO [[EFA]] #Logo
+	- TODO [[GE]] #Logo
+	- TODO [[FSIB]] #Logo
+	- TODO [[Inner Beginner]] #Logo
+	- TODO [[Array Attire]] #Logo
+- TODO [[MetaMechanic]] graphics brief for Hope Ahcheen
+- DOING Sort and consolidate [[Another M-Theory]] here in logseq
+- TODO create #argMaps on the #[[The Fermi Paradox]] #toDesign #toMap
+- TODO [[Fresh Alternatives]] #trademark
+- TODO [[Fresh Alternatives]] - notes from Scrivener & TBX into #Logseq
+- TODO [[Behind, Below, Beyond]] goals
+- TODO design [[FORCK]] [[logo]]
+- TODO Brainstorm slogans (spiritually cheeky) for #FORCK
+- Develop #DiaGnosis user story/journey on [[Miro]]
+- TODO [[DiaGnosis]] - notes from Scrivener & TBX into #Logseq
+-
+- TODO LessonPlan.xyz Develop user story/story board on Miro
+- TODO "Find and seek on Social networks for fashion designers, creatives etc" #[[Array Attire]]
+- [[Array Attire]] website #toMap
+- [[Array Attire]] #logo #toDesign
+- TODO [[MQGEF]] - notes from Scrivener & TBX into #Logseq
+- [[Global Effort]] homepage #toDesign
+- Write up requirements for the website v1.0 #toMap
+- Insert ' [[wicked problems]] ' approach into [[MQGEF]] #toThink
+- TODO Site map #globalEffort #toMap
+- outline #GE key thinkers #toWrite
+-
+- 150 words pitch #toWrite #globalEffort
+- write 1-page pitch #toWrite #globalEffort
+- 1 paragraph pitch #toWrite #globalEffort
+- [[Energy Myths and Realities]] #toRead
+- [[Energy Transitions - History, Requirements, Prospects]] #toRead
+- [[Energy in World History]] #toRead
+- [[Energy at the Crossroads]] #toRead
+- [[Energy in Nature and Society]] #toRead
+- TODO [[Global Effort]] - notes from Scrivener & TBX into #Logseq
+- TODO [[Inner Beginner]] website
+- TODO Inner Beginner content #[[Inner Beginner]]
+- TODO [[Inner Beginner]] logo
+- DONE [[Inner Beginner]] - notes from Scrivener & TBX into #Logseq
+-

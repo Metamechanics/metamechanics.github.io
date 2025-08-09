@@ -1,0 +1,7 @@
+-
+- Introductory books on the topic:
+	- [9 Best Metaphysics Books for Beginners - BookAuthority](https://bookauthority.org/books/beginner-metaphysics-books#:~:text=URL%3A%20https%3A%2F%2Fbookauthority.org%2Fbooks%2Fbeginner)
+	- [The Best Books on Metaphysics - Five Books Expert Recommendations](https://fivebooks.com/best-books/tim-crane-on-metaphysics/)
+	- [philosophybreak.com/reading-lists/metaphysics/](https://philosophybreak.com/reading-lists/metaphysics/)
+	- [The Nine Best Introductory Books on Metaphysics - The Daily Idea](https://thedailyidea.org/best-books-metaphysics/)
+	-

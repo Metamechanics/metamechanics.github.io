@@ -1,0 +1,1 @@
+A platform for (a) particular spiritual teacher(s); rather, 

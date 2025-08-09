@@ -1,0 +1,6 @@
+- #Japan #pyramids #megalith
+- [SACRED GATEWAYS OF JAPAN: Japan's Lost Super-Civilization](https://sacredgatewaysofjapan.blogspot.com/p/japans-lost-super-civilization.html)
+- [Ashitakeyama | The Official Guide to Hiroshima - Travel and Tour Information](https://dive-hiroshima.com/en/explore/1335/)
+- [34°50'47.8"N 133°07'40.2"E - Google Maps](https://www.google.com/maps/place/34%C2%B050'47.8%22N+133%C2%B007'40.2%22E/@34.8466176,132.5697313,9z/data=!4m4!3m3!8m2!3d34.8466176!4d133.1278454?entry=ttu)
+- [「太古日本のピラミッド」 葦嶽山・鬼叫山にそよぐ風に、常識を疑う目に触れる - 山と溪谷オンライン](https://www.yamakei-online.com/yama-ya/detail.php?id=933)
+-

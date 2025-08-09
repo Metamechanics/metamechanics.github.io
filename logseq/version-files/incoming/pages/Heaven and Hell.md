@@ -1,0 +1,9 @@
+alias::
+author:: [[Emanuel Swedenborg]] 
+publication-year::
+tags:: book, reference, #toRead 
+project:: [[Inner Beginner]] 
+public:: true
+-
+- [Heaven and Hell: The Portable New Century Edition - Free PDF](https://swedenborg.com/wp-content/uploads/2015/08/NCE_HeavenandHell_portable.pdf)
+-

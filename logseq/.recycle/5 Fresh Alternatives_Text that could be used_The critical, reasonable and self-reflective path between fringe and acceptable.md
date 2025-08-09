@@ -1,0 +1,2 @@
+	Mainstream alternatives are often the other side of the same coin. Conspiracy theories vary from compelling evidence and sensible stories containing elements of truth descending all the way down to deliberate deception and disempowering self-victimisation.
+We cannot blindly accept nor deny. Value and power lie in discernment.

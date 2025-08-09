@@ -1,0 +1,13 @@
+alias:: Ayanis Kalesi
+tags:: #Urartu 
+place::
+country:: #Turkey 
+place-type:: #[[ancient site]] 
+project:: #[[Adam's Atlas]] 
+nearest-town:: [[Van]] 
+map-url::
+
+- [Van - Ayanis Castle](https://wowcappadocia.com/ayanis-castle.html)
+- [Turkey restores 2,700-year-old Urartian temple](https://www.aa.com.tr/en/culture/turkey-restores-2-700-year-old-urartian-temple/1923956)
+-
+-

@@ -1,0 +1,12 @@
+- #[[Fresh Alternatives]] #anatomy #physiology #biophysics #idea #unorthodox #radical
+- #[[Rudolf Steiner]]
+- [The heart is not a pump: A refutation of the pressure propulsion premise of heart function](http://www.trigunamedia.com/The%20heart%20is%20not%20a%20pump.pdf) #toRead
+	- [[Ralph Marinelli]] , [[Branko Fuerst]], [[Hoyte van der Zee]] , [[Andrew McGinn]] , [[William Marinelli]]
+- [The Heart is not a Pump - John Chitty, RPP, RCST](https://static1.squarespace.com/static/5be365255cfd79dc41e5dc90/t/5c05bb43cd8366c98851dd99/1543879491562/The_Heart_is_not_a_Pump-Chitty.pdf)
+	- [[John Chitty]]
+	-
+- [Branko Furst’s Radical Alternative - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215277/)
+	- [Branko Furst’s Radical Alternative (pdf)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215277/pdf/ptj4201033.pdf) #toRead
+	-
+- {{video https://youtube.com/shorts/57UkHWBDhLM?si=sc9zU6HzNHOVBEsQ}}
+-

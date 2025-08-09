@@ -1,0 +1,127 @@
+-
+- see: [[EFA - website]], [[EFA]]
+	-
+	- Enough For All: so that more may be more and have more.
+	- Stitching together the story of sufficiency
+	- Not new data. Not a truly original story.  Enough For All pieces together disparate data from numerous reliable, authoritative organisations into a message of insight and hope: There is enough for all. Everyone can have enough.  EFA aims to provide a novel, simple, engaging and comprehensive way of understanding a complex, compelling tale: the how much and how of enough.
+	- Overwhelming issues made visible, manageable and hopeful.
+	- Most of us feel overwhelmed by the complexity of the world and hopeless when we look at the scale of suffering and conflict. Many of us choose not to look for this reason.  Enough For All seeks to not only present data in a way that is digestible, but offer hope and mechanisms for alleviating suffering, resolving conflict and addressing poverties and inequalities.
+	- The story of the world, simplified and visualised
+	- The story of the world is the story of “more”. Money, power, security, food, control, time…and the search never ends. Much data on this already exists. Its a question of making sense of it.  Enough For All presents the data visually, drawing simple conclusions with logical consequences and deduction. The result:  a labyrinth of scarcity translated into an epic of enoughness.
+	- Illuminating the issue of enough
+	- Why do some not have enough? What do they not have enough of? Are the reasons the experts give really true? Is there actually enough? What does the data say? Is the data biased? Whose data? What assumptions are made?  Is there enough now? Was there enough in the past? Has there always been enough? Do forecasts predict enough? Why should we believe them? Why not believe them?  If there is enough, why don’t some have enough? What are the barriers and limiting mechanisms in play? Who or what erects those barriers and builds those mechanisms?  If there is not enough, could there be enough for all? What could be some of those tools for enough for all? Are common responses really effective? Are they true? What do the solutions hinge on for success?  Does everyone having enough mean some can’t have too much? Or will everyone having enough actually mean more could have more?
+	- Inspired Resource Utilization
+	- Enough For All seeks to identify proposals that address multiple layers of the sufficiency problem.  Perhaps there are already some systems and models out there which can do a better job of generating, supplying and distributing enough for all…  Why are they not in place?  Who says they will, or won’t, work?  EFA will explore the tried and tested, and present some Fresh Alternatives.
+	-
+	- Why do some not have enough?
+	- Why do some go hungry, malnourished, impoverished? Why are some homeless, landless and materially insecure? Why are some unhappy, unhealthy, unhelpful?  Have you ever asked yourself these questions? Have you ever wondered if there is more to the story than the answers you are given?  Enough For All seeks to address these questions and tell the story of sufficiency by starting with the basics, visualising the data, and using ‘warm logic’.
+	- Visualizing The Story of the World
+	- EFA sets out to piece together quality data and dedicated research into the story of enough  [Need diagram of story map…]
+	- Have you ever wondered why some don't have enough?
+	- I mean…really wondered?  Is there enough?  [Text boxes - images] ??  Enough stuff…food, water, land, shelter, clothing… Enough technology…energy, money, transport, medicine… Enough intangibles…happiness, health, love, peace…  [Perhaps use slider ‘rating’ bars. Set to 100%]  This was the inspiration for the project. It lead to the question, “Is there actually enough for everyone? That would be interesting to know. And if not, could there be, if we used alternative systems?”
+	- Not new data. Not an original story. A novel, simple and comprehensive way of understanding a complex, compelling story.
+	- Cohering disparate data into a message of insight and hope
+	- Community-curated multi-layered data portal
+	- Collation and Curation Not a forum for repetition or rant. Contributed ideas and data are distilled into their essence and situated into the story. Not truth by consensus, but open to conversation, critique and debate.  Community The story of the world requires the world to write it. Country analysts, issue specialists, topic experts all required. Data freaks, infographics geeks, and constructive critiques. We need you. UN, NGOs, EDUs, NPOs, VIPs, NFIs… all have a role to play.  Beyond a Data portal Easy access to essential data. Starting hub for diverse information  Links to specialist organisations Multi-scale. Multi-scope. Search. Filter. Refine. Share.    Penetrate the problem. Seek and see solutions. Don’t drown in data.
+	- Web platform for a deep, data-driven narrative
+	- The base of Enough For All is a novel website piecing disparate data into a coherent narrative. It will allow user-driven plot pathways maintaining global meaning and connection between data and layers. The story structure allows deeper investigation as well as superficial story skimming. Enough For All needs web developers, data scientists, database programmers and content contributors to create this site.
+	- Reviewing conventional wisdom
+	- Insufficiency has always existed, despite/because of the efforts of policy implementers. Either: 1. You believe it always will continue to exist, regardless. This site is not for you. Q 2. Historical efforts have typically fallen short because of
+	- Simplifying complexity...just enough, not too much
+	- Reframing the problem in order to see effective solutions  The answer to complexity is not necessarily greater complexity.
+	- Making sense of immense, disparate data through a grand, visual, interactive narrative.
+	- Targeting effective triggers and solutions through a logical sequence of (in)sufficiency investigation
+	- The Enough For All story structure follows a logical if-then questioning route to uncover problems, data, answers and supposed answers.  This way readers can discover  1. Issues and data,   2. attempts at addressing the issue,   3. assumptions and limitations in the data,   4. the layers and perspectives on the issue and its solutions  5. Linkages between complex issues and attempted solutions, and  6. Target trigger points for effective action  An important part of Enough For All is that readers can offer and inject insights and data into the pathway-network, keeping in mind that entry will be scrutinised by the community for novelty, uniqueness, overlap, pre-existence etc. The success of Enough For All relies on this very process.
+	- Complexity covers poverty and disguises solutions
+	- Using graphic tools, logic, web technology and knowledge mapping
+	- A layered, global analysis of sufficiency integrated into an understandable and meaningful story
+	- Perspectives on the Story
+	- Data view
+	- Map view
+	- Story view
+	- Issue Mapping, Solution Cartography, Data Visualizations, Infographics
+	- Communicating data for easier intellectual digestion
+	- Communicating data for easier intellectual digestion  Simplifying the story so real problems and effective solutions become more apparent.
+	- Issue Mapping
+	- Issue Mapping Its already been written. The essays, articles, diatribes, rants…   See the flow of arguments and issues, pro’s and con’s, genuine alternatives and cosmetic adjustments.  EFA will visually situate the reader in the grand narrative.
+	- Data Visualisation & Infographics
+	- Data Visualisation & Infographics Making complex data digestible and memorable, collated into one accessible location that makes greater sense of it.
+	- Theses
+	- We are all poor. We are all wealthy.
+	- We are all poor. Some don’t have enough food. Some don’t have enough money. None have enough peace and security. However, peace and security - psychological and material - are available if we know where and how to look.
+	- Enough of everything exists for everyone and everything
+	- Enough of everything exists for everyone and everything. All can have enough water. All can have enough warmth. Personal choice, group prioritisation and global decisions make poverty out of plenty, yet abundance awaits.
+	- We are looking in the wrong place
+	- We are looking in the wrong place. More money isn’t the total answer. More approval doesn’t make one more loved. External searching eventually proves empty. Inner guidance leads to wisdom and wealth.
+	- We waste. And we don’t care.
+	- We waste. And we don’t care. Powerful resources are undervalued and discarded. Trivial resources are overemphasised. We throw away or ignore that which could alleviate our insufficiency and suffering.
+	- Effective, practical solutions already exist, awaiting implementation
+	- Technologies and philosophies already exist which would act as part of effective, practical solutions. They address one or more particular layers of reality. They fit together with other pieces addressing other layers, or they acknowledge and address all layers in themselves. They often exist as outside popular culture, on the edge of educated orthodoxy, in the waste bin of ancient wisdom, on the fringe of dominant discourse or the too-hard basket of denial and repression.
+	- Effective, practical solutions address multiple layers of reality but must begin within
+	- Effective, practical solutions address multiple layers of reality but must begin within.
+	- Quality of quantity. Quantity of quality.
+	- Knowing when enough is enough and ascendence requires a category shift. A common characteristic of many systems is that there exists a minimum quantity of resource for effective operation. Beyond this measure, improvement returns diminishes to the point where it becomes destructive. At this point, a qualitative shift is required, rather than a quantitative shift. The hierarchy of needs. Facing the resistance to self-actualisation
+	- Past, present and future
+	- Present
+	- Present What does present data say about the current status of sufficiency and abundance?
+	- Past
+	- Past Has there always been enough? Is this a perpetual problem, independent of time?
+	- Future
+	- Future What do the forecasts say? What do technophiles, apocalyptists, doomsayers, ostriches promise? What do
+	- Resources Required
+	- Discipline expertise...with humility and respect for inter-disciplinarity
+	- Economics, psychology, technology, resource management, anthropology, religion, et al...and the nexus between them
+	- Funding and financial support
+	- ICT expertise
+	- Graphic design, web development, graph databases, data scientists, infographics
+	- Moral and other support
+	- Like the idea but can’t help out?  No worries. Follow us on twitter. Drop an email. Share with friends.
+	- Driving Questions
+	- Why do some not have enough?
+	- In a world where some seem to have so much, why do many have so little? Why do some not have enough?
+	- Is there actually enough for all?
+	- Enough For All hypothesises there is enough of all for all. It seeks to verify this from current data and future projections and report this visually.
+	- If there really is enough for all, why do some not have enough?
+	- If supply is plentiful and production ample, why don’t many seem to
+	- Does any one have enough of every thing? Does every one lack some thing?
+	- How can we make sure everyone has enough?
+	- Should we? Can we?
+	- Should we bother attempting to ensure everyone has enough? Is there a broader benefit, economically or otherwise? Is there a moral, ecological or other imperative?
+	- Has there always been enough? (even if unevenly distributed) Has this been a perennial problem?
+	- Will there always be enought? What do current forecasts say? What do past forecasts say about our present time.
+	- Aspirations and Visions
+	- A caring, concerted, capable community
+	- An independent, sustainable organisation
+	- Yes, we have an agenda. May we stay true to that as we collaborate with like-minded organisations and individuals, in the face of competing and conflicting messages.
+	- Insight. Illumination. Information.
+	- A hub for visualised data by problem, topic, region, solution, level. A deep, clear view into complex, layered issues. A map for the maze of muchness.
+	- Simple, coherent, engaging, uplifting message
+	- Story Structure
+	- Sad State of Suffering
+	- Enough Stuff
+	- Enough Tech
+	- Enough Ideas
+	- Enough X
+	- Inspired Resource Utilisation
+	- Situation Specific Resource Management
+	- Enough For All copy-1
+	- Enough For All
+	- What?
+	- What? A multi-level treatment of scarcity and abundance in the world. A blog culminating in a book “Enough For All” An alternative to historically inadequate economic, political and other socio-cultural attempts at answering this question. Thesis: We’re all really seeking The Infinite Within, but we create poverty out of abundance by aggressively and excessively seeking fulfillment from idols outside ourselves. Thus, diseases of poverty as well as affluence.
+	- What is it not?
+	- What is it not? “The Secret” rehashed or repackaged. Any other new-age self-help “manifesting abundance” or “creative visualisation” doctrine. 6+ billion people can’t all sell a Ferrari. An academic, theoretical treatise targeted for an “expert” audience. It is intended to be an easy-to-follow, systematic, logical progression of data and ideas accessible to most audiences (I hope!). Indeed, over-intellectualisation may be a factor in poverty creation.
+	- Why?
+	- Why? Personal curiosity: Is there really enough for all? If so, what prevents it? Social contribution: Maybe I can help…? Spiritual fulfillment: I suspect my own fulfillment is linked to filling the bellies, pockets, hearts, minds and souls of as many as possible. Because I postulate there can be enough OF everything FOR every thing. Why the bloody hell not?
+	- How?
+	- How? Multi-tiered analysis. Viewing reality as layered, accepting there are many levels of needs. Following examples of existing development models eg. Maslow, Spiral Dynamics, Prout, Chakra system et al. Resources of all kinds considered – physical, mental, psychological, spiritual. Blog posts addressing particular topics aggregating into a book. Embracing helpful insights, useful suggestions and friendly criticism from willing contributors.
+	- Who?
+	- Who? Everyone. The “rich” as well as the “poor”. We all lack something. We’re all searching for something. Me, Duusman. I want enough. In fact, I want more than enough…but I also would like others to have enough. You. Enabling enough for all requires all to recognise genuine abundance. Please help. ASSISTANTS’ ASSISTANCE REQUIRED.
+	- When?
+	- When? Now And then Past, present and future (Our memories and future fears are plagued by thoughts of insufficiency: I didn’t do enough/I didn’t have enough etc. How can we heal this? Our plans are attempt to secure enough. How can we plan well?)
+	- Where?
+	- Where? Here And there Hearts, minds, bellies, pockets around the world, now and in the future In the ether and in the famine In the conflict and disaster ravaged zone as well as in the conflicted, turbulent mind
+- Abortion 
+  Euthanasia
+  Death penalty
+  Stem cells
+  Genetic engineering

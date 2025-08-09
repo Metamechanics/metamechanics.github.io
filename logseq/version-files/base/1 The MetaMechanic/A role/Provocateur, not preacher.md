@@ -1,0 +1,2 @@
+I don’t have answers. I think I might have some good ideas, which others may agree with, benefit from, and improve upon. In fact, they rely on testing and questioning by others. Please.
+I hope to provoke thought and action, rather than preach any concrete course.

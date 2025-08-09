@@ -1,0 +1,48 @@
+id:: 65961d28-a165-4b58-8082-7f1e3f8d6246
+alias:: GtS
+- Start where you are. Use what you have.
+- [[I will step back and let Him lead the way.]]
+	- ((659a6775-d900-4f4d-9ce9-149c368af14d))
+- Defences against the truth
+	- (Excessive) Planning and mapping is a [[defence against the Truth]]
+	- [[Procrastination]] is a [[defence against the Truth]]
+	- [[Perfectionism]] is a [[defence against the Truth]]
+	- Too much tidying up, neatening, prettying... is a [[defence against the Truth]]
+	- Overwhelm is a defence against the truth, and a failure to ask the right teacher
+- Get writing
+	- Writing fosters deep thought
+	- Write, and let Spirit lead you; where, I do not know but He does know.
+- Build it and they will come.
+- Remember,
+  collapsed:: true
+	- I am writing and working for myself, for my own curiosity and exploration
+		- I am not writing to persuade, convince
+		- I am not writing to prove myself right, and anyone else wrong
+			- That may end up happening but it is not the motivation
+			- "it is far wiser to defend the truth than to attack anyone's position" #[[Or Words To That Effect]]
+		- I share my workings in case anyone is interested
+	- My work, and any success I may have, does not determine my worth
+		- My worth is independent of success and failure, difficulty and ease, fame and forgottenness, fortune and poverty
+		- Rather, conversely, my indefinable, inestimable, invaluable worth as the Son of God inspires my work.
+- MM as spiritual practice
+	- [[Making the error real]] ?
+- Balance
+  collapsed:: true
+	- work
+		- [[The Metamechanic]] and [[metamechanic-io]] with
+		- development of the other [[Projects]], along with
+		- [[Metamechanica]], the common principles and tools behind each project
+	- non-work
+		- the counter-intuitive path
+			- less is more
+			- work smarter not harder
+		- the paradoxical path
+			- ideas come when you're not thinking about them
+		- the inspired path
+			- what i think vs what I think
+		- the well-rounded path
+			- I'm only as happy as my weakest link
+		- the fun path
+			- work is fun when its
+				- not work
+				- part of a whole puzzle

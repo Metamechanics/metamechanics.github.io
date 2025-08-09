@@ -1,0 +1,15 @@
+-
+- Phase 1
+	- Purpose
+		- Engage assistance
+		- Portfolio
+		- Understand projects
+		- Invite and draw collaborators and constructive criticism
+	- Features
+		- Comments
+		- Gallery
+		- Index/encyclopedia cards
+		- Calendar
+		- backlinking
+		- outline writing
+		- Templates for entries eg. books, sites, people

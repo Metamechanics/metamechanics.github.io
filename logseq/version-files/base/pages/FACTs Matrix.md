@@ -1,0 +1,15 @@
+alias:: Continuum of FACTs, FACTs matrices
+- #DiaGnosis
+- Place fringe, alternative and conspiracy theories on axes to compare and contrast them
+-
+- Possible axes
+	- Degree of Agreement with orthodoxy; consensus
+		- ie. what are conspiracies that everyone agrees on? (that occurred in the past)
+		- what are fringe theories that were unorthodox that became orthodox
+	- Time
+	- % truth or accuracy in theory
+		- Moon landings
+			- Did all trips land on the moon?
+			- Did only the published trips go to the moon? Were there more, unpublished trips?
+- This ties in with the idea of a #[[fresh alternative]]
+-

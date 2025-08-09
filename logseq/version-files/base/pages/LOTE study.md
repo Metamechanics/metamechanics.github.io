@@ -1,0 +1,40 @@
+- Current Plan @ [[27-07-2024]]
+	- Arabic -
+		- [Dashboard - Arabic - Rocket Languages](https://app.rocketlanguages.com/members/products/49/dashboard)
+		- [Al-Jazeera - Introductory Lessons | تعلم العربية](https://learning.aljazeera.net/en/lessons/level/introductory)
+	- French
+		- ACIM-TTT Francais 
+		  [un cours en miracles.pdf](hook://file/iiFqu5Meg?p=QUNJTS1UVFQgLSBMT1RFL0FDSU0gLSBGcmVuY2g=&n=un%20cours%20en%20miracles%2Epdf)
+		- [Français – Joseph Davidovits](https://www.davidovits.info/francais/)
+		-
+- [Learn 48 Languages Online for Free | Open Culture](https://www.openculture.com/freelanguagelessons)
+-
+- [25 Prolific Language Learning Bloggers You Should Follow](https://www.mezzoguild.com/language-bloggers/)
+- Rocket Languages
+- DuoLingo
+- ACIM-TTT
+- Glossika
+	- all languages
+	-
+- Arabic - free, or already purchased
+	- [Dashboard - Arabic - Rocket Languages](https://app.rocketlanguages.com/members/products/49/dashboard)
+	- [If I Started Learning Arabic Again, This Is How I'd Do It](https://www.mezzoguild.com/how-to-start-learning-arabic/)
+	- [Egyptian Arabic: Easy Stories With English Translations (1): Nagel, Donovan: 9781732928701: Amazon.com: Books](https://www.amazon.com/dp/1732928703/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=mezzo4286-20&linkId=3f30829c99c10861ea441f7289d6b67f&language=en_US)
+	- [Learning Arabic with Al-Jazeera | تعلم العربية](https://learning.aljazeera.net/en)
+	- [Learn Arabic Online With Free Arabic Courses | Madinah Arabic](https://www.madinaharabic.com/learn-arabic.html)
+		- [Learn Arabic Reading | Madinah Arabic](https://www.madinaharabic.com/arabic-reading-course/lessons/)
+	- [Learn Arabic For Free - Arabic For Beginners](https://arabicforbeginners.com/)
+	- [Madinah Arabic-Beginner to Advanced (2021-1)](https://www.fluentarabic.net/recorded-classes/madinah-arabic-2021/)
+- Japanese
+- Romance
+	- French
+	- Spanish
+	- Italian
+	- Portuguese
+- Russian
+- Turkish
+- German
+-
+- [[ACIM TT]]
+- [[The Little Prince]]
+-

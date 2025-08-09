@@ -1,0 +1,977 @@
+-
+- Index
+- Achterberg, Jeanne, 83-87
+- Acupuncture, II3-1G
+- The Adventure of Self-Discovery, Grof, 72
+- Afterlife realm, 244-48, 257-74
+- Aggression, heart problems and, 102
+- Aging,
+- multiple personality and, 99
+- Aharonov. Yakir, 43
+- Aharonov-Bohm effect, 44
+- AIDS, attitude and, 102
+- Alpert, Richard, 95-96
+- Alzheimer's disease, 116-17
+- Amphetamines, 96
+- Anaximenes of Miletus, 290
+- Anderson, Dana Z., 294
+- Anderson, Robert M., Jr., 61
+- Angels of Mens, 283
+- Angina pectoris, 90-91, 94
+- Animate matter, Bohm'a ideas, 50
+- Anomalons, 140, 159
+- Antibiotics, placebo effect, 96
+- Apparitions, 202-5
+- Araucanian Indian shamans, 187
+- Archaeology, clairvoyants and, 198-200
+- Archetypal images, 60, 71
+- Armies, spectral, 204-5
+- Aspect, Alain, 3, 52-53
+- Aspirin, 91;
+- and heart attacks, 97
+- Associative memory, 21-22
+- Athletic performance, imagery and, 87-S8
+- Attitudes, 102; and health, 118
+- Atwater, Phyllis, 270
+- Augustine, St., 119
+- Auras, 165-84, 202
+- Auriculotherapy, 113-15
+- Aurobindo Ghose, Sri, 263-65
+- Australian shamans, aboriginal, 187, 285, 289, 299-300;
+- afterlife idea. 266
+- Autobiography of a Yogi, Yogananda, 152-53
+- Autosuggestion, stigmata as. 109
+- Avatamsaka Sutra, 290-91
+- Awareness, energy field and, 192
+- Ayahuasca, 187, 266
+- Barrett, William, 142
+- Basketball players, 88
+- Batak people, Indonesia, 220
+- Bede, Venerable, 127, 240
+- Beings of light, 250, 256, 271-74, 302;
+- Sri Aurobindo and, 264;
+	- UFOs, 282-84
+- Bekesy, Georg von, 25, 54
+- Beliefs:
+	- addiction to, 6-7;
+	- health and, 85, 101-10;
+	- and psychic abilities, 204-5;
+	- and reality, 137
+- Bell, John Stewart, 43, 52
+- Benevolence of universe, 250
+- Benson, Herbert, 94-95
+- Bentov, Itzhak, 162
+- Bernadette of Lourdes, 135-36
+- Berabaum, Edwin, 272
+- Bernstein, Nikolai, 28-29
+- Between-life realm, 215-17, 247.
+	- See also Afterlife realm
+- Beyond the Brain, Grof, 59
+- Beyond the Quantum, Talbot, 149,
+- Bible, 222
+- Big Bang theory, 397
+- Bilocation, 160-61
+- Birth control, unconscious, 101
+- Black Elk (Oglala Sioux shaman), 290
+- Blake, William, 50
+- Blind spot, 163
+- Blofeld, John, 287
+- Blood miracles, 113-20, 146-47, 153-54, 159
+- Body:
+	- afterlife state, 246-48;
+	- energy field and, 219;
+	- holographic, 161
+- Body functions, mental control of, 102-4
+- Body reading, 184
+- Body responses, 121
+- Bohm, David, 1-2, 4-5, 31-33, 37-55, 138, 193, 200, 287, 290, 302;
+	- afterlife, 261;
+	- consciousness, 61, 289;
+	- human energy field, 178-79;
+	- implicate order, 84, 288;
+	- near-death realm, 271;
+	- precognition, 212;
+	- psychokinesis, 121-22;
+	- quantum reality, 35
+- Bohr, Niels, 35-37;
+	- Bohm and, 38-39
+- Bonaventura, St., 109
+- Bones, healing of, 106, 107-8, 127-28
+- Bourguignon, Erika, 230
+- Brain, 2, 11-<31, 54, 84;
+	- and consciousness, 160;
+	- energy field and, 192;
+	- image projected outside of, 109-10;
+	- and physical condition, 117-18;
+	- and vision, 163
+- Brain-wave patterns of multiple personality, 76, 77
+- Braun, Bennett, 98, 99
+- Breakthrough to Creativity,
+- Karagulla, 172
+- Brennan, Barbara, 167-69, 184-86, 190
+- Breznitz, Shlomo, 87-88
+- Briggs, John P., 32
+- Brigham, William Tufts, 128
+- Brihadaranyaka Upanishad, 222
+- British Medical Journal, 127
+- Brocq's disease, 105, 108
+- Brody, Jane, 97
+- Brunner, Werner, 103
+- Buddha, 222
+- Buddhism: Tibetan, 221, 287;
+- Zen, 287-88
+- Buffalo Bill, 76-78
+- Caffeine, 96
+- Camisards, 135
+- Can We Explain the Poltergeist, Owen, 149
+- Cancer, 102;
+	- mental imagery and, 83-86
+- Cardiac arrest, and out-of-body experience, 231-33
+- Carr, Audrey,287-88
+- Cassandra (multiple personality), 99-100
+- Castaneda, Carlos, 138, 145, 155-56
+- Causality and Chance in Modern Physics,Bohm, 40
+- Cause-and-effect relationships, 40
+- Cavalier, Jean, 135
+- Cayce, Edgar, 202, 221-22, 299
+- Ceylonese fire-walking ritual, 136
+- Chair tests, 207
+- Chakras, 166, 172, 174, 175, 190, 221
+- Changing Your Destiny, Orser and Zarro, 223
+- Chaotic phenomena, 176-78
+- Chayla, Abbe du, 135
+- Chemical phenomena, anomalous, 293
+- Chemotherapy, side effects, 97
+- Child, Irving L., 6
+- Children:
+	- near-death experiences, 250-51, 253-54;
+	- past-life recall, 217, 218;
+	- Shainberg's view, 74
+- Christian miracles, 108-11
+- Cis-platinum, 94
+- Cities, in afterlife realm, 272-73
+- Clairvoyance, Garrett's description, 208
+- Clairvoyants, and archaeology, 198-200
+- Claris (Camisard leader), 135
+- Clark, Kimberly, 231-32
+- Coggtn, Ruth, 146-47
+- Cohen, Marcus S., 294
+- Coker, Nathan, 136
+- Cold medications, placebo effects, 96
+- Collective memory, LSD and, 68-69
+- Collective unconscious, 60-61, 276, 285, 299;
+	- and UFOs, 278-79, 281, 284
+- Combs, J. A. K., 128
+- Communication:
+	- in afterlife, 258;
+	- faster-than-light, 36-37
+- Composite images, holographic, 71
+- Computer chips, 121
+- Computers, holographic, 294
+- Combo Indians, 266
+- Connectedness, extrasensory, 143-45.
+	- See also Interconnectedness
+- Consciousness, 59, 81;
+	- altered states, 2-3;
+	- Bohm's ideas, 49-50;
+	- collective, 285;
+	- holographic, 235;
+	- nonordinary states, 67-72;
+	- and out-of-body experience, 234;
+	- and psychokinesis, 125-26, 133, 136-38;
+	- and reality, 158-61;
+	- Sri Aurobindo and, 264, 265;
+	- and subatomic particles, 139-46;
+	- universal, 284-85;
+	- views of, 74, 146, 288, 289.
+	- See also Collective unconscious
+- Constantine's army, 283
+- Corbin, Henry, 260
+- Cordero, Tony, 208, 212
+- Cosmos, as hologram, 32-55
+- Cox, William, 216
+- Creation, 189;
+	- of future, 212-13;
+	- myths of, 300;
+	- participation in, 191;
+	- of subatomic particles, 140, 146, 284
+- Creative Visualization, Gawain, 222
+- Crichton, Michael, 174
+- Croiset, Gerard, 199-200, 207
+- Crookall, Robert, 230
+- Crown chakra, 166
+- Cultural beliefs, 101-2
+- Cultural differences in near-death experiences, 256
+- Dajo, Mirin, 103-4
+- Dale, Ralph Alan. 115-16
+- DaSibard, Jean, 52-53
+- Davies. John, 204
+- Davies, Paul, 53, 79, 270
+- Death,
+	- views of, 2, 261
+- Descartes, Rene, 247
+- d'Espagnat, Bernard, 54
+- DeValois, Karen and Russell, 27-28
+- Disease, energy fields and, 188-89
+- Disembodied states, 246-48.
+	- See also Out-of-body experiences
+- Disorder, 44-46
+- Dissipatrve structures, 293
+- Distribution:
+	- of information, 48;
+	- of memory, 13-14, 30;
+	- of vision, 20
+	- Divine intelligence, 285
+	- Doctors: and auras, 171-74;
+	- and drug effectiveness, 92
+- Dogon people, Sudan, 289
+- Dole, George F.. 259
+- Don Juan (Yaqui shaman), 138, 155-56, 160
+- Dorsett, Sybil, 99
+- Dosage, and placebo effects, 91-92
+- Dossey, Larry, 30, 89-90, 197
+- Dreams, 60-65, 182;
+	- information in, 252;
+	- location in, 234;
+	- lucid, 3, 65-66;
+	- and objective reality, SO;
+	- out-of-body experiences and, 272-73;
+	- precogTutive, 205, 209-10;
+	- reality as, 285
+- Dreams of a Spirit-Seer, Kant, 257
+- Dreamtime and Inner Space, Kalweit, 195
+- Drugs, effectiveness of, 94-97, 99
+- Dryer, Carol, 169, 180-83, 186, 192, 284
+- Dubrov, Alexander P., 110, 297-98
+- Dunne, Brenda J., 5, 123-26, 139-40, 146,207
+- Dychtwald, Ken, 57
+- Ear acupuncture, 113-15
+- Egyptian Book of the Dead, 240, 241
+- Eidetic memory, 23-24
+- Einstein, Albert, 35-39, 48
+- Eisenberg, David, 236
+- Eisenbud, Juie, 207 Electromyograms (EMGs), 174-76
+- Electrons, 33-34, 140, 159;
+	- Bohm's ideas, 47, 48, 50, 122;
+	- in plasma, 38
+- Emerson, Norman, 199
+- Emotions, holographic record, 203
+- Empedoeles, 290
+- Energy, in space, Bohm's ideas, 51-52
+- Energy fields, human, 165-93
+- Enfolded order.
+	- See Implicate order
+- Engrams, 11-13
+- Epileptics, brain studies, 12
+- EPR (Einstein-Podolsky-Rosen) paradox, 37
+- ESP. See Extrasensory perception
+- Estebany, Oscar, 172
+- Etheric body, 166. 170, 188-89
+- Evans-Wentz, W. Y., 203-4, 262
+- Evolution, psychic, 299-302
+- Experience, holographic idea, 84
+- Experiments in Distant Influence, Vasiliev, 142
+- Explicate order, 46-48
+- External realities, 24-25
+- Extrasensory perception (ESP), 141-44, 210;
+- dream experiments, 6, 61-^2
+- Eye, blind spot, 163
+- Eyeless sight, 236-37
+- Fahler, J„ 210
+- Fairies, 203-4
+- The Fatry-Faith in Celtic Countries, Evans-Wentz, 204
+- Faith, beliefs and, 107-10
+- Familiar things, recognition of, 22-23
+- Far Journeys, Monroe, 233
+- Faster-than-light communication, 36-37, 53
+- Fasting state, 153-54, 256
+- Fa-Tsang, 291 Feinberg, Leonard, 136
+- Feinstein, Bertram, 191-92
+- Fenske, Elizabeth W., 245-46
+- The Final Choice, Grosso, 276
+- Fingerprint patterns, 117
+- Fire, invulnerability to, 133-36
+- Floyd, Keith, 160
+- Flying dreams, 272-73
+- Food, life without, 153-54
+- Forgetting, 21
+- Forhan, Marcel Louis, 239
+- Form, disembodied, 235, 247-48, 274
+- Fourier, Jean B. J„ 26
+- Fourier transforms, 27-29
+- Fragmentation, 75-76;
+	- Bohm's views, 49.
+	- dreams and, 63;
+	- Sri Aurobindo and, 264-65;
+	- synehronicitiea and, 80
+- France, mass psychokinesis, 128-32
+- Francis of Assisi, St., 108, 109-10
+- Francis of Paula, St, 133
+- Freeman, Walter, 4
+- Free will, 192, 211-13, 217-18
+- Frequency analysis, senses as, 28
+- Frequency domain, reality as, 164-65
+- Fromm, Erich, 182
+- Future:
+	- control of, 220-28;
+	- holographic, 205-13;
+	- out-of-body visits to, 237-38
+- The Future Is Now: The Significance of Precognition, Osborti, 210
+- Future Science, White and Krippner, 165
+- Gabbard, Glen, 230-31
+- Gabor, Dennis, 27, 291
+- Galgani, Gemma, 109
+- Gallup, George, Jr., 244
+- Games Zen Masters Play, Sohl and Carr, 287-88
+- Gardner, Rex, 127-28, 146-17
+- Garfield, Charles A., 88
+- Garrett, Eileen, 200, 208
+- Gawain, Shakti, 222
+- Gerber, Richard, 188-89
+- Globus, Gordon, 138. 160
+- Gnostics, 290
+- God, 285;
+	- creation of universe, 189
+- Goethe, Johann Wolfgang von, 230
+- Gordon, Jim, 273
+- Greek philosophers, 290
+- Green, Celia, 230
+- Gremlin effect, 124
+- Greyson, Bruce, 270
+- Grof, Christina, 72
+- Grof, Stanislav, 2, 59. 66-72, 133, 158, 248
+- Grosso, Michael, 111, 275-76, 281, 299
+- Grosvenor, Donna and Gilbert, 104
+- Habits, universe as, 137
+- Halifax, Joan, 248
+- Hallucinogenic experiences, 60, 266-68
+- Halos, 165.
+	- See also Auras
+- Hammid, Hella, 206-7
+- Hands of Light, Erennan, 169
+- Haraldsson, Erlendur, 150-52, 160-61, 230, 241
+- Harary, Keith, 234, 238
+- Harman, Willis, 294-95, 298
+- Hamer, Michael, 187, 266-68, 284, 298
+- Hauntings, 202-5
+- Hay, Louise L., 222
+- Heading toward Omega, Ring, 299
+- Healers, and auras, 167-68, 172-73
+- Healing:
+	- by kahunas, 221;
+	- miraculous, 107-8, 146-47;
+	- multiple personality and, 99-100;
+	- by psychokinesis, 127-28;
+	- by visualization, 83, 188-89
+- Health, multiple personality and, 97-100.
+	- See also Illness Hearing, sense of, 28 Heaven, 244-48;
+	- Swedenborg's idea, 259
+- Heimholtz, Hermann von, 28
+- Henderson, David K., 171
+- Heraciitus, 290
+- Herbert, Nick, 34
+- Hermes Trisroegistus, 290
+- Hidden order, 45
+- Hierarchies of order,
+	- Bohm's idea, 44-46
+- Higher consciousness, 299
+- Higher sense perception (HSP). 171-72
+- Hill, Barney and Betty, 278
+- Hilton, James, 272
+- Hinduism, 288, 290-91;
+	- creation myth, 300;
+	- and human energy fields, 178, 190
+- A History of the English Church and People, Bede, 240
+- Holodeck, reality as, 158-59
+- Holograms, 1, 14-18, 21, 22, 25-29;
+	- Bohm and, 46-48;
+	- future as, 212; past as, 200-205
+- Holographic Body Assessment, 184
+- Holographic idea, 1-3, 7, 126, 138, 139;
+	- of brain, 11-31, 54;
+	- future of, 292-302;
+	- and near-death experiences, 244-46;
+	- paranormal events and, 5-6;
+	- psychology and, 59-81;
+	- of reality, 144, 211-12;
+	- of universe, 32-55, 234, 285, 286-89
+- Hololeaps, 212
+- Holomovement,
+	- Bohm's idea, 47-49, 50;
+	- habits of, 137;
+	- universe as, 121
+- Holophonic sound, 292-93
+- Holotropic therapy, 72
+- Honorton, Charles, 206
+- Houston, Jean, 222
+- Howtand, Francine, 98
+- Huguenot miracles, 135
+- The Human Encounter with Death, Grof and Halifax, 248
+- Human energy fields, 165-93
+- Hume, David, 131
+- Hunt, Valerie, 174-78, 192, 297
+- Huxley, Aldous, 230
+- Huxley, T. H., 9
+- Hypnosis, 105, 108, 141-44, 297-98;
+	- past life investigations, 224; and
+	- precognition, 210;
+	- and reincarnation, 213-16
+- lamblichus, 222
+- Illness, 89-90, 188-89;
+	- diagnosis from energy field, 167-68, 170-72, 185-86, 187;
+	- imagery and, 86-87
+- Imagery in Healing, Achterberg, 35
+- Imagery techniques, 83-85, 188
+- Images:
+	- from afterlife realm, 274;
+	- in human energy fields, 179-83;
+	- projected outside of htain, 109-10
+- Imaginat realm, 260, 272-73, 280-81
+- Imagination, 84;
+	- Sufis and, 260
+- Immune systems, 112;
+	- attitude and, 102
+- Implicate order, 46-48, 51-52, 178-79, 271;
+	- brain function and, 84;
+	- consciousness and, 50, 61, 74, 136-37;
+	- dreams and, 63;
+	- human energy field and, 188;
+	- human participation, 74;
+	- interference pattern, 164;
+	- transpersonal experiences and, 70
+	- time and, 200-201;
+	- synchronicities and, 79-80;
+	- psychosis and, 63-05;
+	- precognition and, 212;
+- Inanimate matter, Bohm's ideas, 50
+- Indridason, Indridi, 161
+- Inedia, 153-54, 256
+- Information, 21, 121;
+	- extrasensory, 141-44;
+	- from holographic reality. 146;
+	- subatomic particles and, 122;
+	- from transpersonal experiences, 71
+- Ink-in-giycerine device, 44-46
+- Intelligence: of body parts, 186-87;
+- nonhuman, 284-85
+	- Intereonnectedneas, 35-38, 254-55;
+	- Bohm and, 38, 41-44, 47-49;
+	- extrasensory, 143-45;
+	- health and, 89-90;
+	- precognition and, 208;
+	- Sri Aurobindo and, 264-65;
+	- universal, 60-61, 70, 81, 146, 289, 290-91
+- Interference holography, 23
+- Interference patterns, 14-16, 22;
+	- in brain, 20
+- Internal vision, 185-87
+- The Interpretation and Nature of the Psyche. Jung and Pauli, 79
+- Intraholographic leaps, 212
+- Iridology, 116
+- Irwin, Harvey, 230
+- Jahenny, Marie-Julie, 111
+- Jahn, Robert G., 5, 122-26, 139-10, 146, 207;
+	- on reality, 160
+- Jansenist miracles, 128-32
+- Januarius, St, miracle of, 119-20
+- Jivaro Indian shamans, 187
+- Jones, Fowler, 231
+- Josephson, Brian D., 54, 145, 270
+- Jourdain, Eleanor, 226-27
+- Journey to Mian, Castaneda, 155-56
+- Journeys Out of the Body, Monroe, 233
+- Joy, W. Brugh, 173-74
+- Judaic views of reality, 288-89, 290
+- Judgment, in afterlife, 250
+- Jue, Ronald Wong, 184
+- Jung, Carl, 60;
+	- and synchronicity, 76 78-79;
+	- and UFOs, 278
+- Kabbalah, 165, 288-89
+- Kahunas (Hawaiian shamans), 128 133 212, 220-21, 289
+- Kalweit Holger, 195, 266-67, 268
+- Kant lmmanuel, 257
+- Karagulla, Shafica, 171-72, 184
+- Kena Upanishad, 288
+- Khan, Hazrai Inayat, 165, 255 [[Hazrai Inayat Khan]]
+- Kidney transplants, 101-2
+- Klopfer, Bruno, 93-94
+- Knock, Ireland, miracles, 275
+- Knowledge, in afterlife, 251-53, 258, 269, 272-73, 302
+- Koch, Robert, 101
+- Krebiozen, 93-94
+- Krieger, Dolores, 172-73
+- Krippner, Stanley, 165, 206, 208
+- Kubler-Ross, Elisabeth, 168, 239, 241-42
+- Kuleshova, Rosa, 237
+- Kunz, Dora, 172
+- Lame Deer (Lakota shaman), 286
+- Langs, Robert, 95
+- Language of psyche, 182
+- Laser light 14-15
+- Lashley, Karl, 12-13, 18
+- Lawlis, G. Frank, 87
+- Lawrence, D. H., 230
+- Layers of aura, 166, 188-90
+- Learned skill transference, 24
+- Learning, 13; physical, 29-30
+- Legends, Strindberg, 238
+- Leibniz, Gottfried Wilhelm, 291
+- LeShan, Lawrence, 200
+- Levenson, Edgar A., 72-73
+- Leviton, Richard, 116
+- Libet Benjamin, 191-92
+- Life:
+	- Bohm's ideas, 50;
+	- purpose of, 302
+- Life after Life, Moody, 239, 254
+- Life at Death, Ring, 229, 244
+- Life plans, 253-55
+- life review, in near-death experiences,241, 248-53;
+	- Swedenborg's account, 258
+- Linton, Harriet 95
+- Little Man in the Ear, 113-15
+- Location, 41-13; of hologram,25
+- Lombroso, Cesare, 236-37
+- London, Jack, 230
+- Looking Glass Universe, Briggs and Peat, 32
+- Lost Horizon, Hilton, 272
+- Louis XIV, King of France, 135
+- Louis XV, King of France, 129, 131
+- Lourdes, miraculous cures, 106-8
+- Love, importance of, 250-51
+- Love, Medicine, and Miracles, Siegel, 86-87
+- Loye, David, 208, 211-12, 254, 300
+- LSD, 67-70, 95-96
+- Lucid dreams, 3, 65-66, 298
+- Ludlow, Christy, 99
+- Lyttleton, Edith, 209
+- McCallie, David P-, Jr., 95
+- McCarthy, Joseph, 4
+- McDonnell, James S , III, 126
+- McDougall, William, 132
+- McKenna, Terence, 300-301
+- McMullen, George, 199, 202
+- Maimonides, 290
+- Manic-depressive disorder, 64
+- Many Lives, Many Masters, Weiss, 295
+- Marriage, and immune systems, 102
+- Mary, Virgin, appearances, 275-76, 299
+- [[Maslow, Abraham]] , 70
+- Mason, A. A.p 105
+- Mass Dreams of the Future, Snow and Wambach, 224
+- Mass psychokinesis, 128-32
+- Materializations, 147-54
+- Matter, 122, 136;
+	- Bohm's ideas, 51;
+	- consciousness and, 49-50, 264
+- Matthews-Simon ton, Stephanie, 37
+- Meaning, 121;
+	- Bohm's views, 145-46
+- Meditation, and psychokinesis, 226
+- Meier, Carl Alfred, 78-79
+- Memory. 3, 11-14, 17, 21, 30
+- Mental body, healing and, 188-89
+- Mental retardation, cancer and, 86
+- Mephenesm, 96
+- Mermin, N. David, 140
+- Metaconsciousness, 215-17, 250
+- Michelli, Vittorio, 106-8
+- Microsystems, acupuncture, 113-16
+- [[Milarepa]] (Tibetan yogin), 287
+- Mind, 191-93;
+	- afterlife realm, 245-46
+- Miracles, 119-61, 139, 154-55, 158;
+	- healing, 106-8, 146-47
+- Mitchell, Edgar, 223
+- Mitchell, Janet Lee, 233, 237
+- Moberly, Anne, 226-27
+- Modern Miracles: An Investigative Report on Psychic Phenomena Associated with Sathya Sai Baba, Haraldsson, 151-52
+- Mohotty, 104, 108, 136
+- Moler, Gabrielle, 134-35
+- Moniz, Egas, 4
+- Monroe, Robert, 233, 235, 239, 252, 272, 274, 298;
+	- out-of-body experiences, 257
+- Montgeron, Louis-Basile Carre de, 130-31
+- Moody, Raymond A., Jr., 239, 241, 254, 270
+- Morris, Robert, 233-34
+- Morse, Melvin, 242-43
+- Motoyama, Hiroshi, 190
+- Movement, brain and, 28-29, 87-88
+- Multiple personality disorder (MPD), 74-76;
+	- health and, 97-100
+- Murphy, Gardner, 227
+- Muza, Irene, 210
+- The Mystery of the Mind, Penfield, 12
+- The Mystical Life, Whiteman, 235
+- Mysticism, 63, 165, 176;
+	- Tibetan, 221
+- Myths, 60, 182;
+	- UFOs and, 278-81
+- Naegeli-Osjord, Hans, 103—4
+- Naples, San Gennaro miracle, 119-20
+- National Geographic, 104, 136
+- Near-death experiences (NDEs), 2, 239-62, 265-66, 299, 301;
+	- effects of, 268-73;
+	- science and, 297
+- Neumann, Therese, 110, 120-21, 153-54, 165,256
+- Neurons, 20;
+	- response of, 31
+- Neuropeptides, 112
+- Neurophysiology, 3
+- Neurosis of universe, matter as, 137
+- Neutrinos, 140
+- New York Herald, 136
+- New York Times Magazine, 126 Nogier, Paul,
+- 112
+- Nonhuman intelligences, LSD and, 69
+- Nonlocality, 41-44, 53, 79, 122; of
+- consciousness, 234; of human energy
+- field, 169, 179; of reality, 47-48, 261;
+- of retrucognition, 201-2; of universe,
+- 290,291 Nonmanifest order, 45
+- Nonordinary consciousness states,
+- 67-72 Nonphysical beings. See Beings of
+- light Nontraditional medical remedies, 90
+- Nuclear arms race, 74
+- OBEs. See Out-of-body experiences
+- Objective reality, 80-81,145 Objectivity,
+- scientific, 297-98 Objects, consciousness
+- of, 146 Observation, subatomic particles
+- and,
+- 35-36 Oglala Sioux medicine man,
+- 290 Ojibway Indians, 220 Oleson,
+- Terry, 113-15 Omnijective universe,
+- 279-85
+- On Yoga, Sri Aurobindo Ghose, 264
+- Oppenheimer, Robert, 4
+- Order, Bohm's ideas, 44-46
+- Organ transplants, 101-2
+- Orser, Mary, 223
+- Osbom. Arthur, 210
+- Osis, Karlis, 152, 210, 233, 237-38, 241
+- Osmic frequencies, 28
+- Ossowiecki, Stefan, 198-99, 202
+- Other-world Journeys, Zaleski, 240
+- Out-of-body experiences (OBEs), 230-39,
+- 257, 260, 272-73, 296, 298
+- Owen, A. R. G-, 149
+- Pain, sensation of, 25 Palmistry, 116-17
+- Parallel universes, 66, 211, 254
+- Parapsychology, science and, 5-6 Paris,
+- Francois de, 128-31 Participatory science,
+- 297-98 Particles. See Subatomic particles
+- Passport to Magonia, Vallee, 278-80 Past
+- change of, 225-26; as hologram,
+- 200-205; visits to, 226-28, 238 Past-life
+- investigations, 224-25 Patterns of
+- interference, 14-16, 22; in
+- brain, 20 Pauli, Wolfgang, 79, 124, 140
+- Peak Performance: Mental Training
+- Techniques of the World's Greatest
+- Athletes, Garfield, 88 PEAR. See
+- Princeton Engineering
+- Anomalies Research laboratory Peat, F.
+- David, 3, 32, 79-81, 137 Pecci, Ernest, 184
+- Pell, Claiborne, 270 Penfield, Wilder, 12,
+- 171 Penrose, Roger, 54 Pentecostals, fire
+- immunity, 136 Perception, 3, 141-44;
+- out-of-body,
+- 239 Personal flashforwards, 253-54
+- Personal resonance, 61 Pert, Candace, 112,
+- 270-71, 273 Phantasms of the Living, 202
+- Phantom limb sensations, 25-26 Philippine
+- psychic healers, 126-27 Phillips, Robert A.,
+- Jr., 99 Philo Judaeus, 290 Philosophical
+- Essays, Hume, 131 Photographic memory,
+- 23-24 Photons, polarization of, 36 The
+- Physical Phenomena of
+- Mysticism, Thurston, 109, 133, 154,
+- 165 Physical responses to meaning, 121
+- Physicists, and quantum physics,
+- 139-40
+- Physics laws, as habits of universe l^i Physiological effects of mental iraaie 84-85 uuage,
+- Pietsch, Paul, 26
+- Pinball experiments, 123-24
+- Pio, Padre, 110, 111
+- PK. See Psychokinesis
+- Placebo effects, 90-97
+- Planes of being, Sufi idea, 221
+- Plasma, 38, 50, 122
+- Plasmons, 38
+- Plato, 240, 241, 290
+- Podolsky, Boris, 36
+- Polarization, 36
+- Pollen, Daniel, 23
+- Poltergeists, 148-50
+- Poniatowski, Stanislaw, 198-99
+- Positronium, 36, 42, 47
+- Positrons, 36
+- The Possible Human, Houston, 222
+- Potential futures, 225
+- Practical Astral Projection, Forhan,
+- 239 Prebirth memories, LSD and, 67-68
+- Precognition, 69, 205-13, 238, 253-54
+- Predetermination, 211, 215-18, 253-55
+- Prefrontal lobotomy, 4 Pregnancy,
+- unconscious prevention, 101 Pribram, Karl,
+- 1-2, 4-5, 54-55, 90, 287;
+- brain studies, 11-14, 18-20, 28-31,
+- 163; and past time, 202; reality
+- viewed by, 31, 138, 164-65
+- Prigogine, Ilya, 293
+- Primitive cultures, precognition, 209-10
+- Princeton Engineering Anomalies
+- Research laboratory (PEAR), 5,
+- 123-26, 142, 207 Proust, Marcel,
+- 21-22 Psi-Healing, Stetter, 104
+- Psyche, 100, 169-71; language of.
+- 182-83. See also Unconscious
+- Psychic ability, 5-6; near-death
+- experience and, 270; of Talbot, 157
+- Psychic healers, Philippine, 126-27
+- Psychic information, 252-53 Psychic
+- phenomena, science and, 294-98 Psychics,
+- 176, 185-87, 201-2, 208; and
+- auras, 179-83 Psychoanalysis,
+- Levenson's view, 72-73 Psychokinesis
+- (PK), 120-32, 149; change
+- of past, 226; Sri Aurobindo and, 264
+- Psychology, holographic model, 59-81
+- Psychometry. 146. 198-200
+- Psychoneuroimmurtology, H2, 284
+- Psychosis, and implicate order, 63—65
+- Psychotherapy, LSD and, 67-70 Pushkin,
+- Veniamm N„ 110, 297-98 Puthoff, Harold,
+- 142, 206-7, 208
+- 336 INDEX Index 337
+- Putnam, Frank, 76
+- Pythagoras, 290
+- Quanta, 34, 47
+- Quantum physics, 7-8, 33-37, 53,
+- 139-40 Quantum potential,
+- 39-43 Quantum reality, 34-36
+- Quantum Theory, Bohm, 39
+- Quantum waves, 121-22 Quinn,
+- Janet, 173
+- Racial memories, LSD and, 68-69
+- Random event generator (REG), 123
+- Randomness, 44-46 Rasehke, Carl, 281-82,
+- 299 Reality, 5, 31, 70, 121, 191, 237, 256;
+- afterlife realm, 262-63; consciousness and,
+- 139-46; frequency aspects, 239, 244-45;
+- holographic, 11, 144-45, 211-12, 285;
+- implicate level, 271; miracles and, 154;
+- near-death experience and, 265-66;
+- participation in, 191; psychosis and, 63-64;
+- quantum, 34-35; subquantum, 47-48;
+- synchro nici ties and, 79-31; views of, 133,
+- 138, 146, 157-61, 164-65, 270, 287-91,
+- 300-301; Bohm's views, 46-48, 84; Jahn's
+- views, 125-26; Pribram's views, 54-55; Sn
+- Aurobindo's vie WE. 265; Sufi views, 221,
+- 261; Swedenborg's views, 259 Reality
+- fields, 159-60; hypnotic, 144-45
+- Recognition holography, 22-23
+- Recollection, 21
+- Recording, holographic, 292-93
+- Recovering the Soul, Dossey, 197
+- Reflexology, 116
+- Reincarnation, 213-23, 224-25, 295
+- Relatively independent subtotalities, 49
+- Relativity, Einstein's theory, 48 Religion,
+- 137, 269; health and, 107-10;
+- Sri Aurobindo and, 265 Religious visions,
+- 60, 182 Remote viewing, 142, 145, 206-8
+- The Republic, Plato, 240, 241 Resonance:
+- between consciousness and reality, 125; of
+- meaning, 122, 145-46; therapeutic, 73
+- Restate, Richard, 30 Retrocognition,
+- 199-202, 238 Rhine, Louisa, 205-6, 209,
+- 296 Rich, Beatrice, 179-80, 181, 201
+- Richardson, Alan, 83 Ring, Kenneth, 2,
+- 229, 244-46, 253,
+- 269-70, 280, 299 Roger, Gerard,
+- 52-53 Rogo, D. Scott, 10S, 120, 159,
+- 276
+- Rohrlich, Fritz, 139
+- Rojcewicz, Peter M., 280
+- Rosen, Nathan, 36 Russell,
+- George, 273
+- Sabom, Michael B., 232-33
+- Sai Baba, Sathya, 150-52, 160-61, 165,
+- 256 Salamanders, brain studies. 26
+- San Gennaro, miracle of, 119-20
+- Schaya, Leo, 288-B9 Schizophrenia,
+- 64 Schlitz, Marilyn, 225-26 Schmidt,
+- Helmut, 206, 225-26 Schwartz,
+- Stephan A., 200 Schwarz, Berthold,
+- 136 Schwarz, Jack, 102-3 Science,
+- 5-6; basic restructuring,
+- 294-98; and near-death experiences,
+- 244 Scientific American, 104 The
+- Secret Vaults of Time, Schwartz,
+- 200 Seidl (medical doctor), 153 Self:
+- as hologram, 76; reality of, 55
+- Self-reference cosmology, 284 Senses,
+- holographic function, 28 Shadrach,
+- Meshach, and Abednego,
+- 133 Shainberg, David, 73-74 Shamans,
+- 187, 266-67, 289; Hawaiian,
+- 128, 133; Indonesian, 154-55; Yaqui
+- Indian, 138, 155-56 Shapeshifting, 47
+- Sharon, Douglas, 289 Shiels, Dean, 230
+- Shimony, Abner, 53-54 Shu/fiebrain,
+- Pietsch, 26 Side effects of placebos,
+- 96-97 Siegel, Bernie S„ 6, 86-57, 168
+- Simonton, 0, Carl, 82-84, 87 Smell, sense
+- of, 28 Smolin, Lee, 53 Snow, Chet B.,
+- 224 Sobel, David, 92 Sohl, Robert,
+- 287-88 Sohrawardj, 261 Solimani,
+- Giovanna Maria, 110 Soma-significant
+- diseases, 87 Sonnet. Marie, 134-35 Soul,
+- questions of, 213-23 Sound, holographic,
+- 292-93 Soviet Union; and holographic
+- idea,
+- 110-11; imagery by athletes, 88 Space,
+- 51-52, 229-30; and near-death
+- experiences, 245 Spacelessness,
+- 229-30 Spirit journeys, shatnanic,
+- 265-68
+- Spirit realm, 271. See also Afterlife
+- realm Spirituality, religion and, 269
+- Spontaneous past-life recall, 217 Stalking
+- the Wild Pendulum, Bentov,
+- 162 Star Trek The Next Generation, 158
+- Steinsalte, Rabbi, 222 Stelter, Alfred, 104
+- Stevenson, Ian, 217-19, 296 Stigmata,
+- 108-11, 120-21, 153-54, 188 Stress, health
+- and, 102 Strieber, Whitley, 280-81, 284,
+- 299, 300 Strindberg, August, 230, 238
+- Subatomic events, interconnectedness
+- of, 35-38; Bohm and, 38, 41M4
+- Subatomic particles, 3, 33-37, 121-22,
+- 139-46, 159, 284 Subquantum reality,
+- 47-48 Subtle bodies, 166 Subtle energy
+- fields, universal, 190 Subtle matter, Persian
+- Sufis and, 260 Sufis, Persian, 221, 260-61,
+- 290 Sullivan, Robert, 248 Surgery: on
+- brain, 12, 13-14, 18-19;
+- placebo effect, 90-91 Svetasvatara
+- Upanlshad, 288 Swann, Ingo, 212 Swann Is
+- Way, Proust, 21-22 Swedenborg, Emanuel,
+- 183, 257-59, 272,
+- 301 Symbolism, psychic, 255
+- Synchronicities, 3, 76-80, 107n, 189
+- Synehronicity; The Bridge Between
+- Matter and Mind, Peat, 3
+- Talbot, Michael, 7, 76-78, 155-157, 160;
+- and auras, 165-67, 180-81; dreams of,
+- 272-73n; outof-body experience of, 231;
+- and poltergeists, 149-50
+- Tanous, Alex, 237-38
+- Tantras, 190
+- Tantric mystics, 221
+- Targ, Russell, 142, 206-7, 208
+- Tart, Charles, 143-44, 233
+- Taste, sense of, 28
+- Telepathy, Bohm's views, 145
+- Tenhaeff, W. H. C, 199
+- Teresa of Avila, St, 111
+- Theories, Bohm and, 53
+- Therapeutic touch, 173
+- Therapy, holotropic, 72
+- Thero, E. Nandisvara Nayake, 266
+- Tkirteen-Petaled Rose, Steinsaltz, 222
+- Thomas, Lewis, 91
+- Thomas of Celano, 109-10
+- Thought, 220-22; and energy fields, 189;
+- holographic model, 72-74; meaning
+- and, 121; and neardeath experience,
+- 245-46 Three-dimensionality of
+- holograms
+- 15-17 Thurston, Herbert. 109, 120, 133,
+- 154
+- 165 Tia (Indonesian shaman), 154-55
+- Tibetan Book of the Dead, 240, 241, 285
+- Tibetan Buddhism, 221, 287 Tiller,
+- William, 158, 189 Time: holographic idea,
+- 200-201; and
+- near-death experiences, 245; and
+- out-of-body experiences, 237-38;
+- travel in, 226-28 Titanic, sinking of, 211
+- Touch, sense of, 28 Tractenberg, Michael,
+- 23 Transcendental experiences, 165
+- Transpersonal phenomena, 70-71 Trauma,
+- Trance and Transformation,
+- 213-14 Treatise of Auriculotherapy,
+- Nogier,
+- 112 Trobriand Islands, birth control, 101
+- Tuberculosis, 101 Twemlow, Stuart, 231
+- Two-particle experiment, 36-37, 52-53
+- UFOs, 276-84, 299 Uilman,
+- Montague, 61-65, 206 Ulnar loop
+- fingerprints, 116-17 Umbrella
+- incident, 155-57 Unconscious, 158,
+- 182-83, 192;
+- collective, 60-61, 276; and destiny,
+- 216-22; placebo effects, 91; and
+- UFOs, 278-79, 281, 284 Universe:
+- benevolence of, 250; as
+- energy field, 189; as holodeck, 159;
+- holographic, 1-3, 265; and out-of-body
+- experience, 234; parallel, 254;
+- predetermination of, 211-12
+- Valkhoff, Marius, 199
+- Vallee, Jacques, 277-80, 282, 299
+- van Heerden, Pieter, 22
+- Vasiliev, Leonid, 142
+- La Verite des Miracles, Montgeron,
+- 130-31 Veronica Giuliana, St, 110-11
+- Virgin Mary, visitations by, 275-76, 299
+- Virtual images, dreams as, 65-66 Vision:
+- eyeless, 236-37; holographic,
+- 18-20, 27, 163-93 Visual centers of brain,
+- 18-20 Visualization: control of future,
+- 221-23;
+- healing, 83, 188-89; Sufis and, 260
+- Visvasara Tantra, 290 Voltaire, 131
+- 338 INDEX
+- von Neumann, John, 21
+- Vortices of thought, 73-74
+- Wambach, Helen, 224
+- Warts, placebos for, 91
+- Watson, Lyall, 126-27, 138, 147-18,
+- 154-55 Wave patterns, interference,
+- 14-16 Waves, subatomic particles as, 33-34
+- Weeping Madonnas, 154 Weiant, Clarence
+- W„ 200 Weinreb, Herman, 116-17 Weiss,
+- Brian L, 294 Wheeler, John, 284 White,
+- John, 165 Whiteman, J. H. M., 235 Whiting,
+- Christine, 238 Whitman, Walt, 82, 118
+- Whitton, Joel, 213-16, 247, 250, 255,
+- 271,295 Wholeness, 41,48-49; Sri
+- Aurobindo and,
+- 264-65. See also Interconnectedness
+- Wholeness and the implicate Order,
+- Bohra, 46 Wilbur,
+- Cornelia, 99
+- Wilfrid, St. 127-28
+- Will power, and body functions, 102-4
+- Wisdom, In dreams, 62-63
+- Wissen, K. R., 135
+- Wizard of the Four Winds: A
+- Shaman's Story, Sharon, 289 Wolf,
+- Fred Alan, 3, 65-66 Wood, Frank, 30
+- Woodroffe, John, 288 "World-out-there"
+- constructions, 24-25
+- X-ray vision, 184-87
+- Yeats, William Butler, 203
+- Yoga, 262-65
+- Yogananda, Pararaahansa, 152-53,
+- You Can Heal Your Life, Hay, 222
+- Yukteswar Giri, Sri, 262
+- Zaleski, Carol, 240 Zarro, Richard
+- A., 223 Zeitoun, Egypt, miracles,
+- 275-76 Zen Buddhism, 287-88
+- Zuecarelli, Hugo, 292-93

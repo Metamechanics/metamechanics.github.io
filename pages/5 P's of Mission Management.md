@@ -1,0 +1,22 @@
+-
+- Process
+  How do I execute?
+	- Hard time blocking
+	- One thing at a time
+- Plan
+	- What's next in the queue?
+	- What's the queue for?
+- Preparation
+	- What hurdles can I remove?
+	- What needs to be done ahead of time?
+	- Clothes for exercise
+	- Ingredients for cooking
+- Priorities
+	- What's important?
+	- What's timely?
+	- What's powerful?
+- Prayer
+	- What voice am I listening to?
+	- What is my real & ultimate goal?
+	- Metamechanic as spiritual practice
+	- Be of service

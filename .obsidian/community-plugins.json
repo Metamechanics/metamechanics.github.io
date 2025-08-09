@@ -1,4 +1,12 @@
 [
+  "dataview",
   "obsidian-outliner",
-  "obsidian-zoom"
+  "breadcrumbs",
+  "table-editor-obsidian",
+  "media-extended",
+  "smart-connections",
+  "metadata-menu",
+  "obsidian-transcription",
+  "juggl",
+  "obsidian-argdown-plugin"
 ]

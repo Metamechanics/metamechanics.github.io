@@ -1,0 +1,1 @@
+	Enough For All: so that more may be more and have more.

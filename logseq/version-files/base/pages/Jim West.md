@@ -1,0 +1,3 @@
+- #author #book [[Virology vs Toxicology]]
+	- [DDT/Polio: Virology vs Toxicology eBook : West, Jim: Amazon.com.au: Kindle Store](https://www.amazon.com.au/DDT-Polio-Virology-vs-Toxicology-ebook/dp/B00KC7QWEO)
+-

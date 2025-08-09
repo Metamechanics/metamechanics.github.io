@@ -1,0 +1,8 @@
+alias::
+author:: [[Jimena Canales]] 
+publication-year::
+tags:: book, reference, [[Albert Einstein]], [[Henri Bergson]] #toRead 
+project:: [[X-Science]] 
+public:: true
+- [The Physicist and the Philosopher: Einstein, Bergson, and the Debate That Changed Our Understanding of Time: Canales, Jimena: 9780691165349: Amazon.com: Books](https://www.amazon.com/Physicist-Philosopher-Einstein-Bergson-Understanding/dp/0691165343/ref=sr_1_fkmr0_1?ie=UTF8&qid=1417740782&sr=8-1-fkmr0&keywords=%22Jimena+Canales%22)
+-

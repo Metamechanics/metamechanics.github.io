@@ -1,0 +1,2085 @@
+tags:: #toEdit, #old-notes,
+
+-
+-
+- EFA exists primarily for two reasons:
+  collapsed:: true
+	- One, there is no one entry point to conveniently access the wealth of excellent data on the full spectrum and ladder of scarcity and supply.
+	- Two, despite significant advancements in material prosperity for some parts of the world in recent generations, no one model has adequately addressed the overarching issue, thus begging fundamental questions and a review of conventional wisdom.
+	- Thirdly, no current or recent enterprise (to the best of our knowledge) has unified data and models around poverty, abundance, development into a single, sense-making narrative for deeper comprehension and more effective action.
+- EFA started with the fundamental question “Is there enough for all?”. From high-quality raw data and (somewhat) first principles, it seeks to reframe the discussion around poverty and plenty and expand it well beyond rote regurgitation of economic theory to illuminate some roots and remedies to scarcity. This primary question generates further driving questions which are addressed in due course.
+- It takes few pre-determined positions on these questions other than
+	- a) everyone/everything lacks something
+	- b) this exercise is worthwhile investigating, and
+	- c) data and compelling commentary already exists to address the questions.
+- EFA seeks to draw on this existing, high-quality though disparate data and rigorous though isolated research, and weave it into a coherent narrative thus hoping to make sense of impoverishment and scarcity, and inspire hope and action.
+- With the overwhelming nature of the issues and the data, EFA seeks to simplify the debate by using specific tools and techniques, particularly data visualizations and consequential logic pathways, allowing for easier intellectual digestibility.
+- Thus, EFA is targeted at novices, economics ignorami and the generally interested as much as development specialists, subject matter experts, the economically erudite, dataviz geeks. We seek the curious and the compassionate.
+-
+-
+- EFA relies on data here sourced from authoritative research. We presuppose sufficient data has been collected already to inform a sufficiently rigorous conclusion. Assumptions and premises are critiqued where appropriate. However, we also consider debate based around conflicting data and debate emerging from a data set. EFA is open to to re-interpret and reframe based on more recent data and analyses, also reserving the position to be informed by grand patterns, meta-narratives, universal wisdom, intuitions and common sense.
+-
+- Enough of what? Everything? Or just some things?
+	- There are some universals, applicable to everyone, and there are some specifics. EFA focuses on universals over specifics. For example, not everyone wants, needs or should have a Ferrari. But everyone does want/need mobility and transport. EFA would take a “mobility” rather than a “preferred luxury car” focus. (Specifically, in this case, “everyone having their own individual car” may be an impossible or unwise situation. “Everyone having immediate access to comfortable transport” may be more realistic.) The specific form of what is important will vary over space-time.
+-
+- What does the data say? Whose data is it? What assumptions are made? What biases are inherent? What is an alternative interpretation of the data?
+	- “Lies, damned lies and statistics.” (Benjamin Disraeli) EFA bases its conclusions on authoritative data but assumes the position that data is not impartial and represents bias and/or selectivity at some level. Data type and quality is determined by method. Where possible multiple, independent sources are cited.
+-
+- If there is enough for all at a top-level, why do some go hungry, malnourished, impoverished? Why do some at the lower levels (geographically, socially, economically etc) not have enough? Why are some homeless, landless and materially insecure?
+	- Exaggerated inequalities and differences often exist within a particular group, between different levels or sub-groups. Reasons for this may be overt or covert, environmental or internal, physical, cultural or ideological, or any number of reasons. However, EFA suspects that these seemingly disparate reasons are interconnected and underpinned by deeper structures, values and mechanisms.
+-
+- For those with the basics, why are so many unhappy, unhealthy, unhelpful, unholy? Why are so many depressed, addicted, overdosing and suicidal?
+	- Modern, industrial, “successful” economies have a comparatively disproportionate high rate of mental health issues. Conventional sufficiency-seeking strategies are obviously inadequate. We must get clear on what is worth seeking, how much so, and how to go about it.
+-
+- If, at the top-level, there is not enough for all then why not? Is it universal law, a fact of nature, systemic failure, intentionally manufactured so, carelessness, other?
+	- EFA intuits that there is, or could be, enough of enough things to live outrageously well. (Now, define “well”. That is another discussion which EFA won’t shy from.) EFA will attempt to investigate the perspectives, lenses, back-stories and un-articulated factors inherent in an issue.
+-
+- Is the world intrinsically for the have’s, the have-not’s and have more’s? Does anyone espouse this? Who?
+	- Again, EFA takes the stance that is not the case, otherwise we wouldn’t be in operation to begin with. But some may adopt this position. They may be in positions of significant power and influence. They may not publicise their positions. Yet they may be discontent. They may be open to eye-opening. They may see benefit in alternatives. Others will not, and ridicule this endeavour. EFA is obviously not for them…yet.
+-
+- How can we ensure that everyone has enough of everything? What tools, systems and policies? Do they exist already? Are they adequately utilised? Over-utilised?
+	- EFA suspects that all of the above are true. Some fantastic solutions have existed for millennia. Some need developing. Some are used appropriately, some inappropriately, some rejected, some repressed. Same for future technologies. EFA takes a MacroScientific and MetaTechnological approach: it is the Technologies of Mind which must be ultimately developed to best employ mundane systems.
+-
+- How much is enough? Who says? What determines?
+	- Again, we’ll let the data and research do the talking, with the assumption that much has already been collected to form a reasonable answer to the question.
+-
+- Should we attempt to ensure everyone has enough? Is there a moral imperative? A spiritual duty? An altruistic feel-good factor? An economic advantage? Would everyone benefit from everyone else having enough? Do some have to suffer for others to prosper?
+	- Many may arrive at the same destination but via different paths. Along the way we may appreciate each other path. EFA suspects that there is probably a definite material and economic advantage to universal sufficiency but also that it must be approached correctly. And we are not so naive to assume it will happen any time soon, if ever. However that does not warrant inaction, avoidance or apathy.
+-
+- When we are looking for ‘enough’, what are we really looking for? What do we really want?
+	- Well, this is not rocket surgery. If one looks a little closely at each of our endeavours and their chain of purpose, each arrives at a destination of desired feeling or sensation. Fulfilment, contentment, security, excitement, stimulation, status, recognition, belonging, growth etc and even the ‘negative’ emotions of guilt and shame are the ultimate goals we desire from eating, sleeping, striving, avoiding, fighting, learning… We are all looking for MORE, which in its ultimate expression is The Infinite. Unfortunately, most states have finite constraints. The problem lies in trying to seek the Limitless in over-consumption of sources  limited in their range of efficacy: alcohol, sex, trophies, righteousness…you get the idea.
+-
+- EFA hypotheses and intuitions are also summarised here.
+-
+-
+-
+- Ultimately in Enough For All, we will privelige a certain approach to framing issues, problems and therefore solutions
+- What is this approach?
+- Probably inspired by ACIM
+- Maybe CLA and other critical analysis tools will come into play
+- What are these other tools?
+- I can find ideas rooted in political ideology
+- Spiral Dynamics/AQAL
+- Futures Studies
+- Critical philosophical theory
+- Various approaches should be considered. After all, we are exploring. We are seeking to include and embrace, rather than a priori have predispositions to solution methods and options
+- In fact, the CYOA various-pathway-approach is desirable for this reason as it allows assumptions and preferences about problem roots to be made, and their consequences to be followed.
+- That is, the state of A is this. Why? Well, is it A [click here]. Is it B? [click here] etc. Is it C? [click here] etc.
+- General notes on theory
+- “Enough” = generating more/acquiring more + requiring less/relying on less + less waste
+- Some things we can create more of. Other things are finite. Eg. Land, water
+- Trying to look for abundnce in finite resources is misguided madness. The finite is, by definition, limited and scarce. Material resources are finite. Therefore, abundance is only really found in the Infinite.
+- Question: “What is Infinite?” Answer: Ideas are Infinite. Mind is Infinte. God is the Infinite Idea.
+- We misuse resources and create insufficiency by misidentifying/misdirecting our source of power and abundance. “Looking for love in all the wrong places” We’re trying to satisfy the Infinite through the finite.  Note on minimum requirements and standards for living I cannot set the minimums. I can merely show what is possible, currently available, previously available etc.  Is there actually enough for all? I am starting to wonder... What if waste is not of a quantity sufficient enough to cover the lack? Then we have to redirect resources, use resources more efficiently and alter lifestyles.  The premise/thesis of EFA is that excess and inefficient and inappropriate resource usage is a result of looking in the wrong place (ie. To that particular resource) for salvation, satisfaction, fulfilment.  Maslow’s assertion: “Self-actualization” happens only after fulfilment of other tiers. It represents the path generally taken by humans. But is it really back to front?  EFA may not provide solutions directly, but it does identify the problem. By not providing too many solutions, it opens up for suggestions  While there is a belief in lack and scarcity, there will be power struggles to control the seeming source of life.  Current economic systems don’t address (or even acknowledge): The idea there is a belief in lack The location of the lack The way to remedy the lack (it simply moves the lack around in time and place)  In fact, current economic systems rely on lack for their operation. It is a building block.  All poverty is power poverty: physical power, authority, metaphysical  Solutions sections Discuss macro-solution principles (a lead-in to universal principles, macroenergetics) State summarily the problem resolution approach ie. Reverse of part 1 Form v Content Integral CLA Prout Currency Exchange Tax (a specific example) Discuss some specific attempts
+- Enough of what? And for who?
+	- Enough of what? And for who? Everyone lacks. Everyone everywhere is lacking something. For much of the world (we’ll get into some detail shortly) it may be the basic material requirements in life: sufficient food, clean water, adequate housing, warm clothing. It may be other intangible but equally fundamental freedoms from imprisonment, oppression, discrimination, persecution, enslavement and torture. Yet for affluent members of the industrialised world, lack is glaringly obvious as well. You don’t need to look too hard to find lack of genuine love, peace of mind, joy, kindness & compassion, inner security and fulfillment. These characteristics are rare. Where they exist, their limits are also readily apparent. Everyone everywhere is lacking something.
+- Thesis and Hypotheses
+	- There is enough for all. Actually, there is more than enough for all. And furthermore, there is more than enough for all at a “sophisticated” level.
+	- Insufficiency arises, however, through confusing levels – by tapping the wrong sources for supply. Insufficiency is created out of abundance through this confusion.  Satisfaction at a particular level is reached. No further satisfaction can be attained from this source-level. However, as a result of the confusion of levels and sources, this source is further tapped in an attempt to satisfy, resulting in dis-satisfaction and scarcity.   We are all looking for God but we are looking in the wrong place.  Everyone is poor. Everyone suffers from a lack of something: food, safety, money, physical health, mental health, love, peace. Everyone suffers fear, confusion, judgment, anger ie a lack of peace, joy and abundance.  Everyone is rich. Everyone contains within them the Source of All.   Everyone is rich, but we don’t know it. We can’t access a bank account we don’t know we have. [True stories: those who die with bank accounts they never knew they had]  Distribution and Production and Waste These two principles are continually discussed throughout the whole book. Eg. Technology is a way to produce/make more and distribute more.  A book about addiction. A book about health. A book about poverty and true abundance.  Discuss structure of the book I have done my best to tie it together cohesively to create a cogent argument, as well as for easy reading.  Focus countries and regions. Rationale.  Not meant to be comprehensive in detail. Rather, the purpose is to highlight dominant patterns in adequate breadth and necessary depth.  Much literature on: Poverty and development – political and economic focus on a broad scale. Lack of depth, metaphysical undertones. Self-development and “manifesting personal abundance” – pseudo-spiritual focus on a small scale.
+-
+- Central Idea
+	- All investigative work begins with a feeling, at some level, that there is more to the story, there is an alternative, there is a better way.  The feeling or intuition that I have – my thesis, or hypothesis – is that we in the world create poverty out of abundance. We create poverty out of abundance by aggressively and excessively seeking fulfillment from objects outside ourselves.   This has the effect of a) failing to provide fufillment and b) creating lack for ourselves and others through misuse of resources.  Thus, diseases of poverty as well as affluence result.
+- Empty Searching
+- We’re all really seeking security and satisfaction.
+- The Infinite Within.   Call it by whatever name you like: God, Allah, Jehovah, Nirvana, Rama-Brahma-Vishnu, Cosmic Consciousness, The Light, Spirit…it goes by many names. Alternatively, others call it truth, love, reason, the theory of everything, the unified field theory, the meta-theory, the lottery,
+- Whatever you call It though, we are all seeking for that which provides purpose and creates meaning in our lives. However you think of It, we are all seeking for that feeling of love, liberation, security, understanding and satisfaction. That is universal.  Yet you need only read or watch the daily news to realise that we don’t seem to be terribly successful in that quest. You probably only need look as far as your own life to see that sense of security and fulfillment is not there. At least not all the time.  What we can see, if we are honest with ourselves, is a world of scarcity and conflict. It may the lack of food or merely a lack of confidence. It may be conflict between ethnic groups or it may be conflict between two courses of action. It may be external, physical scarcity such as not enough money or it may be the inner emptiness which leads to substance abuse and addiction.   This scarcity and lack, too, is universal, not only in place/space but in time. History is the story of the conquest for more at the expense of others, whether that ‘other’ be other tribes, creeds, races, religious adherents, economic classes, species….basically anyone that is not ‘me’.   This has all been an empty search for love, peace, joy, satisfaction and whatever feel-good, religious or quasi-spiritual term you want to give It. And yet an examination of the present state of affairs shows our efforts have been far from effective.  So…. we’re all looking for peace and true prosperity. And yet very few of us, if any, seem to be finding it.  The empty search goes on…
+- The Fulfilling Spiral
+	- The central intuition and idea of this work is that:  1. We are looking in the wrong place for this source of peace and fulfillment. 2. A more effective Source does exist and is accessible to all.  We seek satisfaction in or through food, chocolate, alcohol, drugs, sex, a particular body image, stimulation from enterntainment media, “fitting in” and many other things which may harm ourselves. We can also seek a sense of satisfaction via things which produce control and power over, or harm of, others: material possessions, intellectual correctness, ideological superiority, torture and murder and the list goes on.  Yet EFA, guided and inspired by many works before it [link] asserts that this pattern is back to front and inside out. The fundamental proposition is that if we first seek love/security/identity within then we will experience enough outside in the world.   Instead of first seeking satisfaction in that object/body/action and ultimately failing (which is the inevitable outcome, even if it takes a long time!), we can connect with something within us that provides genuine, lasting satisfaction as well as inspiration and guidance for acting in the world.  This continual connection and sourcing within ourselves, within our own minds, begins a fulfilling spiral of joy and peace that will effortlessly spread.  This is not only the theory underlying Enough For All but is also probably the reason you and I are here, on this webpage, as well as in this world.
+- Confusion of Problem with Symptoms
+	- Currently problems are seen to be Overpopulation Biodiversity loss, ecological degradation Climate change etc However, these are actually symptoms. They are symptoms of separation.
+- Everyone is poor
+	- Everyone is a “HAVE”.  And everyone is a “have not”
+- The point of EFA is to elucidate the spiritual Source of Life, and recognize it as the Source of Abundance.
+- All resource management methods, all science and technology policy, as is the case with all our systems, strategy, practices and policy…are based on a set of ideas and philosophies
+- Ultimately, they all boil down to one idea from which all policy arises
+- We are all addicts, to something, in some way
+- This is a book about addiction.
+-
+- Currently, and as has been the case for virtually all recorded human history, that idea has been   “I am not enough.  There is not enough". It need not be this way.
+-
+- I, you, we can decide that yes, there is enough, and consequently create policy that demonstrates, re-inforces and multiplies this
+-
+- Targeting effective triggers and solutions through a logical sequence of (in)sufficiency investigation
+- The Enough For All story structure follows a logical if-then questioning route to uncover problems, data, answers and supposed answers.  This way readers can discover  1. Issues and data,   2. attempts at addressing the issue,   3. assumptions and limitations in the data,   4. the layers and perspectives on the issue and its solutions  5. Linkages between complex issues and attempted solutions, and  6. Target trigger points for effective action  An important part of Enough For All is that readers can offer and inject insights and data into the pathway-network, keeping in mind that entry will be scrutinised by the community for novelty, uniqueness, overlap, pre-existence etc. The success of Enough For All relies on this very process.
+- A complex issue made more digestible and visible, and therefore more comprehensible and accessible to more people.
+- Philosophy
+- Complexity is a defensive manoeuver to avoid seeing the problem
+- Perhaps our obsession with complexity is obscuring the problem? Shifting our awareness of the problem? Blinding us to the real problem.
+- EFA will favour graphical methods to illuminate the story of enough over lengthy literary pieces. This allows for easier digestion of big data, wicked problems and complex issues. Visual presentation of data as well as mapping debates and issues helps clarify problems and reveal solutions.
+-
+- [Images of charts and knowledge maps}
+- Using graphic tools, logic, web technology and knowledge mapping
+- Communicating data for easier intellectual digestion
+	- Communicating data for easier intellectual digestion  Simplifying the story so real problems and effective solutions become more apparent.
+- Issue Mapping
+	- Its already been written. The essays, articles, diatribes, rants…   See the flow of arguments and issues, pro’s and con’s, genuine alternatives and cosmetic adjustments.  EFA will visually situate the reader in the grand narrative.
+- Data Visualisation & Infographics
+	- Data Visualisation & Infographics Making complex data digestible and memorable, collated into one accessible location that makes greater sense of it.
+-
+- Visions of Humanity.org, Insitute for Economics and Peace
+- Our World in Data
+- World Resources Institute, Center for Global Development
+-
+-
+- Joining the dots for a coherent image and narrative
+-
+- Researchers have the puzzle pieces, the patchwork squares which present an image. But they are not yet part of a bigger picture or a sensible narrative.
+-
+- Yes, we have an agenda. May we stay true to that as we collaborate with like-minded organisations and individuals, in the face of competing and conflicting messages.
+- Insight. Illumination. Information.
+- A hub for visualised data by problem, topic, region, solution, level. A deep, clear view into complex, layered issues. A map for the maze of muchness.
+- Simple, coherent, engaging, uplifting message
+- Answer the driving questions
+- Communicate succinctly and clearly, using novel techniques
+- Collate, invite, curate, narrate, communicate the story of Enough For All.
+- Create online community data and resource portal
+- To identify "low-hanging fruit" to reduce poverty and inequality.
+- Make clear and obvious the underperformance of certain investments and resource flows.
+- Identify waste areas and amounts
+- Stimulate debate
+- Simplify problem without reductionism
+- Provide an alternative
+- Act as a reminder to both the wealthy and the materially poor
+- Enough For All would like your help. Be it a financial contribution or provision of skills, I am seeking assistance to accelerate and improve the sharing of the message of EFA.  Like many apsiring authors and independent researchers setting out on their quest, I can’t give up my day job just yet. It might be a while before my visions become financially self-sustaining.  This doesn’t stop me for appealing for financial assistance to bring forward this process. If you believe in the message of EFA and its urgency, and are in a position to help, please get in touch. [link]  The ultimate goal of this endeavour is to establish a research/teaching/activist organisation to promote the message laid out in the book and blog. Likewise, it will support other organisations that align with this purpose.  Similarly, I am also seeking assistance with other aspects of the project:   web design and development skills  research-writing,   suggestions of data sources  any other insights
+- Get Involved - Overview
+- EFA seeks to become a collaborative, compassionately critical community. We invite people to get involved in whatever preferred capacity. After all, the story of the world requires the world to (re)write it.
+-
+- : reader, commentator, data contributor, analyst, social media follower, graphic design, IT support, web development, donor or patron.
+- Discipline expertise...with humility and respect for inter-disciplinarity
+- Funding and financial support
+- ICT expertise
+- Moral and other support
+- Like the idea but can’t help out?  No worries. Follow us on twitter. Drop an email. Share with friends.
+- Part 1 ~ 4: The Story
+- Part 1: The State of the World -  Introduction
+- This is Part 1 of the Story of Enough.
+-
+- Here we get a status check of the world system and an overview of (in)sufficiency. Various metrics and diverse sources present snapshots and a synopsis of global health, wealth, peace and prosperity.
+-
+- General prosperity indicators
+- Global development and equality indices
+- Forecasts and predictions of holistic well-being
+- Specific topic and issue data on a global scale
+- Part 1: The State of the World - Overview
+- Enough Indicators - Introduction
+- Enough Indicators - Overview
+- Enough Forecasts - Introduction
+- Enough Forecasts - Overview
+- Enough Topics - Introduction
+- Enough Topics - Overview
+- Special Topics Sections
+- Special Topics Sections (too small for sections but too important to neglect) Alcohol Meat Pets Cars Pharmaceuticals Arms & Weapons Cosmetics Housing Fashion/Clothing Packaging Communications Anti-depressants Suicide Corruption Organized crime Slavery & Trafficking Information vs Knowledge vs Wisdom Piracy (maritime, electronic) Insurance industry Fraud (insurance, benefit/welfare) Computer hacking Black economy Subsidization Agriculture  Cults Adoption Orphans IVF Genetic Engineering & Cloning Intellectual Property Travel (particularly leisure)
+- Part 1 Notes to process, develop and integrate
+- Issue-Problem Data
+- Issue-Problem Data Food, Hunger, Obesity Water Suicide, Anti-depressants, Mental illness War & Conflict, Arms & Weapons, Landmines, Domestic violence Worldwide causes of death Affluent causes of death Drugs, Alcohol & Addiction Slavery, Trafficking, Child labour & Child soldiers Energy, Emissions & Pollution Biodiversity, Extinction, Land quality Waste – e-waste, toxic & nuclear waste, food waste, pollution Equality disparity Time trends – spent on what? Less free time? Plastic Surgery Refugees & Displaced persons Corruption, Organised Crime & Black Economy Cars, traffic, road rage, car accidents Argument in resolving problems eg. climate change
+- 1.1 Enough General Indices
+- Empty Searching: Enough Data
+- Let’s start our investigation into poverty, scarcity and sufficiency by examining the current state of global well-being. How do we measure up as a world?  We’ll begin by looking at general health and well-being indicators before exploring statistics of some specific issues and sectors.
+- General Indices
+- HDI
+- HDI – Energy,
+- HDI – other parameter curves
+- GINI
+- HDI – Suicide/Anti-depressants  Happiness & Well-being indices  MDG’s and report on their progress
+- MDGs & its recent reincarnation
+- The Millennium Development Goals
+- 1. Eradicate extreme poverty and hunger
+- 2. Achieve universal primary education
+- 3. Promote gender equality and empower women
+- 4. Reduce child mortality
+- 5. Improve maternal health
+- 6. Combat HIV/AIDS, Malaria and other diseases
+- 7. Ensure environmental sustainability (energy, water, agriculture)
+- 8. Develop a Global Partnership for Development
+- History
+- History What have been the attempts in history to appease insufficiency/create more? What did they promise?  How well did they work?  What were there attributed reasons of failure?  How did they fail?  How did they succeed?  What were their limitations?
+- Part 2: The Spiral of Satisfaction - Introduction
+- Part 2 of the Story of Enough takes us through increasing levels of abstraction and depth in determining the roots of enough.
+- Enough Stuff begins the Spiral by looking into the essentials of food, water, shelter, clothing, land, energy etc. at a basic level.
+- Enough Tech expands the Spiral into the technologies and systems which amplify basic raw materials and extend capabilities.
+- Enough Ideas then explores the concepts, premises and assumptions embedded in and embodied by these systems and structures.
+- Part 2: The Spiral of Satisfaction - Overview
+- Part 2: The Spiral of Satisfaction Enough Stuff Enough Basic Stuff Enough Food Cereals Vegetables Meat & Dairy, Fish
+- Effect on other kingdoms and their consumption & populations
+- Human waste Garbage, left-overs Excrement Enough Water Cooking and eating Washing Ice caps Rainfall Enough Clothing Enough Shelter/Housing Enough Land Enough space Enough energy Enough materials  Enough Tech Enough Ideas
+- Enough Stuff - Introduction
+- Enough Tech - Introduction
+- Money
+- Money Money can come under Technology. Actually, can it come under both  Devices/tools, as well as Techniques/Info Is money a thing (stuff) or is it more “technology”. That is, a non-tangible tool, like information? Originally it was a thing eg. Shells, gems, gold etc. Now, that is different. Money itself doesn’t have inherent use except to burn as fuel, use as a paper weight, carve etc  It’s the significance/meaning we give to it that is important. Maybe Money is the link between enough stuff and enough technology as it is/was based on gold and rare metals, cattle, salt, beads, shells etc. “The nations’ problems are grounded not just in what we spend money on, but in what kind of money we use?” futurenet.org/article.asp?ID=895 (accessed 24/5/05) Kind of money determines kind of transactions/exchanges “The only way to make a profit is to trade in something that is scarce.” Fastcompany.com/magazine/77/sgodin.html I want now what I may not be able to have in the future. When we realize we do not have something, we desire it. Jesus talks about money in the New Testament more than any other theme (apparently).
+- Technology
+- Technology Technology is an artefact/reflection of material and development Therefore, it is somewhat more “advanced” and could be included higher up in the chapter structure. Money might come under Tech section.  “Medicine” might come under Tech although “Health” wouldn’t.  Technology can be split/divided into 2 areas Machines, devices, software, tools Techniques using the same “old” tools = innovation, as well as the science and theory behind the machines. Therefore, “enough technology” can be spread over “enough stuff” (a) and “enough creativity/info/knowledge/ideas” This chapter starts with “machines and mechanisms as “technology” and transitions to “ideas as technology”, moving from the tangible to the intangible, gross to subtle The whole book’s structure flow is gross to subtle, tangible to intangible
+- Enough Technology
+- Define Technology It has to be a broad definition ie. Not computers, not just machines
+- Note: not “spiritual machines” a la Kurzweil
+- Biotech and Food
+- Technology facilitates/enables a deeper sense of fulfilment and meaning/happiness to be realized more easily, but it does not provide that sense of meaning. (Meaning we give ourselves.) Actually, it can be an illusory pursuit, pursuing the aquisition of technology in order to aquire meaning, rather than obtaining meaning directly through the aid of technology. Tech ultimately ends up providing a mirage of happiness. Tech is not the end, but a means to an end. What is our “end”?
+- Define Technology It has to be a broad definition ie
+- Define Technology It has to be a broad definition ie. Not computers, not just machines
+- Note: not “spiritual machines” a la Kurzweil
+- Note: not “spiritual machines” a la Kurzweil
+-
+- Biotech and Food
+- Biotech and Food
+-
+- Technology facilitates/enables a deeper sense of fulfilment and meaning/happiness to be realized more easily, but it does not provide that sense of meaning
+- Technology facilitates/enables a deeper sense of fulfilment and meaning/happiness to be realized more easily, but it does not provide that sense of meaning. (Meaning we give ourselves.) Actually, it can be an illusory pursuit, pursuing the aquisition of technology in order to aquire meaning, rather than obtaining meaning directly through the aid of technology. Tech ultimately ends up providing a mirage of happiness. Tech is not the end, but a means to an end. What is our “end”?
+- Enough Ideas - Introduction
+- Enough God
+- Enough God Religious aspect = enough diversity of opinion God as Source/infinite abundance/infinte dimension
+- Enough Health
+- Enough Health Enough physical health, psycho-emotional health = enough love Enough Health Care Health/medical care systems, insurance etc Health/medical technology and techniques
+- Part 2 - Notes to be processed, developed and integrated
+- Part A – “Is there enough?”
+- Part A – “Is there enough?”   This section looks at raw data, basic data. For example, it looks at total energy without specifying where that energy is coming from at the moment (ie. Fossil fuels vs renewables vs new energy vs ZPG)   Enough Tools and Technology ie Enough Advanced Stuff This section maybe breaks down “Enough Stuff” into areas, sectors, regions etc. Looks at how the basic stuff is divvied up in time and place.  The means for amplifying production and expanding distribution eg. Money, transport, machines, genetic engineering, The “advanced” version of the above eg “Fashion” vis-a-vis “Clothing” The ways & means of furthering the basic stuff Enough Distribution (= enough movement, enough exchange, enough cycling between area/people/orgs) Enough Production ( = enough generation, enough creation, enough cycling over time) Use water as an example ie. Drought and flooding in same region over time. Water used in industry?? Enough transport Enough Money/Currency Enough Work, Employment Enough Medicine Enough protection/security/safety (inlcude idea of Aliens) Enough government  Enough Simplicity/Complexity – where does this section go? Enough rest  Enough Science Enough Research  Enough Entertainment Enough Play Enough Information Enough Knowledge Enough Intelligence Enough Ideas Enough Faith Enough Time Enough Wisdom Enough Love  Enough Health Health has many aspects. Physical body. Mental. Emotional. Psychological.  Enough God (the pivotal chapter. The link between Part 1 and Part 2. The end of the ascent, the beginning of the descent.)
+- Part 2 – “There is enough!”
+- Part 2 – “There is enough!” Here is how we might meet the lack issues raised in Part 1. Here are some cursory suggestions. May be more of a general discussion of world systems, and the principles required to effect solutions Could be a bit of a critique of historical attempts eg. Communism, socialism... Intro to PROUT, Integral, FRESH alternatives...   Part 2 may include comment on current solution attempts and their shortcomings based on EFA theory. May make suggestions on how they could be improved.  Part 2 makes comments and points which get expanded in later books TFT, B&B, UP’s, GFK  Part 2a On the need for God-focused problem solving. Inspired problem solving. ACIM, Non-dualism. Excerpts from spiritual texts eg. Seek first the Kingdom of Heaven and all shall be given unto you. Believing is seeing rather than seeing is believing.  Freedom from limiting thoughts. Unquestioned assumptions.  Part 2b Comments on attempted solutions. Suggest improvements... Communism Jeffrey Sachs Neo-liberal economics   Part 2c Some suggested alternatives eg. Prout, Integral  Conclusion Afterword and A Note to Impending Critics  “Special Topics” sections. Half pages/full pages, highlighted differently, focusing on special issues of concern eg. Slavery and trafficking, insurance, suicide, arms & weapons
+- Part 3: Harnessing the Source of All - Introduction
+- This third part of the Story of Enough continues the upward spiral to the highest of ideas. We'll call it 'X' though it goes by many names: Spirit, Consciousness, Life, Cosmos, Presence, Being, God...and so on.
+-
+- [In this part more than any we declare our bias and a central thesis: Everyone is ultimately looking for the Infinite, but we are doing so ineffectively. As a result, we have poverty, depression and deprivation.]
+-
+- Enough X explores the diversity of seeking and spiritual practice, particularly religion, comments on efficacy, and explores trans-cultural similarities, commonalities and correlates to worldly measures.
+-
+- re-Source then presents some lesser-known or under-utilised approaches to harnessing the Source of all beyond the world, with a view to ultimately utilising resources more effectively within the world.
+-
+-
+- Part 3: Harnessing the Source of All - Overview
+- Part 3: Seeking the Source of All Enough God re-Source: Harnessing Source for Enough for All Fundamentals & Principles Misconceptions & Myths
+-
+- <p>This third part of the Story of Enough continues the upward spiral of Enough to the highest of ideas. We'll call it 'X' here though it goes by myriad names: Spirit, Consciousness, Life, Cosmos, Meaning, Presence, Being and Purpose...and so on. This X also has the aspect of . In particular we look at God, its pseudonyms, misnomers, symbols, conceptions, mis-conceptions, myth-conceptions.</p>
+-
+- Enough X - Introduction
+- Enough God
+- What is god?
+- Enough Religion
+- What is religion?
+- Enough spirituality
+- What is spirituality
+- Enough love
+- What is love? (No. I think this should be its own chapter. The preceding chapter.) “Love” as defined by ACIM, is the conceptual link to “Enough God” through “limitlessness”  “Enough God” chapter may be a rephrasing, reinterpretation of “love”, “religion” and “spirituality”.  God occurs differently to different people Verticality Horizontality Form of practice and worship Must appeal to various groups whose “god” looks/feels/tastes different.  Everyone is seeking God, mostly unconsciously. The problem may be that  We don’t know that We don’t acknowledge that We don’t explicity, consciously, openly incorporate that into our systems, policy, organization, education etc...  This would be difficult, perhaps, because we don’t know concretely what God is. So, how do you incorporate It? (or rather, how do you incorporate the search for It, or the practice of connecting/communicating with It.) (Thought: It incorporates you.)  EFA is calling for re-interpretation of religion such that all insufficiency themes areno longer attributed to God ie. God does not favour a single people; God does not cause pestilence, disease, famine etc; God does not make the body...  “It is the human change which will transform the society. They are not two separate things.” – Krishnamurti.  “Where there is a division, there is conflict.” K  ACIM Lesson 131: “No one can fail who seeks to reach the truth.”
+- Religious aspect = enough diversity of opinion
+- Religious aspect = enough diversity of opinion
+- God as Source/infinite abundance/infinte dimension
+- God as Source/infinite abundance/infinte dimension
+- re-Source - Introduction
+- Part 4: Inspired Resource Utilisation - Introduction
+- The fourth part of the Story of Enough emphasises how the inner wealth revealed in re-Sourcing can be delivered back down to application in the outer world of insufficiency.
+-
+- Orthodox Solutions examines conventional attempts to alleviate insufficiency. Frameworks are presented which allow critique, identifying shortcomings and offering tweaks to make them more effective.
+-
+- Fresh Alternatives shares strategies, concepts, systems and technologies which demonstrate Inspired Resource Utilisation. Many exist already but are usually ignored, neglected, forgotten or even suppressed.
+-
+-
+- The purpose of the fourth part of the Story of Enough is to deliver the inspiration and inner wealth and wisdom revealed in re-Sourcing back down to application in the outside world of insufficiency.
+-
+- Orthodox solutions examines conventional and traditional strategies to alleviate insufficiency, both in the present and the past. Frameworks are presented which allow constructive critique of these solutions, identifying shortcomings and offering suggestions to make them more effective.
+-
+- Fresh Alternatives shares existing strategies, concepts, systems and technologies of Inspired Resouce Utilisation. Many exist already but are usually ignored, neglected, forgotten or even suppressed. Examples of current applications is discussed. The differences between Orthodox Solutions are explicated.
+-
+-
+- Through Part 2: Spiral of Satisfaction we gained clarity on the status and nature of sufficiency. Part 3: Harnessing the Source for All highlighted our highest attempts to meet the objectives we really seek, and reminds of some lesser-known or under-employed techniques and teachings to truly satisfy our appetites.
+-
+- Now, with insight and inspiration, and without the need for greed, waste and excess, we can
+- Part 4: IRU - Inspired Resource Utilization - Overview
+- IRU general comments
+- Inspired Resource Utilization – General Comments  In this chapter, first mention   Wilber Integral Theory  Other Integral Theory CLA Mythology Spiral Dynamics and other developmental patterns Deepak Chopra – How to know God Outline of Universal Principles  Non-dual metaphysics  Alternative Futures  Attempting to fix the Illusion vs Healing the Dream of Separation
+- Inspired Resource Utilization - General Comments
+- Wilber Integral Theory
+- Other Integral Theory
+- CLA
+- Mythology
+- Spiral Dynamics and other developmental patterns
+- Deepak Chopra – How to know God
+- Outline of Universal Principles
+- Non-dual metaphysics
+- Alternative Futures
+- Attempting to fix the Illusion vs Healing the Dream of Separation
+- Notes on Inspired Possible Solutions
+- (Part 2 – having arrived at the idea that everyone is looking for God, now that we’re there we descend back down through the levels providing solutions...
+- Religious solutions
+- Love solutions
+- Psychotherapy solutions
+- Integral theory
+- Prout
+- CLA
+- Spiral Dynamics?
+- Alternative economic proposals
+- Alternative energy systems
+- Alternative governance
+- Alternative sci-tech
+- Alternative medicine and health
+- Alternative materials
+- Alternative food production
+- Etc Etc  ...however...all the while emphasizing the centrality of God.
+- “Enough God” & Part 2 is basically the fertile ground for my future books:
+- Baby and the Bathwater
+- The Forgotten Technologies
+- ASSoFF
+- The Church of Science
+- Universal Principles/Metamechanics
+- as well being the groundwork for “FRESH Alternatives” and GTAO.
+- EFA is “Adam’s Manifesto”...the world’s introduction to me and my basic, underlying idea. Everything spins off from that.
+- Some existing options
+- Some existing options
+- Fresh Alternatives
+- Fresh Alternatives
+- Prout
+- Prout
+- Integral Practices
+- Integral Practices
+- Economics of Happiness – Charles Eiserstein
+- Economics of Happiness – Charles Eiserstein
+- Natural Capitalism
+- Natural Capitalism
+- A New Kind of Science – Stephen Wolfram
+- A New Kind of Science – Stephen Wolfram
+- Walter Russell
+- Walter Russell
+- Buckminster Fuller
+- Buckminster Fuller
+- James Carter ?
+- James Carter ?
+- Rudolf Steiner ?
+- Rudolf Steiner ?
+- Permaculture
+- Permaculture
+- Venus Project
+- Venus Project
+- Notes on Inspired possible solutions in Part 2
+- Notes on Inspired Possible Solutions  (Part 2 – having arrived at the idea that everyone is looking for God, now that we’re there we descend back down through the levels providing solutions...  Religious solutions Love solutions Psychotherapy solutions Integral theory Prout CLA Spiral Dynamics?  Alternative economic proposals Alternative energy systems Alternative governance Alternative sci-tech Alternative medicine and health  Alternative materials Alternative food production Etc Etc  ...however...all the while emphasizing the centrality of God.   “Enough God” & Part 2 is basically the fertile ground for my future books: Baby and the Bathwater The Forgotten Technologies ASSoFF The Church of Science Universal Principles/Metamechanics   as well being the groundwork for “FRESH Alternatives” and GTAO.  EFA is “Adam’s Manifesto”...the world’s introduction to me and my basic, underlying idea. Everything spins off from that.
+- Orthodox Solutions
+- Critique of Current and Past Solutions General
+- Critique of Current and Past Solutions  Communism Science Socialism Capitalism Free-market Totalitarianism Anarchy Environmentalism  Analysis of these using: CLA Integral NDM  Analogy between common democratic politics and NDM v Traditional metaphysics, in that eg. Labour v Liberal is no real choice at all. Choosing between the same, effectively.  Transformation v Change Genuine Alternatives vs Repackaged, Recycled Failed Systems Fixing Illusions vs Healing the Dream  Determine characteristics of prevailing thought, wrt science and resource policy. Separateness Competition Scarcity Fundamental evil/baseness Absolute right/wrong
+- Critique of Current and Past Solutions
+- Communism
+- Science
+- Socialism
+- Religion
+- Capitalism
+- Free-market
+- Totalitarianism
+- Anarchy
+- Environmentalism
+- Analysis of these using:
+- CLA
+- Integral
+- NDM
+- Analogy between common democratic politics and NDM v Traditional metaphysics, in that eg. Labour v Liberal is no real choice at all. Choosing between the same, effectively.
+- Transformation v Change
+- Genuine Alternatives vs Repackaged, Recycled Failed Systems
+- Fixing Illusions vs Healing the Dream
+- Determine characteristics of prevailing thought, wrt science and resource policy.
+- Separateness
+- Competition
+- Scarcity
+- Fundamental evil/baseness
+- Absolute right/wrong
+- History
+- History What have been the attempts in history to appease insufficiency/create more? What did they promise?  How well did they work?  What were there attributed reasons of failure?  How did they fail?  How did they succeed?  What were their limitations?
+- Critique of Historical Pseudo-Solutions
+- Critique of Historical Pseudo-Solutions
+- Conventional Capitalism
+- Conventional Capitalism
+- Communism
+- Communism
+- Socialism
+- Socialism
+- Welfare and International Aid
+- Welfare and International Aid
+- Mainstream theories of everything
+- Mainstream theories of everything
+- The ‘God’ particle
+- The ‘God’ particle
+- Romantic Naturalism/Gaiaism
+- Romantic Naturalism/Gaiaism
+- Fresh Alternatives
+- Some Suggested Alternatives General
+- Some Suggested Alternatives  (This chapter is the lead-in connection to/for FRESH Alternatives)  PROUT  Alternative economic proposals Alternative energy systems Alternative governance Alternative sci-tech Alternative medicine and health Alternative spirituality Alternative religion Alternative history  Alternative materials Alternative food production Etc Etc  ...however...all the while emphasizing the centrality of God.   “Enough God” & Part 2 is basically the fertile ground for my future books: Baby and the Bathwater (borne out of Enough God?) The Forgotten Technologies (borne out of Alternatives chapter) ASSoFF (borne out of Conclusion?) The Church of Science (borne out of IRU chapter?) Universal Principles/Metamechanics Fresh Alternatives (the book) (borne out of Alternatives chapter) God For Kids (borne out of Enough God) The Ultimate Innovation (borne out of IRU) Harmonic Solutions Clearinghouse (borne out of UP’s and IRU chapter)  as well being the groundwork for “FRESH Alternatives” and GTAO.  EFA is “Adam’s Manifesto”...the world’s introduction to me and my basic, underlying idea. Everything spins off from that.
+- Some suggested alternatives
+- (This chapter is the lead-in connection to/for FRESH Alternatives)
+- PROUT
+- Alternative economic proposals
+- Alternative energy systems
+- Alternative governance
+- Alternative sci-tech
+- Alternative medicine and health
+- Alternative spirituality
+- Alternative religion
+- Alternative history
+- Alternative materials
+- Alternative food production Etc Etc  ...however...all the while emphasizing the centrality of God.
+- “Enough God” & Part 2 is basically the fertile ground for my future books: Baby and the Bathwater (borne out of Enough God?) The Forgotten Technologies (borne out of Alternatives chapter)
+- ASSoFF (borne out of Conclusion?)
+- The Church of Science (borne out of IRU chapter?)
+- Universal Principles/Metamechanics
+- Fresh Alternatives (the book) (borne out of Alternatives chapter)
+- God For Kids (borne out of Enough God)
+- The Ultimate Innovation (borne out of IRU)
+- Harmonic Solutions Clearinghouse (borne out of UP’s and IRU chapter)  as well being the groundwork for “FRESH Alternatives” and GTAO.  EFA is “Adam’s Manifesto”...the world’s introduction to me and my basic, underlying idea. Everything spins off from that.
+- Part 4 - Notes to be processed, developed and integrates
+- EXISTING solutions and EFA
+- EXISTING solutions and EFA
+-
+- EFA incorporates IRU as if IRU were something new. IRU is also recognising existing solutions and overcoming resistance to recognising them and using them.
+-
+- EFA incorporates IRU as if IRU were something new. IRU is also recognising existing solutions and overcoming resistance to recognising them and using them.
+- EFA incorporates IRU as if IRU were something new. IRU is also recognising existing solutions and overcoming resistance to recognising them and using them.
+-
+- Process and Principles
+- Process and Principles
+- Allocating & Manipulating Material Resources
+- Allocating & Manipulating Material Resources
+- Harnessing and Applying Mental Resources
+- Harnessing and Applying Mental Resources
+- Misconceptions
+- Misconceptions Not a call to the miserably poor to pray for food, undertake superstition etc. Rather, a way of leveraging one’s own psychological power to best use material resources.
+- Situation Specific Resource Management
+- Part 5: Afterwords
+- Conclusion
+- Conclusion  Essentially, there is nothing new in this book. What may be new is the packaging: the way the thesis is presented, the data integrated or the message worded. But fundamentally, the underlying message is the same. It has been expounded for millennia by the spiritual traditions of the world and reaffirmed through the painful experience of many who have tried otherwise.  Some data may be fresh, but I did not measure it or discover it. I merely made sense of it. I combined it with other data in a coherent message.  Some may take the same data and arrive at a different conclusion. That is fine. But in doing so I would ask you look at those other conclusions and ask some simple, inter-related questions: Does this conclusion help me? Does this conclusion help the world? Does this resulting idea help me to help the world?  If this idea were extrapolated to its limit, which limit would that be? Would it arrive at peace, prosperity, joy and abundance? Or would it arrive at pain, fear, conflict and protecting insufficiency? Is this conclusion, this resulting idea, really a new idea? Or is it an old wolf in a lamb’s clothing? (Or a lamb that doesn’t know its really a wolf cub?) At its core, its essence, is it a rehash of a failed idea but sufficiently disguised to lure the unsuspecting?   I have said above that the central idea of this book is not new. It is as old as time. It is the perennial philosophy. It is the wisdom which is proven but only when it has been properly tried and tested.    Experience can be a liberating teacher. Yet it can also be a repetitious slave-driver.  “Seek first the kingdom of Heaven, and all shall be given unto you.”
+- Afterword with A Note to impending critics
+- Afterword with A Note to Impending Critics  (Last chapter?)  We always find what we seek.   If you seek controversy you will find it. Yet if you desire peace, you will find that too.  This book is not intended to be gospel.   I call on the contribution of others to improve the ideas herein so that everyone and everything truly has, does and is enough.  Specialists (academics, philosophers, clerics, economists etc) may well decry some, many or all of what has been said here, the causes, definitions, solutions.  “But this flies in the face of macroeconomic theory!” “What does he know?! He is not trained in any of these fields.” “Ha! What nonsense! Religion is still the opiate of the masses and “God” is its label.” “There’s no need for God. Nanotech, biotech, genetech, AI, space colonization...will fix the world’s problems...if only people would listen to the experts.” “This is sacrilege! He defies scripture! He disputes the word of God!” “Nice try, but you don’t use enough big words, quote enough historically important people or reference my work, so.... ciao mate.” “But he forgets this, he omits that, he doesn’t provide enough detail here and too much importance there...”  Yes, I am guilty as charged...but I forgive myself. I hope you will too. In doing so, in forgiving me for my naivety, my simplicity, my laymanship, I hope you will be inspired to complement this work with contributions of your own.    This is not an inherently complex issue. But we, as a whole, choose to make it so. Extra complexification – more jargon and specialist terminology exclusive to the intellectual elite, more niche theories, more specific narrow solutions are not what is required. Simplification is required. Abstraction is required. Generalization is required, that is not black-white and rigid.  The world is tired. The world is dying, and its not a painless death. The old ideas don’t work. We can see that. The tried and tested have been tried and failed, sadly. “New” ideas come along, promising salvation and a brighter future, only to continue the trend: “Enough for me. Poor you.” Time has shown that only works for a while. What goes around comes around, full of ups and downs.  The idea here within is the oldest idea, worded one way as “Seek first the Kingdom of Heaven, and all else shall be given unto you.”  However, in this book, this abstract eternal wisdom, which has been tarnished by millennia of misunderstanding and abuse, is cleaned up repackaged, reinterpreted and recontextualized to do away with the suffering  There have only always been two choices: Begin within, no doubt about  Seek outside, bleak inside
+- 5.1 Conclusion, Summary & Afterword
+- A Note to Forthcoming Critics
+- Afterword with A Note to Impending Critics  (Last chapter?)  We always find what we seek.   If you seek controversy you will find it. Yet if you desire peace, you will find that too.  This book is not intended to be gospel.   I call on the contribution of others to improve the ideas herein so that everyone and everything truly has, does and is enough.  Specialists (academics, philosophers, clerics, economists etc) may well decry some, many or all of what has been said here, the causes, definitions, solutions.  “But this flies in the face of macroeconomic theory!” “What does he know?! He is not trained in any of these fields.” “Ha! What nonsense! Religion is still the opiate of the masses and “God” is its label.” “There’s no need for God. Nanotech, biotech, genetech, AI, space colonization...will fix the world’s problems...if only people would listen to the experts.” “This is sacrilege! He defies scripture! He disputes the word of God!” “Nice try, but you don’t use enough big words, quote enough historically important people or reference my work, so.... ciao mate.” “But he forgets this, he omits that, he doesn’t provide enough detail here and too much importance there...”  Yes, I am guilty as charged...but I forgive myself. I hope you will too. In doing so, in forgiving me for my naivety, my simplicity, my laymanship, I hope you will be inspired to complement this work with contributions of your own.    This is not an inherently complex issue. But we, as a whole, choose to make it so. Extra complexification – more jargon and specialist terminology exclusive to the intellectual elite, more niche theories, more specific narrow solutions are not what is required. Simplification is required. Abstraction is required. Generalization is required, that is not black-white and rigid.  The world is tired. The world is dying, and its not a painless death. The old ideas don’t work. We can see that. The tried and tested have been tried and failed, sadly. “New” ideas come along, promising salvation and a brighter future, only to continue the trend: “Enough for me. Poor you.” Time has shown that only works for a while. What goes around comes around, full of ups and downs.  The idea here within is the oldest idea, worded one way as “Seek first the Kingdom of Heaven, and all else shall be given unto you.”  However, in this book, this abstract eternal wisdom, which has been tarnished by millennia of misunderstanding and abuse, is cleaned up repackaged, reinterpreted and recontextualized to do away with the suffering  There have only always been two choices: Begin within, no doubt about  Seek outside, bleak inside
+-
+- Conclusion  Essentially, there is nothing new in this book. What may be new is the packaging: the way the thesis is presented, the data integrated or the message worded. But fundamentally, the underlying message is the same. It has been expounded for millennia by the spiritual traditions of the world and reaffirmed through the painful experience of many who have tried otherwise.  Some data may be fresh, but I did not measure it or discover it. I merely made sense of it. I combined it with other data in a coherent message.  Some may take the same data and arrive at a different conclusion. That is fine. But in doing so I would ask you look at those other conclusions and ask some simple, inter-related questions: Does this conclusion help me? Does this conclusion help the world? Does this resulting idea help me to help the world?  If this idea were extrapolated to its limit, which limit would that be? Would it arrive at peace, prosperity, joy and abundance? Or would it arrive at pain, fear, conflict and protecting insufficiency? Is this conclusion, this resulting idea, really a new idea? Or is it an old wolf in a lamb’s clothing? (Or a lamb that doesn’t know its really a wolf cub?) At its core, its essence, is it a rehash of a failed idea but sufficiently disguised to lure the unsuspecting?   I have said above that the central idea of this book is not new. It is as old as time. It is the perennial philosophy. It is the wisdom which is proven but only when it has been properly tried and tested.    Experience can be a liberating teacher. Yet it can also be a repetitious slave-driver.  “Seek first the kingdom of Heaven, and all shall be given unto you.”
+-
+- On the Lightness of Suggested Solutions
+	- This book is not intended to be prescriptive. It does not intend to provide “The Answer”. That has happened enough times before, each time failing.
+- Conclusions
+- Consequences
+- Summary
+- 5.2 Acknowledgements
+- Acknowledgements and Inspirations
+- Acknowledgements and Inspirations  Family Sohail Inayatullah Richard Slaughter Ken Wilber Gary Renard Ken Wapnick Foundation for Inner Peace UNDP FAO World Bank Michael Squirrel Jeremy Drinnan Neil Herdegen
+- Acknowledgements and Inspirations
+- Acknowledgements and Inspirations
+- Family Sohail Inayatullah Richard Slaughter Ken Wilber Gary Renard Ken Wapnick Foundation for Inner Peace UNDP FAO World Bank Michael Squirrel Jeremy Drinnan Neil Herdegen
+-
+- Clothing
+- Food
+- FAO
+- General and Global
+- UNDP
+- World Resource Institute
+- Worldwatch Institute books
+- Eco-Economy
+- Outgrowing the Earth
+- Health Technologies
+- International Centre for Prison Studies
+- Materials
+- Money
+- New Economics Foundation
+- Shelter and Housing
+- Transport
+- Water
+- Significant Topics, Case Studies and Special Notes
+- Costs of Carelessness vs Price of Prevention
+- Summary of Costs of Not. Costs of Prevention.
+- Costs of obesity, smoking, high-sugar, sedentary lifestyle to medical systems
+- Costs of corruption, welfare fraud
+- Costs of mental illness to society
+- Costs of drugs & addiction to society
+- Costs of war
+- Costs of pollution & waste
+- Costs of medical systems to society
+- Price to alleviate food poverty & hunger
+- Price to provide clean water & sewage
+- Price for clean & abundant energy
+- Price for immunizations & disease elimination
+-
+- Costs of obesity, smoking, high-sugar, sedentary lifestyle to medical systems
+- Costs of corruption, welfare fraud
+- Costs of mental illness to society
+- Costs of drugs & addiction to society
+- Costs of war
+- Costs of pollution & waste
+- Costs of medical systems to society
+- Price to alleviate food poverty & hunger
+- Price to provide clean water & sewage
+- Price for clean & abundant energy
+- Price for immunizations & disease elimination
+-
+- Menus-Layout
+- Home page
+- "About" Menu
+- Header Menu
+- So that all may have enough, and become more
+- EFA seeks to make sense of the debate around (in)sufficiency and prosperity.
+- The goal is to merge existing disparate data on overwhelming topics into an insightful and coherent message of care, clarity and compassionate critique.
+- We aim to illuminate this complex issue and generate concise insights by being data-driven, community-curated, expert-moderated and graphically focused.
+- EFA attempts to inform and remind of the general characteristics and features of (in)effective strategies. To achieve this we seek to identify powerful leverage points for health, wealth and peace. We distill debate around models, systems and the principles behind prosperity.
+-
+- Header slider
+- Welcome to Enough For All.
+- Enough For All (EFA) is an exploration into (in)sufficiency, its roots and remedies.
+- It operates around the central question, “Is there enough for all?”
+- EFA attempts to make the grand issue of poverty and scarcity more intellectually digestible and manageable by cohereing disparate data and analyses into a grand narrative.
+- EFA seeks to address this primarily by drawing existing data and analyses from high-quality, authoritative sources. It then presents these predominantly using visual language tools: data visualizations, infographics, argument maps, debate graphs, and more.
+- It also employs a logic pathway approach, taking advantage of modern hypertextual web technologies to start at first principles and raw data in order to explore logical consequences, premeses, assumptions and biases therein.
+- You could learn more by reading About EFA - Overview.
+- Or, you could get a better feel by diving straight into some data. You could start with a general, broad data on the current state of the world, or of near-term forecasts. Alternatively, you could get more specific, starting with data on basic necessities or particular topics.
+- EFA is structured nominally as The Story of Enough, broadly following a framework like Maslow’s Hierarchy of Needs, the Chakra model, or Claire Graves’ Spiral Dynamics model. You can approach it in this order, or you can meander as you please. In time, there will be added functionality to adopt different navigation perspectives: Story view, Data view, Map view.
+- EFA seeks to become a collaborative, compassionately critical community. We invite people to get involved in whatever preferred capacity. After all, the story of the world requires the world to (re)write it.
+- The Story of Enough for All - Overview
+- Welcome to the Story of Enough For All.
+- The story of Enough for All comprises 5 parts (labelled 0 ~ 4).
+- Part 0 - Introduction and Outline provides an outline on the What, Why, How, Who etc. It addresses such things as project specifications, rationale, driving questions, theses and hypotheses, tools, project structure and platform, goals and objectives.
+- Part 0 also includes further commentary on this hypertextual reading platform of Storyspace.
+- Part 1 - The State of the World is dedicated to an overview of wealth, health, happiness, poverty, peace, prosperity - the pulse and pressure of the greater global system. It asks the questions: Where are we at right now? What’s the world like? Where are we heading? Who doesn’t have enough of what?
+- Enough Indicators looks at general and holistic indicators such as the Human Development Index and GINI.
+- Enough Forecasts is where you’ll find predictions and prognostications about global systems.
+- In the Enough Topics sub-section you’ll find data related to specific issues and categories, still at a global scale. This data is interspersed throughout the Story of Enough.
+- Part 2 - The Spiral of Satisfaction starts by looking at the state of generally regarded basic human necessities and materials: food, water, clothing, shelter, land…in Enough Stuff. This section asks the questions: Is there enough of the essentials for all? If no, why not? And could we remedy this? If yes, then why do some not have enough?
+- Enough Tech begins to deepen the inquiry then by looking at how these raw materials are produced or not, distributed or not, wasted or not. Here we begin to look at underlying mechanisms which manipulate, amplify and extend the basic raw materials.
+- The upward spiral of needs and abstraction continues into Enough Ideas where we enter the realm of concept and philosophy, looking at the fundamental ideas and premises that technologies, systems and structures embody and embed.
+- Part 3 - Harnessing the Source of All continues the staged ascension from the concrete and begins by bridging from the previous part with the highest and greatest concepts - God, Meaning, Love, Infinity, Limitlessness…(and whatever related terms and concepts you prefer.)
+- Enough X looks at the intangible we all seek, spirituality, the Universe and meaningfulness-making. Re-Source then looks at techniques and practices that may strengthen that connection and refocus our enoughness-seeking in order to tap the Infinite Well.
+- Finally, in Part 4 - Inspired Resource Utilisation, the learnings discovered can be applied to systems, policies and technologies in an attempt to encourage resilience and robustness at all levels. The Orthodox Solutions looks at current attempts to achieve this and offers critique based on prior learnings. Fresh Alternatives then offers some other strategies and tools to more effectively achieve stated ambitions. It also reminds of the characteristics and features an ideal “Fresh Alternative” might consist of.
+- "Story" Menu
+- Twitter feeds
+- EFA latest tweets
+- EFA feeds
+- Recent posts (web elements)
+- Chapter-categories
+- Content-type categories
+- Outline/promotion categories
+- All
+- Call to Action 1
+- Got a useful idea? Want to offer resources and skills? Feedback and suggestions? Please in touch.
+- Call to Action 2
+- Join the Community
+- Read in Storyspace
+- Menus
+- "About" Menu
+- About EFA (category posts page)
+- FAQs page / posts page?
+- Authors
+- Resources
+- General and broad data sources
+- eg. UN, World Bank
+-
+- For global and holistic indicators also
+- eg. peace index
+-
+-
+-
+- Topic data sources
+- Data sources dedicated to particular issues
+- Comparator products
+- Our World in Data
+- The World in Figures
+- Blogroll and links
+- Dataviz communities
+- Data journalism
+- Key thinkers
+- Connect
+- Contact form (with contact-type) and social media
+-
+- Contact type includes contribution
+-
+- Social media includes:
+-
+- Pinterest
+- Twitter
+- Facebook
+- maybe instagram…?
+- Contact form
+- Social media
+- Instagram
+-
+- Twitter
+- EFA timeline
+- EFA tweets
+- Facebook timeline
+- Pinterest
+- Contribute
+- Contact form (with contribution-type field)
+- "Story" Menu
+- The State of the World - posts page
+- Enough Overview - posts page
+- Enough Forecasts - category posts page
+- Enough Topics - category posts page
+- The Spiral of Satisfaction - posts page
+- Enough Stuff - posts page
+- Enough Tech - posts page
+- Enough Ideas - posts page
+- Enough X - posts page
+- Harnessing the Source of All - posts page
+- re-Source - posts page
+- IRU - posts page
+- Fresh Alternatives - posts page
+- Header Menu
+- Enough Stuff (category posts page)
+- Enough Ideas (category posts page)
+- Enough Tech (category posts page)
+- Enough X (category posts page)
+- Enough Overview (category posts page)
+- re-Source (category posts page)
+- Fresh Alternatives (category posts page)
+- Footer menu
+- Pages
+- Posts
+- Notes to the reader of the book
+- Cover-to-cover for the first read. For first time readers, please read the book in order. The structure of the book is designed to produce a systematic uncovering of the core concepts of poverty and scarcity. The reader may not get full benefit by selecting sections at random until after the first reading. By and large, we all begin by satisfying physical survival requirements and extending from there, while food scarcity and famine is our dominant image of poverty. As such, the book and its logical argument is structured this way. In subsequent readings, please feel free to dip in to sections for data and quotes, keeping in mind the data must be taken in context to be really useful. Reference summaries. However, for regular reference, as well as for the impatient, there are brief summary points at the end of each section which distill the essence of the argument up to that point. Developmental structure. Readers may notice the structure could be said to mirror developmental models such as Maslow’s hierarchy of needs, the Chakra system or Spiral Dynamics. This is incidental and none are strictly adhered to or reflected in the structure.  Patterns and trends. Please approach this book forgivingly. It is intended to identify patterns, trends and their consequences rather than be painstakingly accurate to the letter. Where, however, in your opinion the details affect the pattern or overall argument, please contact me with your suggestion. Complexity and feedback. As an example of the previous point, it is understood that all levels of scarcity-abundance considered in the book are present in every other level and feedback on each other. For example, food production involves direct technology, auxillary technology, education, administration, policy, planning and vision and other inputs in addition to natural resources. Each affects each other in a complex, interactive feedback loop rather than in a linear cause-effect mechanism. However, the linear consideration of these factors is worthwhile and valid in that it can eliminate a factor as the cause of poverty, and therefore the basis of a solution, or at least clarify its role. Data. All efforts are made to source the most reliable and recent data, keeping mind general trends and overlooking short-term radar blips. Some major short term blips are mentioned. Data is not available at all scales in all category-levels. I do not think this dilutes or discredits the message of the book. Data is presented at a global scale with various regions and nations represented to account for variations in natural resource endowment, culture, political system etc. Including data for every country would be too time-consuming, unworkable and unnecessary for this book. However, I would ideally love to attain this level of detail. I appeal to all regional and subject specialists to assist in this. Anger & irritation. If anything in this book upsets you, makes you angry, detracts from your peace of mind….well, you may very well be proving the point of the book. Please forgive me when this happens, consider contacting me with your inspired ideas and see the last point in this list. Lastly, and most importantly, please approach this book with a sense of humour. To borrow from Oscar Wilde, this book is too important to be taken seriously. Humour is a precious commodity in infinite supply and the best gift to a world of pain and anguish. That way we’ll all enjoy the book more as well as our joined path in alleviating poverty and ensuring enough for all.  Happy reading. Bless.
+- Blog post ideas, Notes to be developed & Other Scratchings
+- Stuff Issues Topics Countries for consideration
+- Stuff, Issues, Topics, Regions for Consideration
+- Special Feature mini-sections on “Negatives”
+- Alcohol
+- Meat
+- Pets
+- Cars
+- Pharmaceuticals
+- Arms & Weapons
+- Cosmetics
+- Housing
+- Fashion/Clothing
+- Packaging
+- Communications
+- Anti-depressants
+- Suicide
+- Mental illness
+- Plastic surgery
+- Addiction – eating disorders, alcohol, drugs, sex
+- Corruption & bribery
+- Organized crime
+- Slavery & Trafficking & Child Labour
+- Child soldiers
+- Torture & death sentence
+- Organ trade
+- Information vs Knowledge vs Wisdom
+- Piracy (maritime, electronic)
+- Insurance industry
+- Lobbying industry
+- Computer hacking
+- Black economy
+- Subsidization
+- Cults
+- Adoption
+- Orphans
+- IVF & Cloning
+- Genetic Engineering
+- Green revolution
+- Intellectual Property
+- Travel (particularly leisure)
+- Aid given to other countries / Aid received
+- Piracy & fakes
+- Domestic violence
+- Female Infanticide / Gender Imbalance
+- Genocide
+- Pornography & Adult Entertainment
+- Prostitution
+- WASTE!!
+- E-waste;
+- Toxic & nuclear waste;
+- Atmospheric
+- Textile production
+- Income disparity changes over time eg. GINI index change over time
+- War – macro statistics –  Surveillance – civil camera
+- Free time – change, or lack thereof, over the years
+- Teen pregnancy
+- Female genital mutilation
+- Internet & telecom distribution
+- Prisons
+- Narcotics
+- Fraud -
+- Welfare rorting & insurance fraud, tax evasion
+- Tax havens, corporate tax Enron, WorldCom, OneTel
+- Religion –
+- Evangelism, Missionaries, investment holdings etc
+- Mining & Minerals
+- Agriculture & Crop production
+- Meat, livestock & livestock feed production
+-
+- Possible Focus Countries and Regions
+- Australia
+- Papua New Guinea and South-west pacific
+- South-East Asia
+- China
+- Japan
+- USA
+- Central America and Caribbean
+- South Asia
+- West Africa
+- Southern Africa
+- Arab states
+- Europe/EU
+- Russia
+- Maybe use UN/World Bank tables of HDI etc to select countries
+- Contrasts
+- Before-After Neighbours eg. Haiti & Dominica, North & South Korea
+- Alternative politico-economic systems High & Low on HDI index
+- Regions “Partners” South Africa – Zimbabwe – Angola
+- South Korea – North Korea
+- Haiti – Dominican Republic
+- USA – Canada
+- China – Taiwan
+- Chile – Bolivia
+- Solomon Islands – Samoa
+- Kenya – Uganda – Rwanda
+- Thailand - Myanmar
+- Australia Tonga or Samoa or Fiji
+- USA Cuba
+- China Taiwan Russia
+- India Bhutan or Nepal or Bangladesh or Sri Lanka
+- Brazil Bolivia or Paraguay
+- Indonesia Singapore
+- Japan Maldives or Comoros or Seychelles or Cabo
+- Norway
+- South Africa Congo
+- Israel Saudi Arabia Turkey  Nigeria
+-
+- Top 10 populous & Least populous representatives
+- China Mongolia or Lao
+- India Bhutan
+- USA Cuba
+- Brazil Bolivia or Guyana
+- Indonesia Singapore, Brunei Pakistan  Japan
+- Australia, New Zealand
+- Nigeria Benin, Togo, Gabon, Gambia
+- EU, UK, Norway, Swiss Tunisia Russia
+- Top & bottom 10 most affluent nations
+- Top 10 most densely populated nations
+- Top 10 on GINI index
+- Major natural resource exporters and importers
+- Major technology exporters
+- Major aid recipients & donors
+- Major economic collapses Argentina Bolivia Cuba Zimbabwe Congo UK (in terms of coal, steel etc) USA (oil)
+- Major economic recoveries Germany Japan South Korea Brazil China Saudi et al
+- Special Feature mini-sections on “Negatives”
+-
+-
+- Alcohol
+-
+-
+- Gambling
+- Meat
+-
+-
+- Pets
+-
+-
+- Cars
+-
+-
+- Pharmaceuticals
+-
+-
+- Arms & Weapons
+-
+-
+- Cosmetics
+-
+-
+- Housing
+-
+-
+- Fashion/Clothing
+-
+-
+- Packaging
+-
+-
+- Communications
+-
+-
+- Anti-depressants
+-
+-
+- Suicide
+-
+-
+- Mental illness
+-
+-
+- Plastic surgery
+-
+-
+- Addiction – eating disorders, alcohol, drugs, sex
+-
+-
+- Corruption & bribery
+-
+-
+- Organized crime
+-
+-
+- Slavery & Trafficking & Child Labour
+-
+-
+- Child soldiers
+-
+-
+- Torture & death sentence
+-
+-
+- Organ trade
+-
+-
+- Information vs Knowledge vs Wisdom
+-
+-
+- Piracy (maritime, electronic)
+-
+-
+- Insurance industry
+-
+-
+- Lobbying industry
+-
+-
+- Computer hacking
+-
+-
+- Black economy
+-
+-
+- Subsidization
+-
+-
+- Cults
+-
+-
+- Adoption
+-
+-
+- Orphans
+-
+-
+- IVF & Cloning
+-
+-
+- Genetic Engineering
+-
+-
+- Green revolution
+-
+-
+- Intellectual Property
+-
+-
+- Travel (particularly leisure)
+-
+-
+- Aid given to other countries / Aid received
+-
+-
+- Piracy & fakes
+-
+-
+- Domestic violence
+-
+-
+- Female Infanticide / Gender Imbalance
+-
+-
+- Genocide
+-
+-
+- Pornography & Adult Entertainment
+-
+-
+- Prostitution
+-
+-
+- WASTE
+- !
+-
+- E-waste;
+-
+-
+- Toxic & nuclear waste;
+-
+-
+- Atmospheric
+-
+-
+- Textile production
+-
+-
+- Income disparity changes over time eg
+- GINI index change over time
+-
+- War – macro statistics –  Surveillance – civil camera
+-
+-
+- Free time – change, or lack thereof, over the years
+-
+-
+- Teen pregnancy
+-
+-
+- Female genital mutilation
+-
+-
+- Internet & telecom distribution
+-
+-
+- Prisons
+-
+-
+- Narcotics
+-
+-
+- Fraud -
+-
+-
+- Welfare rorting & insurance fraud, tax evasion
+-
+-
+- Tax havens, corporate tax Enron, WorldCom, OneTel
+-
+-
+- Religion –
+-
+-
+- Evangelism, Missionaries, investment holdings etc
+-
+-
+- Mining & Minerals
+-
+-
+- Agriculture & Crop production
+-
+-
+- Meat, livestock & livestock feed production
+-
+-
+- Special Feature mini-sections on "Changes and Transitions"
+- Internet
+- Social media
+- Genetic engineering
+- Cars
+- Air Travel
+- Gambling
+- Possible Focus Countries and Regions
+-
+-
+- Australia
+-
+-
+- Papua New Guinea and South-west pacific
+-
+-
+- South-East Asia
+-
+-
+- China
+-
+-
+- Japan
+-
+-
+- USA
+-
+-
+- Central America and Caribbean
+-
+-
+- South Asia
+-
+-
+- West Africa
+-
+-
+- Southern Africa
+-
+-
+- Arab states
+-
+-
+- Europe/EU  - Russia
+-
+-
+- Maybe use UN/World Bank tables of HDI etc to select countries
+-
+-
+- Contrasts
+-
+-
+- Before-After Neighbours eg
+- Haiti & Dominica, North & South Korea
+-
+- Alternative politico-economic systems High & Low on HDI index
+-
+-
+- Regions “Partners” South Africa – Zimbabwe – Angola
+-
+-
+- South Korea – North Korea
+-
+-
+- Haiti – Dominican Republic
+-
+-
+- USA – Canada
+-
+-
+- China – Taiwan
+-
+-
+- Chile – Bolivia
+-
+-
+- Solomon Islands – Samoa
+-
+-
+- Kenya – Uganda – Rwanda
+-
+-
+- Thailand - Myanmar
+-
+-
+- Australia Tonga or Samoa or Fiji
+-
+-
+- USA - Cuba
+-
+-
+- China - Taiwan
+-
+-
+- India Bhutan or Nepal or Bangladesh or Sri Lanka
+-
+-
+- Brazil - Bolivia or Paraguay
+-
+-
+- Indonesia - Singapore
+-
+-
+- Japan - Maldives or Comoros or Seychelles or Cabo
+-
+-
+- South Africa - Congo
+-
+-
+- Top 10 populous & Least populous representatives
+-
+-
+- China Mongolia or Lao
+-
+-
+- India Bhutan
+-
+-
+- USA Cuba
+-
+-
+- Brazil Bolivia or Guyana
+-
+-
+- Indonesia Singapore, Brunei Pakistan  Japan
+-
+-
+- Australia, New Zealand
+-
+-
+- Nigeria Benin, Togo, Gabon, Gambia
+-
+-
+- EU, UK, Norway, Swiss Tunisia Russia
+-
+-
+- Top & bottom 10 most affluent nations
+-
+-
+- Top 10 most densely populated nations
+-
+-
+- Top 10 on GINI index
+-
+-
+- Major natural resource exporters and importers
+-
+-
+- Major technology exporters and importers
+-
+-
+- Major aid recipients & donors
+-
+-
+- Major economic collapses
+- Argentina
+- Bolivia
+- Cuba
+- Zimbabwe
+- Congo
+- UK (in terms of coal, steel etc)
+- USA (oil) ?
+- Argentina
+-
+-
+- Bolivia
+-
+-
+- Cuba
+-
+-
+- Zimbabwe
+-
+-
+- Congo
+-
+-
+- UK (in terms of coal, steel etc)
+-
+-
+- USA (oil)
+- ?
+- Major economic recoveries
+- Major economic recoveries
+- Germany
+- Japan
+- South Korea
+- Brazil
+- China
+- Saudi et al
+- Major economic recoveries
+-
+-
+- Germany
+-
+-
+- Japan
+-
+-
+- South Korea
+-
+-
+- Brazil
+-
+-
+- China
+-
+-
+- Saudi et al
+- Key thinkers, influencers & Data Sources
+- Infographic sources
+- mind the gap
+- chart porn
+- pik to chart
+- knoema
+- chartsbin
+- visual.ly
+- datawrapper
+- venngage
+- geocommons
+- icharts.net
+- easel.ly
+- infogr.am
+- datavisualisation.ch
+- informationisbeautiful.net
+- gapminder
+- worldmapper.org
+- futurism.com
+- Water
+- Global Water Policy Project
+- Global Water Policy Project
+- Happiness
+- Economics
+- Antifragile. Nassim Nicholas Taleb.
+- Macrowikinomics. EFA. Economics alternatives
+- Prosperity without growth. Book for EFA. Tim Jackson author.
+- Limits to Growth.
+- The Coming Famine. Julian Cribb. EFA.
+- Prosperity without growth. Book for EFA. Tim Jackson author.
+- Ha-Joon Chang. Renegade economist. EFA. Fresh.
+- Tim Harford. The undercover economist. EFA. Fresh.
+- Renegade Economist. EFA. Blog piece MM.
+- Sacred Economics. Charles Eisenstein ?
+- Henry George. Progress and Poverty. Prosper Australia
+- http://www.prosper.org.au/about/geoists-in-history/
+-
+-
+- Owning our future. Book. Generative economy. Marjorie Kelly.
+- Generative economy
+- steady-state economics. Herman Daly. Enough for Everyone book.
+- Enough is Enough (book)
+- Two-tiered economics (Fresh!)
+- Intangible desires cannot be justly recompensed in tangible means. There must be exchange with another intangible.
+- Tangible/material needs must be paid/met using material means.
+- There can be some exchange/conversion zone between the two
+- This can be related to an energy hierarchy
+- Food
+- International Food Policy Research Insitute
+- International Food Policy Research Insitute
+-
+- Program on Food Security and Environment
+- Program on Food Security and Environment
+-
+- Stanford University Consortium for Science Policy and Outcomes
+- Stanford University Consortium for Science Policy and Outcomes
+-
+- Arizona State University “International Assessment of Agricultural Knowledge, Science and Technology”
+- Arizona State University “International Assessment of Agricultural Knowledge, Science and Technology”
+-
+- FAO
+- FAO
+-
+- World Bank
+- World Bank
+-
+- Second Harvest
+- Second Harvest
+-
+- Food not Bombs
+- Food not Bombs
+-
+- The Coming Famine. Julian Cribb. EFA.
+- Francis Moore Lappe
+- Money
+- Systems & Movements
+- Buckminster Fuller
+- Permaculture
+- Thrive Movement
+- Prout
+- Mapping controversy
+- [[Bruno Latour]]
+	-
+- Tommaso Venturini
+- MediaLab Sciences Po
+- Uncategorized
+- http://gdeltproject.org/
+- http://www.kalevleetaru.com/
+- EFA theory, methodology, ideology & philosophy
+- Waste is a point of view
+- One man’s trash is another man’s treasure.
+-
+- Who profits from waste?
+- What do those people lose out on by provoking, promoting and supporting wasteful use, by them and others?
+- eg. business people with wasteful practices
+-
+- Enough Health
+- Enough physical health, psycho-emotional health = enough love Enough Health Care Health/medical care systems, insurance etc Health/medical technology and techniques
+- A note on the dead-end rabbit hole of some argumentation pathways
+- I envisage that following particular argument/assumption pathways will lead beyond infographic and data viz possiblities, and will come down to discussion of assumptions and premises. This is perhaps best represented in visual language tools.
+-
+- I wonder if it will show a fundamental meta-premesis: Either thinking and argumentation is circular (circularly positive or circularly negative). Or, there is a steadfast opposition to reflexive questioning of assumptions, incongruences and inconsistencies. Instead, there may be the myth of the ideology.
+- Perhaps other tools of analysis will be required here eg. CLA and others.
+- And perhaps this is where MetaMyths come into play eg. ACIM.
+-
+- Distribution and Production and Waste
+- These two principles are continually discussed throughout the whole book. Eg. Technology is a way to produce/make more and distribute more.
+- Discuss structure of the book
+- Not meant to be comprehensive in detail. Rather, the purpose is to highlight dominant patterns in adequate breadth and necessary depth.
+- Much literature on:
+- Poverty and development – political and economic focus on a broad scale.
+- Lack of depth, metaphysical undertones.
+- Self-development and “manifesting personal abundance” – pseudo-spiritual focus on a small scale.
+- Distribution
+- EFA is an appeal to distribute better, more efficiently and more freely, and give up hoarding and/or distributing in restricted circles.
+- Distribution = abundance/scarcity in space
+- Production = abundance/scarcity in time.
+- What does distribution represent? Symbolize?
+- Willingness to share/withhold
+- What hinders distribution? What are the limiting factors?
+- The idea that if I give away, there won’t be enough for me.
+- Impediments to distributing resources:
+- Money
+- Manpower/brainpower
+- Deservedness
+- Resources – transport, oil/fuel…
+- Political barriers, ideology clashes
+- Bureaucracy and administrative barriers
+-
+- Distribution?? (Of resources) Geographically, socio-economically (class), age-wise.
+-
+- Where does distribution get mentioned
+- Where does distribution get mentioned?
+- Ready, Willing & Able = Production/Supply + Desire/Incentive + Technology/Plan
+- Ready, Willing & Able = Production/Supply + Desire/Incentive + Technology/Plan
+-
+- Abundance and Myth & Levels of Development
+- Must explore the concept of abundance/sufficiency WITHIN each “meme” (colour of spiral dynamics). That is, within each stage of consciousness development, what does abundance and insufficiency look like?
+- Address abundance from the perspective of each stage: What it means, the means of obtaining it/having it and realizing it.
+- Is “insufficiency” inherent into one or more developmental stages? Is it integral/core to that stage’s self-definition??
+- Could “insufficiency” for some, ideally YOU, be widespread (and integral, typical, definitive) to one, or a range of, developmental bands… then undergo a transition at a [higher] developmental stage to where abundance is a core trait?
+- I must ask the questions that a typical member of X developmental stage would ask about abundance/sufficiency and the ways of achieving/realizing it. This includes posing the same objections and “But’s”.
+- Is the “developmental”/chakra/maslow structure a measure of abundance, abundance proclivity/readiness??
+- How is poverty/abundance expressed at each stage/level? Within various myths?
+- Addiction
+- This is a book about addiction. Addiction to idols. 12 steps, important! Techniques at breaking addiction Psychology of addiction
+- What are the (economic) models on mutual benefit...
+- the idea that if everyone has enough (or a minimum amount) then this will enable more production/creation/distribution for those who “enabled” the sufficiency, or even sacrificed in the short term/close range, so that others could have more.
+-
+- That is, do the benefits to the few of having more than enough, outweigh, match or fall short of the costs of providing enough to all?
+- The Population Problem
+- Is population the problem?
+- Is population the problem?
+- What exactly is the problem with population?
+- What exactly is the problem with population?
+-
+- Too many people
+- Too many people?
+-
+- Or is part of the problem the very thinking that population is the problem
+- Or is part of the problem the very thinking that population is the problem?
+-
+- That there are some 'undeserving' elements of the population? (Racism)
+- What causes population explosions? Fluctuations? Collapses?
+- What causes population explosions?
+-
+- How does population and population growth change with other changes
+- How does population and population growth change with other changes?
+-
+- Education
+- Education?
+-
+- Income
+- Income?
+-
+- Women’s status
+- Women’s status?
+-
+- The population problem : It’s always someone else somewhere else who has to curb their child-bearing tendencies
+- The population problem : It’s always someone else somewhere else who has to curb their child-bearing tendencies.
+- Direct vs Indirect population problem
+- In some cases, there may have been too many people for the current carrying capacity, technological capacity and cultural practices of the ecosystem.
+- In other cases, population directly may not have been the problem but other factors (eg. waste practices, environmental change) seemed to make it inappropriately forefront.
+- The data may reveal that population is rarely or never the problem. That is, there is enough resource per capita
+- On the psycho-emotional sources of insufficiency
+- A treatise on the perceived insufficiency of the world, when in actual fact there is enough
+- The mechanisms we employ as a result of perceiving “insufficiency” actually re-create and reinforce the insufficiency. Our attempts to solve insufficiency and “secure” sufficiency, both now and for the future, actually promote and cause insufficiency, and perceived lack by creating lack.
+- Hoarding and restricting confining to special groups,  inhibiting/restricting resource cyclage
+- Psycho-emotional-spiritual basis
+- Economic basis – economics of abundance vs economics of scarcity
+- Modern tech methods waiting to appease insufficiency  It’s the very fear of lack (of money, power, security) that leads power groups to resist the changes that can help appease it.
+- Our perception of lack in the world comes form our perception of lack within us, individually and as a collective consciousness.  There is enough stuff in the world, but our perception of lack causes us to create lack.
+- Causes us to hoard, guard and restrict flow (money, energy, love) which causes stagnation and illness and ultimately loss/scarcity.
+- There is enough stuff in the world, but our perception of lack causes us to create lack. Causes us to hoard, guard and restrict flow (money, energy, love) which causes stagnation and illness and ultimately loss/scarcity.
+- Determine characteristics of prevailing thought, wrt science and resource policy.
+- Determine characteristics of prevailing thought, wrt science and resource policy.
+- Fomenting of fracturing
+- Promotion of pseudo-unification
+- Projection of P: pain, power, pollution
+- Separateness
+- Competition
+- Reliance on model of Scarcity
+- Fundamental evil/baseness
+- Absolute right/wrong
+- There is a basic survival necessities aspect to each “issue” as there is an advanced luxury aspect to each issue
+- There is a basic survival necessities aspect to each “issue” as there is an advanced luxury aspect to each issue.
+- E.g. Food and clothing: there is basic food and clothing and then there is fine dining and high fashion. There is basic public transport, walking etc and then there is jet travel, luxury cars and space travel.
+- Does providing basic necessities for all stop others having the luxuries they do?
+- Is EFA about clarifying goals and re-directing priorities
+- ie. Its not cars we want but mobility, status, freedom, convenience, beauty, power.
+- Its not food we want but satisfaction, security, survival, comfort, socializing, love...
+- So, will EFA promote the change in ways of doing things at the “advanced” level (or even at a basic level) so as to provide the same (if not better) levels of mobility, freedom, convenience, security, safety, comfort, power, beauty, love...???
+- Obviously yes, to a point, as current ways don’t promote thrive-all.
+- General Points
+- The purpose of EFA is to demonstrate that there is no need to fear because there is enough for all. This means we can share; we don’t have to hoard; we don’t have to withhold food, oil, info, money, love… EFA will show that the attempts to hoard and keep/have is a misguided attempt to “have” the Love of God. So, EFA will show that we really want the Love of God but we mistakenly try to get that in other symbols. So, perhaps by realizing this people will free up the resources for others. Furthermore, realizing that these pursuits are mistakes in the “search” for the Love of God,”they” will remove the obstacles in their realization that they ARE love, loved, loving… Or at least it will lead them towards a conscious spiritual path.  I guess EFA is directed more to those who HAVE materially ie “the Haves”, rather than the “have nots”. Ie It is directed to Oz. US, UK, EU etc rather than Africa, Asia, Latin America. Its directed to the wealthy powerful minority to share and help others and thus help themselves.  Everyone is a “HAVE”. And everyone is a “have not” !! The point of EFA is to elucidate the spiritual Source of Life, and recognize it as the Source of Abundance. All resource management methods, all science and technology policy, as is the case with all our systems, strategy, practices and policy…are based on a set of ideas and philosophies. Ultimately, they all boil down to one idea from which all policy arises. Currently, and as has been the case for virtually all recorded human history, that idea has been   “I am not enough. There is not enough.”  It need not be this way. I, you, we can decide that yes, there is enough, and consequently create policy that demonstrates, re-inforces and multiplies this. Waste is a point of view. We are all addicts, to something, in some way. This is a book about addiction.
+- Warning to Adam on pseudo-spiritual interpretations and applications
+- Warning to Adam. I must make it clear that this is not a case of pray to God to make it rain, make my child better, make my side win... as is so often done.  Q: How does “going to God”, “seeking God first”, “listening to God”... manifest in planning, strategy, organizing, designing, individual life etc. A: Listening to others Inspiration, inspired creativity Not re-inforcing the prob or creating a new one Encouragement (&ability) of debate without attachment Fearlessness Expanded idea of oneself No over-consumption – obesity, material goods, drugs, addiction
+- Recognising solutions and problems
+-
+- Answers may already exist to these questions but have not been recognised because the problem has not been recognised. This continues the process of creating ineffectual solutions for non-problems. This is a waste of resources as well as being a definition of insanity: doing the same thing over and over expecting a different result.
+- Problems are problems by definition. That is, there is no problem until we decide “it” is a problem. If there is no problem, then there is no solution. Or, better said, if there is no problem, the problem has already been solved. Yet if we cannot recognise the problem, nor the solution, we cannot recognise that it has already been solved or that it can be solved.
+- This EFA investigation is as much about problem recognition as it is about generating solutions. I suspect we haven’t been focused on the real problem otherwise we would have solved it after 10,000 years of human “civilisation”. And so, while we may have come up with ingenious answers to superficial and peripheral issues, we have not been able to realise the real solution. Attempting to address poverty and scarcity must first involve recognising what the real problem is before a suitable solution can be recognised.
+- Solutions are not solutions unless they solve the problem. That much is obvious. Solutions may lie dormant until the problem is understood and recognised. Solutions could be implemented for problems that are not really the problem. The saying is “If all you have is a hammer then everything looks like a nail.”
+- Solutions may already exist but have not been recognised because the problem has not been recognised. This continues the process of creating ineffectual solutions for non-problems. This is a waste of resources as well as being a definition of insanity: doing the same thing over and over expecting a different result.
+-
+-
+- But solutions exist, don’t they?
+- But solutions exist, don’t they? Some may phrase it as… “But I know the answer! If only they did this…”, and the righteous preacher begins the sermon on what politicians, economists, financiers, scientists, development organisations and “the poor and afflicted” themselves must do to be saved. Rarely is there any degree of self-reflection upon one’s own role in creating, contributing to or sustaining the problem. If you can honestly say that you are completely free of lack then you may very well have the answer. However, you would also be one of the 0.0001% of the population. I would love to hear from you. Even Warren Buffett, Richard Branson and the Dalai Lama have their moments of fear, confusion, worry and scarcity in some aspect of their lives. History is the story of the attempt to secure enough. Almost everything that everyone has done has been an attempt to gain more [of whatever]. This is not a problem in itself. The problem though is that history also is the story of the repeated failure of these attempts. There may have been some “victories” but they have always been temporary and at the expense of someone else or something else: other races, other gender, other creeds, other species, others…everyone has been persecuted and oppressed at some time, somewhere. Yet I do believe (a) solution(s) exist. I probably wouldn’t bother beginning this book if I didn’t believe that at some level. The question, though, is : what those solutions are, how to arrive at those solutions how to make those solutions substantially satisfying and enduring as well as applicable and relevant to the whole world.  Strategies which seem to have worked for a time in one place have eventually failed or exacerbated suffering somewhere else. Is an alternative to this possible and viable? I think so. In fact, I believe it is necessarily so.
+- But this is the way of the world!
+- But this is the way of the world! Some may respond with comment such as: “That’s the way of the world. Deal with it.” Or, “There will always be the have’s and the have-nots. You won’t change that.” I agree with the first sentiment but I don’t agree with the second: Poverty and scarcity is the way of the world…but it doesn’t have to be. And it certainly doesn’t have to be at the scale or magnitude that it currently is. If you believe this is the inevitable destiny of the world, without the possibility of healing scarcity, then you too are confined to your own thought system and will thus experience the pain of poverty somewhere at some time, if you don’t consciously experience it already. I believe we can change our minds and thus change our experience. EFA is one attempt at that.
+- The inverse parabola of consumption
+- There is a point at which consumption produces maximum returns on planned benefits.
+-
+- Beyond this, increased consumption produces “unwanted” effects
+- Fresh Alternative performance indicators
+- Krazy performance indicators
+-
+- Old and unhelpful measures of success
+-
+- GNP / GDP
+- Growth
+- Salary
+-
+- What would an alternative be?
+- Gross national happiness
+- HDI
+- Anti-depressant prescription
+-
+- Old and unhelpful measures of success
+- Old and unhelpful measures of success
+-
+- GNP / GDP
+- GNP / GDP
+-
+- Growth
+- Growth
+-
+- Salary
+- Salary
+-
+- What would an alternative be
+- What would an alternative be?
+- Gross national happiness
+- Gross national happiness
+-
+- HDI
+- HDI
+-
+- Anti-depressant prescription
+- Anti-depressant prescription
+- Link between low self-esteem and materialism
+- http://www.sciencedaily.com/releases/2007/11/071112133809.htm
+- Lan Nguyen Chaplin Deborah rowdier john
+- Quotes
+- Quotes referring to “Enough”, “Abundance” and “Sufficiency”
+- Enough already!
+- Ya basta!
+- “I don’t want to be rich. I just want to have enough.”
+- Project Summary, Pitches and Outlines
+- Summaries & Blurbs
+- EFA Book – Back Cover
+- EFA Book – Back Cover Why do we enter into and maintain destructive relationships? Why do we condone an economic system that promotes wealth inequality, debt, poverty and environmental devastation? Why do we fight in the name of God, Science, Truth and Peace? Why is there as much conflict and suffering as ever before in a time of unprecedented material affluence?  In this book, Duus addresses such diverse questions and more in the context of fear of scarcity versus abundance. By demonstrating how it is in fact our blindness to our own abundance that creates conflict at all levels, Duus paves a peaceful path out of the mess of global, social and personal conflict.
+- EFA Half page
+- EFA – Half Page  “Enough For All” is a multi-tiered investigation into abundance and scarcity in the world. It asks the question “Is there really enough OF everything FOR everything?” It walks through the tiers from basic gross material resources such as food and water to finer immaterial resources such as money and knowledge and even further to subtle resources such as health, love, peace and “God”. At each level it asks “Is there enough for all?” and “Why do some not have enough?”  “Enough For All” questions assumptions about resource scarcity, the quest to attain abundance and shines a light on conflict arising from it. It starts from the premise that there IS enough for all but our general understanding of resources and our management and utilization of them actually create and promote insufficiency, poverty and conflict.  In a time of unprecedented material affluence in the world there is also an unprecedented and disproportionate level of poverty, conflict and suffering at all levels. It seems that the usual ways of alleviating scarcity have failed. We obviously haven’t yet understood scarcity and conflict. “Enough For All” goes deeper into our ideas of sufficiency and conflict because, after all, if there is going to be peace, we need to understand the source of conflict. For there to be no conflict there must be no lack. Everyone must have enough.
+- EFA – Succinct statement
+- EFA – Succinct statement “Enough For All” is a multi-leveled investigation into abundance and scarcity in the world. It asks the question “Is there really enough OF everything FOR everything? If not, how can we make it so?” It is original in it ties together all levels from gross resources such as food and water to subtle resources such as the infinite well of wisdom and love within us all. It does this covering the individual as well as the greater global socio-economy.
+- Perspectives on the Story
+- Archived notes
+- Community-curated, expert-moderated multi-layered data portal around poverty, peace, happiness and wealth
+- Collation and Curation
+-
+- Not a forum for repetition or rant.
+-
+- Contributed ideas and data are distilled into their essence and situated into the story. Not truth by consensus, but open to conversation, critique and debate.
+-
+- Community The story of the world requires the world to write it. Country analysts, issue specialists, topic experts all required. Data freaks, infographics geeks, and constructive critiques. We need you. UN, NGOs, EDUs, NPOs, VIPs, NFIs… all have a role to play.
+-
+- Beyond a Data portal Easy access to essential data. Starting hub for diverse information  Links to specialist organisations Multi-scale. Multi-scope. Search. Filter. Refine. Share.    Penetrate the problem. Seek and see solutions. Don’t drown in data.
+- Acknowledgement of personal position
+- I think there should be some comment on my own personal position. That is, an acknowledgement that I am priveliged, healthy, safe, wealthy etc on a global scale...
+-
+- Determine characteristics of prevailing thought, wrt science and resource policy. Separateness Competition Scarcity Fundamental evil/baseness Absolute right/wrong  Distribution and Production and Waste
+-
+- In my attempt to seek enough love and peace, if I can offer love and peace to others, and the wisdom that naturally comes with that, then I am that much closer to the Source of that love and peace. Thus is the circle closed and arms, hearts and minds opened.
+- Notes on Driving Questions
+- Have you ever wondered why some don't have enough?
+- I mean…really wondered?
+- Since you are reading this over the internet, there is a reasonable chance you have sufficient quantity and quality of food, water, clothing, shelter… But what about them? The ones on the TV? That I read about online?
+- War. Famine. Corruption. Laziness. Mental illness. Oppression. Karma. Ignorance…and more. All big factors. Which dominates, if any? How do they inter-relate? Is there more to the story than commonly proposed?
+- Actually, now that you think about it… We reading this would generally like more money, time, status, recognition, opportunities, entertainment, stimulation…peace, health and happiness…the list of intangibles is even longer.
+- Where you fit in there depends on time and place (spatial and figurative) and no doubt will vary. EFA seeks to highlight the relationship between the material needs/wants to the intangible desires.
+-
+- Is there actually enough for all?
+- Is there enough for all? Enough of everything for everyone?
+-
+- If there isn’t enough for all then why not?
+- If there isn’t enough for all then why not?
+- Why do some at the lower levels (geographically, socially, economically etc) not have enough?
+- If there really is enough for all, why do some not have enough?
+- If, at the top-level, there is not enough for all then why not? Why do some at the lower levels (geographically, socially, economically etc) not have enough?
+- If top-level supply is plentiful and production ample, why don’t many seem to have enough?
+- Why do some not have enough?
+-
+-
+- Have you ever wondered if there is more to the story than the answers you are given?  Enough For All seeks to address these questions and tell the story of sufficiency by starting with the basics, visualising the data, and using ‘warm logic’.
+- Driving Questions
+- Why do some not have enough? What do they not have enough of?
+- Are the reasons the experts give really true?
+- Is there actually enough? What does the data say? Is the data biased? Whose data? What assumptions are made?  Is there enough now? Was there enough in the past? Has there always been enough? Do forecasts predict enough? Why should we believe them? Why not believe them?  If there is enough, why don’t some have enough? What are the barriers and limiting mechanisms in play? Who or what erects those barriers and builds those mechanisms?  If there is not enough, could there be enough for all? What could be some of those tools for enough for all? Are common responses really effective? Are they true? What do the solutions hinge on for success?  Does everyone having enough mean some can’t have too much? Or will everyone having enough actually mean more could have more?
+- Why do some not have enough?
+- In a world where some seem to have so much, why do many have so little? Why do some not have enough?
+-
+- Why do some not have enough? What do they not have enough of?
+- Are the reasons the experts give really true?
+- Is there actually enough? What does the data say? Is the data biased? Whose data? What assumptions are made?  Is there enough now? Was there enough in the past? Has there always been enough? Do forecasts predict enough? Why should we believe them? Why not believe them?  If there is enough, why don’t some have enough? What are the barriers and limiting mechanisms in play? Who or what erects those barriers and builds those mechanisms?  If there is not enough, could there be enough for all? What could be some of those tools for enough for all? Are common responses really effective? Are they true? What do the solutions hinge on for success?  Does everyone having enough mean some can’t have too much? Or will everyone having enough actually mean more could have more?
+- Does any one have enough of every thing? Does every one lack some thing?
+- How can we make sure everyone has enough?
+- Should we? Can we?
+- Is there enough food, water, land, housing, money, natural resources…?
+- Is there enough food, water, land, housing, money, natural resources…. for everyone and everything?
+-
+- Why are there so many ‘poor’ people who don’t have enough to eat?
+- Why are there so many ‘poor’ people who don’t have enough to eat?
+-
+- For those with enough of the basics, why are there so many ‘rich’ people depressed, addicted, overdosing and suiciding, who obviously don’t have enough peace and fulfillment?
+- For those with enough of the basics, why are there so many ‘rich’ people depressed, addicted, overdosing and suiciding, who obviously don’t have enough peace and fulfillment?
+-
+- Is the world intrinsically for the have’s, the have-not’s and the have more’s?
+- Is the world intrinsically for the have’s, the have-not’s and the have more’s?
+-
+- How can we ensure that everyone and everything has enough of every thing?
+- How can we ensure that everyone and everything has enough of every thing?
+-
+- Can we even provide everyone and everything with more than enough?
+- Can we even provide everyone and everything with more than enough?
+-
+- Does any one actually have enough of everything?
+- Does any one actually have enough of everything?
+-
+- Is there anyone that lacks nothing?
+- Is there anyone that lacks nothing?
+-
+- What do we really want?
+- What do we really want?
+-
+- What are we really looking for?
+- What are we really looking for?
+- IMPORTANT QUESTION: Does providing basic necessities for all stop others having the luxuries they do?
+- IMPORTANT QUESTION: Does providing basic necessities for all stop others having the luxuries they do?
+- How much is enough?
+- How much is enough?
+- Time, place, body-specific details…
+- Who or what determines how much is enough?
+- Does everyone benefit from everyone having enough?
+- If so, is benefit just feel good? Is it material? Quality of life? Other?
+- Notes on About EFA.
+- Cold data. Warm logic.
+- The data is dry, factual, “cold”.
+- The interpretation is positive, kind, compassionate, “warm”.
+-
+- Illuminating the issue of (in)sufficiency
+- EFA is driven by some core driving questions such as why do some not have enough? Is there actually enough? Enough of what? How can we ensure everyone has enough? Should we?
+- The story of poverty is eternal and universal. Much ground has been made in alleviating scarcity. However, in a world of unprecedented material wealth and development for some, many still lack adequate basics, and almost all are seeking more of something.
+- In a truly globalised interconnected faster society, discussions around poverty are increasingly complex, opaque, shallow and short-term. Yet the need for effective solutions are as great as ever. More people are increasingly aware and concerned and capable of learning and acting.
+- EFA seeks to simplify the story - just enough, not too much - for more general consumption.
+- Enough For All seeks to take a complex, arcane issue and
+-
+- One-stop data shop for the general public
+- A central hub for data on poverty, pain, plenty, production and peace, collated into the story of (in)sufficiency.
+- Web platform for a deep, non-linear narrative driven by cold data and warm logic
+- The base of Enough For All is a novel website piecing disparate data into a coherent narrative. It will allow user-driven plot pathways maintaining global meaning and connection between data and layers. The story structure allows deeper investigation as well as superficial story skimming.
+-
+- Enough For All needs web developers, data scientists, database programmers and content contributors to create this site.
+- Non-linear story of (in)sufficiency, its roots and remedies.
+- Hub for Fresh Alternative solutions
+- Cohering disparate data into a message of insight and hope
+- The story of the world, simplified and visualised
+- The story of the world is the story of “more”. Money, power, security, food, control, time…and the search never ends. Many misuse and squander resources for no great gain. Others struggle for the bare minimum.
+-
+- Much data on this already exists. Its a question of making sense of it.  Enough For All presents the data visually, drawing simple conclusions with logical consequences and deduction. The result:  a labyrinth of scarcity translated into an epic of enoughness.
+- Stitching together the story of sufficiency and satisfaction
+- Not new data. Not a truly original story.  Enough For All pieces together disparate data from numerous reliable, authoritative organisations into a message of insight and hope: There is enough for all. Everyone can have enough.
+- EFA aims to provide a novel, simple, engaging and comprehensive way of understanding a complex, compelling tale: the how much and how of enough.
+- Existing, disparate data
+- Making sense
+- Honesty and accountability about solutions and actions
+- A layered, global analysis of sufficiency integrated into an understandable and meaningful story
+- Making sense of immense, disparate data through a grand, visual, interactive narrative.
+- When is EFA?
+- When does EFA operate?  Now… and then  All attempts will be made to source the most recent data.   Historical data may be incorporated to show trends in scarcity and abundance.  Past, present and future (Our memories and future fears are plagued by thoughts of insufficiency: I didn’t do enough/I didn’t have enough etc. How can we heal this? Our plans are attempt to secure enough. How can we plan well?)
+- Past, present and future
+- Present
+- Present What does present data say about the current status of sufficiency and abundance?
+- Past
+- Past Has there always been enough? Is this a perpetual problem, independent of time?
+- Future
+- Future What do the forecasts say? What do technophiles, apocalyptists, doomsayers, ostriches promise? What do
+- Where is EFA?
+- Where does EFA treat and cover?  Here… and there. Global coverage with a global treatment.  Hearts, minds, bellies, pockets around the world, now and in the future  In the ether and in the famine (the psycho-emotional spheres as well as the tangible physical)  In the conflict and disaster ravaged zone as well as in the conflicted, turbulent mind
+- Inspired Resource Utilization. Fresh Alternatives.
+- Enough For All seeks to identify proposals that address multiple layers of the sufficiency problem.  Perhaps there are already some systems and models out there which can do a better job of generating, supplying and distributing enough for all…  Why are they not in place?  Who says they will, or won’t, work?  EFA will explore the tried and tested, and present and promote some Fresh Alternatives.
+- Reviewing conventional wisdom
+- Insufficiency has always existed, despite/because of the efforts of policy implementers. Either: 1. You believe it always will continue to exist, regardless. This site is not for you. Q 2. Historical efforts have typically fallen short because of
+- Simplifying complexity...just enough, not too much
+- Reframing the problem in order to see effective solutions  The answer to complexity is not necessarily greater complexity.
+- Complexity covers poverty and disguises solutions
+- What
+- What is Enough For All and How did it come about?
+- What is Enough For All and How did it come about?  Have you ever wondered about poverty? Have you ever wondered why there isn’t enough for some people or even for yourself? Have you ever wondered why the proposed solutions – economic, political, technological and otherwise – haven’t seemed to work? I have. That’s how this book came about.
+- I wanted to satisfy a curiosity and perhaps gain some insight into the universal, persistent problem of scarcity. I looked around and saw plenty people starving, mainly in the news as I live in a very wealthy country, Australia. I saw material poverty, famine, conflicts, torture and plenty of other tragedies. Yet I looked around Australia, where such events are much, much less apparent and saw plenty of depression, domestic violence, shootings, arguments, suicide, rape, drugs, fraud and plenty of other sadness. Poverty is everywhere. Peace is not common.
+-
+- What is EFA? EFA is…  An attempt to provide some insight into the obstinate, persistent, universal issues of poverty.  A multi-level, layered treatment of scarcity and abundance in the world.  A blog culminating in a book “Enough For All”  A resource on poverty data and analysis  An alternative to historically inadequate economic, political and other socio-cultural attempts at answering this question.
+- What is the product?
+- What service is it meant to provide?
+- Element typology
+- Make prototypes for each of these data types
+-
+-
+- Web element
+- Post
+- Page
+- Text box
+- Menu link
+- Slider
+- Data type
+- Actor-Agent
+- Reference
+- Visualisation
+- Graph
+- Map
+- Argument
+- Debate
+- Geospatial
+- Infographic
+- Idea-Theory-Concept
+- Solution-Technique
+- Orthdox solution
+- Fresh Alternative
+- Critique
+- Metadata
+- Pitch & Promotion
+- not pitching a product. pitching an idea
+-
+- What idea?
+- Universal, holistic sufficiency and abundance
+- Promote philosophical ideas, concepts & purpose
+- Promote the platform/mechanism
+- Compare-contrast Uniqueness & Novelty
+- Our World in Data
+- Oxfam et al
+-
+- Process & Platform
+- TBX-Scrivener-WP-SSP Writing development process
+- Process
+- Process
+- 1.	Map out pages & posts in TBX in WP/SSP container as either outline or map
+- 2.	Notes can either hold post/page text and/or represent ideas to incorporate
+- 3.	Write content in these page/post containers and link to other page/post containers.
+- 4.	If needed, create new page/post containers on the fly
+- 5.	Create SSP version ie. Copy-paste over to SSP.
+- 6.	Ensure formatting and linking is all okay.
+- 7.	Create an agent to find containers with no content ie. Containers requiring work, writing
+- 8.	Copy-paste this content into WP, recreating links to new posts/pages.
+- 9.	Format WP with headings, hyperlinks, TOC, embedded Tableau dataviz etc
+- 10.	Tag and categorize post/page as suitable & advantageous
+- 11.	Return to “Waiting to write” container for next writing piece
+- 12.	Repeat process
+- 13.	In WP, recreate links in source and target posts to reflect SSP links
+-
+- Blog post ideas, special issues, case studies etc can all exist in another container “Waiting to Write”. Then, when written, they can be inserted into the correct flow, linking as required.
+-
+-
+-
+-
+- Procedural Questions
+- Procedural Questions
+-
+- What pages/posts exist? What do not? What exist but have not been fleshed out?
+- Where are they situated in the hierarchy or map?
+- What do they link to? What links to them?
+- What work is required? What needs to be written?
+- What pages/posts need expanding on?
+-
+- This can be solved be primarily working in TBX.
+- About Scrivener and its role
+- About the Scrivener document
+- This Scrivener document should be focused on a “book edition” of Enough For All. The regular, daily creation of Enough For All should be done in Tinderbox. TBX is better suited to this for a number of reasons:
+- 1.	EFA will begin primarily as a website. This is due to the ability of web technologies to accommodate:
+- a.	Multiple logic pathway options
+- b.	The need to add increasing levels of detail “under” the parent topic
+- c.	The desire to go to “related item” posts from a particular topic or level of detail
+- d.	Search functionality
+- 2.	A TBX document can pull data visualizations from Tableau Community by holding a link. It canembed this dataviz into the document.
+- 3.	A Storyspace edition is also concurrently produced and packaged, thus warranting TBX as its companion note-taking software.
+-
+- This document will therefore remain in hibernation until it comes time to craft dedicated textual documents for which I prefer Scrivener. This may include early documents such as a project outline/description, pitches, and even pages for the website.
+-
+-
+-
+- TBX:
+- 1.	Story-Data
+- 2.	StorySpace “pages” (nodes serving as “About”, “Intro” and general pages.)
+- 3.	StoryMap - the visual layout of the story
+- ⁃	(although this also needs actual mapping for the website version too. Need a programmer for this.)
+-
+- Scrivener:
+-
+- ⁃	1. Website pages.
+- ⁃	These get copied and/or edited for StorySpace pages
+-
+- Roles
+- Adam's (role) as MetaMechanic
+- Co-ordinate contributors
+- Debate mediation
+- Thesis & idea generation
+- Story structurer
+- Embody principles (possible?? difficult!!)
+- Face of the project
+- Focal point for project
+- Public speaking & media commentary
+- I write
+- Missing data identification (along with others)
+- Navigator. I keep the narrative flowing amidst debate
+- Narrator
+- Curator
+- Collator
+- Subject matter expert
+- Web design and development
+- Social media Community building
+- Forum moderation
+- Fundraising
+- Content contributor
+- Representatives from partner organisations
+- Infographic houses
+- EFA country and topic-specific analysts
+- Participants could be specialists in a country, region, topic, skill or combination thereof.
+- Eventually they could be paid.
+-
+- GTAO
+- International/Global/Universal Thrival and Abundance Organization
+- Organization dedicated to addressing the underlying causes of material insufficiency in the world, such that there is Enough For All. A bridge between material poverty which plagues much of the world, interior poverty which plagues all of the world, and the plethora of self-development books and practices aimed at personal abundance.
+- “From poverty to sufficiency to abundance. From survival to sustainability to thrival/thrive-all.”
+- Dedicated to more, for more.
+- Working for enough for all
+- Working for more, for all.
+-
+- Dedicated to enough for all,
+- So that more
+- may be more
+- and have more.
+- Possible collaborators
+- DataViz communities
+- General Poverty & Development Organizations
+- Our World in Data
+- World Data Lab
+- Issue & Topic based Organizations
+- Web Agencies (pro bono, ngo focus etc)
+- The Pudding
+- Accurat
+- Funding Foundations
+- Individuals
+- Mentors
+- my network
+- Academics
+- Sir Michael Marmot
+- http://www.abc.net.au/news/2016-09-24/wealth-inequality-threatens-egalitarian-dream/7872760
+-
+-
+- Entrepreneurs
+- Business development & Capacity building
+- Duarte.com. Web agency for story-telling presentations and websites
+- School of Data Data Expedition ?
+- OKFN Open Knowledge Foundation
+- CKAN
+- School of Data
+- Gapminder Foundation. EFA.
+- Possible funding sources
+- Government
+- Philanthropists
+- Skoll
+- Case
+- Gates
+- Ford Foundation
+- Corporate / Commercial
+- Crowdsourcing / Public
+- Shuttleworth
+- amazers.org ??
+- Social media development & targeting
+- Content collaborators
+- MediaLab Sciences Po
+- Social entrepreneurs
+- Notes on Web Story/narrative structure & development
+- Each section leads to a finite, distinct number of conclusions.
+- These conclusions become start of a subsequent section elsewhere in the document
+- Binary flow chart approach
+- At each pathway there is a bifurcation - a binary answer question - Yes or No
+- Is there enough? Yes or No.
+- "No" pathway leads to a logical extension, clarification or clarification.
+- "Yes" leads to viable alternative reasons. etc
+- Debate & Argument Map sections
+- Some points (conclusions, assumptions, perspectives) will be open for debate.
+- These need to be incorporated into their own section, and referred to.
+- This should be done via visualisation and vizlang where possible.
+- Format & Structure of Writing
+- Point form & short paragraphs.
+- Keep the information concise and easy to read.
+- Graphs & data visualisations.
+- Better way of presenting much data.
+- Summary, Conclusions & Procession at the end of each section and chapter.
+- This leads into the following section/chapter.
+- Headings & sub-headings to clearly communicate section topic & meaning
+- Initially write addressing general data.
+- Then, at right section, shift focus to the reader. Get the reader to reflect on their own poverty & scarcity. Make it a personal appeal, using my own life and experience.
+- Point form & short paragraphs
+- Point form & short paragraphs.
+- Keep the information concise and easy to read
+- Keep the information concise and easy to read.
+-
+- Graphs & data visualisations
+- Graphs & data visualisations.
+-
+- Better way of presenting much data
+- Better way of presenting much data.
+-
+- Summary, Conclusions & Procession at the end of each section and chapter
+- Summary, Conclusions & Procession at the end of each section and chapter.
+- That is:
+- Summarize data
+- Draw conclusions from summary, then a
+- If/then statement eg. “IF there is enough X overall/at this level/in this place, THEN why do some within not have enough?”
+-
+- Consequences of patterns
+- Consequences of patterns.
+-
+- What is the general conclusion?
+- What is the general conclusion? What is the broad result of this trend?
+-
+- Concluding summary
+- Concluding summary: eg. “The problem is THEREFORE NOT insufficient food, water or land. What IS the problem then?
+-
+- Could it be X
+- Could it be X?” (X = next level up in tier eg. is it therefore distribution, technology, )
+- This leads into the following section/chapter
+- This leads into the following section/chapter.
+-
+- Each chapter begins with... "We saw in the previous chapter that lack of X is not the problem in some not having enough of X
+- Headings & sub-headings to clearly communicate section topic & meaning
+- Headings & sub-headings to clearly communicate section topic & meaning
+-
+- Initially write addressing general data
+- Initially write addressing general data.
+-
+- Then, at right section, shift focus to the reader
+- Then, at right section, shift focus to the reader. Get the reader to reflect on their own poverty & scarcity. Make it a personal appeal, using my own life and experience.
+- Each chapter should have
+- Focus on patterns & trends with a few examples to support trend
+- Consequences of patterns.
+- What is the general conclusion? What is the broad result of this trend?
+- Concluding summary: eg. “The problem is THEREFORE NOT insufficient food, water or land. What IS the problem then?
+- Could it be X?” (X = next level up in tier eg. is it therefore distribution, technology, )
+- Ready, Willing & Able = Production/Supply + Desire/Incentive + Technology/Plan
+- “Costs of NOT” eg. what do smoking, sickies, obesity etc etc cost the system?
+- “Costs of prevention/cure.” Eg. Cost to feed the world/solve global poverty.
+- Waste statistics in each particular category are explored within that section.
+- Distribution?? (Of resources) Geographically, socio-economically (class), age-wise.
+- Where does distribution get mentioned?
+- Focus on patterns & trends with a few examples to support trend
+- Focus on patterns & trends with a few examples to support trend
+- “Costs of NOT” vs “Costs of prevention/cure
+- “Costs of NOT” eg. what do smoking, sickies, obesity etc etc cost the system?
+- versus
+- “Costs of prevention/cure.” Eg. Cost to feed the world/solve global poverty.
+- Waste statistics in each particular category are explored within that section
+- Waste statistics in each particular category are explored within that section.
+-
+- Alternative Chapter Structure
+- 2 Sections: “Basic” and “Advanced” Basic = food, water, energy (firewood, dung, wind, sun), land, health
+- Advanced  = (= “Tech”) then covers technology to amplify and extend the use of “basic”
+- Chapter Structure and Outline
+- Start with most tangible and basic (ie physical stuff), moving into more intangible, ending with God.
+- Within this general direction, have “more general” first (eg. Stuff, Love) followed by specific important sub-category of that (eg. Money, God)
+- 3 broad categories:  Enough Stuff
+- Money is link between stuff and technology (????)
+- Enough Technology
+- Information is link between technology and love.
+- Enough Love
+- Enough Stuff
+- Enough Food, Water, Land
+- Enough Energy
+- Fossil fuels
+- Alternative energy
+- Free energy/ZPE
+- Enough Material Resources
+- Plant materials
+- Timber Minerals
+- Steel
+- Enough Money?? Here??
+- Enough Technology Enough Money?? Or here??
+- Enough Physical Health and Medicine
+- Enough Life (as in longevity)
+- Enough Information
+- Enough Knowledge
+- Enough Love
+- Enough Diversity of Opinion
+- Enough Power and Security
+- Enough Justice
+- Enough Peace and Wisdom
+- Enough Time
+- Enough God
+- From conclusion of Enough God, then revisit all other categories resulting in how we then actually do have enough stuff. Start with God as the spiritual foundation then everything else is manifest and “provided”.
+- Chapter structure reflects human development trends.
+- Chapter structure reflects human development trends. Start with basic survival needs. Transcend and include at each “turn”. After commenting on one thing, REVISIT the previous topic(s) and comment on them given our new understandings arrived at in current chapter. End of each chapter to include a sub-chapter on commentary and questioning, which leads to the next chapter. OR this could be another chapter at the end of each section. Each “level” corresponds to, and appeals to, different sectors of global society. In each chapter/section includes/addresses both personal and group/mass aspects eg. Personal manifestation of abundance as well as economy of abundance. Chicken and egg situation. Tie in the two together: personal -> social -> higher personal; social -> personal-> higher social There is a basic survival necessities aspect to each “issue” as there is an advanced luxury aspect to each issue. E.g. Food and clothing: there is basic food and clothing and then there is fine dining and high fashion. There is basic public transport, walking etc and then there is jet travel, luxury cars and space travel. Does providing basic necessities for all stop others having the luxuries they do?
+- Structure Guidelines
+- As a guideline for structure, follow:
+- Chakra system
+- Maslow
+- Spiral Dynamics/Value systems / Integral
+- Hawkins map of consciousness
+- Each section’s topic “enhances” or “uses” or “amplifies” the previous section’s resources Ie. Starting with basic stuff, the next section uses, enhances or amplifies the previous, so section 2 would be “technology” of some kind.
+- There is a basic survival necessities aspect to each “issue” as there is an advanced luxury aspect to each issue
+- There is a basic survival necessities aspect to each “issue” as there is an advanced luxury aspect to each issue.
+- E.g. Food and clothing: there is basic food and clothing and then there is fine dining and high fashion. There is basic public transport, walking etc and then there is jet travel, luxury cars and space travel.
+- Does providing basic necessities for all stop others having the luxuries they do?
+- Is EFA about clarifying goals and re-directing priorities
+- ie. Its not cars we want but mobility, status, freedom, convenience, beauty, power.
+- Its not food we want but satisfaction, security, survival, comfort, socializing, love...
+- So, will EFA promote the change in ways of doing things at the “advanced” level (or even at a basic level) so as to provide the same (if not better) levels of mobility, freedom, convenience, security, safety, comfort, power, beauty, love...???
+- Obviously yes, to a point, as current ways don’t promote thrive-all.
+- Website vs Book structure & development
+- Website is multi-pathway with map.
+-
+- Book is linear with linking page markers. Incorporates flowcharts
+-
+- Website is multi-pathway with map
+- Book is linear
+- Only Key/major data visualizations
+- Not too much depth. Refer to website for further depth & detail.
+- Only primary issues & topics
+- Graphics and Visual language
+- Linking page markers/indicators
+- References to website
+- Website is the vehicle to confirm hypothesis & intuition. Website constructs the argument over time
+- Book publishes final thesis
+- With significant references and footnotes!! Lots of references to EFA website.
+- Its hard to replicate hypertextual nature of web.
+- Website has depth, detail & debate, discussion
+- Book communicates definitive argument through primary topics & grand issues
+- A note on the dead-end rabbit hole of some argumentation pathways
+- I envisage that following particular argument/assumption pathways will lead beyond infographic and data viz possiblities, and will come down to discussion of assumptions and premises. This is perhaps best represented in visual language tools.
+-
+- I wonder if it will show a fundamental meta-premesis: Either thinking and argumentation is circular (circularly positive or circularly negative). Or, there is a steadfast opposition to reflexive questioning of assumptions, incongruences and inconsistencies. Instead, there may be the myth of the ideology.
+- Perhaps other tools of analysis will be required here eg. CLA and others.
+- And perhaps this is where MetaMyths come into play eg. ACIM.
+-
+- EFA Website structure, features and functionality
+- Does the EFA site just store data visualizations from other sites? Or, does it store data and present it and visualise it on the site? NO! - It pulls data from collaborator and partner sites! eg. UN, World Bank, NGO's etc.
+- Web exemplars & models
+- resonate.duarte.com
+- Web exemplar for EFA
+- Story telling
+- web agency
+- kff.org
+- educationaboveall.org
+- wri.org
+- globalslavery site
+- OurWorldInData.org
+- EFA uniqueness:
+- EFA places data in a story
+- EFA links data objects/entities/topics
+- EFA offers Fresh Alternatives
+- EFA has spiritual and metaphysical underpinnings
+- EFA has layered model of reality
+-
+- WorldInFigures.org
+- duarte.com/resonate
+- waterforpeople.org
+- Ecologicaldata.org
+- Energypedia
+- http://slaveryfootprint.org/
+- mario.ign.com
+- http://www.evoenergy.co.uk/uk-energy-guide/
+- http://aliendovecote.com/twine101/#/1
+- Website Features, Characteristics & Functionality
+- Forum to discuss
+- uses Data visualizations - graphs & infographics
+- Pull data and datavizzes from dedicated EFA Tableau Community page. This would eventually grow to internal Tableau Server. Link to external data source.
+- Debate and argument maps on issues and ideologies
+- Blogs acting as commentary
+- Social network of experts and interested parties. Users have ratings.
+- Videos from experts
+- Twitter feeds & Pinterest boards
+- StoryMap
+- Map situating reader of whereabouts in story journey
+- Differentiate between completed nodes/sections/chapters and anticipated/forthcoming
+- Navigation arrows going next (logical) step in story or
+- Landing page features
+- Latest from blog
+- Latest "There is enough...[X]" additions (articles, infographics, videos, debate maps)
+- "Become a contributor"
+- Ability to enter via different pathways or mechanisms
+- Map overview
+- "The Quick Tour" / The Overview
+- Issues and Topics
+- Countries/Regions
+- Enough For All in the news
+- Twitter feed
+- Driving questions slider
+- Template for community-contributors to propose "slides"
+- Slides (generic) as primary story-map data element
+- This way the story/ies can be pieced together
+- Folded writing as mechanism for non-visual elements
+- Logical link types: THEREFORE, AND, BUT, MORE DETAIL, CAVEAT/Conditions
+- Slide elements
+- Data Viz iFrame with data from external source
+- Link to internal discussion forum on that slide/topic
+- Link to slide discussion as well as topic discussion.
+- A topic discussion may refer to multiple slides.
+- Add slide
+- Sub-level: geography, sector etc
+- Timeline: past, future
+- Though these are often incorporated into the data viz already (a la Our World in Data data wizzes)
+- Rebuttal-dispute-contention
+- Possible useful software
+- Wordpress
+- Toolset plugin
+- GeneratePRess theme
+- Tableau Public/Community
+- StorySpace
+- Knoema
+- Plectica
+- Other
+- Google visualization API gadget gallery
+- Socrata
+- Parallaxr theme?
+- eXo enterprise platform for Global Effort and EFA ??
+- CKAN
+- Pliny
+- Twine
+- Inform 7
+- SylvaDB
+- RoambiFlow
+- Fig share
+- Omeka
+- Ellipsis
+- Inklewriter
+- Vary tale
+- EFA Ontology
+- Post Types, Features, Fields
+- DataCards
+- DataViz
+- Video/Audio
+- Geo Map
+- InfoCards
+- Infographic
+- Argument Map
+- Logic Flowcharts
+- Visual Language items
+- Concept Map
+- Plectica
+- Cmap tools
+-
+- Debate Graph
+- Quiz questions
+- Survey questions
+- Folded text
+- Knowledge Cards
+- Wisdom Cards = Stories
+- Relationship Types
+- [[Models of Argumentation]]
+- Relationships between DataCards
+-
+-
+-
+- This note is a convenient place to store information about the reader’s current status.
+- NOTE: This is a dual TBX-SSP working document. For ultimate EFA publication, the "WP/SSP" container is copied to a different file: "EFA-SS" for reading and downloading from EFA website.
+- Contrast note
+- EFA contrasts other initiatives by linking efforts to battle poverty with humanity’s practices which create poverty.
+- Efforts which track SDG’s
+-
+- EFA links data by creating a STORY - making sense of the data in a coherent fashion.
+-
+- SDGs work with only basic levels, minimums. And they do not consider the other end of the spectrum in considering the effect of the “developed” world (those who have met the basic minimums) on creating impoverished conditions, or at least not alleviating them.
+- eg. Global Partnership for Sustainable Development Data
+-
+- Our World in Data and Gapminder story: “The World is Getting Better”
+-
+- World Data Lab story (and others! - need to specify who): This is how things (population and markets) are changing. So this is how you need to position yourselves to be competitive.
+-
+- EFA story:
+- Everybody lacks something. You do not have enough of some thing, as do I.
+- There is enough for everybody - enough of every thing.
+- Insufficiency arises over category and level confusion. eg. Trying to achieve happiness through more food, sex, drugs, status… 1) does not achieve own goals and 2) creates problems for others.
+- Solutions must be multi-layered and multi-faceted if they are to avoid recreating or reinforcing the perceived problem.
+- Book to Review: The Obstacle is the Way - Ryan Holiday
+- EFA asks and re-asks "What is the problem?"
+- Stakeholders frame and scope the problem differently depending on their priorities, structures and tools.
+-
+-
+- EFA is a message to all stakeholders and solution providers (including myself, authors and researchers)
+- EFA seeks to link solution providers
+-
+-
+- On [[Civil Disobedience]]
+	- Gandhi, ML King, Buddhist monks (Tibetan, Vietnamese, Thai)… all practitioners of civil disobedience.
+	- However, they were grounded in rigorous spirituality.
+	- The modern CD movement is not, largely.
+-

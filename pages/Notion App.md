@@ -1,0 +1,14 @@
+-
+- https://mariepoulin.com/
+- Pro's
+	- Can embed almost anything
+- Con's
+	- Templates don't update dynamically
+		- Change the template after initial use, and that update does not propagate to previously used instances
+	- Tables are not 2-way
+		- Header rows are not instances/entries
+	- Database cells cannot be instances except in linked/related database relation
+	- No predictive linking
+		- to avoid duplication or close-renaming of existing entries
+	- No unlinked backlink recognition
+	-

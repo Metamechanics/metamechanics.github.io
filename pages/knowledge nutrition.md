@@ -1,0 +1,8 @@
+- the idea that we need to monitor and be disciplined about what we allow into our minds, as much as, if not more than, what we put into our bodies
+- [[WiKID pyramid]] of knowledge nutrition
+-
+- Consuming data
+- Digesting information
+- Extracting knowledge  (and excreting intellectual waste) (And storing intellectual surplus)
+- Acting on wisdom
+-

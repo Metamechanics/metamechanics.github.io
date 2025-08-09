@@ -1,0 +1,10 @@
+alias::
+URL::
+organisation:: [[The Great Simplification]], [[Institute for the Study of Energy and Our Future]] 
+role:: [[independent researcher]] 
+fields:: [[Societal metabolism]] 
+publications:: [[The Great Simplification]], [[Frankly]] 
+tags:: person, #keyThinker, #inspiration 
+project:: #metamechanics 
+public:: true
+-

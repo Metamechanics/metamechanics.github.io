@@ -1,0 +1,4 @@
+- #myBook #toWrite #toOutline #myCreation #[[logical fallacy]] #[[cognitive bias]]
+- {{embed [[the Universe as collective confirmation bias]]}}
+- {{embed [[the Universe as Rohrschach blot]]}}
+-

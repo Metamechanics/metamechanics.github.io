@@ -1,0 +1,18 @@
+alias:: Dispilio Scripture
+tags:: #[[ancient writing]]
+- ancient writing found in Greek region, reputed to be older than Sumerian
+- https://www.facebook.com/groups/338947336258465/?hoisted_section_header_type=recently_seen&multi_permalinks=2813217362164771&__cft__[0]=AZVc0XEyliSOkMXdSHQv82Ny9fc4ZX3VvpP-8JG5rwrkQJiNPwQvz1B8NlTta7JvqTCtn6ojIa47mlDepczPgfoY5_m6hrOnHYLbRPoi6EWE1J5fChG_ReV06IgR9Mb6PWTdBjyzm5h2MzR7d45l-83yP3ElZ_9eh9Od1Ew2mdD0jFjmBB_Py0H6Fh1W6uazIkv40TN_VDuF_Lna1NcfBZAy_Zy4Cwy5zbNvuxNVrJD_MQ&__tn__=-UC%2CP-R
+- The Dispilio Tablet – alleged the oldest known written text could rewrite the history!
+- According to conventional archaeology, writing wasn't invented until 3,000 to 4,000 BC in Sumeria. However, a 7,000-year-old tablet found in Greece over a decade ago challenges this position.
+- This mysterious artifact was discovered in a Neolithic lakeshore settlement that occupied an artificial island near the modern village of Dispilio on Lake Kastoria in the Kastoria Prefecture, Macedonia, by George Hourmouziadis, the Professor of Prehistoric Archaeology at the Aristotle University of Thessaloniki, and his team in 1993.
+- People living in the settlement 7,000 to 8,000 years ago used to inhabit the area, and the Dispilio Tablet was one of the many artifacts found there. The tablet is significant because it bears an ancient, cryptic inscription that dates back to before 5,000 BC.
+- The existence of the Dispilio Tablet (also known as the Dispilio Scripture) conflicts with conventional archaeology’s belief that writing was not developed until 3,000 to 4,000 BC in Sumeria.
+- The Carbon-14 (radiocarbon dating) method dated this wooden tablet to 5,260 BC, making it significantly older than the writing system used by the Sumerians. The text on the tablet includes a type of engraved writing that may consist of a pre-existed Linear B writing system used by the Mycenaean Greeks.
+- Mycenaean Greece (or the Mycenaean civilization) was the last phase of the Bronze Age in ancient Greece.
+- Professor Hourmouziadis has suggested that this kind of writing, which has not yet been decoded, may have been any kind of communication, including symbols representing the counting of possessions.
+- According to Professor Hourmouziadis, the markings suggested that the current theory proposing that the ancient Greeks received their alphabet from the ancient civilizations of the Middle East (Babylonians, Sumerians and Phoenicians etc) fails to close the historic gap of some 4,000 years.
+- This blind gap translates into the following facts: while ancient eastern civilizations would use ideograms to express themselves, the ancient Greeks were using syllables in a similar manner like we use today.
+- Source: MRU.INK
+- ***Today we are continuing our fundraising drive to reach our goal. If you are able, please help support our group today. Every little bit helps!
+- GoFundMe Link...
+- [https://gofund.me/e2436823](https://l.facebook.com/l.php?u=https%3A%2F%2Fgofund.me%2Fe2436823%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3OQVV3kIoHUDiVEBks-V0GApKhQV9zLrshy5xCAj4EaJvMoGaTB3kFpak_aem_uhjTibkATQLD4x7mwy-16Q&h=AT0R9w9MZFXmSvwT7FcQVNtIXoIH-re36wCx98oCjEAfU9QpfSYMw6cobNUCx-xjrt9s6cyQ6DMHrUFa_fT0uDoYOSyHAEDd_PLFKga_mIfVHZrMGVYcmPdhCGaCBx7nG2TJt7A&__tn__=-UK-R&c[0]=AT02_sJcZfMAUgonk1KrZjYLg8DEidxcCt__TDctLqkf7WKRet60L_eEeaSk3X8nR5Bgei7x7y8CLZCUyf_azwrgpjucAx7bJuLM3UbhyEMKgq66TWjOYJnpt0VjFXPMj9X5RCGWYgc_MCoCxnE8U4_cV0VJ5tSMDZ9ye6hnHRdh-8bIiaZZGU_BvQLrKklC2A51I7B1mxJs2cndCx_z-bPlp2O356sI4qA75VW1y8YWchwiOcNJ)

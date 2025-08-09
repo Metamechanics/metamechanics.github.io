@@ -1,0 +1,5 @@
+- #psi #[[Placebo Effect]] #consciousness
+- [Home - Scientific and Medical Network](https://scientificandmedical.net/)
+- related: [[The Galileo Commission]]
+- [[Dr. Peter Fenwick]]
+-

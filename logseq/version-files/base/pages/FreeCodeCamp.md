@@ -1,0 +1,13 @@
+- #[[WADS study]]
+- [Learn to Code — For Free — Coding Courses for Busy People](https://www.freecodecamp.org/)
+- free courses and certifications in almost all languages and apps
+- learning pathways with projects
+-
+- responsive web design
+- javascript
+- front end libraries (react, angular, nodejs?)
+- SQL
+- APIs
+- Python
+- ![Screenshot 2025-03-08 at 3.46.47 pm.png](../assets/Screenshot_2025-03-08_at_3.46.47 pm_1741412832066_0.png)
+-

@@ -1,0 +1,6 @@
+person:: [[Carl Jung]] 
+tags::
+see-also:: [[collective subjectivity]], [[collective dream]]
+- Is there a hierarchy of "collectives" that perhaps are nested? Is there a collective unconscious of every level, aspect and group ? #bigQ
+	- ie. family, national citizens, Catholics, supporters of team X, men/women etc, earthlings, rocks, ants etc
+-

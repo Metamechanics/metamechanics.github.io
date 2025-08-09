@@ -1,0 +1,4 @@
+- #futuresStudies #[[Key Thinker]] #WFSF
+- [Eleonora Barbieri Masini – WORLD FUTURES STUDIES FEDERATION](https://wfsf.org/eleonora-barbieri-masini/)
+-
+-

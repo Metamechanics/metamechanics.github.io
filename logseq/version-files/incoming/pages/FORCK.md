@@ -1,0 +1,42 @@
+- 2 aspects:
+	- The spiritual practice and underlying concepts
+	- The business: the merchandise with the slogans and catchphrases
+-
+- FORgiveness. Compassion. Kindness.
+- Not a new religion. Just a naughty / cool / poetic reminder.
+- Slogans and catchphrases
+	- Naughty
+		- The opposite of a knife is a ForCK.
+		- May the FORCK be with you.
+		- If I told you you had a nice body would you forck me?
+		- When you come to a fork in the road, take it.
+		  When you get a forck on the road, accept it.
+		- Forck you, my friend
+		- Forck it!
+		- For God's sake, forck it!
+		- For fuck sake, forck it!
+		- When all else fails, give a forck.
+		-
+	- Unnaughty
+		- The only way out
+		- The only way forckward
+		- The only way forward is forckward
+- Products
+	- T-shirts
+	- mugs
+	- Fork
+		- Hand in prayer position
+		- 5 fingers as prongs
+		- Prayer
+		- hand of fatima
+		- Buddhist icons
+		- one letter (f,o,r,c,k) on each prong/finger
+		-
+- URLs
+	- forck.me
+	- forck.me.uk
+	- forck.it
+	-
+- [[Fuck you vs Forck you]]
+- The Infinite Well within
+	- Be well. Drink from the Infinite Well within.

@@ -1,0 +1,13 @@
+- #[[ancient text]] #Sumer #pre-history
+- discovered 1849
+- [Ashurbanipal Library Project - The Ashurbanipal Library Project](https://oracc.museum.upenn.edu/asbp/)
+- [Home - Cuneiform Digital Library Initiative](https://cdli.mpiwg-berlin.mpg.de/)
+-
+- texts readable at [[ORACC]]
+	- [Oracc: The Open Richly Annotated Cuneiform Corpus](https://oracc.museum.upenn.edu/)
+-
+- [[Atra-hasis]]
+- [[Epic of Gilgamesh]]
+- [[Eridu Genesis]]
+- [[Legend of Itzubar]]
+-

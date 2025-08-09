@@ -1,0 +1,10 @@
+- #fear #MYWOF #AMT #[[Non-dual futures thinking]]
+- The "future" is synonymous ontologically with "fear"
+- Where does fear reside?
+	- in the mind
+	- in the 'future'
+- if the future exists as fear, or rather, fear exists as the future, what is the past?
+- the future is going to give me 'X'; X' can be both
+	- good: pleasure, reward, 'deserved' or
+	- bad: punishment, karma, justice, revenge
+-

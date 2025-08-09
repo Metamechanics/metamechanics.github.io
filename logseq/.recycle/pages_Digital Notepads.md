@@ -1,0 +1,4 @@
+-
+- [10 Best Digital Notepads of 2022 - Pixelsmith Studios](https://pixelsmithstudios.com/tech-reviews/best-digital-notepads/)
+-
+- [Royole | If Different](https://global.royole.com/us/rowrite-smart-writing-pad)

@@ -1,0 +1,10 @@
+journal:: [[BBVA OpenMind]] 
+authors::
+year::
+URL:: https://www.bbvaopenmind.com/en/humanities/beliefs/are-we-a-simulation/
+tags:: article, reference, #[[simulation theory]] #[[What is reality?]]
+project:: #AMT #[[what evidence is there for the world being an illusion?]] 
+public:: true
+
+- see OneTab
+- https://www.bbvaopenmind.com/en/humanities/beliefs/are-we-a-simulation/

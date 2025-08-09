@@ -1,0 +1,3 @@
+-
+- [List of issues World Futures](https://www.tandfonline.com/loi/gwof20)
+-

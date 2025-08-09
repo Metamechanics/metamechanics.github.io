@@ -1,0 +1,11 @@
+alias::
+tags:: app, software
+URL:: https://sqlitecloud.io/
+similar-to:: [[Outerbase]] 
+purpose:: #databases 
+project:: [[metamechanic.io]]
+
+-
+- [SQLite Cloud - Share, scale and deploy SQLite databases.](https://sqlitecloud.io/)
+-
+-

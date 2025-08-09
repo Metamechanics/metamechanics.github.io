@@ -1,0 +1,10 @@
+- [[Placebo Effect]] and [[Nocebo Effect]]
+- [[psi]]
+- [[remote viewing]]
+- [[knowledge cartography]]
+- [[Futures Studies]]
+- [[MacroEnergetics]]
+- [[Comparative Religion]]
+- [[Philosophy of Science]] and [[History of Science]]
+- [[Contrasting Capitals Economics]]
+-

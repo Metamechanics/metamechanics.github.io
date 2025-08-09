@@ -1,0 +1,4 @@
+- #toWrite #[[FACTs 4CT]] #myPosition #UFO #ET #FACTs
+- related to: [[The Fermi Paradox]]
+- [[What evidence is there for UFOs and Extra-Terrestrials]]
+-

@@ -1,0 +1,4 @@
+- sort MetaMemory @parallel(false) @autodone(false) @context(Action : file-sort) @tags(Action : file-sort, Time-Priority : on-going, Time-Priority : whenever)
+- Remove duplicate & similar photos in Mac Photos @parallel(false) @autodone(false)
+- Sergei Young longevity offer in email.  @parallel(false) @autodone(false) @flagged
+- You are what you risk - book @parallel(false) @autodone(false)

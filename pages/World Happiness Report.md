@@ -1,0 +1,9 @@
+- #happiness
+- @@html: [World Happiness Report 2022 | Tableau Public](https://public.tableau.com/app/profile/worldhappinessreport/viz/WorldHappinessReport2022final/Figure2_1)@@
+-
+-
+- https://public.tableau.com/views/WorldHappinessReport2022final/Figure2_1?:language=en-GB&:display_count=n&:origin=viz_share_link
+-
+- [:iframe {:src "https://public.tableau.com/views/WorldHappinessReport2022final/Figure2_1?:language=en-GB&:embed=y&:display_count=n&:origin=viz_share_link/" :style {:height 800 :width 615}}]
+- [WHR+23.pdf](https://happiness-report.s3.amazonaws.com/2023/WHR+23.pdf)
+-

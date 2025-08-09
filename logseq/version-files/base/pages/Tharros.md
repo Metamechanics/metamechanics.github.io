@@ -1,0 +1,3 @@
+-
+- [Tharros | Wandering Sardinia](https://wanderingsardinia.com/articles/41/tharros)
+-

@@ -1,0 +1,14 @@
+alias::
+URL:: https://metanexus.net/metanexus_profile/william-grassie/, 
+organisation::
+role::
+fields:: [[Comparative Religion]], [[humanism]], [[atheism]], [[political science]], [[philosophy of religion]], [[Sociology of Science]] 
+publications-productions:: 
+country::
+tags:: person
+project:: #AMT #X-Science #[[The Church of Science]] 
+question::
+public:: true
+- [Grassie, William – Metanexus](https://metanexus.net/metanexus_profile/william-grassie/)
+- [William Grassie - Closer To Truth](https://closertotruth.com/contributor/william-grassie/)
+-

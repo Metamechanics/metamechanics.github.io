@@ -1,0 +1,22 @@
+alias:: 5R
+
+- #Exercise #fitness #longevity
+- Rehab
+	- [[ATG]]
+	- [[Jason Tinnock]]
+	- mild [[ketogenic diet]] + [[fasting]]
+	- [[Regular strength-stretch exercises]]
+	-
+- Running
+- Riding
+	- [[unicycle]]
+	- [[bikepacking]], [[bike touring]]
+- Rowing
+	- ergo training
+	- canoeing & kayaking
+	- rivers, sea
+	- river camping
+	- island
+- Rolling
+	- [[BJJ]]
+	- [[acroyoga]], [[acrobatics]]

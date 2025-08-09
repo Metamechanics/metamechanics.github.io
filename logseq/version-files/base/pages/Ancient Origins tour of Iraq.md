@@ -1,0 +1,16 @@
+- #tour #Iraq #pre-history #FRESH
+- [Unveiling Ancient Treasures: Epic Iraq Tour - Oct 2024 | Ancient Origins](https://www.ancient-origins.net/unveiling-ancient-treasures-epic-iraq-tour-oct-2024-0018884)
+- Places to be visited:
+	- Uruk
+	- Lagash
+	- Nippure & Borsippa
+	- Al-Ukhaider & Babylon
+	- Samarra
+	- Ctesiphon & Wasit
+	- Iraq Museum & Selusia
+	- Abassid Palace
+	- Bab alwastani & Aqargouf, Ashur & Hatra
+	- Nineveh
+	- Nimrud- Khorsabad
+	- Citadel & Bazaar
+-

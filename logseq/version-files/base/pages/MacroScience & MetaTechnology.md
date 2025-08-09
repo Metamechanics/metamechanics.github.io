@@ -1,0 +1,10 @@
+-
+- "meta" =
+- "macro" =
+- every thing is technology
+- [[Definition of Technolgy]]
+- [[X-C definition of technology]]
+- Science is a technology
+	- a tool
+	- not truth itself
+-

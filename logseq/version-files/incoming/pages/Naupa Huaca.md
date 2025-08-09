@@ -1,0 +1,13 @@
+alias:: Naupa Iglesia
+tags:: #megalith #[[advanced stone engineering]] #anomaly #[[andesite]] #geopolymer  
+place::
+country:: #Peru 
+place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
+nearest-town:: [[Cusco]] 
+map-url:: [PQ69+FX Pachar, Peru](https://maps.app.goo.gl/63eJz1rbMkWmMswo8)
+
+-
+- [Pre-Flood Ruins of Advanced Civilization High in the Moutains: Naupa Huaca - YouTube](https://www.youtube.com/watch?v=y7ax0Qu0dQo) #[[sacred geometry]] #[[musical geometry]] #[[false doors]]
+- Parallels of geometry between here and Giza, Bent Pyramid
+- {{video https://www.youtube.com/watch?v=y7ax0Qu0dQo}}
+-

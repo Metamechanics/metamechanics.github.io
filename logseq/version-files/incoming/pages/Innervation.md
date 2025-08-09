@@ -1,0 +1,6 @@
+-
+- Innovation through inner transformation
+- "Inner" means mind
+- Transformation means qualitative change
+- [[Hierarchy of Alternatives]]
+-

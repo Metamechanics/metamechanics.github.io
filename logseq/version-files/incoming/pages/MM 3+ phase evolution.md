@@ -1,0 +1,38 @@
+- Criteria of Each Phase
+  collapsed:: true
+	- MVP
+	  collapsed:: true
+		- What are features, criteria, milestones?
+	- Website
+		- site map
+		- functionality
+		- exemplars
+		- mock-ups
+	- Content
+		- Page content
+		- Blogs
+		- Articles
+		- Index / encyclopedia cards
+		- Maps
+	- Project brief / description
+		- level / degree of development of brief
+	- Collaborators
+		- degree of separation from me
+		- trustworthiness
+		- sympathetic vs critical
+	- Community
+		-
+	- Audience
+- [[Phase 1 MM]] - solo
+  collapsed:: true
+	- create to recruit support - material and/or psychological
+	- create to define and cultivate initial community
+	- to outline projects for those possibly interested
+	- to receive fundamental feedback
+- [[Phase 2 MM]] - 1st degree trusted collaborators and critical friends
+- [[Phase 3 MM]] - 2nd degree contributors: invited experts
+- [[Phase 4 MM]] - public beta
+- [[Phase 5 MM]] - public
+- I need to define what projects are ideally at what stage in each phase. Different projects have different priorities eg. EFA top, Array Attire low.
+	- But! this could vary as group interest varies.
+- Where do the stages of X-C community participation enter? Phase 3? End of 2?

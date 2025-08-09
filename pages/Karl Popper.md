@@ -1,0 +1,12 @@
+alias::
+URL::
+organisation::
+role::
+fields:: [[Philosophy of Science]] 
+publications:: 
+tags:: person, philosophy
+project:: [[Metamechanica]], [[X-Science]] 
+public:: true
+-
+- [Popper Rev 4 academia](https://philpapers.org/archive/PIGPRO.pdf) #[[conspiracy thinking]]
+-

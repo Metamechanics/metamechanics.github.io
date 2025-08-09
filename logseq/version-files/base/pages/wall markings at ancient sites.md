@@ -1,0 +1,12 @@
+-
+- locations
+	- [[Bazda Caves]]
+	- [[Van Castle]]
+	- [[Longyou Caves]]
+	- [[Petra]] ??
+- purpose, use, effect of...
+	- sawing
+	- mortar / cement making
+	- artwork
+	- chiseling
+	-

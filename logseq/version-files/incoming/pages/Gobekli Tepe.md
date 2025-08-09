@@ -1,0 +1,21 @@
+alias::
+tags:: [[T pillars]], [[ancient handbags]] 
+place::
+country:: [[Turkey]] 
+place-type:: #[[ancient site]] project:: #[[Adam's Atlas]] 
+nearest-town:: [[Sanliurfa]] 
+map-url::
+project:: [[Adam's Atlas]]
+
+- #[[megalithic architecture]]
+- Turkey, near Syrian border
+- 11600 YBP
+- coverage by sedimentation was not natural. Deliberately buried under artificial hill
+	- "pot bellied hill"
+- no contamination by later cultures
+- 7000 years older than [[Stonehenge]]
+- 6000 years older than anything else
+- [Şanlıurfa Göbeklitepe | Turkish Museums](https://turkishmuseums.com/museum/detail/2228-sanliurfa-gobeklitepe/2228/4)
+-
+- [[Concrete and heavy machinery at Gobekli Tepe]]
+-

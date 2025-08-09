@@ -1,0 +1,31 @@
+- #toWrite #metamechanic-io #Metamechanica
+- all work comes from God
+- all work leads back to God
+- [[work as a spiritual practice]]
+	- intellectual concepts
+	- physical processes & acts
+		- planning
+		- writing
+		- reading
+- [[MacroScience]] & [[MetaTechnology]]
+- [[Futures, Foresight & Time Tools]]
+- [[Visual Knowledge]] & [[Information Geometry]]
+- [[wicked problems]] & [[Social Messes]]
+- [[Holistic Health & Wholeistic Wealth]]
+-
+- Consensus does not make truth.
+- [[Truth is stranger than fiction]] .
+- Truth vs truth-tools
+	- Evidence does not make truth.
+		- Errors had evidence too.
+		- Evidence can hide its context, limitations, bias and assumptions.
+	- Contemporary, orthodix, conventional science is powerful, yet inadequate
+		- Science better serves as a truth-tool, but it's often confused with truth itself.
+- Information overload. DIKW pyramid
+	- distillation and simplification
+	- grander patterns. Abstraction
+	-
+- Postulates
+- Assertions
+- Practices
+- Positions

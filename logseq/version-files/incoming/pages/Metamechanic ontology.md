@@ -1,0 +1,68 @@
+- #ontology #taxonomy
+- #+BEGIN_IMPORTANT
+  Be careful of locating 'Technology' or 'Tools' in my ontology. I re-define these terms to include everything eg. ideas, language, the body etc.
+  #+END_IMPORTANT
+- ### Ideas
+	- [[Argumentation ontology]]
+	- [[Disciplines, Fields & Topics taxonomy]]
+	- Space-Time
+	  or are these "ideas" ?
+		- pasts
+		- presents
+		- futures
+	- Theories, Models, Frameworks, Concepts
+- ### Processes 
+  (are the relationships?)
+	- natural processes
+	- social processes
+	- mental processes
+		- [[thinking tools]]
+- ### Entitities
+	- [[People ontology]]
+	- [[Organisations ontology]]
+	- Products
+		- [[Media Resources ontology]]
+			- Book
+			- Chapter
+			- Journal
+			- Journal article
+			- Website
+			- Blog post
+			- Movie
+			- Documentary
+			- Podcast
+			- Vodcast
+			- Video clip
+			-
+		- [[data visualization]]
+			- Infographic
+			- Chart-graph
+			- Dashboard
+-
+- [[X-C ontology]]
+	- #ontology #[[Metamechanic ontology]]
+	- {{embed [[X-C ontology]]}}
+	- what is this for? I can't remember...
+		- obviously X-C communities but what was I thinking exactly?
+-
+-
+- #QTS: [[What is the difference between ontology and taxonomy?]]
+	- is that an ontology includes relationships between named entities?
+- contrast [[metamechanica tag taxonomy]]
+- MM organisation and administration
+	- Activity types
+- Do I really need an ontology or taxonomy for each project? No, I think. However, it could be useful to develop ontotax for fields which could be used by others:
+	- [[Energy ontology]]
+	- [[Futures ontology]]
+	- [[Fresh Alternatives ontology]]
+	-
+- To obtain and replicate:
+	- [[People ontology]]
+	- [[Organisations ontology]]
+	- [[Media Resources ontology]]
+	- [[Ideas ontology]]
+		- [[Argumentation ontology]]
+		- [[Disciplines, Fields & Topics taxonomy]]
+		- [[thinking tools]]
+		-
+- {{embed [[Relationships ontology]]}}

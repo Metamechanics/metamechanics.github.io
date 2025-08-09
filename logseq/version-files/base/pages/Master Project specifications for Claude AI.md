@@ -1,0 +1,362 @@
+alias::
+tags:: #claude-ai #[[project brief]] 
+project:: #allProjects #[[Coding with AI]] 
+see-also::
+- Usage Instructions: Copy this entire specification into new Claude conversations with the instruction: "Please reference these Master Project Specifications for context on my development portfolio."
+- Archived versions
+  collapsed:: true
+	- # Master Project Specifications v1
+	  collapsed:: true
+		- ## Developer Profile
+		- Experience Level: Newbie to coding/programming, learning as I go
+		- Current Tools:
+			- Logseq (markdown, hierarchical bullets, quick capture, templates)
+			- Obsidian (long-form writing and organization)
+			- Claude (web interface, expanding to API and Claude Code)
+		- Learning Style: Need detailed beginner steps, like analogies
+		- Budget: Willing to pay for quality tools and services
+		- ## Portfolio Overview
+		- Goal: Integrated ecosystem of 12 websites + specialized apps
+		- Timeline: Building systematically, phase by phase
+		- Monetization: Mix of community-driven content, commerce, and licensed software
+		- ## Website Projects (12 interconnected sites)
+		- Nature: Knowledge portals/wikis with blogs, galleries, portfolios
+		- Common Features:
+			- Shared backend databases for cross-referencing
+			- Community-driven content creation and moderation (future)
+			- Common presentation themes with unique visual distinctions
+			- Start with my writing, expand to community
+		- Content Types: Knowledge articles, blogs, image galleries, work portfolios, some commerce
+		- Relationships: Highly inter-related content, different themes/filters of same underlying knowledge base
+		- ## App Projects
+		- ### DiaGnosis (Priority App)
+		- Purpose: Visual-textual knowledge cartography (concept mapping, argument maps, graphical knowledge organizer)
+		- Features: Standard + user-defined features, AI integration
+		- Goal: Simplify complex arguments, make difficult issues easier to understand
+		- Deployment: Desktop, web app, embeddable in knowledge portals, external customer integration
+		- Commercial: Future licensing/sales product
+		- Tech Notes: Previously considered yFiles SDK + Neo4j (currently too expensive)
+		- ### ACIM Concordance
+		- Purpose: Study software for 'A Course In Miracles' (like accordance/e-sword)
+		- Platforms: Desktop/web app, possible mobile
+		- Evolution: Personal use → commercial product
+		- Integration: Works with other projects
+		- ### Language Learning App
+		- Basis: ACIM translations
+		- Connection: Subset of DiaGnosis functionality
+		- Platform: Mobile app
+		- Features: AI integration
+		- ### Solopreneur Tracker
+		- Purpose: Task-habit-goal-vision tracking
+		- Target: Solopreneurs
+		- ### Metamechanical AI
+		- Purpose: LLM trained on my content
+		- ## Tool Projects
+		- ### PDF/ePub Processor
+		- Function: Upload, summarize into hierarchical levels
+		- Advanced: Extract core arguments, concepts, evidence, examples
+		- Integration: Use with main projects and DiaGnosis
+		- ### Audio/Video Transcriber
+		- Function: Transcribe and summarize like PDF processor
+		- Integration: Cross-project utility
+		- ### ACIM Text Processor
+		- Function: Clean, tidy, organize ACIM text
+		- Purpose: Support ACIM concordance project
+		- ## Technical Preferences
+		- Repository Access: Want Claude to access my repositories
+		- AI Agents: Interested in developing where helpful
+		- API Integration: Planning to expand to Claude API
+		- Claude Code: Willing to integrate for development efficiency
+		- ## Key Challenge to Solve
+		- Problem: Don't want to repeat project specifications across conversations
+		- Solution Needed: Reusable summaries and documentation system
+		- Integration: Work with my Logseq/Obsidian workflow
+		- ## Current Development Approach
+		- Documentation: Logseq for quick capture, Obsidian for long-form
+		- Format: Prefer hierarchical bullet points (Logseq style)
+		- Learning: Want to understand decisions while maintaining momentum
+		  
+		  ---
+		  
+		  Usage Instructions: Copy this entire specification into new Claude conversations with the instruction: "Please reference these Master Project Specifications for context on my development portfolio."
+	- # Master Project Specifications 1.1
+	  collapsed:: true
+		- ## Developer Profile
+			- Experience Level: Newbie to coding/programming, learning as I go
+			- Current Tools:
+				- Logseq (markdown, hierarchical bullets, quick capture, templates)
+				- Obsidian (long-form writing and organization)
+				- Claude (web interface, expanding to API and Claude Code)
+			- Learning Style: Need detailed beginner steps, like analogies
+			- Budget: Willing to pay for quality tools and services
+		- ## Portfolio Overview
+			- Goal: Integrated ecosystem of 12 websites + specialized apps
+			- Timeline: Building systematically, phase by phase
+			- Monetization: Mix of community-driven content, commerce, and licensed software
+		- ## Website Projects (12 interconnected sites)
+			- Nature: Knowledge portals/wikis with blogs, galleries, portfolios
+			- Common Features:
+				- Shared backend databases for cross-referencing
+				- Community-driven content creation and moderation (future)
+				- Common presentation themes with unique visual distinctions
+				- Start with my writing, expand to community
+			- Content Types: Knowledge articles, blogs, image galleries, work portfolios, some commerce
+			- Relationships: Highly inter-related content, different themes/filters of same underlying knowledge base
+		- ## App Projects
+			- ### DiaGnosis (Priority App)
+				- Purpose: Visual-textual knowledge cartography (concept mapping, argument maps, graphical knowledge organizer)
+				- Features: Standard + user-defined features, AI integration
+				- Goal: Simplify complex arguments, make difficult issues easier to understand
+				- Deployment: Desktop, web app, embeddable in knowledge portals, external customer integration
+				- Commercial: Future licensing/sales product
+				- Tech Notes: Previously considered yFiles SDK + Neo4j (currently too expensive)
+			- ### ACIM Concordance
+				- Purpose: Study software for 'A Course In Miracles' (like accordance/e-sword)
+				- Platforms: Desktop/web app, possible mobile
+				- Evolution: Personal use → commercial product
+				- Integration: Works with other projects
+			- ### Language Learning App
+				- Basis: ACIM translations
+				- Connection: Subset of DiaGnosis functionality
+				- Platform: Mobile app
+				- Features: AI integration
+			- ### Solopreneur Tracker
+				- Purpose: Task-habit-goal-vision tracking
+				- Target: Solopreneurs
+			- ### Metamechanical AI
+				- Purpose: LLM trained on my content
+		- ## Tool Projects
+			- ### PDF/ePub Processor
+				- Function: Upload, summarize into hierarchical levels
+				- Advanced: Extract core arguments, concepts, evidence, examples
+				- Integration: Use with main projects and DiaGnosis
+			- ### Audio/Video Transcriber
+				- Function: Transcribe and summarize like PDF processor
+				- Integration: Cross-project utility
+			- ### ACIM Text Processor
+				- Function: Clean, tidy, organize ACIM text
+				- Purpose: Support ACIM concordance project
+		- ## Technical Preferences
+			- Repository Access: Want Claude to access my repositories
+			- AI Agents: Interested in developing where helpful
+			- API Integration: Planning to expand to Claude API
+			- Claude Code: Willing to integrate for development efficiency
+		- ## Key Challenge to Solve
+			- Problem: Don't want to repeat project specifications across conversations
+			- Solution Needed: Reusable summaries and documentation system
+			- Integration: Work with my Logseq/Obsidian workflow
+		- ## Current Development Approach
+			- Documentation: Logseq for quick capture, Obsidian for long-form
+			- Format: Prefer hierarchical bullet points (Logseq style)
+			- Learning: Want to understand decisions while maintaining momentum
+			  
+			  ---
+			  
+			  Usage Instructions: Copy this entire specification into new Claude conversations with the instruction: "Please reference these Master Project Specifications for context on my development portfolio."
+- # Master Project Specifications
+  collapsed:: true
+	- ## Developer Profile
+		- ### Experience Level
+		  id:: 683835bb-b2a1-4c3b-bfc7-8e87ffff1e81
+			- Newbie to coding/programming, learning as I go
+		- ### Current Tools
+			- Logseq (markdown, hierarchical bullets, quick capture, templates)
+			- Obsidian (long-form writing and organization)
+			- Claude (web interface, expanding to API and Claude Code)
+		- ### Learning Style
+			- Need detailed beginner steps, like analogies
+			- Can use Visual Studio code in a basic way
+		- ### Budget
+			- Willing to pay for quality tools and services
+	- ## Portfolio Overview
+		- ### Goal
+			- Integrated ecosystem of 12 websites + specialized apps
+		- ### Timeline
+			- Building systematically, phase by phase
+		- ### Monetization
+			- Mix of community-driven content, commerce, and licensed software
+	- ## Website Projects (12 interconnected sites)
+		- ### Nature
+			- Knowledge portals/wikis with blogs, galleries, portfolios
+		- ### Common Features
+			- Shared backend databases for cross-referencing
+			- Community-driven content creation and moderation (future)
+			- Common presentation themes with unique visual distinctions
+			- Start with my writing, expand to community
+		- ### Content Types
+			- Knowledge articles, blogs, image galleries, work portfolios, some commerce
+		- ### Relationships
+			- Highly inter-related content, different themes/filters of same underlying knowledge base
+	- ## App Projects
+		- ### DiaGnosis (Priority App)
+			- ### Purpose
+				- Visual-textual knowledge cartography (concept mapping, argument maps, graphical knowledge organizer)
+			- ### Features
+				- Standard + user-defined features, AI integration
+			- ### Goal
+				- Simplify complex arguments, make difficult issues easier to understand
+			- ### Deployment
+				- Desktop, web app, embeddable in knowledge portals, external customer integration
+			- ### Commercial
+				- Future licensing/sales product
+			- ### Tech Notes
+				- Previously considered yFiles SDK (currently too expensive)
+		- ### ACIM Concordance
+			- ### Purpose
+				- Study software for 'A Course In Miracles' (like accordance/e-sword)
+			- ### Platforms
+				- Desktop/web app, possible mobile
+			- ### Evolution
+				- Personal use → commercial product
+			- ### Integration
+				- Works with other projects
+		- ### Language Learning App
+			- ### Basis
+				- ACIM translations
+			- ### Connection
+				- Subset of DiaGnosis functionality
+			- ### Platform
+				- Mobile app
+			- ### Features
+				- AI integration
+		- ### Solopreneur Tracker
+			- ### Purpose
+				- Task-habit-goal-vision tracking
+			- ### Target
+				- Solopreneurs
+		- ### Metamechanical AI
+			- ### Purpose
+				- LLM trained on my content
+	- ## Tool Projects
+		- ### PDF/ePub Processor
+			- Function: Upload, summarize into hierarchical levels
+			- Advanced: Extract core arguments, concepts, evidence, examples
+			- Integration: Use with main projects and DiaGnosis
+		- ### Audio/Video Transcriber
+			- Function: Transcribe and summarize like PDF processor
+			- Integration: Cross-project utility
+		- ### ACIM Text Processor
+			- Function: Clean, tidy, organize ACIM text
+			- Purpose: Support ACIM concordance project
+	- ## Technical Preferences
+		- Repository Access: Want Claude to access my repositories
+		- AI Agents: Interested in developing where helpful
+		- API Integration: Planning to expand to Claude API
+		- Claude Code: Willing to integrate for development efficiency
+	- ## Key Challenge to Solve
+		- Problem: Don't want to repeat project specifications across conversations
+		- Solution Needed: Reusable summaries and documentation system
+		- Integration: Work with my Logseq/Obsidian workflow
+	- ## Current Development Approach
+		- Documentation: Logseq for quick capture, Obsidian for long-form
+		- Format: Prefer hierarchical bullet points (Logseq style)
+		- Learning: Want to understand decisions while maintaining momentum
+		  
+		  ---
+		  
+		  Usage Instructions: Copy this entire specification into new Claude conversations with the instruction: "Please reference these Master Project Specifications for context on my development portfolio."
+- # Development Workflow Procedures
+  collapsed:: true
+	- ## Claude Conversation Management
+		- ### Conversation Types
+			- Master Setup: This conversation - establishing systems and procedures
+			- Project-Specific: One conversation per major project (Universal Schema, DiaGnosis, etc.)
+			- Development Journal: Weekly progress summaries across all projects
+			- Quick Help: Short technical questions that don't need full context
+		- ### Starting New Conversations
+			- Always paste Master Project Specifications first
+			- Add relevant workflow procedures if needed
+			- Reference related conversations: "Building on my Universal Schema conversation..."
+			- State specific goal clearly at the start
+		- ### Conversation Maintenance
+			- Pin important conversations (Master Setup, Universal Schema, Development Journal)
+			- Archive completed quick-help conversations to reduce clutter
+			- Update Master Specifications when major decisions are made
+	- ## Repository Structure & Version Control
+		- ### Repository Organization
+			- Option A: Monorepo with folders for each project
+			- Option B: Separate repositories per major project
+			- Decision needed: Choose based on schema integration complexity
+		- ### Naming Conventions
+			- Projects: lowercase-with-hyphens (e.g., diagnosis-app, acim-concordance)
+			- Branches: feature/description, fix/description, schema/update-v2
+			- Commits: Clear action descriptions ("Add concept mapping entities to schema")
+		- ### Claude Code Integration
+			- Grant Claude access to primary development repositories
+			- Use for code generation, debugging, and cross-project consistency checks
+			- Let Claude suggest repository structure improvements
+		- ### Version Control for Schema
+			- Schema changes get their own branch and careful review
+			- Document all schema changes in Development Journal
+			- Test schema changes against existing projects before merging
+	- ## Documentation Workflow
+		- ### Information Flow
+			- Claude Conversations → decisions and code snippets
+			- Logseq → quick capture of decisions, daily progress, templates
+			- Obsidian → comprehensive project documentation, architecture decisions
+			- Repository README files → project-specific setup and usage instructions
+		- ### Update Procedures
+			- Daily: Capture key decisions in Logseq bullet points
+			- Weekly: Update Development Journal conversation with progress summary
+			- Major Decisions: Update Master Specifications template
+			- Code Solutions: Save working code snippets in both Logseq and repository
+		- ### Templates for Documentation
+			- Decision Record: Problem → Options → Choice → Rationale
+			- Code Snippet: Context → Code → Usage Notes → Integration Points
+			- Learning Note: What I learned → How it applies → Next steps
+	- ## Project Dependency Management
+		- ### Schema-Dependent Projects
+			- Universal Schema is the foundation - changes here affect everything
+			- Procedure: Schema updates require testing against all dependent projects
+			- Communication: Document schema changes in Development Journal before implementing
+		- ### Cross-Project Integration
+			- DiaGnosis embeds in websites → shared component library needed
+			- PDF Processor feeds all projects → consistent output format required
+			- ACIM tools share processed text → common text processing standards
+		- ### Dependency Update Workflow
+			- Identify all affected projects before making changes
+			- Update projects in dependency order (schema → tools → websites → apps)
+			- Test integrations after each update
+			- Document breaking changes and migration steps
+	- ## Testing & Integration Procedures
+		- ### Schema Integration Testing
+			- Test that all projects can read from schema
+			- Test that updates to schema don't break existing functionality
+			- Verify cross-references between projects work correctly
+		- ### Embedding Testing
+			- Test DiaGnosis embedding in different website contexts
+			- Verify PDF processor output integrates with schema correctly
+			- Check that shared components render consistently
+		- ### Data Consistency Testing
+			- Verify same entities appear consistently across projects
+			- Test that relationship updates propagate correctly
+			- Check that content references resolve properly
+	- ## AI Agent Integration Strategy
+		- ### Current State
+			- Using Claude through web interface primarily
+			- Expanding to Claude API for automation
+			- Planning Claude Code integration for development assistance
+		- ### Future AI Agent Roles
+			- Documentation Maintainer: Auto-update documentation from code changes
+			- Cross-Project Monitor: Identify when changes in one project affect others
+			- Schema Validator: Check that new content follows schema correctly
+			- Integration Tester: Automated testing of cross-project functionality
+		- ### Agent Implementation Approach
+			- Start with simple automation (documentation updates)
+			- Gradually add more complex agents as needs become clear
+			- Always maintain human oversight and approval for significant changes
+		- ### Agent Communication
+			- Agents should update Development Journal with their activities
+			- Significant agent recommendations should be discussed in project conversations
+			- Agent-generated code should be reviewed before integration
+	- ## Community Preparation Notes
+		- ### Future Considerations
+			- Access Control: Schema subsets for different collaborator levels
+			- Contribution Guidelines: Standards for community content and code
+			- Moderation Tools: Systems for managing community-generated content
+			- Documentation Standards: Public-facing documentation separate from development notes
+		- ### Current Preparations
+			- Build with clear separation between private development notes and public documentation
+			- Design schema to support multiple content creators and moderators
+			- Create consistent coding standards that others can follow
+			- Document decision-making processes for future transparency

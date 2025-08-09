@@ -1,0 +1,2 @@
+	Injecting depth, breadth and empathy into a field characterised by cold, technological panacaea, shallow/narrow/short-sightedness, and conflict. 
+Progressing energy futures from narrow reactive techniques to broader proactive approaches.

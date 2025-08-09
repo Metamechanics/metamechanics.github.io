@@ -1,0 +1,4 @@
+- #Turkey
+- near Izmir
+- [sardis - Google Maps](https://www.google.com/maps/search/sardis/@38.4883333,28.0402778,7z?entry=ttu)
+-

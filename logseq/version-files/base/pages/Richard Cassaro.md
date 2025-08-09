@@ -1,0 +1,12 @@
+alias::
+URL:: https://www.richardcassaro.com/
+organisation::
+role:: [[author]], [[filmmaker]] 
+fields::
+publications:: 
+tags:: person, #keyThinker, 
+project:: #FRESH 
+public:: true
+- [Richard Cassaro - Articles](https://www.richardcassaro.com/)
+-
+-

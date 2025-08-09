@@ -1,0 +1,4 @@
+- #[[Adam's Atlas]] #Atlantis
+- above sea level at last glacial maximum?
+- see Randall Carlson
+-

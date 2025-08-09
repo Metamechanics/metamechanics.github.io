@@ -1,0 +1,4 @@
+- https://theethicalskeptic.com/
+- #skepticism #pseudo-skepticism #[[ethical skepticism]]
+- [The Fermi Paradox is Babysitting Rubbish | The Ethical Skeptic](https://theethicalskeptic.com/2018/10/02/the-fermi-paradox-is-babysitting-rubbish/) #[[The Fermi Paradox]]
+-

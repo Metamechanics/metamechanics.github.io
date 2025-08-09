@@ -1,0 +1,5 @@
+- #[[Fresh Alternatives]] #[[Fringe Theories]] #[[Philosophy of Science]] #[[History of Science]]
+-
+- [On the Fringe: Where Science Meets Pseudoscience | Department of History](https://history.princeton.edu/about/publications/fringe-where-science-meets-pseudoscience)
+- [The different lives of fringe and strange scientific ideas | Aeon Essays](https://aeon.co/essays/the-different-lives-of-fringe-and-strange-scientific-ideas)
+-

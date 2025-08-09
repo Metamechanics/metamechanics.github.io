@@ -1,0 +1,14 @@
+alias::
+tags:: #cave #[[underground city]] 
+place::
+country:: #China 
+place-type:: #[[ancient site]] 
+project:: #[[Adam's Atlas]] 
+nearest-town:: #Xiuning 
+map-url::
+- 24 caves
+-
+- no evidence of removed, excavated rubble around the site (millions of tonnes)
+-
+- [The Most Mysterious Cave in The World - YouTube](https://www.youtube.com/watch?v=NI-CCM56ywA)
+-

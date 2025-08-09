@@ -1,0 +1,5 @@
+- #[[channelled material]]
+-
+- [Welcome to SethLearningCenter.org](https://www.sethlearningcenter.org/)
+- [The Seth Material: Courses, Community & Complete Collection](https://sethcenter.com/)
+-

@@ -1,0 +1,3 @@
+-
+- [Macrohistory and futures studies.pdf](hook://file/lBqte3OuA?p=MSBLbm93bGVkZ2UgTGlicmFyaWVzL0ZGZWQtRlMtRlNJQi1GU1NG&n=Macrohistory%20and%20futures%20studies%2Epdf)
+-

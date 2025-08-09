@@ -1,0 +1,83 @@
+- [The Viral Delusion | Paradigm Shift](https://paradigmshift.uscreen.io/catalog)
+- #COVID-19 #[[Fringe, Alternative & Conspiracy Theories]] #[[alternative medicine]] #[[Fresh Alternatives]] #virus #medicine
+- [[Andrew Kaufman, MD]]
+- [[Stefan Lanka, PhD]]
+- [[Harald Walach, PhD]]
+- [[Tom Cowan, MD]]
+- [[Larry Palevsky, MD]]
+- [[Claus Kohnlein, MD]]
+- [[David Rasnick, PhD]]
+- [[Jim West]]
+- [[Torsten Engelbrecht]]
+-
+- Episode 1 #incomplete
+- Episode 2 #incomplete
+  collapsed:: true
+	- [[Polio]]
+		- [[Polio]] was "proven" by taking infected spinal tissue from humans, grinding it up with water, drilling and injecting the brains of monkeys, with the monkeys dying or becoming diseased. #[[Tom Cowan, MD]] #[[Andrew Kaufman, MD]] 1907
+		- Alternative hypothesis #[[Andrew Kaufman, MD]] Lead Arsenate sprayed against Gypsy Moth introduced species; sprayed in spring; polio spikes in summer
+			- Lead Arsenate is known neurotoxin, affecting anterior horn cells of nervious system, where #Polio is known to affect.
+		- #[[Jim West]] Carbon tetrachloride introduce on cotton
+		- #[[Larry Palevsky, MD]] [[DDT]] as cause for polio, as #neurotoxin
+		- #[[Claus Kohnlein, MD]] [[DDT]] effects on cattle paralysis acknowledged in veterinary  and animal science literature
+		- #[[Jim West]]: [[Morton S Biskind, MD]] , [[Mobs]] and [[Ralph Scobey, MD]] wrote that #DDT was cause of #Polio in about 1949
+		- #[[Andrew Kaufman, MD]] [[Electron microscope]] invented in 1920; could not identify a particle which was the polio virus;
+		- #[[Stefan Lanka, PhD]] : [[John Franklin Enders]] - shortcoming in his process, article from 1954
+	- #measles
+	- #[[Andrew Kaufman, MD]]
+		- Viruses have not been isolated
+		- Tissue cultures contained
+		- One experiment to
+			- prove virus, and
+			- manufacture vaccine
+	- #Salk vaccine caused much illness
+	- definition of "Polio" changed after introduction of vaccine
+		- prior: 1 day of paralysis
+		- after: 6 months of symptoms
+		- yet most children detoxify themselves
+		- this led to false attribution of vaccine being the cause of reduced infection rates
+	- [[Acute Flaccid Paralysis]] -
+		- same symptoms as #Polio
+		- 470,000 cases in India but can't call it "polio" as they have been vaccinated #[[Tom Cowan, MD]]
+	- #[[Tom Cowan, MD]] was sent approx 50 #Articles showing the "isolation" of #COVID-19 by both orthodox and alternative virology communities
+		- all papers used the exact same process - that of [[John Franklin Enders]]
+			- monkey cells + fetal bovine serum + streptomycin / penicillin + a possible variant
+		- [[Viruses (journal)]] 2020, 12, 571
+			- "...However, to date, a reliable method that can actually guarantee a compete separation does not exist."
+	- #[[Stefan Lanka, PhD]]
+	- #[[David Rasnick, PhD]] : #ebola is also a hoax
+		- nobody has isolate the virus
+		- one of biggest outbreaks happened in abandoned mine
+		- no contacts became sick
+		- arsenic used at this mine, amongst other chemicals
+		-
+- Episode 3
+  collapsed:: true
+	- [[Dawn Lester]] and [[David Parker]], authors of [[What Really Makes You Ill]]
+		- [[Black Death]] aka [[Bubonic Plague]] not caused by rat fleas carrying bacteria
+		- instead atmospheric data from tree-rings and #Greenland ice cores
+		- High concentrations of ammonia in atmosphere
+		- Alternative theory: comet
+		- Independent references of comet, fire in sky, in literature
+		- [[Climactic change theory of Bubonic Plague]]
+			- [[Mike Baillie]]
+			- [Mike Baillie - Wikipedia](https://en.wikipedia.org/wiki/Mike_Baillie)
+		- #smallpox in #LatinAmerica was the result of barbarism of #conquistadores and subsequent psychological trauma, starvation, poor dietary conditions, humiliation, bed bugs, unsanitary conditions, working in gold mines with #mercury poisoining etc
+		- Leicester, UK and Cleveland, Ohio, USA introduced improved sanitation and stopped #smallpox #vaccine and saw improvement in health. late-1800's
+		- the story of [[Dr Charles Creighton]] in the 1889 or so, who went to write definitive, authoritative encyclopaedia Brittanica entry for vaccination and #smallpox and found there to be no proof; called it superstition.
+		- [55-3-The-Questionable-Contribution-of-Medical-Measures-to-the-Decline-of-Mortality-in-the-United-States-in-the-Twentieth-Century.pdf](https://www.milbank.org/wp-content/uploads/mq/volume-55/issue-03/55-3-The-Questionable-Contribution-of-Medical-Measures-to-the-Decline-of-Mortality-in-the-United-States-in-the-Twentieth-Century.pdf)
+			- [[John B McKinlay]] and [[Sonja M McKinlay]]
+		- #[[Andrew Kaufman, MD]]: #Brezlaw experiments re #SpanishFlu
+			- prisoner volunteers exposed themselves to body fluids of #SpanishFlu victims
+			- 3 different experiments to get volunteers sick
+				- into mouth, nose and eyes
+				- injected subcutaneously
+				- simulated close contact
+			- no one got sick
+			- repeated on horses
+			- [Experiments Upon Volunteers to Determine the Cause and Mode of Spread of Influenza, Boston, November and December, 1918](https://quod.lib.umich.edu/cgi/t/text/idx/f/flu/3750flu.0016.573/--experiments-upon-volunteers-to-determine-the-cause-and-mode?q1=virology&view=image&seq=1&size=100)
+			- [Spread of Spanish Flu Was Never Experimentally Confirmed | by Shin Jie Yong | Microbial Instincts | Medium](https://medium.com/microbial-instincts/spread-of-spanish-flu-was-never-experimentally-confirmed-9f91b37c4dd8)
+			- [Salicylates and pandemic influenza mortality, 1918-1919 pharmacology, pathology, and historic evidence - PubMed](https://pubmed.ncbi.nlm.nih.gov/19788357/#:~:text=Experimentally%2C%20salicylates%20increase%20lung%20fluid,before%20the%20October%20death%20spike.)
+				- #aspirin as contributor to #SpanishFlu #pandemic
+		- [[The Invisible Rainbow - A History of Electricity and Life]] by [[Arthur Firstenberg]]
+			-

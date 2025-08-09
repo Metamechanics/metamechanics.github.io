@@ -1,0 +1,3 @@
+- #[[global investing]] #internationalization #[[Global Nomad]] #[[Finance & Investing]]
+- [Home - Global Private Partners](https://globalprivatepartners.com/)
+-

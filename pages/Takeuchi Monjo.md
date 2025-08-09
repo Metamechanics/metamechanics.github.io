@@ -1,0 +1,4 @@
+- #[[Fresh Alternatives]] #Japan #history
+- [Takeuchi Monjo - Japanese Wiki Corpus](https://www.japanesewiki.com/literature/Takeuchi%20Monjo.html)
+- [Amazon.com: ChoÌ„zukai takeuchi monjo: 9784198602611: WadoÌ„ KoÌ„saka: Books](https://www.amazon.com/Cho%C3%8C-zukai-takeuchi-monjo-Wado%C3%8C/dp/4198602611)
+-

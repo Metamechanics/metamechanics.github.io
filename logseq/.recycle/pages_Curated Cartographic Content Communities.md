@@ -1,0 +1,38 @@
+alias:: 4C
+
+- Curated Cartographic Content Communities
+- [[Principles of Curated Cartographic Content Communities]]
+  title:: Curated Cartographic Content Communities
+- Vocab / terms / phrases
+	- Content
+	- Concise
+	- Curated
+	- Community
+	- Crowdsourced
+	- Cartography
+	- Critical
+	- Hierarchy
+	- Issue, topic
+	- Specific
+	- Visual Knowledge
+	- Graphic Organisers
+	- Compassionate
+	- Humble
+	- Courageous
+	- Collective wisdom to avoid collective and individual stupidity
+	- Collective subjectivity vs individual objectivity
+	-
+- Interlinked sites
+	- [[Global Effort]]
+	- [[Enough For All]]
+	- [[Inner Beginner]]
+	- [[FF-ed]]
+	- [[Fresh Alternatives]]
+- Depending on the nature of the site determines the degree to which certain principles are explicitly expressed
+	- eg. Global Effort won't go heavily into spirituality, but it will probably go into psychology. For that matter, it won't go into "subtle energy". It may go into free energy but not the conspiratorial side of it. This may be in the domain of [[Fresh Alternatives]]
+- TODO #QuestionsToSelf How is my
+- 2 basic types of #collaborator skill sets
+	- Subject matter experts
+	- Cross-project experts
+		- Web & ICT experts
+		- Digital Business, Marketing & Legal

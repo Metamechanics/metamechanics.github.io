@@ -1,0 +1,98 @@
+- alias::
+  tags::
+  url:: 
+  project::
+  see-also::
+-
+- forget-forgive; remember-dismember
+- You can't fix what is designed to be broken.
+- Purpose is everything. Inner motivation, moreso than outer mechanism, determines outcome.
+- Anything that requires defense is inherently weak. But that does not necessarily mean you should not defend it.
+- The real jihad is the one within, with your own demons.
+- Spiritual development is the shift from taking zero responsibility for one’s situation to total responsibility for one’s situation.
+- Spiritual growth is the expansion of the circle of compassion. More identifying types are included -> Neohumanism / Sarkar circle
+	- Expanding the circle of identity.
+- Spiritual development is the transition from
+  collapsed:: true
+	- map (text) reader to
+	- map explorer to
+	- map checker
+	- territory explorer
+	- frontiersman; map maker
+	- territory
+- Spiritual path is one of increasing abstraction
+- FORCK closes the gap between you and your (br)others. This includes species, objects, thought systems and not only people. Furthermore, this includes your other selves. (We all carry multiple voices, multiple role players)
+- Implement the message. Don’t idolise the man. Try to follow the example yourself. Don’t make an example of the failings of others.
+- You cannot add to God.
+	- You can only remove the blocks to the awareness of god.
+- de-centering
+- FORCK
+  collapsed:: true
+	- FORCK You!
+	- All religions, sects, faiths, teachings have value. All have a role to play.
+		- All religions, sects, faiths, teachings must ultimately be transcended.
+	- What is required, however, is our own forgiveness of ourselves and our deep-seated, unconscious guilt. I miscreated something imperfect and
+	- Forget-forgive; remember-dismember
+		-
+	- FORCK closes the gap between you and your (br)others. This includes species, objects, thought systems and not only people. Furthermore, this includes your other selves. (We all carry multiple voices, multiple role players)
+	- An ever increasing Circle of compassion, at a mental level
+		- at a physical, worldly level, no system can include everyone or everything, nor should it
+	- Where does your love stop?
+	- Life is letting go if the limits to love.
+	- Spiritual growth is the expansion of the circle of compassion. More identifying types are included -> Neohumanism / Sarkar circle
+	- Expanding the circle of identity
+	- Forgiveness - ego’s version versus Holy Spirit’s version
+	-
+- From you change to me change
+  collapsed:: true
+	- From…
+		- The world will be okay when you change what you believe.
+		- The world will work when you change what you do.
+	- To…
+		- The world will be okay when I change what I believe.
+- Otherism
+  collapsed:: true
+	- Discrimination by being an ‘other’. Prejudice against an other.
+	- Everyone is ‘otherist’
+	- We deny it by making special forms of ‘otherism’, and quickly rejecting those, removing ourselves from that category, or justifying our establishment of the category.
+	- Otherism happens at a mental level
+		- one can assess based on outward group identity and not be discriminatory or prejudiced
+		- on the other hand, one can take no external worldly action or word, and yet be very much discriminatory, either
+	- Do you get upset at someone else? Do you get upset at yourself? If so, then you are otherist. Why? Because you are saying “You are the cause of my suffering.”
+	- The only possibility to world peace is through inner peace, which comes from recognising and then accepting that you are otherist. Only then can you forgive yourself.
+	- Otherism is only resolved through the realisation that there is no other. This realisation is facilitated through the practice of advanced forgiveness and compassion.
+- Anger, doubt, jealousy, confusion, hatred, cynicism, boredom, apathy…are all masks of fear. Fear arises from a sense of guilt because a sense of guilt calls for punishment. Therefore surface fears are the tip of the iceberg of the deeper fear of punishment from God. But, critically, it is me who has ascribed the attribute of Punisher to God.
+- Everything is technology. That includes ideas, concepts and thought systems.
+- The history of the world is the story of the projection of pollution, pain, power-source and problem-source onto others. The future of the world is the same unless we learn to give a FORCK.
+- The purpose and role of questioning
+	- Questioning as genuine inquiry and discovery
+	- Questioning as a delay manoever and divisive mechanism
+- Spirituality is the practice of one’s idea of oneself. Therefore, everyone is spiritual.
+- All practice – spiritual, religious, scientific, artistic, mundane – is valuable if it promotes forgiveness, compassion and kindness.
+- Faith is the bridge between belief and knowledge.
+	- Faith-1:
+	- Faith-2: faith in the process that undoing beliefs will lead to Knowledge.
+- Seek not to change your behaviour. Seek to change your mind.
+- Spiritual development is the process of removing obstacles to including
+- Spiritual development is the shift from taking zero responsibility for one’s situation to total responsibility for one’s situation.
+- Spiritual development is the shift of all power being seemingly outside and external to oneself, to the recognition that all power is within oneself.
+- Your experience is evidence of your beliefs.
+- Beliefs don’t make Reality or Truth but they do make the appearance of it. They do determine experience. Such is the power of mind.
+- Meditation & prayer access the Inner Teacher and Higher Power that lies within all of us.
+- Seek not to change your behaviour. Seek to change your mind.
+- The truth doesn’t require defence. However, our Truth “muscle” is very weak and thus requires vigilance against the attacks of the ego.
+- Anything that requires defense is inherently weak.
+- History is the story of the projection of power, pain, pollution.
+- The world confuses Truth with truth-tools.
+- Beliefs don’t make Reality or Truth but they do make the appearance of it.
+- Your experience is evidence of your beliefs.
+- Practices
+	- The truth doesn’t require defence. However, our Truth “muscle” is very weak and thus requires vigilance for the attacks of the ego.
+	- Seek not to change your behaviour. Seek to change your mind.
+		- [Therefore, seek not to change the world, but choose to change your mind about the world.](https://acim.org/acim/chapter-21/introduction/en/s/251?wid=search&q=change%20the%20world)
+	- All practice – spiritual, religious, scientific, artistic, mundane – is valuable if it promotes FORCK: forgiveness, compassion and kindness.
+	- Spiritual progress is measured by an increasing experience of peace, not by time spent meditating or healing modalities mastered, nor by any worldly metric of status.
+	-
+- The body
+	- Brain and heart as "signal receivers" or "signal detectors" rather than "signal generators"
+- Spiritual development is the shift of all power being seemingly outside and external to oneself, to the recognition that all power is within oneself. That all responsibility lies with me.

@@ -1,0 +1,30 @@
+- Gardening this knowledge graph [[mm-ls]]
+- Week: Mon-Thur
+	- #toWrite
+	- #toRead
+	- #toDiscover #toFind
+	- Priority Project
+	- Language
+	- ACIM TT Chapter
+	- ACIM TT Lessons
+	- MM PDF #toSummarise
+	- FRESH doco #toWatch
+	- #toProcess
+	-
+- Study #[[LOTE study]] #[[WADS study]]
+- Weekend: Fri-Sat-Sun
+	- #toCycle
+	- #toWalk
+	- Swim
+	- LOTE
+	- WADS study
+	  collapsed:: true
+		- Python
+		- HTML-CSS
+		- Javascript / Typescript
+		- R
+		- SQL
+		- neo4j
+		- Tableau
+		-
+	- Plan

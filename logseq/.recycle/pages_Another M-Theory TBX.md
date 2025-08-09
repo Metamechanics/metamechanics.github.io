@@ -1,0 +1,501 @@
+
+However, we typically hear mainly only of the traditional and mainstream options which don’t satisfy the more developed intellectual and philosophical critique of a scientific age. Alternatively, we are presented with new-age options which lack rigour and encourage a spiritual buffet.
+
+On the need to incorporate or mention other works and theories of god. God is in the brain "God is not great
+They are perhaps true, but they see not talking about God. They are referring to "God" and god, not God.
+
+All the philosophers' arguments can be situated within the greater AMT argument, and mapped using the MacroMap tool.  
+MacroMap can map development if one particular thinker's ideas. It can then inject xq qualifications, rebuttals, clarifications etc, and situate it within the broader, bigger  context. 
+You cannot add to God. 
+
+You can only extend the creation. 
+
+You can only remove the blocks to the awareness of god. 
+
+Life is letting go if the limits to love. 
+
+Tackle points from different starting thoughts.
+Tackle points from different starting thoughts. Eg. in “Foundational Concepts” start with the concept and then comment on misconceptions. In “Misconceptions” start with misconception, comment and then return to foundational concept.
+
+
+
+Rescuing God
+The image and concept of God needs to be rescued. Not for God’s sake: It is invulnerable and invincible, by definition, and knows not of suffering. Neither for the sake of religion: it should not be the goal, but merely a means. Neither should the idea of God be rescued to counter-attack science: We are all on the same side and it is one attempt to seek Truth, albeit misguided at times. Rather, the image and concept of God needs to be rescued for our own sanity, our own peace of mind. 
+
+War is raged ‘for’ God. War is raged against ‘God’. Destruction and suffering is claimed to be raged by God. This insane violence, conflict and abuse, both in the external world and inner minds, both overtly obvious and covertly subtle, is based on images and concepts of God which are insane, violent, conflicted and abusive. It gives rise to a metaphysical systems which reinforce and perpetuate the insanity and abuse, yet fail to stand up to progressive critical thinking.
+
+It is time to take the blame off God. It is time to stop using God as a convenient excuse for our own subconscious desires for conflict and pain. It is time to time to take responsibility for our own peace and prosperity. To do this we need God for we have taught ourselves that pain and birth-death is the natural way of things, resulting in a world of empty idols and repetitive suffering. 
+
+We need God to teach us how to love for we have clearly forgotten this. 
+
+We need God to teach us wisdom in a ‘civilized’ world that has tried and failed at that since it began. And to begin this we need a more loving, wise and kind image and concept of God so that we may avail ourselves of Infinite Wisdom and Perfect Love. 
+
+Seek not to change your behaviour. Seek to change your mind.
+Anger, doubt, jealousy, confusion, hatred, cynicism, boredom, apathy…are all masks of fear. Fear arises from a sense of guilt because a sense of guilt calls for punishment. Therefore surface fears are the tip of the iceberg of the deeper fear of punishment from God.
+FORCK closes the gap between you and your (br)others. This includes species, objects, thought systems and not only people. Furthermore, this includes your other selves. (We all carry multiple voices, multiple role players)
+Meditation & prayer access the Inner Teacher and Higher Power that lies within all of us.
+Motivation is everything. Motivation, moreso than mechanism, determines outcome.
+All thinking is circular. At our deepest level, we are always proving our premise.
+Everyone believes in God.
+But not everyone believes in their definition of “God”.
+God did not create the world.
+The ego created the universe of form, time & space.
+The world/universe was created as an escape from guilt, fear & punishment.
+The ego wants to be God.
+The universe is the ego’s attempt to imitate/replicate Heaven.
+Interconnectedness (is not oneness)
+Interconnectedness (is not oneness)
+Synchronicity
+Synchronicity
+Yet it is the nature of the ego to separate and fragment.
+Thus the world of multiplicity.
+The Bible (New & Old Testaments), and the story of its development, consist of multiple components:
+The Bible (New & Old Testaments), and the story of its development, consist of multiple components:
+Record of some historical facts – terrestrial & extra-terrestrial
+Record of some historical facts – terrestrial & extra-terrestrial
+Spiritual teachings – correctly understood
+Spiritual teachings – correctly understood
+Spiritual teachings – misinterpreted & misquoted
+Spiritual teachings – misinterpreted & misquoted
+Spiritual teachings – metaphor & parable
+Spiritual teachings – metaphor & parable
+Spiritual teachings – distorted &
+Spiritual teachings – distorted & 
+Guides for practical living in various contexts
+Guides for practical living in various contexts
+Innocent mistakes of record & misinterpretation of messages
+Innocent mistakes of record & misinterpretation of messages
+Intentional falsehoods & misleading messages
+Intentional falsehoods & misleading messages
+The truth of God & the falsehoods of man
+The truth of God & the falsehoods of man
+Myths, the masks of God and projection / anthropomorphization
+Myths, the masks of God and projection / anthropomorphization
+Translation and interpretation errors
+Translation and interpretation errors
+Political power play
+Political power play
+Nature worship/pagan
+Nature worship/pagan 
+SO, THEREFORE, WE MUST SEPARATE THE WHEAT FROM THE CHAFF.
+DON’T THROW THE BABY OUT WITH THE BATHWATER.
+The map is not the territory.
+Implement the message.
+Don’t idolise the man. Try to follow the example yourself. Don’t make an example of the failings of others.
+One God.
+Oneness of God. Many names. Many faces. Many paths.
+God is changeless.
+God is limitless. God is uncharacterizable. God is.
+God creates as itself.
+Everything is technology.
+That includes ideas, concepts and thought systems.
+Your experience is evidence of your beliefs.
+Beliefs don’t make Reality or Truth but they do make the appearance of it.
+The world confuses Truth with truth-tools.
+History is the story of the projection of power, pain, pollution.
+Anything that requires defense is inherently weak.
+The truth doesn’t require defence.
+wever, our Truth “muscle” is very weak and thus requires vigilance against the attacks of the ego. 
+Worldly problems are the ego’s distraction tactic from the one real problem – a sense of separation from Source.
+idea is the very ego itself, so worldly problems are the ego’s survival mechanism.
+The Holy Spirit (the memory of God)…(forgot what I was thinking here!
+!)
+The world of form – the universe of time & space – is like a holographic dream.
+An image
+An image
+An illusion
+An illusion
+A dream
+A dream
+An optical delusion
+An optical delusion
+A hologram
+A hologram
+A projection
+A projection
+Seek not to change your behaviour.
+Seek to change your mind.
+Anger, doubt, jealousy, confusion, hatred, cynicism, boredom, apathy…are all masks of fear.
+ar arises from a sense of guilt because a sense of guilt calls for punishment. Therefore surface fears are the tip of the iceberg of the deeper fear of punishment from God.
+FORCK closes the gap between you and your (br)others.
+This includes species, objects, thought systems and not only people. Furthermore, this includes your other selves. (We all carry multiple voices, multiple role players)
+Meditation & prayer access the Inner Teacher and Higher Power that lies within all of us.
+Motivation is everything.
+Motivation, moreso than mechanism, determines outcome.
+All thinking is circular.
+At our deepest level, we are always proving our premise.
+Circular Thinking
+All thinking is circular thinking.
+
+However, some part of the circle may have been ‘conveniently’ forgotten
+Truth vs Truth-tools
+The universe is a closed-loop system
+The universe of form/separation/space-time is designed to reinforce itself as true and real.
+
+The body, and its senses, are designed to attest to the reality of the universe of form and separation.
+Trends & Patterns
+Empowerment
+Empowerment
+
+Spiritual development is the shift of all power being seemingly outside and external to oneself, to the recognition that all power is within oneself.
+Responsibility
+Responsibility
+
+Spiritual development is the shift from taking zero responsibility for one’s situation to total responsibility for one’s situation.
+Expanding the circle of compassion
+The circle of compassion
+
+Spiritual growth is the expansion of the circle of compassion. More identifying types are included -> Neohumanism / Sarkar circle
+Expanding the circle of identity
+Spiritual development is the process of removing obstacles to including 
+Projection of power and pain
+The Story of the World
+
+The history of the world is the story of the projection of pollution, power, pain and punishment.
+Renegging of rights & responsibilities
+From outer focus to inner focus
+The real jihad is the one within, with your own demons.
+
+Shifting the emphasis from form to content.
+Inner reponsibility - Outer compassion
+Uniting the 
+Otherism
+
+
+
+Speciesism
+
+From you change to me change
+From…
+
+The world will be okay when you change what you believe.
+The world will work when you change what you do.
+
+To…
+
+The world will be okay when I change what I believe.
+
+Miss-conceptions, Myth-conceptions & Co-rections
+We must resolve science and spirit to be equal. NO!! Science is a METHOD to discover more about spirit and anything else.
+
+
+
+
+
+M
+Misconception:	Jesus is God’s son.
+Christ is the Son of God. 
+(“Jesus, Christ, Jesus Christ and the Son of God)
+
+God’s Word is the Bible / Koran / Torah / 
+God is unknowable. God is mysterious.
+God is serious. 
+God is judgmental. Judgment Day.
+Misconception:	God forgives.
+God doesn’t forgive because God never condemned.
+
+God is completely benign. Total benignity is a very difficult concept to appreciate.
+God created You. And God only creates perfectly. God created You perfect, pure, sinless and totally worthy of love. He knows You better than You do. He knows you to be perfect. Therefore, there is nothing really in You that requires forgiveness of God.
+
+What is required, however, is our own forgiveness of ourselves and our deep-seated, unconscious guilt. I miscreated something imperfect and 
+
+Jesus didn’t know about his imminent crucifixion
+God vs Occult
+God wants us to be rich. God wants us to be poor.
+God wants to test you.
+God & Jesus wants you to suffer for him.
+Renouncing the world means asceticism.
+Non-violence refers to physical actions. (It actually refers to the mind.)
+Sacred places. Sacred geometry. Sacred texts.
+On “prayer”. Ie. Prayer is not petitionary. We are always praying.
+Vegetarianism & Food in spirituality.
+Pilgrimage.
+Ritual. 
+Science & Religion. Science vs Religion.
+God & social justice
+God & politics, law, economy
+Jesus & the money lenders
+Resurrection vs the Crucifixion
+Jesus suffered pain on the cross.
+Body, Mind & Spirit (this is a confusion of levels)
+Buddha died from contaminated pork
+Jesus was betrayed by Judas
+Prayer is petitionary
+God = The Church
+Temptation. It is not temptation to fall into wild and wicked ways. It is temptation to consider oneself a victim; temptation to judge; temptation to hold grievances.
+Heaven is not attained by death. Heaven must be attained by Life.
+Not everything is energy! God is not energy.
+God loves complexity. In fact, he does not. God is simple for God is One, without levels, aspects, components and change. 
+The path to God is simple. But not easy. That’s not because of God. That’s because I/we/the ego have made it so.
+Death is bad. Death is pain. (Dying is painful. Physical death is temporary release from pain, the body. Death only temporarily cures pain. Freedom from pain)
+God is on “our” side. Yes, God is on your team but not “against the other team”. God is on “all sides”. God doesn’t share the same goal you think you do. God would have you be without opponents, adversaries, enemies or others.
+Parapsychic powers don’t necessarily indicate spiritual advancement.
+Motivation of Meditation.
+Sin is bad, requiring punishment. Correction: Sin is merely mistake, calling for forgiveness and re-direction. ‘Sin’ is a mistranslation from the Greek ‘X’? which more accurately means ‘to miss the mark’. It is simply an error in direction, a mistake in judgment. In fact, the mistake IS judgment. Just like any archer firing an arrow, a footballer kicking a goal, a singer hitting a key, ‘hitting the mark’ requires practice. Relentless practice, if the level of proficiency is to be high. To hit the mark of peace, love and joy requires continual, patient practice of the untrained mind. Mistakes are inevitable. This is the process of forgiveness – forgiving our erroneous misthoughts until we no longer miss the mark.
+The ego is bad.
+God is not a He. God is not a She.. Correction: but there is value to calling It an It, and It a ‘He’. Forgiveness opportunity. And because we think we are human, we relate better to an anthropomorphization, a personality. Our current concept of love is body-based so it may be helpful to think of It as Him/Her. However, to insist that It is a Him/Her is to make a mistake. To insist that God be a She, for example, in response to millennia of patriarchal repression, is to make the same mistake as calling It a He.
+God is not even an ‘It’. When we say ‘It’ we are talking as if ‘It’ is separate from us. Yet God 
+Free will. We want to think free will is an issue of the world, whereas there is no free will in the world, really. Free will exists only in Heaven, and the choice for Heaven.
+From…The world will be okay when you change what you believe.The world will work when you change what you do. To… The world will be okay when I change what I believe.
+God did not create the world. God did not even create the Big Bang.
+God has nothing to do with evolution
+Atheism exists (ie. Everyone believes in God and “God” and gods)
+Spiritual practice eventually means ascetism and going without stuff
+The more I meditate, the better my spiritual practice
+Morals are handed down by God or result from the genetic survival imperative. (They are expressions of metaphysical law. Ie. God won’t punish you for breaking the ten commandments or disavowing Jesus. Suffering is a self-imposed consequence of not understanding metaphysical mechanisms)
+Consciousness does not have anything to do with God.
+Evolution is not random. It is a diversionary tactic.
+There is an intelligence in the Universe but it is not God.
+All religions, sects, faiths, teachings have value. All have a role to play.
+All religions, sects, faiths, teachings must ultimately be transcended.
+God did not create religion.
+What would proof of God look like?
+Nothing in this world is true. Even this statement in this book.
+Spirituality is about a change of mind, not changing the world.
+Your actions in the world (ie. your behavior) reflect what you believe.
+Belief is not knowledge. But it can lead to knowledge.
+Faith is the bridge between belief and knowledge.
+Religion is a truth-tool. Science is a truth-tool. Neither are the truth but both can help realise the truth.
+Truth = God = absolute peace-joy-love-serenity
+God cannot be defined and therefore cannot be proven. God can only be experienced.
+All practice – spiritual, religious, scientific, artistic, mundane – is valuable if it promotes forgiveness, compassion and kindness.
+Spiritual progress is measured by an increasing experience of peace, not by time spent meditating or healing modalities mastered.
+God/Spirit is not energy.
+The Bible is part true, part false, part misinterpretation, part misunderstanding, partly innocent, partly malevolent, partly unconscious, partly conscious.
+Spirituality is the practice of one’s idea of oneself. Therefore, everyone is spiritual.
+God deals out Karma. (No. The ego dishes out Karma, because it made need of karma)
+Forgiveness - ego’s version versus Holy Spirit’s version
+Sickness is not chosen at a conscious individual level. Anyone’s sickness is everyone’s call to healing themselves.
+
+
+God created the universe and the world.
+God’s creations are limitless and pure, perfect love.
+d created Heaven. The ego created the universe of form, time & space.
+God created bodies.
+The ego creates bodies.
+Bodies are the home/palace of the ego. The ego seeks to make idols out of bodies.
+Jesus is God’s son.
+Christ is the Son of God.
+(“Jesus, Christ, Jesus Christ and the Son of God)
+(“Jesus, Christ, Jesus Christ and the Son of God)
+God’s Word is the Bible / Koran / Torah /
+God’s Word is the Bible / Koran / Torah / 
+God is unknowable.
+God is mysterious.
+God is serious.
+God is judgmental.
+Judgment Day.
+God forgives.
+God doesn’t forgive because God never condemned.
+God is completely benign.
+Total benignity is a very difficult concept to appreciate.
+God created You.
+And God only creates perfectly. God created You perfect, pure, sinless and totally worthy of love. He knows You better than You do. He knows you to be perfect. Therefore, there is nothing really in You that requires forgiveness of God.
+What is required, however, is our own forgiveness of ourselves and our deep-seated, unconscious guilt.
+I miscreated something imperfect and 
+Jesus didn’t know about his imminent crucifixion
+Jesus didn’t know about his imminent crucifixion
+God vs Occult
+God vs Occult
+God wants us to be rich.
+God wants us to be poor.
+God wants to test you.
+God & Jesus wants you to suffer for him.
+Renouncing the world means asceticism.
+Non-violence refers to physical actions.
+(It actually refers to the mind.)
+Sacred places.
+Sacred geometry. Sacred texts.
+On “prayer”.
+Prayer is not petitionary. We are always praying.
+Vegetarianism & Food in spirituality.
+Pilgrimage.
+Ritual.
+Science & Religion.
+Science vs Religion.
+God & social justice
+God & social justice
+God & politics, law, economy
+God & politics, law, economy
+Jesus & the money lenders
+Jesus & the money lenders
+Resurrection vs the Crucifixion
+Resurrection vs the Crucifixion
+Jesus suffered pain on the cross.
+Body, Mind & Spirit (this is a confusion of levels)
+Body, Mind & Spirit (this is a confusion of levels)
+Buddha died from contaminated pork
+Buddha died from contaminated pork
+Jesus was betrayed by Judas
+Jesus was betrayed by Judas
+Prayer is petitionary
+Prayer is petitionary
+God = The Church
+God = The Church
+Temptation.
+It is not temptation to fall into wild and wicked ways. It is temptation to consider oneself a victim; temptation to judge; temptation to hold grievances.
+Heaven is not attained by death.
+Heaven must be attained by Life.
+Not everything is energy!
+God is not energy.
+God loves complexity.
+In fact, he does not. God is simple for God is One, without levels, aspects, components and change. 
+The path to God is simple.
+But not easy. That’s not because of God. That’s because I/we/the ego have made it so.
+Death is bad.
+Death is pain. (Dying is painful. Physical death is temporary release from pain, the body. Death only temporarily cures pain. Freedom from pain)
+God is on “our” side.
+ God is on your team but not “against the other team”. God is on “all sides”. God doesn’t share the same goal you think you do. God would have you be without opponents, adversaries, enemies or others.
+Parapsychic powers don’t necessarily indicate spiritual advancement.
+Motivation of Meditation.
+Sin is bad, requiring punishment.
+Correction: Sin is merely mistake, calling for forgiveness and re-direction. ‘Sin’ is a mistranslation from the Greek ‘X’? which more accurately means ‘to miss the mark’. It is simply an error in direction, a mistake in judgment. In fact, the mistake IS judgment. Just like any archer firing an arrow, a footballer kicking a goal, a singer hitting a key, ‘hitting the mark’ requires practice. Relentless practice, if the level of proficiency is to be high. To hit the mark of peace, love and joy requires continual, patient practice of the untrained mind. Mistakes are inevitable. This is the process of forgiveness – forgiving our erroneous misthoughts until we no longer miss the mark.
+The ego is bad.
+God is not a He.
+God is not a She.. Correction: but there is value to calling It an It, and It a ‘He’. Forgiveness opportunity. And because we think we are human, we relate better to an anthropomorphization, a personality. Our current concept of love is body-based so it may be helpful to think of It as Him/Her. However, to insist that It is a Him/Her is to make a mistake. To insist that God be a She, for example, in response to millennia of patriarchal repression, is to make the same mistake as calling It a He.
+God is not even an ‘It’.
+we say ‘It’ we are talking as if ‘It’ is separate from us. Yet God 
+Free will.
+We want to think free will is an issue of the world, whereas there is no free will in the world, really. Free will exists only in Heaven, and the choice for Heaven.
+From…The world will be okay when you change what you believe.
+e world will work when you change what you do. To… The world will be okay when I change what I believe.
+God did not create the world.
+God did not even create the Big Bang.
+God has nothing to do with evolution
+God has nothing to do with evolution
+Atheism exists (ie.
+Everyone believes in God and “God” and gods)
+Spiritual practice eventually means ascetism and going without stuff
+Spiritual practice eventually means ascetism and going without stuff
+The more I meditate, the better my spiritual practice
+The more I meditate, the better my spiritual practice
+Morals are handed down by God or result from the genetic survival imperative.
+(They are expressions of metaphysical law. Ie. God won’t punish you for breaking the ten commandments or disavowing Jesus. Suffering is a self-imposed consequence of not understanding metaphysical mechanisms)
+Consciousness does not have anything to do with God.
+Evolution is not random.
+It is a diversionary tactic.
+There is an intelligence in the Universe but it is not God.
+All religions, sects, faiths, teachings have value.
+All have a role to play.
+All religions, sects, faiths, teachings must ultimately be transcended.
+God did not create religion.
+What would proof of God look like?
+Nothing in this world is true.
+Even this statement in this book.
+Spirituality is about a change of mind, not changing the world.
+Your actions in the world (ie.
+your behavior) reflect what you believe.
+Belief is not knowledge.
+But it can lead to knowledge.
+Faith is the bridge between belief and knowledge.
+Religion is a truth-tool.
+Science is a truth-tool. Neither are the truth but both can help realise the truth.
+Truth = God = absolute peace-joy-love-serenity
+Truth = God = absolute peace-joy-love-serenity
+God cannot be defined and therefore cannot be proven.
+God can only be experienced.
+All practice – spiritual, religious, scientific, artistic, mundane – is valuable if it promotes forgiveness, compassion and kindness.
+Spiritual progress is measured by an increasing experience of peace, not by time spent meditating or healing modalities mastered.
+God/Spirit is not energy.
+The Bible is part true, part false, part misinterpretation, part misunderstanding, partly innocent, partly malevolent, partly unconscious, partly conscious.
+Spirituality is the practice of one’s idea of oneself.
+erefore, everyone is spiritual.
+God deals out Karma.
+(No. The ego dishes out Karma, because it made need of karma)
+Forgiveness - ego’s version versus Holy Spirit’s version
+Forgiveness - ego’s version versus Holy Spirit’s version
+Sickness is not chosen at a conscious individual level.
+Anyone’s sickness is everyone’s call to healing themselves.
+Politics is separate from religion
+Freedom means I can do what I want
+The Holy Spirit (the memory of God)…(forgot what I was thinking here!
+!)
+Worldly problems are the ego’s distraction tactic from the one real problem – a sense of separation from Source.
+idea is the very ego itself, so worldly problems are the ego’s survival mechanism.
+The bloodline and Jesus
+Similarity of saviour stories
+Responses to Common Questions, Claims and Conspiracy
+Contentious issues and points of debate in metaphysics, theology and philosophy (do not confuse with misconceptions.
+Must be clear on the difference. I decide which is which, with the help of the Holy Spirit.)
+If God exists, how can there be evil? If there is a God, how can He let bad things happen?
+The humility to consider the one is wrong, or at best, incomplete.
+Applications & Consequences of this model
+Evolution, Intelligent Design and the Anthropomorphic Principle
+Evolution, Intelligent Design and the Anthropomorphic Principle
+Technology
+Conspiracy Theories
+The bloodline of Jesus
+The bloodline of Jesus
+Similarity of “saviour” stories
+Mary Magdalene
+Who is right?
+Who is right?
+If God exists, how can there be evil? If there is a God, how can He let bad things happen?
+If God exists, how can there be evil? If there is a God, how can He let bad things happen?
+Magic and Mystery
+Life is constant prayer
+Life is constant prayer
+Bioethics
+Abortion, euthanasia, death penalty and genetic engineering
+Abortion 
+Euthanasia
+Death penalty
+Stem cells
+Genetic engineering
+Violent Non-violent resistance 
+Violent Non-violent resistance
+Non-violent resistance vs Armed revolution
+Non-violent resistance vs Armed revolution
+Science and Religion
+Evolution, Intelligent Design and the Anthropomorphic Principle
+Evolution, Intelligent Design and the Anthropomorphic Principle
+The religious and spiritual nature of science
+The religious and spiritual nature of science
+The scientific and spiritual nature of religion
+The scientific and spiritual nature of religion
+The scientific and religious nature of spirituality
+The scientific and religious nature of spirituality
+Myth, Metaphor, Paradox & Parable
+Myth, Metaphor, Paradox & Parable
+(Describing God, characterizing God, explaining God)
+The mountain
+The sun and clouds. The light of the sun is always there. The clouds come (our defences). Night comes (us turning away)
+Blind men & the elephant
+River leading to the ocean
+Tree seedling. Requires protection initially. Grows to withstand greater forces. These forces in turn make it stronger, make it grow.
+(Describing God, characterizing God, explaining God)
+(Describing God, characterizing God, explaining God)
+The mountain
+The mountain
+The sun and clouds.
+The sun and clouds. The light of the sun is always there. The clouds come (our defences). Night comes (us turning away)
+Blind men & the elephant
+Blind men & the elephant
+River leading to the ocean
+River leading to the ocean
+Tree seedling.
+Tree seedling. Requires protection initially. Grows to withstand greater forces. These forces in turn make it stronger, make it grow.
+Relevant M-words
+Relevant M-words
+Misgivings
+Miracles
+Magic
+mystery
+Mysticism
+meditation
+mindlessness
+Mindfulness
+Mental Illness
+Multi-verse. Megaverse.
+Myriad forms
+Myth
+merriment
+mirth
+metaphor
+model
+mind
+mental
+machines & mechanisms
+measurement
+
+

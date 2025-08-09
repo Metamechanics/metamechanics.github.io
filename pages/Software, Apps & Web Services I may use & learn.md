@@ -1,0 +1,106 @@
+title:: Software, Apps & Web Services I may use & learn
+alias:: platforms, SAWS, app, software, software-app
+
+- Heavy lifters
+	- [[Logseq]]
+	- [[Coda.io]]
+	- [[Anytype.io]]
+	- [[Capacities.io]]
+	- [[Obsidian (app)]]
+	- Are.na
+	- [[Notion]]
+	- [[Foam (app)]]
+- [[Personal Knowledge Management]]
+	- [[Logseq]]
+	- [[Obsidian (app)]]
+	- [[Notion]]
+	- [[Simplenote]]
+	- Paper & pen
+	- [[Tinderbox]]
+	- [[Infinity Maps]]
+	- [[Trillium]]
+- [[Email]]
+  collapsed:: true
+	- Gmail
+	- Apple Mail
+	- [[Newton]]
+	- [[Unibox]]
+	- [[Cpanel Webmail]]
+- [[Computer Languages]]
+	- #Python
+	- #django
+	- #Javascript
+	- #Neo4j and #Cypher
+	- #html, #css
+	-
+- [[Writing & Publishing]]
+	- [[Scrivener]]
+	- [[Twine]]
+	- [[Obsidian (app)]]
+	- [[Logseq]]
+- [[Website Tools]]
+	- [[Ghost]]
+	- [[Obsidian Publish]]
+	- [[Github Pages]]
+	- [[Cloudflare pages]] + [[Gatsby]]
+	- [[Wiki.js]]
+	- Logseq + Vercel/Cloudflare
+	- [[xWiki]]
+- [[knowledge cartography]]
+	- [[Cmap Tools]]
+	- [[Rationale (app)]]
+	- [[Compendium (app)]]
+	- [[GroupMap]]
+	- [[Miro]]
+	- [[Juggl plug-in]] for [[Obsidian (app)]]
+	-
+- [[Language Learning]]
+	- [[Duolingo]]
+	- [[ACIM-LOTE]]
+	- [[Rocket Arabic]]
+- [[Messaging]]
+- [[Reading & Learning]]
+	- [[Readwise]]
+	- [[Glasp]]
+- [[Finance & Investing]]
+	- [[Sharesight]]
+- [[Audio-Visual]]
+	- [[Netflix]]
+	- [[Gaia]]
+	- [[Dokbox]]
+	- [[IAI]]
+	- [[Amazon Prime]]
+	- [[Stan]]
+	- [[Spotify]]
+	-
+- [[Research & Referencing]]
+	- [[Research Rabbit]]
+	- [[Zotero]]
+	- [[Bookends]]
+	- [[Academia.edu]]
+	- [[Elsevier.com]]
+	- [[DevonThink]]
+	- [[Glasp]]
+- [[Task Management tools]]
+	- [[OmniFocus 3]]
+	- [[Things]]
+	- oneThread
+- [[Presentations]]
+	- [[reveal-js]]
+	- [[Slid.es]]
+	- [[impress-js]]
+	- [[Logseq]]
+	-
+- [[data visualization]]
+	- [[Tableau]]
+	- [[Excel]]
+- [[News & Information Discovery]]
+	- [[Unread]]
+	- [[Feedly]]
+	- [[The Guardian newspaper]]
+	- [[Pocket]]
+	- [[Google feed]]
+	- [[Glasp]]
+- [[Software & App Management]]
+	- [[Yourstack]]
+-

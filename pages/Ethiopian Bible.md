@@ -1,0 +1,7 @@
+- #FACTs #[[Babies, Bibles and Bathwater]] #[[ancient text]] #Apocrypha
+- [[Kebra Nagast]]
+-
+- contains pseudo-epigraphs
+- Broader canon has 81 books including [[The Book of Enoch]],
+- Narrow canon has 72 books, and was result of editing overseen by [[Haile Selassi]]
+-

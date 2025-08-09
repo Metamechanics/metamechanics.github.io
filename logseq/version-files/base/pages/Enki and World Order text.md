@@ -1,0 +1,3 @@
+- #[[ancient text]] #[[ancient tablet]] #Sumer #pre-history #Annunaki
+- [Amazon.com: The Anunnaki Theorem: A concise perspective on humanity's origins in regards to the divine... eBook : Cano, Eduardo: Kindle Store](https://www.amazon.com/Anunnaki-Theorem-concise-perspective-humanitys-ebook/dp/B079NNC2BJ)
+-

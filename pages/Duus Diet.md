@@ -1,0 +1,32 @@
+- Mental
+	- Late eating
+	- Over eating; portion size
+	- Comfort eating
+- Food
+	- Less
+		- Dairy
+		- Chocolate
+		- Alcohol
+		- Gluten
+		- Dessert
+	- More
+		- Green tea
+		- Salad
+		- Black coffee
+		- Bulletproof coffee, instead of milky coffee
+	- None
+		- Sucrose, fructose
+		- Red wine
+		- Non-gf muffins & cakes
+	- Timed & Balanced
+		- Alcohol
+			- Weekends, if warranted
+			- Special occasions
+			- After extended hard work
+		- Mocha & Chai
+		-
+	- Exceptions
+		- Raw, natural, local honey
+		- Goat & sheep yoghurt
+		- Mum's special baking
+-

@@ -1,0 +1,201 @@
+-
+- Survey of current MCSHS IB Students
+- Objectives:
+- Gauge interest for hypothetical FSSF
+- If so, what subject could/should it replace?
+-
+- Stage 1 - reflection on subjects
+- Stage 2 - interest in futures
+- Stage 3 - would you have swapped a subject for futures? what would that futures subject have to include?
+-
+- Research Questions:
+-
+- What were the most loved and least loved subjects?
+- How useful were they?
+- Would they choose them again?
+- Reasons for not choosing again?
+-
+-
+-
+- Introduction
+- This is a survey about the future: your future, your family’s future, your community’s future, the world’s future, the future in general…
+-
+- Specifically it is about the possibility of “studying the future”.
+- Phase 0: Surveyee details
+- What IB cohort? Year of graduation?
+- Gender
+- Cultural identification/place of birth?
+- Do you use another language at home? (ie you speak, or your parents speak and you understand)
+- Would you consider yourself more...
+- science-maths oriented
+- humanities oriented
+- arts oriented
+- balanced, equally-weighted
+- In the IBDP, Group 1 (native language), Group 2(other language) and Group 5(mathematics) are all compulsory. For the rest of the subject, you currently do...
+- One humanities (group 3), one science (group 4), and one arts (group 6)
+- Two sciences (Group 4), one humanities (group 3)
+- Two humanities, 1 science
+- Two arts, 1 humanities
+- Two arts, 1 science
+- Phase 1: Ideas and opinions around FSSF/FFEE subject
+- Studying FSSF subject in IBDP and MCSHS
+- Select the 5 most important terms for you when talking/thinking about Futures & Foresight
+- http://www.foresightguide.com/foresight-glossary/
+- http://www.fao.org/docs/eims/upload/315951/Glossary%20of%20Terms.pdf
+-
+-
+- Ethics
+- Technology
+- Climate Change
+- AI/Artificial Intelligence
+- Robots
+- Computers
+- Utopia
+- Apocalypse
+- Brave New World
+-
+- What else would you add to your school life in order to feel like you were being more prepared for the future?
+- As you understand the terms and concepts, how important to the future is...
+- computer coding
+- robotics
+- STEM
+- science
+- history
+- psychology
+- business
+- art
+- music
+- drama/theatre
+- maths
+- foreign languages
+- HPE
+- What IB school subject(s) do you most associate with "the future"?
+- What IB school subject(s) do you regard as most valuable in the future?
+- What non-IB subjects would you regard as most valuable in the future?
+- Climate change
+- The government of Italy recent made the study of climate change compulsory in all schools.
+-
+- Which statement do you
+- Italy recently made it compulsory for all students to study climate change. The IBDP already incorporates climate change and global warming into some subjects. How strongly do you think something like "Climate Change: Problems and Solutions" should be offered AS A DEDICATED SUBJECT within the IBDP?
+- Word question to emphasise inter-disciplinarity
+-
+- economics
+- psychology
+- history
+- business
+- Would you choose to study this subject?
+- untitled
+- Big History (repeat similar to climate change)
+- what should be the emphasis of a course studying the future
+- Match the terms with their definitions
+- Inter-disciplinary
+- Multi-disciplinary
+- Trans-disciplinary
+- Given what you know so far about studying the future, could you see yourself changing a Group 3,4 or 6 subject in order to study an interdisciplinary and transdisciplinary Futures & Foresight?
+- Go to Question X
+-
+-
+- Yes, I would give up my current single group 3 subject to study the future
+- Yes, I would give up ONE of my TWO Group 3 subjects
+- Yes, I would give up my single Group 4 subject
+- choosing assessment modes
+- internship/research
+- Title of subject, if IB subject
+- vote
+- Futures Studies and Strategic Foresight
+- Futures Thinking
+- Foresight for Sustainability
+- Sustiainable Futures and Foresight
+- Other:
+- Title of subject, if not IB
+- Futures Studies for Ethical Entrepreneurship
+- Strategic Foresight for Ethical Entrepreneurship
+- FS for Ethical Innovation
+- Transformative Futures for Ethical Entrepreneurship
+- Which of your current subjects would you swap to do FSSF?
+- Futures Studies, as proposed, is inherently inter-disciplinary and transdisciplinary. As such, it could possibly fall in Group 3 (humanities) as well as Group 4 (natural sciences).
+-
+- This means you could possibly choose Futures & Foresight instead of Physics/Chem/Biol (Group 4) or instead of Business/Psychology/History (Group 3).
+-
+- With this in mind, which subject do you think you would swap out in order to study Futures & Foresight?
+-
+- “None” needs to be first option.
+- 1st (and only) science.
+- 2nd science. If so, which science
+-
+- 1st
+- 2nd humanities. If so, which humanities.
+-
+- If FSSF were only Group 3...?
+- If FSSF were Group 3 and Group 4...?
+- If you were to create your own subject to "study the future", what components and characteristics might you want to include?
+- No limits to your answer. Mention anything and everything you want.
+-
+-
+- How much do you feel you are on a pathway to being prepared for the future?
+- Phase 2: Ideas about "Futures and Foresight"?
+- Perhaps using media and art as guidelines, what images of the future...
+- You could reference a movie, book, song, advertisement, poem, painting etc
+-
+- Are you most fearful of?
+- Most inspired by / appeal to you most?
+- What character would you most like to be, with respect to the future?
+- What character would you least like to be?
+- How well or accurately do you think we can predict the future?
+- If some predictions about the future are wrong, should we bother attempting to predict the future?
+- Why/Why note?
+- What do you think is futures literacy?
+- To what extent do you feel you are "futures literate"?
+- Would you like to become more futures literate
+- What "type" of person do you think you are when it comes to the future?
+- See Futures Thinking playbook
+- On a scale of 0 - 10, how much influence and power do you feel you have in determining the future?
+- Which of the following images/styles/archetypes best represent your ideas and feelings about experiencing and shaping the future
+- See Futures Thining Playbook
+- Phase 3: CAS and The Future
+- Given your answers to the previous questions, what do you think you could do or would like to do to deal with the big issues of Australia, the world and society?
+- Phase 4: Ideas about the future
+- How optimistic are you about the future?
+- Scale 1 - 10
+-
+- How fearful are you about the future?
+- Scale 1 - 10
+- Name 3 issues you are most concerned about in the future
+- Grade these general and global  issues in order of threat or priority of attention/action, according
+- Peak oil
+- Peak X (ie. peak everything)
+- Financial derivatives bubble
+- Youth bulge
+- The Tech Singularity
+- Nootropics
+- Climate change
+- Other general environmental pollution and degradation
+- The rise of robots and ubiquitous AI
+- Global disease pandemic
+- Cyber-attack
+- Political tribalism and polarization
+- Terrorism
+- Religious fundamentalism
+- Nuclear war
+- Socio-economic inequality
+- Post-truth society (fake news, biased news etc)
+- Information overload, Big Data, too much complexity
+- Mental health, anxiety and suicide
+- Geo-political power changes (eg. the rise of China, India, Russia etc)
+- Overpopulation
+- Employment uncertainty and insecurity
+- Massive asteroid impact
+- Surveillance economy - government and corporations know all your data
+- Water scarcity; Water wars
+- Global food shortage and scarcity
+- Biodiversity and habitat loss
+- Current nations splintering and fracturing into smaller states
+- Space war
+- Natural disasters: super-earthquakes, super-volcanoes, tsunamis
+- Reduced contact with nature
+- Non-traditional relationship and family structures
+- Corruption
+- Other(s):
+- Climate change
+- To what extent do you think climate change will affect your future?
+- 0 - 10

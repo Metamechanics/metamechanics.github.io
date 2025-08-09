@@ -1,0 +1,3 @@
+- #Energenii #MacroEnergetics
+- [Human Thermodynamics :: the science of energy transformations](http://www.humanthermodynamics.com/index.html)
+-

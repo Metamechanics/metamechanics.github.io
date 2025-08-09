@@ -1,0 +1,10 @@
+-
+-
+- Future, desired
+	- ATG Athletic Truth Group; Mr Infinity
+	- [[Peter Attia MD]]
+	- ASEA
+	- Momentous
+	- Nootropic
+	- Fritjof Capra
+	-

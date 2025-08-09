@@ -1,0 +1,4 @@
+-
+- [Watching what’s happening in Göbeklitepe is painful, but does not surprise us](https://www.hurriyetdailynews.com/opinion/kanat-atkaya/watching-whats-happening-in-gobeklitepe-is-painful-but-does-not-surprise-us-129226)
+- [Careless Damage to Gobekli Tepe | Ancient Architects - YouTube](https://www.youtube.com/watch?v=m5oGmnFoDwY)
+-

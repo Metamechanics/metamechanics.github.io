@@ -4,16 +4,19 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
+  "outgoing-link",
   "page-preview",
   "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
+  "bookmarks",
   "markdown-importer",
   "outline",
   "word-count",
-  "open-with-default-app",
-  "file-recovery",
-  "publish"
+  "workspaces",
+  "file-recovery"
 ]

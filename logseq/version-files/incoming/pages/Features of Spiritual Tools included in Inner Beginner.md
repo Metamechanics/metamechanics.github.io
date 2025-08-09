@@ -1,0 +1,10 @@
+-
+- responsibility
+- focus on mind training over ritual
+- not heavy on organisational heirarchy or structures
+- cultivate direct connection and access with Source, rather than via a proxy or intermediary
+- [[FORCK]]
+- robust metaphysics and/or psychological framework
+- focus on mystical and inner experience over cultural and societal outer forms
+-
+-

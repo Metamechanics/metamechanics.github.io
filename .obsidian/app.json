@@ -4,12 +4,14 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "pages",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "assets",
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": true,
   "spellcheck": true,
   "showFrontmatter": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source"
 }

@@ -1,0 +1,73 @@
+alias:: Why I believe in an advanced pre-Mesopotamia civilization, Why I believe the Egyptians didn't build the pyramids and the Incas didn't build Macchu Picchu, Arguments for Advanced
+
+- #myPosition #[[ancient civilization]] #pre-history #toWrite #myCreation #FACTs #[[Adam's Atlas]]
+-
+- Alternative working hypothesis
+	-
+- The Engineering argument
+	- moulding of stone
+	- size of stone
+	- precision
+	- drill cores
+	- Aswan scoops
+- The Logistics argument
+	- movement of stone
+	- number of people
+- The Anachronism argument
+	- constructions are out of time-place eg. Giza
+	- Elephantine Island temple (Khnum?)
+		- perfectly engineered "gazebos" carved from single pieces of granite
+- The Incongruence argument
+	- no artwork in pyramids, Osirion
+	- upper levels significantly different from lower levels
+		- Macchu Picchu
+		- Baalbek
+		- Ayanis Kalesi
+		- etc
+	- Elephantine Island temple (Khnum?)
+		- perfectly engineered "gazebos" carved from single pieces of granite
+- The Mathematical argument
+	- probability
+	- pi and e evident in multiple structures
+- The multi-polar alignment argument
+	- [[Antiquity Reborn]] & [[Mario Buildreps]]
+- [[archaeoastronomy]]
+- The impersonation/deference argument
+	- poor replicas eg. smaller pyramids around Giza
+	- upper levels at Macchu Picchu, Cavustepe, Ayanis Kalesi
+	- sarcophagi ?
+	- artwork ?
+- The Universality argument
+	- [[ancient handbags]]
+	- boats: egypt & lake titicaca
+	- myths and legends
+		- flood
+		- serpent
+		- the seven
+		- 7 sisters
+		- serpent
+- The ancient texts argument
+	- Sumerian texts
+	- Chinese
+	- Indian
+	- Egyptian
+	- say similar things?
+- The myth argument
+	- Myths as literal
+	- universality
+- The disciplinary-disagreement argument
+	- egyptology vs geology
+- The psychic/collective-consciousness argument
+	- Edgar Cayce
+	- Rudolf Steiner
+	- Dolores Cannon
+- The probability argument
+	- the pro
+- The modern politics of knowledge argument
+	- old indigenous myths refer to previous groups and times
+		- eg. Zep Tepi
+		- Anasazi
+		- [[Viracocha]] , [[Quetlcoatl]]
+	- modern/contemporary interpretations or tellings push for indigenous 'ownership'
+	- Zahi Hawas
+- Reality is simultaneously metaphor argument

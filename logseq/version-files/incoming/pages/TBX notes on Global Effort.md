@@ -1,0 +1,111 @@
+- #old-notes #toEdit
+- see: [[Global Effort]]
+- Global Energy Futures, Foresight & Transitions: Pathways, proposals, processes, principles, problems and players present in the generation of tomorrow's energy system.
+- -  Energy futures: Future uses of energy. Energy use for and in the future. Navigating the energy transition. Not speculating on energy prices. Distinguish from oil futures, coal futures etc.
+- - Pathways
+- Proposals
+- Principles
+- Processes
+- Problems
+- Players
+- Top slider
+- Mapping the ideas, ideologies, technologies and philosophies of the energy landscape.
+- Orienting experts and laypeople alike in the journey towards the energy future
+- The future of energy futures
+- Injecting depth, breadth and empathy into a field characterised by cold, technological panacaea, shallow/narrow/short-sightedness, and conflict.  Progressing energy futures from narrow reactive techniques to broader proactive approaches.
+- Deconstructing the energy chess game: past, present and future.
+- Deepening, simplifying and unifying the narrow and shallow yet complex energy futures discourse. Identifying, classifying, simplifying, clarifying, unifying and fortifying energy futures.
+- Deepening, simplifying and unifying the narrow and shallow yet complex energy futures discourse.
+- A unique resource in the energy analysis game
+- A panorama of the energy landscape-1
+- Driving Questions
+- What are the world's energy futures?
+- Who envisions what? Do many futures boil down to a small set? What timelines and technologies do each privilege?
+- What is the history of the world's energy futures?
+- How has the vision of the energy future changed over time?
+- How are energy futures created or arrived at?
+- What are the methods, techniques, models, assumptions and biases present in
+- Are alternative energy futures possible?
+- Aspirations & Visions
+- Concise structured database of the macroscopic energy discussion
+- Problem perception
+- Predictions, Proposals, plans and pathways
+- Processes and procedures
+- A global community of deep energy futures experts
+- A loose team or Community of experts in energy futures, energy foresight and energy futuring.  While it is natural, expected and unavoidable for each person to hold preferred energy futures, Global Effort will attempt to identify and map energy futures, and separate this information from personal preferences and biases.
+- Evolving to a respected consultancy and thinktank
+- Inspire and facilitiate novel research
+- Novelty & Uniqueness
+- Not a wiki of technological solutions or economic tools
+- Rather, a critical non-technological analysis of the technology as symbols.   A knowledge base that orients.
+- Not a soapbox for a "solution".
+- Rather, a map and catalog of existing solutions.
+- Deconstruction, comparison and contrast of competing futures and conflicting forecasts
+- eg. OIl forecasts by IEA, ASPO, EIA, Greenpeace etc
+- See the spectrum and landscape of energy futures
+- To build bridges one must appreciate the chasm, orientation and foundations of competing futures.
+- A distillation of key thinkers and actors
+- Major actors, key thinkers, critical influencers, important publications, pivotal events
+- Differentiation-1
+- Not short-term energy forecasting  Not (at this stage in conception or execution) an advocate of any one, or more, solution.  An information repository for technologies, policies and methodologies only in so far as to chart, compare and contrast what exists already.  A repository of energy futures, energy forecasts and energy futuring methods.  Attempts not to favour one, or a few, particular energy futures, though will also attempt critique, analysis and deconstruction of these futures.
+- Azimuth Project
+- OpenEI
+- PESWiki
+- Multi-phase evolution
+- 1. Identify energy futures
+- Proposals, plans and predictions. Stakeholders, thinkers, agents. Technologies, methods, mechanisms.
+- 2. Map and situate energy futures
+- Group and categorize. Orient the energy futures debate for clearer argumentation.
+- 3. Plug holes. Build bridges. Heal rifts.
+- Mediate the conflict resolution amongst conflicting energy futures and their stakeholders.
+- 1. Collate energy futures
+- 2. Compare and contrast energy futures
+- 3. Chart energy futures
+- 4. Complement and coalesce energy futures
+- Healing. Bridge building. Conflict resolution. Co-creating. Constructing. Improving. Ameliorating.
+- Futures & Foresight
+- Forecasts Predictions Anticipation Roadmaps Pathways Visions Aspirations Fears & concerns Plans Dreams
+- Shallow, narrow, short-term
+- Indicators Prognostications
+- Generational, transitional, medium-term
+- Strategic positioning Transitions
+- Deep, civilizational, long-term
+- Myths Worldviews Intuitions Macrohistory Cycles
+- Energy futuring methodologies
+- Scenarios
+- Map-making: organisation and orientation
+- 3-D wiki-1
+- Not visually 3-D, but philosophically 3-D.  That is…  Layers of knowledge Sub-texts Assumptions Premises Foundational ideas Myths Implicit Narratives Worldviews
+- Argument mapping
+- Futures Cartography
+- Debate visualization
+- Typologies and Taxonomies
+- A truly global effort
+- Global scale
+- Global scope
+- Global effects
+- Global in reach
+- The energy system touches everybody
+- Global teamwork and collaboration
+- Resources Required
+- Do you see the energy problem as being much bigger than technology or policy? Do you think that different groups define the ‘energy problem’ differently? Do you believe no ‘one’ has the answer, and no one is entirely wrong? Do you have a basic appreciation of models of science, economics, politics, anthropology, psychology…as well as recognise their shortcomings? Do you want to get involved? If so, please email me.
+- Deep Energy futurists and macroanalysts
+- Non-technical energy critics
+- Web developers
+- Funding & Material support
+- Global Effort copy
+- Global Effort
+- What?
+- What? An innovative energy solutions portal through a creative online community “Energy Futures” as in visions, scenarios & roadmaps; not “futures” as in stockmarket trading and commodity speculation. Injecting depth, breadth and empathy into a field characterised by conflict, cold, technological solutions and shallow/narrow/short-sightedness. Mapping global energy futures in order to generate genuine alternatives and identify bridges required between competing visions. An introduction to Futures Studies theory and tools.
+- What is it not?
+- What is it not? A wiki of energy technologies which will save the world. Global Effort might explore how this view contributes to the problem. A chat forum to argue the rights & wrongs of climate change, peak oil/coal/resources, nuclear power, carbon tax vs carbon trade etc. Global Effort might question if these indeed are the real problems, or the divisive dualistic thinking in response to them, or the structures of science and economics themselves, for example. A vehicle for a particular technological, economic, political, cultural or psychological solution. Rather, Global Effort might distill the similarities-differences and highlight the short-comings of each to help build a robust, resilient path forward. A library of information collecting digital dust while inflating intellectual egos. The intention of Global Effort is to inform decisions and visions somewhere. Neutral. Instead, Global Effort will attempt to recognise and acknowledge the biases present in its propositions, while it highlights the biases in others.
+- Why?
+- Why? Energy problems are universal and their consequences massive. Current solutions are inadequate. Current thinking is largely ineffectual. Current energy futures thinking is rather shallow: forecasts & mathematical modelling, scenario-making for strategic competitive advantage etc. Innovative, creative thinking is needed (and not just innovative gadgets.) Existing energy proposals don’t address such factors as the competition between visions or the inner development required to effect enduring change.
+- How?
+- How? Online contributory knowledge community with evolving information policy (not simply another wikipedia or chat forum.) Deep futures tools and techniques eg. causal-layered analysis, integral futures, scenarios, back-casting, anticipatory action learning, healing futures. Injecting depth, breadth and novelty into energy thinking. Enriching the energy debate through deconstruction, decomplexification & generating authentic alternative energy futures. Participatory & exploratory; questioning “solutions”, identifying assumptions, reframing “problems”.
+- Who?
+- Who? Everyone who generates, absorbs, transforms and utilises energy. Energy decision-makers, analysts, tinkerers and academics. Futures practitioners and students. Visionaries, dreamers and creative thinkers. ASSISTANTS & ASSISTANCE REQUIRED, in all forms.
+- When?
+- When? Using visions of the future to adjust decisions in the present Learning lessons from the past to change direction in the present Understanding deeper layers of these visions and lessons Launching 2012 Before catastrophic climate disruption, oil economy meltdown hysteria, nuclear armageddon, green-washing powder stains stick – take your pick!
+- Where?
+- Where? Cyberspace Global coverage with nation and region foci Global contributors Future and past reconciled in the present Adam based between Cali, Madrid, Melbourne & Noosa

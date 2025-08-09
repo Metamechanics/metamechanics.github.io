@@ -1,0 +1,4 @@
+-
+- 1974 - Sixth person to walk on the Moon
+- Founder - [[Institute of Noetic Sciences]]
+-

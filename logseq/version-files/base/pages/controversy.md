@@ -1,0 +1,3 @@
+-
+- “All terms are potentially controversial, and those who seek controversy will find it. Yet those who seek clarification will find it as well. They must, however, be willing to overlook controversy, recognizing that it is a defense against truth in the form of a delaying maneuver” (C-in.2:1-3). #quote
+-

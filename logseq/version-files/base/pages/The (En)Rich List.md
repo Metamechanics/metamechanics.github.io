@@ -1,0 +1,2 @@
+- [The (En)Rich List | The (En)Rich List](http://enrichlist.org/the-list/#.Yf0QRfVBw-R) as determined by the [Post Growth Institute](https://www.postgrowth.org/)
+- contrast with HSBC Jade [hsbc-enrich-list.pdf](https://www.hsbc.co.uk/content/dam/hsbc/gb/pdf/hsbc-enrich-list.pdf) which is for high-wealth individuals seeking exclusive experiences.

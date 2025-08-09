@@ -1,0 +1,4 @@
+see-also:: #FACTs #[[FACTs 4CT]]
+-
+- [[We don't get upset at facts. We get upset at interpretations.]]
+- [[we don]]

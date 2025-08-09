@@ -1,0 +1,4 @@
+alias:: webbook
+see-also:: #hyperbook #eBook #WriterShelf
+- Top search results on 'webbook' is not really a web-book: [Welcome to the NIST WebBook](https://webbook.nist.gov/) It's a database with text that is poorly formatted for ingestion.
+-

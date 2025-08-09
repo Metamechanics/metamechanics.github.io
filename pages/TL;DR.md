@@ -1,0 +1,3 @@
+- contemporary web lingo for "Too long; didn't read"
+- brought on, and/or necessitated by, a varying combination of [[time poverty]], [[reduced attention spans]], poorly structured argumentation and authors liking their own voice too much
+- can be circumvented by folded writing using modern digital tools allowing layers of detail to be shown via eg. headers and sub-headers, folding bullet points, links to optional extra information

@@ -1,0 +1,29 @@
+-
+- EFA uniqueness:
+	- EFA places data in a story
+	- EFA links data objects/entities/topics
+	- EFA offers Fresh Alternatives
+	- EFA has spiritual and metaphysical underpinnings
+	- EFA has layered model of reality
+- Uniqueness & Novelty - Overview
+	- “Market opportunity.” No one single forum (to the best of my knowledge) unites and integrates discussion around sufficiency, at all levels, in all dimensions, in a convenient, digestible manner. There is no
+- Originality through integration
+  collapsed:: true
+	- Contributions, in an isolated sense, are generally not original. The originality here comes from their integration, sense-making and
+- What EFA is not
+- Points of difference
+- Points of differentiation
+- points of similarity
+- "But this stuff has already been solved. You just need to read [insert theoretician here]."
+  id:: 6689a042-f2b9-493f-8ae6-97b3a16012e6
+- Compare / contrast with
+	- [[Our World in Data]]
+	- [[Visual Capitalist]]
+	- [[The Economist]]
+	- [[Knoema]]
+	- [[United Nations]] data sources
+	- [[Millennium Development Goals]], [[Sustainable Development Goals]]
+- Making sense of immense, disparate data through a grand, visual, interactive narrative.
+	- Targeting effective triggers and solutions through a logical sequence of (in)sufficiency investigation
+	- The Enough For All story structure follows a logical if-then questioning route to uncover problems, data, answers and supposed answers.  This way readers can discover  1. Issues and data,   2. attempts at addressing the issue,   3. assumptions and limitations in the data,   4. the layers and perspectives on the issue and its solutions  5. Linkages between complex issues and attempted solutions, and  6. Target trigger points for effective action  An important part of Enough For All is that readers can offer and inject insights and data into the pathway-network, keeping in mind that entry will be scrutinised by the community for novelty, uniqueness, overlap, pre-existence etc. The success of Enough For All relies on this very process.
+-

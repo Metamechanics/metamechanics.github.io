@@ -1,0 +1,318 @@
+alias:: diagnosis
+type::
+partners::
+tags:: Knowledge Cartography, #myProject #map
+
+- The fundamental software for my use
+- AI prompt describing DiaGnosis
+- Project Brief: 5W,1H
+	- What
+		- Description
+		  collapsed:: true
+			- Definition of 'Diagnosis'
+				- http://www.merriam-webster.com/dictionary/diagnosis [accessed 18/1/2014]
+				- 1
+					- a :  the art or act of identifying a disease from its signs and symptoms
+					- b :  the decision reached by diagnosis
+				- 2:  a concise technical description of a taxon
+				- 3
+					- a :  investigation or analysis of the cause or nature of a condition, situation, or problem <diagnosis of engine trouble>
+					- b :  a statement or conclusion from such an analysis
+			- 1. Diagramming knowledge (gnosis)
+				- Diagram
+					- 1:  a graphic design that explains rather than represents; especially :  a drawing that shows arrangement and relations (as of parts)
+					- 2:  a line drawing made for mathematical or scientific purposes
+					- Diagram (Wiktionary) A plan, drawing, sketch or outline to show how something works, or show the relationships between the parts of a whole.
+				- Gnosis
+					-
+			- 2. Conventional definition and etymology
+			- 3. Acknowledging the fundamental metaphysical, psychological and spiritual foundations of all knowledge.
+			- 3-D wiki
+				- Not visually 3-D, but philosophically 3-D.  That is…
+				- Layers of knowledge
+				- Sub-texts
+				- Assumptions
+				- Premises
+				- Foundational ideas
+				- Myths
+				- Implicit Narratives
+				- Worldviews
+			- X-dimension cartography
+			- Wisdom nutrition, information diet, Databetes & Infobesity
+		- Slogans
+			- Diagramming Knowledge
+			- Diagramming knowledge and its inter-relationships.
+		- What not
+		- Uniqueness and Novelty
+			- Depth, layers
+	- What for;
+		- Purpose
+		- Goals & Objectives
+	- Why; Rationale
+		- Complexity
+		- Narrow and shallow
+		- Flatland tunnel
+		- Time-poor
+		- Overwhelming nature of news and info
+		- History repeats; [[There's nothing new under the sun]]
+		- Underdevelopment of knowledge discernment
+		- Sense-making through
+		- [[databetes]] & [[infobesity]]
+	- Who
+	  collapsed:: true
+		- Users & Customers
+		- Audience
+		- Actors
+		- Founders & Creators
+		- Contributors
+		- Subjects of analysis
+		- Competitors & comparators
+			- Related Projects, Ideas, Tools and Efforts
+				- Panpedia
+				- IBIS & Compendium
+				- DebateGraph
+				- iMapping
+				- ArguNet
+				- iModeler
+				- Truth Mapping
+				- Kingfisher
+				- Outline software
+				- OmniOutliner
+				- Tree
+				- Tinderbox
+				- Treesheets
+		- Key Thinkers & Influencers
+			- Bob Horn
+			- Hans Rosling & Gapminder
+	- How;
+		- Theoretical frameworks
+			- Argumentation frameworks & models
+				- Toulmin
+			- Critical Thinking Frameworks
+			- Literary/critical theory frameworks
+			- Knowledge (analysis/deconstruction) frameworks
+		- Platform
+	- When
+	- Where
+		- website
+			- URL?
+				- Diagnosis.solutions
+				- diagnosis.systems
+				- Diagnose.is
+				- Diagknows.is
+		- world
+	- Examples
+- [[DiaGnosis 5-page project brief]]
+  collapsed:: true
+	- {{embed [[DiaGnosis 5-page project brief]]}}
+- software uses :
+  collapsed:: true
+	- Diagramming knowledge with the hope of leading to gnosis (higher Knowledge)
+	- Diagramming Dialog
+	- Diagnosing diatribe and
+		- Diagnose
+		  collapsed:: true
+			- [DIAGNOSE | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/diagnose)
+		- Diatribe
+		  collapsed:: true
+			- [DIATRIBE | definition in the Cambridge English Dictionary](https://dictionary.cambridge.org/us/dictionary/english/diatribe)
+	- A diaper for mental diarrhoea
+	- Gnosis
+		- [GNOSTIC | English meaning - Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/gnostic)
+		- [The Gnosis Archive: Resources on Gnosticism and Gnostic Tradition](http://gnosis.org/welcome.html)
+		- [Gnosis: Journal of Gnostic Studies | Brill](https://brill.com/view/journals/gnos/gnos-overview.xml)
+		-
+	- dialectic
+		- [Dialectic - Wikipedia](https://en.wikipedia.org/wiki/Dialectic)
+		- [Hegel’s Dialectics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/hegel-dialectics/)
+	- situate ideas, arguments, events along user-specified templates and axes sets and visualize the map in 2-D, 3-D or 4-D
+	- Create a foldable 2-D map-writing tool outlining argument propagation sequence with all possible argument components
+- User Stories / Workflows
+  collapsed:: true
+	- Non-fiction book breakdown
+	- Meeting documenting & analysis
+		- Thread mapping
+		- Minutes recording
+		- Missing component reminding through in-built graphical/analytical frameworks
+	- Community decision-making
+		- online
+		- offline
+	- Genealogy
+	- Workshops
+	- World-making
+- [[knowledge cartography]]
+- [[iQubes]]
+  collapsed:: true
+	- Cube unfolding; actually, n-polyhedron unfolding, depending on number of inputs
+	- a simplified flashcard version
+	- the idea for multiple language learning
+	- each flashcard side can go to many sides depending on the link
+- Platform features - X-C community projects (eg. [[FACTs]] ) use [[DiaGnosis]]
+  collapsed:: true
+	- Data presentation & visualization
+		- Graphs & charts
+		- Tables
+		- Calendar
+		- Gantt
+		- Kanban
+		- [[graphic organizers]]
+			- Mind Maps
+		- dashboards
+			- Business Intelligence
+		- Infographics
+		- Concept Maps
+		- Tooltips
+		- Genealogy of Ideas and Ideals
+		- Idea evolution & concept genealogy, knowledge archaeology
+		- hierarchical folding, accordion writing, stretchtext
+		- Knowledge Cartography, Landscaping and Architecture
+		- Rotate. Revolve.
+		- Zoom-enter-drill/dive
+	- Dynamic data rearrangement
+		- data sits in different "locations" depending on the knowledge framework chosen ie. data position moves once different framework chosen
+			- this must be accommodated in schema
+		- This happens already with quantitative data
+		- User-defined multi-dimensional mapping inspired by geometry
+			- Imposing axes and dimensions on the landscape
+			- Arbitrary locations versus measured locations
+	- knowledge base
+		- can be tailored to any specific knowledge domain
+		- ontology/scheme builder and tester
+			- database diagram and "proofer"
+		- avoids similar and duplicate entries, via:
+			- predictive, dynamic search on entry
+			- AI
+			- gardening, dedicated gardeners
+	- frictionless data entry
+		- text, freeform, qualitative data
+		- quantitative and templated data
+			- forms, derived from schema
+				- adaptive
+	- diagram templates
+		- business
+		- futures
+		- philosophical frameworks
+		- 7 standard story arcs
+		- archetypes
+		- foundational myths, fables, fairy tales
+		- common metaphors
+		- etc etc
+	- prompts and built-in structures
+		- [[philosophical frameworks]], such as...?
+			- [[STEEPLE]]
+			- [[AQAL]] & [[AQAL Integral theory]]
+			- Philosophical/Epistemological landscapes, contours, hierarchies
+			- Typology, Taxonomy and Ontology
+		- [[futures thinking frameworks]] and [[futures thinking methods]]
+			- [[scenarios]]
+			- [[Causal Layered Analysis]]
+			- [[Futures cone]]
+			- [[Q-matrix]]
+			- [[Futures Q-matrix]]
+			- futures landscape
+				- combo or artwork graphics and data viz
+		- [[creative thinking tools]]
+		- geometries
+			- Knowledge Pyramid
+				- Data
+				- Information
+				- Knowledge
+				- Wisdom
+	- Import or perhaps better just to integrate with data viz tools and business analytical tools
+		- Data (numerical, quantitative)
+	- online course builder
+		- but for what courses?
+		- to be able to teach what you have learnt
+			- onboard new staff
+			- internal upskilling
+			- external client consultancy
+	- information mapping
+		- conversation threads
+		- dialogue mapping; meeting minute condensation and distillation
+		- [[knowledge cartography]]: dialogue, debate, controversy, futures
+	- Blog
+	- Stories; multimedia + map
+	- Filterable database
+	- tiered access & permissions
+	- member rankings
+	- gamification;
+	- intra-site trading using virtual currency
+		- could this become actual job/work payment, based on contributions & roles?
+	- blockchain verification of data/information entry ?
+	- Logseq-style note-taking; similar Obsidian, Tana etc.
+		- wikilinks
+		- bullet-points
+		- outlining
+	- Entity gardening -
+		- avoiding and merging duplicates
+		- agreed taxonomy/ontology
+		- disambiguation
+	- Versioning, a la wikis
+- Platform inspirations, possibilities & examples; or is this X-C communities? (They overlap)
+  collapsed:: true
+	- [Discourse is the place to build civilized communities | Discourse - Civilized Discussion](https://www.discourse.org/)
+	- Github
+		- [discourse/code-of-conduct.md at main · discourse/discourse · GitHub](https://github.com/discourse/discourse/blob/main/docs/code-of-conduct.md)
+	- [Codeberg.org](https://codeberg.org/)
+	- [Create your own social network with the best community website builder - NING](https://www.ning.com/)
+	- [Raise and spend money with full transparency. - Open Collective](https://opencollective.com/)
+	- [Loomio: decide together](https://www.loomio.com/)
+	- [[GroupMap]]
+- Inspirations for DiaGnosis - apps and software to emulate and incorporate functionality
+  collapsed:: true
+	- [[Tinderbox]]
+	- [[Online Visualization of Argument]]
+	- [[Compendium (app)]]
+	- [[ArgMap (app)]]
+	- [[DebateGraph]]
+	- [[GroupMap]]
+	- [[Visual Understanding Environment (VUE)]]
+	- [[impress-js]]
+	- [[Argdown]]
+	- [[Cmap Tools]]
+	- [[Miro]]
+	- See Wikipedia article on Tinderbox [Tinderbox (application software) - Wikipedia](https://en.wikipedia.org/wiki/Tinderbox_%28application_software%29)
+	- [draw.io](https://www.drawio.com/)
+	- [[Araucaria]]
+	- [[Argüman]]
+- Semi-structured data
+- Tech stack
+  collapsed:: true
+	- [[yFiles]] SDK
+	- Logseq
+	- Neo4j or PostgreSL
+	- React.js or Angular.js?
+	- Django-Python
+	- Apache Solr
+	- Redis or Memcached
+	- Javascript
+	- reactivejs.org
+	- #impress-js
+	- [[infinite canvas]]
+	- [[D3.js]]
+	- [[Observable Framework]]
+- Possible collaborators and contractors
+  collapsed:: true
+	- [[Volodymyr Pavlyshyn]]
+	- [[neo4j commander]] guy: [[Chris P]]
+	- [[impress-js]] guy
+	- [[AimProSoft]]
+	- [[Brett Deniese]]
+	- logseq community?
+	- neo4j community ?
+	- [[D3.js]] community ?
+	- [[David McCandless]]
+	- [[Visual Capitalist]] freelancers
+- Applications in the [[MetaMechanic Mesh]]
+  collapsed:: true
+	- Global Effort
+	- EFA
+	- Fresh Alternatives
+	- BBB
+		- Israel-Gaza
+		- election analyses
+		- Russia-Ukraine
+		- Syria
+		- Iraq war(s)
+	- FACTs
+- DiaGnosis can map development if one particular thinker's ideas. It can then inject xq qualifications, rebuttals, clarifications etc, and situate it within the broader, bigger

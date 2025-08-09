@@ -1,0 +1,262 @@
+- first and last part of [[Eurasia 2024]]
+- [Turkey 2024 - Google Maps](https://www.google.com/maps/d/edit?mid=1Gy_sENvw5Q8HgHoBdEpjVuHtXimVzSA&usp=sharing)
+-
+- Tours & Sample itineraries
+	- [Gobekli Tepe & Ancient Turkey Tour May 2024 - Gobekli Tepe, Karahan Tepe and Tas Tepeler Sites](https://www.megalithomania.co.uk/turkey2024.html)
+	  collapsed:: true
+		- USD$6500 single
+		- [[Ankara]]
+			- [[Museum of Anatolian Civilisations]] -
+		- [[Hattusa]]
+		- [[Alacahoyuk]]
+		- [[Capadoccia]], overnight [[Goreme]]
+			- [[Derinkuyu]]
+			- [[Nevsehir]]
+			- [[Selime Rock Cathedral & Monastery]]
+		- [[Sultanhani]] near [[Konya]]
+		- [[Catalhoyuk]]
+		- [[Sanliurfa]]
+			- [[Sayburc]] & [[Ayanlar Hoyuk]]
+			- [[Karahan Tepe]] & [[Harbetsuvan Tepesi]]
+			- [[Gobekli Tepe]]
+			- [[Harran]]
+			- [[Pools of Abraham]]
+			- [[Sefertepe]]
+		- [[Kurt Tepesi]]
+		- [[Mardin]]
+		- [[Boncoklu Tarla]]
+	- [Sign up to the 4Bidden Grand Turkey Tour | 4BiddenKnowledge | Weston, FL United States](https://www.4biddenknowledge.com/grand-turkey-tour)
+	- [Megalithic Sites of Turkey - Eastern Turkey Tours - 11 Day Tour](https://www.easternturkeytour.org/tour/the-culture-of-gobekli-tepe-the-civilisations-of-ancient-anatolia/)
+	- [One Month Backpacking Turkey Itinerary in 2024](https://www.bucketlistly.blog/posts/turkey-one-month-itinerary)
+	- [Southeastern Turkey Guide](https://turkeytravelplanner.com/go/se/index.html)
+-
+- Itinerary
+	- Turkey, part 1
+		- [[10-05-2024]] - Friday
+		- [[11-05-2024]] - Istanbul
+			- [[Topkapi Palace]]
+			- [[Blue Mosque]]
+			- [[Basilica Cistern]]
+			- [[Byzantine Hippodrome]]
+			-
+		- [[12-05-2024]] - Istanbul
+		- [[13-05-2024]] - Istanbul
+		- [[14-05-2024]]
+			- depart SAW airport Istanbul 13:00 hours
+			- arrive Van 1500 hours
+			-
+		- [[15-05-2024]] - Van
+		- [[16-05-2024]] - Van
+		- [[17-05-2024]] - Van, travel
+		- [[18-05-2024]] - Mardin
+			- [Ana Talia house - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=ZJEvhL8cNc5BCIkO&source=mytrips)
+		- [[19-05-2024]] - Mardin
+		- [[20-05-2024]] (Monday) - Mardin
+		- [[21-05-2024]] - Mardin
+		- [[22-05-2024]] - Mardin -> Sanliurfa
+			- [Serce Konagi butik otel - booking.com]([Booking.com: Confirmation](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=2TCXJKLzdIsuqyPt&source=mytrips))
+			- [directions to Sanliurfa rent-a-car](https://maps.app.goo.gl/dRzAWhzNZ9ztAreX7)
+		- [[23-05-2024]] - Sanliurfa -> Mount Nemrut
+			- [Nemrut Dagi Isik Pansion](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=cloeq6pOTu0wJf7k&source=mytrips)
+		- [[24-05-2024]] (Friday) - Mount Nemrut -> Sanliurfa
+			- [SarkCirigan Konak Boutique Hotel](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=IGm5ks5qtYvoIXji&source=mytrips)
+		- [[25-05-2024]] - Sanliurfa
+		- [[26-05-2024]] - Sanliurfa
+		- [[27-05-2024]] - Sanliurfa
+		- [[28-05-2024]] - Sanliurfa
+		- [[29-05-2024]] - Sanliurfa -> Osmaniye area
+		- [[30-05-2024]] - Osmaniye
+		- [[31-05-2024]] - Osmaniye (Friday)
+		- [[01-06-2024]] - Osmaniye -> Goreme
+			- [Karadut Cave Hotel - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=DR0IBxA7zuO9fxRv&source=mytrips)
+		- [[02-06-2024]] - Goreme
+			- Hot air balloon
+			- Goreme
+		- [[03-06-2024]] - Capadoccia
+		- [[04-06-2024]] - Capadoccia
+		- [[05-06-2024]] - Capadoccia
+		- [[06-06-2024]] - Capadoccia/Goreme -> Konya via...?
+			- [Eser Palas oteli](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=MaCYBRZItQySKlaz&source=mytrips)
+			-
+		- [[07-06-2024]] - Konya
+		- [[08-06-2024]] - Konya
+		- [[09-06-2024]] - Konya; Konya -> Izmir by overnight train
+		- [[10-06-2024]] - arrive Izmir by overnight train; train to Selcuk
+			- [Homeros Pension & Guesthous](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=KOYTwKWYGXVtVfEV&source=mytrips)
+		- [[11-06-2024]] - Selcuk
+		- [[12-06-2024]] - Selcuk
+		- [[13-06-2024]] - Selcuk; -> Izmir airport ->Sarajevo
+			- depart Izmir airport 6:55 pm
+			- arrive Sarajevo 7:50 pm
+			- [Hotel Saraj - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=sHdlNOal72eJTKrX&source=mytrips)
+		- [[Balkans 2024]]
+		  collapsed:: true
+			- {{embed [[Balkans 2024]]}}
+		- [[Malta 2024]]
+		  collapsed:: true
+			- {{embed [[Malta 2024]]}}
+		- [[Sardinia 2024]]
+		  collapsed:: true
+			- {{embed [[Sardinia 2024]]}}
+		- [[Lancashire 2024]]
+	- Turkey, part 2
+		- [[30-07-2024]]
+			- depart Manchester 16:30 pm, flight SunExpress XQ535
+			- arrive Antalya airport 23:00 pm
+			- stay at [Held Hotel - booking.com](https://secure.booking.com/confirmation.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4ApKejLEGwAIB0gIkOGE2N2Q3Y2MtYmFlMy00MDNlLWExMjctZmVlM2VmY2E2Njc02AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&auth_key=gJzZdsScOZ6VppRL&bp_travel_purpose=leisure&ges=9.24107142857142&hostname=www.booking.com&nflt=review_score%3D80%3Bfc%3D2%3Bprice%3DAUD-50-110-1%3Boos%3D1&pre_pbb_price=93.12&pre_price=93.123&rt_num_blocks=3&send_sms_confirmation=1&source=book&ua_created=0&)
+		- [[31-07-2024]]
+			- [[Perge]]
+			- [[Antalya Archaeological Museum]]
+			- beach
+		- [[01-08-2024]]
+			- Car rental: Sixt, Antalya airport
+				- https://mail.proton.me/u/0/inbox/CJrJQLoO0cy4512cTCtJZAn0a9AZS8FKMhmOHtKOJqyKCt_ew2pXkl5PayDw3rZ-QfklSUunHmROmiKXhTPEow==
+			- [[Seleukeia ancient city]]
+			- beach
+			- [[Aspendos]]
+		- [[02-08-2024]] - travel: Antalya -> Demre
+			- [[Ariassos ancient city]]
+			- [[Termessos]]
+			- [[Neapolis ancient city]], maybe
+			- [[Myra]], near Demre
+			- [Karabibik Bungalow - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=uvGY3awDDKi4sYvh&source=mytrips)
+		- [[03-08-2024]] - Demre/Kekova
+			- [[Lycian Civilization Museum]]
+			- [[Heroon of Trysa]]
+			- Kekova Island, sunken city
+		- [[04-08-2024]] - travel Demre/Kekova -> Lycian way -> Patara
+			- [[Aperlai ancient city]]
+			- [[Apollonia ancient city]]
+			- Patara beach
+			- [Golden Pension patara - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=uvGY3awDDKi4sYvh&source=mytrips)
+		- [[05-08-2024]] - Patara
+			- [[Letoon]]
+			- [[Ancient city of Xanthos]]
+			-
+		- [[06-08-2024]] - Patara
+			-
+		- [[07-08-2024]]
+			-
+			- stay Pammukkale: [Hotel Pammukkale - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=uvGY3awDDKi4sYvh&source=mytrips)
+		- [[08-08-2024]] -
+			- stay Pammukkale
+		- [[09-08-2024]] - Pamukkale -> Sardis -> Bergama
+			-
+			- stay Bergama: [Hera Hotel - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=uvGY3awDDKi4sYvh&source=mytrips)
+		- [[10-08-2024]] - Bergama/Pergamon
+			- stay Bergama
+		- [[11-08-2024]]
+			- stay Assos: [Assos Behram special class hotel](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=uvGY3awDDKi4sYvh&source=mytrips)
+		- [[12-08-2024]] - travel Bergama -> Assos -> Troy
+			- visit [[Assos]]
+			- stay Canakkale: [Dardanelles1915 - booking.com](https://secure.booking.com/confirmation.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaA-IAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4AtnbwLEGwAIB0gIkYzE0ZDdjNTQtODM5OS00ZGEyLWE3OWQtYWUyOWYxOThiNmFm2AIG4AIB&sid=d791bcbb211f2a981a4b7e8b6b4ddd39&aid=304142&auth_key=uvGY3awDDKi4sYvh&source=mytrips)
+		- [[13-08-2024]] - Gallipoli, Anzac Cove, Canakkale
+			-
+		- [[14-04-2024]]
+			-
+			- depart Canakkale 12 pm midday -> IST
+			- depart IST @ 7:30 pm
+		-
+		- [[Antalya]]
+			- [[Seleukeia ancient city]]
+			- [[Perge]]
+			- [[Termessos]]
+			- [[Ariassos ancient city]]
+		- [[Fethiye]]
+			- [[Tlos]]
+			- [[Ancient city of Xanthos]]
+			- [[Letoon]]
+		- [[Pamukkale]]
+			- [[Hierapolis]]
+		- [[Sardis]]
+		- [[Pergamon]]
+		- [[Assos]]
+		- [[Troya]]
+		- [[Canakkale]]
+			-
+		- [[Gelibolu]]
+			- Gallipoli to IST airport = 3 hours drive
+	-
+	-
+- Turkey, part 1
+	- [[Van]]
+	  collapsed:: true
+		- [Van Museum | Turkish Museums](https://turkishmuseums.com/museum/detail/2251-van-museum/2251/4)
+		- [[Cavustepe]] / Haykaberd (Fortress of Hayk)
+		- [[Ayanis Castle]]
+		- [[Van Castle]]
+		- [[Zernaki Tepe]]
+		- [[Kef Kalesi]]
+		- [[Aght'amar church]], Lake Van
+		- Suphan Degi
+		-
+	- [[Mardin]]
+		- [[Deyrul Zafaran monastery]]
+		- [[Boncuklu Tarla]]
+		- [[Hasankeyf]]
+		- [[Ancient City of Dara]]
+		- [[Midyat]]
+	- [[Sanliurfa]]
+	  collapsed:: true
+		- [[Mt Nemrut]]
+		- [[Arsameia]]
+		- [[Ancient City of Perre]]
+		-
+		- [Taş Tepeler: The Land of Mysterious Stone Hills - GoTürkiye](https://goturkiye.com/tas-tepeler-the-land-of-mysterious-stone-hills)
+			- [[Gobekli Tepe]]
+			- [[Karahan Tepe]]
+			- [[Harbetsuvan Tepesi]]
+			- [[Ayanlar Hoyuk]]
+			- [[Hamzan Tepe]]
+			- [[Nevali Cori]] - flooded by Euphrates Dam
+			- [[Cakmaktepe]], closer to Gaziantiep than Sanliurfa
+			- [[Kurt Tepesi]]
+			- ![Tas Teppeler site infographic.png](../assets/Tas_Teppeler_site_infographic_1713179450735_0.png)
+			-
+			-
+		- [[Sanliurfa]] -> [[Karahan Tepe]] -> [[Harbetsuvan Tepesi]] -> [[Sanliurfa]]
+		- [[Sanliurfa]] -> [[Harran]] return
+		- [[Gurcu Tepe]]
+		- [[Bazda Cave]]
+		- [[Gobekli Tepe]]
+		- [[Karahan Tepe]]
+		- [[Sefertepe]]
+		- [[Sayburc]]
+		- Halfeti Sunken City on Euphrates River
+		- [[Balikligol]], aka [[Pools of Abraham]]
+		- [Şanlıurfa Museum | Turkish Museums](https://turkishmuseums.com/museum/detail/2227-sanliurfa-museum/2227/4)
+		-
+	- [[Osmaniye]]
+	  collapsed:: true
+		- via [[Gaziantiep]]
+			- [[Yesemek open air museum]]
+		- via [[Adana]]
+			- [[Anavarza Kalesi]]
+		- [[Kastabala ancient city]]
+		- [[Karatepe Aslantis archaeological site]]
+		-
+	- Cappadocia
+		- [[Derinkuyu]]
+		- [[Kaymakli]]
+		- [[Goreme]]
+			- [[Churches of Goreme]]
+			- [Dark Church (Karanlık Kilise)](https://www.cappadociahistory.com/post/dark-church-karanl%C4%B1k-kilise)
+			- [Turkish Heritage Travel Agency, Goreme, Cappadocia, Turkey](https://turkeytravelplanner.com/tourop/heritage/index.html)
+		- [[Saratli Kirikgoz underground city]]
+		- [[Ihlara Valley]] hike
+		- [[Hasan dagi]] mountain climb
+		- [[Monastery valley]] hike
+		-
+		- Ankara side-trip
+			- [[Hattusa]]
+			- [[Alacahoyuk]]
+			- [[Museum of Anatolian Civilisations]] (too far?)
+			-
+	- [[Konya]]
+	  collapsed:: true
+		- [[Catalhoyuk]]
+	- [[Antalya]] & Taurus Mountains
+		- Seleukeia (Lyrbe)
+	- [[Izmir]]
+		- [[Belevi Mausoleum]]
+		- [[Ephesus]]

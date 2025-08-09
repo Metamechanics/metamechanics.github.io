@@ -1,0 +1,22 @@
+alias::
+tags:: #myProject #myBook #hyperbook 
+project:: [[FF-ed]] #[[X-C Communities]] 
+see-also:: [[Writing the Future - A Textbook Challenge]]
+- Possible platforms
+	- [Home | LibreTexts](https://libretexts.org/)
+		- [Introducing the Forge, a New Innovation in Open Pedagogy | LibreTexts](https://libretexts.org/blog/2025/06/11/introducing-forge-new-innovation-open-pedagogy)
+	- [[Quarto]]
+	- [[Jupyter notebook]]?
+	- [[Gitbook]]
+	- [[Bookdown]]
+	- [[Read The Docs]]
+	-
+- Web-based, utilising the advanced features of contemporary web services
+	- dynamic
+	- embeds
+		- data visualizations
+	- discussion fora
+	- community contributions
+- Lessons & activities
+- Do I use Global Effort - sitemap as a baseline template ?
+	-

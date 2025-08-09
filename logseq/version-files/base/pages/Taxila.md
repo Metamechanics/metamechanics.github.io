@@ -1,0 +1,9 @@
+alias::
+tags:: #Greco-Bactrian, #[[Alexander the Great]]
+place::
+country:: [[Pakistan]] 
+place-type:: #[[ancient site]] 
+project:: #[[Adam's Atlas]] 
+nearest-town::
+map-url::
+-

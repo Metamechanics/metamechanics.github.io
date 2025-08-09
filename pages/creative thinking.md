@@ -1,0 +1,2 @@
+- #[[creative thinking tool]] #[[critical thinking]]
+-

@@ -1,0 +1,7 @@
+- Types of notes that I write that are to be incorporated into projects and websites
+	-
+	- [[data visualization]]
+	- [[Map of Content]]
+	- [[infographic]]
+- See also: [[data types]]
+-

@@ -1,0 +1,10 @@
+-
+- personal responsibility
+- focus on mind training over ritual; decision-making
+- not heavy on organisational involvement, heirarchy or structures
+- cultivate direct connection and access with Source, rather than via a proxy or intermediary
+- [[FORCK]]
+- robust metaphysics and/or psychological framework
+- focus on mystical and inner experience over cultural and societal outer forms
+- financially free. Lifestyle agnostic. Not necessarily special diets, rituals etc. though many well-known practitioners may have followed particular regimes
+-

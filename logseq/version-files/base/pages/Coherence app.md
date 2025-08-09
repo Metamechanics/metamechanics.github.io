@@ -1,0 +1,134 @@
+alias::
+tags:: #project #app #myIdea #[[project management]] #software #[[software development]] #SQL 
+project:: [[WADS portfolio]] #[[WADS study]] 
+see-also::
+- Could/should this be a sub-app of DiaGnosis?
+-
+- Concept map is key -> Concept Gantt
+- Eisenhower matrix, with variations, customisation
+- Hierarchy
+- Principles
+- Choice of overarching philosophy?
+	- eg. Body-Mind-Spirit vs Spirit>Mind>Body vs Body-Brain vs custom vs none etc
+	- available frameworks then adjust based on this choice
+- Exemplars and templates
+- AI integration
+- Pomodoro options
+- Time-blocking
+- Background music, white noise
+- Daily, weekly, monthly, quarterly, annual timeframes
+- Dependencies
+	- time-based and non-time based options
+- Goal types
+	- SMART
+	- what-if ?
+- Views
+  collapsed:: true
+	- Gantt / timeline
+	- Swimlane
+	- Kanban
+	- Matrix
+	- Folder - sub-folder
+	- List
+	- Database/table
+	- Calendar
+	- Portfolio
+	- Project
+	- Filters
+	- People/alter-egos
+	- Cards (like Trello)
+	- Canvas; concept map
+- Metrics?
+  collapsed:: true
+	- KPI
+	- OKR
+	- business metrics
+	- $
+- Mobile first, desktop/web later
+- "Purpose is everything"
+	- Why? Ask why at each prompt?
+	- Ask for reflection: Does any sub-part actually not align with the top goal?
+	- inner purpose
+	- outer purpose
+- Psychology experts/app input
+- Comparison/competitor apps & services
+	- Global Coherence app, HearthMath institute
+	- The Complete App
+	- Momentum
+	- The major specific task/project management players
+	  collapsed:: true
+		- [72 Best Project Management Software of 2023 | Hive.com](https://hive.com/blog/project-management-software/)
+		- Todoist
+		- 2do
+		- Things
+		- Asana
+		- Nozbe
+		- Wrike
+		- Monday.com
+		- MeisterTask
+		- Casual
+			- visual task flow ie. dependencies
+		- Trello
+		- Basecamp
+		- Smartsheet
+		- Mavelink
+		- GanttPro
+		- TeamGantt
+		- Process Street
+		- Toggl
+		- nTask
+		- Nifty
+	- General tools used for Task & Project management
+	  collapsed:: true
+		- Notion
+		- Fibery
+		- AirTable
+		- Coda
+		- Miro
+- Integrations
+  collapsed:: true
+	- Xero
+	- Google Drive/iCloud/Dropbox/OneDrive et al
+	- Salesforce
+	- Hubspot
+	- Zoho
+	- Zapier
+	- Quickbooks
+- Customizable complexity
+  collapsed:: true
+	- Dates, or not
+	- Time-tracking, or not
+	- $, or not
+	- Team, or not
+- User sizes
+	- Solopreneur, sole operator
+	- Small team (2~3 people)
+	- Team (3 ~ 10 pax)
+	- Organisation (10 ~ 100)
+	- Enterprise (100+)
+		- how personal vision relates to company vision
+		- integrate HR and PDP
+		- pet project integration: how does/could this help the organization?
+			- add pitch/proposal templates
+		-
+- How does this replicate what is already done by teams?
+	- Milestones, goals, objectives
+	- KPIs
+	- Vision
+	- Scrum/agile/kanban terminology and ideas?
+-
+- Schema
+	- Vision
+	- Habits
+	- Product, sub-products (levels, scale)
+	- Inputs (time, energy, media, teammates)
+	- Outputs (product, service)
+	- Project
+	- Enterprise
+	- Identity, alter-egos, shadows
+	- Deliverables
+	- Attitudes/mindset
+	- InOS & OutOS
+- Tech stack
+	- SQlite
+	- Observable?

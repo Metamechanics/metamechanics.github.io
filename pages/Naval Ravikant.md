@@ -1,0 +1,3 @@
+-
+- [Almanack of Naval Ravikant](https://www.navalmanack.com/)
+-

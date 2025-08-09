@@ -1,0 +1,2 @@
+	The story of the world is the story of “more”. Money, power, security, food, control, time…and the search never ends. Much data on this already exists. Its a question of making sense of it. 
+Enough For All presents the data visually, drawing simple conclusions with logical consequences and deduction. The result:  a labyrinth of scarcity translated into an epic of enoughness.

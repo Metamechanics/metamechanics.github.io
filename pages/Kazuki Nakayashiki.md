@@ -1,0 +1,8 @@
+- #collaborator #Glasp #[[content Curation]] #digitalLegacy
+- [Building your digital legacy with Kazuki Nakayashiki, co-founder of Glasp](https://nesslabs.com/glasp-featured-tool)
+	- he has had an #NDEs
+	- actually, upon reading, it wasn't an NDE; in reality, in came close to death.
+- [Curation is the Next Search Engine | by Kazuki Nakayashiki | Medium](https://medium.com/@kazuki_sf_/curation-is-the-next-search-engine-a71eed3c9be1)
+- [How Can Everyone Leave Their Knowledge and Experiences for Future Generations? | by Kazuki Nakayashiki | Medium](https://medium.com/@kazuki_sf_/how-can-everyone-leave-their-knowledge-and-experiences-for-future-generations-6f9d560bd7d3)
+-
+-

@@ -1,0 +1,10 @@
+alias::
+URL::
+organisation::
+role:: #mystic  
+fields:: #spirituality #Christianity  
+publications-productions:: 
+tags:: person #unorthodox 
+project:: [[Inner Beginner]], [[Another M-Theory]] #freshAlts 
+public:: true
+-

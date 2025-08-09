@@ -1,0 +1,3 @@
+- Data privacy, cybersecurity
+- email assignment & alignment
+-

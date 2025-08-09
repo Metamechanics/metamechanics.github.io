@@ -1,0 +1,259 @@
+alias:: 
+tags:: #toStudy #toLearn #coding #[[computer programmer]] [[Data Science]]  
+project:: [[WADS]], [[DiaGnosis]], [[ACIM AI]], [[Metamechanical AI]], [[Metamechanic Mycelium]] 
+see-also:: #WADS #ICT #[[Software, Apps & Web Services I may use & learn]]
+
+- Wisdom Architecture & Data Science #DIKW
+- [I made a list of FREE sites and apps to learn programming : r/learnprogramming](https://www.reddit.com/r/learnprogramming/comments/syyhu6/i_made_a_list_of_free_sites_and_apps_to_learn/)
+-
+- [[Creating apps and software using AI]]
+-
+- #### Wads Study Streams
+  Many items overlap streams/areas
+- [[Front-end Development & Responsive Web Design]]
+	- HTML
+	- CSS
+	- Javascript
+	- Django
+	- Flask
+	- React
+	- NextJS
+	- Angular
+	- regex
+	- Git, Github
+	- [[Zed]] and/or [[Visual Studio Code]]
+- [[Data Science]]
+  collapsed:: true
+	- [[Quarto]]
+	- [[Observable Framework]]
+	- Python
+	- Javascript
+	- [[R]]
+	  collapsed:: true
+		- Rstudio
+		- R markdown
+	- Bookdown
+	- Excel
+	- Tableau
+	- [[Julia (computer language)]]
+- [[Coding with AI]]
+- [[Databases & Back-end development]]
+	- [[Neo4j]] & Cypher
+	- PostgreSQL
+	- [[SQL]]
+	- [[MongoDB]]
+	- [[Memgraph]]
+	- [[ArcadeDB]]
+	- [[SurrealDB]]
+- [[Coding for Knowledge Cartography]]
+	- XML
+	- GraphML
+	- JSON
+	- JSON canvas
+	- [[Argdown]]
+	- [[yFiles]]
+- [[no-code-low-code]]
+	- [[baserow]]
+	- tadabase.io
+- Metamechanic Mycelium
+  collapsed:: true
+	- Logseq
+		- + IDE ([[Visual Studio Code]] or [[Zed]] )
+		- SQlite
+		- Markdown
+		- collaboration
+	- Git
+	- [[Quarto]]
+		- need to make outline writing in Quarto
+	- [[Python]]
+	- [[Javascript]]
+	- [[Neo4j]] for database, or [[postgres]] with [[Apache AGE plugin]] for graph database?
+	- [[Jupyter notebook]]
+	- [[SQL]]
+	- [[yFiles]], yWorks
+	- [[Tableau]]
+	- [[Observable Framework]]
+	- [[D3.js]] as well for visualization?
+	- JSON for JSON Canvas?
+- ## Courses, Teaching sites & Learning programs
+	-
+	- Free & already purchased
+		- [[HarvardX CS50 family of courses]]
+		- [Dashboard | Khan Academy](https://en.khanacademy.org/profile/me/courses?learn=1) #toStudy
+		  collapsed:: true
+			- Introduction
+			  How This Course Will Work
+			- Introduction to Web Development
+			- Motivation and Mindset
+			- Asking For Help
+			- Join the Odin Community
+			- Prerequisites
+				- Computer Basics
+				- How Does the Web Work?
+				- Installation Overview
+				- Installations
+				- Text Editors
+				- Command Line Basics
+				- Setting up Git
+			- Git Basics
+				- Introduction to Git
+				- Git Basics
+			- HTML Foundations
+				- Introduction to HTML and CSS
+				- Elements and Tags
+				- HTML Boilerplate
+				- Working with Text
+				- Lists
+				- Links and Images
+				- Commit Messages
+				- Project: Recipes
+			- CSS Foundations
+				- Intro to CSS
+				- The Cascade
+				- Inspecting HTML and CSS
+				- The Box Model
+				- Block and Inline
+			- Flexbox
+				- Introduction to Flexbox
+				- Growing and Shrinking
+				- Axes
+				- Alignment
+				- Project: Landing Page
+			- JavaScript Basics
+				- Variables and Operators
+				- Data Types and Conditionals
+				- JavaScript Developer Tools
+				- Function Basics
+				- Problem Solving
+				- Understanding Errors
+				- Project: Rock Paper Scissors
+				- Clean Code
+				- Installing Node.js
+				- Arrays and Loops
+				- DOM Manipulation and Events
+				- Revisiting Rock Paper Scissors
+				- Project: Etch-a-Sketch
+				- Object Basics
+				- Project: Calculator
+			- Conclusion
+				- Choose Your Path Forward
+			-
+			-
+		- [[FreeCodeCamp]]
+		- [[The Odin Project]] for full stack #[[web development]] #html #css #Javascript #NodeJS #React-js #SQL
+			- [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+			  collapsed:: true
+				- Introduction
+				  How This Course Will Work
+				- Introduction to Web Development
+				- Motivation and Mindset
+				- Asking For Help
+				- Join the Odin Community
+				- Prerequisites
+					- Computer Basics
+					- How Does the Web Work?
+					- Installation Overview
+					- Installations
+					- Text Editors
+					- Command Line Basics
+					- Setting up Git
+				- Git Basics
+					- Introduction to Git
+					- Git Basics
+				- HTML Foundations
+					- Introduction to HTML and CSS
+					- Elements and Tags
+					- HTML Boilerplate
+					- Working with Text
+					- Lists
+					- Links and Images
+					- Commit Messages
+					- Project: Recipes
+				- CSS Foundations
+					- Intro to CSS
+					- The Cascade
+					- Inspecting HTML and CSS
+					- The Box Model
+					- Block and Inline
+				- Flexbox
+					- Introduction to Flexbox
+					- Growing and Shrinking
+					- Axes
+					- Alignment
+					- Project: Landing Page
+				- JavaScript Basics
+					- Variables and Operators
+					- Data Types and Conditionals
+					- JavaScript Developer Tools
+					- Function Basics
+					- Problem Solving
+					- Understanding Errors
+					- Project: Rock Paper Scissors
+					- Clean Code
+					- Installing Node.js
+					- Arrays and Loops
+					- DOM Manipulation and Events
+					- Revisiting Rock Paper Scissors
+					- Project: Etch-a-Sketch
+					- Object Basics
+					- Project: Calculator
+				- Conclusion
+					- Choose Your Path Forward
+				-
+				-
+		- [Pirple - My Courses](https://www.pirple.com/enrollments) already purchased!
+		- Freemium
+			- [[SoloLearn]]
+		- Premium
+			- [[Treehouse]]
+		- Advanced only
+			- [[Exercism]] - intermediate to advanced
+			- [[boot.dev]]
+		- [[CodeAcademy]]
+		- [[The R project]]
+		- [[hackr.io]]
+		- [[Datacamp]]
+		- [[FreeCodeCamp]]
+		- [[Codedex]]
+		- [[Enki app]]
+		- [[CodeAcademy]]
+		- [[Kaggle]]
+	- Mobile
+		- MIMO
+		  collapsed:: true
+			- full stack developer
+			  collapsed:: true
+				- intro to web development
+				- react
+				- sql
+			- python developer
+			- back-end developer
+			- front-end developer
+			- USD$100 per year
+		- Encode
+		  collapsed:: true
+			- Python
+			- Web
+			- SQL
+			- Javascript
+			- Swift
+			- Command Line
+			- R
+			- Java
+			- USD$60 / year
+			-
+		- CodeAcademy
+		- Enki
+			- Data Science focus
+				- python
+				- git
+				- javascript
+			- USD4$/month
+			-
+- ## Learning Projects
+	- [[Compound Interest Calculator project]]
+	- Project: [[Cloud Atlas storyline website]]
+	- Project: [[Secure Romance]]
+	- [[Helpful Home Solutions website]]
+-
+-
