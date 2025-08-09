@@ -1,8 +1,7 @@
 alias::
 tags:: 
 rel-projects:: [[AMT hyperbook]], [[Metamechanica]] 
-parent-notes::
-child-notes::
+
 -
 - Why? Why should this be the case?
 - The observer must be part of the observed, if we are talking about 'everything'. These are not theories of "everything but me and my observation process"

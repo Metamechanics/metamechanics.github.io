@@ -2,7 +2,7 @@
 -
 title:: Love Has Forgotten No One (highlights)
 author:: [[Gary Renard]]
-category:: #books
+
 - ![](https://images-na.ssl-images-amazon.com/images/I/417ZN8KIONL._SL200_.jpg){:height 208, :width 134}
 - Highlights first synced by [[Readwise]] [[08-01-2023]]
 	- and ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00EA8UEZ4&location=202))

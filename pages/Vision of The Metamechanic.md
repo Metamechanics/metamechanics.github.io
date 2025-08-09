@@ -2,9 +2,10 @@ alias:: Mission Phoenix Vision, MPV, VPM
 tags:: #toWrite #claude-ai #[[AI prompt]] 
 rel-projects:: #[[The Metamechanic]] #allProjects 
 see-also::
-comments:: This is for my reference but also as universal AI-assistant guide
+
 - Notes to self
   collapsed:: true
+    - This is for my reference but also as universal AI-assistant guide
 	- integrate and link to my existing notes on this topic here, but don't embed; this needs to be a stand-alone document for AI upload.
 	- unify
 - ## Purpose of this document
